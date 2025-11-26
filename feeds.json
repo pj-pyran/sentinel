@@ -1,0 +1,7 @@
+{
+  "feeds": [
+    "https://www.reuters.com/rssFeed/worldNews",
+    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "https://feeds.bbci.co.uk/news/world/rss.xml"
+  ]
+}
