@@ -16,20 +16,31 @@
     <input type="text" id="search" placeholder="Search…" />
   </header>
 
-  <main id="feed" class="feed"></main>
   <section id="filter-panel">
     <h2>Sources</h2>
-    <label><input type="checkbox" class="source-filter" value="Al Jazeera" checked> Al Jazeera</label>
-    <label><input type="checkbox" class="source-filter" value="The New Humanitarian" checked> The New Humanitarian</label>
-    <label><input type="checkbox" class="source-filter" value="AJ+" checked> AJ+</label>
+    <div id="filter-container"></div>
   </section>
 
-  <main class="feed" id="feed"></main>
+  <main id="feed" class="feed"></main>
 
   <footer class="footer">
     Sentinel · Prototype
   </footer>
 
-  <script src="app.js"></script>
+  <script>
+    // Load articles data
+    fetch('public/data/articles.json')
+      .then(response => response.json())
+      .then(data => {
+        window.ARTICLES = data;
+        // Dispatch event so app.js knows data is ready
+        window.dispatchEvent(new Event('articlesLoaded'));
+        // Initialize the app after articles are loaded
+        const script = document.createElement('script');
+        script.src = 'app.js';
+        document.body.appendChild(script);
+      })
+      .catch(error => console.error('Error loading articles:', error));
+  </script>
 </body>
 </html>
