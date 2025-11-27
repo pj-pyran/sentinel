@@ -14,10 +14,10 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install feedparser requests
-      - name: Pull latest changes
-        run: git pull origin main --rebase
       - run: python script_update_live.py
       # - run: python script_archive.py
+      - name: Pull latest changes
+        run: git pull origin main --rebase
       - name: Commit and push
         run: |
           git config user.name "github-actions"
