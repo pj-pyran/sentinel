@@ -14,6 +14,8 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install feedparser requests
+      - name: Pull latest changes
+        run: git pull origin main --rebase
       - run: python script_update_live.py
       # - run: python script_archive.py
       - name: Commit and push
@@ -21,5 +23,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add public/data/articles.json
-          git commit -m "Auto update feed"
-          git push
+          git commit -m "Auto update feed" || echo "Nothing to commit"
+          git push origin main
