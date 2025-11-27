@@ -1,35 +1,45 @@
-fetch("./public/data/articles.json")
-  .then(res => res.json())
-  .then(renderFeed);
+const feedContainer = document.getElementById("feed");
+const searchInput = document.getElementById("search");
+const filters = document.querySelectorAll(".source-filter");
 
-const feed = document.getElementById("feed");
-const search = document.getElementById("search");
-let articles = [];
+let articles = window.ARTICLES || []; // your fetched feed results
 
-function renderFeed(data) {
-  articles = data;
-  draw(articles);
+function renderFeed() {
+  const searchTerm = searchInput.value.toLowerCase();
 
-  search.addEventListener("input", (e) => {
-    const q = e.target.value.toLowerCase();
-    const filtered = articles.filter(a =>
-      a.title.toLowerCase().includes(q) ||
-      (a.source && a.source.toLowerCase().includes(q))
-    );
-    draw(filtered);
+  const activeSources = [...filters]
+    .filter(f => f.checked)
+    .map(f => f.value);
+
+  const filtered = articles.filter(item => {
+    const matchesSource = activeSources.includes(item.source);
+    const matchesSearch =
+      item.title.toLowerCase().includes(searchTerm) ||
+      item.summary?.toLowerCase().includes(searchTerm) ||
+      item.source.toLowerCase().includes(searchTerm);
+
+    return matchesSource && matchesSearch;
   });
-}
 
-function draw(list) {
-  feed.innerHTML = "";
-  list.forEach(a => {
-    const el = document.createElement("article");
-    el.className = "article";
-    el.innerHTML = `
-      <div class="article-title">${a.title}</div>
-      <div class="article-meta">${a.source || "Unknown source"} • ${a.date || ""}</div>
+  feedContainer.innerHTML = "";
+
+  filtered.forEach(item => {
+    const article = document.createElement("div");
+    article.className = "article";
+
+    article.innerHTML = `
+      <p class="article-meta">${item.source} — ${item.date}</p>
+      <h2 class="article-title">${item.title}</h2>
     `;
-    el.onclick = () => window.open(a.url, "_blank");
-    feed.appendChild(el);
+
+    article.addEventListener("click", () => window.open(item.link));
+    feedContainer.appendChild(article);
   });
 }
+
+// event listeners
+searchInput.addEventListener("input", renderFeed);
+filters.forEach(filter => filter.addEventListener("change", renderFeed));
+
+// first run
+renderFeed();
