@@ -1,0 +1,88 @@
+:root {
+  --bg: #0f0f0f;
+  --fg: #f1f1f1;
+  --accent: #ff4d4d;
+  --muted: #888;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  line-height: 1.5;
+  padding-bottom: 4rem;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem;
+  border-bottom: 1px solid #222;
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 2;
+}
+
+.topbar h1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+#search {
+  padding: 0.6rem 0.9rem;
+  border-radius: 6px;
+  border: 1px solid #333;
+  background: #1a1a1a;
+  color: var(--fg);
+  width: 220px;
+}
+
+.feed {
+  padding: 1.5rem;
+  max-width: 900px;
+  margin: auto;
+  display: grid;
+  gap: 1rem;
+}
+
+.article {
+  background: #1a1a1a;
+  padding: 1.2rem;
+  border-radius: 8px;
+  transition: border 0.2s ease;
+  border: 1px solid #222;
+  cursor: pointer;
+}
+
+.article:hover {
+  border: 1px solid var(--accent);
+}
+
+.article-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+.article-meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.footer {
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}

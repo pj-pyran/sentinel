@@ -1,9 +1,22 @@
 <!DOCTYPE html>
-<html>
-<head><title>Sentinel</title></head>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sentinel</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
 <body>
-<h1>Loading feed…</h1>
-<div id="articles"></div>
-<script src="app.js"></script>
+  <header class="topbar">
+    <h1>Sentinel</h1>
+    <input id="search" placeholder="Filter headlines…" />
+  </header>
+
+  <main id="feed" class="feed"></main>
+
+  <footer class="footer">
+    <span>Powered by open feeds + questionable ambition.</span>
+  </footer>
+
+  <script src="app.js"></script>
 </body>
 </html>
