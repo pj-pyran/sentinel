@@ -2,6 +2,24 @@
   "feeds": [
     "https://www.reuters.com/rssFeed/worldNews",
     "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "https://feeds.bbci.co.uk/news/world/rss.xml"
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "http://www.thenewhumanitarian.org/rss/all.xml",
+    "https://www.ajplus.net/rss",
+    "https://globalvoices.org/feeds/world.rss",
+    "https://www.france24.com/en/rss-feed/all.xml",
+    "https://www.chathamhouse.org/rss-feeds",
+    "https://www.globalissues.org/news/feed",
+    "https://reliefweb.int/updates/rss",
+    "https://www.crisisgroup.org/rss-0",
+    "https://hotosm.org/feed.xml",
+    "https://www.e-ir.info/feed",
+    "https://www.worldpoliticsreview.com/feed/",
+    "https://time.com/feed/",
+    "https://www.worldvision.org/news-stories/feed.xml",
+    "https://humanicontrarian.com/feed",
+    "https://globalpressjournal.com/feed/",
+    "https://www.rand.org/topics/international-affairs.xml/feed",
+    "https://www.theguardian.com/world/rss"
   ]
 }
