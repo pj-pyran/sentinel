@@ -21,14 +21,12 @@ jobs:
           python-version: "3.11"
 
       - run: pip install feedparser requests
-      - name: Pull latest changes
-        run: git pull origin main --rebase
       - run: python script_update_live.py
       # - run: python script_archive.py
-      
+      - name: Stash local changes
+        run: git stash --include-untracked
       - name: Pull latest changes
         run: git pull origin main --rebase
-      
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
