@@ -5,14 +5,21 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - run: pip install feedparser requests
       - run: python script_update_live.py
       # - run: python script_archive.py
@@ -20,8 +27,8 @@ jobs:
         run: git pull origin main --rebase
       - name: Commit and push
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data/articles.json
           git commit -m "Auto update feed" || echo "Nothing to commit"
           git push origin main
