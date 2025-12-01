@@ -6,6 +6,7 @@ import re
 # Configuration
 DATA_PATH = Path("public/data/articles.json")
 METADATA_PATH = Path("feeds_metadata.json")
+FEEDBACK_PATH = Path("public/data/tag_feedback.json")
 
 # Stop words to filter out
 STOP_WORDS = {
@@ -81,6 +82,15 @@ def load_source_metadata():
             return json.load(f)
     return {}
 
+def load_tag_feedback():
+    """Load user feedback on tags"""
+    if FEEDBACK_PATH.exists():
+        with open(FEEDBACK_PATH, encoding='utf-8') as f:
+            data = json.load(f)
+            # Filter out schema documentation
+            return {k: v for k, v in data.items() if not k.startswith('_')}
+    return {}
+
 def extract_locations_simple(text):
     """Simple location extraction using common country/region names"""
     locations = []
@@ -153,8 +163,17 @@ def extract_themes(text):
     
     return themes
 
-def classify_article(article, source_metadata):
+def classify_article(article, source_metadata, feedback_data):
     """Apply all classification methods to an article"""
+    article_id = article.get("link", "")
+    
+    # Check if user has provided corrected tags for this article
+    if article_id in feedback_data:
+        feedback = feedback_data[article_id]
+        if "corrected" in feedback and feedback["corrected"]:
+            # Use human-corrected tags directly
+            return feedback["corrected"]
+    
     # Combine title and summary for analysis (clean HTML once)
     text = f"{article.get('title', '')} {article.get('summary', '')}"
     text = re.sub(r'<[^>]+>', ' ', text)  # Remove HTML tags once
@@ -181,20 +200,28 @@ def classify_article(article, source_metadata):
         for tag in source_metadata[source].get("tags", []):
             tags[tag] = None
     
-    # Return as list, preserving priority order
-    return list(tags.keys())
+    auto_tags = list(tags.keys())
+    
+    # Filter out rejected tags if user feedback exists
+    if article_id in feedback_data:
+        feedback = feedback_data[article_id]
+        rejected = set(feedback.get("rejected", []))
+        auto_tags = [t for t in auto_tags if t not in rejected]
+    
+    return auto_tags
 
 def main():
     # Load articles
     with open(DATA_PATH, encoding='utf-8') as f:
         articles = json.load(f)
     
-    # Load source metadata
+    # Load source metadata and user feedback
     source_metadata = load_source_metadata()
+    feedback_data = load_tag_feedback()
     
     # Classify each article
     for article in articles:
-        tags = classify_article(article, source_metadata)
+        tags = classify_article(article, source_metadata, feedback_data)
         article["tags"] = tags
     
     # Save updated articles

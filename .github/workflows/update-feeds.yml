@@ -37,7 +37,7 @@ jobs:
       
       - name: Commit updates
         run: |
-          git add public/data/articles.json public/data/history.db
+          git add public/data/articles.json public/data/history.db public/data/tag_feedback.json
           git commit -m "Auto update feed" || echo "No changes to commit"
       
       - name: Create or update pull request

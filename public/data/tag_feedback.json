@@ -1,0 +1,11 @@
+{
+  "_comment": "Tag feedback storage. Key = article link (ID), value = feedback object",
+  "_schema": {
+    "article_link": {
+      "approved": ["Tag1", "Tag2"],
+      "rejected": ["BadTag"],
+      "corrected": ["Tag1", "Tag2", "Tag3"],
+      "timestamp": "ISO 8601 datetime"
+    }
+  }
+}
