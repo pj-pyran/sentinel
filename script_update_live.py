@@ -2,6 +2,24 @@ import json
 import feedparser
 import requests
 from datetime import datetime
+from email.utils import parsedate_to_datetime
+
+
+def normalize_published_date(date_str):
+    """Convert RSS date string to clean UTC format: 'Wed, 26 Nov 2025 19:32'"""
+    if not date_str:
+        return datetime.utcnow().strftime("%a, %d %b %Y %H:%M")
+    
+    try:
+        # Parse RFC 2822 date (handles +0000, GMT, etc.)
+        dt = parsedate_to_datetime(date_str)
+        # Convert to UTC
+        dt_utc = dt.utctimetuple()
+        # Format without seconds or timezone
+        return datetime(*dt_utc[:6]).strftime("%a, %d %b %Y %H:%M")
+    except (ValueError, TypeError):
+        # Fallback if parsing fails
+        return datetime.utcnow().strftime("%a, %d %b %Y %H:%M")
 
 def load_feed_list(path="feeds.json"):
     with open(path) as f:
@@ -63,7 +81,7 @@ def main():
                 "title": entry.get("title"),
                 "link": link,
                 "source": feed_title,
-                "published": entry.get("published", datetime.utcnow().isoformat())
+                "published": normalize_published_date(entry.get("published"))
             })
 
     # sort by published if possible (best-effort)
