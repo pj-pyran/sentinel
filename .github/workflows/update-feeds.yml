@@ -102,13 +102,19 @@ jobs:
         run: |
           git add .
           git commit -m "Auto update feed" || echo "No changes to commit"
+          git push origin
 
       - name: Create or update pull request
         id: create_pr
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: auto-update-feeds
+          branch: main
           title: "Auto update feed"
           body: "Automated feed updates from workflow"
           labels: automated
+            
+      - name: Update the branch
+        run: |
+          git switch main
+          git pull origin main
