@@ -109,7 +109,7 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: auto-update-feeds
           title: "Auto update feed"
           body: "Automated feed updates from workflow"
           labels: automated
@@ -118,7 +118,7 @@ jobs:
         if: steps.create_pr.outputs.pull-request-operation == 'created'
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
           merge-method: squash
       
