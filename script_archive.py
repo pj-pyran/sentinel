@@ -7,20 +7,51 @@ DATA_PATH = "public/data/articles.json"
 conn = sqlite3.connect(DB_PATH)
 cur = conn.cursor()
 
-# create table if not exists
-cur.execute("""
-CREATE TABLE IF NOT EXISTS articles (
-    id TEXT PRIMARY KEY,
-    title TEXT NOT NULL,
-    link TEXT NOT NULL,
-    source TEXT NOT NULL,
-    published_str TEXT,
-    published_dt INTEGER,
-    first_seen_dt INTEGER NOT NULL,
-    last_seen_dt INTEGER NOT NULL,
-    hash TEXT NOT NULL UNIQUE
-)
-""")
+# Check if migration is needed
+cur.execute("PRAGMA table_info(articles)")
+columns = {row[1] for row in cur.fetchall()}
+
+if 'first_seen' in columns:  # Old schema detected
+    # Migrate to new schema
+    cur.execute("""
+    CREATE TABLE articles_new (
+        id TEXT PRIMARY KEY,
+        title TEXT NOT NULL,
+        link TEXT NOT NULL,
+        source TEXT NOT NULL,
+        published_str TEXT,
+        published_dt INTEGER,
+        first_seen_dt INTEGER NOT NULL,
+        last_seen_dt INTEGER NOT NULL,
+        hash TEXT NOT NULL UNIQUE
+    )
+    """)
+    
+    # Copy data, converting text dates to timestamps
+    cur.execute("""
+    INSERT INTO articles_new (id, title, link, source, published_str, published_dt, first_seen_dt, last_seen_dt, hash)
+    SELECT id, title, link, source, published, NULL, 
+           strftime('%s', first_seen), strftime('%s', last_seen), hash
+    FROM articles
+    """)
+    
+    cur.execute("DROP TABLE articles")
+    cur.execute("ALTER TABLE articles_new RENAME TO articles")
+else:
+    # Create table with new schema if it doesn't exist
+    cur.execute("""
+    CREATE TABLE IF NOT EXISTS articles (
+        id TEXT PRIMARY KEY,
+        title TEXT NOT NULL,
+        link TEXT NOT NULL,
+        source TEXT NOT NULL,
+        published_str TEXT,
+        published_dt INTEGER,
+        first_seen_dt INTEGER NOT NULL,
+        last_seen_dt INTEGER NOT NULL,
+        hash TEXT NOT NULL UNIQUE
+    )
+    """)
 
 now = int(datetime.datetime.utcnow().timestamp())
 
