@@ -136,16 +136,38 @@ export class FeedsTab {
   }
 
   async rejectTag(articleLink, tag, btnEl) {
-    // Show inline correction input
     const tagEl = btnEl.parentElement;
-    const correction = prompt(`Tag "${tag}" marked incorrect. Enter correct tags (comma-separated):`, tag);
     
-    if (correction !== null) {
-      const correctedTags = correction.split(',').map(t => t.trim()).filter(t => t);
-      
-      // Visual feedback
-      btnEl.textContent = '❌';
-      btnEl.disabled = true;
+    // Check if correction input already exists
+    if (tagEl.querySelector('.tag-correction-input')) return;
+    
+    // Disable buttons immediately
+    btnEl.textContent = '❌';
+    btnEl.disabled = true;
+    tagEl.querySelector('.tag-approve').disabled = true;
+    
+    // Create inline correction input
+    const correctionBox = document.createElement('div');
+    correctionBox.className = 'tag-correction-box';
+    correctionBox.innerHTML = `
+      <input type="text" class="tag-correction-input" placeholder="Enter correct tags (comma-separated)" value="${tag}" />
+      <button class="tag-correction-save">Save</button>
+      <button class="tag-correction-cancel">Cancel</button>
+    `;
+    
+    tagEl.appendChild(correctionBox);
+    
+    const input = correctionBox.querySelector('.tag-correction-input');
+    const saveBtn = correctionBox.querySelector('.tag-correction-save');
+    const cancelBtn = correctionBox.querySelector('.tag-correction-cancel');
+    
+    // Focus input
+    input.focus();
+    input.select();
+    
+    // Handle save
+    saveBtn.addEventListener('click', async () => {
+      const correctedTags = input.value.split(',').map(t => t.trim()).filter(t => t);
       
       // Save feedback
       await this.saveFeedback(articleLink, { 
@@ -161,7 +183,24 @@ export class FeedsTab {
       } else {
         tagEl.remove();
       }
-    }
+    });
+    
+    // Handle cancel
+    cancelBtn.addEventListener('click', () => {
+      correctionBox.remove();
+      btnEl.textContent = '👎';
+      btnEl.disabled = false;
+      tagEl.querySelector('.tag-approve').disabled = false;
+    });
+    
+    // Handle Enter key
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        saveBtn.click();
+      } else if (e.key === 'Escape') {
+        cancelBtn.click();
+      }
+    });
   }
 
   async saveFeedback(articleLink, feedback) {
