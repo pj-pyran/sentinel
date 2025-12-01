@@ -12,9 +12,10 @@
 
   <header class="topbar">
     <h1>Sentinel</h1>
-    <!-- <input id="search" placeholder="Filter headlines…" /> -->
     <input type="text" id="search" placeholder="Search…" />
   </header>
+
+  <div id="tab-bar" class="tab-bar"></div>
 
   <section id="filter-panel">
     <h2>Sources</h2>
@@ -37,6 +38,7 @@
         window.dispatchEvent(new Event('articlesLoaded'));
         // Initialize the app after articles are loaded
         const script = document.createElement('script');
+        script.type = 'module';
         script.src = 'app.js';
         document.body.appendChild(script);
       })
