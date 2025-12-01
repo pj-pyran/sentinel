@@ -21,16 +21,16 @@
 #         with:
 #           python-version: "3.11"
 
-#       - run: pip install feedparser requests
-#       - run: python script_update_live.py
-#       # - run: python script_archive.py
-#       - name: Stash local changes
-#         run: git stash --include-untracked
-#       - name: Pull latest changes
-#         run: git pull origin main --rebase
-#       - name: Restore stashed changes
-#         run: git stash pop || true
-#       - name: Commit files
+      # - run: pip install feedparser requests
+      # - run: python script_update_live.py
+      # # - run: python script_archive.py
+      # - name: Stash local changes
+      #   run: git stash --include-untracked
+      # - name: Pull latest changes
+      #   run: git pull origin main --rebase
+      # - name: Restore stashed changes
+      #   run: git stash pop || true
+      # - name: Commit files
 #         run: |
 #           git config user.name "github-actions[bot]"
 #           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -88,6 +88,7 @@ jobs:
         with:
           python-version: '3.x'
 
+      - run: pip install feedparser requests
       - name: Run feed update script
         run: |
           python3 script_update_live.py
