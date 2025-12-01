@@ -65,10 +65,14 @@ for entry in items:
     cur.execute("SELECT id FROM articles WHERE hash = ?", (h,))
     exists = cur.fetchone()
 
+    # Get tags (from classification step)
+    tags = entry.get("tags", [])
+    tags_json = json.dumps(tags)
+    
     if exists:
         cur.execute(
-            "UPDATE articles SET last_seen_dt=? WHERE hash=?",
-            (now, h)
+            "UPDATE articles SET last_seen_dt=?, tags=? WHERE hash=?",
+            (now, tags_json, h)
         )
     else:
         # Parse published date string to timestamp
@@ -82,8 +86,8 @@ for entry in items:
                 pass  # Keep as None if parsing fails
         
         cur.execute("""
-            INSERT INTO articles (id, title, link, source, published_str, published_dt, first_seen_dt, last_seen_dt, hash)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            INSERT INTO articles (id, title, link, source, published_str, published_dt, first_seen_dt, last_seen_dt, tags, hash)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             uid,
             entry.get("title"),
@@ -93,6 +97,7 @@ for entry in items:
             published_dt,
             now,
             now,
+            tags_json,
             h
         ))
 

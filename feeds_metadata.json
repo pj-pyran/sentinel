@@ -1,0 +1,32 @@
+{
+  "ReliefWeb": {
+    "tags": ["Humanitarian"]
+  },
+  "The New Humanitarian": {
+    "tags": ["Humanitarian", "Crisis"]
+  },
+  "UNHCR": {
+    "tags": ["Refugees", "Humanitarian"]
+  },
+  "ICRC": {
+    "tags": ["Conflict", "Humanitarian", "Protection"]
+  },
+  "OCHA": {
+    "tags": ["Humanitarian", "Coordination"]
+  },
+  "WFP": {
+    "tags": ["Food Security", "Humanitarian"]
+  },
+  "UNICEF": {
+    "tags": ["Children", "Humanitarian"]
+  },
+  "MSF": {
+    "tags": ["Health", "Humanitarian"]
+  },
+  "Human Rights Watch": {
+    "tags": ["Protection", "Rights"]
+  },
+  "Amnesty International": {
+    "tags": ["Protection", "Rights"]
+  }
+}

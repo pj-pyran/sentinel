@@ -73,7 +73,7 @@ export class FeedsTab {
       article.className = 'article';
 
       article.innerHTML = `
-        <p class="article-meta">${item.source} — ${item.published}</p>
+        <p class="article-meta">${item.source} – ${item.published}</p>
         <h2 class="article-title">${item.title}</h2>
       `;
 

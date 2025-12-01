@@ -81,6 +81,7 @@ def main():
                 "title": entry.get("title"),
                 "link": link,
                 "source": feed_title,
+                "summary": entry.get("summary", ""),
                 "published": normalize_published_date(entry.get("published"))
             })
 
