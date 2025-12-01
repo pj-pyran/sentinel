@@ -90,8 +90,7 @@ jobs:
 
       - name: Run feed update script
         run: |
-          # (your existing feed update script/commands)
-          python3 scripts/update_feeds.py
+          python3 script_update_live.py
 
       - name: Configure git
         run: |
