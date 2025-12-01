@@ -6,10 +6,8 @@ BEGIN TRANSACTION;
 -- Add tags column (stores JSON array of strings)
 ALTER TABLE articles ADD COLUMN tags TEXT DEFAULT '[]';
 
--- Index for tag searches (requires json_each)
-CREATE INDEX IF NOT EXISTS idx_tags ON articles((
-    SELECT 1 FROM json_each(tags) LIMIT 1
-));
+-- Index for tag column (simple index on the JSON text)
+CREATE INDEX IF NOT EXISTS idx_tags ON articles(tags);
 
 -- Update view to include tags
 DROP VIEW IF EXISTS articles_readable;
@@ -28,6 +26,6 @@ SELECT
 FROM articles;
 
 -- Record schema version
-INSERT INTO schema_version(version) VALUES ('003');
+INSERT INTO schema_version(version) VALUES ('0003');
 
 COMMIT;
