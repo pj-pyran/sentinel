@@ -1,6 +1,6 @@
 import json, sqlite3, hashlib, datetime
 
-DB_PATH = "data/history.db"
+DB_PATH = "public/data/history.db"
 DATA_PATH = "public/data/articles.json"
 
 conn = sqlite3.connect(DB_PATH)
