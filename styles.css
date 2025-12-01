@@ -103,6 +103,40 @@ body {
   color: var(--muted);
 }
 
+.tab-bar {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.8rem 1.2rem;
+  border-bottom: 1px solid #222;
+  background: var(--bg);
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: var(--font-ui);
+}
+
+.tab-button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #333;
+  background: #1a1a1a;
+  color: var(--fg);
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.tab-button:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.tab-button.active {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
+
 #filter-panel {
   max-width: 900px;
   margin: 0 auto 1.5rem auto;
@@ -128,4 +162,10 @@ body {
 
 #filter-panel input[type="checkbox"] {
   margin-right: 0.5rem;
+}
+
+.tab-content {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
 }
