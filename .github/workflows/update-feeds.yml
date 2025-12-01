@@ -102,6 +102,7 @@ jobs:
         run: |
           git add .
           git commit -m "Auto update feed" || echo "No changes to commit"
+          git push origin
 
       - name: Create or update pull request
         id: create_pr
@@ -112,3 +113,16 @@ jobs:
           title: "Auto update feed"
           body: "Automated feed updates from workflow"
           labels: automated
+      
+      - name: Enable Pull Request Automerge
+        if: steps.create_pr.outputs.pull-request-operation == 'created'
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
+          merge-method: squash
+      
+      - name: Update the branch
+        run: |
+          git switch main
+          git pull origin main
