@@ -29,10 +29,31 @@ jobs:
         run: git pull origin main --rebase
       - name: Restore stashed changes
         run: git stash pop || true
-      - name: Commit and push
+      - name: Commit files
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/articles.json
-          git commit -m "Auto update feed" || echo "Nothing to commit"
-          git push origin main
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto update feed" || echo "No changes to commit"
+
+      - name: Push update branch
+        run: |
+          BRANCH="auto-update-feeds"
+          git push origin HEAD:refs/heads/${BRANCH} --force
+      - name: Create pull request
+        id: create_pr
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto-update-feeds
+          title: "Auto update feed"
+          body: "Automated feed updates from workflow"
+          labels: automated
+          commit-message: "Auto update feed"
+          # do not set "maintainer_can_modify" unless you want maintainers to push to the branch
+      - name: Enable auto-merge
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
+          merge-method: squash
