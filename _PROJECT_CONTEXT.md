@@ -42,9 +42,9 @@ RSS Feeds → script_update_live.py (fetch & normalize)
 src/
   tabs/
     tabManager.js     - Tab coordinator
-    feeds.js          - Main feed display with tag UI
-    analytics.js      - Placeholder
-    map.js            - Placeholder
+    feeds.js          - Main feed display with tag UI (👍 ± buttons)
+    analytics.js      - Placeholder for stats/charts
+    map.js            - Mapbox GL JS map with location detection
   components/         - Reusable UI components
   utils/
     helpers.js        - Filtering, deduplication
@@ -72,10 +72,11 @@ src/
 - `migrate.py`: Applies versioned migrations from `sql/migrations/`
 
 ### Frontend
-- `index.html`: Main entry point, loads `articles.json`
+- `index.html`: Main entry point, loads `articles.json` and Mapbox GL JS
 - `app.js`: Initializes TabManager
 - `src/tabs/feeds.js`: Article rendering with tag feedback UI (👍 ± buttons)
-- `styles.css`: Dark theme, tag styling
+- `src/tabs/map.js`: Mapbox map with dark theme, detects location tags from articles
+- `styles.css`: Dark theme, tag styling, map container styling
 
 ### Configuration
 - `feeds.json`: List of RSS feed URLs (some dead: Reuters 401, GlobalVoices 404, France24 404)
@@ -99,13 +100,15 @@ src/
 ✅ GitHub Actions workflow with PR auto-merge
 ✅ Flask API structure (not yet deployed)
 ✅ Inline tag editor with ± button (Enter to save, Esc to cancel)
+✅ Mapbox GL JS map tab with dark theme and location detection
 
 ### Pending Work
 ⏳ Deploy Flask API to Render
 ⏳ Update `src/tabs/feeds.js` line 173 with deployed API URL
 ⏳ Learning script to extract patterns from tag_feedback.json
 ⏳ Analytics tab implementation (SQL queries in `sql/analytics_queries.sql`)
-⏳ Map visualization tab
+⏳ Add geocoding service to map tab (convert location names → coordinates)
+⏳ Add article markers and clustering to map
 ⏳ Clean up dead RSS feeds in feeds.json
 
 ## Known Issues
