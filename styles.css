@@ -192,7 +192,7 @@ body {
 }
 
 .tag-approve,
-.tag-reject {
+.tag-modify {
   background: none;
   border: none;
   cursor: pointer;
@@ -202,18 +202,32 @@ body {
   transition: opacity 0.2s;
 }
 
-.tag-approve:hover {
-  opacity: 1;
-}
-
-.tag-reject:hover {
+.tag-approve:hover,
+.tag-modify:hover {
   opacity: 1;
 }
 
 .tag-approve:disabled,
-.tag-reject:disabled {
+.tag-modify:disabled {
   opacity: 1;
   cursor: default;
+}
+
+.tag-add {
+  background: none;
+  border: 1px solid #444;
+  border-radius: 4px;
+  padding: 0.3rem 0.6rem;
+  color: #999;
+  font-size: 0.85rem;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  transition: all 0.2s;
+}
+
+.tag-add:hover {
+  border-color: #666;
+  color: #ddd;
 }
 
 .tag-corrected {
@@ -224,58 +238,35 @@ body {
   font-size: 0.85rem;
 }
 
-/* Tag correction input box */
-.tag-correction-box {
+/* Tag editor */
+.tag-editor {
   display: flex;
-  gap: 0.4rem;
-  margin-top: 0.5rem;
+  flex-direction: column;
+  gap: 0.3rem;
   padding: 0.6rem;
   background: #1a1a1a;
-  border: 1px solid #444;
+  border: 1px solid #555;
   border-radius: 4px;
 }
 
-.tag-correction-input {
-  flex: 1;
-  padding: 0.4rem 0.6rem;
+.tag-editor-input {
+  width: 100%;
+  padding: 0.5rem 0.7rem;
   background: #2a2a2a;
-  border: 1px solid #555;
+  border: 1px solid #666;
   border-radius: 3px;
   color: #ddd;
   font-family: var(--font-ui);
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }
 
-.tag-correction-input:focus {
+.tag-editor-input:focus {
   outline: none;
-  border-color: #777;
+  border-color: #888;
 }
 
-.tag-correction-save,
-.tag-correction-cancel {
-  padding: 0.4rem 0.8rem;
-  border: none;
-  border-radius: 3px;
-  font-size: 0.85rem;
-  cursor: pointer;
+.tag-editor-hint {
+  font-size: 0.75rem;
+  color: #666;
   font-family: var(--font-ui);
-  transition: background 0.2s;
-}
-
-.tag-correction-save {
-  background: #2d7a2d;
-  color: white;
-}
-
-.tag-correction-save:hover {
-  background: #3a9a3a;
-}
-
-.tag-correction-cancel {
-  background: #444;
-  color: #ddd;
-}
-
-.tag-correction-cancel:hover {
-  background: #555;
 }
