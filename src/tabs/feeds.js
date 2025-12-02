@@ -77,14 +77,17 @@ export class FeedsTab {
         `<span class="tag" data-link="${item.link}" data-tag="${tag}">
           ${tag}
           <button class="tag-approve" title="Approve tag">👍</button>
-          <button class="tag-reject" title="Reject tag">👎</button>
+          <button class="tag-modify" title="Modify tags">±</button>
         </span>`
       ).join('');
 
       article.innerHTML = `
         <p class="article-meta">${item.source} – ${item.published}</p>
         <h2 class="article-title">${item.title}</h2>
-        ${tagsHtml ? `<div class="article-tags">${tagsHtml}</div>` : ''}
+        <div class="article-tags" data-link="${item.link}">
+          ${tagsHtml}
+          <button class="tag-add" title="Add/modify tags">± Add tags</button>
+        </div>
       `;
 
       // Make title clickable
@@ -116,14 +119,25 @@ export class FeedsTab {
       });
     });
 
-    // Handle reject buttons
-    articleEl.querySelectorAll('.tag-reject').forEach(btn => {
+    // Handle modify buttons on individual tags
+    articleEl.querySelectorAll('.tag-modify').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.stopPropagation();
         const tag = btn.parentElement.dataset.tag;
-        this.rejectTag(item.link, tag, btn);
+        const tagsContainer = articleEl.querySelector('.article-tags');
+        this.showTagEditor(item.link, tagsContainer, [tag]);
       });
     });
+
+    // Handle add tags button
+    const addBtn = articleEl.querySelector('.tag-add');
+    if (addBtn) {
+      addBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const tagsContainer = articleEl.querySelector('.article-tags');
+        this.showTagEditor(item.link, tagsContainer, item.tags || []);
+      });
+    }
   }
 
   async approveTag(articleLink, tag, btnEl) {
@@ -135,71 +149,68 @@ export class FeedsTab {
     await this.saveFeedback(articleLink, { approved: [tag] });
   }
 
-  async rejectTag(articleLink, tag, btnEl) {
-    const tagEl = btnEl.parentElement;
+  showTagEditor(articleLink, tagsContainer, currentTags) {
+    // Check if editor already exists
+    if (tagsContainer.querySelector('.tag-editor')) return;
     
-    // Check if correction input already exists
-    if (tagEl.querySelector('.tag-correction-input')) return;
+    // Hide existing tags and add button
+    tagsContainer.querySelectorAll('.tag, .tag-add').forEach(el => el.style.display = 'none');
     
-    // Disable buttons immediately
-    btnEl.textContent = '❌';
-    btnEl.disabled = true;
-    tagEl.querySelector('.tag-approve').disabled = true;
-    
-    // Create inline correction input
-    const correctionBox = document.createElement('div');
-    correctionBox.className = 'tag-correction-box';
-    correctionBox.innerHTML = `
-      <input type="text" class="tag-correction-input" placeholder="Enter correct tags (comma-separated)" value="${tag}" />
-      <button class="tag-correction-save">Save</button>
-      <button class="tag-correction-cancel">Cancel</button>
+    // Create editor
+    const editor = document.createElement('div');
+    editor.className = 'tag-editor';
+    editor.innerHTML = `
+      <input type="text" class="tag-editor-input" placeholder="Enter tags (comma-separated)" value="${currentTags.join(', ')}" />
+      <span class="tag-editor-hint">Press Enter to save, Esc to cancel</span>
     `;
     
-    tagEl.appendChild(correctionBox);
+    tagsContainer.appendChild(editor);
     
-    const input = correctionBox.querySelector('.tag-correction-input');
-    const saveBtn = correctionBox.querySelector('.tag-correction-save');
-    const cancelBtn = correctionBox.querySelector('.tag-correction-cancel');
-    
-    // Focus input
+    const input = editor.querySelector('.tag-editor-input');
     input.focus();
     input.select();
     
-    // Handle save
-    saveBtn.addEventListener('click', async () => {
-      const correctedTags = input.value.split(',').map(t => t.trim()).filter(t => t);
+    const save = async () => {
+      const newTags = input.value.split(',').map(t => t.trim()).filter(t => t);
+      const rejected = currentTags.filter(t => !newTags.includes(t));
+      const corrected = newTags.filter(t => !currentTags.includes(t));
       
       // Save feedback
       await this.saveFeedback(articleLink, { 
-        rejected: [tag],
-        corrected: correctedTags 
+        rejected: rejected.length > 0 ? rejected : undefined,
+        corrected: corrected.length > 0 ? corrected : undefined
       });
       
-      // Update UI
-      if (correctedTags.length > 0) {
-        tagEl.innerHTML = correctedTags.map(t => 
+      // Update UI - replace entire tags container
+      if (newTags.length > 0) {
+        tagsContainer.innerHTML = newTags.map(t => 
           `<span class="tag-corrected">${t}</span>`
         ).join(' ');
       } else {
-        tagEl.remove();
+        tagsContainer.innerHTML = '<button class="tag-add" title="Add/modify tags">± Add tags</button>';
+        this.setupTagFeedback(tagsContainer.closest('.article'), { link: articleLink, tags: [] });
       }
-    });
+    };
     
-    // Handle cancel
-    cancelBtn.addEventListener('click', () => {
-      correctionBox.remove();
-      btnEl.textContent = '👎';
-      btnEl.disabled = false;
-      tagEl.querySelector('.tag-approve').disabled = false;
-    });
+    const cancel = () => {
+      editor.remove();
+      tagsContainer.querySelectorAll('.tag, .tag-add').forEach(el => el.style.display = '');
+    };
     
-    // Handle Enter key
+    // Handle keyboard
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
-        saveBtn.click();
+        e.preventDefault();
+        save();
       } else if (e.key === 'Escape') {
-        cancelBtn.click();
+        e.preventDefault();
+        cancel();
       }
+    });
+    
+    // Handle blur (cancel on click outside)
+    input.addEventListener('blur', () => {
+      setTimeout(cancel, 100);
     });
   }
 
