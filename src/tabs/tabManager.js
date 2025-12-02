@@ -6,7 +6,7 @@ import { MapTab } from './map.js';
 export class TabManager {
   constructor() {
     this.tabs = {};
-    this.currentTab = 'feeds';
+    this.currentTab = localStorage.getItem('activeTab') || 'feeds';
     this.articles = [];
   }
 
@@ -26,8 +26,8 @@ export class TabManager {
     // Setup tab buttons
     this.setupTabButtons();
 
-    // Show initial tab
-    this.switchTab('feeds');
+    // Show saved tab or default to feeds
+    this.switchTab(this.currentTab);
   }
 
   setupTabButtons() {
@@ -56,6 +56,7 @@ export class TabManager {
 
     // Show new tab
     this.currentTab = tabName;
+    localStorage.setItem('activeTab', tabName);
     this.tabs[tabName].show();
 
     // Update active button styling

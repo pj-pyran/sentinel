@@ -8,10 +8,10 @@ A humanitarian news aggregator that fetches RSS feeds from major aid organizatio
 
 - **Automated Feed Updates**: Fetches from 20+ humanitarian news sources every 30 minutes
 - **ML Classification**: Auto-tags articles with locations, crisis types, themes, and keywords
-- **User Feedback System**: Approve or modify AI-generated tags with inline editing
+- **User Feedback System**: Approve or modify AI-generated tags with inline editing (± buttons, Enter to save)
 - **Historical Archive**: SQLite database stores all articles with full-text search
-- **Geographic Visualization**: Interactive Mapbox map with location-tagged articles
-- **Tabbed Interface**: Browse current feeds, view analytics, or explore by location
+- **Geographic Visualization**: Full-screen Mapbox map (outdoors style) with 40+ location tags
+- **Tabbed Interface**: Browse current feeds, view analytics, or explore by location (remembers your last tab)
 
 ## Quick Start
 
@@ -102,16 +102,34 @@ Contributions welcome! Please:
 
 ## Technology Stack
 
-- **Frontend**: Vanilla JavaScript (ES6 modules), CSS
+- **Frontend**: Vanilla JavaScript (ES6 modules), CSS (no frameworks, no build step)
 - **Backend**: Python 3.11, Flask
-- **Database**: SQLite
-- **Mapping**: Mapbox GL JS with Natural Earth projection
+- **Database**: SQLite with FTS5 full-text search
+- **Mapping**: Mapbox GL JS v3.0.1 (outdoors-v12 style, Natural Earth projection)
 - **Hosting**: GitHub Pages (frontend), Render (API)
-- **CI/CD**: GitHub Actions
+- **CI/CD**: GitHub Actions (30min cron)
+- **Typography**: Charter (serif), Fira Sans (UI)
+
+## Design Philosophy
+
+Sentinel rejects the homogeneous minimalism of modern web apps. Inspired by Swiss typography and Apple's spatial design, but unafraid of useful quirks:
+- No hamburger menus or hidden navigation
+- Information-dense without clutter
+- Tag feedback with ± buttons (inline editing, no modals)
+- Full-viewport map (no artificial constraints)
+- Dark mode first, accent red for interaction
+- Every pixel earns its place
 
 ## License
 
 MIT License - see LICENSE file for details
+
+## Known Issues
+
+- Map tab has layout quirks: fixed positioning overlaps footer, doesn't scroll with page
+- Initial map load can be slow (vector tile downloads, network dependent)
+- Some RSS feeds return 401/404 errors (dead feeds need cleanup)
+- Hard browser refresh may require cache clear for ES6 modules
 
 ## Acknowledgments
 
@@ -119,4 +137,4 @@ Built to support humanitarian aid workers, journalists, and researchers tracking
 
 ---
 
-**Note**: This project is in active development. For detailed technical documentation, see `_PROJECT_CONTEXT.md`.
+**Note**: This project is in active development. For detailed technical documentation, see `PROJECT_CONTEXT.md`.

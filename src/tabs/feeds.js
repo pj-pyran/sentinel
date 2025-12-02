@@ -104,8 +104,10 @@ export class FeedsTab {
   show() {
     const feedContainer = document.getElementById('feed');
     const filterPanel = document.getElementById('filter-panel');
+    const mapView = document.getElementById('map-view');
     if (feedContainer) feedContainer.style.display = '';
     if (filterPanel) filterPanel.style.display = '';
+    if (mapView) mapView.style.display = 'none';
     this.render();
   }
 

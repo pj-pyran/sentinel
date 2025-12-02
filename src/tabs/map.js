@@ -10,52 +10,80 @@ export class MapTab {
   }
 
   show() {
+    console.log('MapTab.show() called');
     const feedContainer = document.getElementById('feed');
     const filterPanel = document.getElementById('filter-panel');
+    const mapView = document.getElementById('map-view');
     
-    if (feedContainer) {
-      feedContainer.style.display = '';
-      feedContainer.innerHTML = `
-        <div class="tab-content">
-          <div id="map-container"></div>
-        </div>
-      `;
-    }
+    if (feedContainer) feedContainer.style.display = 'none';
     if (filterPanel) filterPanel.style.display = 'none';
+    if (mapView) mapView.style.display = 'block';
 
     // Initialize map after DOM is ready
-    setTimeout(() => this.initMap(), 100);
+    setTimeout(() => this.initMap(), 250);
+  }
+
+  hide() {
+    const mapView = document.getElementById('map-view');
+    if (mapView) mapView.style.display = 'none';
   }
 
   initMap() {
+    console.log('MapTab.initMap() called');
+    
     // Check if Mapbox GL is loaded
     if (typeof mapboxgl === 'undefined') {
       console.error('Mapbox GL JS not loaded');
       return;
     }
+    console.log('Mapbox GL loaded successfully');
 
     const mapContainer = document.getElementById('map-container');
-    if (!mapContainer || this.map) return;
+    if (!mapContainer) {
+      console.error('map-container element not found');
+      return;
+    }
+    if (this.map) {
+      console.log('Map already initialized');
+      return;
+    }
+    console.log('Creating map...');
 
-    // Initialize Mapbox map
-    mapboxgl.accessToken = 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw'; // Public demo token
+    mapboxgl.accessToken = 'pk.eyJ1IjoicGotbWFwcGluZyIsImEiOiJjbWlvZjF3ZzgwMTM3M2VxdzN4emwzMDR3In0.5fDxdwsPcrkcGMLECGCYDQ';
     
-    this.map = new mapboxgl.Map({
-      container: 'map-container',
-      style: 'mapbox://styles/mapbox/dark-v11', // Dark theme to match site
-      center: [20, 20], // Center on humanitarian hotspots
-      zoom: 1.5,
-      projection: 'naturalEarth' // Better for world view
-    });
+    try {
+      this.map = new mapboxgl.Map({
+        container: 'map-container',
+        style: 'mapbox://styles/mapbox/outdoors-v12',
+        center: [20, 20],
+        zoom: 1.5,
+        projection: 'naturalEarth'
+      });
+      console.log('Map created successfully');
+    } catch (error) {
+      console.error('Error creating map:', error);
+      return;
+    }
 
     // Add navigation controls
     this.map.addControl(new mapboxgl.NavigationControl(), 'top-right');
-
-    // Add fullscreen control
     this.map.addControl(new mapboxgl.FullscreenControl(), 'top-right');
 
-    // Extract location data from articles
+    // Force resize and visibility fix
+    setTimeout(() => {
+      this.map.resize();
+      console.log('Map resize called');
+      
+      // Force repaint
+      const container = document.getElementById('map-container');
+      if (container) {
+        container.style.display = 'block';
+        console.log('Container display set to block');
+      }
+    }, 500);
+
     this.map.on('load', () => {
+      console.log('Map loaded event fired');
       this.addArticleMarkers();
     });
   }
