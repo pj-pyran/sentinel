@@ -10,6 +10,7 @@ A humanitarian news aggregator that fetches RSS feeds from major aid organizatio
 - **ML Classification**: Auto-tags articles with locations, crisis types, themes, and keywords
 - **User Feedback System**: Approve or modify AI-generated tags with inline editing
 - **Historical Archive**: SQLite database stores all articles with full-text search
+- **Geographic Visualization**: Interactive Mapbox map with location-tagged articles
 - **Tabbed Interface**: Browse current feeds, view analytics, or explore by location
 
 ## Quick Start
@@ -104,6 +105,7 @@ Contributions welcome! Please:
 - **Frontend**: Vanilla JavaScript (ES6 modules), CSS
 - **Backend**: Python 3.11, Flask
 - **Database**: SQLite
+- **Mapping**: Mapbox GL JS with Natural Earth projection
 - **Hosting**: GitHub Pages (frontend), Render (API)
 - **CI/CD**: GitHub Actions
 
