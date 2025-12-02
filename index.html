@@ -16,7 +16,10 @@
 
   <header class="topbar">
     <h1>Sentinel</h1>
-    <input type="text" id="search" placeholder="Search…" />
+    <div style="display: flex; align-items: center; gap: 1rem;">
+      <input type="text" id="search" placeholder="Search…" />
+      <button class="theme-toggle" id="theme-toggle">☀️</button>
+    </div>
   </header>
 
   <div id="tab-bar" class="tab-bar"></div>
@@ -27,12 +30,33 @@
   </section>
 
   <main id="feed" class="feed"></main>
+  
+  <div id="map-view" style="display: none;">
+    <div id="map-container"></div>
+  </div>
 
   <footer class="footer">
     Sentinel · Prototype
   </footer>
 
   <script>
+    // Theme toggle
+    const themeToggle = document.getElementById('theme-toggle');
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    
+    if (savedTheme === 'light') {
+      document.documentElement.setAttribute('data-theme', 'light');
+      themeToggle.textContent = '🌙';
+    }
+    
+    themeToggle.addEventListener('click', () => {
+      const current = document.documentElement.getAttribute('data-theme');
+      const newTheme = current === 'light' ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      themeToggle.textContent = newTheme === 'light' ? '🌙' : '☀️';
+    });
+
     // Load articles data
     fetch('public/data/articles.json')
       .then(response => response.json())
