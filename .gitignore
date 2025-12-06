@@ -1,1 +1,2 @@
-*.txt
+# Ignore txt files at root only
+/*.txt

@@ -48,7 +48,7 @@ export class MapTab {
       return;
     }
     console.log('Creating map...');
-
+    
     mapboxgl.accessToken = 'pk.eyJ1IjoicGotbWFwcGluZyIsImEiOiJjbWlvZjF3ZzgwMTM3M2VxdzN4emwzMDR3In0.5fDxdwsPcrkcGMLECGCYDQ';
     
     try {
