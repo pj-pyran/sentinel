@@ -58,7 +58,7 @@
     });
 
     // Load articles data
-    fetch('public/data/articles.json')
+    fetch('/public/data/articles.json')
       .then(response => response.json())
       .then(data => {
         window.ARTICLES = data;

@@ -5,7 +5,7 @@ import re
 
 # Configuration
 DATA_PATH = Path("public/data/articles.json")
-METADATA_PATH = Path("feeds_metadata.json")
+METADATA_PATH = Path("config/feeds_metadata.json")
 FEEDBACK_PATH = Path("public/data/tag_feedback.json")
 
 # Stop words to filter out

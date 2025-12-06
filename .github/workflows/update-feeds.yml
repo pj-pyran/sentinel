@@ -25,10 +25,10 @@ jobs:
           python-version: '3.11'
 
       - run: pip install feedparser requests
-      - run: python script_update_live.py
-      - run: python script_classify.py
-      - run: python migrate.py
-      - run: python script_archive.py
+      - run: python scripts/script_update_live.py
+      - run: python scripts/script_classify.py
+      - run: python scripts/migrate.py
+      - run: python scripts/script_archive.py
       
       - name: Configure git
         run: |
