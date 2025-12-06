@@ -7,7 +7,7 @@ export async function getArticles() {
   }
   
   try {
-    const response = await fetch('/public/data/articles.json');
+    const response = await fetch('public/data/articles.json');
     cachedArticles = await response.json();
     return cachedArticles;
   } catch (error) {
