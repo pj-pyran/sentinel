@@ -17,20 +17,12 @@
       "timestamp": "ISO 8601 datetime"
     }
   },
-  "https://www.e-ir.info/2025/11/12/the-silicon-conquistadors-humanity-and-digital-colonialism-in-the-age-of-ai/": {
-    "approved": [
-      "Conflict"
-    ],
+  "https://www.e-ir.info/2025/11/26/interview-nina-hall-2/": {
+    "approved": [],
     "rejected": [],
-    "corrected": [],
-    "timestamp": "2025-12-06T14:08:47.591473Z"
-  },
-  "https://globalpressjournal.com/asia/nepal/nepal-cracks-informal-hundi-money-transfer-system/": {
-    "approved": [
-      "Nepal"
+    "corrected": [
+      "interview"
     ],
-    "rejected": [],
-    "corrected": [],
-    "timestamp": "2025-12-06T14:09:37.675289Z"
+    "timestamp": "2025-12-06T14:51:42.963179Z"
   }
 }
