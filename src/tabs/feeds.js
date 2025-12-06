@@ -244,8 +244,7 @@ export class FeedsTab {
   }
 
   async syncToAPI(articleLink, feedback) {
-    // TODO: Replace with your deployed Render URL
-    const API_URL = 'https://your-app.onrender.com';
+    const API_URL = 'https://sentinel-cgqj.onrender.com';
     
     // Flatten feedback structure for API
     const payload = {
@@ -259,7 +258,7 @@ export class FeedsTab {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload),
-      signal: AbortSignal.timeout(5000) // 5 second timeout
+      signal: AbortSignal.timeout(30000) // 30 second timeout for cold starts
     });
     
     if (!response.ok) {
