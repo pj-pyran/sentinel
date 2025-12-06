@@ -29,7 +29,7 @@ The interface follows Swiss typography and Apple's spatial design principles, bu
 
 ### Data Flow
 ```
-RSS Feeds → script_update_live.py (fetch & normalize) 
+RSS Feeds → scripts/script_update_live.py (fetch & normalize) 
   → articles.json (262 articles, recent snapshot)
   → script_classify.py (ML tagging)
   → migrate.py (apply schema changes)
@@ -139,7 +139,7 @@ src/
 
 ## Development Workflow
 1. Make changes on `dev` branch
-2. Test locally: `python3 script_update_live.py && python3 script_classify.py`
+2. Test locally: `python3 scripts/script_update_live.py && python3 scripts/script_classify.py`
 3. Commit and push to GitHub
 4. GitHub Actions runs: fetch → classify → migrate → archive → PR → auto-merge
 5. GitHub Pages deploys from `main` branch
@@ -157,18 +157,18 @@ src/
 ## Testing Commands
 ```bash
 # Fetch and classify
-python3 script_update_live.py
-python3 script_classify.py
+python3 scripts/script_update_live.py
+python3 scripts/script_classify.py
 
 # Apply migrations
-python3 migrate.py
+python3 scripts/migrate.py
 
 # Archive to SQLite
-python3 script_archive.py
+python3 scripts/script_archive.py
 
 # Test local server
 python3 -m http.server 8000
-# Visit http://localhost:8000
+# Visit http://localhost:8000/src/
 ```
 
 ## Notes

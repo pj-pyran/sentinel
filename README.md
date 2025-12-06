@@ -30,14 +30,14 @@ cd sentinel
 pip install feedparser requests
 
 # Run the data pipeline
-python3 script_update_live.py    # Fetch RSS feeds
-python3 script_classify.py        # Classify articles
-python3 migrate.py                # Apply database migrations
-python3 script_archive.py         # Archive to SQLite
+python3 scripts/script_update_live.py    # Fetch RSS feeds
+python3 scripts/script_classify.py        # Classify articles
+python3 scripts/migrate.py                # Apply database migrations
+python3 scripts/script_archive.py         # Archive to SQLite
 
 # Start local server
 python3 -m http.server 8000
-# Visit http://localhost:8000
+# Visit http://localhost:8000/src/
 ```
 
 ### Deploy API (Optional)
@@ -66,11 +66,18 @@ sentinel/
 │   ├── tabs/                 # Tab implementations
 │   ├── components/           # Reusable UI components
 │   └── utils/                # Helper functions
-├── script_update_live.py     # RSS fetcher
-├── script_classify.py        # ML classifier
-├── script_archive.py         # SQLite archiver
-├── migrate.py                # Migration runner
-└── index.html                # Main entry point
+├── scripts/                  # Data pipeline scripts
+│   ├── script_update_live.py
+│   ├── script_classify.py
+│   ├── script_archive.py
+│   └── migrate.py
+├── config/                   # Configuration files
+│   └── feeds.json
+├── docs/                     # Documentation
+└── src/                      # Frontend files
+    ├── index.html
+    ├── app.js
+    └── styles.css
 ```
 
 ## How It Works
