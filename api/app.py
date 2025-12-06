@@ -1,13 +1,18 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from github import Github
 import json
 import os
 from datetime import datetime
+import base64
 
 app = Flask(__name__)
 CORS(app)  # Allow requests from GitHub Pages
 
 FEEDBACK_FILE = os.path.join(os.path.dirname(__file__), '..', 'public', 'data', 'tag_feedback.json')
+GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
+REPO_NAME = 'pj-pyran/sentinel'
+FILE_PATH = 'public/data/tag_feedback.json'
 
 def load_feedback():
     """Load existing feedback from JSON file"""
@@ -21,6 +26,36 @@ def save_feedback(data):
     os.makedirs(os.path.dirname(FEEDBACK_FILE), exist_ok=True)
     with open(FEEDBACK_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+
+def commit_to_github(feedback_data):
+    """Commit tag_feedback.json to GitHub repository"""
+    g = Github(GITHUB_TOKEN)
+    repo = g.get_repo(REPO_NAME)
+    
+    # Convert feedback dict to JSON string
+    content = json.dumps(feedback_data, indent=2, ensure_ascii=False)
+    
+    try:
+        # Try to get existing file
+        file = repo.get_contents(FILE_PATH, ref='main')
+        # Update existing file
+        repo.update_file(
+            path=FILE_PATH,
+            message='Update tag feedback from user submissions',
+            content=content,
+            sha=file.sha,
+            branch='main'
+        )
+        print(f'Updated {FILE_PATH} on GitHub')
+    except Exception:
+        # File doesn't exist, create it
+        repo.create_file(
+            path=FILE_PATH,
+            message='Create tag feedback file from user submissions',
+            content=content,
+            branch='main'
+        )
+        print(f'Created {FILE_PATH} on GitHub')
 
 @app.route('/api/feedback', methods=['POST'])
 def submit_feedback():
@@ -72,8 +107,16 @@ def submit_feedback():
         # Update timestamp
         feedback[article_link]['timestamp'] = datetime.utcnow().isoformat() + 'Z'
         
-        # Save to file
+        # Save to file locally
         save_feedback(feedback)
+        
+        # Commit to GitHub if token is available
+        if GITHUB_TOKEN:
+            try:
+                commit_to_github(feedback)
+            except Exception as e:
+                print(f'Failed to commit to GitHub: {e}')
+                # Don't fail the request if GitHub commit fails
         
         return jsonify({'success': True, 'message': 'Feedback saved'}), 200
     
