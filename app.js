@@ -1,4 +1,4 @@
-import { TabManager } from './tabs/tabManager.js';
+import { TabManager } from './src/tabs/tabManager.js';
 
 let tabManager = null;
 

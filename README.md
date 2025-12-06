@@ -37,7 +37,7 @@ python3 scripts/script_archive.py         # Archive to SQLite
 
 # Start local server
 python3 -m http.server 8000
-# Visit http://localhost:8000/src/
+# Visit http://localhost:8000
 ```
 
 ### Deploy API (Optional)
