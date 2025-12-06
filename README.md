@@ -110,16 +110,6 @@ Contributions welcome! Please:
 - **CI/CD**: GitHub Actions (30min cron)
 - **Typography**: Charter (serif), Fira Sans (UI)
 
-## Design Philosophy
-
-Sentinel rejects the homogeneous minimalism of modern web apps. Inspired by Swiss typography and Apple's spatial design, but unafraid of useful quirks:
-- No hamburger menus or hidden navigation
-- Information-dense without clutter
-- Tag feedback with ± buttons (inline editing, no modals)
-- Full-viewport map (no artificial constraints)
-- Dark mode first, accent red for interaction
-- Every pixel earns its place
-
 ## License
 
 MIT License - see LICENSE file for details

@@ -126,6 +126,8 @@ src/
 ⏳ Clean up dead RSS feeds in feeds.json
 ⏳ Fix map layout: adjust positioning to avoid footer overlap, consider scrollable container
 ⏳ Optimize map loading: lazy load Mapbox GL JS only when Map tab is first accessed
+⏳ Article ranking and sort options (by time, recommended/relevance, source, etc.)
+⏳ Add map projection selector (currently naturalEarth, add equalEarth, mercator, globe options)
 
 ## Known Issues
 - Several RSS feeds failing (Reuters 401, GlobalVoices 404, France24 404, etc.)
