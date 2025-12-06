@@ -89,7 +89,7 @@ src/
 - `styles.css`: Dark theme, tag styling, map container styling
 
 ### Configuration
-- `feeds.json`: List of RSS feed URLs (some dead: Reuters 401, GlobalVoices 404, France24 404)
+- `config/feeds.json`: List of RSS feed URLs (some dead: Reuters 401, GlobalVoices 404, France24 404)
 - `feeds_metadata.json`: Source-level default tags
 - `public/data/tag_feedback.json`: User corrections structure
 
@@ -123,7 +123,7 @@ src/
 ⏳ Analytics tab implementation (SQL queries in `sql/analytics_queries.sql`)
 ⏳ Add geocoding service to map tab (convert location names → coordinates)
 ⏳ Add article markers and clustering to map
-⏳ Clean up dead RSS feeds in feeds.json
+⏳ Clean up dead RSS feeds in config/feeds.json
 ⏳ Fix map layout: adjust positioning to avoid footer overlap, consider scrollable container
 ⏳ Optimize map loading: lazy load Mapbox GL JS only when Map tab is first accessed
 ⏳ Article ranking and sort options (by time, recommended/relevance, source, etc.)

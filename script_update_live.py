@@ -21,7 +21,7 @@ def normalize_published_date(date_str):
         # Fallback if parsing fails
         return datetime.utcnow().strftime("%a, %d %b %Y %H:%M")
 
-def load_feed_list(path="feeds.json"):
+def load_feed_list(path="config/feeds.json"):
     with open(path) as f:
         data = json.load(f)
     feeds = data.get("feeds", [])

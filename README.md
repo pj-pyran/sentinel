@@ -89,7 +89,7 @@ sentinel/
 - The New Humanitarian, Crisis Group
 - Global Press Journal, E-International Relations
 
-See `feeds.json` for the complete list.
+See `config/feeds.json` for the complete list.
 
 ## Contributing
 

@@ -1,0 +1,31 @@
+1. Make changes locally
+    Work in dev
+        git switch dev
+
+    Commit as usual
+        git add .
+        git commit -m "Whatever you changed"
+
+2. Push updates to remote dev
+        git push origin dev
+    This syncs your work to GitHub but doesn’t affect main.
+
+3. Create Pull Request (dev → main)
+    On GitHub:
+        a. Open PR from dev into main
+        b. Write a quick summary if needed
+        c. Merge when ready (no approval required since you're the lone wolf)
+        This is the moment that remote main is updated - nowhere else.
+
+4. Sync your local main after merge
+        git switch main && git pull origin main
+    Your local main is now in lockstep with the remote protected main.
+
+5. Keep dev updated (optional but tidy)
+        git switch dev && git merge main && git push origin dev && git status
+    (or git rebase main if you like clean history, then git push origin dev --force)
+
+This stops your dev branch diverging over time and keeps remote dev in sync.
+
+Quick cheat-sheet version
+    dev → commit → push origin dev → PR → merge → switch to main → pull → switch to dev → merge main → push origin dev → keep going
