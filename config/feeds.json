@@ -1,7 +1,5 @@
 {
   "excl": [
-    "https://www.nytimes.com/services/xml/rss/nyt/World.xml",
-    "https://feeds.bbci.co.uk/news/world/rss.xml"
   ],
   "feeds": [
     "https://www.reuters.com/rssFeed/worldNews",
@@ -22,6 +20,8 @@
     "https://humanicontrarian.com/feed",
     "https://globalpressjournal.com/feed/",
     "https://www.rand.org/topics/international-affairs.xml/feed",
-    "https://www.theguardian.com/world/rss"
+    "https://www.theguardian.com/world/rss",
+    "https://www.nytimes.com/services/xml/rss/nyt/World.xml",
+    "https://feeds.bbci.co.uk/news/world/rss.xml"
   ]
 }
