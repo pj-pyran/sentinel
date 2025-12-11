@@ -1,6 +1,4 @@
 {
-  "excl": [
-  ],
   "feeds": [
     "https://www.reuters.com/rssFeed/worldNews",
     "https://www.aljazeera.com/xml/rss/all.xml",
