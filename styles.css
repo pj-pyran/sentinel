@@ -99,11 +99,10 @@ body {
 }
 
 .feed {
-  padding: 1.5rem;
-  max-width: 900px;
-  margin: auto;
+  flex: 1;
   display: grid;
   gap: 1rem;
+  min-width: 0;
 }
 
 .article {
@@ -167,13 +166,24 @@ body {
   border-color: var(--accent);
 }
 
+.content-wrapper {
+  display: flex;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  align-items: flex-start;
+}
+
 #filter-panel {
-  max-width: 900px;
-  margin: 0 auto 1.5rem auto;
-  padding: 1rem;
+  flex: 0 0 260px;
+  position: sticky;
+  top: 1rem;
+  padding: 1.2rem;
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 #filter-panel h2 {
@@ -206,9 +216,9 @@ body {
 }
 
 .sort-controls {
-  margin-top: 1.5rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--border);
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
 }
 
 .sort-controls h3 {
