@@ -229,7 +229,6 @@ export class FeedsTab {
         `<span class="tag" data-link="${item.link}" data-tag="${tag}">
           ${tag}
           <button class="tag-approve" title="Approve tag">👍</button>
-          <button class="tag-modify" title="Modify tags">±</button>
         </span>`
       ).join('');
 
@@ -238,7 +237,7 @@ export class FeedsTab {
         <h2 class="article-title">${item.title}</h2>
         <div class="article-tags" data-link="${item.link}">
           ${tagsHtml}
-          <button class="tag-add" title="Add/modify tags">± Add tags</button>
+          <button class="tag-suggest" title="Suggest tags">Suggest tags</button>
         </div>
       `;
 
@@ -273,20 +272,10 @@ export class FeedsTab {
       });
     });
 
-    // Handle modify buttons on individual tags
-    articleEl.querySelectorAll('.tag-modify').forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const tag = btn.parentElement.dataset.tag;
-        const tagsContainer = articleEl.querySelector('.article-tags');
-        this.showTagEditor(item.link, tagsContainer, [tag]);
-      });
-    });
-
-    // Handle add tags button
-    const addBtn = articleEl.querySelector('.tag-add');
-    if (addBtn) {
-      addBtn.addEventListener('click', (e) => {
+    // Handle suggest tags button
+    const suggestBtn = articleEl.querySelector('.tag-suggest');
+    if (suggestBtn) {
+      suggestBtn.addEventListener('click', (e) => {
         e.stopPropagation();
         const tagsContainer = articleEl.querySelector('.article-tags');
         this.showTagEditor(item.link, tagsContainer, item.tags || []);
@@ -307,8 +296,8 @@ export class FeedsTab {
     // Check if editor already exists
     if (tagsContainer.querySelector('.tag-editor')) return;
     
-    // Hide existing tags and add button
-    tagsContainer.querySelectorAll('.tag, .tag-add').forEach(el => el.style.display = 'none');
+    // Hide existing tags and suggest button
+    tagsContainer.querySelectorAll('.tag, .tag-suggest').forEach(el => el.style.display = 'none');
     
     // Create editor
     const editor = document.createElement('div');
@@ -341,14 +330,14 @@ export class FeedsTab {
           `<span class="tag-corrected">${t}</span>`
         ).join(' ');
       } else {
-        tagsContainer.innerHTML = '<button class="tag-add" title="Add/modify tags">± Add tags</button>';
+        tagsContainer.innerHTML = '<button class="tag-suggest" title="Suggest tags">Suggest tags</button>';
         this.setupTagFeedback(tagsContainer.closest('.article'), { link: articleLink, tags: [] });
       }
     };
     
     const cancel = () => {
       editor.remove();
-      tagsContainer.querySelectorAll('.tag, .tag-add').forEach(el => el.style.display = '');
+      tagsContainer.querySelectorAll('.tag, .tag-suggest').forEach(el => el.style.display = '');
     };
     
     // Handle keyboard
