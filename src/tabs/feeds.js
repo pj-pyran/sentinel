@@ -6,6 +6,7 @@ export class FeedsTab {
     this.articles = [];
     this.activeFilters = new Set();
     this.searchTerm = '';
+    this.sortBy = localStorage.getItem('feedSortBy') || 'time-desc'; // time-desc, time-asc, relevance, source
   }
 
   async init(articles) {
@@ -13,6 +14,7 @@ export class FeedsTab {
     this.activeFilters = new Set(getUniqueSources(articles));
     this.setupEventListeners();
     this.initializeFilters();
+    this.initializeSortControls();
     this.render();
   }
 
@@ -26,12 +28,147 @@ export class FeedsTab {
     }
   }
 
+  initializeSortControls() {
+    const filterPanel = document.getElementById('filter-panel');
+    if (!filterPanel) return;
+
+    // Check if sort controls already exist
+    if (filterPanel.querySelector('.sort-controls')) return;
+
+    const sortControls = document.createElement('div');
+    sortControls.className = 'sort-controls';
+    sortControls.innerHTML = `
+      <h3>Sort By</h3>
+      <div class="sort-options">
+        <label><input type="radio" name="sort" value="time-desc" ${this.sortBy === 'time-desc' ? 'checked' : ''}> Newest first</label>
+        <label><input type="radio" name="sort" value="time-asc" ${this.sortBy === 'time-asc' ? 'checked' : ''}> Oldest first</label>
+        <label><input type="radio" name="sort" value="relevance" ${this.sortBy === 'relevance' ? 'checked' : ''}> Relevance</label>
+        <label><input type="radio" name="sort" value="source" ${this.sortBy === 'source' ? 'checked' : ''}> Source A-Z</label>
+      </div>
+    `;
+
+    filterPanel.appendChild(sortControls);
+
+    // Add event listeners
+    sortControls.querySelectorAll('input[name="sort"]').forEach(radio => {
+      radio.addEventListener('change', (e) => {
+        this.sortBy = e.target.value;
+        localStorage.setItem('feedSortBy', this.sortBy);
+        this.render();
+      });
+    });
+  }
+
+  sortArticles(articles) {
+    const sorted = [...articles];
+    
+    switch(this.sortBy) {
+      case 'time-desc':
+        // Newest first (default)
+        return sorted.sort((a, b) => {
+          const dateA = new Date(a.published);
+          const dateB = new Date(b.published);
+          return dateB - dateA;
+        });
+      
+      case 'time-asc':
+        // Oldest first
+        return sorted.sort((a, b) => {
+          const dateA = new Date(a.published);
+          const dateB = new Date(b.published);
+          return dateA - dateB;
+        });
+      
+      case 'relevance':
+        // Relevance: prioritize articles matching search term in title > tags > source
+        if (!this.searchTerm) return sorted;
+        
+        return sorted.sort((a, b) => {
+          const term = this.searchTerm.toLowerCase();
+          const scoreA = this.calculateRelevance(a, term);
+          const scoreB = this.calculateRelevance(b, term);
+          return scoreB - scoreA;
+        });
+      
+      case 'source':
+        // Alphabetical by source
+        return sorted.sort((a, b) => a.source.localeCompare(b.source));
+      
+      default:
+        return sorted;
+    }
+  }
+
+  calculateRelevance(article, term) {
+    let score = 0;
+    const title = article.title.toLowerCase();
+    const tags = (article.tags || []).join(' ').toLowerCase();
+    const source = article.source.toLowerCase();
+    
+    // Title match is most important
+    if (title.includes(term)) score += 10;
+    if (title.startsWith(term)) score += 5;
+    
+    // Tag match
+    if (tags.includes(term)) score += 5;
+    
+    // Source match
+    if (source.includes(term)) score += 2;
+    
+    return score;
+  }
+
+  updateArticleCount(filtered, total) {
+    let countEl = document.querySelector('.article-count');
+    if (!countEl) {
+      // Create count element if it doesn't exist
+      const filterPanel = document.getElementById('filter-panel');
+      if (!filterPanel) return;
+      
+      countEl = document.createElement('div');
+      countEl.className = 'article-count';
+      filterPanel.insertBefore(countEl, filterPanel.firstChild);
+    }
+    
+    const text = filtered === total 
+      ? `${total} articles`
+      : `${filtered} of ${total} articles`;
+    countEl.textContent = text;
+  }
+
   initializeFilters() {
     const filterContainer = document.getElementById('filter-container');
     if (!filterContainer) return;
 
     filterContainer.innerHTML = '';
     const uniqueSources = getUniqueSources(this.articles);
+
+    // Add clear/select all buttons
+    const filterActions = document.createElement('div');
+    filterActions.className = 'filter-actions';
+    filterActions.innerHTML = `
+      <button class="filter-action-btn" data-action="clear">Clear all</button>
+      <button class="filter-action-btn" data-action="select">Select all</button>
+    `;
+    filterContainer.appendChild(filterActions);
+
+    filterActions.addEventListener('click', (e) => {
+      const btn = e.target.closest('.filter-action-btn');
+      if (!btn) return;
+      
+      const action = btn.dataset.action;
+      const checkboxes = filterContainer.querySelectorAll('.source-filter');
+      
+      if (action === 'clear') {
+        this.activeFilters.clear();
+        checkboxes.forEach(cb => cb.checked = false);
+      } else if (action === 'select') {
+        uniqueSources.forEach(s => this.activeFilters.add(s));
+        checkboxes.forEach(cb => cb.checked = true);
+      }
+      
+      this.render();
+    });
 
     uniqueSources.forEach(source => {
       const label = document.createElement('label');
@@ -60,11 +197,17 @@ export class FeedsTab {
     const feedContainer = document.getElementById('feed');
     if (!feedContainer) return;
 
-    const filtered = filterArticles(
+    let filtered = filterArticles(
       this.articles,
       this.searchTerm,
       Array.from(this.activeFilters)
     );
+
+    // Sort articles
+    filtered = this.sortArticles(filtered);
+
+    // Update article count
+    this.updateArticleCount(filtered.length, this.articles.length);
 
     feedContainer.innerHTML = '';
 
