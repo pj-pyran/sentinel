@@ -47,7 +47,16 @@ export class FeedsTab {
       </div>
     `;
 
-    filterPanel.appendChild(sortControls);
+    // Insert after article count (or after h2 if count doesn't exist yet)
+    const articleCount = filterPanel.querySelector('.article-count');
+    const sourcesHeading = filterPanel.querySelector('h2');
+    if (articleCount) {
+      articleCount.after(sortControls);
+    } else if (sourcesHeading) {
+      sourcesHeading.after(sortControls);
+    } else {
+      filterPanel.appendChild(sortControls);
+    }
 
     // Add event listeners
     sortControls.querySelectorAll('input[name="sort"]').forEach(radio => {
