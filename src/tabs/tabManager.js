@@ -2,26 +2,37 @@
 import { FeedsTab } from './feeds.js';
 import { AnalyticsTab } from './analytics.js';
 import { MapTab } from './map.js';
+import { SitrepsTab } from './sitreps.js';
 
 export class TabManager {
   constructor() {
     this.tabs = {};
     this.currentTab = localStorage.getItem('activeTab') || 'feeds';
     this.articles = [];
+    this.sitreps = [];
   }
 
-  async init(articles) {
+  async init(articles, sitreps) {
     this.articles = articles;
+    this.sitreps = sitreps;
+
+    console.log('TabManager init - articles:', articles.length, 'sitreps:', sitreps.length);
 
     // Initialize all tabs
     this.tabs.feeds = new FeedsTab();
     this.tabs.analytics = new AnalyticsTab();
+    this.tabs.sitreps = new SitrepsTab();
     this.tabs.map = new MapTab();
 
-    // Initialize each tab
-    for (const tab of Object.values(this.tabs)) {
-      await tab.init(articles);
-    }
+    console.log('Tabs created:', Object.keys(this.tabs));
+
+    // Initialize each tab with appropriate data
+    await this.tabs.feeds.init(articles);
+    await this.tabs.analytics.init(articles);
+    await this.tabs.sitreps.init(sitreps);
+    await this.tabs.map.init(articles);
+
+    console.log('All tabs initialized');
 
     // Setup tab buttons
     this.setupTabButtons();
@@ -34,7 +45,7 @@ export class TabManager {
     const tabBar = document.getElementById('tab-bar');
     if (!tabBar) return;
 
-    const tabNames = ['feeds', 'analytics', 'map'];
+    const tabNames = ['feeds', 'sitreps', 'analytics', 'map'];
     tabBar.innerHTML = '';
 
     tabNames.forEach(tabName => {
