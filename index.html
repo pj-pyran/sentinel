@@ -30,7 +30,13 @@
       <div id="filter-container"></div>
     </aside>
 
+    <aside id="sitrep-filter-panel" style="display: none;">
+      <h2>Filters</h2>
+    </aside>
+
     <main id="feed" class="feed"></main>
+
+    <main id="sitrep-container" class="feed" style="display: none;"></main>
   </div>
   
   <div id="map-view" style="display: none;">
@@ -59,20 +65,52 @@
       themeToggle.textContent = newTheme === 'light' ? '🌙' : '☀️';
     });
 
+    // Initialize app after both data sources are loaded
+    let articlesLoaded = false;
+    let sitrepsLoaded = false;
+
+    function tryInitApp() {
+      if (articlesLoaded && sitrepsLoaded) {
+        console.log('Both data sources loaded, initializing app');
+        const script = document.createElement('script');
+        script.type = 'module';
+        script.src = 'app.js';
+        script.onload = () => console.log('app.js loaded successfully');
+        script.onerror = (e) => console.error('Error loading app.js:', e);
+        document.body.appendChild(script);
+        console.log('Script tag appended to body');
+      }
+    }
+
+    window.addEventListener('articlesLoaded', () => {
+      console.log('Articles loaded event');
+      articlesLoaded = true;
+      tryInitApp();
+    });
+
+    window.addEventListener('sitrepsLoaded', () => {
+      console.log('Sitreps loaded event');
+      sitrepsLoaded = true;
+      tryInitApp();
+    });
+
     // Load articles data
     fetch('public/data/articles.json')
       .then(response => response.json())
       .then(data => {
         window.ARTICLES = data;
-        // Dispatch event so app.js knows data is ready
         window.dispatchEvent(new Event('articlesLoaded'));
-        // Initialize the app after articles are loaded
-        const script = document.createElement('script');
-        script.type = 'module';
-        script.src = 'app.js';
-        document.body.appendChild(script);
       })
       .catch(error => console.error('Error loading articles:', error));
+
+    // Load sitreps data
+    fetch('public/data/sitreps.json')
+      .then(response => response.json())
+      .then(data => {
+        window.SITREPS = data;
+        window.dispatchEvent(new Event('sitrepsLoaded'));
+      })
+      .catch(error => console.error('Error loading sitreps:', error));
   </script>
 </body>
 </html>

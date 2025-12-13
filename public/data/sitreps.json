@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "type": "original",
+    "title": "Gaza Strip Humanitarian Crisis - Weekly Update",
+    "source": "OCHA",
+    "crisis": "Gaza Crisis",
+    "location": "Gaza Strip, Palestine",
+    "date": "2024-12-08",
+    "content": "The humanitarian situation in Gaza remains dire with over 1.9 million people displaced. Access to clean water is critically limited with only 15% of normal water production capacity operational. Medical facilities are operating at minimal capacity with severe shortages of essential medicines and medical supplies. Food insecurity affects approximately 90% of the population.",
+    "url": "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update"
+  },
+  {
+    "id": "2",
+    "type": "original",
+    "title": "Sudan Conflict: Humanitarian Response Update",
+    "source": "UNHCR",
+    "crisis": "Sudan Conflict",
+    "location": "Khartoum, Sudan",
+    "date": "2024-12-07",
+    "content": "Fighting in Khartoum has displaced an additional 45,000 people in the past week, bringing the total number of IDPs to over 6.5 million. UNHCR teams have distributed emergency shelter materials to 12,000 families. Access to affected areas remains extremely challenging due to ongoing hostilities and bureaucratic impediments.",
+    "url": "https://www.unhcr.org/sudan-emergency"
+  },
+  {
+    "id": "3",
+    "type": "ai-summary",
+    "title": "Gaza Crisis Consolidated Summary - Week 49",
+    "relatedSources": ["OCHA", "UNICEF", "WFP"],
+    "crisis": "Gaza Crisis",
+    "location": "Gaza Strip, Palestine",
+    "date": "2024-12-08",
+    "content": "Multi-agency reports indicate worsening conditions across all humanitarian sectors. Water: Only 15% of production capacity functional (OCHA). Health: 72% of hospitals non-operational, critical drug shortages (UNICEF). Food Security: 90% of population facing acute food insecurity, WFP distribution reaching only 40% of target beneficiaries. Displacement: 1.9M people displaced, shelter conditions deteriorating with onset of winter.",
+    "url": null
+  },
+  {
+    "id": "4",
+    "type": "original",
+    "title": "Ukraine Humanitarian Snapshot - December",
+    "source": "OCHA",
+    "crisis": "Ukraine War",
+    "location": "Eastern Ukraine",
+    "date": "2024-12-06",
+    "content": "Ongoing hostilities continue to impact civilian infrastructure, particularly energy facilities. An estimated 3.7 million people require humanitarian assistance. Winter conditions are exacerbating vulnerabilities with damaged heating systems affecting over 500,000 people in eastern regions. Humanitarian organizations have prepositioned winterization supplies for 1.2 million people.",
+    "url": "https://reliefweb.int/country/ukr"
+  },
+  {
+    "id": "5",
+    "type": "original",
+    "title": "Syria Earthquake Recovery - 9 Month Update",
+    "source": "UNICEF",
+    "crisis": "Syria Earthquake",
+    "location": "Northwest Syria",
+    "date": "2024-12-05",
+    "content": "Nine months after the February earthquakes, recovery efforts continue in northwest Syria. UNICEF has reached 285,000 children with education support and established 45 child-friendly spaces. However, over 120,000 people remain in displacement camps with inadequate winterization. Water and sanitation infrastructure remains severely damaged in affected areas.",
+    "url": "https://www.unicef.org/emergencies/syria-crisis"
+  },
+  {
+    "id": "6",
+    "type": "original",
+    "title": "Somalia Drought and Flooding Crisis Update",
+    "source": "WFP",
+    "crisis": "Somalia Climate Crisis",
+    "location": "Bay Region, Somalia",
+    "date": "2024-12-04",
+    "content": "Paradoxically, areas recovering from severe drought are now experiencing flooding due to heavy rains. WFP has reached 1.8 million people with food assistance this month. The Bay region reports 78,000 people newly displaced by floods, with damage to recently planted crops threatening food security gains. Malnutrition rates remain above emergency thresholds in multiple regions.",
+    "url": "https://www.wfp.org/countries/somalia"
+  },
+  {
+    "id": "7",
+    "type": "ai-summary",
+    "title": "Sudan Conflict Multi-Source Analysis",
+    "relatedSources": ["UNHCR", "MSF", "ICRC"],
+    "crisis": "Sudan Conflict",
+    "location": "Khartoum, Sudan",
+    "date": "2024-12-07",
+    "content": "Convergent reports from multiple agencies paint a picture of escalating crisis. Displacement: 6.5M IDPs nationally, 45K newly displaced in Khartoum this week (UNHCR). Health: MSF reports 8 out of 11 hospitals in Khartoum non-functional, acute malnutrition rates exceeding emergency thresholds in IDP sites. Protection: ICRC documents increasing civilian casualties from explosive remnants of war and emphasizes urgent need for respect of IHL. Humanitarian access remains critically constrained across all sectors.",
+    "url": null
+  },
+  {
+    "id": "8",
+    "type": "original",
+    "title": "Afghanistan: Winter Preparedness Report",
+    "source": "ICRC",
+    "crisis": "Afghanistan Humanitarian Crisis",
+    "location": "Herat Province, Afghanistan",
+    "date": "2024-12-03",
+    "content": "ICRC has distributed winter supplies including blankets, warm clothing, and heating fuel to 45,000 families in Herat Province. Earthquake-affected areas from 2023 remain particularly vulnerable. Food insecurity is expected to worsen during winter months. Health facilities in remote areas face critical supply shortages with reduced access due to snow.",
+    "url": "https://www.icrc.org/en/where-we-work/asia-pacific/afghanistan"
+  },
+  {
+    "id": "9",
+    "type": "original",
+    "title": "Yemen Cholera Outbreak - Situation Report",
+    "source": "WHO",
+    "crisis": "Yemen Humanitarian Crisis",
+    "location": "Hodeidah, Yemen",
+    "date": "2024-12-02",
+    "content": "WHO reports 12,500 suspected cholera cases in Hodeidah governorate over the past month, a 340% increase compared to the previous month. Case fatality rate remains at 0.3%. Oral rehydration points have been established at 28 locations. Water and sanitation infrastructure damage is the primary driver of the outbreak. Vaccination campaign planned for 500,000 people in affected areas.",
+    "url": "https://www.who.int/countries/yem"
+  },
+  {
+    "id": "10",
+    "type": "original",
+    "title": "Democratic Republic of Congo: M23 Displacement Crisis",
+    "source": "OCHA",
+    "crisis": "DRC Conflict",
+    "location": "North Kivu, DRC",
+    "date": "2024-12-01",
+    "content": "Renewed M23 offensive has displaced 135,000 people in North Kivu over the past three weeks. Displacement sites are overcrowded and lacking adequate WASH facilities. Protection concerns are acute, particularly for women and children. Humanitarian partners have limited access to newly affected areas due to insecurity and damaged road infrastructure.",
+    "url": "https://reliefweb.int/country/cod"
+  },
+  {
+    "id": "11",
+    "type": "ai-summary",
+    "title": "Ukraine Winter Crisis - Consolidated Assessment",
+    "relatedSources": ["OCHA", "UNHCR", "ICRC"],
+    "crisis": "Ukraine War",
+    "location": "Eastern Ukraine",
+    "date": "2024-12-06",
+    "content": "Winter preparedness remains critical concern across agencies. Infrastructure: Over 500K people affected by damaged heating systems in eastern regions (OCHA). Supplies: 1.2M people covered by prepositioned winterization materials, but gaps remain for additional 800K vulnerable persons (UNHCR). Energy: Systematic targeting of energy infrastructure creates cascading effects on water, health, and heating (ICRC). Population: 3.7M people require humanitarian assistance, with elderly and persons with disabilities particularly at risk during winter months.",
+    "url": null
+  },
+  {
+    "id": "12",
+    "type": "original",
+    "title": "Myanmar Rakhine State Humanitarian Access Report",
+    "source": "UNHCR",
+    "crisis": "Myanmar Crisis",
+    "location": "Rakhine State, Myanmar",
+    "date": "2024-11-30",
+    "content": "Humanitarian access in Rakhine State has deteriorated significantly with multiple checkpoints restricting movement of aid workers and supplies. UNHCR has been unable to reach 45,000 IDPs in northern Rakhine for six weeks. Blockade of internet and communications hampers needs assessment. Estimated 600,000 people in need of humanitarian assistance across the state.",
+    "url": "https://www.unhcr.org/myanmar-emergency"
+  }
+]
