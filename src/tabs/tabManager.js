@@ -18,7 +18,7 @@ export class TabManager {
 
     console.log('TabManager init - articles:', articles.length, 'sitreps:', sitreps.length);
 
-    // Initialize all tabs
+    // Initialise all tabs
     this.tabs.feeds = new FeedsTab();
     this.tabs.analytics = new AnalyticsTab();
     this.tabs.sitreps = new SitrepsTab();
@@ -26,13 +26,13 @@ export class TabManager {
 
     console.log('Tabs created:', Object.keys(this.tabs));
 
-    // Initialize each tab with appropriate data
+    // Initialise each tab with appropriate data
     await this.tabs.feeds.init(articles);
     await this.tabs.analytics.init(articles);
     await this.tabs.sitreps.init(sitreps);
     await this.tabs.map.init(articles);
 
-    console.log('All tabs initialized');
+    console.log('All tabs initialised');
 
     // Setup tab buttons
     this.setupTabButtons();

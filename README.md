@@ -1,6 +1,6 @@
 # Sentinel
 
-A humanitarian news aggregator that fetches RSS feeds from major aid organizations, classifies articles using ML-based tagging, and displays them in a clean, searchable interface.
+A humanitarian news aggregator that fetches RSS feeds from major aid organisations, classifies articles using ML-based tagging, and displays them in a clean, searchable interface.
 
 **Live site**: [pj-pyran.github.io/sentinel](https://pj-pyran.github.io/sentinel/)
 

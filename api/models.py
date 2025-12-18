@@ -21,8 +21,8 @@ def save_feedback(data):
 
 
 def merge_feedback(feedback, article_link, approved, rejected, corrected):
-    """Merge new feedback into existing feedback structure"""
-    # Initialize article entry if needed
+    '''Merge new feedback into existing feedback structure'''
+    # Initialise article entry if needed
     if article_link not in feedback:
         feedback[article_link] = {
             'approved': [],

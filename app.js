@@ -2,12 +2,12 @@ import { TabManager } from './src/tabs/tabManager.js';
 
 let tabManager = null;
 
-// Initialize app when articles and sitreps are available
+// Initialise app when articles and sitreps are available
 async function initializeApp() {
   const articles = window.ARTICLES || [];
   const sitreps = window.SITREPS || [];
   
-  console.log('Initializing app with:', articles.length, 'articles and', sitreps.length, 'sitreps');
+  console.log('Initialising app with:', articles.length, 'articles and', sitreps.length, 'sitreps');
   
   tabManager = new TabManager();
   await tabManager.init(articles, sitreps);
@@ -15,7 +15,7 @@ async function initializeApp() {
 
 // Wait for data to be loaded
 if (window.ARTICLES && window.SITREPS) {
-  console.log('Both data sources already loaded, initializing immediately');
+  console.log('Both data sources already loaded, initialising immediately');
   initializeApp();
 } else {
   console.log('Waiting for data sources...');

@@ -19,7 +19,7 @@ export class MapTab {
     if (filterPanel) filterPanel.style.display = 'none';
     if (mapView) mapView.style.display = 'block';
 
-    // Initialize map after DOM is ready
+    // Initialise map after DOM is ready
     setTimeout(() => this.initMap(), 250);
   }
 
@@ -44,7 +44,7 @@ export class MapTab {
       return;
     }
     if (this.map) {
-      console.log('Map already initialized');
+      console.log('Map already initialised');
       return;
     }
     console.log('Creating map...');
