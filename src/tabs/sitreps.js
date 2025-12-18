@@ -102,7 +102,7 @@ export class SitrepsTab {
         </div>
         <button class="info-button" title="About AI summaries">
           <span>i</span>
-          <div class="tooltip">AI summaries consolidate information from multiple humanitarian organization reports using language models to provide a unified view of the situation.</div>
+          <div class="tooltip">AI summaries consolidate information from multiple humanitarian organisation reports using language models to provide a unified view of the situation.</div>
         </button>
       </div>
     `;
@@ -277,7 +277,7 @@ export class SitrepsTab {
     const container = document.getElementById('sitrep-container');
     if (!container) return;
 
-    // Initialize filters if not already done
+    // Initialise filters if not already done
     if (!document.getElementById('sitrep-filter-panel')?.querySelector('.filter-section')) {
       this.initializeFilters();
       this.initializeSortControls();

@@ -65,13 +65,13 @@
       themeToggle.textContent = newTheme === 'light' ? '🌙' : '☀️';
     });
 
-    // Initialize app after both data sources are loaded
+    // Initialise app after both data sources are loaded
     let articlesLoaded = false;
     let sitrepsLoaded = false;
 
     function tryInitApp() {
       if (articlesLoaded && sitrepsLoaded) {
-        console.log('Both data sources loaded, initializing app');
+        console.log('Both data sources loaded, initialising app');
         const script = document.createElement('script');
         script.type = 'module';
         script.src = 'app.js';
