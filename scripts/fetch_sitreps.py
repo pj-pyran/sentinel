@@ -36,9 +36,9 @@ class ReliefWebFetcher(SitrepFetcher):
         try:
             with open(config_path, 'r') as f:
                 config = json.load(f)
-                self.appname = config.get('appname', 'sentinel')
+                self.appname = config.get('appname', 'pj-pyransentinelmonitor-x7k9')
         except FileNotFoundError:
-            self.appname = 'sentinel'
+            self.appname = 'pj-pyransentinelmonitor-x7k9'
             print("⚠ Warning: config/reliefweb.json not found, using default appname")
     
     def fetch(self):
@@ -68,7 +68,7 @@ class ReliefWebFetcher(SitrepFetcher):
         
         try:
             response = self.session.post(
-                self.BASE_URL,
+                self.BASE_URL + '?appname=' + self.appname,
                 json=payload,
                 timeout=30
             )
@@ -131,7 +131,7 @@ class ReliefWebFetcher(SitrepFetcher):
             content = content[:497] + '...'
         
         # Get URL
-        url = f"https://reliefweb.int{fields.get('url_alias', '')}" if fields.get('url_alias') else None
+        url = fields.get('url_alias', '') if fields.get('url_alias') else None
         
         # Generate unique ID
         sitrep_id = f"rw-{item.get('id', hash(title))}"

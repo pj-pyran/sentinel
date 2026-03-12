@@ -38,7 +38,7 @@ export class TabManager {
     this.setupTabButtons();
 
     // Show saved tab or default to feeds
-    this.switchTab(this.currentTab);
+    await this.switchTab(this.currentTab);
   }
 
   setupTabButtons() {
@@ -52,12 +52,14 @@ export class TabManager {
       const button = document.createElement('button');
       button.className = 'tab-button';
       button.textContent = tabName.charAt(0).toUpperCase() + tabName.slice(1);
-      button.addEventListener('click', () => this.switchTab(tabName));
+      button.addEventListener('click', () => {
+        void this.switchTab(tabName);
+      });
       tabBar.appendChild(button);
     });
   }
 
-  switchTab(tabName) {
+  async switchTab(tabName) {
     if (!this.tabs[tabName]) return;
 
     // Hide current tab
@@ -68,7 +70,7 @@ export class TabManager {
     // Show new tab
     this.currentTab = tabName;
     localStorage.setItem('activeTab', tabName);
-    this.tabs[tabName].show();
+    await this.tabs[tabName].show();
 
     // Update active button styling
     this.updateTabButtons();

@@ -1,3 +1,5 @@
 # Ignore txt files at root only
 docs/*.txt
 docs/*.md
+# Ignore file containing secrets
+api/.env

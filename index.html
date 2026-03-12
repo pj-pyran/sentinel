@@ -54,7 +54,7 @@
     
     if (savedTheme === 'light') {
       document.documentElement.setAttribute('data-theme', 'light');
-      themeToggle.textContent = '🌙';
+      themeToggle.textContent = 'dark mode';
     }
     
     themeToggle.addEventListener('click', () => {
@@ -62,7 +62,7 @@
       const newTheme = current === 'light' ? 'dark' : 'light';
       document.documentElement.setAttribute('data-theme', newTheme);
       localStorage.setItem('theme', newTheme);
-      themeToggle.textContent = newTheme === 'light' ? '🌙' : '☀️';
+      themeToggle.textContent = newTheme === 'light' ? 'dark mode' : 'light mode';
     });
 
     // Initialise app after both data sources are loaded
@@ -74,7 +74,7 @@
         console.log('Both data sources loaded, initialising app');
         const script = document.createElement('script');
         script.type = 'module';
-        script.src = 'app.js';
+        script.src = `app.js?v=${Date.now()}`;
         script.onload = () => console.log('app.js loaded successfully');
         script.onerror = (e) => console.error('Error loading app.js:', e);
         document.body.appendChild(script);
