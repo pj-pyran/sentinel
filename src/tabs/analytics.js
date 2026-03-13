@@ -12,22 +12,24 @@ export class AnalyticsTab {
     console.log('AnalyticsTab.show() called');
     const feedContainer = document.getElementById('feed');
     const filterPanel = document.getElementById('filter-panel');
+    const sitrepContainer = document.getElementById('sitrep-container');
+    const sitrepFilterPanel = document.getElementById('sitrep-filter-panel');
     const mapView = document.getElementById('map-view');
-    console.log('mapView element:', mapView);
+
     if (feedContainer) {
       feedContainer.style.display = '';
       feedContainer.innerHTML = `
         <div class="tab-content">
           <h2>Analytics</h2>
-          <p>Archive analysis and trends coming soon...</p>
+          <p>Analysis and trends coming soon...</p>
         </div>
       `;
     }
+
     if (filterPanel) filterPanel.style.display = 'none';
-    if (mapView) {
-      console.log('Hiding map view');
-      mapView.style.display = 'none';
-    }
+    if (sitrepContainer) sitrepContainer.style.display = 'none';
+    if (sitrepFilterPanel) sitrepFilterPanel.style.display = 'none';
+    if (mapView) mapView.style.display = 'none';
   }
 
   hide() {
@@ -35,3 +37,4 @@ export class AnalyticsTab {
     if (feedContainer) feedContainer.style.display = 'none';
   }
 }
+

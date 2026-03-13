@@ -4,6 +4,7 @@ from flask_cors import CORS
 from config import GITHUB_TOKEN
 from models import load_feedback, save_feedback, merge_feedback
 from github_sync import commit_to_github
+from acled_service import ACLEDServiceError, acled_service
 
 app = Flask(__name__)
 CORS(app)  # Allow requests from GitHub Pages
@@ -43,19 +44,46 @@ def submit_feedback():
         if GITHUB_TOKEN:
             try:
                 commit_to_github(feedback)
-            except Exception as e:
+            except RuntimeError as e:
                 print(f'Failed to commit to GitHub: {e}')
                 # Don't fail the request if GitHub commit fails
         
         return jsonify({'success': True, 'message': 'Feedback saved'}), 200
     
-    except Exception as e:
+    except (TypeError, ValueError, OSError) as e:
         return jsonify({'error': str(e)}), 500
 
 @app.route('/api/health', methods=['GET'])
 def health():
     """Health check endpoint"""
     return jsonify({'status': 'ok'}), 200
+
+@app.route('/api/acled/conflicts', methods=['GET'])
+def get_conflicts():
+    """
+    Get ACLED conflicts data with metrics and trends
+    Query parameters:
+        days: Number of days to look back (default: 90)
+        refresh: Force refresh cache (default: false)
+    """
+    try:
+        days = int(request.args.get('days', 90))
+        refresh = request.args.get('refresh', 'false').lower() == 'true'
+        
+        data = acled_service.get_conflicts_data(days=days, use_cache=not refresh)
+        
+        return jsonify(data), 200
+    
+    except ValueError as e:
+        return jsonify({'error': f'Invalid request parameter: {e}'}), 400
+    except ACLEDServiceError as e:
+        return jsonify({
+            'error': str(e),
+            'acled_status': e.upstream_status,
+            'acled_error': e.upstream_body,
+        }), 502
+    except OSError as e:
+        return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
