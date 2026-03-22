@@ -5,6 +5,8 @@
   --muted: #8899aa;
   --border: #2d3e52;
   --card-bg: #23344a;
+  --summary-border: color-mix(in srgb, var(--border) 82%, black 18%);
+  --summary-bg: color-mix(in srgb, var(--card-bg) 88%, black 12%);
   --font-body: "Charter", serif;
   --font-ui: "Fira Sans", sans-serif;
 }
@@ -16,6 +18,8 @@
   --muted: #666;
   --border: #ddd;
   --card-bg: #ffffff;
+  --summary-border: color-mix(in srgb, var(--border) 92%, black 8%);
+  --summary-bg: color-mix(in srgb, var(--card-bg) 96%, black 4%);
 }
 
 * {
@@ -86,7 +90,7 @@ body {
   font-family: var(--font-body);
   font-weight: 500;
   font-size: 1.1rem;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.55rem;
 }
 
 #search {
@@ -123,6 +127,62 @@ body {
   font-size: 0.8rem;
   color: var(--muted);
   margin-bottom: 0.5rem;
+}
+
+.article-summary {
+  position: relative;
+  margin: 0.15rem 0 1rem 0;
+  padding: 0.7rem 0.9rem 0.55rem;
+  border: 1px solid var(--summary-border);
+  border-radius: 6px;
+  background: var(--summary-bg);
+}
+
+.article-summary-text {
+  color: color-mix(in srgb, var(--muted) 88%, white 12%);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.article-summary:not(.expanded) .article-summary-text {
+  color: color-mix(in srgb, var(--muted) 92%, white 8%);
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  padding-right: 5.5rem;
+  position: relative;
+}
+
+.article-summary:not(.expanded) .article-summary-text::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 7rem;
+  height: 100%;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    var(--summary-bg) 55%
+  );
+  pointer-events: none;
+}
+
+.article-summary-toggle {
+  margin-top: 0.45rem;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--accent);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.article-summary-toggle:hover {
+  text-decoration: underline;
 }
 
 .footer {
@@ -533,8 +593,30 @@ body {
 .sitrep-content {
   font-family: var(--font-body);
   line-height: 1.6;
-  margin-bottom: 1rem;
+  margin-bottom: 0.7rem;
   color: var(--fg);
+  white-space: pre-wrap;
+}
+
+.sitrep-content-empty {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.sitrep-toggle {
+  background: transparent;
+  border: none;
+  color: var(--accent);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 0.9rem;
+  padding: 0;
+}
+
+.sitrep-toggle:hover {
+  text-decoration: underline;
 }
 
 .sitrep-link {
