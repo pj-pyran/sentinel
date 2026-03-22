@@ -11,6 +11,7 @@ export class SitrepsTab {
     this.searchTerm = '';
     this.sortBy = localStorage.getItem('sitrepSortBy') || 'date-desc';
     this.expandedSitreps = new Set();
+    this.visibleCount = 30;
   }
 
   async init(sitreps) {
@@ -30,6 +31,7 @@ export class SitrepsTab {
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
         this.searchTerm = e.target.value;
+        this.visibleCount = 30;
         this.render();
       });
     }
@@ -118,6 +120,7 @@ export class SitrepsTab {
         cb.checked = action === 'select';
       });
 
+      this.visibleCount = 30;
       this.render();
     });
 
@@ -166,6 +169,7 @@ export class SitrepsTab {
         buttons.forEach(b => b.classList.remove('active'));
         e.target.classList.add('active');
         
+        this.visibleCount = 30;
         this.render();
       });
     });
@@ -173,7 +177,7 @@ export class SitrepsTab {
     container.appendChild(toggleContainer);
   }
 
-  createFilterSection(container, title, items, filterKey, capitalize = false) {
+  createFilterSection(container, title, items, filterKey) {
     if (items.length === 0) return;
 
     const section = document.createElement('div');
@@ -189,7 +193,7 @@ export class SitrepsTab {
       checkbox.type = 'checkbox';
       checkbox.checked = true;
       
-      const value = capitalize ? item.toLowerCase().replace(' ', '-') : item;
+      const value = item;
       checkbox.value = value;
       
       checkbox.addEventListener('change', (e) => {
@@ -198,6 +202,7 @@ export class SitrepsTab {
         } else {
           this.activeFilters[filterKey].delete(value);
         }
+        this.visibleCount = 30;
         this.render();
       });
 
@@ -335,12 +340,24 @@ export class SitrepsTab {
     }
 
     container.innerHTML = '';
-    sorted.forEach(sitrep => {
+    sorted.slice(0, this.visibleCount).forEach(sitrep => {
       const card = this.createSitrepCard(sitrep);
       container.appendChild(card);
     });
 
     this.attachCardInteractions(container);
+
+    if (sorted.length > this.visibleCount) {
+      const remaining = sorted.length - this.visibleCount;
+      const btn = document.createElement('button');
+      btn.className = 'load-more-btn';
+      btn.textContent = `Load ${Math.min(30, remaining)} more  (${remaining} remaining)`;
+      btn.addEventListener('click', () => {
+        this.visibleCount += 30;
+        this.render();
+      });
+      container.appendChild(btn);
+    }
   }
 
   createSitrepCard(sitrep) {

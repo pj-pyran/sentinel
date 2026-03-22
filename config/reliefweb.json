@@ -1,4 +1,24 @@
 {
   "appname": "pj-pyransentinelmonitor-x7k9",
-  "note": "Request approved appname at https://apidoc.reliefweb.int/"
+  "note": "Request approved appname at https://apidoc.reliefweb.int/",
+  "sources": [
+    {"id": "1503", "label": "OCHA"},
+    {"id": "2868", "label": "UNHCR"},
+    {"id": "1741", "label": "WFP"},
+    {"id": "1275", "label": "WHO"},
+    {"id": "1255", "label": "IOM"},
+    {"id": "2836", "label": "FAO"},
+    {"id": "1293", "label": "UNDP"},
+    {"id": "1070", "label": "UNFPA"},
+    {"id": "4512", "label": "UN Women"},
+    {"id": "1484", "label": "UNRWA"},
+    {"id": "1482", "label": "UNEP"},
+    {"id": "1419", "label": "OHCHR"},
+    {"id": "1006", "label": "UNDRR"},
+    {"id": "1242", "label": "IFRC"},
+    {"id": "1048", "label": "ICRC"},
+    {"id": "2904", "label": "MSF"},
+    {"id": "1980", "label": "PAHO"},
+    {"id": "1410", "label": "UNAIDS"}
+  ]
 }
