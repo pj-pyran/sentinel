@@ -7,6 +7,7 @@ export class FeedsTab {
     this.activeFilters = new Set();
     this.searchTerm = '';
     this.sortBy = localStorage.getItem('feedSortBy') || 'time-desc'; // time-desc, time-asc, relevance, source
+    this.expandedSummaries = new Set();
   }
 
   async init(articles) {
@@ -224,6 +225,8 @@ export class FeedsTab {
       const article = document.createElement('div');
       article.className = 'article';
 
+      const summaryState = this.getSummaryState(item);
+
       // Build tags HTML
       const tagsHtml = (item.tags || []).map(tag => 
         `<span class="tag" data-link="${item.link}" data-tag="${tag}">
@@ -235,6 +238,12 @@ export class FeedsTab {
       article.innerHTML = `
         <p class="article-meta">${item.source} – ${item.published}</p>
         <h2 class="article-title">${item.title}</h2>
+        ${summaryState.text ? `
+          <div class="article-summary ${summaryState.expanded ? 'expanded' : ''}">
+            <p class="article-summary-text">${summaryState.text}</p>
+            ${summaryState.canExpand ? `<button class="article-summary-toggle" type="button">${summaryState.expanded ? 'Hide full summary' : 'Show full summary'}</button>` : ''}
+          </div>
+        ` : ''}
         <div class="article-tags" data-link="${item.link}">
           ${tagsHtml}
           <button class="tag-suggest" title="Suggest tags">Suggest tags</button>
@@ -245,11 +254,67 @@ export class FeedsTab {
       const titleEl = article.querySelector('.article-title');
       titleEl.addEventListener('click', () => window.open(item.link));
 
+      const summaryToggle = article.querySelector('.article-summary-toggle');
+      if (summaryToggle) {
+        summaryToggle.addEventListener('click', (event) => {
+          event.stopPropagation();
+          this.toggleSummary(item.link);
+        });
+      }
+
       // Handle tag feedback
       this.setupTagFeedback(article, item);
 
       feedContainer.appendChild(article);
     });
+  }
+
+  getSummaryState(article) {
+    const cleaned = this.cleanSummary(article.summary);
+    if (!cleaned) {
+      return {
+        text: '',
+        canExpand: false,
+        expanded: false,
+      };
+    }
+
+    const expanded = this.expandedSummaries.has(article.link);
+    const firstLine = cleaned.split('\n').map(line => line.trim()).find(Boolean) || cleaned;
+    const preview = firstLine.length > 180 ? `${firstLine.slice(0, 180).trim()}…` : firstLine;
+    const canExpand = cleaned !== preview;
+
+    return {
+      text: expanded ? cleaned : preview,
+      canExpand,
+      expanded,
+    };
+  }
+
+  cleanSummary(summary) {
+    if (!summary) {
+      return '';
+    }
+
+    return summary
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/\s*\n\s*/g, '\n')
+      .replace(/[ \t]+/g, ' ')
+      .trim();
+  }
+
+  toggleSummary(articleLink) {
+    if (this.expandedSummaries.has(articleLink)) {
+      this.expandedSummaries.delete(articleLink);
+    } else {
+      this.expandedSummaries.add(articleLink);
+    }
+
+    this.render();
   }
 
   show() {

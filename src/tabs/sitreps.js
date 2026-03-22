@@ -10,6 +10,7 @@ export class SitrepsTab {
     };
     this.searchTerm = '';
     this.sortBy = localStorage.getItem('sitrepSortBy') || 'date-desc';
+    this.expandedSitreps = new Set();
   }
 
   async init(sitreps) {
@@ -68,6 +69,8 @@ export class SitrepsTab {
 
     filterPanel.innerHTML = '<h2>Filters</h2>';
 
+    this.createFilterActions(filterPanel);
+
     // Type toggle (instead of checkboxes)
     this.createTypeToggle(filterPanel);
     
@@ -81,6 +84,44 @@ export class SitrepsTab {
     this.createFilterSection(filterPanel, 'Source', this.getUniqueSources(), 'sources');
 
     this.updateSitrepCount();
+  }
+
+  createFilterActions(container) {
+    const actions = document.createElement('div');
+    actions.className = 'filter-actions';
+    actions.innerHTML = `
+      <button class="filter-action-btn" data-action="clear">Clear all</button>
+      <button class="filter-action-btn" data-action="select">Select all</button>
+    `;
+
+    actions.addEventListener('click', (event) => {
+      const button = event.target.closest('.filter-action-btn');
+      if (!button) return;
+
+      const action = button.dataset.action;
+      const crises = this.getUniqueCrises();
+      const locations = this.getUniqueLocations();
+      const sources = this.getUniqueSources();
+
+      if (action === 'clear') {
+        this.activeFilters.crises.clear();
+        this.activeFilters.locations.clear();
+        this.activeFilters.sources.clear();
+      } else {
+        this.activeFilters.crises = new Set(crises);
+        this.activeFilters.locations = new Set(locations);
+        this.activeFilters.sources = new Set(sources);
+      }
+
+      const checkboxes = document.querySelectorAll('#sitrep-filter-panel .filter-checkboxes input[type="checkbox"]');
+      checkboxes.forEach((cb) => {
+        cb.checked = action === 'select';
+      });
+
+      this.render();
+    });
+
+    container.appendChild(actions);
   }
 
   createTypeToggle(container) {
@@ -298,44 +339,113 @@ export class SitrepsTab {
       const card = this.createSitrepCard(sitrep);
       container.appendChild(card);
     });
+
+    this.attachCardInteractions(container);
   }
 
   createSitrepCard(sitrep) {
     const card = document.createElement('div');
     card.className = `sitrep-card ${sitrep.type}`;
+    card.dataset.sitrepId = sitrep.id;
 
     const typeLabel = sitrep.type === 'ai-summary' ? 'AI Summary' : 'Original Report';
     const sourceInfo = sitrep.type === 'ai-summary'
       ? `Sources: ${sitrep.relatedSources?.join(', ') || 'Unknown'}`
       : `Source: ${sitrep.source}`;
 
+    const expanded = this.expandedSitreps.has(sitrep.id);
+    const formatted = this.formatContent(sitrep.content, expanded);
+
     card.innerHTML = `
       <div class="sitrep-header">
         <span class="sitrep-type">${typeLabel}</span>
-        <span class="sitrep-date">${sitrep.date}</span>
+        <span class="sitrep-date">${this.formatDate(sitrep.date)}</span>
       </div>
-      <h3 class="sitrep-title">${sitrep.title}</h3>
+      <h3 class="sitrep-title">${this.escapeHtml(sitrep.title || 'Untitled sitrep')}</h3>
       <div class="sitrep-meta">
-        <span class="sitrep-crisis">${sitrep.crisis}</span>
-        <span class="sitrep-location">📍 ${sitrep.location}</span>
+        <span class="sitrep-crisis">${this.escapeHtml(sitrep.crisis || 'Uncategorized')}</span>
+        <span class="sitrep-location">📍 ${this.escapeHtml(sitrep.location || 'Unknown')}</span>
       </div>
-      <div class="sitrep-source">${sourceInfo}</div>
-      <div class="sitrep-content">${this.formatContent(sitrep.content)}</div>
-      ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" class="sitrep-link">View full report →</a>` : ''}
+      <div class="sitrep-source">${this.escapeHtml(sourceInfo)}</div>
+      <div class="sitrep-content ${formatted.isFallback ? 'sitrep-content-empty' : ''}">${this.escapeHtml(formatted.text)}</div>
+      ${formatted.canToggle ? `<button class="sitrep-toggle" data-id="${sitrep.id}">${expanded ? 'Show less' : 'Read more'}</button>` : ''}
+      ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" rel="noopener noreferrer" class="sitrep-link">View full report →</a>` : ''}
     `;
 
     return card;
   }
 
-  formatContent(content) {
-    if (!content) return '';
-    
-    // Truncate long content
-    const maxLength = 300;
-    if (content.length > maxLength) {
-      return content.substring(0, maxLength) + '...';
+  attachCardInteractions(container) {
+    container.querySelectorAll('.sitrep-toggle').forEach((button) => {
+      button.addEventListener('click', () => {
+        const sitrepId = button.dataset.id;
+        if (!sitrepId) return;
+
+        if (this.expandedSitreps.has(sitrepId)) {
+          this.expandedSitreps.delete(sitrepId);
+        } else {
+          this.expandedSitreps.add(sitrepId);
+        }
+
+        this.render();
+      });
+    });
+  }
+
+  formatContent(content, expanded = false) {
+    if (!content || content === 'No summary available.') {
+      return {
+        text: 'No summary available for this sitrep.',
+        canToggle: false,
+        isFallback: true
+      };
     }
-    return content;
+
+    const cleaned = content
+      .replace(/\[(.*?)\]\((https?:\/\/[^)]+)\)/g, '$1 ($2)')
+      .replace(/\*\*(.*?)\*\*/g, '$1')
+      .replace(/\\\./g, '.')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    const maxLength = 420;
+    const canToggle = cleaned.length > maxLength;
+
+    if (!canToggle || expanded) {
+      return {
+        text: cleaned,
+        canToggle,
+        isFallback: false
+      };
+    }
+
+    return {
+      text: `${cleaned.slice(0, maxLength).trim()}…`,
+      canToggle,
+      isFallback: false
+    };
+  }
+
+  formatDate(dateString) {
+    if (!dateString) return 'Unknown date';
+
+    const parsed = new Date(dateString);
+    if (Number.isNaN(parsed.getTime())) return dateString;
+
+    return parsed.toLocaleDateString(undefined, {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
+    });
+  }
+
+  escapeHtml(value) {
+    return String(value)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#39;');
   }
 
   show() {

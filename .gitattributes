@@ -1,0 +1,6 @@
+# Prefer current branch content for machine-refreshed data files during merges/rebases.
+# Requires one-time local setup: git config merge.ours.driver true
+public/data/articles.json merge=ours
+public/data/history.db merge=ours
+public/data/sitreps.json merge=ours
+public/data/sitreps_.json merge=ours
