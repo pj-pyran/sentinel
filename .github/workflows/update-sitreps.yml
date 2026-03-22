@@ -1,0 +1,79 @@
+name: Update Sitreps
+
+on:
+  schedule:
+    # Every 6 hours — ReliefWeb sitreps don't update more frequently than this
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run DB migrations
+        run: python scripts/migrate.py
+
+      - name: Fetch sitreps
+        run: python scripts/fetch_sitreps.py
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          # Stage both the export view (sitreps.json) and the canonical DB.
+          # sitreps.json drives the has_changes gate; history.db is included
+          # in the commit automatically when a PR is created.
+          git add public/data/sitreps.json public/data/history.db
+          if git diff --cached --quiet -- public/data/sitreps.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No new sitreps in export"
+          else
+            COUNT=$(git diff --cached --stat -- public/data/sitreps.json | tail -1)
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes: $COUNT"
+          fi
+
+      - name: Create or update pull request
+        if: steps.check_changes.outputs.has_changes == 'true'
+        id: create_pr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          branch: auto-update-sitreps
+          delete-branch: true
+          title: "Auto update sitreps"
+          body: "Automated sitrep refresh from ReliefWeb (OCHA, UNHCR, WFP, WHO, IOM, FAO, MSF, ICRC, IFRC and others)"
+          labels: automated
+          commit-message: "Auto update sitreps"
+
+      - name: Enable Pull Request Automerge
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
+          merge-method: squash

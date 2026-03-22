@@ -634,6 +634,26 @@ body {
   text-decoration: underline;
 }
 
+.load-more-btn {
+  display: block;
+  width: 100%;
+  margin: 1rem 0 0.5rem;
+  padding: 0.65rem 1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--accent);
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.load-more-btn:hover {
+  border-color: var(--accent);
+  background: var(--bg);
+}
+
 /* Sitrep filter panel */
 #sitrep-filter-panel {
   flex: 0 0 260px;
