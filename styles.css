@@ -278,7 +278,7 @@ body {
 .filter-section h3 {
   font-family: var(--font-ui);
   font-size: 0.9rem;
-  margin: 1rem 0 0.6rem 0;
+  margin: 0;
   font-weight: 600;
   color: var(--fg);
 }
@@ -294,19 +294,8 @@ body {
   font-weight: 500;
 }
 
-.sort-controls {
-  margin-bottom: 1.5rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border);
-}
+/* .sort-controls is now a .filter-section — spacing and border inherited */
 
-.sort-controls h3 {
-  font-family: var(--font-ui);
-  font-size: 0.9rem;
-  margin: 0 0 0.8rem 0;
-  font-weight: 600;
-  color: var(--fg);
-}
 
 .sort-options {
   display: flex;
@@ -356,6 +345,208 @@ body {
   background: var(--accent);
   color: white;
   border-color: var(--accent);
+}
+
+/* -------------------------------------------------------------------------
+   Collapsible filter sections — both panels
+   ---------------------------------------------------------------------- */
+
+.filter-section {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.filter-section:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.filter-section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.3rem 0;
+  gap: 0.5rem;
+}
+
+.filter-section-header:hover .filter-chevron {
+  border-color: var(--fg);
+}
+
+/* CSS-drawn chevron — rotates to indicate collapsed state */
+.filter-chevron {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-right: 2px solid var(--muted);
+  border-bottom: 2px solid var(--muted);
+  transform: rotate(45deg);
+  transition: transform 0.2s ease, border-color 0.15s ease;
+  flex-shrink: 0;
+  margin-top: -3px;
+}
+
+.filter-section.collapsed .filter-chevron {
+  transform: rotate(-45deg);
+  margin-top: 0;
+}
+
+/* Grid-based collapse — no JS height measurement needed */
+.filter-section-body {
+  display: grid;
+  grid-template-rows: 1fr;
+  transition: grid-template-rows 0.2s ease;
+}
+
+.filter-section.collapsed .filter-section-body {
+  grid-template-rows: 0fr;
+}
+
+.filter-section-body-inner {
+  min-height: 0;
+  overflow: hidden;
+  padding-top: 0.4rem;
+}
+
+/* #sitrep-filter-panel panel title */
+#sitrep-filter-panel h2 {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  margin-bottom: 0.8rem;
+  color: var(--muted);
+}
+
+/* -------------------------------------------------------------------------
+   Hierarchical location filter — sitreps panel
+   ---------------------------------------------------------------------- */
+
+.location-region {
+  margin-bottom: 0.15rem;
+}
+
+.location-region-header {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem 0;
+}
+
+.location-region-header input[type="checkbox"] {
+  margin: 0;
+  flex-shrink: 0;
+}
+
+.location-region-name {
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--fg);
+  flex: 1;
+  cursor: pointer;
+  user-select: none;
+}
+
+.location-region-chevron {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-right: 1.5px solid var(--muted);
+  border-bottom: 1.5px solid var(--muted);
+  transform: rotate(45deg);
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+  cursor: pointer;
+  margin-top: -2px;
+}
+
+.location-region.collapsed .location-region-chevron {
+  transform: rotate(-45deg);
+  margin-top: 0;
+}
+
+.location-country-list {
+  display: grid;
+  grid-template-rows: 1fr;
+  transition: grid-template-rows 0.15s ease;
+}
+
+.location-region.collapsed .location-country-list {
+  grid-template-rows: 0fr;
+}
+
+.location-country-list > div {
+  min-height: 0;
+  overflow: hidden;
+}
+
+.location-country-label {
+  display: block;
+  padding: 0.2rem 0 0.2rem 1.3rem;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+/* -------------------------------------------------------------------------
+   Subregion level — sits inside the collapsible subregion list of a continent
+   ---------------------------------------------------------------------- */
+
+.location-subregion {
+  margin-bottom: 0.1rem;
+}
+
+.location-subregion-header {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.15rem 0 0.15rem 1.1rem;
+}
+
+.location-subregion-header input[type="checkbox"] {
+  margin: 0;
+  flex-shrink: 0;
+}
+
+.location-subregion-name {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--muted);
+  flex: 1;
+  cursor: pointer;
+  user-select: none;
+}
+
+.location-subregion-chevron {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-right: 1.5px solid var(--muted);
+  border-bottom: 1.5px solid var(--muted);
+  transform: rotate(45deg);
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+  cursor: pointer;
+  margin-top: -2px;
+}
+
+.location-subregion.collapsed .location-subregion-chevron {
+  transform: rotate(-45deg);
+  margin-top: 0;
+}
+
+/* Collapse country list when a subregion is collapsed */
+.location-subregion.collapsed .location-country-list {
+  grid-template-rows: 0fr;
+}
+
+/* Country labels within a subregion — extra left indent for the 3rd level */
+.location-subregion .location-country-label {
+  padding-left: 2.2rem;
 }
 
 .tab-content {
@@ -687,19 +878,6 @@ body {
 }
 
 /* Type Toggle Switch */
-.type-toggle-container {
-  margin-bottom: 1.5rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border);
-}
-
-.type-toggle-container h3 {
-  font-family: var(--font-ui);
-  font-size: 0.9rem;
-  margin: 0 0 0.8rem 0;
-  font-weight: 600;
-  color: var(--fg);
-}
 
 .type-toggle-wrapper {
   display: flex;

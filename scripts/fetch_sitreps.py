@@ -19,6 +19,7 @@ from pathlib import Path
 # Base class
 # ---------------------------------------------------------------------------
 
+
 class SitrepFetcher:
     """Base class — each subclass wraps one upstream API transport."""
 
@@ -151,7 +152,7 @@ class ReliefWebFetcher(SitrepFetcher):
         else:
             date = datetime.now(timezone.utc).strftime('%Y-%m-%d')
 
-        # Location
+        # Location (region/subregion annotated in main() from the countries table)
         countries = fields.get('country', [])
         location = countries[0].get('name', 'Unknown') if countries else 'Unknown'
 
@@ -216,11 +217,36 @@ def build_providers(config_path=None):
 
 
 # ---------------------------------------------------------------------------
+# Geographic lookup — reads from the countries fact table (migration 0006)
+# ---------------------------------------------------------------------------
+
+def load_country_geo(db_path):
+    """
+    Return a dict mapping country name → (continent, subregion) by reading
+    the `countries` fact table in history.db.
+
+    Falls back to an empty dict if the table does not yet exist (e.g. migration
+    hasn't been run), so callers receive 'Other' / None gracefully.
+    """
+    try:
+        conn = sqlite3.connect(db_path)
+        try:
+            rows = conn.execute(
+                'SELECT name, continent, subregion FROM countries'
+            ).fetchall()
+        finally:
+            conn.close()
+        return {name: (continent, subregion) for name, continent, subregion in rows}
+    except sqlite3.OperationalError:
+        return {}
+
+
+# ---------------------------------------------------------------------------
 # DB helpers — history.db is the canonical store; sitreps.json is a view
 # ---------------------------------------------------------------------------
 
 _COLS = ('id', 'provider', 'type', 'title', 'source', 'crisis',
-         'location', 'date', 'content', 'url')
+         'location', 'date', 'content', 'url', 'region', 'subregion')
 
 
 def upsert_to_db(db_path, sitreps):
@@ -250,21 +276,25 @@ def upsert_to_db(db_path, sitreps):
                 conn.execute(
                     '''UPDATE sitreps
                        SET title = ?, source = ?, crisis = ?, location = ?,
-                           content = ?, url = ?, last_seen_dt = ?
+                           content = ?, url = ?, region = ?, subregion = ?,
+                           last_seen_dt = ?
                        WHERE id = ?''',
                     (s['title'], s['source'], s.get('crisis'), s.get('location'),
-                     s.get('content'), s.get('url'), now, s['id']),
+                     s.get('content'), s.get('url'), s.get('region'),
+                     s.get('subregion'), now, s['id']),
                 )
             else:
                 conn.execute(
                     '''INSERT INTO sitreps
                        (id, provider, type, title, source, crisis, location,
-                        date, content, url, first_seen_dt, last_seen_dt)
-                       VALUES (?,?,?,?,?,?,?,?,?,?,?,?)''',
+                        date, content, url, region, subregion,
+                        first_seen_dt, last_seen_dt)
+                       VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)''',
                     (s['id'], s.get('provider', 'reliefweb'),
                      s.get('type', 'original'), s['title'], s['source'],
                      s.get('crisis'), s.get('location'), s['date'],
-                     s.get('content'), s.get('url'), now, now),
+                     s.get('content'), s.get('url'), s.get('region'),
+                     s.get('subregion'), now, now),
                 )
                 new_count += 1
         conn.commit()
@@ -285,7 +315,7 @@ def export_from_db(db_path, output_file, days=30):
     try:
         rows = conn.execute(
             '''SELECT id, provider, type, title, source, crisis, location,
-                      date, content, url
+                      date, content, url, region, subregion
                FROM sitreps
                WHERE date >= ?
                ORDER BY date DESC''',
@@ -327,11 +357,26 @@ def main():
         print('=' * 50)
         return
 
-    # 2. Upsert into DB (canonical history store)
+    # 2. Annotate with continent / subregion from the countries fact table
+    country_geo = load_country_geo(db_path)
+    if not country_geo:
+        print('⚠ countries table empty or missing — run: python scripts/migrate.py')
+    unmapped = set()
+    for s in all_fetched:
+        loc = s.get('location', '')
+        continent, subregion = country_geo.get(loc, ('Other', None))
+        s['region'] = continent
+        s['subregion'] = subregion
+        if continent == 'Other':
+            unmapped.add(loc)
+    if unmapped:
+        print(f'⚠ Unmapped locations (add to countries table): {sorted(unmapped)}')
+
+    # 3. Upsert into DB (canonical history store)
     print(f'\n→ Upserting {len(all_fetched)} records into DB...')
     new_count = upsert_to_db(db_path, all_fetched)
 
-    # 3. Export last 30 days from DB → sitreps.json (frontend read-model)
+    # 4. Export last 30 days from DB → sitreps.json (frontend read-model)
     print('\n→ Exporting to sitreps.json...')
     exported = export_from_db(db_path, output_file, days=30)
 

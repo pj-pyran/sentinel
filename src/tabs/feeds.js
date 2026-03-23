@@ -36,10 +36,25 @@ export class FeedsTab {
     // Check if sort controls already exist
     if (filterPanel.querySelector('.sort-controls')) return;
 
-    const sortControls = document.createElement('div');
-    sortControls.className = 'sort-controls';
-    sortControls.innerHTML = `
-      <h3>Sort By</h3>
+    const section = document.createElement('div');
+    section.className = 'filter-section sort-controls';
+
+    const storageKey = 'feedFilter_sort_collapsed';
+    if (localStorage.getItem(storageKey) === 'true') section.classList.add('collapsed');
+
+    const header = document.createElement('div');
+    header.className = 'filter-section-header';
+    header.innerHTML = '<h3>Sort By</h3><span class="filter-chevron"></span>';
+    header.addEventListener('click', () => {
+      section.classList.toggle('collapsed');
+      localStorage.setItem(storageKey, section.classList.contains('collapsed'));
+    });
+
+    const body = document.createElement('div');
+    body.className = 'filter-section-body';
+    const inner = document.createElement('div');
+    inner.className = 'filter-section-body-inner';
+    inner.innerHTML = `
       <div class="sort-options">
         <label><input type="radio" name="sort" value="time-desc" ${this.sortBy === 'time-desc' ? 'checked' : ''}> Newest first</label>
         <label><input type="radio" name="sort" value="time-asc" ${this.sortBy === 'time-asc' ? 'checked' : ''}> Oldest first</label>
@@ -48,19 +63,13 @@ export class FeedsTab {
       </div>
     `;
 
-    // Insert after article count (or after h2 if count doesn't exist yet)
-    const articleCount = filterPanel.querySelector('.article-count');
-    const sourcesHeading = filterPanel.querySelector('h2');
-    if (articleCount) {
-      articleCount.after(sortControls);
-    } else if (sourcesHeading) {
-      sourcesHeading.after(sortControls);
-    } else {
-      filterPanel.appendChild(sortControls);
-    }
+    body.appendChild(inner);
+    section.appendChild(header);
+    section.appendChild(body);
+    filterPanel.appendChild(section);
 
     // Add event listeners
-    sortControls.querySelectorAll('input[name="sort"]').forEach(radio => {
+    inner.querySelectorAll('input[name="sort"]').forEach((radio) => {
       radio.addEventListener('change', (e) => {
         this.sortBy = e.target.value;
         localStorage.setItem('feedSortBy', this.sortBy);
@@ -150,6 +159,41 @@ export class FeedsTab {
     const filterContainer = document.getElementById('filter-container');
     if (!filterContainer) return;
 
+    const filterPanel = document.getElementById('filter-panel');
+
+    // Wrap sources in a collapsible section (once, on first call)
+    if (!filterPanel.querySelector('.filter-section')) {
+      const oldH2 = filterPanel.querySelector('h2');
+
+      const section = document.createElement('div');
+      section.className = 'filter-section';
+
+      const storageKey = 'feedFilter_sources_collapsed';
+      if (localStorage.getItem(storageKey) === 'true') section.classList.add('collapsed');
+
+      const header = document.createElement('div');
+      header.className = 'filter-section-header';
+      header.innerHTML = '<h3>Sources</h3><span class="filter-chevron"></span>';
+      header.addEventListener('click', () => {
+        section.classList.toggle('collapsed');
+        localStorage.setItem(storageKey, section.classList.contains('collapsed'));
+      });
+
+      const body = document.createElement('div');
+      body.className = 'filter-section-body';
+      const inner = document.createElement('div');
+      inner.className = 'filter-section-body-inner';
+      body.appendChild(inner);
+      section.appendChild(header);
+      section.appendChild(body);
+
+      // Insert section before filter-container, then move filter-container inside
+      filterPanel.insertBefore(section, filterContainer);
+      inner.appendChild(filterContainer);
+
+      if (oldH2) oldH2.remove();
+    }
+
     filterContainer.innerHTML = '';
     const uniqueSources = getUniqueSources(this.articles);
 
@@ -165,22 +209,22 @@ export class FeedsTab {
     filterActions.addEventListener('click', (e) => {
       const btn = e.target.closest('.filter-action-btn');
       if (!btn) return;
-      
+
       const action = btn.dataset.action;
       const checkboxes = filterContainer.querySelectorAll('.source-filter');
-      
+
       if (action === 'clear') {
         this.activeFilters.clear();
-        checkboxes.forEach(cb => cb.checked = false);
+        checkboxes.forEach((cb) => { cb.checked = false; });
       } else if (action === 'select') {
-        uniqueSources.forEach(s => this.activeFilters.add(s));
-        checkboxes.forEach(cb => cb.checked = true);
+        uniqueSources.forEach((s) => this.activeFilters.add(s));
+        checkboxes.forEach((cb) => { cb.checked = true; });
       }
-      
+
       this.render();
     });
 
-    uniqueSources.forEach(source => {
+    uniqueSources.forEach((source) => {
       const label = document.createElement('label');
       const checkbox = document.createElement('input');
       checkbox.type = 'checkbox';
