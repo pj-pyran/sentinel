@@ -65,26 +65,244 @@ export class SitrepsTab {
     return Array.from(sources).sort();
   }
 
+  getRegionHierarchy() {
+    const hierarchy = {};
+    this.sitreps.forEach((sitrep) => {
+      const continent = sitrep.region || 'Other';
+      const subregion = sitrep.subregion || 'Other';
+      const loc = sitrep.location;
+      if (!loc) return;
+      if (!hierarchy[continent]) hierarchy[continent] = {};
+      if (!hierarchy[continent][subregion]) hierarchy[continent][subregion] = new Set();
+      hierarchy[continent][subregion].add(loc);
+    });
+    // Sort continents alphabetically, pinning Global and Other to the bottom.
+    // Within each continent sort subregions alphabetically, countries likewise.
+    return Object.fromEntries(
+      Object.entries(hierarchy)
+        .sort(([a], [b]) => {
+          if (a === 'Global' || a === 'Other') return 1;
+          if (b === 'Global' || b === 'Other') return -1;
+          return a.localeCompare(b);
+        })
+        .map(([continent, subregions]) => [
+          continent,
+          Object.fromEntries(
+            Object.entries(subregions)
+              .sort(([a], [b]) => a.localeCompare(b))
+              .map(([sub, locs]) => [sub, Array.from(locs).sort()])
+          )
+        ])
+    );
+  }
+
+  createLocationFilter(container, defaultCollapsed = false) {
+    const hierarchy = this.getRegionHierarchy();
+    if (Object.keys(hierarchy).length === 0) return;
+
+    const section = document.createElement('div');
+    section.className = 'filter-section';
+
+    const storageKey = 'sitrepFilter_locations_collapsed';
+    const storedLoc = localStorage.getItem(storageKey);
+    if (storedLoc === null ? defaultCollapsed : storedLoc === 'true') section.classList.add('collapsed');
+
+    const header = document.createElement('div');
+    header.className = 'filter-section-header';
+    header.innerHTML = '<h3>Location</h3><span class="filter-chevron"></span>';
+    header.addEventListener('click', () => {
+      section.classList.toggle('collapsed');
+      localStorage.setItem(storageKey, section.classList.contains('collapsed'));
+    });
+
+    const body = document.createElement('div');
+    body.className = 'filter-section-body';
+    const inner = document.createElement('div');
+    inner.className = 'filter-section-body-inner';
+
+    Object.entries(hierarchy).forEach(([continent, subregions]) => {
+      // Flat list of all countries in this continent (for continent-level checkbox logic)
+      const allContinentCountries = Object.values(subregions).flat();
+
+      const continentEl = document.createElement('div');
+      continentEl.className = 'location-region';
+
+      const continentStorageKey = `sitrepContinent_${continent}_collapsed`;
+      if (localStorage.getItem(continentStorageKey) === 'true') continentEl.classList.add('collapsed');
+
+      // ── Continent header ──────────────────────────────────────────────────
+      const continentHeader = document.createElement('div');
+      continentHeader.className = 'location-region-header';
+
+      const continentCheckbox = document.createElement('input');
+      continentCheckbox.type = 'checkbox';
+      const allContChecked = allContinentCountries.every((c) => this.activeFilters.locations.has(c));
+      const someContChecked = allContinentCountries.some((c) => this.activeFilters.locations.has(c));
+      continentCheckbox.checked = allContChecked;
+      continentCheckbox.indeterminate = !allContChecked && someContChecked;
+
+      continentCheckbox.addEventListener('change', (e) => {
+        e.stopPropagation();
+        allContinentCountries.forEach((c) => {
+          if (e.target.checked) this.activeFilters.locations.add(c);
+          else this.activeFilters.locations.delete(c);
+        });
+        continentEl.querySelectorAll('.country-checkbox').forEach((cb) => {
+          cb.checked = e.target.checked;
+        });
+        continentEl.querySelectorAll('.location-subregion-header input[type="checkbox"]').forEach((cb) => {
+          cb.checked = e.target.checked;
+          cb.indeterminate = false;
+        });
+        this.visibleCount = 30;
+        this.render();
+      });
+
+      const continentLabel = document.createElement('span');
+      continentLabel.className = 'location-region-name';
+      continentLabel.textContent = continent;
+
+      const continentChevron = document.createElement('span');
+      continentChevron.className = 'location-region-chevron';
+
+      const toggleContinent = () => {
+        continentEl.classList.toggle('collapsed');
+        localStorage.setItem(continentStorageKey, continentEl.classList.contains('collapsed'));
+      };
+      continentLabel.addEventListener('click', toggleContinent);
+      continentChevron.addEventListener('click', toggleContinent);
+
+      continentHeader.appendChild(continentCheckbox);
+      continentHeader.appendChild(continentLabel);
+      continentHeader.appendChild(continentChevron);
+
+      // ── Subregion list ────────────────────────────────────────────────────
+      const subregionListOuter = document.createElement('div');
+      subregionListOuter.className = 'location-country-list';
+      const subregionListInner = document.createElement('div');
+
+      Object.entries(subregions).forEach(([subregion, countries]) => {
+        const subregionEl = document.createElement('div');
+        subregionEl.className = 'location-subregion';
+
+        const subregionStorageKey = `sitrepSubregion_${continent}_${subregion}_collapsed`;
+        if (localStorage.getItem(subregionStorageKey) === 'true') subregionEl.classList.add('collapsed');
+
+        // ── Subregion header ────────────────────────────────────────────────
+        const subregionHeader = document.createElement('div');
+        subregionHeader.className = 'location-subregion-header';
+
+        const subregionCheckbox = document.createElement('input');
+        subregionCheckbox.type = 'checkbox';
+        const allSubChecked = countries.every((c) => this.activeFilters.locations.has(c));
+        const someSubChecked = countries.some((c) => this.activeFilters.locations.has(c));
+        subregionCheckbox.checked = allSubChecked;
+        subregionCheckbox.indeterminate = !allSubChecked && someSubChecked;
+
+        subregionCheckbox.addEventListener('change', (e) => {
+          e.stopPropagation();
+          countries.forEach((c) => {
+            if (e.target.checked) this.activeFilters.locations.add(c);
+            else this.activeFilters.locations.delete(c);
+          });
+          subregionEl.querySelectorAll('.country-checkbox').forEach((cb) => {
+            cb.checked = e.target.checked;
+          });
+          // Bubble up to continent checkbox
+          const allCont = allContinentCountries.every((c) => this.activeFilters.locations.has(c));
+          const someCont = allContinentCountries.some((c) => this.activeFilters.locations.has(c));
+          continentCheckbox.checked = allCont;
+          continentCheckbox.indeterminate = !allCont && someCont;
+          this.visibleCount = 30;
+          this.render();
+        });
+
+        const subregionLabel = document.createElement('span');
+        subregionLabel.className = 'location-subregion-name';
+        subregionLabel.textContent = subregion;
+
+        const subregionChevron = document.createElement('span');
+        subregionChevron.className = 'location-subregion-chevron';
+
+        const toggleSubregion = () => {
+          subregionEl.classList.toggle('collapsed');
+          localStorage.setItem(subregionStorageKey, subregionEl.classList.contains('collapsed'));
+        };
+        subregionLabel.addEventListener('click', toggleSubregion);
+        subregionChevron.addEventListener('click', toggleSubregion);
+
+        subregionHeader.appendChild(subregionCheckbox);
+        subregionHeader.appendChild(subregionLabel);
+        subregionHeader.appendChild(subregionChevron);
+
+        // ── Country list ──────────────────────────────────────────────────
+        const countryList = document.createElement('div');
+        countryList.className = 'location-country-list';
+        const countryListInner = document.createElement('div');
+
+        countries.forEach((country) => {
+          const countryLabel = document.createElement('label');
+          countryLabel.className = 'location-country-label';
+          const cb = document.createElement('input');
+          cb.type = 'checkbox';
+          cb.className = 'country-checkbox';
+          cb.value = country;
+          cb.checked = this.activeFilters.locations.has(country);
+          cb.addEventListener('change', (e) => {
+            if (e.target.checked) this.activeFilters.locations.add(country);
+            else this.activeFilters.locations.delete(country);
+            // Update subregion checkbox
+            const allSub = countries.every((c) => this.activeFilters.locations.has(c));
+            const someSub = countries.some((c) => this.activeFilters.locations.has(c));
+            subregionCheckbox.checked = allSub;
+            subregionCheckbox.indeterminate = !allSub && someSub;
+            // Update continent checkbox
+            const allCont = allContinentCountries.every((c) => this.activeFilters.locations.has(c));
+            const someCont = allContinentCountries.some((c) => this.activeFilters.locations.has(c));
+            continentCheckbox.checked = allCont;
+            continentCheckbox.indeterminate = !allCont && someCont;
+            this.visibleCount = 30;
+            this.render();
+          });
+          countryLabel.appendChild(cb);
+          countryLabel.appendChild(document.createTextNode(` ${country}`));
+          countryListInner.appendChild(countryLabel);
+        });
+
+        countryList.appendChild(countryListInner);
+        subregionEl.appendChild(subregionHeader);
+        subregionEl.appendChild(countryList);
+        subregionListInner.appendChild(subregionEl);
+      });
+
+      subregionListOuter.appendChild(subregionListInner);
+      continentEl.appendChild(continentHeader);
+      continentEl.appendChild(subregionListOuter);
+      inner.appendChild(continentEl);
+    });
+
+    body.appendChild(inner);
+    section.appendChild(header);
+    section.appendChild(body);
+    container.appendChild(section);
+  }
+
   initializeFilters() {
     const filterPanel = document.getElementById('sitrep-filter-panel');
     if (!filterPanel) return;
 
-    filterPanel.innerHTML = '<h2>Filters</h2>';
+    filterPanel.innerHTML = '';
+    this.initializeSortControls();
+
+    const heading = document.createElement('h2');
+    heading.textContent = 'Filters';
+    filterPanel.appendChild(heading);
 
     this.createFilterActions(filterPanel);
-
-    // Type toggle (instead of checkboxes)
     this.createTypeToggle(filterPanel);
-    
-    // Crisis filter
-    this.createFilterSection(filterPanel, 'Crisis', this.getUniqueCrises(), 'crises');
-    
-    // Location filter
-    this.createFilterSection(filterPanel, 'Location', this.getUniqueLocations(), 'locations');
-    
-    // Source filter
-    this.createFilterSection(filterPanel, 'Source', this.getUniqueSources(), 'sources');
-
+    this.createFilterSection(filterPanel, 'Crisis', this.getUniqueCrises(), 'crises', true);
+    this.createLocationFilter(filterPanel, true);
+    this.createFilterSection(filterPanel, 'Source', this.getUniqueSources(), 'sources', true);
     this.updateSitrepCount();
   }
 
@@ -101,23 +319,38 @@ export class SitrepsTab {
       if (!button) return;
 
       const action = button.dataset.action;
-      const crises = this.getUniqueCrises();
-      const locations = this.getUniqueLocations();
-      const sources = this.getUniqueSources();
+      const filterPanel = document.getElementById('sitrep-filter-panel');
 
       if (action === 'clear') {
         this.activeFilters.crises.clear();
         this.activeFilters.locations.clear();
         this.activeFilters.sources.clear();
       } else {
-        this.activeFilters.crises = new Set(crises);
-        this.activeFilters.locations = new Set(locations);
-        this.activeFilters.sources = new Set(sources);
+        this.activeFilters.crises = new Set(this.getUniqueCrises());
+        this.activeFilters.locations = new Set(this.getUniqueLocations());
+        this.activeFilters.sources = new Set(this.getUniqueSources());
       }
 
-      const checkboxes = document.querySelectorAll('#sitrep-filter-panel .filter-checkboxes input[type="checkbox"]');
-      checkboxes.forEach((cb) => {
+      // Crisis / source filter checkboxes
+      filterPanel.querySelectorAll('.filter-checkboxes input[type="checkbox"]').forEach((cb) => {
         cb.checked = action === 'select';
+      });
+
+      // Country-level checkboxes in the hierarchical location section
+      filterPanel.querySelectorAll('.country-checkbox').forEach((cb) => {
+        cb.checked = action === 'select';
+      });
+
+      // Subregion-level checkboxes (indeterminate state cleared)
+      filterPanel.querySelectorAll('.location-subregion-header input[type="checkbox"]').forEach((cb) => {
+        cb.checked = action === 'select';
+        cb.indeterminate = false;
+      });
+
+      // Continent-level checkboxes (indeterminate state cleared)
+      filterPanel.querySelectorAll('.location-region-header input[type="checkbox"]').forEach((cb) => {
+        cb.checked = action === 'select';
+        cb.indeterminate = false;
       });
 
       this.visibleCount = 30;
@@ -128,35 +361,43 @@ export class SitrepsTab {
   }
 
   createTypeToggle(container) {
-    const toggleContainer = document.createElement('div');
-    toggleContainer.className = 'type-toggle-container';
-    toggleContainer.innerHTML = `
-      <h3>Type</h3>
-      <div class="type-toggle-wrapper">
-        <div class="type-toggle">
-          <button class="type-toggle-option ${this.activeFilters.types.has('original') && this.activeFilters.types.has('ai-summary') ? 'active' : ''}" data-value="both">
-            All
-          </button>
-          <button class="type-toggle-option ${this.activeFilters.types.has('original') && !this.activeFilters.types.has('ai-summary') ? 'active' : ''}" data-value="original">
-            Original
-          </button>
-          <button class="type-toggle-option ${!this.activeFilters.types.has('original') && this.activeFilters.types.has('ai-summary') ? 'active' : ''}" data-value="ai-summary">
-            AI
-          </button>
-        </div>
-        <button class="info-button" title="About AI summaries">
-          <span>i</span>
-          <div class="tooltip">AI summaries consolidate information from multiple humanitarian organisation reports using language models to provide a unified view of the situation.</div>
-        </button>
+    const section = document.createElement('div');
+    section.className = 'filter-section';
+
+    const storageKey = 'sitrepFilter_type_collapsed';
+    if (localStorage.getItem(storageKey) === 'true') section.classList.add('collapsed');
+
+    const header = document.createElement('div');
+    header.className = 'filter-section-header';
+    header.innerHTML = '<h3>Type</h3><span class="filter-chevron"></span>';
+    header.addEventListener('click', () => {
+      section.classList.toggle('collapsed');
+      localStorage.setItem(storageKey, section.classList.contains('collapsed'));
+    });
+
+    const body = document.createElement('div');
+    body.className = 'filter-section-body';
+    const inner = document.createElement('div');
+    inner.className = 'filter-section-body-inner';
+
+    const wrapper = document.createElement('div');
+    wrapper.className = 'type-toggle-wrapper';
+    wrapper.innerHTML = `
+      <div class="type-toggle">
+        <button class="type-toggle-option ${this.activeFilters.types.has('original') && this.activeFilters.types.has('ai-summary') ? 'active' : ''}" data-value="both">All</button>
+        <button class="type-toggle-option ${this.activeFilters.types.has('original') && !this.activeFilters.types.has('ai-summary') ? 'active' : ''}" data-value="original">Original</button>
+        <button class="type-toggle-option ${!this.activeFilters.types.has('original') && this.activeFilters.types.has('ai-summary') ? 'active' : ''}" data-value="ai-summary">AI</button>
       </div>
+      <button class="info-button" title="About AI summaries">
+        <span>i</span>
+        <div class="tooltip">AI summaries consolidate information from multiple humanitarian organisation reports using language models to provide a unified view of the situation.</div>
+      </button>
     `;
 
-    const buttons = toggleContainer.querySelectorAll('.type-toggle-option');
-    buttons.forEach(btn => {
+    const buttons = wrapper.querySelectorAll('.type-toggle-option');
+    buttons.forEach((btn) => {
       btn.addEventListener('click', (e) => {
         const value = e.target.dataset.value;
-        
-        // Update active filters
         if (value === 'both') {
           this.activeFilters.types = new Set(['original', 'ai-summary']);
         } else if (value === 'original') {
@@ -164,67 +405,97 @@ export class SitrepsTab {
         } else if (value === 'ai-summary') {
           this.activeFilters.types = new Set(['ai-summary']);
         }
-        
-        // Update active button
-        buttons.forEach(b => b.classList.remove('active'));
+        buttons.forEach((b) => b.classList.remove('active'));
         e.target.classList.add('active');
-        
         this.visibleCount = 30;
         this.render();
       });
     });
 
-    container.appendChild(toggleContainer);
+    inner.appendChild(wrapper);
+    body.appendChild(inner);
+    section.appendChild(header);
+    section.appendChild(body);
+    container.appendChild(section);
   }
 
-  createFilterSection(container, title, items, filterKey) {
+  createFilterSection(container, title, items, filterKey, defaultCollapsed = false) {
     if (items.length === 0) return;
 
     const section = document.createElement('div');
     section.className = 'filter-section';
-    section.innerHTML = `<h3>${title}</h3>`;
+
+    const storageKey = `sitrepFilter_${filterKey}_collapsed`;
+    const storedFs = localStorage.getItem(storageKey);
+    if (storedFs === null ? defaultCollapsed : storedFs === 'true') section.classList.add('collapsed');
+
+    const header = document.createElement('div');
+    header.className = 'filter-section-header';
+    header.innerHTML = `<h3>${title}</h3><span class="filter-chevron"></span>`;
+    header.addEventListener('click', () => {
+      section.classList.toggle('collapsed');
+      localStorage.setItem(storageKey, section.classList.contains('collapsed'));
+    });
+
+    const body = document.createElement('div');
+    body.className = 'filter-section-body';
+    const inner = document.createElement('div');
+    inner.className = 'filter-section-body-inner';
 
     const checkboxes = document.createElement('div');
     checkboxes.className = 'filter-checkboxes';
 
-    items.forEach(item => {
+    items.forEach((item) => {
       const label = document.createElement('label');
       const checkbox = document.createElement('input');
       checkbox.type = 'checkbox';
       checkbox.checked = true;
-      
-      const value = item;
-      checkbox.value = value;
-      
+      checkbox.value = item;
       checkbox.addEventListener('change', (e) => {
         if (e.target.checked) {
-          this.activeFilters[filterKey].add(value);
+          this.activeFilters[filterKey].add(item);
         } else {
-          this.activeFilters[filterKey].delete(value);
+          this.activeFilters[filterKey].delete(item);
         }
         this.visibleCount = 30;
         this.render();
       });
-
       label.appendChild(checkbox);
       label.appendChild(document.createTextNode(` ${item}`));
       checkboxes.appendChild(label);
     });
 
-    section.appendChild(checkboxes);
+    inner.appendChild(checkboxes);
+    body.appendChild(inner);
+    section.appendChild(header);
+    section.appendChild(body);
     container.appendChild(section);
   }
 
   initializeSortControls() {
     const filterPanel = document.getElementById('sitrep-filter-panel');
     if (!filterPanel) return;
-
     if (filterPanel.querySelector('.sort-controls')) return;
 
-    const sortControls = document.createElement('div');
-    sortControls.className = 'sort-controls';
-    sortControls.innerHTML = `
-      <h3>Sort By</h3>
+    const section = document.createElement('div');
+    section.className = 'filter-section sort-controls';
+
+    const storageKey = 'sitrepFilter_sort_collapsed';
+    if (localStorage.getItem(storageKey) === 'true') section.classList.add('collapsed');
+
+    const header = document.createElement('div');
+    header.className = 'filter-section-header';
+    header.innerHTML = '<h3>Sort By</h3><span class="filter-chevron"></span>';
+    header.addEventListener('click', () => {
+      section.classList.toggle('collapsed');
+      localStorage.setItem(storageKey, section.classList.contains('collapsed'));
+    });
+
+    const body = document.createElement('div');
+    body.className = 'filter-section-body';
+    const inner = document.createElement('div');
+    inner.className = 'filter-section-body-inner';
+    inner.innerHTML = `
       <div class="sort-options">
         <label><input type="radio" name="sitrep-sort" value="date-desc" ${this.sortBy === 'date-desc' ? 'checked' : ''}> Newest first</label>
         <label><input type="radio" name="sitrep-sort" value="date-asc" ${this.sortBy === 'date-asc' ? 'checked' : ''}> Oldest first</label>
@@ -233,18 +504,12 @@ export class SitrepsTab {
       </div>
     `;
 
-    // Insert at top of filter panel after h2
-    const h2 = filterPanel.querySelector('h2');
-    if (h2 && h2.nextSibling) {
-      filterPanel.insertBefore(sortControls, h2.nextSibling);
-    } else if (h2) {
-      h2.after(sortControls);
-    } else {
-      filterPanel.insertBefore(sortControls, filterPanel.firstChild);
-    }
+    body.appendChild(inner);
+    section.appendChild(header);
+    section.appendChild(body);
+    filterPanel.appendChild(section);
 
-    // Add event listeners
-    sortControls.querySelectorAll('input[type="radio"]').forEach(radio => {
+    inner.querySelectorAll('input[type="radio"]').forEach((radio) => {
       radio.addEventListener('change', (e) => {
         this.sortBy = e.target.value;
         localStorage.setItem('sitrepSortBy', this.sortBy);
@@ -326,7 +591,6 @@ export class SitrepsTab {
     // Initialise filters if not already done
     if (!document.getElementById('sitrep-filter-panel')?.querySelector('.filter-section')) {
       this.initializeFilters();
-      this.initializeSortControls();
     }
 
     const filtered = this.filterSitreps();
