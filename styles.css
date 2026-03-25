@@ -2,6 +2,7 @@
   --bg: #1a2332;
   --fg: #f1f1f1;
   --accent: #ff8c42;
+  --accent-muted: #f58d4d;
   --muted: #8899aa;
   --border: #2d3e52;
   --card-bg: #23344a;
@@ -129,7 +130,7 @@ body {
   margin-bottom: 0.5rem;
 }
 
-.article-summary {
+.card-summary {
   position: relative;
   margin: 0.15rem 0 1rem 0;
   padding: 0.7rem 0.9rem 0.55rem;
@@ -138,14 +139,15 @@ body {
   background: var(--summary-bg);
 }
 
-.article-summary-text {
+.card-summary-text {
   color: color-mix(in srgb, var(--muted) 88%, white 12%);
   font-size: 0.95rem;
   line-height: 1.5;
   margin: 0;
+  white-space: pre-wrap;
 }
 
-.article-summary:not(.expanded) .article-summary-text {
+.card-summary:not(.expanded) .card-summary-text {
   color: color-mix(in srgb, var(--muted) 92%, white 8%);
   display: -webkit-box;
   -webkit-line-clamp: 1;
@@ -153,9 +155,10 @@ body {
   overflow: hidden;
   padding-right: 5.5rem;
   position: relative;
+  white-space: normal;
 }
 
-.article-summary:not(.expanded) .article-summary-text::after {
+.card-summary:not(.expanded) .card-summary-text::after {
   content: '';
   position: absolute;
   top: 0;
@@ -170,18 +173,24 @@ body {
   pointer-events: none;
 }
 
-.article-summary-toggle {
+.card-summary-empty .card-summary-text {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.card-summary-toggle {
+  display: block;
   margin-top: 0.45rem;
   padding: 0;
   border: none;
   background: none;
-  color: var(--accent);
+  color: var(--accent-muted);
   font-family: var(--font-ui);
   font-size: 0.85rem;
   cursor: pointer;
 }
 
-.article-summary-toggle:hover {
+.card-summary-toggle:hover {
   text-decoration: underline;
 }
 
@@ -768,60 +777,185 @@ body {
   color: var(--accent);
 }
 
-.sitrep-location {
-  font-family: var(--font-ui);
-  font-size: 0.9rem;
-  color: var(--muted);
-}
-
+.sitrep-location,
 .sitrep-source {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
   font-family: var(--font-ui);
   font-size: 0.85rem;
   color: var(--muted);
-  margin-bottom: 0.8rem;
 }
 
-.sitrep-content {
-  font-family: var(--font-body);
-  line-height: 1.6;
-  margin-bottom: 0.7rem;
-  color: var(--fg);
-  white-space: pre-wrap;
+.sitrep-icon {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  opacity: 0.75;
 }
 
-.sitrep-content-empty {
-  color: var(--muted);
-  font-style: italic;
+
+
+.sitrep-card-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0.3rem;
+  gap: 1rem;
 }
 
-.sitrep-toggle {
-  background: transparent;
+.sitrep-preview-btn {
+  background: none;
   border: none;
   color: var(--accent);
   font-family: var(--font-ui);
-  font-size: 0.85rem;
-  font-weight: 600;
-  cursor: pointer;
-  margin-bottom: 0.9rem;
-  padding: 0;
-}
-
-.sitrep-toggle:hover {
-  text-decoration: underline;
-}
-
-.sitrep-link {
-  display: inline-block;
-  color: var(--accent);
-  text-decoration: none;
-  font-family: var(--font-ui);
   font-size: 0.9rem;
   font-weight: 500;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
   transition: opacity 0.2s;
 }
 
-.sitrep-link:hover {
-  opacity: 0.8;
+.sitrep-preview-btn:hover {
+  opacity: 0.75;
+}
+
+.sitrep-rw-link {
+  display: inline-flex;
+  align-items: center;
+  opacity: 0.55;
+  transition: opacity 0.15s;
+}
+
+.sitrep-rw-link:hover {
+  opacity: 1;
+}
+
+.rw-icon {
+  height: 9px;
+  width: auto;
+  display: block;
+}
+
+/* -------------------------------------------------------------------------
+   Sitrep file preview modal / lightbox
+   ---------------------------------------------------------------------- */
+
+.sitrep-file-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9000;
+  align-items: center;
+  justify-content: center;
+}
+
+.sitrep-file-modal.open {
+  display: flex;
+}
+
+.sitrep-file-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+}
+
+.sitrep-file-modal-box {
+  position: relative;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  width: min(680px, 92vw);
+  max-height: 88vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.sitrep-file-modal-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.85rem 1.1rem;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.sitrep-file-modal-title {
+  flex: 1;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--fg);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sitrep-file-modal-close {
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 0.1rem;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+
+.sitrep-file-modal-close:hover {
+  color: var(--fg);
+}
+
+.sitrep-file-modal-body {
+  overflow-y: auto;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  padding: 1rem;
+}
+
+.sitrep-file-modal-img {
+  max-width: 100%;
+  max-height: calc(88vh - 8rem);
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+.sitrep-file-modal-no-preview {
+  color: var(--muted);
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.sitrep-file-modal-footer {
+  padding: 0.7rem 1.1rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: flex-end;
+  flex-shrink: 0;
+}
+
+.sitrep-file-modal-download {
+  display: inline-block;
+  color: var(--accent);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+
+.sitrep-file-modal-download:hover {
+  opacity: 0.75;
   text-decoration: underline;
 }
 

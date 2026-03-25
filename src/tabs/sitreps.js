@@ -630,9 +630,9 @@ export class SitrepsTab {
     card.dataset.sitrepId = sitrep.id;
 
     const typeLabel = sitrep.type === 'ai-summary' ? 'AI Summary' : 'Original Report';
-    const sourceInfo = sitrep.type === 'ai-summary'
-      ? `Sources: ${sitrep.relatedSources?.join(', ') || 'Unknown'}`
-      : `Source: ${sitrep.source}`;
+    const sourceText = sitrep.type === 'ai-summary'
+      ? sitrep.relatedSources?.join(', ') || 'Unknown'
+      : sitrep.source || 'Unknown';
 
     const expanded = this.expandedSitreps.has(sitrep.id);
     const formatted = this.formatContent(sitrep.content, expanded);
@@ -645,19 +645,25 @@ export class SitrepsTab {
       <h3 class="sitrep-title">${this.escapeHtml(sitrep.title || 'Untitled sitrep')}</h3>
       <div class="sitrep-meta">
         <span class="sitrep-crisis">${this.escapeHtml(sitrep.crisis || 'Uncategorized')}</span>
-        <span class="sitrep-location">📍 ${this.escapeHtml(sitrep.location || 'Unknown')}</span>
+        <span class="sitrep-location"><svg class="sitrep-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>${this.escapeHtml(sitrep.location || 'Unknown')}</span>
+        <span class="sitrep-source"><svg class="sitrep-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4 10v7h3v-7H4zm6 0v7h3v-7h-3zM2 22h19v-3H2v3zm14-12v7h3v-7h-3zM11.5 1L2 6v2h19V6l-9.5-5z"/></svg>${this.escapeHtml(sourceText)}</span>
       </div>
-      <div class="sitrep-source">${this.escapeHtml(sourceInfo)}</div>
-      <div class="sitrep-content ${formatted.isFallback ? 'sitrep-content-empty' : ''}">${this.escapeHtml(formatted.text)}</div>
-      ${formatted.canToggle ? `<button class="sitrep-toggle" data-id="${sitrep.id}">${expanded ? 'Show less' : 'Read more'}</button>` : ''}
-      ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" rel="noopener noreferrer" class="sitrep-link">View full report →</a>` : ''}
+      <div class="card-summary ${formatted.isFallback ? 'card-summary-empty' : ''} ${expanded ? 'expanded' : ''}">
+        <p class="card-summary-text">${this.escapeHtml(formatted.text)}</p>
+        ${formatted.canToggle ? `<button class="card-summary-toggle" data-id="${sitrep.id}">${expanded ? 'Collapse summary' : 'Expand summary...'}</button>` : ''}
+      </div>
+      ${(sitrep.file_url || sitrep.url) ? `
+      <div class="sitrep-card-actions">
+        ${sitrep.file_url ? `<button class="sitrep-preview-btn" data-file-url="${sitrep.file_url}" data-file-preview="${sitrep.file_preview || ''}" data-title="${this.escapeHtml(sitrep.title || '')}" title="Preview report">See report</button>` : ''}
+        ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" rel="noopener noreferrer" class="sitrep-rw-link" title="View on ReliefWeb"><img src="/public/assets/rw-icon.png" alt="ReliefWeb" class="rw-icon"></a>` : ''}
+      </div>` : ''}
     `;
 
     return card;
   }
 
   attachCardInteractions(container) {
-    container.querySelectorAll('.sitrep-toggle').forEach((button) => {
+    container.querySelectorAll('.card-summary-toggle').forEach((button) => {
       button.addEventListener('click', () => {
         const sitrepId = button.dataset.id;
         if (!sitrepId) return;
@@ -669,6 +675,15 @@ export class SitrepsTab {
         }
 
         this.render();
+      });
+    });
+
+    container.querySelectorAll('.sitrep-preview-btn').forEach((button) => {
+      button.addEventListener('click', () => {
+        const fileUrl = button.dataset.fileUrl;
+        const previewUrl = button.dataset.filePreview;
+        const title = button.dataset.title;
+        this._openFilePreview(fileUrl, previewUrl, title);
       });
     });
   }
@@ -689,7 +704,7 @@ export class SitrepsTab {
       .replace(/\s+/g, ' ')
       .trim();
 
-    const maxLength = 420;
+    const maxLength = 180;
     const canToggle = cleaned.length > maxLength;
 
     if (!canToggle || expanded) {
@@ -727,6 +742,58 @@ export class SitrepsTab {
       .replaceAll('>', '&gt;')
       .replaceAll('"', '&quot;')
       .replaceAll("'", '&#39;');
+  }
+
+  _ensureModal() {
+    if (document.getElementById('sitrep-file-modal')) return;
+    const modal = document.createElement('div');
+    modal.id = 'sitrep-file-modal';
+    modal.className = 'sitrep-file-modal';
+    modal.innerHTML = `
+      <div class="sitrep-file-modal-backdrop"></div>
+      <div class="sitrep-file-modal-box">
+        <div class="sitrep-file-modal-header">
+          <span class="sitrep-file-modal-title"></span>
+          <button class="sitrep-file-modal-close" aria-label="Close">&times;</button>
+        </div>
+        <div class="sitrep-file-modal-body">
+          <img class="sitrep-file-modal-img" src="" alt="Report preview" />
+          <p class="sitrep-file-modal-no-preview">No preview available</p>
+        </div>
+        <div class="sitrep-file-modal-footer">
+          <a class="sitrep-file-modal-download" href="" download target="_blank" rel="noopener noreferrer">Download PDF</a>
+        </div>
+      </div>
+    `;
+    document.body.appendChild(modal);
+
+    const close = () => modal.classList.remove('open');
+    modal.querySelector('.sitrep-file-modal-backdrop').addEventListener('click', close);
+    modal.querySelector('.sitrep-file-modal-close').addEventListener('click', close);
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') close();
+    });
+  }
+
+  _openFilePreview(fileUrl, previewUrl, title) {
+    this._ensureModal();
+    const modal = document.getElementById('sitrep-file-modal');
+    modal.querySelector('.sitrep-file-modal-title').textContent = title || 'Report preview';
+    modal.querySelector('.sitrep-file-modal-download').href = fileUrl;
+
+    const img = modal.querySelector('.sitrep-file-modal-img');
+    const noPreview = modal.querySelector('.sitrep-file-modal-no-preview');
+    if (previewUrl) {
+      img.src = previewUrl;
+      img.style.display = 'block';
+      noPreview.style.display = 'none';
+    } else {
+      img.src = '';
+      img.style.display = 'none';
+      noPreview.style.display = 'block';
+    }
+
+    modal.classList.add('open');
   }
 
   show() {

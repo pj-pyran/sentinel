@@ -1,5 +1,59 @@
 [
   {
+    "id": "rw-4203961",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Lebanon Health Sector Emergency Situation Report - Issue#3 ( March 23, 2026)",
+    "source": "Health Cluster",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "date": "2026-03-23",
+    "content": "Priority & Needs • Flexible and rapid funding is urgently required to sustain emergency health operations and ensure uninterrupted lifesaving services. In line with the Lebanon Flash Appeal (March–May 2026), the Health Sector requires an additional USD 37 million to prevent further deterioration of public health outcomes. • Improved access to high-risk and hard-to-reach areas is essential to restore outreach and support partners. • Strengthened surveillance, particularly in shelters, is needed to enhance early detection and rapid response to communicable disease threats. • Expanded risk communication and community engagement are needed to improve awareness of available services, encourage early care-seeking, and reduce health risks • Replenishment of essential medicines and supplies, in…",
+    "url": "https://reliefweb.int/report/lebanon/lebanon-health-sector-emergency-situation-report-issue3-march-23-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203961",
+    "file_url": "https://reliefweb.int/attachments/5f130f1b-205c-4098-bcf6-13ad4786d047/Health%20Sector%20Emergency%20Sitrep%20-%20Issue%233..pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/5f/13/5f130f1b-205c-4098-bcf6-13ad4786d047.png",
+    "file_size": 5004024
+  },
+  {
+    "id": "rw-4203966",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Humanitarian Situation Report | 19 March 2026",
+    "source": "OCHA",
+    "crisis": "Humanitarian Crisis",
+    "location": "occupied Palestinian territory",
+    "date": "2026-03-23",
+    "content": "## Highlights - Families across the Occupied Palestinian Territory are concluding the month of Ramadan amid deepening humanitarian needs and heightened exposure to violence, displacement and destruction of property; UN human rights officials warn of a pattern of unlawful killings. - In the [Gaza Strip](https://www.ochaopt.org/content/humanitarian-situation-report-19-march-2026#gaza-strip), reports of airstrikes and other attacks hitting civilian areas continue, while over the weekend, a strong dust storm damaged the shelters and belongings of hundreds of families in displacement sites. - In the [West Bank](https://www.ochaopt.org/content/humanitarian-situation-report-19-march-2026#west-bank), settler attacks have become more severe, with a 54 per cent increase in injuries and a more tha…",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/humanitarian-situation-report-19-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203966",
+    "file_url": "https://reliefweb.int/attachments/b8f639fd-98cb-4e36-b66e-fa64c87acbd5/Humanitarian%20Situation%20Report%20_%2019%20March%202026%20_%20United%20Nations%20Office%20for%20the%20Coordination%20of%20Humanitarian%20Affairs%20-%20Occupied%20Palestinian%20Territory.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b8/f6/b8f639fd-98cb-4e36-b66e-fa64c87acbd5.png",
+    "file_size": 793267
+  },
+  {
+    "id": "rw-4203971",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Sudan Country Brief - February 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Sudan",
+    "date": "2026-03-23",
+    "content": "- In February, WFP assisted 3.3 million people, distributing 17,100 mt of food and USD 12 million cash. 1.2 million people were reached in areas projected as already facing or at risk of catastrophic hunger impacts, covering 95 percent of the 1.3 million food-insecure population in those locations. - In February, WFP reached 389,000 in the northeast region, 155,000 in the central and south regions, 912,000 in Darfur states, 208,000 in Khartoum state, and 288,000 in the Kordofan states. - Insecurity across Sudan continues to complicate WFP operations, with drone strikes and active fighting affecting movements, facilities, and personnel. Aerial attacks on contracted trucks, warehouses, guesthouses, and monitoring teams have caused commodity losses, infrastructure damage, and injuries. Thi…",
+    "url": "https://reliefweb.int/report/sudan/wfp-sudan-country-brief-february-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4203971",
+    "file_url": "https://reliefweb.int/attachments/47fde253-cc47-47af-82c0-556815b6b0f6/Sudan%20Country%20Brief%20202603.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/47/fd/47fde253-cc47-47af-82c0-556815b6b0f6.png",
+    "file_size": 382727
+  },
+  {
     "id": "rw-4203916",
     "provider": "reliefweb",
     "type": "original",
@@ -9,7 +63,13 @@
     "location": "World",
     "date": "2026-03-23",
     "content": "Climate models continue to indicate a rapid transition to El Niño in the Pacific by late spring, combined with a positive Indian Ocean Dipole. These signals are expected to generate wetter-than-normal conditions across all Regions during the spring. In summer, wet conditions may persist in the Western Region, while drier-than-normal conditions are forecast for Eastern African, the Arabian Peninsula and the Eastern Region. Spring breeding is expected to remain small‑scale in Saudi Arabia, Yemen, Oman, Egypt, Sudan, Iran, and Pakistan. In the Western Region, gregarious spring breeding is likely in Morocco and may extend into Algeria, and potentially later into Tunisia and Libya. Summer breeding in the Sahel could begin earlier than usual, increasing the risk of outbreaks toward the end of…",
-    "url": "https://reliefweb.int/report/world/locust-watch-subseasonal-precipitation-predictions-desert-locust-spring-and-summer-breeding-areas-april-september-2026-19-march-2026"
+    "url": "https://reliefweb.int/report/world/locust-watch-subseasonal-precipitation-predictions-desert-locust-spring-and-summer-breeding-areas-april-september-2026-19-march-2026",
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": "4203916",
+    "file_url": "https://reliefweb.int/attachments/d76bb113-b499-4347-84c4-729f4991aec6/260319WCSbreedingEN.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/d7/6b/d76bb113-b499-4347-84c4-729f4991aec6.png",
+    "file_size": 3278169
   },
   {
     "id": "rw-4203921",
@@ -21,7 +81,13 @@
     "location": "Sri Lanka",
     "date": "2026-03-23",
     "content": "This report is produced by the Office of the Resident Coordinator Sri Lanka in collaboration with humanitarian partners and the Office for the Coordination of Humanitarian Affairs – Regional Office for Asia and the Pacific. It covers the period from 6th March to 20th March 2026. HIGHLIGHTS • Over 259,000 people have been reached by the Humanitarian Priority Plan (HPP) response to date, implemented by 68 partner organizations across 25 Districts. Most of the people reached are female and 5200 are Persons with Disabilities. The 5W online dashboard serves as a repository for all response interventions. • Displacement has declined from peak levels, however more than 149,000 people remain with host families or at other locations. Safety centres have reduced to 31, hosting 950 families in Bad…",
-    "url": "https://reliefweb.int/report/sri-lanka/sri-lanka-cyclone-ditwah-situation-report-no-10-20-march-2026"
+    "url": "https://reliefweb.int/report/sri-lanka/sri-lanka-cyclone-ditwah-situation-report-no-10-20-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203921",
+    "file_url": "https://reliefweb.int/attachments/2be76e8e-41d2-477f-895c-1d7c7e0149a3/Cyclone_Ditwah__SitRep%20%2310%20%281%29.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/2b/e7/2be76e8e-41d2-477f-895c-1d7c7e0149a3.png",
+    "file_size": 657438
   },
   {
     "id": "rw-4203927",
@@ -33,7 +99,13 @@
     "location": "Kenya",
     "date": "2026-03-23",
     "content": "RISK ANALYSIS Prioritized hazard and its historical impact. In post-independence Kenya, Cholera was officially first reported in 1971 in Turkana District. This outbreak was linked to the Seventh global cholera pandemic which began in 1961 in Indonesia and later reached Africa in the late 1960s1 . Since 1997 to date, Kenya has had cholera outbreak relief in only three distinct years when zero cases were reported, that is, 2003, 2011, and 2014 (See Annex 1, figure 1 and 1a). For over two decades, cholera outbreaks have caused havoc and devastating impact on the livelihood and unlimited pressure on the Kenya’s Healthcare system. Since 1997, Kenya has reported several and frequent cholera outbreaks across multiple counties with approximately less than two (2) years of relief between outbrea…",
-    "url": "https://reliefweb.int/report/kenya/kenya-cholera-simplified-early-action-protocol-eap-no-seap2025ke04-operation-no-mdrke071"
+    "url": "https://reliefweb.int/report/kenya/kenya-cholera-simplified-early-action-protocol-eap-no-seap2025ke04-operation-no-mdrke071",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203927",
+    "file_url": "https://reliefweb.int/attachments/74375170-5c9f-4d46-ad6d-0982954a124b/MDRKE071sEAP.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/74/37/74375170-5c9f-4d46-ad6d-0982954a124b.png",
+    "file_size": 1092929
   },
   {
     "id": "rw-4203928",
@@ -45,7 +117,13 @@
     "location": "Mozambique",
     "date": "2026-03-23",
     "content": "A. SITUATION ANALYSIS Description of the crisis Mozambique continues to face a significant humanitarian crisis following intense and prolonged flooding that began in late December 2025. According to the latest cumulative data from the National Institute of Disaster Management (INGD), approximately 724,131 people (170,877 families) have been affected nationwide, including 27 fatalities, 147 injuries and nine people reported missing1 . Although the heavy rainfall has now ceased, the humanitarian impact remains severe. Flooding has damaged or destroyed 201,411 houses (183,866 flooded, 12,279 partially destroyed and 5,266 completely destroyed), and critical infrastructure has been extensively affected, including more than 880 kilometres of roads, 228 bridges and 44 water supply systems. A t…",
-    "url": "https://reliefweb.int/report/mozambique/mozambique-flood-2026-dref-operation-update-1-mdrmz027"
+    "url": "https://reliefweb.int/report/mozambique/mozambique-flood-2026-dref-operation-update-1-mdrmz027",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203928",
+    "file_url": "https://reliefweb.int/attachments/1c2fa1a1-6a61-4593-b5ac-e333f2570f69/MDRMZ027eu1.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/1c/2f/1c2fa1a1-6a61-4593-b5ac-e333f2570f69.png",
+    "file_size": 638971
   },
   {
     "id": "rw-4203929",
@@ -57,7 +135,13 @@
     "location": "Zimbabwe",
     "date": "2026-03-23",
     "content": "Description of the Event Date when the trigger was met 03-05-2025 What happened, where and when? The malaria outbreak resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. Other secondary effects include absenteeism from work among adults and from school children, affecting their…",
-    "url": "https://reliefweb.int/report/zimbabwe/zimbabwe-malaria-2025-dref-final-report-mdrzw025"
+    "url": "https://reliefweb.int/report/zimbabwe/zimbabwe-malaria-2025-dref-final-report-mdrzw025",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203929",
+    "file_url": "https://reliefweb.int/attachments/f66d8727-5995-4aa6-9ef7-bf8edb93c0d7/MDRZW025fr.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/f6/6d/f66d8727-5995-4aa6-9ef7-bf8edb93c0d7.png",
+    "file_size": 1527376
   },
   {
     "id": "rw-4203930",
@@ -69,7 +153,13 @@
     "location": "Burkina Faso",
     "date": "2026-03-23",
     "content": "SUMMARY OF THE EARLY ACTION PROTOCOL The IFRC Disaster Response Emergency Fund (DREF) has approved a total of CHF 876,576 CHF for the implementation of the (Name of the National Society and the hazard) EAP. The approved amount consists of an allocation of CHF 308,512 for readiness and prepositioning and CHF 568,064 allocated to implement early actions once the defined triggers are met. Allocations are made from the Anticipatory Pillar of the DREF, under the DREF appeal code MDRBF024. Unearmarked contributions to DREF are encouraged to guarantee enough funding is available for the Early Action Protocols being developed. Summary Burkina Faso, a Sahelian country in West Africa, is facing numerous hazards that hinder its development. From a climatic perspective, recurrent droughts and advan…",
-    "url": "https://reliefweb.int/report/burkina-faso/burkina-faso-floods-early-action-protocol-summary-eap-no-eap2025bf02-operation-no-mdrbf024"
+    "url": "https://reliefweb.int/report/burkina-faso/burkina-faso-floods-early-action-protocol-summary-eap-no-eap2025bf02-operation-no-mdrbf024",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4203930",
+    "file_url": "https://reliefweb.int/attachments/c650a266-0163-41e5-85b3-8c7c14eea1fb/DREF%20EAP%20Summary.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c6/50/c650a266-0163-41e5-85b3-8c7c14eea1fb.png",
+    "file_size": 922387
   },
   {
     "id": "rw-4203931",
@@ -81,7 +171,13 @@
     "location": "Suriname",
     "date": "2026-03-23",
     "content": "Description of the Event Date of event 04-03-2026 What happened, where and when? On March 4, 2026 Suriname's Ministry of Health has confirmed a significant increase in the cases of chikungunya virus (CHIK V) following the previous declaration of outbreak in late January. Based on the Central Laboratory of the Bureau for Public Health (BOG) and the laboratory of the Academic Hospital Paramaribo, over 1,357 individuals have tested positive, confirming local transmission and one confirmed death and another to be determined. Despite the confirmation number, according to the Caribbean Public Health Agency's (CARPHA) report, PAHO and the Ministry of Health in Suriname, it is estimated that the number of infected persons is much higher, given typical health‐seeking behavior patterns, hence it …",
-    "url": "https://reliefweb.int/report/suriname/suriname-chikungunya-outbreak-dref-operation-mdrsr004"
+    "url": "https://reliefweb.int/report/suriname/suriname-chikungunya-outbreak-dref-operation-mdrsr004",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4203931",
+    "file_url": "https://reliefweb.int/attachments/7698568c-0376-4edd-8c86-bd819b95243f/MDRSR004-DO.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/76/98/7698568c-0376-4edd-8c86-bd819b95243f.png",
+    "file_size": 1488153
   },
   {
     "id": "rw-4203908",
@@ -93,7 +189,247 @@
     "location": "Lebanon",
     "date": "2026-03-22",
     "content": "KEY HIGHLIGHTS • WFP Lebanon demonstrated strong agility in responding to the building collapses in Tripoli and floods in Akkar, delivering cash assistance to almost 500 affected households and providing food assistance to 230 displaced people, in close coordination with the Ministry of Social Affairs. • With rising needs outpacing available resources, WFP urgently requires USD 136 million for the next six months to expand critical assistance to over 1.2 million vulnerable Lebanese and Syrian refugees. IN NUMBERS 617,000 people assisted in February 2026 47% Male 53% Female 645 mt food distributed USD 10 M cash transferred USD 136 M (Mar – Aug 2026) net funding requirements SITUATION OVERVIEW • Lebanon continues to navigate a highly complex security environment. In February, tensions wit…",
-    "url": "https://reliefweb.int/report/lebanon/wfp-lebanon-country-brief-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/wfp-lebanon-country-brief-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203908",
+    "file_url": "https://reliefweb.int/attachments/d902eafc-0024-4181-8d86-a42faf27b106/WFP%20Lebanon%20Country%20Brief%20-%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/d9/02/d902eafc-0024-4181-8d86-a42faf27b106.png",
+    "file_size": 606303
+  },
+  {
+    "id": "rw-4203884",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Lebanon: Flash Update #10 - Escalation of hostilities in Lebanon, as of 19 March 2026",
+    "source": "OCHA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "date": "2026-03-21",
+    "content": "HIGHLIGHTS - Over one thousand people have been killed and 2,584 injured. A humanitarian worker with children, a journalist and his spouse are killed, another journalist and a cameraman injured. 31 healthcare workers killed since 2 March. - UNICEF’s Deputy Executive Director, Ted Chaiban: “Recent escalation has killed or wounded the equivalent of “one classroom of children every day.” - Ongoing displacement orders are driving repeated population movements, with over 1.2 million people displaced, including 134,439 IDPs in 636 collective shelters—mainly in Beirut and Mount Lebanon—amid growing shelter shortages and protection risks. Situation Overview Since the beginning of March 2026, the escalation of hostilities across Lebanon has driven a rapid and severe deterioration in the humanita…",
+    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-10-escalation-hostilities-lebanon-19-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203884",
+    "file_url": "https://reliefweb.int/attachments/2d4315fa-ca50-46e2-99b7-b88c62e769ea/2026.03.19_OCHA_Lebanon_Flash_Update%20No%2010.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/2d/43/2d4315fa-ca50-46e2-99b7-b88c62e769ea.png",
+    "file_size": 532553
+  },
+  {
+    "id": "rw-4203885",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Yemen Situation Report #2 (16 February - 16 March 2026)",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Yemen",
+    "date": "2026-03-21",
+    "content": "- WFP food security monitoring [data](https://docs.wfp.org/api/documents/WFP-0000172421/download/) show that 63 percent of the population of Yemen were unable to meet their minimum food needs in January. - WFP continues to expand its new targeted emergency food assistance (TEFA) programme in areas under the internationally recognized Government of Yemen, with 1.1 million people assisted. - United Nations Humanitarian Air Service (UNHAS) flights to Yemen were temporarily suspended on 28 February following the start of U.S. and Israeli strikes on Iran. - WFP continues to call for the release of its 38 staff members detained by the Sana’a-based authorities. All UN activities in northern Yemen remain suspended.",
+    "url": "https://reliefweb.int/report/yemen/wfp-yemen-situation-report-2-16-february-16-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203885",
+    "file_url": "https://reliefweb.int/attachments/74864e83-f3bf-460c-bf07-5db307e23608/2026%2002%20WFP%20Yemen%20External%20Situation%20Report%20%232%2C%2016%20February%20-%2016%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/74/86/74864e83-f3bf-460c-bf07-5db307e23608.png",
+    "file_size": 4447366
+  },
+  {
+    "id": "rw-4203786",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Situation Report: February 2026 WHO Cox’s Bazar: Rohingya Emergency Crisis",
+    "source": "WHO",
+    "crisis": "Humanitarian Crisis",
+    "location": "Bangladesh",
+    "date": "2026-03-20",
+    "content": "This report provides a consolidated overview of WHO’s response to the Rohingya emergency in Cox’s Bazar in February 2026. It highlights coordination, surveillance, immunization, emergency preparedness, laboratory services, and operational achievements, emphasizing efforts to maintain service continuity, strengthen outbreak preparedness, and respond to evolving health needs among refugee and host communities. Coordination and Leadership The Health Sector assessed readiness for integrating health and nutrition services at the Primary Health Care (PHC) level. Of 46 PHC facilities, 42 participated, and 25 (60%) reported readiness to implement the Outpatient Therapeutic Programme (OTP), Targeted Supplementary Feeding Programme (TSFP), and Infant and Young Child Feeding (IYCF) services by 1 A…",
+    "url": "https://reliefweb.int/report/bangladesh/situation-report-february-2026-who-coxs-bazar-rohingya-emergency-crisis",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203786",
+    "file_url": "https://reliefweb.int/attachments/cff47497-e7fe-5050-8cab-ce59f2f3dad7/who-cxb-monthly-situation-report-february-2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/cf/f4/cff47497-e7fe-5050-8cab-ce59f2f3dad7.png",
+    "file_size": 528900
+  },
+  {
+    "id": "rw-4203819",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Tajikistan Country Brief, March 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Tajikistan",
+    "date": "2026-03-20",
+    "content": "SITUATION OVERVIEW • Tajikistan is a landlocked, mountainous country and its population of 10.27 million people is growing at a rate of nearly 2 percent per year – the highest rate in Eastern Europe and Central Asia. Half the population is under 25, and a quarter resides in cities (TAJSTAT, 2020). Stunting among children under five fell from 26 percent in 2012 to 14 percent in 2023, while wasting dropped from 10 percent in 2012 to 6 percent by 2017 and remained at 6 percent in 2023 (TDHS, 2023). • WFP has been supporting the Government and people of Tajikistan through food and nutrition programmes since 1993. The current CSP (2023-2026) focuses on strengthening national food security, improving nutrition through school feeding programmes, and building resilience to climate change. WFP T…",
+    "url": "https://reliefweb.int/report/tajikistan/wfp-tajikistan-country-brief-march-2026",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "rw_id": "4203819",
+    "file_url": "https://reliefweb.int/attachments/65d31140-2cc8-4d97-a4a1-3bae253acdb3/Tajikistan%20Feb%202026%20CB_FINAL.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/65/d3/65d31140-2cc8-4d97-a4a1-3bae253acdb3.png",
+    "file_size": 316959
+  },
+  {
+    "id": "rw-4203714",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Middle East Situation - as of 18 March 2026",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "date": "2026-03-19",
+    "content": "Overview Escalating hostilities across Asia and the Middle East have led to a marked deterioration in the humanitarian situation. The affected areas already host 24.3 million forcibly displaced people, many of whom face significant protection risks and humanitarian needs, alongside vulnerable host communities. With limited funding, many countries are struggling to meet existing needs, making it increasingly difficult to absorb additional pressures and support newly displaced populations. Against this backdrop, the escalation of hostilities since 28 February 2026 is placing increasing strain on humanitarian capacities and host communities. Protection needs are rising, alongside heightened risk of internal displacement, new cross-border outflows, and onward movements towards neighbouring …",
+    "url": "https://reliefweb.int/report/lebanon/middle-east-situation-18-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203714",
+    "file_url": "https://reliefweb.int/attachments/361ab1c8-381e-586b-83d4-83241f8fa73d/Middle%20East%20Situation%20CORE%20-%2019%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/36/1a/361ab1c8-381e-586b-83d4-83241f8fa73d.png",
+    "file_size": 2123354
+  },
+  {
+    "id": "rw-4203715",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNHCR Ethiopia | Settlement and Shelter/Housing Factsheet | December 2025",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Ethiopia",
+    "date": "2026-03-19",
+    "content": "STRATEGIC OBJECTIVES AND PRIORITIES UNHCR, in collaboration with FDRE Refugee Returnee Service (RRS) and partners, is supporting refugees, asylum seekers, and host communities to access safe, dignified, habitable shelter—addressing urgent humanitarian needs while advancing integrated, climate-resilient settlements aligned with the GCR, and Ethiopia’s human settlement pledge. Multi-Year Priorities ◦ Protection sensitive shelter & housing: Enhance protection outcomes, support self reliance, and integrate GBV risk mitigation. ◦ Integrated, area-based shelter/housing & settlements: Expand climate resilient planning and basic infrastructure to meet immediate and long term needs. ◦ Community led approaches: Scale community driven and cash based delivery to reinforce ownership and social cohes…",
+    "url": "https://reliefweb.int/report/ethiopia/unhcr-ethiopia-settlement-and-shelterhousing-factsheet-december-2025",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203715",
+    "file_url": "https://reliefweb.int/attachments/db6304ab-b62b-5a74-9f24-0f26960850c1/UNHCR%20Ethiopia%20Shelter%20Factsheet%20Dec%202025_compressed.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/db/63/db6304ab-b62b-5a74-9f24-0f26960850c1.png",
+    "file_size": 1150217
+  },
+  {
+    "id": "rw-4203727",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNHCR - Pakistan Operational Update (February 2026)",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Pakistan",
+    "date": "2026-03-19",
+    "content": "Over 2.95 million Afghans have returned to Afghanistan since September 2023, including holders of PoR cards, ACC and undocumented people. There are currently about 1.95 million Afghans in Pakistan. In February, 86,682 Afghans returned to Afghanistan, with 6,508 deported through the Chaman, Torkham, and Barabcha borders. Over 28,157 Afghan PoR cardholders were facilitated to return through UNHCR’s repatriation centres in February.",
+    "url": "https://reliefweb.int/report/pakistan/unhcr-pakistan-operational-update-february-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203727",
+    "file_url": "https://reliefweb.int/attachments/039459d1-08ab-566b-9018-187ab68a5fd9/UNHCR%20Pakistan%20Operational%20update%20-%20February%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/03/94/039459d1-08ab-566b-9018-187ab68a5fd9.png",
+    "file_size": 1346724
+  },
+  {
+    "id": "rw-4203740",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Dengue Epidemiological Situation in the Region of the Americas - Epidemiological Week 07, 2026",
+    "source": "PAHO",
+    "crisis": "Humanitarian Crisis",
+    "location": "World",
+    "date": "2026-03-19",
+    "content": "In the epidemiological week (EW) 7 of 2026, a total of 299,210 suspected cases of dengue were reported, resulting in acumulative incidence of 29 cases por 100,000 population. This represents a decrease of 64% compared to the sameperiod in 2025 and 57% compared to the average of the last 5 years. Figure 1 shows the trend of suspected denguecases as of EW 7.",
+    "url": "https://reliefweb.int/report/world/dengue-epidemiological-situation-region-americas-epidemiological-week-07-2026",
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": "4203740",
+    "file_url": "https://reliefweb.int/attachments/e7975b10-ae34-5ea1-9ba7-334a53de3eba/2026-cde-dengue-sitrep-americas-epi-week-07-mar.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e7/97/e7975b10-ae34-5ea1-9ba7-334a53de3eba.png",
+    "file_size": 553613
+  },
+  {
+    "id": "rw-4203747",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Middle East Regional Escalation Emergency Response External Situation Report #3, 19 March 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Iran (Islamic Republic of)",
+    "date": "2026-03-19",
+    "content": "KEY HIGHLIGHTS - WFP warns that continued escalation in the Middle East risks becoming the most severe disruption to humanitarian supply chains since COVID‑19 and the Ukraine war, with potential spillover effects on the global economy and fertilizer markets. If instability persists beyond mid‑year, an additional 45 million people could potentially be pushed into acute hunger in 2026. - In Iran, WFP provided cash top-ups to more than 32,500 Afghan refugees in settlements to help them meet their immediate food needs amid ongoing escalation. - In Lebanon, since 2 March, WFP has reached 265,000 conflict-affected people with food and cash assistance in shelters and across communities. WFP led two interagency convoys to southern Lebanon with the Logistics Cluster, delivering food and essentia…",
+    "url": "https://reliefweb.int/report/iran-islamic-republic/wfp-middle-east-regional-escalation-emergency-response-external-situation-report-3-19-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203747",
+    "file_url": "https://reliefweb.int/attachments/c9281235-9f46-41a9-9f59-4dd56a65dcb3/WFP%20Middle%20East%20Regional%20Escalation%20Emergency%20Response%20External%20Situation%20Report%20%233%20-%2019%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c9/28/c9281235-9f46-41a9-9f59-4dd56a65dcb3.png",
+    "file_size": 554384
+  },
+  {
+    "id": "rw-4203750",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Palestine Emergency Response External Situation Report #85, 19 March 2026 (Reporting period: 1-15 March 2026)",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "occupied Palestinian territory",
+    "date": "2026-03-19",
+    "content": "HIGHLIGHTS - Amid escalating regional tensions, humanitarian cargo continues to enter the Gaza Strip through a single operational crossing (Kerem Shalom), constraining the flow of goods and reducing both humanitarian and commercial supply volumes. This has a disproportionate impact on northern Gaza, where the closure of the Zikim crossing forces aid to take longer, more costly routes—delaying delivery and increasing reliance on scarce fuel. - Restricted entry of humanitarian aid and commercial goods is also deepening market and access constraints across Gaza, driving up prices of essential items, while further weakening response capacity. Immediate action is required to open all crossings and corridors to stabilize supply – including commercial goods – and ensure access across Gaza.",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-emergency-response-external-situation-report-85-19-march-2026-reporting-period-1-15-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203750",
+    "file_url": "https://reliefweb.int/attachments/aa124055-fbac-44c7-8a44-80af14a1ce25/WFP%20Palestine%20Emergency%20Response%20External%20Situation%20Report%2085_%201-15%20March.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/aa/12/aa124055-fbac-44c7-8a44-80af14a1ce25.png",
+    "file_size": 448049
+  },
+  {
+    "id": "rw-4203751",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Honduras - Operational Update - December 2025",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Honduras",
+    "date": "2026-03-19",
+    "content": "Context In December, Honduras experienced heightened political tension following the general elections on 30 November, as the National Electoral Council (CNE) continued the verification and special tallying of electoral records due to reported inconsistencies. Allegations of irregularities were raised by political actors, while national institutions and international observers—including the United States, the European Union and the Organization of American States—called for respect for institutional procedures and patience as the vote-counting process continued. Civil society organisations documented 67 incidents of violence linked to the electoral process, recorded before, during and after election day. Political uncertainty coincided with sustained levels of generalized violence. Fore…",
+    "url": "https://reliefweb.int/report/honduras/honduras-operational-update-december-2025",
+    "region": "Americas",
+    "subregion": "Central America",
+    "rw_id": "4203751",
+    "file_url": "https://reliefweb.int/attachments/b75006aa-25da-537e-967d-7fa487fe47ba/Operational%20Update%2048%20-%20DEC%20-%20ENG.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b7/50/b75006aa-25da-537e-967d-7fa487fe47ba.png",
+    "file_size": 954264
+  },
+  {
+    "id": "rw-4203752",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Honduras - Informe Operacional - Diciembre 2025",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Honduras",
+    "date": "2026-03-19",
+    "content": "Contexto En diciembre, Honduras experimentó un aumento de la tensión política tras las elecciones generales del 30 de noviembre, mientras el Consejo Nacional Electoral (CNE) continuaba con la verificación y el escrutinio especial de las actas electorales debido a inconsistencias reportadas. Actores políticos denunciaron presuntas irregularidades, mientras que instituciones nacionales y observadores internacionales —incluidos Estados Unidos, la Unión Europea y la Organización de los Estados Americanos— hicieron llamados a respetar los procedimientos institucionales y a mantener la calma mientras avanzaba el proceso de conteo de votos. Organizaciones de la sociedad civil documentaron 67 incidentes de violencia vinculados al proceso electoral, registrados antes, durante y después de la jor…",
+    "url": "https://reliefweb.int/report/honduras/honduras-informe-operacional-diciembre-2025",
+    "region": "Americas",
+    "subregion": "Central America",
+    "rw_id": "4203752",
+    "file_url": "https://reliefweb.int/attachments/44f7991d-f60b-572e-be1b-01108283a48c/Operational%20Update%2048%20-%20DEC%20-%20ESP.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/44/f7/44f7991d-f60b-572e-be1b-01108283a48c.png",
+    "file_size": 966460
+  },
+  {
+    "id": "rw-4203767",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "South Sudan: Conflict in Jonglei State - Flash Update No.13, as of 19 March 2026",
+    "source": "OCHA",
+    "crisis": "South Sudan: Cholera Outbreak - Oct 2024",
+    "location": "South Sudan",
+    "date": "2026-03-19",
+    "content": "HIGHLIGHTS - As of 19 March, Akobo Town remains empty. Civilians reportedly lack confidence in the security situation, with most people staying outside the town, mainly toward Tirgol in Ethiopia. - Verified data from IOM indicates that nearly 268,000 people have been displaced across Jonglei, Lakes, Upper Nile, and Central Equatoria States. - About 132,000 people lost access to health services in Jonglei State. Aid agencies suspended humanitarian activities in Akobo County due to conflict. - Humanitarian response has been scaled up in displacement locations including Bor South, Nyirol, Uror, Ayod, Duk, Fangak, Canal/Pigi and Twic East Counties. SITUATION OVERVIEW As of 18 March, the humanitarian situation in central and northern Jonglei State continues to deteriorate due to escalating v…",
+    "url": "https://reliefweb.int/report/south-sudan/south-sudan-conflict-jonglei-state-flash-update-no13-19-march-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203767",
+    "file_url": "https://reliefweb.int/attachments/f77556e0-67d1-4c8a-8a56-6b7cf2ae3368/South%20Sudan_Conflict%20in%20Jonglei%20State_Flash_Update_No_13_March%2019_%20Final.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/f7/75/f77556e0-67d1-4c8a-8a56-6b7cf2ae3368.png",
+    "file_size": 660765
   },
   {
     "id": "rw-4203540",
@@ -105,7 +441,13 @@
     "location": "Myanmar",
     "date": "2026-03-19",
     "content": "A. SITUATION ANALYSIS Description of the crisis Typhoon Yagi made landfall on 8 September 2024, bringing torrential rainfall and strong winds that persisted until 12 September 2024 and triggering one of the most severe flood and landslide emergencies in recent years in Myanmar. The storm affected approximately 1.1 million people across 70 townships in nine states and regions, including Bago, Kayin, Eastern and Southern Shan, Mandalay, Magway, Mon, and Naypyitaw, overwhelming local response capacities and isolating many communities. By 27 September 2024, more than 360 fatalities had been confirmed, with over 100 individuals still missing, while more than 320,000 people were displaced into overcrowded and poorly equipped shelters or informal sites. The disaster caused extensive damage to …",
-    "url": "https://reliefweb.int/report/myanmar/myanmar-floods-typhoon-yagi-final-report-mdrmm021"
+    "url": "https://reliefweb.int/report/myanmar/myanmar-floods-typhoon-yagi-final-report-mdrmm021",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "rw_id": "4203540",
+    "file_url": "https://reliefweb.int/attachments/18a7a1d9-95a2-4dbc-9c1c-ed5a3bd5c5d7/MDRMM021efr.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/18/a7/18a7a1d9-95a2-4dbc-9c1c-ed5a3bd5c5d7.png",
+    "file_size": 3648881
   },
   {
     "id": "rw-4203542",
@@ -117,7 +459,13 @@
     "location": "Madagascar",
     "date": "2026-03-19",
     "content": "A. SITUATION ANALYSIS Description of the crisis In late January and February 2026, Madagascar was struck by two major cyclones within just ten days: Fytia and Gezani. The cumulative impact left communities with extensive shelter needs, cut off from food, health services, and essential supplies. Tropical Cyclone (TC) Fytia made landfall on 31st January 2026 as a Category 3 system, crossing Madagascar on 1 February 2026 before gradually weakening. The cyclone triggered widespread flooding across the Northwestern parts of the country, affecting nine regions. It resulted in 14 deaths, impacted more than 203,000 people, damaged over 20,000 houses, and displaced more than 39,400 individuals. Following the impact of TC Fytia, Tropical Cyclone Gezani made landfall on 10th February 2026 near the…",
-    "url": "https://reliefweb.int/report/madagascar/madagascar-2026-cyclones-operation-update-1-mdrmg027"
+    "url": "https://reliefweb.int/report/madagascar/madagascar-2026-cyclones-operation-update-1-mdrmg027",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203542",
+    "file_url": "https://reliefweb.int/attachments/b5bd46dc-4c7c-4892-9d18-7c53fcc3d38e/MDRMG027OU1.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b5/bd/b5bd46dc-4c7c-4892-9d18-7c53fcc3d38e.png",
+    "file_size": 1183528
   },
   {
     "id": "rw-4203544",
@@ -129,7 +477,13 @@
     "location": "Djibouti",
     "date": "2026-03-19",
     "content": "RISK ANALYSIS Prioritized hazard and its historical impact The vast majority of Djibouti’s rural population is highly susceptible to climatic uncertainty – they live in deserts or marginal and infertile areas, often with highly erodible soils, poor ground cover, and limited water supplies where food security is a serious concern. The major hazards in Djibouti are floods, droughts, sea level rise, and epidemics, whose frequency, occurrence, and impacts have increased in recent years, already pose a significant risk to the country’s vulnerable population. As shown in the table below floods and drought are the two main hazards affecting Djibouti. This revised simplified EAP will address floods mainly as result of flash floods and seasonal rivers and run off from hills forming stream in the…",
-    "url": "https://reliefweb.int/report/djibouti/djibouti-africa-floods-simplified-early-action-protocol-mdrdj009"
+    "url": "https://reliefweb.int/report/djibouti/djibouti-africa-floods-simplified-early-action-protocol-mdrdj009",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203544",
+    "file_url": "https://reliefweb.int/attachments/3daf02d1-d40c-420f-aafc-5a8a2be59855/MDRDJ009sEAP.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/3d/af/3daf02d1-d40c-420f-aafc-5a8a2be59855.png",
+    "file_size": 728678
   },
   {
     "id": "rw-4203548",
@@ -141,7 +495,13 @@
     "location": "Sudan",
     "date": "2026-03-19",
     "content": "Situation Overview and Humanitarian Needs - The security situation in Darfur and Kordofan states was volatile in February, with persistent drone strikes and armed clashes reported in several locations, disrupting civilian movement and hindering humanitarian access. Specifically in North and South Kordofan States almost daily drone attacks affected several towns and villages, damaging civilian and humanitarian infrastructure, including a UN warehouse in Kadugli that sustained structural damage, and causing civilian casualties along some major routes. Telecommunications infrastructure in Tendalti, El Rahad locality was also affected further limiting access to communication services. Drone strikes were also reported in parts of North and South Darfur states including in areas near the Suda…",
-    "url": "https://reliefweb.int/report/sudan/unhcr-sudan-flash-update-7-darfur-and-kordofan-situation-update-1-28-february-2026"
+    "url": "https://reliefweb.int/report/sudan/unhcr-sudan-flash-update-7-darfur-and-kordofan-situation-update-1-28-february-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4203548",
+    "file_url": "https://reliefweb.int/attachments/80cfce20-d0ae-4e9e-8af4-372d3a13a821/UNHCR%20Flash%20Update%207%20-%20Darfur%20and%20Kordofan%20Situation.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/80/cf/80cfce20-d0ae-4e9e-8af4-372d3a13a821.png",
+    "file_size": 610984
   },
   {
     "id": "rw-4203550",
@@ -153,7 +513,13 @@
     "location": "World",
     "date": "2026-03-19",
     "content": "Key messages: • Global grain markets remained broadly stable in February 2026, with maize prices showing mixed movements across exporters and wheat quotations rising on weather risks, logistical disruptions and geopolitical tensions, despite overall comfortable global supplies. By contrast, sustained demand for Basmati and Japonica rice supported a modest increase in international rice prices. • In the domestic markets monitored by FAO, staple food prices were generally stable or decreased month-on-month in January and February 2026. Exceptions were registered in the Central America, East Africa and Near East subregions, where prices followed mixed monthly movements, indicating different market conditions. In the Islamic Republic of Iran, continued currency depreciation kept cereal pric…",
-    "url": "https://reliefweb.int/report/world/food-price-monitoring-and-analysis-fpma-bulletin-2-12-march-2026"
+    "url": "https://reliefweb.int/report/world/food-price-monitoring-and-analysis-fpma-bulletin-2-12-march-2026",
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": "4203550",
+    "file_url": "https://reliefweb.int/attachments/3df1e769-7b87-42ac-8c97-54de969dd670/cd8862en.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/3d/f1/3df1e769-7b87-42ac-8c97-54de969dd670.png",
+    "file_size": 3284639
   },
   {
     "id": "rw-4203554",
@@ -165,7 +531,13 @@
     "location": "Lebanon",
     "date": "2026-03-19",
     "content": "Triggered by escalating hostilities across the country, the humanitarian situation in Lebanon continues to deteriorate, resulting in mass displacement and casualties, with women accounting for 20 per cent of casualties. Over 1 million people have now self-registered as displaced, with more than 133,000 of them sheltering in 631 government-designated collective sites. Some 54 per cent of displaced persons in shelters are female, including 565 pregnant and 800 breastfeeding women. Large-scale displacement and disruptions to health services are leaving women and girls without access to essential sexual and reproductive healthcare and protection services. In response to the growing humanitarian needs across the region, UNFPA is scaling up operational capacity. UNFPA remains a front-line res…",
-    "url": "https://reliefweb.int/report/lebanon/unfpa-situation-report-lebanon-crisis-10-17-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/unfpa-situation-report-lebanon-crisis-10-17-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203554",
+    "file_url": "https://reliefweb.int/attachments/27c22d68-9db6-45e1-a3a1-c6ba8c7d316f/UNFPA%20Lebanon%20Situation%20Report%20%2810-17%20March%202026%29.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/27/c2/27c22d68-9db6-45e1-a3a1-c6ba8c7d316f.png",
+    "file_size": 819460
   },
   {
     "id": "rw-4203661",
@@ -177,7 +549,13 @@
     "location": "Lebanon",
     "date": "2026-03-19",
     "content": "The Protection Sector Emergency Snapshot is produced by the Protection Analysis and Monitoring Task Force (PAMTF), drawing on information and secondary data from sector lead agencies in the context of the ongoing escalation of conflict and displacement. It consolidates inputs from Protection, Child Protection, and GBV partners, including dedicated protection monitoring actors. The snapshot reflects field observations, community level insights, and operational updates from frontline teams engaged in protection service delivery and monitoring. Situation Overview On 2 March, the humanitarian situation in Lebanon escalated from localized tension and ceasefire violations to a full-scale national emergency. Intensified military operations by the Israeli Defense Forces (IDF) and widespread eva…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-protection-snapshot-displacement-post-escalation-2-15-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-protection-snapshot-displacement-post-escalation-2-15-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203661",
+    "file_url": "https://reliefweb.int/attachments/1c628f1a-0f78-5b88-a63d-be9240369f9b/Protection%20Sector%20Monitoring%20Snapshot_Emergency%202-15%20March.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/1c/62/1c628f1a-0f78-5b88-a63d-be9240369f9b.png",
+    "file_size": 299722
   },
   {
     "id": "rw-4203669",
@@ -189,7 +567,13 @@
     "location": "Sri Lanka",
     "date": "2026-03-19",
     "content": "SITUATION OVERVIEW • Sri Lanka’s National Consumer Price Index (NCPI) stood at 211.4 in January 2026, reflecting a month‑on‑month increase of 0.9 index points from December 2025. Year‑on‑year inflation eased to 2.4 percent, down from 2.9 percent in December, indicating continued stabilization in consumer prices. • In late 2025, Cyclone Ditwah brought widespread rains, landslides and flooding, displacing nearly two million people families and damaging infrastructure and essential services. In response to the Government of Sri Lanka’s request for international assistance, the United Nations launched the Humanitarian Priorities Plan. • WFP implements activities aimed at assisting communities in transitioning from emergency relief to early recovery and resilience building while also focusin…",
-    "url": "https://reliefweb.int/report/sri-lanka/wfp-sri-lanka-country-brief-march-2026"
+    "url": "https://reliefweb.int/report/sri-lanka/wfp-sri-lanka-country-brief-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203669",
+    "file_url": "https://reliefweb.int/attachments/ab149d32-e30f-41b6-9d21-fb25f5cd9d32/CB%20Feb%2026%20-%20WFP%20Sri%20Lanka.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ab/14/ab149d32-e30f-41b6-9d21-fb25f5cd9d32.png",
+    "file_size": 237505
   },
   {
     "id": "rw-4203699",
@@ -201,7 +585,13 @@
     "location": "Sudan",
     "date": "2026-03-19",
     "content": "The Sudan Displacement and Return Snapshot includes information on internally displaced persons and returnees, based on data from over 12,000 locations, 185 localities, and all 18 states in Sudan. Main Findings: - An estimated 9,044,786 internally displaced persons (IDPs) were recorded across 11,442 locations in 185 localities, in all 18 states. - An estimated 3,858,136 returned individuals were recorded across 2,763 locations in 71 localities, in nine states. - Eighty-four per cent of returnees moved back from internal displacement, while 16 per cent returned from locations abroad. - Over half of IDPs (55%) and 52 per cent of returnees were children under 18-years-old. Key Trends: - The number of IDPs decreased by 22 per cent compared to the highest-recorded displaced population, and b…",
-    "url": "https://reliefweb.int/report/sudan/dtm-sudan-displacement-and-return-snapshot-update-3-19-march-2026"
+    "url": "https://reliefweb.int/report/sudan/dtm-sudan-displacement-and-return-snapshot-update-3-19-march-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4203699",
+    "file_url": "https://reliefweb.int/attachments/a1ad8532-57ef-5ab9-a70d-2a219da45011/DTM%20Sudan%20Displacement%20and%20Return%20Snapshot%20%28Update%203%29.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/a1/ad/a1ad8532-57ef-5ab9-a70d-2a219da45011.png",
+    "file_size": 20197865
   },
   {
     "id": "rw-4203702",
@@ -213,7 +603,13 @@
     "location": "Iraq",
     "date": "2026-03-19",
     "content": "A significant escalation in regional tensions occurred on 28 February 2026 following coordinated military strikes by the United States of America and Israel inside Iran which triggered subsequent retaliatory missile and drone activity across multiple countries in the region. In Iraq, the security situation remains fluid, with disruptions affecting airspace, civilian mobility, and humanitarian access. This crisis compounds pre-existing vulnerabilities linked to Iraq’s complex security dynamics and protracted displacement associated with the conflict with the Daesh. Continued monitoring of internal displacement and cross-border mobility dynamics remains critical to inform operational planning, preparedness and humanitarian response.",
-    "url": "https://reliefweb.int/report/iraq/iraq-update-cross-border-mobility-and-internal-displacement-iraq-situation-16-march-2026"
+    "url": "https://reliefweb.int/report/iraq/iraq-update-cross-border-mobility-and-internal-displacement-iraq-situation-16-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203702",
+    "file_url": "https://reliefweb.int/attachments/7cb80ca3-c989-59d6-b10f-de60706a301b/Update%20on%20Cross-border%20Mobility_Situation%20as%20of%2016%20March-V02.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/7c/b8/7cb80ca3-c989-59d6-b10f-de60706a301b.png",
+    "file_size": 2345631
   },
   {
     "id": "rw-4203719",
@@ -225,7 +621,13 @@
     "location": "Mozambique",
     "date": "2026-03-19",
     "content": "In February, the humanitarian situation was marked by a combination of public health challenges, displacement-related vulnerabilities, and ongoing emergency response activities. In Nampula province, the expansion of the cholera outbreak raised concerns among health and WASH partners. By the end of February, the Ministry of Health reported confirmed cases in nine districts: Ilha de Moçambique, Erati, Memba, Moma, Nacala Porto, Nacala Velha, Monapo, Mogovolas and Mogincual. Funding limitations have constrained the ability to respond to the growing caseload and geographic spread. The response has also been complicated by misinformation regarding the causes and transmission of cholera, which has triggered incidents of communal violence against health workers, community leaders and local aut…",
-    "url": "https://reliefweb.int/report/mozambique/mozambique-humanitarian-snapshot-february-2026"
+    "url": "https://reliefweb.int/report/mozambique/mozambique-humanitarian-snapshot-february-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203719",
+    "file_url": "https://reliefweb.int/attachments/eb335f70-dd50-4c4f-be50-f9c093171e63/2.%20OCHA_MOZ_Humanitarian_Snapshot_Feb_2026_ENG.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/eb/33/eb335f70-dd50-4c4f-be50-f9c093171e63.png",
+    "file_size": 2001737
   },
   {
     "id": "rw-4203720",
@@ -237,7 +639,13 @@
     "location": "Mozambique",
     "date": "2026-03-19",
     "content": "Humanitarian operations remain highly fragile due to multiple overlapping risks. In February, humanitarian access in Cabo Delgado and Nampula provinces was constrained by ongoing violence against civilians, armed hostilities, improvised explosive devices (IEDs), cholera-related misinformation, heavy rains, and logistical challenges. These factors continued to hinder the delivery of assistance to vulnerable populations. During the month, the number of security incidents slightly decreased, from 75 in January to 70. The slight decline in security incidents does not significantly improve access for aid delivery. Civilians continue to face significant protection risks, accurate needs assessments are challenged by insecurity and remoteness. A total of 33 incidents were recorded across five d…",
-    "url": "https://reliefweb.int/report/mozambique/mozambique-humanitarian-access-snapshot-northern-provinces-cabo-delgado-niassa-nampula-february-2026"
+    "url": "https://reliefweb.int/report/mozambique/mozambique-humanitarian-access-snapshot-northern-provinces-cabo-delgado-niassa-nampula-february-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203720",
+    "file_url": "https://reliefweb.int/attachments/ff0c461d-abe9-4dce-a7cd-d0bc9aa32f55/2.%20OCHA_MOZ_Access_Snapshot_Feb%202026_EN.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ff/0c/ff0c461d-abe9-4dce-a7cd-d0bc9aa32f55.png",
+    "file_size": 1276300
   },
   {
     "id": "rw-4203745",
@@ -249,7 +657,13 @@
     "location": "Lebanon",
     "date": "2026-03-19",
     "content": "CONTEXT The humanitarian situation in Lebanon continues to deteriorate sharply amid ongoing hostilities, triggering renewed and secondary displacement and further eroding already fragile coping capacities. Expanded evacuation orders, including in areas hosting displaced families, are driving repeated onward movements, leaving populations increasingly unstable and exposed, often required to act with little notice and limited shelter options. The security situation remains highly volatile, with ongoing airstrikes across South Lebanon, the Bekaa, Beirut and other areas. According to the Ministry of Public Health, at least 968 people have been killed and 2,432 injured since the escalation began. The cumulative impact of repeated displacement, insecurity, and access constraints continues to …",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-situation-report-update-03-13-18-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-situation-report-update-03-13-18-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203745",
+    "file_url": "https://reliefweb.int/attachments/12ceb1a0-dde2-5bcf-be02-3aadbaef4627/IOM-Lebanon-SitRep-3-Mar-2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/12/ce/12ceb1a0-dde2-5bcf-be02-3aadbaef4627.png",
+    "file_size": 515116
   },
   {
     "id": "rw-4203328",
@@ -261,7 +675,13 @@
     "location": "Colombia",
     "date": "2026-03-18",
     "content": "In 2025, UNHCR adapted its response in Colombia to operate effectively despite sharply reduced funding and rising humanitarian needs, prioritizing life‑saving protection, emergency assistance, and territorial support in areas most affected by violence and displacement. With only 28% financial requirements funded in 2025, UNHCR Colombia reached 58% of the targeted population by maintaining coverage in 30 departments. UNHCR sustained a nationwide protection response through 21 fixed Information and Orientation Centres (PAOs) and 4 mobile units, and advanced durable solutions at national and territorial levels to promote long-term access to rights and stability for forcibly displaced populations.",
-    "url": "https://reliefweb.int/report/colombia/unhcr-colombia-operational-update-2025"
+    "url": "https://reliefweb.int/report/colombia/unhcr-colombia-operational-update-2025",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4203328",
+    "file_url": "https://reliefweb.int/attachments/dd4055aa-9467-5666-95db-459dfc2d358d/Operational%20Overview%202025.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/dd/40/dd4055aa-9467-5666-95db-459dfc2d358d.png",
+    "file_size": 7369812
   },
   {
     "id": "rw-4203330",
@@ -273,7 +693,13 @@
     "location": "Colombia",
     "date": "2026-03-18",
     "content": "En 2025, ACNUR adaptó su respuesta en Colombia para operar de manera efectiva a pesar de la drástica reducción de fondos y el aumento de las necesidades humanitarias, priorizando la protección que salva vidas, la asistencia de emergencia y el apoyo territorial en las zonas más afectadas por la violencia y el desplazamiento. Con solo el 28% de los requerimientos financieros financiados en 2025, ACNUR Colombia alcanzó al 58% de la población objetivo, manteniendo cobertura en 30 departamentos. ACNUR sostuvo una respuesta de protección a nivel nacional a través de 21 Puntos de Atención y Orientación (PAO) fijos y 4 unidades móviles, y avanzó en soluciones duraderas a nivel nacional y territorial para promover el acceso a derechos y la estabilidad a largo plazo de las poblaciones en situació…",
-    "url": "https://reliefweb.int/report/colombia/acnur-colombia-actualizacion-operativa-2025"
+    "url": "https://reliefweb.int/report/colombia/acnur-colombia-actualizacion-operativa-2025",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4203330",
+    "file_url": "https://reliefweb.int/attachments/436aacd6-7c2d-54d4-9c5a-7c19671eb8e0/Actualizaci%C3%B3n%20operativa%202025.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/43/6a/436aacd6-7c2d-54d4-9c5a-7c19671eb8e0.png",
+    "file_size": 7515178
   },
   {
     "id": "rw-4203333",
@@ -285,7 +711,13 @@
     "location": "Syrian Arab Republic",
     "date": "2026-03-18",
     "content": "121,320 INDIVIDUALS AT POINTS OF ENTRY 82,060 INDIVIDUALS AT ARRIVAL LOCATIONS OVERVIEW Following a significant escalation in hostilities across the Middle East and North Africa (MENA) region beginning on 28 February 2026, cross-border movements into the Syrian Arab Republic (hereafter referred to as Syria) have increased, particularly from neighbouring Lebanon. By 16 March 2026, these developments had resulted in widespread disruption, including the displacement of populations, interruptions to essential services, and the closure of key access routes. Syrian airspace was closed on 1 March, although operations at Aleppo International Airport resumed on 4 March, while Damascus International Airport remains closed. As of 15 March, approximately 121,320 entries into Syria had been recorded…",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-emergency-mobility-tracking-and-cross-border-monitoring-situation-update-round-2-16-march-2026"
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-emergency-mobility-tracking-and-cross-border-monitoring-situation-update-round-2-16-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203333",
+    "file_url": "https://reliefweb.int/attachments/0cda8609-e8ee-40db-bbc9-bd21aaf3fcd6/DTM%20Syria_Emergency%20Mobility%20Tracking_FMR_Mar16.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/0c/da/0cda8609-e8ee-40db-bbc9-bd21aaf3fcd6.png",
+    "file_size": 352168
   },
   {
     "id": "rw-4203345",
@@ -297,7 +729,13 @@
     "location": "Lebanon",
     "date": "2026-03-18",
     "content": "All information valid for 7 March – 10 March 2026 Key Points - UNRWA activated its emergency response in Lebanon on 4 March 2026, when the Agency opened one emergency shelter in the Saida Area, located in Siblin Training Centre and the adjacent Bir Zeit/Beit Jala school compound. On 5 March, UNRWA opened a second emergency shelter in the Nahr el-Bared camp located north of Tripoli that comprises a total of six school buildings. - By 10 March, a total of 1,567 displaced people (436 families)[\\[1\\]](https://www.unrwa.org/resources/reports/unrwa-situation-report-2-lebanon-emergency-response-2026#note) had been registered in UNRWA shelters. - Following evacuation orders issued on 5 March for several areas in the southern suburbs of Beirut and multiple towns and villages in South Lebanon, di…",
-    "url": "https://reliefweb.int/report/lebanon/unrwa-situation-report-2-lebanon-emergency-response-2026-12-march-2026-enar"
+    "url": "https://reliefweb.int/report/lebanon/unrwa-situation-report-2-lebanon-emergency-response-2026-12-march-2026-enar",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203345",
+    "file_url": "https://reliefweb.int/attachments/c8512c6e-dcf7-4c90-bae0-1ae5555dc52c/download_unrwa_lebanon_sitrep_2_12_march_2026_eng.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c8/51/c8512c6e-dcf7-4c90-bae0-1ae5555dc52c.png",
+    "file_size": 764243
   },
   {
     "id": "rw-4203351",
@@ -309,7 +747,13 @@
     "location": "Madagascar",
     "date": "2026-03-18",
     "content": "Overview This Weekly Bulletin focuses on public health emergencies occurring in the WHO African Region. This week’s articles cover: - Cyclone Fytia in Madagascar - Malaria in Namibia - Mpox in Madagascar For each of these events, a brief description, followed by public health measures implemented and an interpretation of the situation, is provided. A table is provided at the end of the bulletin with information on all new and ongoing public health events currently being monitored in the region, as well as recent events that have been controlled and closed. Major issues and challenges include - Cyclone Fytia in Madagascar: Cyclone Fytia represents a multi-sectoral shock to an already fragile humanitarian and health context in Madagascar, where climate hazards are compounding existing epi…",
-    "url": "https://reliefweb.int/report/madagascar/weekly-bulletin-outbreaks-and-other-emergencies-week-5-26-january-01-february-2026-data-reported-1700-01-february-2026"
+    "url": "https://reliefweb.int/report/madagascar/weekly-bulletin-outbreaks-and-other-emergencies-week-5-26-january-01-february-2026-data-reported-1700-01-february-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203351",
+    "file_url": "https://reliefweb.int/attachments/6a507077-3196-4af0-b873-c9d9fe7cabaf/OEW05-260101022026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/6a/50/6a507077-3196-4af0-b873-c9d9fe7cabaf.png",
+    "file_size": 2089748
   },
   {
     "id": "rw-4203360",
@@ -321,7 +765,13 @@
     "location": "Bangladesh",
     "date": "2026-03-18",
     "content": "On 27 February 2026, a 5.3–5.4 magnitude earthquake struck Ashashuni Upazila, Satkhira, and was felt across southwestern Bangladesh, including Dhaka, as well as parts of Kolkata, India. The tremor caused widespread panic, particularly during Friday prayers and in high-rise buildings. While no casualties or major structural damage were reported, minor damage and psychological distress were observed. The earthquake occurred amid a period of heightened seismic activity in the region and exposed vulnerabilities in coastal communities already affected by recurring climate shocks. Women, children, older persons, and people with disabilities faced increased evacuation and protection challenges. The event underscores the need for inclusive, gender-responsive disaster preparedness, improved comm…",
-    "url": "https://reliefweb.int/report/bangladesh/gender-gender-humanitarian-action-bangladesh-situation-brief-satkhira-earthquake-february-2026"
+    "url": "https://reliefweb.int/report/bangladesh/gender-gender-humanitarian-action-bangladesh-situation-brief-satkhira-earthquake-february-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203360",
+    "file_url": "https://reliefweb.int/attachments/b25be08b-975f-4a9b-9a06-bdf75bd5d6d3/SITUATION%20BRIEF%201-%20SATKHIRA%20EARTHQUAKE.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b2/5b/b25be08b-975f-4a9b-9a06-bdf75bd5d6d3.png",
+    "file_size": 806651
   },
   {
     "id": "rw-4203361",
@@ -333,7 +783,13 @@
     "location": "Lebanon",
     "date": "2026-03-18",
     "content": "HIGHLIGHTS - High-intensity airstrikes across Beirut’s southern suburbs and southern/eastern Lebanon have resulted in at least 886 deaths and 2,141 injuries. - Over 1 million people are displaced, majority outside formal shelters. Overcrowding, inadequate WASH conditions, and exposure to harsh weather are exacerbating vulnerabilities and public health risks. - Expanded displacement orders now cover ~14% of Lebanon’s territory, triggering repeated displacement, and increasing fear among civilians. - Continued attacks on civilians, healthcare, and civilian infrastructure underscore the urgent need to respect international humanitarian law, ensure protection of civilians, and safeguard humanitarian access. Situation Overview Airstrikes on Beirut’s southern suburbs, as well as on villages a…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-9-escalation-hostilities-lebanon-16-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-9-escalation-hostilities-lebanon-16-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203361",
+    "file_url": "https://reliefweb.int/attachments/089f6f4f-85a7-4a97-a01c-db4363c55648/2026.03.16_OCHA_Lebanon_Flash_Update%20No%209.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/08/9f/089f6f4f-85a7-4a97-a01c-db4363c55648.png",
+    "file_size": 548514
   },
   {
     "id": "rw-4203377",
@@ -345,7 +801,13 @@
     "location": "Lebanon",
     "date": "2026-03-18",
     "content": "Escalating hostilities and evacuation orders over the past two weeks have triggered large-scale displacement across Lebanon, with over 1 million people displaced and significant casualties reported. Displacement from southern regions and Beirut’s southern suburbs has concentrated in Beirut and Mount Lebanon, placing immense pressure on already overstretched public services and shelter capacity. Protection risks have sharply increased, particularly for women, children, older persons, and persons with disabilities, with heightened exposure to gender-based violence (GBV), exploitation, and trafficking. Overcrowded shelters, lack of privacy, and limited access to services are exacerbating safeguarding concerns and restricting safe reporting of protection incidents. Children are showing grow…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-protection-sector-weekly-response-sitrep-1-16-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-protection-sector-weekly-response-sitrep-1-16-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203377",
+    "file_url": "https://reliefweb.int/attachments/857ced71-56cb-4b3b-900a-bdb255ebf0b9/Protection%20Response%20Sitrep%20%231.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/85/7c/857ced71-56cb-4b3b-900a-bdb255ebf0b9.png",
+    "file_size": 309844
   },
   {
     "id": "rw-4203388",
@@ -357,7 +819,13 @@
     "location": "Ethiopia",
     "date": "2026-03-18",
     "content": "In January 2026, the Logistics Cluster continued to expand and strengthen its operational support across multiple regions of Ethiopia, enhancing access, coordination, and continuity of humanitarian logistics services. With growing needs and operational complexities across the country, the Cluster intensified its efforts to facilitate cargo movements, support inter-agency coordination, and improve logistics infrastructure to ensure timely and efficient delivery of humanitarian assistance. Across the Amhara Region, the Logistics Cluster strengthened convoy coordination throughout the month, successfully organizing six convoy movements to diverse locations, including hard-to-reach areas such as Metema and Lalibela. A total of 52 trucks participated in transporting humanitarian cargo to mul…",
-    "url": "https://reliefweb.int/report/ethiopia/ethiopia-operation-overview-january-2026"
+    "url": "https://reliefweb.int/report/ethiopia/ethiopia-operation-overview-january-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203388",
+    "file_url": "https://reliefweb.int/attachments/4b955043-13ff-5b04-acf0-a3d3b963f0de/Logistics%20Cluster%20Ethiopia%20Operational%20Overview%20-%20Jan%202026%20PDF%20%283%29.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/4b/95/4b955043-13ff-5b04-acf0-a3d3b963f0de.png",
+    "file_size": 352747
   },
   {
     "id": "rw-4203404",
@@ -369,7 +837,13 @@
     "location": "Libya",
     "date": "2026-03-18",
     "content": "Overview It is estimated that over 554,937 Sudanese refugees have arrived in Libya since April 2023. This includes 73,754 individuals who were registered post-conflict, bringing the total number of Sudanese registered by UNHCR at its registration centre in Tripoli to 90,711. with approximately 340,000 Sudanese arriving through Alkufra alone. Insecurity at the border in the Triangle area and increased border monitoring by Libyan authorities has led refugees to take longer routes, and arrivals via Chad have decreased to an average of 70 per day. Due to the irregular nature of entry, the ad hoc data shared by authorities, and the vast remote land border with Chad, Egypt, and Sudan, combined with movements towards cities along the coast, it remains challenging to provide an accurate number …",
-    "url": "https://reliefweb.int/report/libya/core-libya-sudanese-refugees-and-asylum-seekers-feb-2026"
+    "url": "https://reliefweb.int/report/libya/core-libya-sudanese-refugees-and-asylum-seekers-feb-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4203404",
+    "file_url": "https://reliefweb.int/attachments/8a53c4f7-fa41-5bd2-bb9c-61c518904c2f/core_lby_%2028_Feb_2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/8a/53/8a53c4f7-fa41-5bd2-bb9c-61c518904c2f.png",
+    "file_size": 367687
   },
   {
     "id": "rw-4203406",
@@ -381,7 +855,13 @@
     "location": "Afghanistan",
     "date": "2026-03-18",
     "content": "## HIGHLIGHTS - The conflict between Pakistan and Afghanistan is now in its third week with no signs of abating. Between 26 February and 17 March, 289 civilian casualties (76 killed, 213 injured) have been recorded in Afghanistan, including 59 women and 104 children, who together account for more than half of all victims. - Hostilities have intensified and expanded geographically in that time. Pakistan has conducted airstrikes, artillery, mortar and drone attacks across at least ten Afghan provinces, while de facto authority (DfA) forces have launched ground assaults on border points and carried out drone strikes inside Pakistan, including on Pakistani military positions in Kohat and Rawalpindi. - Strikes have increasingly affected major urban areas. On 14 March, Pakistan conducted airs…",
-    "url": "https://reliefweb.int/report/afghanistan/afghanistan-situation-update-2-humanitarian-impact-afghanistan-pakistan-military-escalation-18-march-2026"
+    "url": "https://reliefweb.int/report/afghanistan/afghanistan-situation-update-2-humanitarian-impact-afghanistan-pakistan-military-escalation-18-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203406",
+    "file_url": "https://reliefweb.int/attachments/8479793d-8a52-4204-99ad-2623f714e562/AFG_Situation_Update_2_Humanitarian_Impact_of_Afghanistan_Pakistan_Military_Escalation_18Mar2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/84/79/8479793d-8a52-4204-99ad-2623f714e562.png",
+    "file_size": 1371480
   },
   {
     "id": "rw-4203471",
@@ -393,7 +873,13 @@
     "location": "Uzbekistan",
     "date": "2026-03-18",
     "content": "No summary available.",
-    "url": "https://reliefweb.int/report/uzbekistan/ozbekiston-migratsiya-vaziyatiga-oid-hisobot-2025-yil-iyul-sentabr-uz"
+    "url": "https://reliefweb.int/report/uzbekistan/ozbekiston-migratsiya-vaziyatiga-oid-hisobot-2025-yil-iyul-sentabr-uz",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "rw_id": "4203471",
+    "file_url": "https://reliefweb.int/attachments/cba77eba-b984-59fd-bfb5-34e5f4d0c95d/Uzbekistan__Migration_Situation_Report_July_September_2025_UZ.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/cb/a7/cba77eba-b984-59fd-bfb5-34e5f4d0c95d.png",
+    "file_size": 389102
   },
   {
     "id": "rw-4203479",
@@ -405,7 +891,13 @@
     "location": "Chad",
     "date": "2026-03-18",
     "content": "No summary available.",
-    "url": "https://reliefweb.int/report/chad/tchad-evaluation-des-besoins-multisectoriels-round-1-et-calculatrice-de-deplacement-et-de-demographie-provinces-douaddai-sila-et-wadi-fira"
+    "url": "https://reliefweb.int/report/chad/tchad-evaluation-des-besoins-multisectoriels-round-1-et-calculatrice-de-deplacement-et-de-demographie-provinces-douaddai-sila-et-wadi-fira",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4203479",
+    "file_url": "https://reliefweb.int/attachments/efcc8ffa-ae24-53a3-9ba3-b3cc66caa60b/Tchad%20Est%20MSLA%20ROUND%201%20et%20DDC.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ef/cc/efcc8ffa-ae24-53a3-9ba3-b3cc66caa60b.png",
+    "file_size": 784268
   },
   {
     "id": "rw-4203481",
@@ -417,7 +909,13 @@
     "location": "Ukraine",
     "date": "2026-03-18",
     "content": "ОПЕРАЦІЙНИЙ КОНТЕКСТ І ГОЛОВНІ ПОДІЇ: - У лютому, напередодні четвертої річниці початку війни, Верховний комісар ООН у справах біженців Бархам Саліх відвідав Україну. Це був перший візит Верховного комісара після вступу на посаду. Бархам Саліх закликав міжнародну спільноту до непохитної солідарності з Україною та збільшення допомоги українцям. - У лютому Російська Федерація й надалі здійснювала масштабні удари по об’єктах енергетичної інфраструктури України, що призвели до тривалих знеструмлень за морозної погоди. Президент України В. Зеленський заявив, що за три зимові місяці (з грудня по лютий) російські війська випустили понад 14 670 керованих авіабомб, 738 ракет і майже 19 000 безпілотників по території України. - 23 лютого Уряд України, Група Світового банку, Європейська комісія та…",
-    "url": "https://reliefweb.int/report/ukraine/gumanitarna-situaciya-v-ukraini-onovlennya-operativnogo-reaguvannya-uvkb-oon-12-bereznya-2026-r-uk"
+    "url": "https://reliefweb.int/report/ukraine/gumanitarna-situaciya-v-ukraini-onovlennya-operativnogo-reaguvannya-uvkb-oon-12-bereznya-2026-r-uk",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "rw_id": "4203481",
+    "file_url": "https://reliefweb.int/attachments/cadbb7af-6755-5090-b8bd-3c2aea456e8b/UNHCR%20Ukraine%20Operational%20Update_12%20March%202026_draft%20UKR.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ca/db/cadbb7af-6755-5090-b8bd-3c2aea456e8b.png",
+    "file_size": 1542887
   },
   {
     "id": "rw-4203494",
@@ -429,7 +927,13 @@
     "location": "Central African Republic",
     "date": "2026-03-18",
     "content": "FAITS SAILLANTS ➢ Environ 1 000 personnes déplacées suite à une attaque à Bowaye ➢ Plus de 200 ménages sinistrés suite à de fortes pluies dans l’Ouham-Fafa ➢ Plus de 760 personnes sensibilisées à l’éducation et à la protection des enfants dans le nord CONTEXTE GENERAL Préfecture de l’Ouham - Fafa – Nord-Ouest • Le 11 mars, cinq personnes ont été blessées et environ 1 000 autres, craignant pour leur sécurité, ont fui vers la brousse et les villages avoisinants suite d’une attaque menée par des éléments armés dans le village de Bowaye. Les blessés ont été évacués à l’hôpital de Nana-Bakassa pour y recevoir des soins. Les familles déplacées, parties précipitamment, sont en situation de vulnérabilité et nécessitent une assistance urgente. • De fortes pluies accompagnées de vents violents on…",
-    "url": "https://reliefweb.int/report/central-african-republic/republique-centrafricaine-rapport-de-situation-ndeg59-au-17-mars-2026"
+    "url": "https://reliefweb.int/report/central-african-republic/republique-centrafricaine-rapport-de-situation-ndeg59-au-17-mars-2026",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4203494",
+    "file_url": "https://reliefweb.int/attachments/3dc7cf65-547f-4327-ade7-8313cfdf6e2d/Rapport%20de%20situation%20RCA%20170326.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/3d/c7/3dc7cf65-547f-4327-ade7-8313cfdf6e2d.png",
+    "file_size": 205571
   },
   {
     "id": "rw-4203515",
@@ -441,7 +945,13 @@
     "location": "Iran (Islamic Republic of)",
     "date": "2026-03-18",
     "content": "This Humanitarian Update is produced by OCHA Regional Office for the Middle East and North Africa (ROMENA) in collaboration with UN agencies and humanitarian organisations. It covers the period from 28 February to 17 March 2026. Highlights - Ongoing airstrikes have caused high numbers of civilian casualties, damage and displacement. - Airstrikes on infrastructure, including a desalination plant and fuel depots, have disrupted some basic services and created serious public health and environmental risks. - The conflict has hindered livelihoods and businesses, caused stress and trauma among affected communities, and posed challenges to first responders. KEY FIGURES 1.2K+ People killed 17K+ People injured 2.5M+ People in impact radius 54K+ Civilian units damaged Situation Overview Since 28…",
-    "url": "https://reliefweb.int/report/iran-islamic-republic/islamic-republic-iran-humanitarian-update-no-01-17-march-2026"
+    "url": "https://reliefweb.int/report/iran-islamic-republic/islamic-republic-iran-humanitarian-update-no-01-17-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203515",
+    "file_url": "https://reliefweb.int/attachments/980e5de8-cbcd-40ad-b4c2-e1521c1e6b9f/IranUpdate_Asof17March.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/98/0e/980e5de8-cbcd-40ad-b4c2-e1521c1e6b9f.png",
+    "file_size": 501080
   },
   {
     "id": "rw-4203517",
@@ -453,7 +963,13 @@
     "location": "Mauritania",
     "date": "2026-03-18",
     "content": "Overview Cross-border movements from Mali into south-eastern Mauritania have continued during the reporting period, with 2,873 new refugees (470 families) identified between mid- February and early March in the Hodh Chargui region. This brings the total number of refugees recorded since the beginning of the influx on 24 October 2025 to 13,302 individuals (2,196 families). Refugees report fleeing escalating insecurity and violence across several localities in northern and central Mali, particularly in the Timbuktu and Ségou regions. Upon arrival, most families settle in villages across the Bassikounou and Fassala areas, often joining relatives or gravitating towards locations where markets, water points and humanitarian services are available. As movements continue and settlement pattern…",
-    "url": "https://reliefweb.int/report/mauritania/refugee-influx-hodh-chargui-mauritania-11-march-2026"
+    "url": "https://reliefweb.int/report/mauritania/refugee-influx-hodh-chargui-mauritania-11-march-2026",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4203517",
+    "file_url": "https://reliefweb.int/attachments/adda8c10-740c-5353-ba50-af052ec1ce90/Refugee%20Influx%20Hodh%20Chargui%20-%20Mauritania-As%20of%2011%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ad/da/adda8c10-740c-5353-ba50-af052ec1ce90.png",
+    "file_size": 2672973
   },
   {
     "id": "rw-4203537",
@@ -465,7 +981,13 @@
     "location": "Syrian Arab Republic",
     "date": "2026-03-18",
     "content": "Description of the Event Date of event 2023-02-17 What happened, where and when? On 6 February 2023, a magnitude 7.8 earthquake struck southern and central Turkey and northern and western Syria. It was one of the strongest earthquakes recorded in the Levant since the 1930 Turkey earthquake. There was widespread damage across an area of about 350,000 km². The earthquake was followed by another significant tremor approximately nine hours later, measuring magnitude 7.5, located around 59 miles (95 kilometres) southwest of the initial epicentre. According to the Syrian Ministry of Health (MoH) and UN figures, one year after the earthquake, this disaster had a human toll of 5,900 deaths, with 13,000 other people who were injured in the affected governorates (OCHA and Joint Statement UN RC an…",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syria-eq-2023-prcs-syria-response-dref-final-report-mdrps014"
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syria-eq-2023-prcs-syria-response-dref-final-report-mdrps014",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203537",
+    "file_url": "https://reliefweb.int/attachments/5795fd6f-a69c-4bbd-9860-01ba463dc3e1/MDRPS014fr.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/57/95/5795fd6f-a69c-4bbd-9860-01ba463dc3e1.png",
+    "file_size": 582618
   },
   {
     "id": "rw-4203538",
@@ -477,7 +999,13 @@
     "location": "Angola",
     "date": "2026-03-18",
     "content": "Date of event 23-02-2026 What happened, where and when? From 21st to 23rd February 2026, rainfall in several municipalities in Cunene Province, caused floods affecting homes and social infrastructure. with the highest incidence in the municipalities of Cuvelai, Cuanhama and Mupa. As of 23rd February 2026, the Government of Angola Multisectoral Assessment Team Report estimated that 1,428 people (306 families) were affected, with 780 people (130 families) displaced. Out of these 306 houses affected, 243 were flooded and 64 destroyed with 19 social infrastructures affected. On 27th February 2026, the Cubango Province Civil Protection and Firefight shared with the National Society a summary report on rainfall damage for the period of August 2025 to February 2026, indicating that 5065 people…",
-    "url": "https://reliefweb.int/report/angola/angola-floods-2026-dref-operation-mdrao014"
+    "url": "https://reliefweb.int/report/angola/angola-floods-2026-dref-operation-mdrao014",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4203538",
+    "file_url": "https://reliefweb.int/attachments/210f5e1a-36b2-492e-ab2f-935869dcebaa/MDRAO014do.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/21/0f/210f5e1a-36b2-492e-ab2f-935869dcebaa.png",
+    "file_size": 1644404
   },
   {
     "id": "rw-4203539",
@@ -489,7 +1017,13 @@
     "location": "Turkmenistan",
     "date": "2026-03-18",
     "content": "Scenario analysis When and where is the hazard expected to happen? Escalating tensions and worsening security, mobility, and socioeconomic conditions in Iran from late February to March 2026 increase the likelihood of sudden crossborder movements into Turkmenistan. Reports indicate intensifying hostilities, airspace and movement restrictions, service disruptions, and growing economic pressures, all heightening vulnerabilities. More than 290 third-country nationals (TCNs) have already entered Turkmenistan, and further arrivals remain possible. The National Society maintains close engagement with public authorities and humanitarian partners in the country. Current contingency planning and scenario analyses indicate a credible risk of increased population movements and highlight the need f…",
-    "url": "https://reliefweb.int/report/turkmenistan/turkmenistan-population-movement-imminent-dref-operation-mdrtm001"
+    "url": "https://reliefweb.int/report/turkmenistan/turkmenistan-population-movement-imminent-dref-operation-mdrtm001",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "rw_id": "4203539",
+    "file_url": "https://reliefweb.int/attachments/cd238bbd-956d-42a4-93f7-12d982b28934/DREF_Population_movement_MDRTM001.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/cd/23/cd238bbd-956d-42a4-93f7-12d982b28934.png",
+    "file_size": 931106
   },
   {
     "id": "rw-4203148",
@@ -501,7 +1035,13 @@
     "location": "Afghanistan",
     "date": "2026-03-17",
     "content": "Highlights Trade Outlook and Market Context: During the second week of March, prices for most food and non-food commodities have shown a slight decline from the previous week, yet they remain elevated. While trade with Pakistan remains closed, there is a growing risk of further supply disruptions as Iran has suspended exports of food and agricultural products until further notice, citing internal economic pressures and ongoing geopolitical tensions. Although imports via the Khaf–Herat railway corridor remain active and imports from central Asian countries remains stable, the decline in imports through western borders from Iran is expected to put additional upward pressure on food prices in the coming weeks. Exchange Rate and Food Basket: During the second week of March, the Afghani appr…",
-    "url": "https://reliefweb.int/report/afghanistan/afghanistan-weekly-market-report-issue-287-week-2-march-2026"
+    "url": "https://reliefweb.int/report/afghanistan/afghanistan-weekly-market-report-issue-287-week-2-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203148",
+    "file_url": "https://reliefweb.int/attachments/451c8dbb-2db2-4cae-a629-488ae7e7980f/WFP%20-%20Issue%20287%20-%20Countrywide%20Weekly%20Market%20Report%20-%202nd%20Week%20of%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/45/1c/451c8dbb-2db2-4cae-a629-488ae7e7980f.png",
+    "file_size": 1100861
   },
   {
     "id": "rw-4203161",
@@ -513,7 +1053,13 @@
     "location": "Lebanon",
     "date": "2026-03-17",
     "content": "Key Highlights - Escalating conflict across South-West Asia and the Middle East continues to affect communities and humanitarian operations. The regions already host 24.3 million forcibly displaced people and returnees who face significant protection risks and humanitarian needs, alongside host communities. Families, including people already living as refugees, are fleeing their homes with nowhere safe to go and in urgent need of protection and assistance. - UNHCR operations have adjusted modalities to safeguard staff while maintaining critical activities, including border monitoring and protection services. Emergency stockpiles are in place for rapid deployment. UNHCR is coordinating with national authorities, UN agencies, and humanitarian partners to strengthen preparedness as the sit…",
-    "url": "https://reliefweb.int/report/lebanon/unhcr-middle-east-situation-emergency-flash-update-4-12-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/unhcr-middle-east-situation-emergency-flash-update-4-12-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203161",
+    "file_url": "https://reliefweb.int/attachments/c7e6288a-d026-554e-b2b0-1d67bcfd760a/UNHCR%20Middle%20East%20Situation%20Emergency%20Flash%20Update%204.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c7/e6/c7e6288a-d026-554e-b2b0-1d67bcfd760a.png",
+    "file_size": 644579
   },
   {
     "id": "rw-4203162",
@@ -525,7 +1071,13 @@
     "location": "Lebanon",
     "date": "2026-03-17",
     "content": "Key Highlights ▪ Escalating conflict across South-West Asia and the Middle East continues to affect communities and humanitarian operations. The regions already host 24.3 million forcibly displaced people and returnees who face significant protection risks and humanitarian needs, alongside host communities. Families, including people already living as refugees, are fleeing their homes with nowhere safe to go and in urgent need of protection and assistance. ▪ UNHCR operations have adjusted modalities to safeguard staff while maintaining critical activities, including border monitoring and protection services. Emergency stockpiles are in place for rapid deployment. UNHCR is coordinating with national authorities, UN agencies, and humanitarian partners to strengthen preparedness as the sit…",
-    "url": "https://reliefweb.int/report/lebanon/unhcr-middle-east-situation-emergency-flash-update-5-16-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/unhcr-middle-east-situation-emergency-flash-update-5-16-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203162",
+    "file_url": "https://reliefweb.int/attachments/95d4db05-6946-5c5f-ae56-daf502d003ab/UNHCR%20Middle%20East%20Situation%20Emergency%20Flash%20Update%20%235.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/95/d4/95d4db05-6946-5c5f-ae56-daf502d003ab.png",
+    "file_size": 636126
   },
   {
     "id": "rw-4203171",
@@ -537,7 +1089,13 @@
     "location": "South Sudan",
     "date": "2026-03-17",
     "content": "The transit centre around her has grown far beyond its original capacity. Built for around 1,000 to 2,000 families, it now shelters more than 8,000 people. Tents, mostly made of bedsheets and clothes, stretch across the dusty ground, packed tightly together, while children play football or jump rope in the spaces between them. To support her daughters, Esmiralda collects firewood which she sells to buy food. “Some days I earn just enough to buy a little flour or tea. Other days, there is nothing,” she says. A simple prayer For many families in the camp, finding even small sources of income can make the difference between eating and going hungry. To help families cope with these daily pressures, the South Sudan Red Cross provides cash assistance, with support from the IFRC. This support …",
-    "url": "https://reliefweb.int/report/south-sudan/now-ive-lost-everything-conflict-sudan-has-forced-millions-seek-safety-neighbouring-countries-where-they-face-uncertain-future"
+    "url": "https://reliefweb.int/report/south-sudan/now-ive-lost-everything-conflict-sudan-has-forced-millions-seek-safety-neighbouring-countries-where-they-face-uncertain-future",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203171",
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4203184",
@@ -549,7 +1107,13 @@
     "location": "Haiti",
     "date": "2026-03-17",
     "content": "SITUATION OVERVIEW Violence and instability in Haiti have displaced more than 1.45 million people, approaching levels seen after the 2010 earthquake, according to the latest Displacement Tracking Matrix report. Displacement is concentrated in Port-au-Prince but is also rising in the departments of Centre, Grand Nord and Artibonite, further straining already fragile local services. While over 197,000 people live in overcrowded displacement sites throughout the country, most displaced persons are hosted by families, which are already living under immense pressure. IOM is continuing to scale up humanitarian assistance while supporting pathways toward longer-term recovery.",
-    "url": "https://reliefweb.int/report/haiti/haiti-situation-report-february-2026"
+    "url": "https://reliefweb.int/report/haiti/haiti-situation-report-february-2026",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "rw_id": "4203184",
+    "file_url": "https://reliefweb.int/attachments/43dfbefe-b77e-5f8f-9b47-0ac2141e59a7/Haiti-Situation-Report-Feb-2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/43/df/43dfbefe-b77e-5f8f-9b47-0ac2141e59a7.png",
+    "file_size": 3286745
   },
   {
     "id": "rw-4203189",
@@ -561,7 +1125,13 @@
     "location": "Djibouti",
     "date": "2026-03-17",
     "content": "- A 40 percent pipeline break is projected to start from February 2026 despite previous ration cuts, putting lifesaving assistance at imminent risk; USD 7.7 million is urgently needed to sustain support for refugees and migrants. - Promisingly, over 80 percent of households in Ali Sabieh and Tadjourah participating in the fresh food vouchers activity already report improved food consumption levels and reduced negative coping strategies, just four months after the launch. - WFP’s Country Strategic Plan for Djibouti has been extended through 31 December 2026, pending ongoing consultations and review.",
-    "url": "https://reliefweb.int/report/djibouti/wfp-djibouti-country-brief-march-2026"
+    "url": "https://reliefweb.int/report/djibouti/wfp-djibouti-country-brief-march-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203189",
+    "file_url": "https://reliefweb.int/attachments/48b7d872-ee96-4e77-99f9-87d776c48c93/WFP%20Djibouti%20Country%20Brief%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/48/b7/48b7d872-ee96-4e77-99f9-87d776c48c93.png",
+    "file_size": 294647
   },
   {
     "id": "rw-4203195",
@@ -573,7 +1143,13 @@
     "location": "Nigeria",
     "date": "2026-03-17",
     "content": "Highlights - Borno Governor Hosts High-Level Delegation, Seeks Strengthened Humanitarian and Development Support. - Non-State Armed Group (NSAG)attacks intensify in Borno and Adamawa - Multiple fire incidents impact Internally Displaced Persons’ (IDP) camps and host communities in Borno and Yobe states - Surge in new arrivals stretches Pulka transit centre SITUATION OVERVIEW Borno Governor Hosts High-Level Delegation, Seeks Strengthened Humanitarian and Development Support On 3 February, Borno State Governor, Professor Babagana Umaru Zulum hosted a high-level delegation in Maiduguri, led by the United Nations Resident and Humanitarian Coordinator in Nigeria, and the Ambassador of Egypt. The delegation comprised distinguished Ambassadors from a diverse group of Member States, and humanit…",
-    "url": "https://reliefweb.int/report/nigeria/nigeria-borno-adamawa-and-yobe-bay-states-situation-report-17-march-2026"
+    "url": "https://reliefweb.int/report/nigeria/nigeria-borno-adamawa-and-yobe-bay-states-situation-report-17-march-2026",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4203195",
+    "file_url": "https://reliefweb.int/attachments/dede799b-1625-4b8c-8920-7501ee749e2e/February%202026%20BAY%20States%20Sitrep_final.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/de/de/dede799b-1625-4b8c-8920-7501ee749e2e.png",
+    "file_size": 577957
   },
   {
     "id": "rw-4203212",
@@ -585,7 +1161,13 @@
     "location": "Armenia",
     "date": "2026-03-17",
     "content": "## KEY HIGHLIGHTS In light of the recent escalation in the Middle East, WFP is currently strengthening its preparedness and readiness capacities to respond to potential influx of refugees into Armenia, which will require additional partner support.",
-    "url": "https://reliefweb.int/report/armenia/wfp-armenia-country-brief-march-2026"
+    "url": "https://reliefweb.int/report/armenia/wfp-armenia-country-brief-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203212",
+    "file_url": "https://reliefweb.int/attachments/23092af3-aa7b-4782-8942-be120013308a/032026_Armenia%20Country%20Brief.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/23/09/23092af3-aa7b-4782-8942-be120013308a.png",
+    "file_size": 205035
   },
   {
     "id": "rw-4203238",
@@ -597,7 +1179,13 @@
     "location": "Jordan",
     "date": "2026-03-17",
     "content": "## KEY HIGHLIGHTS - In February, WFP continued to provide reduced monthly food assistance of JOD 15 (USD 21) per person to 220,000 refugees in camps and host communities, covering only basic needs. Due to funding shortfalls, from 1 April, 135,000 refugees in host communities will no longer receive WFP assistance due to funding shortfalls, increasing their already dire food security. - Under the National School Feeding Programme, WFP and the Ministry of Education distributed date bars to 400,000 students in communities and healthy school meals to 109,000 students in camps and host communities.",
-    "url": "https://reliefweb.int/report/jordan/wfp-jordan-country-brief-march-2026-reporting-period-february-2026"
+    "url": "https://reliefweb.int/report/jordan/wfp-jordan-country-brief-march-2026-reporting-period-february-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203238",
+    "file_url": "https://reliefweb.int/attachments/8a0aa873-153e-4482-bdba-8d92be4f1663/032026%20Jordan%20Country%20Brief.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/8a/0a/8a0aa873-153e-4482-bdba-8d92be4f1663.png",
+    "file_size": 341279
   },
   {
     "id": "rw-4203244",
@@ -609,7 +1197,13 @@
     "location": "Cameroon",
     "date": "2026-03-17",
     "content": "Date of event 09-03-2026 What happened, where and when? On 7 February 2026, a series of large-scale fires affected multiple internally displaced persons (IDP) camps in Kolofata, Mayo-Sava Department, Far North Region, Cameroon. The fires occurred in quick succession between 10:00 and 11:45 a.m., initially impacting the Ndaba (Bergerie), Kordo Bergerie, and Camp Lélédé sites, before spreading to Camp Lélédé Tribune, located more than two kilometres away. The rapid and uncontrollable spread of the fires was exacerbated by strong winds, the highly flammable nature of shelter materials (millet stalks and wooden poles), and the absence of firefighting capacity within the camps. The incident resulted in one confirmed fatality (an eight-year-old child), 15 injuries, four hospitalizations, and …",
-    "url": "https://reliefweb.int/report/cameroon/cameroon-fire-2026-i-dref-operational-update-mdrcm043"
+    "url": "https://reliefweb.int/report/cameroon/cameroon-fire-2026-i-dref-operational-update-mdrcm043",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4203244",
+    "file_url": "https://reliefweb.int/attachments/2d5d6812-3a41-4527-b1c8-78e1888f8835/MDRCM043du1.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/2d/5d/2d5d6812-3a41-4527-b1c8-78e1888f8835.png",
+    "file_size": 1807415
   },
   {
     "id": "rw-4203262",
@@ -621,7 +1215,13 @@
     "location": "Yemen",
     "date": "2026-03-17",
     "content": "No summary available.",
-    "url": "https://reliefweb.int/report/yemen/alymn-lwht-byanat-sjl-ttbw-altdfqat-almhajrwn-alwafdwn-walmghadrwn-fbrayr-2026"
+    "url": "https://reliefweb.int/report/yemen/alymn-lwht-byanat-sjl-ttbw-altdfqat-almhajrwn-alwafdwn-walmghadrwn-fbrayr-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203262",
+    "file_url": "https://reliefweb.int/attachments/4eb48622-5820-580c-9e11-c205469104ec/20260316%20IOM%20DTM%20Monthly%20FMR%20Report%20-%20February%202026%20-%20Arabic.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/4e/b4/4eb48622-5820-580c-9e11-c205469104ec.png",
+    "file_size": 4299757
   },
   {
     "id": "rw-4203263",
@@ -633,7 +1233,13 @@
     "location": "Afghanistan",
     "date": "2026-03-17",
     "content": "No summary available.",
-    "url": "https://reliefweb.int/report/afghanistan/afghanstan-d-khlkw-d-tk-aw-ratk-ph-arh-lnd-rapwr-1-tr-14-d-march-2026-pashto-dari"
+    "url": "https://reliefweb.int/report/afghanistan/afghanstan-d-khlkw-d-tk-aw-ratk-ph-arh-lnd-rapwr-1-tr-14-d-march-2026-pashto-dari",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203263",
+    "file_url": "https://reliefweb.int/attachments/b6a7ce5c-7026-521a-8f83-4f8493c9218a/IOM%20DTM%20FM%2001%20-%2014%20Mar%202026%20Afghanistan_20260316_Pashto%20and%20Dari.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b6/a7/b6a7ce5c-7026-521a-8f83-4f8493c9218a.png",
+    "file_size": 2220876
   },
   {
     "id": "rw-4203266",
@@ -645,7 +1251,13 @@
     "location": "Guatemala",
     "date": "2026-03-17",
     "content": "SITUATION OVERVIEW • Guatemala is a multicultural country with over 40 percent inhabitants self-identifying as Indigenous Mayan. • Despite its middle-income status, one in six people lives on less than USD 2 per day. Chronic malnutrition (stunting) among children aged 6–59 months remains among the most severe globally, affecting 1 in 2 children, and ranking fourth to sixth worldwide, the highest in Latin America and the Caribbean. \\- In 2026, food insecurity remains a critical concern. The Integrated Food Security Phase Classification (IPC) projections for February–April indicate that up to 3 million people (approximately 16 percent of the population) are estimated to face acute food insecurity (IPC Phase 3+) during this period, including nearly 250,000 in Emergency (IPC Phase 4). • Mor…",
-    "url": "https://reliefweb.int/report/guatemala/wfp-guatemala-march-2026-country-brief"
+    "url": "https://reliefweb.int/report/guatemala/wfp-guatemala-march-2026-country-brief",
+    "region": "Americas",
+    "subregion": "Central America",
+    "rw_id": "4203266",
+    "file_url": "https://reliefweb.int/attachments/e8bf4594-07d4-45c4-a3cc-9723a1abe62b/GTCO_CB_March2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e8/bf/e8bf4594-07d4-45c4-a3cc-9723a1abe62b.png",
+    "file_size": 480246
   },
   {
     "id": "rw-4203284",
@@ -657,7 +1269,13 @@
     "location": "occupied Palestinian territory",
     "date": "2026-03-17",
     "content": "Surveillance data indicate that reported Guillain–Barré Syndrome (GBS) cases in Gaza remain within expected baseline levels, with no evidence of an unusual increase. However, more than half of reported cases require specialized rehabilitation following acute treatment. This places additional pressure on rehabilitation services that are already heavily burdened by conflict-related trauma cases. Limited rehabilitation bed capacity, shortages of assistive products, and constrained diagnostic support services remain key operational challenges. Strengthening rehabilitation capacity and ensuring availability of assistive devices remains critical to improving recovery outcomes for affected patients.",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/prevalence-guillain-barre-syndrome-gbs-gaza"
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/prevalence-guillain-barre-syndrome-gbs-gaza",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203284",
+    "file_url": "https://reliefweb.int/attachments/c55478e2-1cb0-4075-997a-09b1a3197d1b/Final%20Prevalence%20of%20Guillain.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c5/54/c55478e2-1cb0-4075-997a-09b1a3197d1b.png",
+    "file_size": 216896
   },
   {
     "id": "rw-4203289",
@@ -669,7 +1287,13 @@
     "location": "Haiti",
     "date": "2026-03-17",
     "content": "Au cours du mois de février 2026, le Cluster CCCM a poursuivi le pilotage opérationnel de la réponse en assurant une coordination régulière avec les partenaires intervenant sur les sites accueillant des personnes déplacées internes (PDI) ainsi qu’avec les autres secteurs humanitaires. Cette coordination s’est traduite par la tenue de la réunion mensuelle du Cluster et par des échanges techniques réguliers visant à assurer le suivi des interventions en cours, partager les évolutions contextuelles et orienter les priorités opérationnelles. Au niveau sous-national, cette coordination s’est également matérialisée par la tenue des réunions mensuelles des sous-clusters CCCM dans les départements de l’Artibonite et du Centre. La réunion mensuelle du Cluster CCCM a notamment permis de faire le …",
-    "url": "https://reliefweb.int/report/haiti/fiche-mensuelle-cluster-cccm-haiti-fevrier-2026"
+    "url": "https://reliefweb.int/report/haiti/fiche-mensuelle-cluster-cccm-haiti-fevrier-2026",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "rw_id": "4203289",
+    "file_url": "https://reliefweb.int/attachments/524991e2-c660-490a-a114-cc4064917352/Cluster%20CCCM%20Snapshot%20-%20fevrier%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/52/49/524991e2-c660-490a-a114-cc4064917352.png",
+    "file_size": 444147
   },
   {
     "id": "rw-4202851",
@@ -681,7 +1305,13 @@
     "location": "Afghanistan",
     "date": "2026-03-16",
     "content": "Description of the Event Crisis Category Supporting Document Date of event 04-03-2026 What happened, where and when? From the evening of 26 February through the first week of March 2026, airstrikes and border clashes between Afghanistan and Pakistan affected ten provinces: Kabul, Kandahar, Khost, Kunar, Laghman, Nangarhar, Nuristan, Parwan, Paktia, and Paktika. The escalation followed several days of rising tensions, during which airstrikes in Nangarhar and Paktika caused civilian casualties, and cross-border exchanges of fire were reported between armed forces on both sides. Armed clashes continued between Afghanistan's security forces and the Pakistani military in Khost, Kunar, Nangarhar, Paktia, and Paktika. Airstrikes were also reported in Gardez (Paktia), Jalalabad (Nangarhar), Kab…",
-    "url": "https://reliefweb.int/report/afghanistan/afghanistan-complex-emergency-dref-operation-mdraf020"
+    "url": "https://reliefweb.int/report/afghanistan/afghanistan-complex-emergency-dref-operation-mdraf020",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4202851",
+    "file_url": "https://reliefweb.int/attachments/4c9edd8f-677d-47bc-9468-4c04f5d2a207/MDRAF020.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/4c/9e/4c9edd8f-677d-47bc-9468-4c04f5d2a207.png",
+    "file_size": 9833120
   },
   {
     "id": "rw-4202852",
@@ -693,7 +1323,13 @@
     "location": "Somalia",
     "date": "2026-03-16",
     "content": "Date when the trigger was met 24-02-2026 What happened, where and when? The dengue situation in Somalia has taken a concerning turn, with a notable rise in suspected cases and fatalities reported. As of early 2026, health authorities have reported a sharp increase in mosquito-borne infections compared to previous years, raising alarm among public health. The disease has spread across multiple regions, particularly in urban and densely populated areas, posing a significant risk to vulnerable communities. Major urban centers such as Hargeisa Berbera and Burao have reported clusters of cases, with Hargeisa considered the epicenter due to high population density and limited vector control capacity. However, only a limited number of public and private hospitals are consistently reporting cas…",
-    "url": "https://reliefweb.int/report/somalia/somalia-dengue-outbreak-dref-response-dref-operation-mdrso026"
+    "url": "https://reliefweb.int/report/somalia/somalia-dengue-outbreak-dref-response-dref-operation-mdrso026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4202852",
+    "file_url": "https://reliefweb.int/attachments/00ac3d40-8d24-48ad-b8ab-b058e5d8d059/MDRSO026do%20%281%29.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/00/ac/00ac3d40-8d24-48ad-b8ab-b058e5d8d059.png",
+    "file_size": 2541009
   },
   {
     "id": "rw-4202853",
@@ -705,7 +1341,13 @@
     "location": "Barbados",
     "date": "2026-03-16",
     "content": "A. SITUATION ANALYSIS Description of the crisis In the months following Hurricane Beryl's devastating passage through the Caribbean, communities across the region continue to grapple with the far reaching consequences of the storm. The unprecedented early season Category 5 hurricane made landfall on July 1, 2024, leaving an extensive trail of destruction across Grenada, Saint Vincent and the Grenadines, Jamaica, and Barbados. The storm’s immense power stripped roofs from homes, razed entire villages, and severed access to essential services, intensifying pre-existing vulnerabilities among affected populations. In Grenada, the islands of Carriacou and Petite Martinique were hardest hit, with 98 percent1 of structures rendered uninhabitable and critical infrastructure, including power and…",
-    "url": "https://reliefweb.int/report/barbados/barbados-grenada-jamaica-and-saint-vincent-and-grenadines-hurricane-beryl-operation-update-5-mdrs2001"
+    "url": "https://reliefweb.int/report/barbados/barbados-grenada-jamaica-and-saint-vincent-and-grenadines-hurricane-beryl-operation-update-5-mdrs2001",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "rw_id": "4202853",
+    "file_url": "https://reliefweb.int/attachments/a93b4d05-ade0-457b-9930-a2fc196f00b2/EA-MDRS2001-OU5.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/a9/3b/a93b4d05-ade0-457b-9930-a2fc196f00b2.png",
+    "file_size": 3714695
   },
   {
     "id": "rw-4202854",
@@ -717,7 +1359,13 @@
     "location": "Democratic Republic of the Congo",
     "date": "2026-03-16",
     "content": "Description of the Event Date of event 22-02-2026 What happened, where and when? A cholera epidemic is currently ongoing in the Democratic Republic of Congo (DRC), with a geographical expansion and a recent increase in the number of reported cases and deaths during epidemiological week 7 of 2026 (EW7\\_2026) compared with previous years, epidemiological week 7 of 2026, 1,094 suspected cases and 26 deaths had been reported, including 6 deaths in health facilities and 20 community deaths, representing an overall case fatality rate of approximately 1%. The epidemic shows an increasing trend in case reporting compared with certain previous weeks, with a similar number of cases but a higher number of deaths than in 2024 and 2025. This situation indicates a concerning trend in terms of disease…",
-    "url": "https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-cholera-epidemic-2026-dref-operation-mdrcd049"
+    "url": "https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-cholera-epidemic-2026-dref-operation-mdrcd049",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4202854",
+    "file_url": "https://reliefweb.int/attachments/dcf7feb7-e558-423d-8d8f-4d25ae244480/MDRCD049do.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/dc/f7/dcf7feb7-e558-423d-8d8f-4d25ae244480.png",
+    "file_size": 3045260
   },
   {
     "id": "rw-4202856",
@@ -729,7 +1377,13 @@
     "location": "Brazil",
     "date": "2026-03-16",
     "content": "Since September 2024, cases of yellow fever have been reported in areas with no history of transmission, including cases identified outside the Amazon region. In response to this situation, the Pan American Health Organization / World Health Organization (PAHO / WHO) is reinforcing its call to Member States to strengthen surveillance, intensify vaccination of at-risk populations, and take the necessary measures to ensure that people traveling to areas with reported cases are properly informed and protected against yellow fever. In addition, it highlights the need to strengthen clinical management, with an emphasis on the detection and timely treatment of severe cases. PAHO/WHO also recommends having reserve doses available, according to the availability of vaccines in each country, to e…",
-    "url": "https://reliefweb.int/report/brazil/epidemiological-alert-yellow-fever-americas-region-13-march-2026"
+    "url": "https://reliefweb.int/report/brazil/epidemiological-alert-yellow-fever-americas-region-13-march-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4202856",
+    "file_url": "https://reliefweb.int/attachments/bcf641f3-0536-497d-a320-ed5ea4f9cb3e/2026-march-13-phe-epidemiological-alert-yellow-fever-final.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/bc/f6/bcf641f3-0536-497d-a320-ed5ea4f9cb3e.png",
+    "file_size": 1174580
   },
   {
     "id": "rw-4202864",
@@ -741,7 +1395,13 @@
     "location": "Yemen",
     "date": "2026-03-16",
     "content": "KEY HIGHLIGHTS SHORT-TERM OUTLOOK AND IMPLICATIONS ON FOOD SECURITY: Yemen’s food security outlook remains extremely dire across all governorates, with severe conditions expected to persist through February 2026. These risks are amplified by regional instability, elevated global food prices, falling household incomes and localized access constraints that limit families’ ability to obtain basic food. According to the latest IPC analysis, more than 18 million people—around half of Yemen’s population—are expected to remain severely food insecure (IPC Phase 3 or above) through February 2026, with a high risk that this figure will persist or rise under mounting pressures. In Government-controlled (GoY) areas, recent central bank measures have temporarily strengthened the Yemeni riyal and eas…",
-    "url": "https://reliefweb.int/report/yemen/yemen-market-and-trade-bulletin-february-2026-issued-15th-march-2026"
+    "url": "https://reliefweb.int/report/yemen/yemen-market-and-trade-bulletin-february-2026-issued-15th-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4202864",
+    "file_url": "https://reliefweb.int/attachments/bb9bca13-393a-49c5-bc88-76ab88177950/Yemen%20Market%20and%20Trade%20Bulletin%20-%20Feb%202026%20en.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/bb/9b/bb9bca13-393a-49c5-bc88-76ab88177950.png",
+    "file_size": 1163305
   },
   {
     "id": "rw-4202919",
@@ -753,7 +1413,13 @@
     "location": "Afghanistan",
     "date": "2026-03-16",
     "content": "Highlights WHO distributed a substantial volume of medical kits in February, including supplies to cover the needs of over 236,000 people (IEHK Basic and PHC kits) and life-saving trauma surgery kits for an estimated 2,700 patients, strengthening the health system's capacity. In response to a sharp 57.5% increase in returnees, WHO screened over 30,000 individuals for infectious diseases at border points, enabling critical early detection and containment of potential outbreaks like COVID-19 and dengue. Measles cases surged by 35% in February, and the Case Fatality Rate (CFR) doubled from 0.3% in January to 0.6%, signaling an increased transmission and an urgent need to scale up child health interventions for 264,000 beneficiaries.",
-    "url": "https://reliefweb.int/report/afghanistan/afghanistan-emergency-situation-report-issue-no-61-february-2026"
+    "url": "https://reliefweb.int/report/afghanistan/afghanistan-emergency-situation-report-issue-no-61-february-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4202919",
+    "file_url": "https://reliefweb.int/attachments/b1b3275a-840f-4aa8-a50e-204368c66a1b/WHO%20AFG%20Emergency%20Situation%20Report%2061%20%28February%202026%29.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b1/b3/b1b3275a-840f-4aa8-a50e-204368c66a1b.png",
+    "file_size": 1055408
   },
   {
     "id": "rw-4202924",
@@ -765,7 +1431,13 @@
     "location": "Somalia",
     "date": "2026-03-16",
     "content": "Background Somalia’s prolonged drought has escalated into a nationally declared drought emergency, intensifying humanitarian needs in Wajid District and pushing agropastoral communities into crisis. As local water sources dry up, families are forced to travel long distances to collect water—often unsafe—driving deteriorating health conditions, worsening food insecurity, livelihood collapse, and displacement. The situation in Wajid reflects extreme and rapidly worsening conditions. Many households live in makeshift shelters or have no shelter, leaving them exposed to harsh weather, overcrowding, and protection risks. Women, children, older persons, and persons with disabilities face the greatest threats, including violence, exploitation, and other harms linked to unsafe environments and …",
-    "url": "https://reliefweb.int/report/somalia/protection-and-solutions-monitoring-flash-alert-7-march-2-severe-drought-wajid-district-southwest-state-triggers-displacement-over-4500-civilians"
+    "url": "https://reliefweb.int/report/somalia/protection-and-solutions-monitoring-flash-alert-7-march-2-severe-drought-wajid-district-southwest-state-triggers-displacement-over-4500-civilians",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4202924",
+    "file_url": "https://reliefweb.int/attachments/71a1a9c5-e18d-53e9-a730-b428fedaf997/Flash%20Alert%20%237%20Severe%20Drought%20in%20Wajid%20District_Southwest%20State%20Triggers%20Displacement%20of%20Over%204%2C500%20Civilians.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/71/a1/71a1a9c5-e18d-53e9-a730-b428fedaf997.png",
+    "file_size": 951285
   },
   {
     "id": "rw-4202925",
@@ -777,7 +1449,13 @@
     "location": "Somalia",
     "date": "2026-03-16",
     "content": "Background On 4th March, approximately 2,364 individuals (394 households) were displaced from Mubarak and Darusalam villages in the Lower Shabelle region to Dayniile District, Banadir Region following armed clashes between Somali government forces and nonstate armed actors (Al-Shabaab). The displacement has contributed to increased pressure on hosting locations, exacerbating humanitarian needs among affected. Dayniile district already hosts approximately 673,000 internally displaced persons (IDPs). The arrival of these newly displaced populations from Lower Shabelle is likely to increase existing pressures on services, resources, and living conditions, further exacerbating risks and vulnerabilities within the area. Among the newly displaced population, approximately 500 are children, in…",
-    "url": "https://reliefweb.int/report/somalia/protection-and-solutions-monitoring-flash-alert-9-march-2026-clashes-between-somali-national-armed-forces-and-al-shabaab-mubarak-and-darusalaam-villages-lower-shabelle-displace-nearly-2400-civilians"
+    "url": "https://reliefweb.int/report/somalia/protection-and-solutions-monitoring-flash-alert-9-march-2026-clashes-between-somali-national-armed-forces-and-al-shabaab-mubarak-and-darusalaam-villages-lower-shabelle-displace-nearly-2400-civilians",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4202925",
+    "file_url": "https://reliefweb.int/attachments/d65b790b-abae-5e88-a91a-405df60f4159/Flash%20Alert%20%239_Clashes%20in%20Mubarak%20and%20Darusalaam%20Villages%20in%20Lower%20Shabelle%20Displace%20Nearly%202400%20Civilians.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/d6/5b/d65b790b-abae-5e88-a91a-405df60f4159.png",
+    "file_size": 667204
   },
   {
     "id": "rw-4202936",
@@ -789,7 +1467,13 @@
     "location": "Lebanon",
     "date": "2026-03-16",
     "content": "Situation Update The health sector in Lebanon is operating under severe strain as the Minister of Public Health has activated the Health Sector Emergency Taskforce and the Command andControl Centre (CCC) through the Public Health Emergency Operations Center (PHEOC) to coordinate lifesaving services. This activation aims to streamline medical evacuations, trauma care, emergency obstetric and newborn services (EmONC), and referral pathways across ambulance networks, designated trauma centers, and hospitals. Reinforced civil-military coordination and intensi ed partner engagement are supporting these e orts. Since the onset of renewed hostilities on 02 March 2026, 51% of the total injured patients were treated in the emergency rooms, while 39% required admissions to the general wards and 1…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-health-sector-emergency-situation-report-issue2-march-16-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-health-sector-emergency-situation-report-issue2-march-16-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4202936",
+    "file_url": "https://reliefweb.int/attachments/55c569b4-7a12-4bad-ac1b-bf3ab84b031d/Health%20Sector%20Emergency%20Sitrep%20-%20Issue%232.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/55/c5/55c569b4-7a12-4bad-ac1b-bf3ab84b031d.png",
+    "file_size": 7918697
   },
   {
     "id": "rw-4202950",
@@ -801,7 +1485,13 @@
     "location": "South Sudan",
     "date": "2026-03-16",
     "content": "SITUATION OVERVIEW Life-saving services for nearly 187,000 people in Bentiu and Malakal are at immediate risk of stopping in April 2026 due to severe funding shortfalls. Without urgent support, essential services – including clean water, sanitation, desludging, drainage pumping, dyke maintenance and basic health care – will cease, leaving already vulnerable communities without the minimum conditions required to survive. Bentiu IDP Camp, Bentiu IDP Sites and Malakal Settlement have served as places of last resort for families displaced by conflict and disaster. While longer-term transition plans aim to gradually shift away from large camp settings, maintaining minimum services is essential to ensure that any transition remains safe and voluntary. This comes at a moment of acute humanitar…",
-    "url": "https://reliefweb.int/report/south-sudan/critical-funding-gap-south-sudan-life-saving-services-bentiu-and-malakal"
+    "url": "https://reliefweb.int/report/south-sudan/critical-funding-gap-south-sudan-life-saving-services-bentiu-and-malakal",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4202950",
+    "file_url": "https://reliefweb.int/attachments/8e3057d4-251d-4f6b-8db7-e5ed3e410861/IOM-South-Sudan-critical-funding-gap-life-saving-services-in-bentiu-and-malakal-march-2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/8e/30/8e3057d4-251d-4f6b-8db7-e5ed3e410861.png",
+    "file_size": 566728
   },
   {
     "id": "rw-4202954",
@@ -813,7 +1503,13 @@
     "location": "Malawi",
     "date": "2026-03-16",
     "content": "KEY HIGHLIGHTS - WFP urgently requires USD 13.3 million to cover six‑month net funding needs (March 2026–August 2026), representing 38 percent of requirements. Timely donor support is critical to sustain life‑saving assistance, strengthen resilience and protect vulnerable households from worsening food insecurity and health crises. - WFP assisted 1.23 million people with food and nutrition assistance in February, distributing 18,292 mt of food and USD 2.4 million through cash-based transfers. SITUATION OVERVIEW • The Lean Season Food Insecurity Response Programme (LS-FIRP) was launched in November 2025 with food and cash transfers currently ongoing across the country. • Based on the Integrated Phase Classification food insecurity report, food gap months spanned October 2025 to March 202…",
-    "url": "https://reliefweb.int/report/malawi/wfp-malawi-country-brief-march-2026"
+    "url": "https://reliefweb.int/report/malawi/wfp-malawi-country-brief-march-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4202954",
+    "file_url": "https://reliefweb.int/attachments/173d85a1-4490-48a1-a470-27ad5ae62891/WFP%20Malawi%20Country%20Brief%20-%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/17/3d/173d85a1-4490-48a1-a470-27ad5ae62891.png",
+    "file_size": 313212
   },
   {
     "id": "rw-4202968",
@@ -825,7 +1521,13 @@
     "location": "Democratic Republic of the Congo",
     "date": "2026-03-16",
     "content": "HIGHLIGHTS • Insecurity persisted in parts of eastern DRC, including in Rutshuru, where armed actors dismantled the Kanaba IDP site, forcing 300 households to return to unsafe villages, while a drone strike in Goma killed three people, including a UN aid worker. • Despite the volatile security situation, spontaneous returns of Congolese refugees from Burundi continued, with about 30,800 people entering through Kavimvira in South Kivu between 23 February when the border reopened and 12 March. • Safe and dignified voluntary repatriation from North Kivu and South Kivu continued, with 268 refugees returning to Burundi and Rwanda, in separate convoys organized by UNHCR and the Governments of the three countries.",
-    "url": "https://reliefweb.int/report/democratic-republic-congo/regional-external-update-34-west-and-central-africa-region-eastern-drc-situation-12-march-2026"
+    "url": "https://reliefweb.int/report/democratic-republic-congo/regional-external-update-34-west-and-central-africa-region-eastern-drc-situation-12-march-2026",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4202968",
+    "file_url": "https://reliefweb.int/attachments/7f9e5e04-82c3-5462-8576-26e94c28faef/34%20DRC%20Situation%20External%20Update%2013%20March%202026%20-%20FINAL.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/7f/9e/7f9e5e04-82c3-5462-8576-26e94c28faef.png",
+    "file_size": 434935
   },
   {
     "id": "rw-4202985",
@@ -837,7 +1539,13 @@
     "location": "Bangladesh",
     "date": "2026-03-16",
     "content": "Proportional morbidity & upsurges/outbreak in EW3, 2026 Proportional morbidity Acute Respiratory Infections (23.6%), Acute Watery Diarrhea (2.9%), and Unexplained fever (0.6%) were the diseases and health conditions with the highest proportional morbidity this week. Upsurges/outbreak Dengue: Weekly dengue cases have been reported to date; this week, 14 RDT-positive cases were reported mainly in camps. There is continued decline in weekly cases over the month, with a cumulative 67 RDT-positive cases (55 refugees and 12 host population ) and 0 deaths (CFR 0%), a 48 % decrease from the previous week (27 cases). Measles/Rubella: So far in 2026, there is one (1) confirmed Rubella case reported from camp 21. Diphtheria: No confirmed case this week & in the last 8 weeks. So far, zero (0) confi…",
-    "url": "https://reliefweb.int/report/bangladesh/bangladesh-epidemiological-highlights-epidemiological-week-ew-3-18-24-january-2026"
+    "url": "https://reliefweb.int/report/bangladesh/bangladesh-epidemiological-highlights-epidemiological-week-ew-3-18-24-january-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4202985",
+    "file_url": "https://reliefweb.int/attachments/bd0662d1-6a8a-52cb-bf01-0450b95ff6bf/ewars-w03-2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/bd/06/bd0662d1-6a8a-52cb-bf01-0450b95ff6bf.png",
+    "file_size": 1728385
   },
   {
     "id": "rw-4203002",
@@ -849,7 +1557,13 @@
     "location": "Ukraine",
     "date": "2026-03-16",
     "content": "OPERATIONAL CONTEXT & HIGHLIGHTS: • The UN High Commissioner for Refugees, Barham Salih, travelled to Ukraine in February as the full-scale invasion entered its fifth year. This was the High Commissioner’s first visit to Ukraine since assuming office in January. He urged sustained international solidarity and stronger support for Ukrainians. • The Russian Federation continued to carry out large-scale attacks on Ukraine’s energy infrastructure in February, resulting in prolonged power outages as people continued to experience freezing temperatures. President Zelenskyy said that over the last three months of winter (DecemberFebruary), Russian Armed Forces launched more than 14,670 guided aerial bombs, 738 missiles, and nearly 19,000 drone attacks against Ukraine. • An updated joint Rapid …",
-    "url": "https://reliefweb.int/report/ukraine/unhcr-ukraine-operational-update-12-march-2026"
+    "url": "https://reliefweb.int/report/ukraine/unhcr-ukraine-operational-update-12-march-2026",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "rw_id": "4203002",
+    "file_url": "https://reliefweb.int/attachments/a3420b94-a025-5b42-8baf-8fbc08d59013/UNHCR%20Ukraine%20Operational%20Update_12%20March%202026_final.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/a3/42/a3420b94-a025-5b42-8baf-8fbc08d59013.png",
+    "file_size": 2035537
   },
   {
     "id": "rw-4203028",
@@ -861,7 +1575,13 @@
     "location": "Chad",
     "date": "2026-03-16",
     "content": "Faits saillants récents Tiné (Wadi Fira) — événement critique : plus de 156 blessés et 8 décès enregistrés à l’hôpital de district à la suite des bombardements survenus du 06 au 09 février 2026 côté soudanais ; Goulets opérationnels transversaux : ambulances insuffisantes, contraintes de carburant et de transport des prélèvements, ainsi que difficultés d’accès internet qui entravent la surveillance et la remontée des données en temps utile. Situation épidémiologique : Transmission sous surveillance – rougeole en hausse, polio en alerte En février 2026, la situation sanitaire dans les régions humanitaires de l’Est, du Lac et du Sud est restée tendue, avec une rougeole en hausse dans l’Est—Adré et Abéché étant signalées en épidémie et la province du Sila (Koukou, Goz Beida, Tissi) exposée…",
-    "url": "https://reliefweb.int/report/chad/tchad-note-danalyse-de-la-situation-humanitaire-en-sante-fevrier-2026"
+    "url": "https://reliefweb.int/report/chad/tchad-note-danalyse-de-la-situation-humanitaire-en-sante-fevrier-2026",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4203028",
+    "file_url": "https://reliefweb.int/attachments/18240584-3638-4dbc-8564-b8a22a018e9a/NOTE%20ANALYSE%20SITUATION%20HUMANITAIRE%20SANTE%20-%20FEVRIER%202026%20%281%29.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/18/24/18240584-3638-4dbc-8564-b8a22a018e9a.png",
+    "file_size": 282539
   },
   {
     "id": "rw-4203038",
@@ -873,7 +1593,13 @@
     "location": "Iran (Islamic Republic of)",
     "date": "2026-03-16",
     "content": "Overview The recent escalation of hostilities across Asia and the Middle East has led to a marked deterioration in the humanitarian situation. The affected areas already host 24.3 million forcibly displaced people, many of whom already face significant protection risks and humanitarian needs, alongside host communities. Many countries are supporting the humanitarian needs of forcibly displaced populations with limited funding, making it harder to absorb additional needs and vulnerable populations. Against this backdrop, the rapid escalation of hostilities is placing increased strain on humanitarian capacities and host communities, with heightened protection needs, the risk of internal displacement and possible new outflows and onward movements towards neighbouring countries. UNHCR is cl…",
-    "url": "https://reliefweb.int/report/iran-islamic-republic/middle-east-situation-16-march-2026"
+    "url": "https://reliefweb.int/report/iran-islamic-republic/middle-east-situation-16-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4203038",
+    "file_url": "https://reliefweb.int/attachments/50d8044d-c495-5e85-8d9d-5f45eee63e7e/Middle%20East%20Situation%20CORE%20-%2016%20March%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/50/d8/50d8044d-c495-5e85-8d9d-5f45eee63e7e.png",
+    "file_size": 2120886
   },
   {
     "id": "rw-4203051",
@@ -885,7 +1611,13 @@
     "location": "Romania",
     "date": "2026-03-16",
     "content": "Key figures 203,684 refugees obtained temporary protection and refugee status in Romania (as of end January 2026). 47,020 refugees supported with core relief items in 2025 and 2026. 13,882 refugees provided with protection counselling services and legal support in 2025 and 2026. 5,784 refugees supported with livelihood and employment services in 2025 and 2026. Highlights On 6 March, the Inter-Agency Coordination Unit convened the first Refugee Response Plan (RRP) partners’ meeting following the launch of the revised 2026 RRP, attended by Ms. Diana Punga, State Adviser within the Presidential Administration. The meeting brought together approximately 60 participants, including representatives from 40 RRP partner organisations and sector leads. Ms. Punga, presented the Presidency’s initia…",
-    "url": "https://reliefweb.int/report/romania/unhcr-romania-ukraine-refugee-situation-update-weekly-update-187-16-march-2026"
+    "url": "https://reliefweb.int/report/romania/unhcr-romania-ukraine-refugee-situation-update-weekly-update-187-16-march-2026",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "rw_id": "4203051",
+    "file_url": "https://reliefweb.int/attachments/d851d658-b5cb-5656-82d7-ad869a1e7c9a/20260316%20UNHCR%20Romania%20Ukraine%20Refugee%20Situation%20Update%20FINAL.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/d8/51/d851d658-b5cb-5656-82d7-ad869a1e7c9a.png",
+    "file_size": 203449
   },
   {
     "id": "rw-4203080",
@@ -897,7 +1629,13 @@
     "location": "Lebanon",
     "date": "2026-03-16",
     "content": "Situation updates Impact of ongoing airstrikes • In the past 24 hours, airstrikes and bombardment continued across southern Lebanon, Beirut’s southern suburbs, and parts of the Bekaa, triggering additional waves of internal displacement and contributing to a rising death toll. • Targeted strikes on apartments and vehicles have been reported almost daily, frequently occurring in residential areas and resulting in civilian casualties while increasing fear and psychosocial distress among affected communities. • A bridge in Tarfylsay village (Tyre district) was destroyed, while roads in Khardali and Dibbin villages sustained damage, severing road connections between areas north and south of the Litani River, as well as within the southern area. These incidents mark the first reported strike…",
-    "url": "https://reliefweb.int/report/lebanon/who-lebanon-health-emergency-situation-update-10-15-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/who-lebanon-health-emergency-situation-update-10-15-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203080",
+    "file_url": "https://reliefweb.int/attachments/f05baa55-990b-43e0-a560-f589395ff688/Lebanon%20Emergency%20Sitrep%20%2310%20-%2015March2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/f0/5b/f05baa55-990b-43e0-a560-f589395ff688.png",
+    "file_size": 1866727
   },
   {
     "id": "rw-4203085",
@@ -909,7 +1647,13 @@
     "location": "United Republic of Tanzania",
     "date": "2026-03-16",
     "content": "As of 28 February 2026, Tanzania hosts 189,993 refugees and asylum seekers, mainly from Burundi 101,917 and the DRC 87,367, and 709 from other countries who live in two camps, while some refugees live in villages and three old settlements in Kigoma, Katavi, and Tabora regions. In collaboration with the Government, UNHCR, and partners, have been receiving asylum seekers fleeing violent clashes in the DRC. In February 2026, a total of 67 new arrivals were received in Tanzania, bringing the total number of arrivals to 4,198 since renewed violence in eastern DRC in January 2025. UNHCR continues to provide protection and assistance to persons of concern. Some services, including primary health care and education, are also extended to the host community. In addition, UNHCR seeks durable solut…",
-    "url": "https://reliefweb.int/report/united-republic-tanzania/unhcr-tanzania-operational-update-february-2026"
+    "url": "https://reliefweb.int/report/united-republic-tanzania/unhcr-tanzania-operational-update-february-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4203085",
+    "file_url": "https://reliefweb.int/attachments/1de99fd5-928b-512f-8e71-69092d7b0009/Final%20UNHCR%20Tanzania%20Operational%20Update%20February%202026_.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/1d/e9/1de99fd5-928b-512f-8e71-69092d7b0009.png",
+    "file_size": 430002
   },
   {
     "id": "rw-4203097",
@@ -921,7 +1665,13 @@
     "location": "Lebanon",
     "date": "2026-03-16",
     "content": "Overview For the past two weeks, Lebanon faced a rapidly worsening and unpredictable security environment, in a context of wider regional escalation. Intensified aerial attacks and evacuation orders across multiple areas have driven further displacement and expanded humanitarian needs and exposed communities to sustained insecurity. The insecurity is also directly affecting refugees, not least since Lebanon hosts the world’s largest number per capita. Multiple Informal Tented Settlements (ITS) in Baalbek-Hermel were directly affected by strikes, with confirmed damage to 11 tents and displacement to other ITS or open areas. As of 15 March, the Government reported 850 people have been killed and 2,109 injured since the escalation began. According to open sources, 21 Syrians have been kill…",
-    "url": "https://reliefweb.int/report/lebanon/middle-east-situation-lebanon-flash-update-2-9-15-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/middle-east-situation-lebanon-flash-update-2-9-15-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203097",
+    "file_url": "https://reliefweb.int/attachments/7e2f6c5a-acf6-52c7-ab34-8cfe5eb01373/UNHCR%20LBN_Flash%20Update%202.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/7e/2f/7e2f6c5a-acf6-52c7-ab34-8cfe5eb01373.png",
+    "file_size": 1288053
   },
   {
     "id": "rw-4203112",
@@ -933,7 +1683,13 @@
     "location": "Ecuador",
     "date": "2026-03-16",
     "content": "Este informe es elaborado por la Oficina del/de la Coordinador(a) Residente y la Oficina para la Coordinación de Asuntos Humanitarios (OCHA), en colaboración con las agencias, fondos y programas del Sistema de las Naciones Unidas, información de organizaciones miembros del Equipo Humanitario País e información oficial. El siguiente informe se emitirá aproximadamente el 16 de marzo. DESTACADOS - Desde enero de 2026, las lluvias intensas han provocado inundaciones, deslizamientos y otros eventos asociados en gran parte del territorio nacional, con más de 55.000 personas afectadas, daños en viviendas, infraestructura vial y medios de vida. - Las provincias más afectadas incluyen Guayas, Los Ríos, Manabí, Esmeraldas, El Oro y Santa Elena en la Costa. - Las autoridades nacionales y socios hu…",
-    "url": "https://reliefweb.int/report/ecuador/ecuador-emergencia-ola-invernal-flash-update-no-01-al-16-de-marzo-2026"
+    "url": "https://reliefweb.int/report/ecuador/ecuador-emergencia-ola-invernal-flash-update-no-01-al-16-de-marzo-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4203112",
+    "file_url": "https://reliefweb.int/attachments/ec1e5d27-e7f7-4c04-887b-710b9a3f842d/Flash%20Update%201_%20ola%20invernal%202026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ec/1e/ec1e5d27-e7f7-4c04-887b-710b9a3f842d.png",
+    "file_size": 219407
   },
   {
     "id": "rw-4203113",
@@ -945,7 +1701,13 @@
     "location": "Syrian Arab Republic",
     "date": "2026-03-16",
     "content": "IN THIS ISSUE - Escalation of hostilities triggers widespread displacement and service disruption, with clashes in Aleppo and north-east Syria displacing more than 119,000 people in early January and cutting access to water, electricity, and essential urban infrastructure in affected areas. - Territorial and administrative shifts reshape governance across the north-east, following a January ceasefire and integration agreement that transferred control of key districts in Ar-Raqqa, Deir-ez-Zor, and southern Al-Hasakeh to Government institutions. - Winter storms, flooding, and extreme cold expose vulnerabilities, damaging infrastructure, submerging shelters in 21 IDP sites, and causing multiple child deaths across Lattakia and Idleb, while affecting more than 160,000 displaced people in 12…",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-humanitarian-overview-issue-no-4-january-february-2026-enar"
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-humanitarian-overview-issue-no-4-january-february-2026-enar",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4203113",
+    "file_url": "https://reliefweb.int/attachments/49ff9adf-2cd3-4390-b3f1-824bf51ec3a8/260317_Syria%20Humanitarian%20Overview_%234_EN.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/49/ff/49ff9adf-2cd3-4390-b3f1-824bf51ec3a8.png",
+    "file_size": 1076325
   },
   {
     "id": "rw-4203119",
@@ -957,7 +1719,13 @@
     "location": "Burkina Faso",
     "date": "2026-03-16",
     "content": "As of 31 December, Burkina Faso hosted 42,962 refugees, mainly from Mali and over 2 million internally displaced persons (IDPs) reported by authorities as of 31 March 2023. Despite relative stability in some areas, regions such as Soum and Liptako faced acute shortages of food, water, fuel and medicines, sharply worsening living conditions, pointing to limited humanitarian access. Cross‑border movements intensified in late 2025, with around 7,000 new Malian refugees arriving over the reporting period. Hosted across seven villages, they have overwhelmed already scarce resources. Joint UNHCR– CONAREF assessments revealed heightened protection risks, underscoring urgent needs for registration and strengthened multisectoral coordination. Food insecurity remained the most urgent concern for …",
-    "url": "https://reliefweb.int/report/burkina-faso/unhcr-burkina-faso-fact-sheet-july-december-2025"
+    "url": "https://reliefweb.int/report/burkina-faso/unhcr-burkina-faso-fact-sheet-july-december-2025",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4203119",
+    "file_url": "https://reliefweb.int/attachments/99a1ffd0-a778-420d-a0d7-8c2dda7f1130/unhcr-bkf-factsheet-july-december-2025.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/99/a1/99a1ffd0-a778-420d-a0d7-8c2dda7f1130.png",
+    "file_size": 490973
   },
   {
     "id": "rw-4203120",
@@ -969,7 +1737,13 @@
     "location": "Burkina Faso",
     "date": "2026-03-16",
     "content": "STATISTICS / MAP 2 105 496 Forcibly displaced people 2 062 534 Internally displaced people (IDPs) 42 962 Refugees and asylum-seekers, incl. 94 per cent from Mali Burkina Faso continues to face one of the most severe displacement crises in the region. As of 31 March 2023, government data reported over 2 million internally displaced persons (IDPs), reflecting the ongoing impact of insecurity and violence on civilian populations. In addition, as of 31 December 2025, the country generously hosts 42,962 refugees, mainly from Mali, nearly 70 per cent of whom live within host communities in the Sahel region. In total, more than 2.1 million people remain forcibly displaced across the country. UNHCR, in coordination with national authorities and partners, continues to respond to urgent protectio…",
-    "url": "https://reliefweb.int/report/burkina-faso/burkina-faso-unhcr-operational-update-quarterly-october-december-2025"
+    "url": "https://reliefweb.int/report/burkina-faso/burkina-faso-unhcr-operational-update-quarterly-october-december-2025",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4203120",
+    "file_url": "https://reliefweb.int/attachments/338de882-4188-4c74-9640-cfa40429e20e/q4-quaterly-operational-update-unhcr-burkina-faso-oct-dec-2025.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/33/8d/338de882-4188-4c74-9640-cfa40429e20e.png",
+    "file_size": 933348
   },
   {
     "id": "rw-4202831",
@@ -981,7 +1755,13 @@
     "location": "Syrian Arab Republic",
     "date": "2026-03-15",
     "content": "Key Highlights - As of 12 March, UNHCR estimates that 1,524,736 individuals have returned to Syria from other countries since the political transition in Syria on 8 December 2024. The main governorate of return remains Damascus followed by Idleb, Aleppo, Rural Damascus and Homs. - Around 118,590 individuals entered Syria from Lebanon between 2–13 March through official border crossing points. Intensified airstrikes in Lebanon led to surges at border points, especially Joussieh, prompting the deployment of additional border personnel. - UNHCR and its partners along with WFP and UNICEF, scaled up emergency assistance at the borders with Lebanon. ¡ In areas of return, over 5,871 arrivals from Lebanon were identified in Ar-Raqqa, with additional arrivals recorded in Homs, Damascus, Rural Da…",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/regional-flash-update-68-syria-situation-13-march-2026"
+    "url": "https://reliefweb.int/report/syrian-arab-republic/regional-flash-update-68-syria-situation-13-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4202831",
+    "file_url": "https://reliefweb.int/attachments/89f38cf3-bcdc-53a3-a1ac-3e6e39cf4982/unhcr-regional-flash-update-68-syria-situation.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/89/f3/89f38cf3-bcdc-53a3-a1ac-3e6e39cf4982.png",
+    "file_size": 2465489
   },
   {
     "id": "rw-4202836",
@@ -993,7 +1773,13 @@
     "location": "Egypt",
     "date": "2026-03-15",
     "content": "1,038,544 individuals were provided with registration appointments since the outbreak of conflict in Sudan in April 2023. 1,098,750 Registered population 440,946 Registered households 74.7% Women and children 19.6% Persons with specific needs LATEST DEVELOPMENTS – HIGHLIGHTS • On 9 February, UNHCR and WFP held a briefing with participation from the UN Resident Coordinator, and many key stakeholders. The agencies noted the increasing humanitarian needs among Egypt’s 1.1 million registered refugees in the context of resources and socioeconomic conditions. They underscored growing vulnerabilities across varying sectors. Both agencies called for additional support to sustain essential programmes and emphasized the importance of continued investment in long‑term inclusion efforts as Egypt ad…",
-    "url": "https://reliefweb.int/report/egypt/unhcr-egypt-monthly-operational-update-february-2026"
+    "url": "https://reliefweb.int/report/egypt/unhcr-egypt-monthly-operational-update-february-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4202836",
+    "file_url": "https://reliefweb.int/attachments/e158b1ca-846b-5a76-8aa0-1e02c0a90587/unhcr-egypt-monthly-operational-update-february-2026.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e1/58/e158b1ca-846b-5a76-8aa0-1e02c0a90587.png",
+    "file_size": 3699184
   },
   {
     "id": "rw-4203079",
@@ -1005,7 +1791,13 @@
     "location": "Lebanon",
     "date": "2026-03-14",
     "content": "Situation updates Impact of ongoing airstrikes • In the past 24 hours, multiple airstrikes continued overnight and early on 14 March, targeting areas in southern Lebanon and near Saida, resulting in several fatalities and injuries. Overall, the security situation remains highly volatile, with continued airstrikes across southern Lebanon and other areas and rising civilian casualties. The escalation is further exacerbating humanitarian needs, with increasing displacement and growing pressure on health services and infrastructure. • Total hostiles reach 1,928 since 2 March, 2026. Casualties and injury overview • MoPH reported that the cumulative number of casualties since 2 March has reached 2,835, including 826 (29%) deaths and 2,009 (71%) injuries, as of 2:00 pm on 14 March 2026, with a…",
-    "url": "https://reliefweb.int/report/lebanon/who-lebanon-health-emergency-situation-update-9-14-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/who-lebanon-health-emergency-situation-update-9-14-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202824",
@@ -1017,7 +1809,13 @@
     "location": "Lebanon",
     "date": "2026-03-14",
     "content": "HIGHLIGHTS - UN Secretary-General António Guterres visited Lebanon in a solidarity mission, highlighting the severity of the crisis and calling for protection of civilians and increased international support. Together with the Government of Lebanon, he launched 2026 Flash Appeal. - MoPH reports 139 people killed and 347 injured during 12-13 March, bringing the cumulative toll to 773 fatalities and 1,933 injuries. - Attacks against health workers, facilities and transport continue as MoPH reports 18 healthcare workers were killed and 48 injured in 26 attacks on healthcare. - Air strikes reportedly destroyed a bridge in Tarfylsay and damaged roads in Khardali and Dibbin, raising concerns over civilian mobility and potential humanitarian access. SITUATION OVERVIEW On 13 March, the United N…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-8-escalation-hostilities-lebanon-12-13-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-8-escalation-hostilities-lebanon-12-13-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4202824",
+    "file_url": "https://reliefweb.int/attachments/8121590c-faa9-461e-b85e-79eb795843bf/2026.03.13_OCHA_Lebanon_Flash_Update%20No8.pdf",
+    "file_preview": "https://reliefweb.int/sites/default/files/styles/large/public/previews/81/21/8121590c-faa9-461e-b85e-79eb795843bf.png",
+    "file_size": 524250
   },
   {
     "id": "rw-4202691",
@@ -1029,7 +1827,13 @@
     "location": "United Republic of Tanzania",
     "date": "2026-03-13",
     "content": "- In January, WFP reached 231,933 people with food and nutrition assistance, distributing 2,363 mt of food. Due to funding shortfalls, general food distribution rations remained at 65 percent. Supplementary feeding at full rations reached 42,197 nutritionally vulnerable individuals, while hot meals were provided to new arrivals, repatriation cases, and protection‑related beneficiaries. - In January, WFP, together with government nutrition and health officers, conducted supportive supervision of food‑fortification millers in Kigoma. Through WFP’s fortification training and support from the Ministry of Health, eight councils received 20 dosifiers, and three councils have already installed the equipment. As a result, the number of active fortifying millers increased to 22, enhancing local …",
-    "url": "https://reliefweb.int/report/united-republic-tanzania/wfp-tanzania-country-brief-february-2026"
+    "url": "https://reliefweb.int/report/united-republic-tanzania/wfp-tanzania-country-brief-february-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202699",
@@ -1041,7 +1845,13 @@
     "location": "Mozambique",
     "date": "2026-03-13",
     "content": "SITUATION OVERVIEW Mozambique continues to experience significant humanitarian impacts following widespread flooding across southern and central regions. As floodwaters gradually recede in some areas, Gaza Province remains among the most severely affected, alongside districts in Inhambane, Sofala, Maputo and Zambézia. Structural damage to homes, public infrastructure and agricultural land is still being assessed, while early recovery efforts remain constrained by damaged roads, residual flooding and access challenges in low-lying and riverine areas. Although water levels have begun to decline in several locations, residual flooding and upstream water flows continue to affect communities, preventing some households from safely returning to their homes or accessing farmland and livelihood…",
-    "url": "https://reliefweb.int/report/mozambique/flood-response-central-and-southern-mozambique-situation-report-3-12-march-2026"
+    "url": "https://reliefweb.int/report/mozambique/flood-response-central-and-southern-mozambique-situation-report-3-12-march-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202700",
@@ -1053,7 +1863,13 @@
     "location": "Lebanon",
     "date": "2026-03-13",
     "content": "HIGHLIGHTS - Displacement continues to surge nationwide and beyond Lebanon’s borders. 78,000 Syrians and 7,700 Lebanese have crossed into Syria since the escalation began. - Risks to humanitarian operations are rising sharply NRC’s office in Tyre, underscoring growing dangers for civilians and aid workers. - Flash Appeal to be launched on 13 March outlining immediate operational and funding priorities for urgent humanitarian response. Situation Overview Geographical expansion and intensification of hostilities across Lebanon continue to deteriorate the humanitarian situation exposing growing number of people to persistent insecurity. The impact is particularly severe in locations hosting displaced families, where renewed displacement orders are driving secondary and repeated displacemen…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-7-escalation-hostilities-lebanon-11-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-7-escalation-hostilities-lebanon-11-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202704",
@@ -1065,7 +1881,13 @@
     "location": "Sudan",
     "date": "2026-03-13",
     "content": "HIGHLIGHTS - Drone strikes and escalating violence in Kordofan are increasing civilian casualties, damaging civilian infrastructure, deepening needs, hindering humanitarian access, driving displacement and overwhelming already fragile services. - The security situation across the Darfur region continues to deteriorate, with intensifying violence killing and injuring civilians, spreading fear and triggering new waves of displacement. - The 2026 Humanitarian Needs and Response Plan launched in February is just over 15 per cent funded, limiting the scale-up of life-saving assistance.",
-    "url": "https://reliefweb.int/report/sudan/sudan-humanitarian-update-january-february-2026"
+    "url": "https://reliefweb.int/report/sudan/sudan-humanitarian-update-january-february-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202732",
@@ -1077,7 +1899,13 @@
     "location": "Pakistan",
     "date": "2026-03-13",
     "content": "OVERVIEW • Pakistan, the world’s fifth most populous country, holds significant economic and human capital potential, with the Government making substantial investments to accelerate progress towards the Sustainable Development Goals. • Yet the country continues to face complex and overlapping humanitarian and development challenges that strain the food and nutrition landscape and constrain human capital development. Persistently high stunting rates (40 percent) and the high number of out-ofschool children (25 million) underscore the vulnerabilities that require continued systemlevel support. These vulnerabilities are compounded by recurring climate shocks. In 2025, severe monsoon flooding impacted over 6.9 million people. • The latest multistakeholder Integrated Phase Classification (I…",
-    "url": "https://reliefweb.int/report/pakistan/wfp-pakistan-country-brief-march-2026"
+    "url": "https://reliefweb.int/report/pakistan/wfp-pakistan-country-brief-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202734",
@@ -1089,7 +1917,13 @@
     "location": "Lebanon",
     "date": "2026-03-13",
     "content": "BEYROUTH, Liban – « Mariam a eu deux ans il y a quelques jours, et c’est déjà son deuxième déplacement », explique sa mère, Nadia\\*, réfugiée avec sa famille à l’école Sin El Fil de Beyrouth, la capitale libanaise. Les couloirs ne vibrent plus de l’écho des cours suivis par les enfants. Au contraire, une fois de plus, ils sont lourds d’un silence terrifié et des murmures de familles qui ont tout perdu. Pour Mariam, ces murs de béton sont un terrain de jeux terriblement familier. Cette famille fait partie des [dizaines de milliers de personnes](https://news.un.org/fr/story/2026/03/1158511) cherchant refuge depuis que les bombardements aériens d’Israël se sont intensifiés, ces derniers jours, sur le sud du Liban, la plaine de la Bekaa et les banlieues sud de Beyrouth. « Nous revivons le m…",
-    "url": "https://reliefweb.int/report/lebanon/une-ecole-redevient-refuge-au-liban-le-cauchemar-recommence-pour-les-familles-qui-fuient-les-violences"
+    "url": "https://reliefweb.int/report/lebanon/une-ecole-redevient-refuge-au-liban-le-cauchemar-recommence-pour-les-familles-qui-fuient-les-violences",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202751",
@@ -1101,7 +1935,13 @@
     "location": "Mali",
     "date": "2026-03-13",
     "content": "KEY HIGHLIGHTS • The humanitarian situation remains critical, with more than 415,000 internally displaced people (IDPs)—mostly women and children—driven by insecurity, climate shocks, and health crises. • Mali is hosting 164,000 registered Burkinabe and Nigerien refugees. However, an estimated 14,000 individuals remain unregistered. • In 2026, WFP plans to reach 1.1 million beneficiaries (out of 1.6 m people facing acute food insecurity during the lean season) through its emergency, resilience, and capacity‑strengthening activities.",
-    "url": "https://reliefweb.int/report/mali/wfp-mali-country-brief-february-2026"
+    "url": "https://reliefweb.int/report/mali/wfp-mali-country-brief-february-2026",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202759",
@@ -1113,7 +1953,13 @@
     "location": "Madagascar",
     "date": "2026-03-13",
     "content": "HIGHLIGHTS - More than 681,000 people have been affected by the impacts of two successive severe tropical systems - Cyclone Fytia and Intense Tropical Cyclone Gezani. - US$23.2 million has been mobilized, part of which has contributed to the US$67.8 million Flash Appeal launched on 20 February, targeting 486,000 people to support the Government-led response. - Humanitarian partners are working closely with the Government of Madagascar and local authorities to scale up multi-sector assistance to address urgent needs. - Access to the hardest-hit areas remains challenging, particularly in two of the most isolated communes. SITUATION OVERVIEW Madagascar is recovering from the devastating impact of two successive tropical systems, Cyclone Fytia and Intense Tropical Cyclone Gezani, which stru…",
-    "url": "https://reliefweb.int/report/madagascar/madagascar-humanitarian-impact-tropical-cyclone-gezani-flash-update-no-5-13-march-2026"
+    "url": "https://reliefweb.int/report/madagascar/madagascar-humanitarian-impact-tropical-cyclone-gezani-flash-update-no-5-13-march-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202763",
@@ -1125,7 +1971,13 @@
     "location": "Ecuador",
     "date": "2026-03-13",
     "content": "SITUATION OVERVIEW • Ecuador continues to face severe security, socioeconomic, and environmental challenges. Violence driven by drug-related crime has escalated sharply, making Ecuador one of the most insecure countries in the region. Poverty and extreme poverty remain high, with 21.4 percent and 8.3 percent. The country is experiencing a complex migration dynamic, marked by a continued influx of migrants and increased emigration due to deteriorating security conditions. • Environmental pressures, including prolonged droughts, declining hydrological reserves, and impacts on electricity generation—have further strained livelihoods. Government austerity measures (removal of fuel subsidies, VAT increases) aim to manage fiscal pressures but have triggered social tensions, including nationwi…",
-    "url": "https://reliefweb.int/report/ecuador/wfp-ecuador-march-country-brief-2026"
+    "url": "https://reliefweb.int/report/ecuador/wfp-ecuador-march-country-brief-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202781",
@@ -1137,7 +1989,13 @@
     "location": "Lebanon",
     "date": "2026-03-13",
     "content": "CONTEXT The humanitarian situation in Lebanon continues to deteriorate as hostilities intensify across the country, triggering repeated and secondary displacement and further weakening already fragile coping capacities. Evacuation orders have expanded into areas previously hosting displaced families, triggering repeated onward movements and further destabilizing populations already uprooted multiple times within short periods, often with little notice and limited shelter alternatives. The security situation remains highly volatile, with continued airstrikes across South Lebanon, the Bekaa, and other affected areas. According to the Ministry of Public Health, at least 687 people have been killed and 1,774 injured since the escalation began. The cumulative impact of repeated displacement,…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-situation-report-update-02-07-12-march-2026"
+    "url": "https://reliefweb.int/report/lebanon/lebanon-situation-report-update-02-07-12-march-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202782",
@@ -1149,7 +2007,13 @@
     "location": "Ecuador",
     "date": "2026-03-13",
     "content": "KEY FIGURES - 16K people affected by rains and flooding across Peru - 2-3M people estimated to require food support in Honduras & Guatemala between June - August - 44K people affected by ongoing rain, flooding and landslides in Ecuador ECUADOR: FLOODING Heavy rains are escalating across Ecuador, affecting more than 17,000 people in the last week. As of 11 March, authorities now report 1,600 rain-related adverse events this year, affecting 44,034 people and displacing a further 3,587 across 24 provinces. March is already shaping up to be the worst month of the season, with impacts climbing rapidly: in January, just 1,773 people were affected or displaced, in February, 28,981 people, compared to 16,867 in the first 11 days of March alone. Red alerts and a regional state of emergency remai…",
-    "url": "https://reliefweb.int/report/ecuador/latin-america-caribbean-weekly-situation-update-13-march-2026"
+    "url": "https://reliefweb.int/report/ecuador/latin-america-caribbean-weekly-situation-update-13-march-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202785",
@@ -1161,7 +2025,13 @@
     "location": "Ecuador",
     "date": "2026-03-13",
     "content": "CIFRAS CLAVE - 16K personas afectadas por lluvias e inundaciones en Perú - 2-3M de personas que se estima que necesitarán ayuda alimentaria en Honduras y Guatemala entre junio y agosto - 44K personas afectadas por lluvias, inundaciones y deslizamientos de tierra continuos en Ecuador ECUADOR: INUNDACIONES Las fuertes lluvias están aumentando en Ecuador, afectando a más de 17.000 personas en la última semana. Al 11 de marzo, las autoridades han informado de 1.600 eventos adversos relacionados con las lluvias en lo que va del año, que han afectado a 44.034 personas y desplazado a otras 3.587 en 24 provincias. Marzo ya se perfila como el peor mes de la temporada, con impactos que aumentan rápidamente: en enero solo 1.773 personas se vieron afectadas o desplazadas, en febrero 28.981 personas…",
-    "url": "https://reliefweb.int/report/ecuador/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-13-de-marzo-2026"
+    "url": "https://reliefweb.int/report/ecuador/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-13-de-marzo-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202792",
@@ -1173,7 +2043,13 @@
     "location": "South Sudan",
     "date": "2026-03-13",
     "content": "HIGHLIGHTS 1. The South Sudan Humanitarian Country Team (HCT) and the United Nations Mission in South Sudan (UNMISS) call for peace and civilian protection in Akobo. 2. Troika envoys urge President Kiir to revoke Akobo evacuation order. 3. On 6 March, Government forces issued a directive for civilians and aid agencies to vacate Akobo County ahead of planned military operations. 4. Civilians displaced to Alalai, Akobo East and across the Akobo River to Ethiopia. Additional internal displacement reported from Bor, Jonglei, to Mingkaman, Lakes State. SITUATION OVERVIEW Renewed fighting between the South Sudan People’s Defence Forces (SSPDF) and Sudan People’s Liberation Army in Opposition (SPLA-iO) forces since 29 December 2025 worsened the humanitarian situation in several parts of Jongle…",
-    "url": "https://reliefweb.int/report/south-sudan/south-sudan-conflict-jonglei-state-flash-update-no-12-13-march-2026"
+    "url": "https://reliefweb.int/report/south-sudan/south-sudan-conflict-jonglei-state-flash-update-no-12-13-march-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202806",
@@ -1185,7 +2061,13 @@
     "location": "Iran (Islamic Republic of)",
     "date": "2026-03-13",
     "content": "IN NUMBERS 240,000 displaced people assisted in Lebanon with food and cash to date. 24,500 displaced people received date bars at Syria crossings. 32,559 refugees in settlements assisted with food and cash in Iran. KEY HIGHLIGHTS - At the onset of the emergency, WFP activated the Corporate Focus emergency phase for the Middle East Regional Escalation, covering nine countries affected by the broader regional and global spillover. This activation ensures WFP can rapidly scale life‑saving assistance, by swiftly directing resources and expertise to where needs are greatest - In Iran, WFP continued to assist more than 32,500 Afghan refugees in settlements through cash transfers, bread and wheat flour, as well as take‑home school snacks for children amid ongoing security constraints. - As the…",
-    "url": "https://reliefweb.int/report/iran-islamic-republic/wfp-middle-east-regional-escalation-emergency-response-situation-report-2-13-march-2026"
+    "url": "https://reliefweb.int/report/iran-islamic-republic/wfp-middle-east-regional-escalation-emergency-response-situation-report-2-13-march-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   },
   {
     "id": "rw-4202810",
@@ -1197,6 +2079,12 @@
     "location": "Brazil",
     "date": "2026-03-13",
     "content": "Desde septiembre de 2024 se ha observado la notificación de casos de fiebre amarilla en áreas sin antecedentes históricos de transmisión, incluyendo la identificación de casos por fuera de la región amazónica. Ante esta situación, la Organización Panamericana de la Salud / Organización Mundial de la Salud (OPS / OMS) refuerza el llamado a los Estados Miembros a fortalecer la vigilancia, intensificar la vacunación de las poblaciones en riesgo y adoptar las medidas necesarias para garantizar que las personas que viajan a zonas con reporte de casos estén adecuadamente informadas y protegidas contra la fiebre amarilla. Además, se destaca la importancia de fortalecer el manejo clínico, con énfasis en la detección y tratamiento oportuno de los casos graves. La OPS/OMS también recomienda dispo…",
-    "url": "https://reliefweb.int/report/brazil/alerta-epidemiologica-fiebre-amarilla-en-la-region-de-las-americas-13-de-marzo-del-2026"
+    "url": "https://reliefweb.int/report/brazil/alerta-epidemiologica-fiebre-amarilla-en-la-region-de-las-americas-13-de-marzo-del-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": null,
+    "file_url": null,
+    "file_preview": null,
+    "file_size": null
   }
 ]
