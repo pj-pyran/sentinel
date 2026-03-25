@@ -1,13 +1,13 @@
 # Sentinel
 
-A humanitarian news aggregator that fetches RSS feeds from major aid organisations, classifies articles using ML-based tagging, and displays them in a clean, searchable interface. Includes a dedicated Situation Reports (SitReps) tab for tracking humanitarian crisis updates.
+A humanitarian news aggregator that pulls RSS feeds from major aid organisations, auto-tags articles by location, crisis type and theme, and displays them in a searchable interface. Includes a dedicated sitreps tab for tracking humanitarian crisis updates from UN and other sources.
 
 **Live site**: [pj-pyran.github.io/sentinel](https://pj-pyran.github.io/sentinel/)
 
 ## Features
 
 - **Automated Feed Updates**: Fetches from 20+ humanitarian news sources every 30 minutes
-- **ML Classification**: Auto-tags articles with locations, crisis types, themes, and keywords
+- **Auto-tagging**: Classifies articles by location, crisis type and theme using keyword and n-gram frequency analysis, with a user feedback loop for corrections
 - **Situation Reports Tab**: Dedicated view for humanitarian sitreps from ReliefWeb and other authoritative sources
   - Multi-dimensional filtering (crisis, location, source, type)
   - AI vs Original report toggle with tooltips
@@ -75,11 +75,13 @@ sentinel/
 │   ├── models.py             # Data models and feedback logic
 │   ├── config.py             # API configuration
 │   └── github_sync.py        # PyGithub integration
-├── public/data/              # Generated data files
-│   ├── articles.json         # Current feed snapshot
-│   ├── sitreps.json          # Humanitarian situation reports
-│   ├── history.db            # SQLite archive
-│   └── tag_feedback.json     # User corrections
+├── public/
+│   ├── assets/               # Static assets (logos, icons)
+│   └── data/                 # Generated data files
+│       ├── articles.json         # Current feed snapshot
+│       ├── sitreps.json          # Humanitarian situation reports
+│       ├── history.db            # SQLite archive
+│       └── tag_feedback.json     # User corrections
 ├── sql/migrations/           # Database schema versions
 ├── src/                      # Frontend ES6 modules
 │   ├── tabs/                 # Tab implementations
@@ -109,28 +111,27 @@ sentinel/
 
 ## How It Works
 
-1. **GitHub Actions** runs every 30 minutes
-2. Fetches RSS feeds from humanitarian sources
-3. Classifies articles with locations, crisis types, themes
-4. Archives to SQLite and updates `articles.json`
-5. Creates PR, auto-merges to main
-6. GitHub Pages deploys updated site
+**Feed pipeline** (every 30 minutes via GitHub Actions):
+1. Fetches RSS feeds from humanitarian sources
+2. Classifies articles by location, crisis type and theme
+3. Archives to SQLite and updates `articles.json`
+4. Opens a PR, automerges to main, GitHub Pages redeploys
 
-**SitReps Pipeline**:
-1. `fetch_sitreps.py` queries ReliefWeb API (or RSS fallback)
-2. Parses and deduplicates reports
-3. Merges with existing `sitreps.json`
+**Sitreps pipeline** (every 6 hours via GitHub Actions):
+1. `fetch_sitreps.py` queries the ReliefWeb API
+2. Parses, deduplicates and normalises reports
+3. Merges into `sitreps.json`
 4. Frontend filters and displays with rich metadata
 
 ## Data Sources
 
-**News Feeds**:
+**News feeds**:
 - UNHCR, ICRC, OCHA, ReliefWeb
 - Al Jazeera, The Guardian, TIME
 - The New Humanitarian, Crisis Group
 - Global Press Journal, E-International Relations
 
-**Situation Reports**:
+**Situation reports**:
 - ReliefWeb API (primary)
 - OCHA, UNHCR, WFP (planned)
 
@@ -140,14 +141,13 @@ See `config/feeds.json` for the complete list.
 
 Contributions welcome! Please:
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+2. Create a feature branch
+3. Commit your changes
+4. Open a pull request against `main`
 
 **Coding Standards**:
 - British English spelling in documentation, comments, and user-facing text
-- Prefer single quotes `'` over double quotes `"` in code (except JSON)
+- Prefer single quotes `'` over double quotes `"` in code (where valid syntax)
 - See `.copilot-instructions.md` for full guidelines
 
 ## Technology Stack
@@ -178,10 +178,6 @@ Add your Mapbox token to the map initialisation in `src/tabs/map.js`:
 mapboxgl.accessToken = 'your-mapbox-token';
 ```
 
-## License
-
-MIT License - see LICENSE file for details
-
 ## Known Issues
 
 - ReliefWeb API requires approved appname (request at apidoc.reliefweb.int)
@@ -191,16 +187,11 @@ MIT License - see LICENSE file for details
 
 ## Roadmap
 
-- [ ] Add OCHA, UNHCR, WFP sitrep sources
 - [ ] Implement AI summary generation for sitreps
 - [ ] Analytics tab with crisis trends and heatmaps
 - [ ] Map geocoding + article markers
 - [ ] Learning script for tag feedback patterns
 - [ ] Mobile-responsive design improvements
-
-## Acknowledgements
-
-Built to support humanitarian aid workers, journalists, and researchers tracking global crises.
 
 ---
 
