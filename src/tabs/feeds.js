@@ -283,9 +283,9 @@ export class FeedsTab {
         <p class="article-meta">${item.source} – ${item.published}</p>
         <h2 class="article-title">${item.title}</h2>
         ${summaryState.text ? `
-          <div class="article-summary ${summaryState.expanded ? 'expanded' : ''}">
-            <p class="article-summary-text">${summaryState.text}</p>
-            ${summaryState.canExpand ? `<button class="article-summary-toggle" type="button">${summaryState.expanded ? 'Hide full summary' : 'Show full summary'}</button>` : ''}
+          <div class="card-summary ${summaryState.expanded ? 'expanded' : ''}">
+            <p class="card-summary-text">${summaryState.text}</p>
+            ${summaryState.canExpand ? `<button class="card-summary-toggle" type="button">${summaryState.expanded ? 'Collapse summary' : 'Expand summary...'}</button>` : ''}
           </div>
         ` : ''}
         <div class="article-tags" data-link="${item.link}">
@@ -298,7 +298,7 @@ export class FeedsTab {
       const titleEl = article.querySelector('.article-title');
       titleEl.addEventListener('click', () => window.open(item.link));
 
-      const summaryToggle = article.querySelector('.article-summary-toggle');
+      const summaryToggle = article.querySelector('.card-summary-toggle');
       if (summaryToggle) {
         summaryToggle.addEventListener('click', (event) => {
           event.stopPropagation();
