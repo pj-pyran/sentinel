@@ -655,7 +655,7 @@ export class SitrepsTab {
       ${(sitrep.file_url || sitrep.url) ? `
       <div class="sitrep-card-actions">
         ${sitrep.file_url ? `<button class="sitrep-preview-btn" data-file-url="${sitrep.file_url}" data-file-preview="${sitrep.file_preview || ''}" data-title="${this.escapeHtml(sitrep.title || '')}" title="Preview report">See report</button>` : ''}
-        ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" rel="noopener noreferrer" class="sitrep-rw-link" title="View on ReliefWeb"><img src="/public/assets/rw-icon.png" alt="ReliefWeb" class="rw-icon"></a>` : ''}
+        ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" rel="noopener noreferrer" class="sitrep-rw-link" title="View on ReliefWeb"><img src="public/assets/rw-icon.png" alt="ReliefWeb" class="rw-icon"></a>` : ''}
       </div>` : ''}
     `;
 
