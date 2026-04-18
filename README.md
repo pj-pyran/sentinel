@@ -171,6 +171,7 @@ mapboxgl.accessToken = 'your-mapbox-token';
 - Initial map load can be slow (vector tile downloads, network dependent)
 - Some RSS feeds return 401/404 errors (dead feeds need cleanup)
 - AI summaries may read a multi-country sitrep as concerning 1 country only
+- AI summaries also cannot summarise multi-country crises, e.g. disease outbreaks
 
 ## Roadmap
 

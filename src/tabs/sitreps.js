@@ -652,7 +652,7 @@ export class SitrepsTab {
         });
       if (!items.length) return '';
       return `<details class="sitrep-sources">
-        <summary class="sitrep-sources-toggle">Summary of ${items.length} source report${items.length !== 1 ? 's' : ''}</summary>
+        <summary class="sitrep-sources-toggle">Generated from ${items.length} source report${items.length !== 1 ? 's' : ''}</summary>
         <ul class="sitrep-sources-list">${items.join('')}</ul>
       </details>`;
     })();
@@ -675,7 +675,7 @@ export class SitrepsTab {
       ${sourcesHtml}
       ${(sitrep.file_url || sitrep.url) ? `
       <div class="sitrep-card-actions">
-        ${sitrep.file_url ? `<button class="sitrep-preview-btn" data-file-url="${sitrep.file_url}" data-file-preview="${sitrep.file_preview || ''}" data-title="${this.escapeHtml(sitrep.title || '')}" title="Preview report">See report</button>` : ''}
+        ${sitrep.file_url ? `<a href="${sitrep.file_url}" target="_blank" rel="noopener noreferrer" class="sitrep-preview-btn">Download report</a>` : ''}
         ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" rel="noopener noreferrer" class="sitrep-rw-link" title="View on ReliefWeb"><img src="public/assets/rw-icon.png" alt="ReliefWeb" class="rw-icon"></a>` : ''}
       </div>` : ''}
     `;
@@ -699,14 +699,7 @@ export class SitrepsTab {
       });
     });
 
-    container.querySelectorAll('.sitrep-preview-btn').forEach((button) => {
-      button.addEventListener('click', () => {
-        const fileUrl = button.dataset.fileUrl;
-        const previewUrl = button.dataset.filePreview;
-        const title = button.dataset.title;
-        this._openFilePreview(fileUrl, previewUrl, title);
-      });
-    });
+
   }
 
   formatContent(content, expanded = false, type = 'original') {

@@ -100,9 +100,6 @@ class ReliefWebFetcher(SitrepFetcher):
                     'body',
                     'url_alias',
                     'file.url',
-                    'file.filesize',
-                    'file.preview.url',
-                    'file.preview.url-large',
                 ],
             },
         }
@@ -179,9 +176,6 @@ class ReliefWebFetcher(SitrepFetcher):
         file_list = fields.get('file', [])
         file_entry = file_list[0] if file_list else {}
         file_url = file_entry.get('url') or None
-        file_size = file_entry.get('filesize') or None
-        preview = file_entry.get('preview') or {}
-        file_preview = preview.get('url-large') or preview.get('url') or None
 
         return {
             'id': f"rw-{item.get('id', hash(title))}",
@@ -196,8 +190,6 @@ class ReliefWebFetcher(SitrepFetcher):
             'content': content or 'No summary available.',
             'url': fields.get('url_alias') or None,
             'file_url': file_url,
-            'file_preview': file_preview,
-            'file_size': file_size,
         }
 
     @staticmethod
@@ -263,7 +255,7 @@ def load_country_geo(db_path):
 
 _COLS = ('id', 'provider', 'type', 'title', 'source', 'crisis',
          'location', 'date', 'content', 'url', 'region', 'subregion',
-         'rw_id', 'file_url', 'file_preview', 'file_size')
+         'rw_id', 'file_url')
 
 
 def upsert_to_db(db_path, sitreps):
@@ -294,28 +286,28 @@ def upsert_to_db(db_path, sitreps):
                     '''UPDATE sitreps
                        SET title = ?, source = ?, crisis = ?, location = ?,
                            content = ?, url = ?, region = ?, subregion = ?,
-                           rw_id = ?, file_url = ?, file_preview = ?, file_size = ?,
+                           rw_id = ?, file_url = ?,
                            last_seen_dt = ?
                        WHERE id = ?''',
                     (s['title'], s['source'], s.get('crisis'), s.get('location'),
                      s.get('content'), s.get('url'), s.get('region'),
                      s.get('subregion'), s.get('rw_id'), s.get('file_url'),
-                     s.get('file_preview'), s.get('file_size'), now, s['id']),
+                     now, s['id']),
                 )
             else:
                 conn.execute(
                     '''INSERT INTO sitreps
                        (id, provider, type, title, source, crisis, location,
                         date, content, url, region, subregion,
-                        rw_id, file_url, file_preview, file_size,
+                        rw_id, file_url,
                         first_seen_dt, last_seen_dt)
-                       VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)''',
+                       VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)''',
                     (s['id'], s.get('provider', 'reliefweb'),
                      s.get('type', 'original'), s['title'], s['source'],
                      s.get('crisis'), s.get('location'), s['date'],
                      s.get('content'), s.get('url'), s.get('region'),
                      s.get('subregion'), s.get('rw_id'), s.get('file_url'),
-                     s.get('file_preview'), s.get('file_size'), now, now),
+                     now, now),
                 )
                 new_count += 1
         conn.commit()
@@ -337,7 +329,7 @@ def export_from_db(db_path, output_file, days=30):
         rows = conn.execute(
             '''SELECT id, provider, type, title, source, crisis, location,
                       date, content, url, region, subregion,
-                      rw_id, file_url, file_preview, file_size
+                      rw_id, file_url
                FROM sitreps
                WHERE date >= ?
                ORDER BY date DESC''',
