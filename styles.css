@@ -62,7 +62,7 @@ body {
   color: var(--fg);
   font-family: var(--font-ui);
   padding: 0.4rem 0.8rem;
-  border-radius: 4px;
+  border-radius: 2px;
   cursor: pointer;
   font-size: 0.9rem;
   margin-left: 1rem;
@@ -96,7 +96,7 @@ body {
 
 #search {
   padding: 0.6rem 0.9rem;
-  border-radius: 6px;
+  border-radius: 2px;
   border: 1px solid var(--border);
   background: var(--card-bg);
   color: var(--fg);
@@ -113,7 +113,7 @@ body {
 .article {
   background: var(--card-bg);
   padding: 1.2rem;
-  border-radius: 8px;
+  border-radius: 3px;
   transition: border 0.2s ease;
   border: 1px solid var(--border);
   cursor: pointer;
@@ -135,7 +135,7 @@ body {
   margin: 0.15rem 0 1rem 0;
   padding: 0.7rem 0.9rem 0.55rem;
   border: 1px solid var(--summary-border);
-  border-radius: 6px;
+  border-radius: 2px;
   background: var(--summary-bg);
 }
 
@@ -217,7 +217,7 @@ body {
   border: 1px solid var(--border);
   background: var(--card-bg);
   color: var(--fg);
-  border-radius: 6px;
+  border-radius: 2px;
   cursor: pointer;
   font-family: var(--font-ui);
   font-size: 0.95rem;
@@ -251,7 +251,7 @@ body {
   padding: 1.2rem;
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 5px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -298,7 +298,7 @@ body {
   margin-bottom: 1rem;
   padding: 0.5rem;
   background: var(--bg);
-  border-radius: 4px;
+  border-radius: 2px;
   text-align: center;
   font-weight: 500;
 }
@@ -345,7 +345,7 @@ body {
   background: var(--bg);
   color: var(--fg);
   border: 1px solid var(--border);
-  border-radius: 4px;
+  border-radius: 2px;
   cursor: pointer;
   transition: all 0.2s ease;
 }
@@ -591,7 +591,7 @@ body {
   left: 20px;
   background: var(--card-bg);
   padding: 1rem 1.5rem;
-  border-radius: 8px;
+  border-radius: 5px;
   border: 1px solid var(--border);
   z-index: 1000;
   pointer-events: none;
@@ -623,7 +623,7 @@ body {
   padding: 0.3rem 0.6rem;
   background: var(--bg);
   border: 1px solid var(--border);
-  border-radius: 4px;
+  border-radius: 2px;
   font-family: var(--font-ui);
   font-size: 0.85rem;
   color: var(--muted);
@@ -651,7 +651,7 @@ body {
 .tag-suggest {
   background: none;
   border: 1px solid #444;
-  border-radius: 4px;
+  border-radius: 2px;
   padding: 0.3rem 0.6rem;
   color: #999;
   font-size: 0.85rem;
@@ -669,7 +669,7 @@ body {
   background: rgba(255, 140, 66, 0.2);
   border: 1px solid var(--accent);
   padding: 0.3rem 0.6rem;
-  border-radius: 4px;
+  border-radius: 2px;
   font-size: 0.85rem;
   color: var(--accent);
 }
@@ -682,7 +682,7 @@ body {
   padding: 0.6rem;
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 4px;
+  border-radius: 2px;
 }
 
 .tag-editor-input {
@@ -690,7 +690,7 @@ body {
   padding: 0.5rem 0.7rem;
   background: var(--bg);
   border: 1px solid var(--border);
-  border-radius: 3px;
+  border-radius: 2px;
   color: #ddd;
   font-family: var(--font-ui);
   font-size: 0.9rem;
@@ -710,7 +710,7 @@ body {
 .sitrep-card {
   background: var(--card-bg);
   padding: 1.5rem;
-  border-radius: 8px;
+  border-radius: 5px;
   border: 1px solid var(--border);
   margin-bottom: 1.2rem;
   transition: border 0.2s ease;
@@ -737,7 +737,7 @@ body {
   padding: 0.25rem 0.6rem;
   background: rgba(255, 140, 66, 0.15);
   color: var(--accent);
-  border-radius: 4px;
+  border-radius: 2px;
   font-size: 0.75rem;
   font-family: var(--font-ui);
   font-weight: 500;
@@ -816,6 +816,7 @@ body {
   display: flex;
   align-items: center;
   gap: 0.35rem;
+  text-decoration: none;
   transition: opacity 0.2s;
 }
 
@@ -927,7 +928,7 @@ body {
   position: relative;
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 10px;
+  border-radius: 2px;
   width: min(680px, 92vw);
   max-height: 88vh;
   display: flex;
@@ -986,7 +987,7 @@ body {
   max-width: 100%;
   max-height: calc(88vh - 8rem);
   object-fit: contain;
-  border-radius: 4px;
+  border-radius: 2px;
 }
 
 .sitrep-file-modal-no-preview {
@@ -1026,7 +1027,7 @@ body {
   padding: 0.65rem 1rem;
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: 2px;
   color: var(--accent);
   font-family: var(--font-ui);
   font-size: 0.9rem;
@@ -1044,7 +1045,7 @@ body {
   flex: 0 0 260px;
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 5px;
   padding: 1.2rem;
   max-height: calc(100vh - 150px);
   overflow-y: auto;
@@ -1056,7 +1057,7 @@ body {
 .sitrep-count {
   background: var(--bg);
   padding: 0.6rem;
-  border-radius: 4px;
+  border-radius: 2px;
   text-align: center;
   font-family: var(--font-ui);
   font-size: 0.85rem;
@@ -1083,7 +1084,7 @@ body {
   display: flex;
   background: var(--bg);
   border: 1px solid var(--border);
-  border-radius: 4px;
+  border-radius: 2px;
   overflow: hidden;
   flex: 1;
 }
@@ -1140,7 +1141,7 @@ body {
   top: 0;
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: 2px;
   padding: 0.8rem;
   width: 220px;
   font-size: 0.8rem;
@@ -1166,7 +1167,7 @@ body {
 .analytics-section {
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 5px;
   padding: 1.5rem;
   margin-bottom: 2rem;
 }
@@ -1205,7 +1206,7 @@ body {
   background: var(--bg);
   color: var(--fg);
   border: 1px solid var(--border);
-  border-radius: 4px;
+  border-radius: 2px;
   padding: 0.4rem 0.8rem;
   font-size: 0.9rem;
   cursor: pointer;
@@ -1219,7 +1220,7 @@ body {
   background: var(--accent);
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 2px;
   padding: 0.5rem 1rem;
   font-size: 0.9rem;
   cursor: pointer;
@@ -1239,7 +1240,7 @@ body {
   margin-bottom: 1rem;
   padding: 1rem;
   background: var(--bg);
-  border-radius: 6px;
+  border-radius: 2px;
   font-size: 0.9rem;
   color: var(--muted);
 }
@@ -1305,7 +1306,7 @@ body {
 .heat-badge {
   display: inline-block;
   padding: 0.3rem 0.6rem;
-  border-radius: 4px;
+  border-radius: 2px;
   font-weight: bold;
   font-size: 0.85rem;
 }
@@ -1360,7 +1361,7 @@ body {
   padding: 2rem;
   background: rgba(255, 68, 68, 0.1);
   border: 1px solid #ff4444;
-  border-radius: 8px;
+  border-radius: 5px;
   color: #ff4444;
 }
 

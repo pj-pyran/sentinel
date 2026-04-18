@@ -186,8 +186,6 @@ def main() -> None:
             'subregion':     subregion,
             'rw_id':         None,
             'file_url':      None,
-            'file_preview':  None,
-            'file_size':     None,
             'relatedSources': sorted({s['source'] for s in sitreps}),
             'sourceIds':      [s['id'] for s in sitreps],
         }
