@@ -635,7 +635,27 @@ export class SitrepsTab {
       : sitrep.source || 'Unknown';
 
     const expanded = this.expandedSitreps.has(sitrep.id);
-    const formatted = this.formatContent(sitrep.content, expanded);
+    const formatted = this.formatContent(sitrep.content, expanded, sitrep.type);
+
+    const sourcesHtml = (() => {
+      if (sitrep.type !== 'ai-summary' || !sitrep.sourceIds?.length) return '';
+      const lookup = new Map(this.sitreps.map(s => [s.id, s]));
+      const items = sitrep.sourceIds
+        .map(id => lookup.get(id))
+        .filter(Boolean)
+        .map(s => {
+          const label = this.escapeHtml((s.title || s.source || '').slice(0, 80));
+          const date  = this.formatDate(s.date);
+          return s.url
+            ? `<li><a href="${s.url}" target="_blank" rel="noopener noreferrer"><span class="sitrep-sources-org">${this.escapeHtml(s.source)}</span> – ${label} <span class="sitrep-sources-date">(${date})</span></a></li>`
+            : `<li><span class="sitrep-sources-org">${this.escapeHtml(s.source)}</span> – ${label}</li>`;
+        });
+      if (!items.length) return '';
+      return `<details class="sitrep-sources">
+        <summary class="sitrep-sources-toggle">Summary of ${items.length} source report${items.length !== 1 ? 's' : ''}</summary>
+        <ul class="sitrep-sources-list">${items.join('')}</ul>
+      </details>`;
+    })();
 
     card.innerHTML = `
       <div class="sitrep-header">
@@ -652,6 +672,7 @@ export class SitrepsTab {
         <p class="card-summary-text">${this.escapeHtml(formatted.text)}</p>
         ${formatted.canToggle ? `<button class="card-summary-toggle" data-id="${sitrep.id}">${expanded ? 'Collapse summary' : 'Expand summary...'}</button>` : ''}
       </div>
+      ${sourcesHtml}
       ${(sitrep.file_url || sitrep.url) ? `
       <div class="sitrep-card-actions">
         ${sitrep.file_url ? `<button class="sitrep-preview-btn" data-file-url="${sitrep.file_url}" data-file-preview="${sitrep.file_preview || ''}" data-title="${this.escapeHtml(sitrep.title || '')}" title="Preview report">See report</button>` : ''}
@@ -688,13 +709,24 @@ export class SitrepsTab {
     });
   }
 
-  formatContent(content, expanded = false) {
+  formatContent(content, expanded = false, type = 'original') {
     if (!content || content === 'No summary available.') {
       return {
         text: 'No summary available for this sitrep.',
         canToggle: false,
         isFallback: true
       };
+    }
+
+    if (type === 'ai-summary') {
+      // AI content uses • bullets separated by \n — preserve structure.
+      // The collapsed view shows just the first bullet; expanded shows all.
+      const canToggle = content.includes('\n');
+      if (!canToggle || expanded) {
+        return { text: content, canToggle, isFallback: false };
+      }
+      const firstLine = content.split('\n')[0].trim();
+      return { text: firstLine, canToggle, isFallback: false };
     }
 
     const cleaned = content

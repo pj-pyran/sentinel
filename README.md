@@ -137,20 +137,8 @@ sentinel/
 
 See `config/feeds.json` for the complete list.
 
-## Contributing
 
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a pull request against `main`
-
-**Coding Standards**:
-- British English spelling in documentation, comments, and user-facing text
-- Prefer single quotes `'` over double quotes `"` in code (where valid syntax)
-- See `.copilot-instructions.md` for full guidelines
-
-## Technology Stack
+## Tech Stack
 
 - **Frontend**: Vanilla JavaScript (ES6 modules), CSS (no frameworks, no build step)
 - **Backend**: Python 3.11+, Flask
@@ -180,17 +168,16 @@ mapboxgl.accessToken = 'your-mapbox-token';
 
 ## Known Issues
 
-- ReliefWeb API requires approved appname (request at apidoc.reliefweb.int)
-- Map tab has layout quirks: fixed positioning overlaps footer
 - Initial map load can be slow (vector tile downloads, network dependent)
 - Some RSS feeds return 401/404 errors (dead feeds need cleanup)
+- AI summaries may read a multi-country sitrep as concerning 1 country only
 
 ## Roadmap
 
-- [ ] Implement AI summary generation for sitreps
+- [ ] Improve AI summaries, particularly validation of process logic and data integrity
 - [ ] Analytics tab with crisis trends and heatmaps
 - [ ] Map geocoding + article markers
-- [ ] Learning script for tag feedback patterns
+- [ ] Learning script for tag feedback
 - [ ] Mobile-responsive design improvements
 
 ---

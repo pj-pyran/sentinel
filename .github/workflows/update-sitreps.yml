@@ -28,13 +28,18 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests openai
 
       - name: Run DB migrations
         run: python scripts/migrate.py
 
       - name: Fetch sitreps
         run: python scripts/fetch_sitreps.py
+
+      - name: Generate AI summaries
+        run: python scripts/generate_summaries.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure git
         run: |
