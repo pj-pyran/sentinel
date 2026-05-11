@@ -283,14 +283,6 @@
     "tags": []
   },
   {
-    "title": "Metropolis",
-    "link": "https://time.com/collection/time100-most-influential-companies/2026/metropolis/",
-    "source": "TIME",
-    "summary": "<section><figure><img src=\"https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltc932f9f6d87ebdda/69d7dc308c44cbfd957bf355/time100-companies-2026-metropolis.jpg?branch=production\" /><figcaption> \u2014Courtesy Metropolis</figcaption></figure></section>",
-    "published": "Thu, 30 Apr 2026 13:53",
-    "tags": []
-  },
-  {
     "title": "Netflix",
     "link": "https://time.com/collection/time100-most-influential-companies/2026/netflix/",
     "source": "TIME",
@@ -453,10 +445,11 @@
     "title": "Nobel laureate\u2019s smuggled memoir details beatings and neglect in Iranian prisons",
     "link": "https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons",
     "source": "World news | The Guardian",
-    "summary": "<p>Writing by Narges Mohammadi, arrested 14 times for activism, offers a disturbing insight into treatment</p><p>In an exclusive extract of writing smuggled from prison in Iran, the Nobel peace prize laureate Narges Mohammadi has described the \u201ctorture\u201d of solitary confinement, and her systematic medical neglect by the prison system.</p><p>The writing from the past decade will be part of a soon to be published memoir that gives a rare and alarming insight into the treatment of Mohammadi, who is in critical condition. It details beatings, constant interrogations, deprivation of medical care and long stretches in solitary confinement during her numerous imprisonments.</p> <a href=\"https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons\">Continue reading...</a>",
+    "summary": "<p>Writing by Narges Mohammadi, arrested 14 times for activism, offers a disturbing insight into treatment</p><ul><li><p>Read an exclusive excerpt here: <a href=\"https://www.theguardian.com/global-development/2026/may/10/nobel-peace-prize-narges-mohammadi-solitary-confinement-excerpt-writings-prison-iran\">\u2018Blindfolded, I sat down slowly. Then the interrogation began\u2019</a></p></li></ul><p>In an exclusive extract of writing smuggled from prison in Iran, the Nobel peace prize laureate Narges Mohammadi has described the \u201ctorture\u201d of solitary confinement, and her systematic medical neglect by the prison system.</p><p>The writing from the past decade will be part of a soon to be published memoir, A Woman Never Stops Fighting, that gives a rare and alarming insight into the treatment of Mohammadi, who is in critical condition. It details beatings, constant interrogations, deprivation of medical care and long stretches in solitary confinement during her numerous imprisonments.</p> <a href=\"https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons\">Continue reading...</a>",
     "published": "Sun, 10 May 2026 21:03",
     "tags": [
       "Iran",
+      "Conflict",
       "Health"
     ]
   },
@@ -614,20 +607,6 @@
     "published": "Sun, 10 May 2026 13:26",
     "tags": [
       "Conflict"
-    ]
-  },
-  {
-    "title": "Health advocates warn government\u2019s claims of baby formula safety contradict data",
-    "link": "https://www.theguardian.com/us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data",
-    "source": "World news | The Guardian",
-    "summary": "<p>Independent scientists who reviewed the results said most samples were contaminated with Pfas or phthalates</p><p>The Trump administration announced earlier this month that hundreds of baby formula samples it tested for toxic chemicals \u201cmeet a high safety standard\u201d, but public health advocates warn this claim contradicts <a href=\"https://cisionone-email.hhs.gov/c/eJxczj2OwyAUBODTQIfFz8PYBUUaXyPCvIeD4r8ASa6_8mqrbb-ZkQa9DsZoy8kr5xw47cDwhx9nkGaQPegxJQNkdHIOkxqsURDA8uz7MWkFOAQ3D-quVIzDoLTt-8hA1oz0zC-xhbxSqSLZ0WIPFkT7PPdXdzlf_aO1szJzY3pievp-v13C0C3Hh-kpHQcyPeU9hb2JdJTtvQbxODY6w0JXAUMV_-KzHPiOTTSqLe-LKFTfa6t8I8xBFFopVBIZ_S_c_4CZm3YgpebFt3JSeea9MpDLdbOLx8ZrK0TbNVQQR3I2CJQjCZApilkiCQMDmjjKWaqef7z-CQAA__-O-23X\">data</a> showing a majority were contaminated with dangerous substances, such as Pfas or phthalates.</p><p>Independent scientists who reviewed the results say the data gaps and the contamination raise concerns, though they added the testing shows some bright spots, and praised the US Food and Drug Administration for expanding the testing program, then making the results public.</p> <a href=\"https://www.theguardian.com/us-news/2026/may/10/fda-baby-formula-safety-claims-contradict-data\">Continue reading...</a>",
-    "published": "Sun, 10 May 2026 13:00",
-    "tags": [
-      "Conflict",
-      "Humanitarian",
-      "Health",
-      "Political",
-      "Food Security"
     ]
   },
   {
@@ -906,14 +885,6 @@
     ]
   },
   {
-    "title": "Before Hantavirus Outbreak, the MV Hondius Attracted \u2018a Different Type of Traveler\u2019",
-    "link": "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html",
-    "source": "NYT > World News",
-    "summary": "Former passengers on the MV Hondius say that the ship was made for wildlife expeditions and that the crew took safety very seriously.",
-    "published": "Sat, 09 May 2026 15:12",
-    "tags": []
-  },
-  {
     "title": "Peter Magyar Takes Over as Hungary\u2019s Leader From Viktor Orban",
     "link": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
     "source": "NYT > World News",
@@ -1074,11 +1045,22 @@
     ]
   },
   {
+    "title": "El Ni\u00f1o Likely to Return: the Case for Early Action",
+    "link": "https://www.globalissues.org/news/2026/05/11/42998",
+    "source": "Global Issues News Headlines",
+    "summary": "<p><img alt=\"\" src=\"https://static.globalissues.org/ips/2026/05/Residents-in-PVietnam_.jpg\" width=\"640\" /></p><p>\nBANGKOK, Thailand, May 11 (IPS)  - Climate models are converging: El Ni\u00f1o is likely to return by mid-2026 and could be strong. According to the <a href=\"https://wmo.int/media/news/wmo-likelihood-increases-of-el-nino\" target=\"_blank\">World Meteorological Organization</a>, it could emerge as early as May\u2013July 2026, with several national hydrometeorological agencies in Asia and the Pacific already issuing alerts.\n</p><p><a href=\"https://www.globalissues.org/news/2026/05/11/42998\">Read the full story, \u201cEl Ni\u00f1o Likely to Return: the Case for Early Action\u201d, on globalissues.org</a> \u2192</p>",
+    "published": "Mon, 11 May 2026 12:03",
+    "tags": [
+      "Thailand",
+      "Climate"
+    ]
+  },
+  {
     "title": "Passengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak \u2018not another COVID\u2019",
     "link": "https://www.globalissues.org/news/2026/05/10/42997",
     "source": "Global Issues News Headlines",
-    "summary": "<p>Passengers and crew from the cruise ship MV Hondius began disembarking in Tenerife on Sunday under a tightly coordinated international health operation led by Spanish authorities and the World Health Organization (WHO), as officials sought to reassure the public that the outbreak \u201cis not another COVID.\u201d</p><p><a href=\"https://www.globalissues.org/news/2026/05/10/42997\">Read the full story, \u201cPassengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak \u2018not another COVID\u2019\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "summary": "<p><img alt=\"\" src=\"https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/10-05-2026-WHO-Hantavirus-01.jpg/image1170x530cropped.jpg\" width=\"640\" /></p><p>Passengers and crew from the cruise ship MV Hondius began disembarking in Tenerife on Sunday under a tightly coordinated international health operation led by Spanish authorities and the World Health Organization (WHO), as officials sought to reassure the public that the outbreak \u201cis not another COVID.\u201d</p><p><a href=\"https://www.globalissues.org/news/2026/05/10/42997\">Read the full story, \u201cPassengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak \u2018not another COVID\u2019\u201d, on globalissues.org</a> \u2192</p>",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": [
       "Health"
     ]
@@ -1087,8 +1069,8 @@
     "title": "First Person: Surviving death row in Thailand",
     "link": "https://www.globalissues.org/news/2026/05/10/42996",
     "source": "Global Issues News Headlines",
-    "summary": "<p>A Thai woman who spent more than 20 years in prison after being found guilty of drugs trafficking \u2013 including eight on death row \u2013 has told the UN how learning to sew helped her find meaning in life behind bars, and a job when she was released.</p><p><a href=\"https://www.globalissues.org/news/2026/05/10/42996\">Read the full story, \u201cFirst Person: Surviving death row in Thailand\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "summary": "<p><img alt=\"\" src=\"https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-05-2026-UNODC-Thailand-01.jpg/image1170x530cropped.jpg\" width=\"640\" /></p><p>A Thai woman who spent more than 20 years in prison after being found guilty of drugs trafficking \u2013 including eight on death row \u2013 has told the UN how learning to sew helped her find meaning in life behind bars, and a job when she was released.</p><p><a href=\"https://www.globalissues.org/news/2026/05/10/42996\">Read the full story, \u201cFirst Person: Surviving death row in Thailand\u201d, on globalissues.org</a> \u2192</p>",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": [
       "Thailand",
       "Education"
@@ -1099,7 +1081,7 @@
     "link": "https://www.globalissues.org/news/2026/05/09/42995",
     "source": "Global Issues News Headlines",
     "summary": "<p><img alt=\"\" src=\"https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/06-05-2026-WHO-Hantavirus-02.jpg/image1170x530cropped.jpg\" width=\"640\" /></p><p>The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, has issued a direct plea for calm and solidarity to the citizens of Tenerife ahead of the scheduled arrival of the MV Hondius on Sunday</p><p><a href=\"https://www.globalissues.org/news/2026/05/09/42995\">Read the full story, \u201cWHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": [
       "Health"
     ]
@@ -1109,7 +1091,7 @@
     "link": "https://www.globalissues.org/news/2026/05/09/42994",
     "source": "Global Issues News Headlines",
     "summary": "<p><img alt=\"\" src=\"https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/07-10-2019-NuclearPowerPlant-NOAA.jpg/image1440x560cropped.jpg\" width=\"640\" /></p><p>As global electricity demand grows, so does the popularity of nuclear energy. In the Middle East, several countries are evaluating or advancing nuclear power projects, balancing weighty issues such as regional security, climatic conditions and international cooperation.</p><p><a href=\"https://www.globalissues.org/news/2026/05/09/42994\">Read the full story, \u201cNuclear energy in the Middle East: A realistic choice or a risk?\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": []
   },
   {
@@ -1117,7 +1099,7 @@
     "link": "https://www.globalissues.org/news/2026/05/08/42984",
     "source": "Global Issues News Headlines",
     "summary": "<p><img alt=\"\" src=\"https://static.globalissues.org/ips/2026/05/Attila-Kisbenedek_.jpg\" width=\"640\" /></p><p>\nMONTEVIDEO, Uruguay, May 8 (IPS)  - When <a href=\"https://www.opb.org/article/2026/04/14/who-is-peter-magyar-who-beat-hungarian-pm-viktor-orban/\" target=\"_blank\">P\u00e9ter Magyar</a> took the stage in Budapest on the night of 12 April, he told the crowd they had \u2018liberated Hungary\u2019. The hyperbole seemed justified. His party, Tisza, had won a parliamentary supermajority on the highest turnout since Hungary\u2019s first free election in 1990, ending 16 years of increasingly autocratic rule.\n</p><p><a href=\"https://www.globalissues.org/news/2026/05/08/42984\">Read the full story, \u201cHungary\u2019s Long Road Back\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": [
       "Uruguay",
       "Political"
@@ -1128,7 +1110,7 @@
     "link": "https://www.globalissues.org/news/2026/05/08/42982",
     "source": "Global Issues News Headlines",
     "summary": "<p><img alt=\"\" src=\"https://static.globalissues.org/ips/2026/05/Story-of-Jannat-1__.jpg\" width=\"640\" /></p><p>\nSYLHET, Bangladesh, May 8 (IPS)  - When catastrophic floods swept through the Haor wetlands of Sunamganj in 2022, they destroyed far more than homes and crops. They shattered childhoods.\n</p><p><a href=\"https://www.globalissues.org/news/2026/05/08/42982\">Read the full story, \u201cBefore the Flood, Jannat Carried Books. After the Flood, She Carried Dirty Dishes\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": [
       "Bangladesh",
       "Climate",
@@ -1140,7 +1122,7 @@
     "link": "https://www.globalissues.org/news/2026/05/08/42983",
     "source": "Global Issues News Headlines",
     "summary": "<p><img alt=\"\" src=\"https://static.globalissues.org/ips/2026/05/UNICEF-and-partners_.jpg\" width=\"640\" /></p><p>\nUNITED NATIONS, May 8 (IPS)  - Despite the implementation of a ceasefire between Hamas and Israel last October, Israeli forces continue to launch airstrikes into the Occupied Palestinian Territory. This has resulted in extensive destruction of infrastructure, loss of human life and exacerbating immense health needs amid an increasingly strained health system in Gaza.\n</p><p><a href=\"https://www.globalissues.org/news/2026/05/08/42983\">Read the full story, \u201cGaza\u2019s Deepening Health Crisis Leaves Hospitals Overwhelmed\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": [
       "Israel",
       "Gaza",
@@ -1153,7 +1135,7 @@
     "link": "https://www.globalissues.org/news/2026/05/08/42981",
     "source": "Global Issues News Headlines",
     "summary": "<p><img alt=\"\" src=\"https://static.globalissues.org/ips/2026/05/Attendees-at-the-NPT-Review-Conference-side-event-Preventing-Nuclear-Use-and-Esclation-Lessons-from-the-Nuclear-Close-Calls-_-Credit-_-Naureen-Hossain.jpg\" width=\"640\" /></p><p>\nUNITED NATIONS, May 8 (IPS)  - The consequences of nuclear warfare would transcend borders and the impact would be felt across generations. Yet knowing this, member states, including nuclear-armed states, are increasingly flouting the nuclear taboo, while also relying heavily on deterrence to prevent fallout.\n</p><p><a href=\"https://www.globalissues.org/news/2026/05/08/42981\">Read the full story, \u201cNuclear \u2018Close-Calls\u2019 Prove Deterrence No Guarantee for Peace\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": [
       "Conflict"
     ]
@@ -1163,18 +1145,215 @@
     "link": "https://www.globalissues.org/news/2026/05/08/42980",
     "source": "Global Issues News Headlines",
     "summary": "<p><img alt=\"\" src=\"https://static.globalissues.org/ips/2026/05/ldc070526.jpg\" width=\"640\" /></p><p>\nUNITED NATIONS, May 8 (IPS)  - The future of the world\u2019s least developed countries (LDCs) will be shaped by a critical choice they make today- strategic investment in their youth. Rich in human potential, the young people in LDCs embody ingenuity, resilience and ambition. With the right opportunities, they can transform challenges into opportunities and put their countries strongly on track to sustainable development.\n</p><p><a href=\"https://www.globalissues.org/news/2026/05/08/42980\">Read the full story, \u201cEmpowering Youth Is the Fastest Path to Transforming Least Developed Countries\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "published": "Mon, 11 May 2026 12:03",
     "tags": []
   },
   {
-    "title": "The Mideast Conflict Spreads\u2014Beyond the Strait of Hormuz & towards the UN Cafeteria",
-    "link": "https://www.globalissues.org/news/2026/05/08/42972",
-    "source": "Global Issues News Headlines",
-    "summary": "<p><img alt=\"\" src=\"https://static.globalissues.org/ips/2026/05/UN-Cafeteria__.jpg\" width=\"640\" /></p><p>\nUNITED NATIONS, May 8 (IPS)  - The 10-month-old Middle East conflict\u2014which has triggered a rise in the cost of living worldwide, and an increase in the prices of food, groceries and gasoline\u2014is likely to impose burdens on hundreds of UN staffers, delegates, journalists and civil society representatives and thousands more, during the General Assembly sessions beginning September.\n</p><p><a href=\"https://www.globalissues.org/news/2026/05/08/42972\">Read the full story, \u201cThe Mideast Conflict Spreads\u2014Beyond the Strait of Hormuz & towards the UN Cafeteria\u201d, on globalissues.org</a> \u2192</p>",
-    "published": "Mon, 11 May 2026 10:43",
+    "title": "US and French nationals test positive for hantavirus after leaving ship",
+    "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+    "published": "Mon, 11 May 2026 11:55",
+    "tags": []
+  },
+  {
+    "title": "Starmer Promises Urgent Change as He Battles to Save Premiership",
+    "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
+    "source": "NYT > World News",
+    "summary": "Prime Minister Keir Starmer of Britain used a speech to attempt to quell a mutiny in the Labour Party after last week\u2019s dire election results.",
+    "published": "Mon, 11 May 2026 11:41",
+    "tags": [
+      "Political"
+    ]
+  },
+  {
+    "title": "Labour MP who gave Starmer leadership ultimatum says PM\u2019s speech was \u2018too little, too late\u2019 \u2013 UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
+    "source": "World news | The Guardian",
+    "summary": "<p>Catherine West calls on prime minister to set out his departure timetable but stops short of standing herself </p><p><strong>Botterill</strong> says voters she spoke to during the campaign felt the country does not work for them. She is a working-class Yorkshire woman, she says. She knows that the opportunities she has enjoyed would not be there if if had not been for the achievements of Labour government.</p><p>She says Labour is one of the best vehicles for changing the lives of working people that this county has ever known.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:40",
+    "tags": [
+      "Political"
+    ]
+  },
+  {
+    "title": "Trump heads to China this week to meet Xi as Iran war and trade disputes loom over summit \u2013 US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/may/11/trump-china-iran-trade-warsh-politics-live",
+    "source": "World news | The Guardian",
+    "summary": "<p>It will be the first time a US president has visited China in nearly a decade, with the last visit being Trump in 2017</p><p>Hello and welcome to our live coverage of US politics.</p><p><strong>Donald Trump</strong> is scheduled to travel to China this week to meet with <strong>Xi Jinping</strong>, China\u2019s leader. It will be the first time a US president has visited China in nearly a decade, with the last visit being Trump in 2017. But given all that has happened so far in Trump\u2019s second term \u2013 a <strong>trade war</strong> and then an actual war with <strong>Iran</strong> that has led to oil and gas prices skyrocketing worldwide \u2013 the mood of this visit is likely to be quite different.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/may/11/trump-china-iran-trade-warsh-politics-live\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:36",
+    "tags": [
+      "China",
+      "Iran",
+      "Conflict"
+    ]
+  },
+  {
+    "title": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/uk-pm-keir-starmer-vows-stronger-performance-as-calls-for-resignation-grow?traffic_source=rss",
+    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+    "summary": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
+    "published": "Mon, 11 May 2026 11:34",
+    "tags": []
+  },
+  {
+    "title": "Sara Duterte, Philippine Vice President, Is Impeached, Again",
+    "link": "https://www.nytimes.com/2026/05/11/world/asia/sara-duterte-philippine-impeached.html",
+    "source": "NYT > World News",
+    "summary": "But the prosecution of Ms. Duterte, who has become the archrival to President Ferdinand R. Marcos Jr., is likely to fail again in the Senate.",
+    "published": "Mon, 11 May 2026 11:34",
+    "tags": []
+  },
+  {
+    "title": "Where Are the Passengers of the Hantavirus-Hit Cruise Ship Now?",
+    "link": "https://www.nytimes.com/2026/05/11/world/hantavirus-outbreak-cruise-ship-passengers.html",
+    "source": "NYT > World News",
+    "summary": "Nearly two dozen countries were moving to repatriate their citizens who were aboard the cruise ship where three passengers died in a hantavirus outbreak.",
+    "published": "Mon, 11 May 2026 11:32",
+    "tags": []
+  },
+  {
+    "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "link": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
+    "source": "NYT > World News",
+    "summary": "The health authorities are working to calm fears and contain the rare virus. Three passengers died after traveling on the ship, and several others fell ill or tested positive.",
+    "published": "Mon, 11 May 2026 11:31",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "title": "EU\u2019s Kallas criticises Putin\u2019s \u2018very cynical\u2019 Ukraine ceasefire calls and rejects suggestion of Schr\u00f6der as mediator \u2013 Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
+    "source": "World news | The Guardian",
+    "summary": "<p>EU\u2019s foreign policy chief and the ex-Estonian PM dismiss Putin\u2019s suggestion that former German chancellor could coordinate talks</p><p><strong>Back to Vladimir Putin\u2019s suggestions of ending his aggression on Ukraine, German defence minister Boris Pistorius said it could be another deception while the Russian president tries to distract from his country\u2019s own weakness,</strong> Reuters reported.</p><p><strong>Putin could end the war himself if he wanted to</strong>, Pistorius said.</p><p><em>\u201cAnd there\u2019s always the fear \u2013 I hope I\u2019m wrong \u2013 that this is yet another deception, but it can\u2019t be ruled out.\u201d</em></p> <a href=\"https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:27",
+    "tags": [
+      "Ukraine",
+      "Conflict",
+      "Humanitarian"
+    ]
+  },
+  {
+    "title": "Catherine West backs down from Starmer challenge but urges him to go by September",
+    "link": "https://www.theguardian.com/politics/2026/may/11/labour-mp-keir-starmer-leadership-challenge-catherine-west",
+    "source": "World news | The Guardian",
+    "summary": "<p>Backbench MP calls prime minister\u2019s speech \u2018too little, too late\u2019 but stops short of moving to stand against him herself</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/may/11/who-are-main-threats-keir-starmer-labour-leadership\">Who are the main threats to Keir Starmer\u2019s Labour leadership?</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates\">UK politics live \u2013 latest updates</a></p></li></ul><p>Catherine West, the Labour MP who announced a challenge to Keir Starmer\u2019s leadership, has changed course to say she instead wants the prime minister to set a timetable of September for his departure.</p><p>West, the MP for Hornsey and Friern Barnet and a former Foreign Office minister, announced on Saturday that she would seek to gather the 81 Labour MPs\u2019 names needed to formally <a href=\"https://www.theguardian.com/politics/2026/may/11/who-are-main-threats-keir-starmer-labour-leadership\">challenge Starmer</a>, saying this was just a device to tempt others to stand and that she did not wish to take over.</p> <a href=\"https://www.theguardian.com/politics/2026/may/11/labour-mp-keir-starmer-leadership-challenge-catherine-west\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:23",
+    "tags": []
+  },
+  {
+    "title": "\u2018Bad people\u2019: Alan Cumming criticises Bafta after N-word outburst",
+    "link": "https://www.theguardian.com/film/2026/may/11/alan-cumming-criticises-bafta-after-n-word-outburst",
+    "source": "World news | The Guardian",
+    "summary": "<p>The host of the film awards ceremony at which Tourette syndrome activist John Davidson shouted a racial slur has said he won\u2019t host it again</p><p>Alan Cumming has criticised the organisers of the Bafta film awards in February as \u201cbad people who weren\u2019t doing their jobs properly\u201d after the N-word outburst by Tourette activist John Davidson, <a href=\"https://www.theguardian.com/film/2026/feb/23/bbc-new-apology-bafta-n-word-controversy-iplayer\">which was broadcast by the BBC</a> during its coverage of the ceremony.</p><p><a href=\"https://www.thetimes.com/culture/tv-radio/article/alan-cumming-interview-baftas-fiasco-tip-toe-l9ccg730j\">In an interview</a> with the Sunday Times, Cumming, who was the host of the ceremony, said: \u201cIt was bad, bad, bad, bad leadership \u2026 Bad people who weren\u2019t doing their jobs properly, who really had not prepared and let people down.\u201d</p> <a href=\"https://www.theguardian.com/film/2026/may/11/alan-cumming-criticises-bafta-after-n-word-outburst\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:22",
     "tags": [
       "Conflict",
-      "Food Security"
+      "Humanitarian"
+    ]
+  },
+  {
+    "title": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
+    "link": "https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks",
+    "source": "World news | The Guardian",
+    "summary": "<p>Move by largest donor to environment programme poses further uncertainty for already troubled negotiations </p><p>The largest donor to the United Nations Environment Programme (Unep) has paused funding to the body before its revised budget on 12 May, triggering concern among member states and NGOs.</p><p>The news could carry significance for the already troubled plastic treaty negotiations being overseen by Unep. Since 2022 countries have been struggling to agree on how to deal with the volume of plastics being produced and used, a subject widely acknowledged to be one of the most serious environmental issues of the age, but despite six rounds of talks there has been no agreement in sight.</p> <a href=\"https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:20",
+    "tags": []
+  },
+  {
+    "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
+    "link": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+    "source": "World news | The Guardian",
+    "summary": "<p>US president calls Iranian response \u2018totally unacceptable\u2019 while Tehran says it will retaliate against any new US strikes or foreign warships in strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire\">Trump calls Iran\u2019s response to peace plan \u2018totally unacceptable\u2019 as ceasefire frays</a></p></li></ul><p>Turkey\u2019s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and efforts to ensure navigational safety in the strait of Hormuz is resumed, a Turkish diplomatic source told the Reuters news agency.</p><p>Turkey, which neighbours Iran, has been in close contact with the US, Iran and mediator Pakistan since the start of the conflict. It condemnded the US and Israel for launching the war, widely seen to have been done illegally, but also criticised Iran\u2019s counter strikes on Gulf states.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:16",
+    "tags": [
+      "Pakistan",
+      "Israel",
+      "Turkey",
+      "Iran",
+      "Conflict",
+      "Humanitarian"
+    ]
+  },
+  {
+    "title": "Who is Gerhard Schroeder, Putin\u2019s pick for Ukraine peace talks mediation?",
+    "link": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation?traffic_source=rss",
+    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+    "summary": "And will he be acceptable to Ukraine and the West?",
+    "published": "Mon, 11 May 2026 11:06",
+    "tags": [
+      "Ukraine"
+    ]
+  },
+  {
+    "title": "What Leaders Get Wrong About the ROI of AI",
+    "link": "https://time.com/article/2026/05/11/what-leaders-get-wrong-about-the-roi-of-ai/",
+    "source": "TIME",
+    "summary": "\u201cToo many leaders measure the ROI of AI through the lens of cost savings,\u201d writes Katy George.",
+    "published": "Mon, 11 May 2026 11:00",
+    "tags": []
+  },
+  {
+    "title": "\u2018Truly terrifying\u2019: Alberta voter data breach raises fears for Canada\u2019s electoral integrity",
+    "link": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
+    "source": "World news | The Guardian",
+    "summary": "<p>Debates over secession overshadowed by revelations separatist-linked group gained access to list of electors</p><p>The illegal use of voter information by rightwing separatists in the province of Alberta has raised fresh fears over Canada\u2019s electoral integrity by making valuable and \u201cincredibly confidential\u201d personal data easily accessible to malicious actors, security experts have warned.</p><p>The data breach, <a href=\"https://www.theguardian.com/world/2026/may/05/canada-voting-data-breach-separatists\">one of the largest in Canadian history,</a> has prompted warnings of a \u201ctruly terrifying\u201d new battleground over information, persuasion and foreign interference in already weakened democratic systems.</p> <a href=\"https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 11:00",
+    "tags": [
+      "Conflict"
+    ]
+  },
+  {
+    "title": "Iran War Live Updates: Iran Lists Demands That Trump Deemed \u2018Unacceptable\u2019",
+    "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
+    "source": "NYT > World News",
+    "summary": "Tehran said its conditions for a peace deal include U.S. war reparations, recognition of its sovereignty over the Strait of Hormuz and an end to American sanctions, Iranian state media reported.",
+    "published": "Mon, 11 May 2026 10:51",
+    "tags": [
+      "Iran",
+      "Conflict",
+      "Humanitarian"
+    ]
+  },
+  {
+    "title": "Jewish musicians faced abuse over Zionist beliefs, royal commisssion told",
+    "link": "https://www.theguardian.com/australia-news/2026/may/11/jewish-musicians-faced-abuse-over-zionist-beliefs-royal-commisssion-told-ntwnfb",
+    "source": "World news | The Guardian",
+    "summary": "<p>Deborah Conway describes anti-Zionism as a \u2018genocidal impulse\u2019 as inquiry hears how Jews are targeted with Nazi comparisons</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Jewish musicians have told a royal commission hearing that their views on Zionism made them the targets of vilification and boycotting.</p><p>The royal commission on antisemitism and social cohesion heard from Deborah Conway and Joshua Moshe on Monday: both were members of a WhatsApp group for Jewish creatives and academics, the contents of which was leaked by the media and some of the members\u2019 personal information made public.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/11/jewish-musicians-faced-abuse-over-zionist-beliefs-royal-commisssion-told-ntwnfb\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 10:41",
+    "tags": [
+      "Protection"
+    ]
+  },
+  {
+    "title": "What did Keir Starmer say in \u2018last chance\u2019 speech to save his premiership?",
+    "link": "https://www.theguardian.com/politics/2026/may/11/what-did-keir-starmer-say-in-labour-leadership-speech",
+    "source": "World news | The Guardian",
+    "summary": "<p>Address was billed as make-or-break amid mounting speculation of a challenge. Has he done enough to hang on?</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/may/11/who-are-main-threats-keir-starmer-labour-leadership\">Who are the main threats to Keir Starmer\u2019s Labour leadership?</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates\">UK politics live \u2013 latest updates</a></p></li></ul><p>Keir Starmer\u2019s <a href=\"https://www.theguardian.com/politics/2026/may/11/keir-starmer-labour-leadership-speech\">speech and press conference</a> on Monday morning was almost universally billed as his final chance to save his premiership. Was it enough? And what \u2013 if anything \u2013 did he actually offer?</p> <a href=\"https://www.theguardian.com/politics/2026/may/11/what-did-keir-starmer-say-in-labour-leadership-speech\">Continue reading...</a>",
+    "published": "Mon, 11 May 2026 10:39",
+    "tags": []
+  },
+  {
+    "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
+    "link": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
+    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+    "summary": "Sheikh Hamad bin Jassim warns Strait of Hormuz crisis is most dangerous fallout of war on Iran, calls for &#039;Gulf NATO&#039;.",
+    "published": "Mon, 11 May 2026 10:37",
+    "tags": [
+      "Iran",
+      "Conflict",
+      "Humanitarian"
+    ]
+  },
+  {
+    "title": "Taiwan civilians sharpen self-defence skills ahead of Trump-Xi summit",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit?traffic_source=rss",
+    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+    "summary": "Taiwanese civilians are flocking to self\u2011defence courses, amid fears China could one day use force to seize the island.",
+    "published": "Mon, 11 May 2026 10:36",
+    "tags": [
+      "China"
     ]
   },
   {
@@ -1194,33 +1373,10 @@
     "tags": []
   },
   {
-    "title": "Starmer Promises Urgent Change as He Battles to Save Premiership",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
-    "source": "NYT > World News",
-    "summary": "Prime Minister Keir Starmer of Britain used a speech on Monday to attempt to quell a mutiny in the Labour Party after last week\u2019s dire election results.",
-    "published": "Mon, 11 May 2026 10:29",
-    "tags": [
-      "Political"
-    ]
-  },
-  {
-    "title": "EU\u2019s Kallas criticises Putin\u2019s \u2018very cynical\u2019 Ukraine ceasefire calls and rejects suggestion of Schr\u00f6der as mediator \u2013 Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
-    "source": "World news | The Guardian",
-    "summary": "<p>EU\u2019s foreign policy chief and the ex-Estonian PM dismiss Putin\u2019s suggestion that former German chancellor could coordinate talks</p><p>Meanwhile, <strong>Poland\u2019s former justice minister Zbigniew Ziobro, wanted by Polish authorities with allegations of over 20 criminal charges, moved to the US over the weekend, leaving Hungary where he held political asylum granted by the previous government of Viktor Orb\u00e1n.</strong></p><p>Ziobro was one of the most prominent faces of the PiS government and played a central role in its controversial judiciary reforms, which critics say <a href=\"https://www.theguardian.com/world/2023/feb/15/european-commission-takes-poland-to-court-over-legal-polexit\">undermined the rule of law</a> and the <a href=\"https://www.theguardian.com/world/2017/feb/26/polish-judges-urged-fight-independence-supreme-court\">independence of courts</a>, <a href=\"https://www.theguardian.com/world/2022/aug/09/poland-threatens-turn-cannon-eu-rule-of-law-row\">leading to prolonged conflict with the EU.</a></p> <a href=\"https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 10:24",
-    "tags": [
-      "Ukraine",
-      "Conflict",
-      "Political",
-      "Refugees"
-    ]
-  },
-  {
     "title": "Iran says US making \u2018unreasonable\u2019 demands in negotiations to end war",
     "link": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
     "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-    "summary": "Foreign ministry spokesman Esmaeil Baghaei says Iran&#039;s proposal to end the conflict, unblock Hormuz Strait is generous.",
+    "summary": "Foreign ministry spokesman Esmaeil Baghaei says Iran&#039;s proposal to end conflict, unblock Strait of Hormuz is generous.",
     "published": "Mon, 11 May 2026 10:20",
     "tags": [
       "Iran",
@@ -1246,30 +1402,6 @@
     "tags": [
       "Health",
       "Protection"
-    ]
-  },
-  {
-    "title": "Keir Starmer vows to \u2018prove doubters wrong\u2019 as he tries to avert leadership challenge \u2013 UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
-    "source": "World news | The Guardian",
-    "summary": "<p>PM promises to nationalise British Steel and rebuild relationship with Europe during his make-or-break speech</p><p><strong>Botterill</strong> says voters she spoke to during the campaign felt the country does not work for them. She is a working-class Yorkshire woman, she says. She knows that the opportunities she has enjoyed would not be there if if had not been for the achievements of Labour government.</p><p>She says Labour is one of the best vehicles for changing the lives of working people that this county has ever known.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 10:12",
-    "tags": [
-      "Political"
-    ]
-  },
-  {
-    "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
-    "link": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
-    "source": "World news | The Guardian",
-    "summary": "<p>US president calls Iranian response \u2018totally unacceptable\u2019 while Tehran says it will retaliate against any new US strikes or foreign warships in strait of Hormuz</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire\">Trump calls Iran\u2019s response to peace plan \u2018totally unacceptable\u2019 as ceasefire frays</a></p></li></ul><p>Hezbollah started firing at Israel shortly after the US and Israel launched its war on Iran by killing the country\u2019s former supreme leader on 28 February. Israel responded with airstrikes and launched a ground invasion of southern Lebanon.</p><p>The Israeli military now occupies a strip of Lebanese land along the border. Officials claim they want to create a \u2018security zone\u2019 to protect Israel\u2019s northern communities from Hezbollah attacks. But this has stoked fears of a long-term occupation.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 10:08",
-    "tags": [
-      "Lebanon",
-      "Israel",
-      "Iran",
-      "Conflict",
-      "Humanitarian"
     ]
   },
   {
@@ -1347,17 +1479,6 @@
       "Humanitarian",
       "Political",
       "Protection"
-    ]
-  },
-  {
-    "title": "Keir Starmer vows to prove doubters wrong in make-or-break leadership speech",
-    "link": "https://www.theguardian.com/politics/2026/may/11/keir-starmer-labour-leadership-speech",
-    "source": "World news | The Guardian",
-    "summary": "<p>PM makes series of policy pledges including seeking new deal with EU and says he will fight any challenge</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/may/11/who-are-main-threats-keir-starmer-labour-leadership\">Who are the main threats to Keir Starmer\u2019s Labour leadership?</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates\">UK politics live \u2013 latest updates</a></p></li></ul><p>Keir Starmer has said he will prove his doubters wrong as he warned Labour was facing \u201cvery dangerous opponents\u201d in a make-or-break speech, with leadership rivals on the brink of a challenge.</p><p>Starmer said he would fight <a href=\"https://www.theguardian.com/politics/2026/may/11/who-are-main-threats-keir-starmer-labour-leadership\">any leadership challenge</a> and would not \u201cwalk away\u201d from his responsibilities as prime minister.</p><p>British Steel would be formally nationalised this week by legislation.</p><p>A new, wide-ranging deal with the EU including an ambitious youth mobility scheme.</p><p>A guaranteed offer of a job training or work placement for young people.</p> <a href=\"https://www.theguardian.com/politics/2026/may/11/keir-starmer-labour-leadership-speech\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 09:52",
-    "tags": [
-      "Conflict",
-      "Humanitarian"
     ]
   },
   {
@@ -1440,22 +1561,6 @@
     ]
   },
   {
-    "title": "Can you move your pension to dodge inheritance tax? Fraudsters say so",
-    "link": "https://www.theguardian.com/money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings",
-    "source": "World news | The Guardian",
-    "summary": "<p>Criminals exploit confusion or anxiety over new IHT rules by offering a \u2018safe haven\u2019 for savings pots</p><p>The caller pitches a great deal. Shift the moneysaved in your pension and reinvest it in a scheme overseas where you can avoid it being caught under <a href=\"https://www.theguardian.com/money/2025/mar/22/what-new-uk-rules-on-pension-inheritance-may-mean-for-you\">next year\u2019s changes to the UK\u2019s inheritance tax (IHT) system</a>.</p><p>From April next year, any money left in a defined contribution pension after your death, which is most workplace and all private pensions, will be pulled into the IHT net.</p> <a href=\"https://www.theguardian.com/money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 09:17",
-    "tags": []
-  },
-  {
-    "title": "US and French nationals test positive for hantavirus after leaving ship",
-    "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
-    "published": "Mon, 11 May 2026 09:11",
-    "tags": []
-  },
-  {
     "title": "Portrait looted by Nazis found in home of Dutch SS leader\u2019s family",
     "link": "https://www.theguardian.com/artanddesign/2026/may/11/portrait-looted-nazis-home-dutch-ss-leader-family-toon-kelder-goudstikker-hendrik-seyffardt",
     "source": "World news | The Guardian",
@@ -1466,16 +1571,6 @@
     ]
   },
   {
-    "title": "Quebec Novelist Shines a Harsh Spotlight on Migration, and on Trump\u2019s America",
-    "link": "https://www.nytimes.com/2026/05/11/world/canada/thelyson-orelien-haiti-us-canada-migration.html",
-    "source": "NYT > World News",
-    "summary": "Th\u00e9lyson Or\u00e9lien, a Haitian-born, previously unknown writer, submitted an unsolicited manuscript. Its rights were sold in 23 countries before publication.",
-    "published": "Mon, 11 May 2026 09:01",
-    "tags": [
-      "Protection"
-    ]
-  },
-  {
     "title": "Ukraine Looks to Step Away From Trump and U.S.",
     "link": "https://www.nytimes.com/2026/05/11/world/europe/ukraine-war-zelensky-us-trump-russia.html",
     "source": "NYT > World News",
@@ -1483,6 +1578,16 @@
     "published": "Mon, 11 May 2026 09:01",
     "tags": [
       "Ukraine"
+    ]
+  },
+  {
+    "title": "Quebec Novelist Shines a Harsh Spotlight on Migration, and on Trump\u2019s America",
+    "link": "https://www.nytimes.com/2026/05/11/world/canada/thelyson-orelien-haiti-us-canada-migration.html",
+    "source": "NYT > World News",
+    "summary": "Th\u00e9lyson Or\u00e9lien, a Haitian-born, previously unknown writer, submitted an unsolicited manuscript. Its rights were sold in 23 countries before publication.",
+    "published": "Mon, 11 May 2026 09:01",
+    "tags": [
+      "Protection"
     ]
   },
   {
@@ -1642,14 +1747,6 @@
     ]
   },
   {
-    "title": "Betting account on 18th birthday, dead at 22: inquest probes death of Melbourne man who gambled $895,000",
-    "link": "https://www.theguardian.com/australia-news/2026/may/11/betting-gambling-man-dead-at-22-inquest-ntwnfb",
-    "source": "World news | The Guardian",
-    "summary": "<p>Coroner examines circumstances that led to 2021 death of Werribee man Kyle Hudson, who held multiple betting accounts</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Melbourne man gambled $895,733 through online betting platforms in the four years between his 18th birthday and the day he took his own life, an inquest has heard.</p><p>Victorian coroner Paul Lawrie\u2019s inquest into the circumstances of Kyle Hudson\u2019s death on 6 July 2021 began on Monday, and will interrogate whether betting companies accurately assessed the risk of gambling-related harm in the years prior to Werribee man\u2019s death.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/11/betting-gambling-man-dead-at-22-inquest-ntwnfb\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 07:55",
-    "tags": []
-  },
-  {
     "title": "BBC tours England and Argentina's World Cup training grounds",
     "link": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -1689,17 +1786,6 @@
     ]
   },
   {
-    "title": "Heathrow passenger numbers dip as demand for international travel ebbs amid Iran war fallout",
-    "link": "https://www.theguardian.com/uk-news/2026/may/11/heathrow-passenger-numbers-dip-as-demand-for-international-travel-ebbs-amid-iran-war-fallout",
-    "source": "World news | The Guardian",
-    "summary": "<p>Airport reports 5% decline but transit passenger business rises as fliers use hub to avoid Middle East airports</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates\">Business live \u2013 news updates</a></p></li></ul><p>The number of passengers flying from London Heathrow fell last month, as war in the Middle East weighed on demand for international travel.</p><p>About 6.7 million people flew through the airport in April, a 5% drop compared with the same period in 2025 and its biggest annual fall since March last year.</p> <a href=\"https://www.theguardian.com/uk-news/2026/may/11/heathrow-passenger-numbers-dip-as-demand-for-international-travel-ebbs-amid-iran-war-fallout\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 07:23",
-    "tags": [
-      "Iran",
-      "Conflict"
-    ]
-  },
-  {
     "title": "Fans celebrate as Barcelona clinches LaLiga title",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/fans-celebrate-as-barcelona-clinches-laliga-title?traffic_source=rss",
     "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
@@ -1721,22 +1807,14 @@
     ]
   },
   {
-    "title": "UK\u2019s Keir Starmer battles for political survival after election defeat",
+    "title": "UK\u2019s Starmer battles for political survival amid calls for exit timetable",
     "link": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss",
     "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-    "summary": "The UK prime minister promised to face up to big challenges while battling Reform and Greens in his speech on Monday.",
+    "summary": "Labour MP Catherine West urges the prime minister to set a timetable for the election of a new leader in September.",
     "published": "Mon, 11 May 2026 07:12",
     "tags": [
       "Political"
     ]
-  },
-  {
-    "title": "\u2018It was either this or the pool\u2019: hantavirus ship becomes latest Tenerife tourist attraction",
-    "link": "https://www.theguardian.com/world/2026/may/11/it-was-either-this-or-the-pool-hantavirus-ship-becomes-latest-tenerife-tourist-attraction",
-    "source": "World news | The Guardian",
-    "summary": "<p>The MV Hondius, the cruise ship hit by an outbreak of a virus that has left three dead, reached the Canary Islands on Sunday</p><p>On a dusty hill overlooking the Atlantic Ocean in the south of Tenerife, groups of tourists and locals are gathered to witness one of the island\u2019s best new attractions.</p><p>Some are gazing through binoculars while others are taking photos on their phones of a vessel only a few hundreds metres away, anchored near the Granadillo commercial port.</p> <a href=\"https://www.theguardian.com/world/2026/may/11/it-was-either-this-or-the-pool-hantavirus-ship-becomes-latest-tenerife-tourist-attraction\">Continue reading...</a>",
-    "published": "Mon, 11 May 2026 07:00",
-    "tags": []
   },
   {
     "title": "Philippine Congress impeaches VP Sara Duterte for second time",
@@ -1860,19 +1938,6 @@
     ]
   },
   {
-    "title": "Gaza documentary dropped by the BBC wins BAFTA",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss",
-    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-    "summary": "A documentary exposing Israel&#039;s attacks on Gaza&#039;s health system and personnel won Best Current Affairs at the BAFTAs.",
-    "published": "Mon, 11 May 2026 02:50",
-    "tags": [
-      "Israel",
-      "Gaza",
-      "Conflict",
-      "Health"
-    ]
-  },
-  {
     "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
     "link": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -1892,24 +1957,6 @@
     ]
   },
   {
-    "title": "Trump Says Iran\u2019s Response to Latest U.S. Proposal \u2018Totally Unacceptable\u2019",
-    "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
-    "source": "NYT > World News",
-    "summary": "The United States and Iran have been discussing a 30-day extension to their cease-fire and a reopening of the Strait of Hormuz.",
-    "published": "Mon, 11 May 2026 00:48",
-    "tags": [
-      "Iran"
-    ]
-  },
-  {
-    "title": "What next for Real Madrid after Barcelona\u2019s La Liga and Clasico triumph?",
-    "link": "https://www.aljazeera.com/sports/2026/5/11/what-next-for-real-madrid-after-barcelonas-la-liga-and-clasico-triumph?traffic_source=rss",
-    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-    "summary": "Barca sealed their La Liga title defence in the best way possible on Sunday, but where do Real go now, after their loss?",
-    "published": "Mon, 11 May 2026 00:18",
-    "tags": []
-  },
-  {
     "title": "Martin Short opens up about \u2018nightmare\u2019 death of his daughter Katherine",
     "link": "https://www.theguardian.com/tv-and-radio/2026/may/11/martin-short-daughter-katherine-death",
     "source": "World news | The Guardian",
@@ -1918,29 +1965,6 @@
     "tags": [
       "Humanitarian",
       "Health"
-    ]
-  },
-  {
-    "title": "Somalis rally against government-ordered evictions in Mogadishu",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/somalis-rally-against-government-ordered-evictions-in-mogadishu?traffic_source=rss",
-    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-    "summary": "Demonstrators rallied across the Somali capital in support of families displaced by a wave of government-led evictions.",
-    "published": "Mon, 11 May 2026 00:13",
-    "tags": [
-      "Humanitarian",
-      "Political",
-      "Refugees"
-    ]
-  },
-  {
-    "title": "Iran war live: Tehran says US continues to have \u2018unreasonable demands\u2019",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
-    "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-    "summary": "Iran\u2019s Foreign Ministry spokesperson says the United States continues to have \u201cunreasonable demands\u201d",
-    "published": "Mon, 11 May 2026 00:00",
-    "tags": [
-      "Iran",
-      "Conflict"
     ]
   },
   {
@@ -2012,26 +2036,6 @@
     "tags": []
   },
   {
-    "title": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
-    "link": "https://www.nytimes.com/2026/05/08/climate/iran-kharg-oil-spill-hormuz.html",
-    "source": "NYT > World News",
-    "summary": "The slick, captured in satellite images near Kharg Island in the Persian Gulf, has raised concerns about the condition of Iran\u2019s oil infrastructure.",
-    "published": "Fri, 08 May 2026 22:30",
-    "tags": [
-      "Iran"
-    ]
-  },
-  {
-    "title": "Four south Florida men convicted in Haitian president\u2019s assassination",
-    "link": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
-    "source": "World news | The Guardian",
-    "summary": "<p>Men were convicted in Miami federal court for plotting to kill Jovenel Mo\u00efse at his Port-au-Prince home in 2021</p><p>Four south Florida men were convicted on Friday of <a href=\"https://www.theguardian.com/world/2026/mar/10/haiti-president-jovenel-moise-trial\">plotting to kill the Haitian president, Jovenel Mo\u00efse</a>, in 2021 by hiring mercenaries to assassinate him at his Port-au-Prince home, court records show.</p><p>Prosecutors argued during the nine-week trial in a Miami federal court that the men assembled two dozen former Colombian soldiers and supplied them with money, guns, ammunition and tactical vests in a conspiracy to kill <a href=\"https://www.theguardian.com/world/2021/jul/11/jovenel-moise-obituary\">Mo\u00efse</a>. The 53-year-old president was shot dead in July 2021 at his private residence in the hills above Port-au-Prince, a killing that left a gaping political vacuum in the Caribbean nation and emboldened powerful gangs.</p> <a href=\"https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination\">Continue reading...</a>",
-    "published": "Fri, 08 May 2026 21:35",
-    "tags": [
-      "Political"
-    ]
-  },
-  {
     "title": "Mysterious American Man Makes Mysterious Proposal in Greenland",
     "link": "https://www.nytimes.com/2026/05/08/world/europe/greenland-mysterious-offer-american.html",
     "source": "NYT > World News",
@@ -2039,18 +2043,6 @@
     "published": "Fri, 08 May 2026 21:11",
     "tags": [
       "Humanitarian"
-    ]
-  },
-  {
-    "title": "Festus Mogae, Former Botswana President Who Tackled H.I.V., Dies at 86",
-    "link": "https://www.nytimes.com/2026/05/08/world/africa/festus-mogae-dead.html",
-    "source": "NYT > World News",
-    "summary": "He led the southern African nation for a decade and embraced a flagship American aid program credited with helping to eradicate the country\u2019s AIDS epidemic.",
-    "published": "Fri, 08 May 2026 19:49",
-    "tags": [
-      "Botswana",
-      "Humanitarian",
-      "Health"
     ]
   },
   {
