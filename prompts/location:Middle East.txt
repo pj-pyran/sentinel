@@ -1,7 +1,38 @@
 Crisis / situation: Middle East
 
---- Report 1: UNHCR (2026-04-20) ---
-Overview Escalating hostilities across Asia and the Middle East have led to a deterioration in the humanitarian situation. The affected areas already host 24.6 million forcibly displaced people, many of whom, alongside host communities, face significant protection risks and humanitarian needs. With limited funding, many countries are struggling to meet existing needs, making it increasingly difficult to absorb additional pressures and support newly displaced populations. Protection needs are rising, alongside heightened risk of internal displacement, new cross-border outflows, and onward movements to neighbouring countries. An inter-agency emergency response has been launched to address urgent needs across the region. In Iran, the Flash Refugee Response Plan targets 1.65 million Afghan …
+--- Report 1: UNHCR (2026-05-11) ---
+Key figures
+1,049,328 displaced people registered through Lebanon's government relief platform (MoSA 1 April)
+125,621 internally displaced people hosted in collective shelters (DRM 6 Mayl)
+622 operational emergency collective shelters (DRM 6 May)
+8,311 injuries since 2 March (MoPH 6 May)
+2,702 fatalities since 2 March (MoPH 6 May)
+321,666 Syrians who have crossed back to Syria between 2 March – 6 May (Syria GAPC)
+68,712 Lebanese have crossed to Syria between 2 March – 6 May (Syria GAPC)
+Overview
 
---- Report 2: UNHCR (2026-04-20) ---
-Overview - Ceasefire announced amid ongoing uncertainty: A 10‑day ceasefire brokered by the United States between Lebanon and Israel came into effect at midnight on Thursday 16 April, aimed at halting hostilities between Israel and Hezbollah and paving the way for a lasting peace agreement. Welcoming the announcement, the UN Secretary‑General reaffirmed the support of the United Nations to all efforts to end hostilities and alleviate the suffering of communities on both sides of the Blue Line and said he hoped the ceasefire “will pave the way for negotiations and the full implementation of Security Council resolution 1701 (2006) towards a long‑term solution to the conflict”. - Fluid movements and continued access constraints: Following the announcement, limited and uneven return movemen…
+Ceasefire under strain amid renewed strikes and evacuation orders: Despite the ceasefire formally remaining in place, military activity has escalated, including through strikes in South Lebanon, Nabatieh, Western Bekaa, and a targeted attack in Beirut’s southern suburbs, alongside repeated evacuation warnings affecting towns and villages in the south. Security reporting indicates a high volume of military activity and sustained risk of further escalation, with civilians, first responders, and infrastructure increasingly affected. Ongoing insecurity and evacuation orders continue to drive non‑linear population movements, as families undertake short return attempts before relocating again due to security concerns.
+The Lebanon Flash Appeal is only 38% funded, with approximately US$ 117 million received against US$ 308 million required, while humanitarian needs deepen across shelter, food security, protection, health, and WASH sectors. The scale and pace of ongoing displacement are placing mounting pressure on an already overstretched response, constraining humanitarian partners’ capacity to scale up and sustain life‑saving assistance. Against this backdrop, the Ministry of Social Affairs formally requested a three-month extension of the Flash Appeal (June–August 2026), underscoring the need to ensure continuity of assistance amid persistent displacement and instability.
+
+--- Report 2: WFP (2026-05-11) ---
+IN NUMBERS
+650,000 displaced people assisted in Lebanon with food and cash to date.
+125,274 displaced people received date bars at Syria crossings.
+33,820 refugees in settlement supported with food and cash assistance in Iran.
+KEY HIGHLIGHTS
+
+As the Strait of Hormuz crisis deepens amid persistent uncertainty, regional escalation continues to disrupt food systems, trade routes and humanitarian access, with rising fuel and food prices reinforcing each other across the region, further constraining access to food in crisis‑affected settings and undermining vulnerable households’ access to basic needs.
+In Iran, WFP assistance supports more than 33,000 refugees across 20 settlements while inflation, and pressure on household food affordability continue to intensify.
+In Lebanon, WFP is sustaining emergency assistance while needs remain severe despite the ceasefire, with continued insecurity, renewed displacement, pressure on host communities, and nearly a quarter of the population facing acute food insecurity.
+The G2G Jordan–Lebanon humanitarian corridor is strengthening WFP’s cross‑border deliveries under severe access constraints, enabling the continued movement of critical food supplies and reinforcing the continuity of the emergency response.
+
+--- Report 3: Logistics Cluster (2026-05-10) ---
+Summary
+The humanitarian consequences of the crisis in the Middle East have intensified since February 2026. The effects of the situation extend across the region, with primary humanitarian operational impacts across Afghanistan, Lebanon, the Occupied Palestinian Territory, Syria, and Iran, creating supply chain and market disruptions in neighbouring countries and regions, including humanitarian responses in East Africa. Regional transport corridors, airspace, ports, border crossings, and fuel supply chains have been disrupted, resulting in complex cross border logistics challenges. This Supply Route Snapshot provides an overview of the current supply routes used by partners to continue operations in the region and provides key logistics information and analyses on the primary and secondary affected countries.
+Content
+The humanitarian consequences of the crisis in the Middle East have intensified since February 2026. The effects of the situation extend across the region, with primary humanitarian operational impacts across Afghanistan, Lebanon, the Occupied Palestinian Territory, Syria, and Iran, creating supply chain and market disruptions in neighbouring countries and regions, including humanitarian responses in East Africa. Regional transport corridors, airspace, ports, border crossings, and fuel supply chains have been disrupted, resulting in complex cross border logistics challenges. This Supply Route Snapshot provides an overview of the current supply routes used by partners to continue operations in the region and provides key logistics information and analyses on the primary and secondary affected countries.
+Key Situation Updates
+The crisis in the Middle East has remained largely static in recent weeks, with no significant developments affecting the broader operating environment. However, measures affecting maritime access to Iranian ports and adjacent waters, introduced on 13 April, remain in force. These measures were further expanded on 16 April, contributing to ongoing constraints on both humanitarian and commercial regional shipping activity and broader regional and global trade flows.
+The International Maritime Organization (IMO) reports that 20,000 seafarers aboard 800-1000 ships, as well as port workers and offshore crews are impacted by the ongoing situation in the Strait of Hormuz. During a Security Council session on maritime safety, the UN Secretary General emphasized the urgent need to maintain uninterrupted shipping flows, noting that disruptions have already had immediate global economic impacts.
+The Secretary General urged support for coordinated international measures to ensure the safe movement of vessels and protection of crews, while reaffirming the importance of upholding freedom of navigation, particularly through key trade routes. He also called for the restoration of normal shipping activity without discriminatory or restrictive measures.
+On 25 April, Pakistan opened six overland transit routes for Iran-bound cargo with the Transit of Goods through Territory of Pakistan Order issued by the Ministry of Commerce. The order enables goods from third countries to be transported overland through Pakistan into Iran, though does not include goods originating from India. More than 3,000 Iran-bound containers have been held at the Port of Karachi for several weeks, unable to continue to Iranian ports due to the ongoing situation in the Strait of Hormuz.
