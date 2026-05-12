@@ -1,13 +1,91 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: UNHCR (2026-04-21) ---
-Syria’s operational context reflects a dual dynamic: large-scale returns alongside persistent humanitarian needs. As of March 2026, 15.6 million require assistance, while over 1.5 million refugees and 1.8 million internally displaced persons (IDPs) have returned since December 2024. Despite these movements, internal displacement remains high (5.5 million), underscoring that returns are occurring within a still-fragile system with strained absorption capacity. Based on actual and projected return numbers and in response to calls from Syrian refugees and IDPs for UNHCR to support their return, UNHCR is facilitating voluntary return. This gradual operational shift is anchored in the voluntary character of return and refugees’ well-informed and free choices. This effort, however, remains co…
+--- Report 1: UNRWA (2026-05-12) ---
+Executive Summary – 2025 Protection Case Trends, UNRWA Syria
+In 2025, UNRWA recorded 1,727 protection cases affecting Palestine refugees across Syria, an 8% increase from 2024. Women and girls continue to be disproportionately impacted, representing 82% of all cases. Despite strengthened reporting systems and expanded frontline capacity, overall caseloads remain significantly under‑reported relative to the approximately 420,000 Palestine refugees still inside Syria.
+Key Protection Trends
 
---- Report 2: IOM (2026-04-21) ---
-Following the escalation in hostilities across the Middle East beginning on 28 February 2026, cross-border movements into the Syrian Arab Republic (hereafter referred to as Syria) increased, particularly from neighbouring Lebanon. However, since the two-week ceasefire was announced on 7 April 2026, the rate of displacement has slowed compared to the initial phase of the conflict. This trend coincides with the reopening of all air corridors in Syria. As of 20 April, 248,238 entries into Syria were documented through three official Points of Entry (PoEs) along the Syrian–Lebanese border. Most arrivals were Syrian nationals (96%), while Lebanese nationals represented approximately 4 per cent. In addition, as of 20 April, 1,800 Lebanese nationals were reported to have transited through Syri…
+Gender-Based Violence (GBV) accounted for the largest share of cases (48% / 834 cases), with psychological and emotional abuse remaining the most reported GBV concern (537 cases).
+General Protection (GP) cases rose sharply (466 cases, a 127% increase), driven by improved identification of psychological/emotional abuse and neglect, now the single fastest-growing protection concern.
+Child Protection (CP) cases slightly decreased to 427 cases (a 12% decline), though separated/unaccompanied children (182 cases) remain a major risk group.
 
---- Report 3: UNHCR (2026-04-20) ---
-No summary available.
+Geographical Concentration of Needs
+Protection risks continue to be highest in:
 
---- Report 4: Health Cluster (2026-04-19) ---
-National health sector coordination, Damascus • Participated and contributed to the ISCG planning workshop for 2026, including 2025 performance review. • Took part in ad hoc a-ISCG South meeting to discuss key priority needs of Syrian returnees in the southern region. • Participated in 3LC by WHO Syria on Middle East escalation. Updated health sector with information on Middle East escalation of the conflict, including WHO EMRO RD statement and WHO situation reports and launched WHO Emergency Appeal. • Jointly with HIM team: o Reviewed the levels of submissions for new 2026 4W HNRP, January – March 2026. o Aiming to update: ▪ 4W 2026 HNRP, January – March, infographic ▪ Health sector referral pathway, Q1 2026 ▪ HeRAMS, both hospitals and PHCs, 2026 ▪ Light HeRAMS, 2026 ▪ Sector level su…
+Rural Damascus – 690 cases (49%), with major concentrations in Sayida Zeinab and other surrounding areas.
+South Area (Dera’a region) – consistently high caseloads (351 cases), despite a smaller refugee population and ongoing instability.
+Yarmouk refugee camp – a 231% increase in reporting, reflecting both heightened vulnerabilities among returning families and improved reporting.
+
+Emerging and High-Risk Case Patterns
+
+Forced/early marriage declined significantly (57 cases in 2025 vs. 152 in 2024) but remains deeply rooted and requires long‑term, multi-disciplinary support.
+Legal status and civil documentation barriers increased by 300%, highlighting growing administrative obstacles affecting children, women, and returnees.
+Complex cases requiring multi-programme intervention increased from 79 to 262 cases, a 231% rise, indicating increasing severity and multi-layered vulnerabilities.
+
+Programme Contributions and Service Response
+
+The UNRWA Health Programme remained the main entry point for detection and referrals (63% of all cases), particularly for GBV and mental health‑related concerns.
+UNRWA provided a spectrum of support services, with:
+
+44% of services being psychosocial or MHPSS-related,
+28% health/hospitalisation support,
+15% social protection services,
+11% education-related services.
+
+
+
+Why Support Remains Critical
+Protection needs among Palestine refugees in Syria are increasing in severity, even as resources shrink. Support is essential to:
+
+Sustain and scale PSS/MHPSS services, addressing the dominant trend of psychological/emotional abuse.
+Strengthen responses for complex and high-risk cases, including survivors of GBV, separated/unaccompanied children, and households facing multi-layered vulnerabilities.
+Enhance access to services in high‑need areas, particularly in the South and rural Damascus.
+Expand community‑based protection mechanisms to improve early detection and mitigate risks before they escalate.
+Support emergency cash-for-protection assistance, a critical lifeline for survivors and families requiring urgent, sustained assistance.
+
+--- Report 2: SCPR (2026-05-11) ---
+Cost-Push Inflation The Impact of Political Transformations on Prices in Northeast Syria
+
+This bulletin provides an independent assessment of consumer prices and inflation rates across all Syrian governorates, based on a monthly price survey conducted by the Syrian Center for
+Policy Research (SCPR) since October 2020. The assessment relies on a methodology developed by the Center to calculate the Consumer Price Index (CPI), incorporating the components of the consumer basket, weighting structure, and market selection. The bulletin is based on the monthly consumer price survey covering 58 markets and 112 goods and services across different governorates and areas of control in Syria, using 2021 as the base year) SCPR’s Consumer Price Index in Syria).
+The inflation surge recorded in February 2026 indicates a significant escalation in price pressures, driven by a combination of structural and short-term factors. The Consumer Price Index (CPI) recorded a Month on month (M-o-M) inflation rate of 6.5 per cent in February 2026 compared to January 2026, confirming that inflation was not only elevated but broadly driven by multiple reinforcing dynamics, most notably exchange rate volatility, rising transport and energy costs, colder weather conditions, and weak market oversight.
+This inflationary pattern is clearly reflected at the level of major consumption groups, highlighting the concentration of pressures in essential sectors. Prices increased by 7.9 per cent for housing, water, electricity, gas, and other fuels; 5.9 per cent for food and non-alcoholic beverages; 16.8 per cent for furnishings, household equipment, and routine maintenance; 5.8 per cent for health; and 5.7 per cent for transport, indicating that inflation was driven primarily by cost escalation in basic goods and services.
+The spatial distribution of inflation further underscores its structural drivers. The governorates of Ar-Raqqa, Deir-Ezzor, and Al-Hasakeh recorded elevated inflation rates, which can be primarily attributed to the reassertion of control by government forces in Ar-Raqqa and Deir-Ezzor. This development was followed by a structural shift from the subsidized provisioning system previously in place under the Autonomous Administration (AA) to a liberalized pricing regime for strategic goods and essential services (including bread, diesel, gasoline, gas, electricity, and water), suggesting that institutional and governance changes have directly translated into price increases.
+At the national level, the inflation pattern reflects a dual and uneven market structure. Data for February 2026 indicate a dual pattern at the national level: a relative convergence in the prices of tradable goods, which can be linked to shifts in trade policies following the liberalisation of imports, accompanied by the subsequent harmonisation of customs duties across areas under the SIG. In contrast, non-tradable services and durable goods exhibited significant price divergence, as their prices remained driven by local factors such as operating costs—particularly energy—income levels, domestic demand, and differences in the currency of circulation across regions, highlighting the fragmented nature of domestic markets.
+The contribution analysis further clarifies the concentration of inflationary pressures. An analysis of contributions to M-o-M inflation in February 2026 shows that national price pressures (6.5 per cent) were primarily concentrated in two main groups: housing, water, electricity, gas and other fuels, which accounted for 52 per cent, and food and non-alcoholic beverages, which contributed 30 per cent, with secondary contributions from the transport group and furnishings and household equipment, confirming that essential consumption categories are the primary drivers of inflation.
+Monetary dynamics add another layer to this inflationary environment. The Central Bank of Syria continued to maintain the official exchange rate (for remittances and exchange operations) at SYP 11055 per USD for the ninth consecutive month, alongside noticeable fluctuations in the parallel market, where the exchange rate ranged between SYP 11507 and SYP 11786 per USD, indicating a divergence between official and market signals. Despite these fluctuations, the Syrian Pound (SYP) appreciated by 1.7 per cent during February, with the average exchange rate reaching SYP 11655 per USD, compared to SYP 11773 per USD in the previous month, suggesting that nominal exchange rate movements did not fully offset underlying inflationary pressures.
+From an income perspective, the data reveals persistent constraints on household purchasing power. The average monthly wage of a university-educated public sector employee (at entry level) in Syria stood at approximately SYP 1.13 million in February 2026, while the average monthly wage in the private sector reached SYP 1.32 million, and the average wage of a civil sector employee amounted to SYP 3.1 million during the same period, indicating disparities across employment categories.
+However, these income levels remain insufficient in relation to the cost of living. The abject poverty line for a household reached SYP 3.11 million per month in February 2026, while the lower poverty line stood at SYP 4.89 million, and the upper poverty line at SYP 6.76 million, highlighting the magnitude of the gap between earnings and basic needs. An analysis of wage-to-poverty-line coverage in Syria reveals a deep structural crisis in income adequacy, particularly in both the public and private sectors. At the national level, the overall average reflects a severe shortfall, with the wages of a university-educated public sector employee covering less than 63 per cent of the abject poverty line, and this gap widening to exceed 83 per cent when compared to the upper poverty line, underscoring the extent of income erosion under sustained inflation.
+
+--- Report 3: UNICEF (2026-05-10) ---
+Highlights
+
+Since 2 March, over 280,000 people crossed from Lebanon into Syria through official border points, driven by intensified hostilities and deteriorating living conditions in Lebanon.
+Around 3.3 million internally displaced persons (IDPs) and Syrian refugees have returned to Syria since December 2024 - over 50 per cent of returnees are children.
+Explosive ordnance remains a serious threat, with 219 children killed and 527 children injured among the civilian casualties reported since December 2024.
+Economic hardship, localised conflicts and escalations, and large‑scale returns continued to compound vulnerabilities and limit access to essential livelihoods in early 2026.
+In Q1 2026, UNICEF and partners reached 2.2 million people, including 1.4 million children, with life‑saving and life‑sustaining support across health, nutrition, education, WASH, child protection, social protection, and social and behaviour change interventions.
+UNICEF Syria Humanitarian Action for Children appeal is funded at 17 per cent, undermining the continuity of essential services and progress towards early recovery and resilience.
+
+SITUATION IN NUMBERS
+6,900,000 Children in need of humanitarian assistance
+15,600,000 People in need of humanitarian assistance
+1,867,309 IDP returnees since 27 November 2024
+
+--- Report 4: WFP (2026-05-10) ---
+HIGHLIGHTS
+
+The cost of living in February 2026, as measured by the Minimum Expenditure Basket
+(MEB), increased by 1.8 percent to Old SYP 2.43 million, from Old SYP 2.39 million in
+January 2026. This increase was driven by higher prices for eggplants, chicken meat,
+and gas cylinder.
+The Syrian currency depreciated in the parallel market to have and exchange rate from
+SYP 11,702 per USD in January 2025 to SYP 11,806 per USD in February 2026.
+Meanwhile, the official exchange rate remained stable at SYP 11,055 per USD.
+The rehabilitation of the Qalaat al-Madiq grain silos, with a storage capacity of 140,000
+tons, was completed ahead of the 2026 wheat harvest season, strengthening Syria’s
+grain storage infrastructure, improving food security, and enhancing strategic reserve
+management. In parallel, the Syrian Petroleum Company announced a major contract
+to purchase 350,000 tons of gas to support domestic energy supplies, alleviate fuel
+shortages, stabilize the local market, and ensure the continuity of essential economic
+and household activities.
