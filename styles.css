@@ -144,6 +144,9 @@ body {
   font-size: 0.95rem;
   line-height: 1.5;
   margin: 0;
+}
+
+.sitrep-card.ai-summary .card-summary-text {
   white-space: pre-wrap;
 }
 

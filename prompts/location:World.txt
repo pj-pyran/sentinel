@@ -1,0 +1,7 @@
+Crisis / situation: World
+
+--- Report 1: UNHCR (2026-04-21) ---
+The Routes Monitor , launched by UNHCR in February 2026 , is an analytical platform that consolidates aggregated data and analysis on mixed movements across key routes . By applying a route-based lens, the platform supports a more comprehensive understanding of movement dynamics along journeys . Routes Monitor brings together data that UNHCR has collected and shared for years and links quantitative trends with protection -focused analysis , helping to identify protection risks and responses along routes. This product provides a snapshot of the latest updates to the Routes Monitor platform , highlighting newly available data, methodological enhancements, and expanded analytical features. It is intended to inform about recent platform developments while supporting consistent, protection -…
+
+--- Report 2: Insecurity Insight (2026-04-20) ---
+Since the start of Insecurity Insight’s Education in Danger open-source monitoring in January 2017 and March 2026, on average 64 incidents per month were identified, covering both political and conflict violence, averaging 2.1 attacks on education every day. The average rose from 32 per month in 2017-2022, to 168 per month in 2025, reflecting both improved open-source reporting as well as a growing frequency in which education comes under attack. At least 458 attacks on education in 25 countries were recorded between January and March 2026. Educational facilities were damaged at least 271 times, 60 teachers were killed, 28 kidnapped and 47 arrested.

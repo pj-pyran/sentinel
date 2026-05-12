@@ -669,8 +669,8 @@ export class SitrepsTab {
         <span class="sitrep-source"><svg class="sitrep-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4 10v7h3v-7H4zm6 0v7h3v-7h-3zM2 22h19v-3H2v3zm14-12v7h3v-7h-3zM11.5 1L2 6v2h19V6l-9.5-5z"/></svg>${this.escapeHtml(sourceText)}</span>
       </div>
       <div class="card-summary ${formatted.isFallback ? 'card-summary-empty' : ''} ${expanded ? 'expanded' : ''}">
-        <p class="card-summary-text">${this.escapeHtml(formatted.text)}</p>
-        ${formatted.canToggle ? `<button class="card-summary-toggle" data-id="${sitrep.id}">${expanded ? 'Collapse summary' : 'Expand summary...'}</button>` : ''}
+        <p class="card-summary-text">${sitrep.type === 'original' ? '' : this.escapeHtml(formatted.text)}</p>
+        ${formatted.canToggle ? `<button class="card-summary-toggle" data-id="${sitrep.id}">${expanded ? 'Collapse' : 'Read more…'}</button>` : ''}
       </div>
       ${sourcesHtml}
       ${(sitrep.file_url || sitrep.url) ? `
@@ -679,6 +679,11 @@ export class SitrepsTab {
         ${sitrep.url ? `<a href="${sitrep.url}" target="_blank" rel="noopener noreferrer" class="sitrep-rw-link" title="View on ReliefWeb"><img src="public/assets/rw-icon.png" alt="ReliefWeb" class="rw-icon"></a>` : ''}
       </div>` : ''}
     `;
+
+    // Inject sanitized HTML body for original reports (body-html from ReliefWeb)
+    if (sitrep.type === 'original' && sitrep.content) {
+      card.querySelector('.card-summary-text').innerHTML = DOMPurify.sanitize(sitrep.content);
+    }
 
     return card;
   }
@@ -722,15 +727,8 @@ export class SitrepsTab {
       return { text: firstLine, canToggle, isFallback: false };
     }
 
-    const cleaned = content
-      .replace(/\[(.*?)\]\((https?:\/\/[^)]+)\)/g, '$1 ($2)')
-      .replace(/\*\*(.*?)\*\*/g, '$1')
-      .replace(/\\\./g, '.')
-      .replace(/\s+/g, ' ')
-      .trim();
-
-    const maxLength = 180;
-    const canToggle = cleaned.length > maxLength;
+    const cleaned = content;
+    const canToggle = true;
 
     if (!canToggle || expanded) {
       return {
@@ -741,7 +739,7 @@ export class SitrepsTab {
     }
 
     return {
-      text: `${cleaned.slice(0, maxLength).trim()}…`,
+      text: cleaned,
       canToggle,
       isFallback: false
     };

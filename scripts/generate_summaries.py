@@ -15,6 +15,7 @@ Run locally:  GITHUB_TOKEN=<pat> python scripts/generate_summaries.py
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -27,7 +28,8 @@ from openai import OpenAI
 SITREPS_PATH = Path('public/data/sitreps.json')
 WINDOW_HOURS = 48        # look back window for source sitreps
 MIN_SOURCES  = 2         # minimum originals needed to produce a summary
-MODEL        = 'gpt-4o-mini'
+# MODEL        = 'gpt-4o-mini'
+MODEL        = 'gpt-4.1-mini'
 
 # ReliefWeb crisis field values that are category labels, not specific events.
 # For these, location is a better grouping key.
@@ -50,19 +52,23 @@ GENERIC_CRISES = {
 }
 
 SYSTEM_PROMPT = (
-    'You are a concise humanitarian analyst. Given a set of situation reports '
-    'for a specific crisis or location, produce a short briefing note.\n\n'
+    'You are a concise humanitarian analyst. Given the input of a set of situation reports '
+    'for a specific crisis or location, produce a short briefing note. Use no material '
+    'outside of this prompt and the specific inputs.\n\n'
     'Format:\n'
     '• Write 3–5 bullet points covering key developments, figures, and needs. '
     'Start each bullet with "• " on its own line.\n'
     '• If there is important context that does not fit in bullets, add a single '
-    'short paragraph (2–4 sentences) after the bullets, separated by a blank line.\n\n'
+    'short paragraph (2–4 sentences) after the bullets, separated by a blank line.'
+    '• However if this format feels very constraining for a particular case, '
+    'you may produce longer output.\n\n'
     'Rules: plain text only — no markdown headers, no bold, no links. '
     'Be factual and objective. If figures conflict between sources, note the range. '
     'Be aware, sitreps are sometimes published at regional level - read carefully and only '
     'include information that clearly applies to the specific country or crisis. '
-    'If the format feels constraining for a particular case, expand outside it. '
     'Always use British English, including date formatting (day before month).'
+    # 'adhere to writing style guide as found at https://some_url.co.uk'
+    # (https://www.ox.ac.uk/public-affairs/style-guide ? not evaluated this source yet)'
 )
 
 
@@ -89,11 +95,15 @@ def today_utc() -> str:
     return datetime.now(timezone.utc).date().isoformat()
 
 
+def strip_html(html: str) -> str:
+    return re.sub(r'<[^>]+>', '', html or '').strip()
+
+
 def build_prompt(label: str, sitreps: list[dict]) -> str:
     parts = [f'Crisis / situation: {label}\n']
     for i, s in enumerate(sitreps, 1):
         parts.append(f'--- Report {i}: {s["source"]} ({s["date"]}) ---')
-        parts.append((s.get('content') or s.get('title') or '').strip())
+        parts.append(strip_html(s.get('content') or s.get('title') or ''))
         parts.append('')
     return '\n'.join(parts)
 
@@ -156,12 +166,21 @@ def main() -> None:
             print(f'  Skipping "{label}": {len(sitreps)} source(s) (need {MIN_SOURCES})')
             continue
 
-        print(f'  Summarising "{label}" from {len(sitreps)} source(s)…', end='', flush=True)
+        print(f'  Summarising "{label}" from {len(sitreps)} source(s) {[s['id'] for s in sitreps]}...', end='', flush=True)
 
         try:
-            content = call_model(client, build_prompt(label, sitreps))
+            prompt = build_prompt(label, sitreps)
+            # Save prompt to a file for debugging
+            Path(f'prompts/{gid}.txt').write_text(prompt)
+            content = call_model(client, prompt)
         except Exception as exc:
-            print(f' ERROR: {exc}', file=sys.stderr)
+            # Azure content filter violation — non-English or sensitive source content
+            # in the prompt triggered the classifier. Skip this group rather than crash.
+            exc_str = str(exc)
+            if 'ResponsibleAIPolicyViolation' in exc_str or 'content_filter' in exc_str:
+                print(f' SKIPPED (content filter): {exc}', file=sys.stderr)
+            else:
+                print(f' ERROR: {exc}', file=sys.stderr)
             continue
 
         # Pick representative location / region from the first sitrep
@@ -176,9 +195,10 @@ def main() -> None:
             'provider':      'ai',
             'type':          'ai-summary',
             'title':         f'Situation Summary: {label}',
-            'source':        'AI Summary',
+            'source':        f'AI Summary by {MODEL}',
             'crisis':        crisis,
             'location':      location,
+            'scope':         None,
             'date':          today,
             'content':       content,
             'url':           None,

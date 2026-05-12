@@ -91,6 +91,9 @@ def load_tag_feedback():
             return {k: v for k, v in data.items() if not k.startswith('_')}
     return {}
 
+# TODO: integrate country data from the database into the classification below. Join `countries`
+# table columns, and potentially add new `admin1` table, which can then also be joined.
+# Then use the resulting list instead of/with the below list for better matching.
 def extract_locations_simple(text):
     """Simple location extraction using common country/region names"""
     locations = []
