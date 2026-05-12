@@ -166,7 +166,7 @@ def main() -> None:
             print(f'  Skipping "{label}": {len(sitreps)} source(s) (need {MIN_SOURCES})')
             continue
 
-        print(f'  Summarising "{label}" from {len(sitreps)} source(s) {[s['id'] for s in sitreps]}...', end='', flush=True)
+        print(f'  Summarising "{label}" from {len(sitreps)} source(s)...', end='', flush=True)
 
         try:
             prompt = build_prompt(label, sitreps)
