@@ -19,6 +19,8 @@
     {"id": "1048", "label": "ICRC"},
     {"id": "2904", "label": "MSF"},
     {"id": "1980", "label": "PAHO"},
-    {"id": "1410", "label": "UNAIDS"}
+    {"id": "1410", "label": "UNAIDS"},
+    {"id": "2689", "label": "UNHRC"},
+    {"id": "2865", "label": "Save the Children"}
   ]
 }

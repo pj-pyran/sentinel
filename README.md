@@ -173,11 +173,16 @@ mapboxgl.accessToken = 'your-mapbox-token';
 - AI summaries may read a multi-country sitrep as concerning 1 country only
 - AI summaries also cannot summarise multi-country crises, e.g. disease outbreaks
 
-## Roadmap
+## Roadmap/to-dos
 
-- [ ] Improve AI summaries, particularly validation of process logic and data integrity
+- [ ] Improve AI summaries:
+  - [ ] Validation of process logic and data integrity
+  - [ ] Handling regional summaries properly (tag in data as regional and ensure model digests information from each country at country level/can provide an accurate regional overview, not inappropriately mixing regional and country-specific info)
+- [ ] Prompt engineering to get the most accurate summaries and most useful
+- [ ] Model selection
 - [ ] Analytics tab with crisis trends and heatmaps
-- [ ] Map geocoding + article markers
+- [ ] Map conifguration + article markers
+- [ ] Investigate other Sitrep sources provided by ReliefWeb
 - [ ] Learning script for tag feedback
 - [ ] Mobile-responsive design improvements
 

@@ -71,17 +71,15 @@ class ReliefWebFetcher(SitrepFetcher):
     def fetch(self):
         source_ids = [int(s['id']) for s in self.sources if s.get('id')]
 
-        # Format = Situation Report; optionally restrict to allowlisted source IDs
-        if source_ids:
-            filter_clause = {
-                'operator': 'AND',
-                'conditions': [
-                    {'field': 'format.name', 'value': 'Situation Report'},
-                    {'field': 'source.id', 'value': source_ids},
-                ],
-            }
-        else:
-            filter_clause = {'field': 'format.name', 'value': 'Situation Report'}
+        # Format = Situation Report, English only
+        filter_clause = {
+            'operator': 'AND',
+            'conditions': [
+                {'field': 'format.name', 'value': 'Situation Report'},
+                {'field': 'language.code', 'value': 'en'},
+                # {'field': 'source.id', 'value': source_ids},
+            ],
+        }
 
         payload = {
             'preset': 'latest',
@@ -97,9 +95,9 @@ class ReliefWebFetcher(SitrepFetcher):
                     'country.name',
                     'disaster.name',
                     'disaster_type.name',
-                    'body',
+                    'body-html',
                     'url_alias',
-                    'file.url',
+                    'file.url'
                 ],
             },
         }
@@ -153,9 +151,22 @@ class ReliefWebFetcher(SitrepFetcher):
         else:
             date = datetime.now(timezone.utc).strftime('%Y-%m-%d')
 
-        # Location (region/subregion annotated in main() from the countries table)
+        # Scope + location
+        # - Named regional/global keyword in title → use matched label directly
+        # - Generic keyword (Regional, Multi-country, Cross-border) → join up
+        #   to 3 country names from the API response (more accurate than the keyword)
+        # - Single-country → use first country name from the API response
+        # (RW tags reports by relevance so the countries array isn't scope-reliable,
+        #  but for explicitly generic-regional titles it's the best available signal)
+        scope, region_label = ReliefWebFetcher._detect_scope(title)
         countries = fields.get('country', [])
-        location = countries[0].get('name', 'Unknown') if countries else 'Unknown'
+        if region_label:
+            location = region_label
+        elif scope == 'regional' and countries:
+            names = [c.get('name') for c in countries[:3] if c.get('name')]
+            location = ', '.join(names) if names else 'Unknown'
+        else:
+            location = countries[0].get('name', 'Unknown') if countries else 'Unknown'
 
         # Crisis / disaster label
         disasters = fields.get('disaster', [])
@@ -167,10 +178,9 @@ class ReliefWebFetcher(SitrepFetcher):
         else:
             crisis = 'Humanitarian Crisis'
 
-        # Body — strip HTML, trim
-        content = self._strip_html(fields.get('body', ''))
-        if len(content) > 800:
-            content = content[:797] + '\u2026'
+        # Body — stored as HTML (body-html is the canonical form from ReliefWeb's CMS)
+        # DOMPurify sanitizes before rendering client-side; strip_html used for AI prompts
+        content = fields.get('body-html') or ''
 
         # File attachment — first item in the file array
         file_list = fields.get('file', [])
@@ -186,6 +196,7 @@ class ReliefWebFetcher(SitrepFetcher):
             'source': publisher,
             'crisis': crisis,
             'location': location,
+            'scope': scope,
             'date': date,
             'content': content or 'No summary available.',
             'url': fields.get('url_alias') or None,
@@ -193,15 +204,40 @@ class ReliefWebFetcher(SitrepFetcher):
         }
 
     @staticmethod
-    def _strip_html(html):
-        if not html:
-            return ''
-        text = re.sub(r'<[^>]+>', '', html)
-        # Strip Markdown bold (**text**) then italic (*text*)
-        text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
-        text = re.sub(r'\*([^*\n]+)\*', r'\1', text)
-        text = re.sub(r'\s+', ' ', text)
-        return text.strip()
+    def _detect_scope(title: str) -> tuple:
+        """Return (scope, region_label).
+
+        region_label is a human-readable location string when the title
+        contains a named geographic region (e.g. 'Horn of Africa'), or None
+        when scope is 'single' or the regional keyword is generic
+        ('Regional', 'Multi-country', 'Cross-border') — in the latter case
+        _normalise falls back to the countries array from the API response.
+        """
+        GLOBAL_RE = re.compile(r'\b(Global|Worldwide|World(?!\s+Food))\b', re.IGNORECASE)
+        # Named geographic regions — usable directly as a location label
+        NAMED_REGIONAL_RE = re.compile(
+            r'\b(Middle East|MENA|West Africa|Western Africa|'
+            r'East Africa|Eastern Africa|Horn of Africa|Central Africa|'
+            r'Southern Africa|Great Lakes|Sahel|Lake Chad|'
+            r'Asia[- ]Pacific|South Asia|Southeast Asia|Southeastern Asia|Central Asia|'
+            r'Latin America|Central America|Caribbean|Americas|'
+            r'Eastern Europe|Western Balkans|Balkans|Pacific Islands)\b',
+            re.IGNORECASE,
+        )
+        # Generic scope keywords — regional, but no useful location in the title
+        GENERIC_REGIONAL_RE = re.compile(
+            r'\b(Regional|Multi[- ]country|Cross[- ]border)\b', re.IGNORECASE
+        )
+        m = GLOBAL_RE.search(title)
+        if m:
+            return 'global', m.group(0)
+        m = NAMED_REGIONAL_RE.search(title)
+        if m:
+            return 'regional', m.group(0)
+        if GENERIC_REGIONAL_RE.search(title):
+            return 'regional', None   # caller should use countries array
+        return 'single', None
+
 
 
 # ---------------------------------------------------------------------------
@@ -254,7 +290,7 @@ def load_country_geo(db_path):
 # ---------------------------------------------------------------------------
 
 _COLS = ('id', 'provider', 'type', 'title', 'source', 'crisis',
-         'location', 'date', 'content', 'url', 'region', 'subregion',
+         'location', 'scope', 'date', 'content', 'url', 'region', 'subregion',
          'rw_id', 'file_url')
 
 
@@ -285,12 +321,12 @@ def upsert_to_db(db_path, sitreps):
                 conn.execute(
                     '''UPDATE sitreps
                        SET title = ?, source = ?, crisis = ?, location = ?,
-                           content = ?, url = ?, region = ?, subregion = ?,
+                           scope = ?, content = ?, url = ?, region = ?, subregion = ?,
                            rw_id = ?, file_url = ?,
                            last_seen_dt = ?
                        WHERE id = ?''',
                     (s['title'], s['source'], s.get('crisis'), s.get('location'),
-                     s.get('content'), s.get('url'), s.get('region'),
+                     s.get('scope'), s.get('content'), s.get('url'), s.get('region'),
                      s.get('subregion'), s.get('rw_id'), s.get('file_url'),
                      now, s['id']),
                 )
@@ -298,13 +334,13 @@ def upsert_to_db(db_path, sitreps):
                 conn.execute(
                     '''INSERT INTO sitreps
                        (id, provider, type, title, source, crisis, location,
-                        date, content, url, region, subregion,
+                        scope, date, content, url, region, subregion,
                         rw_id, file_url,
                         first_seen_dt, last_seen_dt)
-                       VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)''',
+                       VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)''',
                     (s['id'], s.get('provider', 'reliefweb'),
                      s.get('type', 'original'), s['title'], s['source'],
-                     s.get('crisis'), s.get('location'), s['date'],
+                     s.get('crisis'), s.get('location'), s.get('scope'), s['date'],
                      s.get('content'), s.get('url'), s.get('region'),
                      s.get('subregion'), s.get('rw_id'), s.get('file_url'),
                      now, now),
@@ -328,7 +364,7 @@ def export_from_db(db_path, output_file, days=30):
     try:
         rows = conn.execute(
             '''SELECT id, provider, type, title, source, crisis, location,
-                      date, content, url, region, subregion,
+                      scope, date, content, url, region, subregion,
                       rw_id, file_url
                FROM sitreps
                WHERE date >= ?
