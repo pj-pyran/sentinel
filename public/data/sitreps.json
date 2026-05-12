@@ -80,6 +80,181 @@
     "file_url": "https://reliefweb.int/attachments/4974b7e7-edf7-4754-b395-ae6175eda4de/Shabelle%20Riverine%20Flood%20Advisory_11_May_2026.pdf"
   },
   {
+    "id": "ai-crisis-dr-congo--cholera-and-measles-outbreaks--",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: DR Congo: Cholera and Measles Outbreaks - 2013-2026",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "DR Congo: Cholera and Measles Outbreaks - 2013-2026",
+    "location": "Democratic Republic of the Congo",
+    "scope": null,
+    "date": "2026-05-12",
+    "content": "• Between the start of 2026 and epidemiological week 16, DR Congo reported 22,487 suspected cholera cases and 642 deaths, with a case fatality rate of 2.9%, marking a 20.3% increase in cases compared to the same period in 2025.  \n• Cholera cases were recorded across 189 health zones in 21 provinces, up from 98 zones in 14 provinces in 2025, indicating wider geographic spread.  \n• In week 16 of 2026 alone, 1,253 suspected cholera cases and 31 deaths were reported in 95 health zones across 15 provinces, showing an 11.7% rise in cases from the previous week.  \n• The cholera outbreak continues to pose a significant public health challenge with increasing incidence and mortality, highlighting urgent needs for enhanced water, sanitation, hygiene interventions, and medical treatment capacity.  \n\nThe ongoing cholera epidemic in DR Congo is expanding both in case numbers and geographic coverage compared to 2025, with a rising death toll and case fatality rate. This trend underscores the critical need for intensified outbreak response efforts, including improved surveillance, community engagement, and access to clean water and healthcare services to reduce transmission and fatalities.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "WHO"
+    ],
+    "sourceIds": [
+      "rw-4211338",
+      "rw-4211340"
+    ]
+  },
+  {
+    "id": "ai-crisis-somalia--drought---2015-2026",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Somalia: Drought - 2015-2026",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Somalia: Drought - 2015-2026",
+    "location": "Somalia",
+    "scope": null,
+    "date": "2026-05-12",
+    "content": "• As of early 2026, approximately 5 million people in Somalia are affected by prolonged drought conditions, with widespread displacement, livestock losses, and high levels of malnutrition reported.  \n• The failure of the Gu rainy season in 2024, particularly in Somaliland and Puntland, has worsened drought impacts, leading to expanded humanitarian needs across multiple regions.  \n• Early action interventions funded by the IFRC, including WASH initiatives, multi-purpose cash distributions, and early warning dissemination, have been implemented to mitigate drought effects, with ongoing efforts to scale up these responses.  \n• Rising river levels and flash floods have caused additional displacement and infrastructure damage, compounding the humanitarian situation amid persistent drought vulnerability.  \n• External factors such as increased fuel costs and commodity prices, linked to tensions in the Strait of Hormuz, are disrupting aid delivery and reducing purchasing power, exacerbating the crisis.  \n\nThe drought crisis in Somalia remains severe and multifaceted, with climatic shocks and economic pressures intensifying humanitarian needs. Despite early action efforts, the combination of failed rains, flooding, and geopolitical factors continues to challenge response capacities and underscores the urgent requirement for sustained international support.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "IFRC",
+      "OCHA"
+    ],
+    "sourceIds": [
+      "rw-4211529",
+      "rw-4211307"
+    ]
+  },
+  {
+    "id": "ai-location-colombia",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Colombia",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Drought",
+    "location": "Colombia",
+    "scope": null,
+    "date": "2026-05-12",
+    "content": "• An estimated 1.5 million people in Colombia are at risk of flooding between April and June 2026, affecting 276 municipalities across 25 departments.  \n• The highest exposure to flooding is expected in May and June, with priority regions including Chocó, Valle del Cauca, Cauca, the Magdalena River basin, and parts of the Amazon and Orinoquía.  \n• Flooding risks are driven by river overflows and sustained rainfall during the seasonal rainy period.  \n\nColombia faces significant flood-related humanitarian challenges this season, with widespread exposure across diverse geographic regions. Preparedness and response efforts will need to focus on the most vulnerable departments to mitigate impacts on affected populations.",
+    "url": null,
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "OCHA"
+    ],
+    "sourceIds": [
+      "rw-4211510",
+      "rw-4211511"
+    ]
+  },
+  {
+    "id": "ai-location-iran-islamic-republic-of",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Iran (Islamic Republic of)",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Iran (Islamic Republic of)",
+    "scope": null,
+    "date": "2026-05-12",
+    "content": "• WFP is providing food and cash assistance to over 33,000 refugees in 20 settlements across Iran amid rising inflation and worsening household food affordability.  \n• The ongoing crisis in the Strait of Hormuz is causing regional escalation that disrupts food systems, trade routes, and humanitarian access, leading to increased fuel and food prices.  \n• Supply chain and market disruptions due to the Middle East crisis have affected Iran’s logistics, with challenges in transport corridors, airspace, ports, border crossings, and fuel supply chains complicating humanitarian operations.  \n\nThe humanitarian situation in Iran is being impacted by broader regional instability, which is exacerbating economic pressures on vulnerable populations, particularly refugees. Continued disruptions in logistics and trade routes hinder the delivery of aid, while inflation further limits access to basic needs for affected communities.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Logistics Cluster",
+      "WFP"
+    ],
+    "sourceIds": [
+      "rw-4211497",
+      "rw-4211334"
+    ]
+  },
+  {
+    "id": "ai-location-lebanon",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Lebanon",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "scope": null,
+    "date": "2026-05-12",
+    "content": "• Over 1 million displaced people are registered in Lebanon, with 125,621 internally displaced persons (IDPs) hosted in 622 emergency collective shelters as of early May 2026.  \n• Since 2 March, there have been 2,702 fatalities and 8,311 injuries reported, alongside significant population movements including over 321,000 Syrians and nearly 69,000 Lebanese crossing back into Syria.  \n• Despite a formal ceasefire, military activity and attacks have escalated in southern Lebanon, Nabatieh, Western Bekaa, and Beirut’s southern suburbs, causing renewed displacement and complicating humanitarian access.  \n• Healthcare services remain severely disrupted with 155 attacks on health care reported since March, resulting in 104 deaths and 244 injuries among health workers; several hospitals and primary health care centres have closed or are operating with limited capacity.  \n• UNFPA has provided sexual and reproductive health and gender-based violence services to over 80,000 displaced people, but ongoing insecurity and access restrictions continue to hamper humanitarian operations and safe returns.  \n\nThe situation in Lebanon remains highly volatile with the ceasefire fragile and frequently violated. The combination of ongoing hostilities, widespread displacement, and attacks on healthcare infrastructure is exacerbating humanitarian needs and limiting the delivery of essential services. Continued protection of civilians and medical personnel, alongside improved access for aid agencies, is critical.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Health Cluster",
+      "UNFPA",
+      "UNHCR"
+    ],
+    "sourceIds": [
+      "rw-4211473",
+      "rw-4211386",
+      "rw-4211342"
+    ]
+  },
+  {
+    "id": "ai-location-libya",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Libya",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Libya",
+    "scope": null,
+    "date": "2026-05-12",
+    "content": "• On 11 May 2026, violent armed conflict erupted in Zawiya, Libya, involving two armed groups and local authorities, resulting in 1 death, 1 injury, and the displacement of 82 people.  \n• The conflict in Zawiya mirrors similar violence from 1 May 2026, raising concerns about further escalation and repeated outbreaks in the near future.  \n• The deteriorating security situation severely limits safe access and data collection, complicating the assessment of the full humanitarian impact.  \n• Humanitarian volunteers, including those from the Libyan Red Crescent, have been directly targeted, posing additional risks to aid delivery.  \n• In the first quarter of 2026, WFP assisted 145,265 vulnerable Sudanese refugees and host communities in Libya with food, nutrition, and cash support, but funding shortfalls mean only 25% of needs can be met for May and June.\n\nThe ongoing conflict in Zawiya exacerbates an already fragile humanitarian situation in Libya, where vulnerable populations, including refugees, rely heavily on international assistance. The targeting of humanitarian workers and restricted access pose significant challenges to effective aid delivery and protection efforts.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "IFRC",
+      "WFP"
+    ],
+    "sourceIds": [
+      "rw-4211357",
+      "rw-4211336"
+    ]
+  },
+  {
+    "id": "ai-location-somalia",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Somalia",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Flood",
+    "location": "Somalia",
+    "scope": null,
+    "date": "2026-05-12",
+    "content": "• The Shabelle River is at moderate flood risk, with levels at Belet Weyne reaching 6.75 m, exceeding the threshold by 0.25 m and rising weekly by 0.55 m. Levels are significantly above those of 2025 and the long-term average, indicating increased flood risk.  \n• Downstream at Bulo Burte, river levels are rising but remain below the moderate flood-risk threshold, showing active floodwater propagation downstream.  \n• Inter-clan conflict in Laashimo Valley, Sanaag Region, between Damalaxagare and Shimbiraale clans has displaced approximately 9,000 people (1,500 households), predominantly women and children.  \n• The conflict, triggered by competition over water and grazing land amid drought conditions, has led to ongoing insecurity and limited humanitarian access in the area.  \n• Despite government and clan elder efforts, the security situation remains unstable, complicating response and assistance to displaced populations.\n\nThe combined impact of rising flood risks along the Shabelle River and escalating inter-clan conflict in Sanaag Region highlights the multifaceted humanitarian challenges in Somalia. Flooding threatens agricultural livelihoods and infrastructure, while drought-driven resource conflicts exacerbate displacement and insecurity, limiting aid delivery.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "FAO",
+      "UNHCR"
+    ],
+    "sourceIds": [
+      "rw-4211553",
+      "rw-4211411"
+    ]
+  },
+  {
     "id": "rw-4211456",
     "provider": "reliefweb",
     "type": "original",
