@@ -1,5 +1,271 @@
 [
   {
+    "id": "ai-crisis-pacific--dengue-outbreak---2025-2026",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Pacific: Dengue Outbreak - 2025-2026",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Pacific: Dengue Outbreak - 2025-2026",
+    "location": "Tonga",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• Tonga has reported a total of 60 confirmed dengue cases as of 12 May 2026, with 2 new cases since the last update.  \n• The majority of cases are males aged 11 to 14 years, primarily located on Tongatapu Island.  \n• No hospitalisations or dengue-related deaths have been reported during this period.  \n• The circulating dengue virus serotype is DENV-2.  \n\nThe dengue outbreak in Tonga remains concentrated among young males on Tongatapu Island, with no severe cases or fatalities reported so far. Continued monitoring and vector control efforts are essential to prevent escalation.",
+    "url": null,
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Govt. Tonga",
+      "WHO"
+    ],
+    "sourceIds": [
+      "rw-4211681",
+      "rw-4211570"
+    ]
+  },
+  {
+    "id": "ai-crisis-somalia--drought---2015-2026",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Somalia: Drought - 2015-2026",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Somalia: Drought - 2015-2026",
+    "location": "Somalia",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• Light rainfall is forecasted for the Shabelle basin, Banadir, Bay, and coastal parts of Lower Juba, Galgaduud, and Mudug, potentially offering short-term relief for crops and pasture.  \n• Large areas in the North, Northeast, Gedo, and Middle Juba remain dry with high daytime temperatures increasing water demand and heat stress for people and livestock.  \n• The Shabelle River is at high flood risk from Belet Weyne downstream to Afgooye, requiring continued monitoring, while the Juba River is below moderate flood risk but still above long-term averages.  \n• The IFRC allocated CHF 530,533 in August 2024 for early drought response actions, completed by June 2025, but failed rains in Somaliland and Puntland worsened drought conditions, expanding affected areas.  \n• A second IFRC early action phase is underway with a revised budget of CHF 949,378.25, focusing on WASH, multi-purpose cash distributions, and early warning dissemination to mitigate drought impacts.  \n\nDespite some localized rainfall, drought conditions persist across much of Somalia, exacerbated by failed rainy seasons in key regions. Flood risks along the Shabelle River add complexity to the humanitarian situation, requiring integrated responses addressing both drought and flood vulnerabilities.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "FAO",
+      "IFRC"
+    ],
+    "sourceIds": [
+      "rw-4211956",
+      "rw-4211529"
+    ]
+  },
+  {
+    "id": "ai-location-kazakhstan",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Kazakhstan",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Flood",
+    "location": "Kazakhstan",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• Heavy rainfall and hail on 11 May 2026 caused flooding and mudslides in Ala-Buka District, Jalal-Abad Oblast, Kazakhstan.  \n• On 4 May 2026, mudflows triggered by heavy rain affected farmland, internal roads, and irrigation canals in Besh-Tash rural area, Talas District, Talas Oblast, with no reported injuries.  \n• No requests for international assistance have been made by the government or national societies in response to these events.  \n• The IOM Mobility Tracking Matrix report for Q4 2025 provides data on migration trends in Kazakhstan, compiled from government and partner sources, but does not specifically address the recent flooding events.  \n\nRecent heavy rains have caused localized flooding and mudslides impacting agricultural areas and infrastructure in parts of Kazakhstan, though no casualties have been reported and no international aid has been requested. Migration data collection continues through established monitoring systems but is not directly linked to the current natural hazard impacts.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "IFRC",
+      "IOM"
+    ],
+    "sourceIds": [
+      "rw-4211743",
+      "rw-4211655"
+    ]
+  },
+  {
+    "id": "ai-location-mali",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Mali",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Mali",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• On 25 April 2026, coordinated armed attacks occurred in multiple regions of Mali (Kati, Sévaré, Gao, Mopti, Kidal), causing casualties and significant damage to civilian infrastructure including schools, health centres, and telecommunications facilities.  \n• These attacks disrupted essential services: schools in Mopti were closed until 4 May, health services were severely affected in Gao and Kidal, and telecommunications damage hampered humanitarian operations in several regions.  \n• Population displacement was limited but ongoing, with around 600 new refugees registered in Niger and over 100 households displaced internally; overall displacement figures remain high with approximately 415,000 internally displaced persons and nearly 280,000 refugees.  \n• Humanitarian operations are gradually resuming in most areas except Kidal and Menaka, with challenges including fuel shortages, insecurity along key roads, and restricted access impacting the delivery of aid and movement of populations.  \n• UNICEF reports acute humanitarian needs persist due to insecurity, climate stress, and socio-political instability, with millions requiring health, nutrition, education, and protection services; critical assistance has been provided despite constraints, including treatment for severe acute malnutrition, psychosocial support, and primary health care for children and pregnant women.\n\nThe security situation in Mali remains volatile following the April attacks, which have exacerbated existing humanitarian challenges. While aid delivery is recovering in many areas, ongoing insecurity and infrastructure damage continue to restrict access and service provision, particularly in the northern regions of Kidal and Menaka. The large displaced population and detection of vaccine-derived poliovirus highlight the urgent need for sustained humanitarian support.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "OCHA",
+      "UNICEF"
+    ],
+    "sourceIds": [
+      "rw-4211712",
+      "rw-4211566"
+    ]
+  },
+  {
+    "id": "ai-location-middle-east",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Middle East",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Middle East",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• Escalating hostilities in Iran and Lebanon since late February have worsened the humanitarian situation across the Middle East and Asia, impacting over 24 million forcibly displaced people already in the region.  \n• The conflict has triggered refugee returns to Afghanistan and Syria under adverse conditions, increasing protection risks and humanitarian needs among displaced populations and host communities.  \n• An inter-agency emergency response has been launched, including a Flash Refugee Response Plan in Iran targeting 1.65 million refugees and 1 million host community members, and a USD 308.3 million Flash Appeal in Lebanon aiming to assist 1 million people with lifesaving aid and protection.  \n• Preparedness efforts are underway in countries neighbouring Iran to manage potential large-scale refugee flows, focusing on border monitoring and protection readiness, but these efforts face challenges due to limited and unpredictable funding.  \n\nThe ongoing conflict compounds an already fragile humanitarian baseline, with host communities under significant economic and social strain. The success of response and preparedness measures depends heavily on increased and flexible funding to address urgent protection and assistance needs across the region.",
+    "url": null,
+    "region": "Other",
+    "subregion": "",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "UNHCR"
+    ],
+    "sourceIds": [
+      "rw-4211689",
+      "rw-4211706"
+    ]
+  },
+  {
+    "id": "ai-location-sudan",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Sudan",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Flood",
+    "location": "Sudan",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• Sudan faces a severe funding shortfall for Emergency Shelter and Non-Food Items (ES/NFI) in 2026, with only 19.7% of the required US$179.4 million secured, limiting assistance to 1.8 million people out of 15.4 million identified as in need.  \n• Approximately 6.91 million internally displaced persons (IDPs) are at medium to very high risk of flooding across 183 localities, with over 4 million at high or very high risk in 163 localities, amid the approaching rainy season.  \n• The conflict in Sudan has entered its fourth year, marked by escalating violence including drone warfare, leading to increased displacement, strained services, and significant humanitarian funding gaps.  \n• Violence in Blue Nile state has intensified, causing thousands of new displacements, increased protection risks—particularly for women—and further pressure on already overstretched services.  \n• The ongoing Middle East conflict exacerbates Sudan’s crisis by disrupting supply chains, increasing fuel and food prices, delaying aid delivery, and worsening food insecurity.\n\nSudan’s humanitarian situation remains critical as conflict and climatic hazards converge. The combination of escalating violence, displacement, and the imminent rainy season poses heightened risks to vulnerable populations, particularly IDPs living in flood-prone areas. Urgent funding and coordinated disaster risk reduction efforts are essential to mitigate the impact of floods and protect displaced communities.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "CCCM Cluster",
+      "OCHA"
+    ],
+    "sourceIds": [
+      "rw-4211704",
+      "rw-4211606"
+    ]
+  },
+  {
+    "id": "ai-location-world",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: World",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "World",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• The mpox outbreak in Guinea persists with ongoing low-level transmission in urban districts, hindered by ineffective contact tracing, centralised case management, and population movement in Conakry and surrounding areas.  \n• Response efforts in Guinea require decentralising case management, improving contact follow-up, and intensifying interventions in high-transmission urban settings.  \n• Burundi faces a humanitarian crisis with overcrowded reception and refugee sites, resource shortages, rising food insecurity, and increased disease outbreak risks, stressing host communities and limiting service delivery.  \n• Addressing Burundi’s crisis demands scaling up resources, expanding service capacity in high-burden areas, and strengthening integrated humanitarian and public health responses.  \n• Between January 2020 and March 2026, 8,527 incidents of violence and threats occurred at IDP/refugee camps globally, resulting in over 6,300 deaths, 13,000 injuries, and thousands kidnapped or arrested; over half of these incidents involved Israeli strikes on camps in Gaza since October 2023, averaging five incidents daily.  \n\nThe global humanitarian landscape remains challenged by persistent disease outbreaks and protracted crises affecting displaced populations. In Guinea and Burundi, ongoing health and resource constraints exacerbate vulnerabilities, while conflict-related violence continues to severely impact refugee and IDP camps, particularly in Gaza, underscoring the need for sustained, multi-sectoral humanitarian interventions.",
+    "url": null,
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Insecurity Insight",
+      "WHO"
+    ],
+    "sourceIds": [
+      "rw-4211814",
+      "rw-4211868"
+    ]
+  },
+  {
+    "id": "ai-location-occupied-palestinian-territory",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: occupied Palestinian territory",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "occupied Palestinian territory",
+    "scope": null,
+    "date": "2026-05-14",
+    "content": "• Around 700,000 children aged 4-17 in the occupied Palestinian territory have missed nearly three consecutive school years of formal in-person education, with almost no formal schooling since October 2023.  \n• Nearly 98% of school buildings are damaged, over 93% require major rehabilitation or reconstruction, and about 81% were directly hit, rendering many schools unsafe or destroyed.  \n• Approximately 420,000 children have no face-to-face learning opportunities, while only a minority can attend temporary learning spaces; safe access is hindered by debris and explosive hazards blocking routes.  \n• In Gaza, about 800,000 displaced children live in overcrowded, unsanitary conditions with pests and lack of privacy; UNICEF provided safe water to 1 million people, including 470,000 children, via water trucking from January to March 2026.  \n• In the West Bank, settler violence displaced 1,700 Palestinians, including over 750 children, in the first quarter of 2026, surpassing 2025 totals; over 530 incidents were recorded, with protection and mental health support services reaching over 15,000 people, including nearly 8,000 children.  \n\nThe education crisis is severe, with most children out of school due to damaged infrastructure, safety risks, and lack of supplies and teachers. Displacement and violence continue to exacerbate humanitarian needs, particularly in Gaza and the West Bank, where overcrowding, unsafe living conditions, and frequent settler attacks increase vulnerability. Humanitarian responses focus on water provision, protection, psychosocial support, and establishing safe learning spaces despite ongoing challenges.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "UNICEF"
+    ],
+    "sourceIds": [
+      "rw-4211556",
+      "rw-4211558"
+    ]
+  },
+  {
+    "id": "rw-4211899",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Guinea Bissau Country Brief, May 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Guinea-Bissau",
+    "scope": "single",
+    "date": "2026-05-13",
+    "content": "<p>63,112* people assisted between March – April 2026 (47% female)</p>\n<p>398 mt* food distributed between March – April 2026</p>\n<p>USD 7.13M required in the next six months (April – September 2026)</p>\n<p><em>* Preliminary figures</em></p>\n<p><strong>KEY HIGHLIGHTS</strong></p>\n<p>• WFP resumed programme implementation despite a challenging operational environment, ensuring continuity of critical assistance to the most vulnerable populations.</p>\n<p>• The school feeding programme entered a critical phase due to significant funding shortfalls linked to declining Official Development Assistance worldwide. For April – September 2026, a funding gap of 46 percent is increasing the risk of pipeline breaks and disruptions to assistance for schoolchildren.</p>\n<p>• Funding constraints also extend to social protection, limiting support to vulnerable households reliant on safety nets to meet basic needs and cope with internal and external shocks. The activity faces a 96 percent funding gap for the period April – September 2026.</p>\n",
+    "url": "https://reliefweb.int/report/guinea-bissau/wfp-guinea-bissau-country-brief-may-2026",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4211899",
+    "file_url": "https://reliefweb.int/attachments/b6739b39-46b1-40d7-b4ea-6718894fffb5/GWCO_CountryBrief_May2026.pdf"
+  },
+  {
+    "id": "rw-4211905",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Senegal Country Brief, March 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Senegal",
+    "scope": "single",
+    "date": "2026-05-13",
+    "content": "<p>87,903 people assisted in January 2026 (54% female)</p>\n<p>23,570 people assisted in February 2026 (56% female)</p>\n<p>USD 47K cash transferred between January 2026 – February 2026</p>\n<p>USD 3.69 million required in the next six months (March 2026 – August 2026)</p>\n<p><strong>KEY HIGHLIGHTS</strong></p>\n<p>• 44,328 children (56 percent girls) continued to access nutritious school meals five days a week in 279 public primary schools across Matam, Ranérou, Kolda, Salémata and Kédougou, enabled by WFP cash-based transfers disbursed at the end of 2025, ensuring uninterrupted support during January–February.</p>\n<p>• WFP launched preventive nutrition assistance for moderate acute malnutrition (MAM), reaching 2,932 children aged 6–23 months and 2,175 pregnant and breastfeeding women in Salémata and Goudiry.</p>\n<p>• The Salouma Project supported 8,050 youth (71 percent women), through capacity-building and access to offline technical content.</p>\n",
+    "url": "https://reliefweb.int/report/senegal/wfp-senegal-country-brief-march-2026",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4211905",
+    "file_url": "https://reliefweb.int/attachments/b3c91156-279e-431b-aef8-7c0b92de528a/WFP_Senegal_CountryBrief_Mar2026.pdf"
+  },
+  {
+    "id": "rw-4211926",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Lebanon: Flash Update #25 - Escalation of hostilities in Lebanon (as of 11 May 2026)",
+    "source": "OCHA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "scope": "single",
+    "date": "2026-05-13",
+    "content": "<p><em>This report is produced by OCHA Lebanon Office in collaboration with Inter-Sector Coordination Group under 2026 Lebanon Response Plan (LRP) Framework.</em></p>\n<p><strong>KEY FIGURES</strong></p>\n<p>&gt;1,049 K (MOSA) self-registered Internally Displaced People (IDP)</p>\n<p>125,621 (DRM) displaced in collective shelters</p>\n<p>622 (DRM) Shelters</p>\n<p>2,869 (MOPH) people killed</p>\n<p>8,730 (MOPH) people injured</p>\n<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>To date, a total of 8,730 individuals were injured and 2,869 individuals were killed, 10 per cent of which are women.</li>\n<li>Renewed displacement orders announced for at least additional 27 localities, triggering further displacement.</li>\n<li>121 HNS-facilitated movements helped humanitarian partners reach conflict-affected communities in hard-to-reach areas.</li>\n<li>Six additional attacks on healthcare recorded, resulting in five deaths and eight injuries among healthcare service providers.</li>\n<li>Humanitarian operations face growing risks of pipeline breaks, particularly in health and WASH.</li>\n</ul>\n<p><strong>Situation overview</strong></p>\n<p>Despite the announcement of the ceasefire as of 17 April, the <strong>humanitarian situation</strong> in Lebanon remained <strong>highly unstable</strong> during the reporting period, with <strong>continued insecurity</strong> forcing further population displacements, humanitarian access challenges, and undermining prospects for safe returns. <strong>Hostilities continued</strong> to expand across southern Lebanon, with <strong>renewed displacement orders</strong> issued daily. During the reporting period, <strong>six renewed displacement orders</strong> were announced, for <strong>27</strong> <strong>localities</strong>, 90 per cent of which are in the South Governorate, triggering further waves of displacement.</p>\n<p><strong>Attacks on healthcare</strong> <strong>continue unabated.</strong> Since the last reporting period, <strong>six new attacks on healthcare</strong> have been recorded, resulting in <strong>five deaths</strong> and <strong>eight injuries</strong> <strong>among health workers</strong>. Risks to emergency responders and healthcare personnel remain acute. Health facilities in conflict-affected areas continue to operate under severely reduced functionality amid staff shortages, damaged infrastructure, and disrupted supply pipelines. <strong>On 11 May</strong>, paramedics in the town of Toul in Nabatieh Governorate were reportedly targeted by an airstrike while transporting wounded civilians. On the same day, a strike on a health facility in Srifa, South Governorate reportedly killed one and injured four people.</p>\n<p><strong>Displacement patterns remained</strong> <strong>dynamic and uneven across the country</strong>. No large‑scale or sustained returns were observed, particularly in <strong>South Lebanon and Nabatieh governorates</strong>, where insecurity, military presence, damaged infrastructure and unexploded ordnance (UXO) contamination continue to pose significant risks. Overall displacement levels remained elevated, with <strong>continued pressure on collective shelters</strong> and most displaced households residing <strong>outside formal shelter settings</strong>, including in host communities, rented accommodation and informal arrangements. In several governorates the number of people inside collective shelter is <strong>approaching pre-ceasefire announcement peak levels</strong>. Local authorities and partners report that the increase is driven by a combination of newly displaced families and previously displaced households returning to shelters. The continuous redistribution of shelter populations adds significant complexity to data tracking and humanitarian planning across all governorates.</p>\n<p><strong>Access constraints</strong> persist across parts of the South and Nabatieh governorates. <strong>Humanitarian partners face mounting pressure</strong> to simultaneously sustain services in displacement settings and scale up assistance in <strong>hard-to-reach and return areas</strong>. Fragmented referral pathways continue to delay access to secondary and specialized care, while <strong>insufficient funding</strong> <strong>constrains</strong> partners' capacity to maintain essential services, and adapt to rapidly evolving displacement and return dynamics.</p>\n<p><strong>Humanitarian access remains possible</strong>, but increasingly constrained, particularly in southern Lebanon. UXO contamination, damaged roads and bridges, conflict debris, and localized insecurity continued to affect route reliability, delay humanitarian movements, and hinder the restoration of essential services.</p>\n<p><a href=\"https://reliefweb.int/report/lebanon/lebanon-health-sector-emergency-situation-report-issue-10-may-11-2026\">The Health Emergency Situation report</a> identified that since beginning of the escalations 02 March, a total of <strong>155 attacks on healthcare</strong> have caused <strong>104 deaths and 244 injuries</strong> among health personnel, impacting 50 facilities, 88 transport vehicles, and 96 medical supply stocks. These persistent violations underscore the urgent need for the protection of medical personnel and full respect for international humanitarian law.</p>\n",
+    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-25-escalation-hostilities-lebanon-11-may-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4211926",
+    "file_url": "https://reliefweb.int/attachments/a5d564db-3763-41a3-89aa-425a5a9e8666/OCHA_Lebanon_Flash_Update%20No%2025.pdf"
+  },
+  {
+    "id": "rw-4211956",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Somalia Weekly Weather Forecast - Valid From 13 to 19 May 2026",
+    "source": "FAO",
+    "crisis": "Somalia: Drought - 2015-2026",
+    "location": "Somalia",
+    "scope": "single",
+    "date": "2026-05-13",
+    "content": "<p><strong>Forecast Highlight:</strong></p>\n<ul>\n<li><strong>Localized Light Rainfall</strong>: Expect light showers over the Shabelle basin, Banadir, Bay, and coastal sections of Lower Juba, Galgaduud, and Mudug. These &quot;warm-and-wet&quot; conditions may provide short-term relief for crops and pasture.</li>\n<li><strong>Prevailing Dry Conditions</strong>: Large parts of the North, Northeast, Gedo, and Middle Juba will remain dry. High daytime temperatures are expected to increase water demand and sustain heat stress for both people and livestock.</li>\n</ul>\n<p><strong>River Flood Watch</strong></p>\n<ul>\n<li>Shabelle River <strong>(High Risk)</strong>: This remains the primary area of concern. Levels are elevated from Belet Weyne (above moderate risk) downstream through Bulo Burte, Jowhar, Balcad, and Afgooye. Continued flood sensitivity is expected.</li>\n<li>Juba River <strong>(Monitoring)</strong>: While currently below moderate flood-risk thresholds at Dollow and Luuq, levels remain above the long-term mean and require close monitoring.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/somalia/somalia-weekly-weather-forecast-valid-13-19-may-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4211956",
+    "file_url": "https://reliefweb.int/attachments/3630844c-9a99-421e-bf21-cd4bf78f5e80/Somalia_Rainfall_Forecast_13_May_2026.pdf"
+  },
+  {
     "id": "rw-4211814",
     "provider": "reliefweb",
     "type": "original",
@@ -304,260 +570,6 @@
     "subregion": "Southern Asia",
     "rw_id": "4211779",
     "file_url": "https://reliefweb.int/attachments/526814b7-8c56-46d9-b483-28982178c2ad/AIMS_PAK_report_EXT.pdf"
-  },
-  {
-    "id": "ai-crisis-mozambique--floods---dec-2025",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Mozambique: Floods - Dec 2025",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Mozambique: Floods - Dec 2025",
-    "location": "Mozambique",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• Approximately 724,131 people in Mozambique have been affected by severe flooding since late December 2025, with 27 deaths, 147 injuries, and 9 missing reported.  \n• Floods have damaged or destroyed over 201,000 houses and critical infrastructure, including more than 880 km of roads, 228 bridges, 44 water supply systems, and 257 health facilities, severely limiting access to essential services.  \n• Around 32,030 people remain displaced in 39 overcrowded accommodation centres, facing urgent needs in shelter, WASH, health, food, and protection, with ongoing risks of cholera and malaria outbreaks.  \n• Cholera cases have increased by 25%, spreading to six additional districts; over 3.4 million people received oral cholera vaccines, and more than 95,000 people accessed WASH and cholera prevention services.  \n• Nutrition and education interventions reached tens of thousands of children, including treatment for severe acute malnutrition, vitamin A supplementation, provision of learning materials, and mental health support.\n\nThe prolonged flooding has caused widespread destruction of homes, infrastructure, and agricultural assets, severely impacting livelihoods and food security. Despite some reduction in displacement, critical humanitarian needs persist, compounded by the ongoing cyclone season and the risk of disease outbreaks, necessitating continued emergency response and recovery efforts.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "IFRC",
-      "UNICEF"
-    ],
-    "sourceIds": [
-      "rw-4211569",
-      "rw-4211371"
-    ]
-  },
-  {
-    "id": "ai-crisis-pacific--dengue-outbreak---2025-2026",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Pacific: Dengue Outbreak - 2025-2026",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Pacific: Dengue Outbreak - 2025-2026",
-    "location": "Tonga",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• Tonga has reported a total of 60 confirmed dengue cases as of 12 May 2026, with 2 new cases since the last update.  \n• The majority of cases are males aged 11 to 14 years, primarily located on Tongatapu Island.  \n• No hospitalisations or dengue-related deaths have been reported during this period.  \n• The circulating dengue virus serotype is DENV-2.  \n\nThe outbreak appears to be concentrated among young males on the main island, with no severe cases reported so far. Continued monitoring and vector control measures are likely needed to prevent further spread.",
-    "url": null,
-    "region": "Oceania",
-    "subregion": "Polynesia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "Govt. Tonga",
-      "WHO"
-    ],
-    "sourceIds": [
-      "rw-4211681",
-      "rw-4211570"
-    ]
-  },
-  {
-    "id": "ai-location-kazakhstan",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Kazakhstan",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Flood",
-    "location": "Kazakhstan",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• On 11 May 2026, heavy rain mixed with hail caused flooding and mudslides in Ala-Buka District, Jalal-Abad Oblast, Kazakhstan.  \n• On 4 May 2026, heavy rainfall triggered mudflows affecting farmland, internal roads, and irrigation canals in several villages in Talas District, Talas Oblast; no injuries were reported.  \n• The government and national societies have not requested international assistance following these events.  \n• The IOM Mobility Tracking Matrix provides quarterly data on population mobility and vulnerabilities in Kazakhstan, based on multiple government and partner sources, but does not cover all migration topics comprehensively.  \n\nThese recent weather events have caused localized damage to infrastructure and agriculture but have not resulted in casualties or triggered international aid requests. Ongoing monitoring of population mobility and vulnerabilities continues through IOM's system to inform decision-makers on migration trends and needs.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "Central Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "IFRC",
-      "IOM"
-    ],
-    "sourceIds": [
-      "rw-4211743",
-      "rw-4211655"
-    ]
-  },
-  {
-    "id": "ai-location-mali",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Mali",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Mali",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• On 25 April 2026, coordinated attacks by armed groups targeted multiple locations in Mali, including Kati, Sévaré, Gao, Mopti, and Kidal, causing casualties and significant damage to civilian infrastructure such as schools, health centres, and telecommunications facilities.  \n• These attacks disrupted essential services, leading to school closures in Mopti and severely limiting access to health care in Gao and Kidal. Telecommunications damage in several regions has hindered humanitarian operations.  \n• Population displacement remains relatively limited following the attacks, with 600 new refugees registered in Niger and over 100 households displaced internally; however, overall displacement figures remain high with approximately 415,000 internally displaced persons and nearly 280,000 refugees in Mali.  \n• Humanitarian assistance is gradually resuming across most of the country except in Kidal and Menaka regions, where insecurity and fuel shortages continue to impede operations and supply chains.  \n• UNICEF reports ongoing severe humanitarian needs driven by insecurity, climate stress, and socio-political instability, with millions requiring health, nutrition, education, and protection services. In early 2026, over 41,000 children received treatment for severe acute malnutrition, and primary health care reached over 600,000 children under five despite operational challenges.\n\nThe security situation in Mali remains volatile, with armed group activities causing disruptions to essential services and humanitarian access. While displacement levels have not sharply increased post-attacks, the cumulative impact of insecurity, infrastructure damage, and logistical constraints continues to exacerbate humanitarian needs across multiple sectors. Continued support and access facilitation are critical to address urgent health, nutrition, education, and protection requirements.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "OCHA",
-      "UNICEF"
-    ],
-    "sourceIds": [
-      "rw-4211712",
-      "rw-4211566"
-    ]
-  },
-  {
-    "id": "ai-location-middle-east",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Middle East",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Middle East",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• Hostilities since late February in Iran and Lebanon have escalated humanitarian needs across the Middle East, affecting over 24 million forcibly displaced people already in the region. Protection risks and displacement pressures are rising, with new cross-border movements and internal displacements reported.\n\n• In Lebanon, over 1 million displaced people are registered, with 125,621 internally displaced in collective shelters and 2,702 fatalities since 2 March. Despite a ceasefire, military activity and evacuation orders continue, causing ongoing population movements and insecurity.\n\n• The Lebanon Flash Appeal requests USD 308.3 million but is only 38% funded, limiting the capacity to meet urgent needs in shelter, food security, protection, health, and WASH. The Ministry of Social Affairs has requested a three-month extension of the appeal to maintain assistance amid persistent instability.\n\n• In Iran, the Flash Refugee Response Plan targets 1.65 million refugees and 1 million host community members, with WFP supporting over 33,000 refugees across 20 settlements amid rising inflation and food insecurity.\n\n• Regional food systems and humanitarian access are disrupted by the Strait of Hormuz crisis and conflict escalation, driving up fuel and food prices and worsening food affordability for vulnerable populations. Cross-border humanitarian corridors like the Jordan–Lebanon route are critical for sustaining emergency food deliveries.\n\nThe humanitarian situation in the Middle East is deteriorating rapidly due to renewed conflict, economic strain, and displacement. Existing responses are underfunded and stretched thin, with urgent needs in protection, food security, shelter, and health. Continued insecurity and population movements complicate aid delivery, highlighting the need for increased funding and coordinated regional preparedness.",
-    "url": null,
-    "region": "Other",
-    "subregion": "",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "UNHCR",
-      "WFP"
-    ],
-    "sourceIds": [
-      "rw-4211689",
-      "rw-4211706",
-      "rw-4211473",
-      "rw-4211497"
-    ]
-  },
-  {
-    "id": "ai-location-somalia",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Somalia",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Flood",
-    "location": "Somalia",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• The Shabelle River is at moderate flood risk, with levels at Belet Weyne reaching 6.75 m, exceeding the threshold by 0.25 m and rising by 0.55 m in the past week. Levels downstream at Bulo Burte and Jowhar are also rising or near flood-risk thresholds, indicating potential flood propagation.\n\n• Flood levels in May 2026 are significantly above those recorded in May 2025 and the long-term average, increasing vulnerability to flooding impacts in affected areas.\n\n• Inter-clan conflict in Laashimo Valley, Sanaag Region, between Damalaxagare and Shimbiraale clans has displaced approximately 9,000 people (1,500 households), predominantly women and children, due to disputes over water and grazing land amid ongoing drought conditions.\n\n• The security situation in Laashimo Valley remains unstable, limiting humanitarian access and complicating response efforts for the displaced population.\n\nThe combination of rising flood risks along the Shabelle River and conflict-driven displacement in Sanaag Region highlights the complex humanitarian challenges in Somalia. Flooding threatens livelihoods and infrastructure in central regions, while drought and resource competition exacerbate tensions and displacement in the north. Access constraints and insecurity hinder timely assistance to vulnerable populations.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "FAO",
-      "UNHCR"
-    ],
-    "sourceIds": [
-      "rw-4211553",
-      "rw-4211411"
-    ]
-  },
-  {
-    "id": "ai-location-sudan",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Sudan",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Flood",
-    "location": "Sudan",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• Sudan faces a severe funding shortfall for Emergency Shelter and Non-Food Items in 2026, with only 19.7% of the required US$179.4 million secured, limiting assistance to 1.8 million people out of 15.4 million in need.  \n• Approximately 6.91 million internally displaced persons (IDPs) are at medium-to-very-high risk of flooding across 183 localities, with over 4 million at high or very high risk in 163 localities, exacerbated by the upcoming rainy season.  \n• The ongoing conflict, now in its fourth year, has intensified violence, including drone warfare, causing widespread displacement and straining already limited services and humanitarian funding.  \n• Escalating violence in Blue Nile state has displaced thousands, increasing protection risks, particularly for women, and further burdening local services.  \n• The Middle East conflict has compounded Sudan’s crisis by disrupting supply chains, increasing fuel and food prices, delaying aid delivery, and worsening food insecurity.  \n\nSudan’s humanitarian situation is deteriorating due to the protracted conflict and environmental hazards. The combination of escalating violence, displacement, and the imminent rainy season poses significant risks to vulnerable populations, especially IDPs living in flood-prone areas. Urgent funding and coordinated disaster risk reduction efforts are critical to mitigate the impact of these overlapping crises.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "CCCM Cluster",
-      "OCHA"
-    ],
-    "sourceIds": [
-      "rw-4211704",
-      "rw-4211606"
-    ]
-  },
-  {
-    "id": "ai-location-syrian-arab-republic",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Syrian Arab Republic",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Syrian Arab Republic",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• In 2025, UNRWA recorded 1,727 protection cases among Palestine refugees in Syria, an 8% increase from 2024, with women and girls representing 82% of cases. Gender-based violence (GBV) accounted for 48% of cases, primarily psychological and emotional abuse.  \n• Protection risks are concentrated in rural Damascus (49% of cases), the Dera’a region in the South, and Yarmouk refugee camp, where reporting increased by 231%. Complex cases requiring multi-programme intervention rose by 231%.  \n• Legal status and civil documentation barriers increased by 300%, affecting children, women, and returnees. Forced/early marriage cases declined but remain a concern. UNRWA services focus on psychosocial support (44%), health (28%), social protection (15%), and education (11%).  \n• Inflation in Syria surged to 6.5% month-on-month in February 2026, driven by exchange rate volatility, rising transport and energy costs, and governance changes, especially in Ar-Raqqa, Deir-Ezzor, and Al-Hasakeh. Housing, utilities, and food prices rose sharply, severely impacting household purchasing power.  \n• Average wages remain well below poverty lines, with public sector employees earning less than 63% of the abject poverty line, highlighting a severe income crisis amid rising living costs.\n\nThe protection situation for Palestine refugees in Syria is deteriorating, with increasing severity of cases and significant barriers to legal documentation. Concurrently, the broader economic environment is marked by high inflation and inadequate incomes, exacerbating vulnerabilities and limiting access to essential goods and services. Humanitarian support is critical to sustain protection services and address the growing needs amid economic hardship.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "SCPR",
-      "UNRWA"
-    ],
-    "sourceIds": [
-      "rw-4211602",
-      "rw-4211402"
-    ]
-  },
-  {
-    "id": "ai-location-world",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: World",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "World",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• The mpox outbreak in Guinea persists with ongoing low-level transmission in urban districts, hindered by weak contact tracing, centralised case management, and population movement in Conakry, requiring decentralised response and targeted urban interventions.  \n• Burundi faces a constrained humanitarian response due to overcrowded refugee sites, resource gaps, and rising food insecurity, increasing risks of disease outbreaks and malnutrition, necessitating expanded service capacity and integrated health and humanitarian efforts.  \n• Since 2020, over 8,500 incidents of violence have targeted IDP/refugee camps globally, including 6,320 deaths and 13,153 injuries; more than half of these incidents involved Israeli strikes on camps in Gaza from October 2023 to March 2026, averaging five incidents daily.  \n• Attacks on health care have escalated worldwide, with over 18,000 incidents recorded since 2016 across 51 countries, including 3,800 health worker deaths; explosive weapons and drones increasingly damage facilities and personnel, severely undermining health services during conflicts and outbreaks.  \n• Notable recent attacks include killings and abductions of health workers in conflict-affected countries such as the Democratic Republic of the Congo, Mali, Nigeria, South Sudan, Sudan, Myanmar, Pakistan, Ukraine, and the occupied Palestinian territory, with health infrastructure frequently targeted and maternal health services disrupted.  \n\nGlobal health care in conflict zones is under severe threat from violence, with increasing use of drones and explosive weapons exacerbating damage to facilities and personnel. This violence compounds challenges in managing disease outbreaks and humanitarian crises, as seen in Guinea and Burundi. Protection of health care remains critical to sustaining essential services amid ongoing conflicts and displacement.",
-    "url": null,
-    "region": "Global",
-    "subregion": "Global",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "Insecurity Insight",
-      "WHO"
-    ],
-    "sourceIds": [
-      "rw-4211814",
-      "rw-4211868",
-      "rw-4211433"
-    ]
-  },
-  {
-    "id": "ai-location-occupied-palestinian-territory",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: occupied Palestinian territory",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "occupied Palestinian territory",
-    "scope": null,
-    "date": "2026-05-13",
-    "content": "• Approximately 700,000 children in the occupied Palestinian territory have missed nearly three consecutive school years of formal in-person education, with nearly all children out of school since October 2023 due to widespread damage to school infrastructure and unsafe conditions.  \n• In Gaza, around 800,000 children remain displaced in overcrowded and unsanitary conditions, while UNICEF has provided safe water to 1 million people and enabled 195,000 children to access safe learning and healing spaces in early 2026.  \n• Over 530 incidents of settler violence were recorded in the West Bank in the first quarter of 2026, displacing 1,700 Palestinians including more than 750 children, with protection and mental health services reaching over 15,000 people.  \n• Food insecurity persists in Gaza, with one in five families surviving on only one meal per day due to limited humanitarian and commercial inflows; WFP is scaling up cash transfers and private-sector support despite ongoing restrictions and lack of critical supplies.  \n• The hazardous environment, including 60 million tons of debris and unexploded ordnance, severely restricts safe access to education and other services, requiring clearance and risk assessments before learning spaces can reopen.\n\nThe humanitarian situation in the occupied Palestinian territory remains dire, with prolonged displacement, restricted access to education, and food insecurity exacerbated by ongoing violence and infrastructure destruction. Efforts to restore basic services and protect vulnerable populations face significant operational challenges due to security risks and logistical constraints.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "UNICEF",
-      "WFP"
-    ],
-    "sourceIds": [
-      "rw-4211556",
-      "rw-4211558",
-      "rw-4211494"
-    ]
   },
   {
     "id": "rw-4211689",
@@ -8871,192 +8883,5 @@
     "subregion": "Western Asia",
     "rw_id": "4207430",
     "file_url": "https://reliefweb.int/attachments/0ac679d5-4e44-54db-98e9-674b5b11f410/UNHCR%20Syria%20Lebanon%20influx%20Update%202.pdf"
-  },
-  {
-    "id": "rw-4207058",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Escalation in the Middle East and Beyond Situation Report (10 April 2026)",
-    "source": "IOM",
-    "crisis": "Humanitarian Crisis",
-    "location": "Iran (Islamic Republic of)",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "Situation overview The escalation in the Middle East and beyond is unfolding in a highly fluid mobility context, with no mass cross border displacement observed to date but increasing risks for civilians across affected countries. While movements across the region remain largely routine or precautionary, conflict related insecurity, particularly inside the Islamic Republic of Iran, has already caused extensive internal movement, with over 115,000 civilian infrastructures damaged, 250,000 people directly affected, and up to one million movements potentially linked to the current context across more than 20 provinces. At the same time, Lebanon and Syria continue to face heavy displacement pressures, Afghanistan is emerging as a key regional transit corridor, and neighboring countries such…",
-    "url": "https://reliefweb.int/report/iran-islamic-republic/escalation-middle-east-and-beyond-situation-report-10-april-2026",
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "rw_id": "4207058",
-    "file_url": "https://reliefweb.int/attachments/67052c52-f306-4935-b9b4-2d948ece2bc6/Middle%20East%20and%20Beyond%20-%20External%20Sitrep%2004102026.pdf"
-  },
-  {
-    "id": "rw-4207071",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "WFP Cuba March Country Brief",
-    "source": "WFP",
-    "crisis": "Humanitarian Crisis",
-    "location": "Cuba",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "SITUATION OVERVIEW • Cuba's long-standing policy of providing free and universal access to basic services has historically reduced poverty and hunger. People's right to food is enshrined in the constitution approved in 2019, which also sets the goal of achieving food security for all people, reinforced by the law on food sovereignty and food and nutrition security of 2022. • Progress toward the 2030 Agenda has suffered significant setbacks due to the cumulative socioeconomic impacts of COVID‑19, compounded by limited access to international financial institutions and rising inflation. These challenges are further exacerbated by an ongoing energy crisis, declining access to basic services, and recurrent devastating natural hazards. Together, these factors have reduced the availability of…",
-    "url": "https://reliefweb.int/report/cuba/wfp-cuba-march-country-brief",
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "rw_id": "4207071",
-    "file_url": "https://reliefweb.int/attachments/b3c4b5f7-0184-4521-9973-f1de20eaa7e7/CUCO_CB_March2026.pdf"
-  },
-  {
-    "id": "rw-4207091",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "WFP Burkina Faso Country Brief, March 2026",
-    "source": "WFP",
-    "crisis": "Humanitarian Crisis",
-    "location": "Burkina Faso",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "SITUATION OVERVIEW • Burkina Faso faces a complex crisis driven by insecurity, climate shocks, and structural vulnerabilities. According to the latest preliminary Government analysis, 1.7 million people are affected by food insecurity, including 223,000 in emergency situations. Reliance on rainfed agriculture heightens exposure to climate variability. Insecurity remains the primary driver of humanitarian needs, with 2 million internally displaced persons (latest official figure, March 2023), limiting access to land, markets, and essential services. • The April 2026 national food security and nutrition analysis projects 1.66 million people will face Crisis (IPC Phase 3+) or worse during the June–August 2026 lean season, compared to 2.3 million in 2025. While the situation shows an overal…",
-    "url": "https://reliefweb.int/report/burkina-faso/wfp-burkina-faso-country-brief-march-2026",
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "rw_id": "4207091",
-    "file_url": "https://reliefweb.int/attachments/96b0e997-9606-40c8-a838-30089cc1cacc/WFP_BurkinaFaso_CountryBrief_Mar2026.pdf"
-  },
-  {
-    "id": "rw-4207108",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "DTM Sudan Displacement and Return Snapshot - Update 4 (12 April 2026)",
-    "source": "IOM",
-    "crisis": "Humanitarian Crisis",
-    "location": "Sudan",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "The Sudan Displacement and Return Snapshot includes information on internally displaced persons and returnees, based on data from nearly 13,000 locations, 185 localities, and all 18 states in Sudan. Main Findings: - An estimated 8,936,175 internally displaced persons (IDPs) were recorded across 11,493 locations in 185 localities, in all 18 states. - An estimated 3,994,019 returned individuals were recorded across 2,822 locations in 73 localities, in nine states. - Eighty-three per cent of returnees moved back from internal displacement, while 17 per cent returned from locations abroad. - Over half of IDPs (55%) and returnees (52%) were children under 18-years-old. Key Trends: - The number of IDPs decreased by 23 per cent compared to the highest-recorded displaced population, and by one …",
-    "url": "https://reliefweb.int/report/sudan/dtm-sudan-displacement-and-return-snapshot-update-4-12-april-2026",
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "rw_id": "4207108",
-    "file_url": "https://reliefweb.int/attachments/79cdcc01-a317-57cd-8184-22449d2dbcfd/DTM%20Sudan%20Displacement%20and%20Return%20Snapshot%20%284%29.pdf"
-  },
-  {
-    "id": "rw-4207119",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "WFP Nigeria Country Brief, March 2026",
-    "source": "WFP",
-    "crisis": "Humanitarian Crisis",
-    "location": "Nigeria",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "SITUATION OVERVIEW • Nigeria is faced with multi-dimensional challenges that have led to a major food crisis. • The northern states—once surplus food production areas are grappling with recurring conflicts and a widescale humanitarian crisis. 3.6 million people in the northeast, northwest and northcentral states are internally displaced. • The conflict is also jeopardizing local food systems by disrupting agricultural livelihoods in the affected areas. • Perennial occurrences of extreme weather events such as floods and dry spells further constrain food production contributing to the dual challenges of high food prices and low purchasing power particularly for conflictaffected households already suffering from limited livelihood options. • 6.4 million children (0-59 months) within the n…",
-    "url": "https://reliefweb.int/report/nigeria/wfp-nigeria-country-brief-march-2026",
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "rw_id": "4207119",
-    "file_url": "https://reliefweb.int/attachments/49e71d9b-2016-4bb0-90c4-6504b9d6d6f2/WFP_Nigeria_CountryBrief_Mar2026.pdf"
-  },
-  {
-    "id": "rw-4207189",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Pacific Syndromic Surveillance System Weekly Bulletin / Système de Surveillance Syndromic dans le Pacifique - Bulletin Hebdomadaire: W14 2026 (Mar 30 - Apr 05) [EN/FR]",
-    "source": "WHO",
-    "crisis": "Pacific: Dengue Outbreak - 2025-2026",
-    "location": "World",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "No summary available.",
-    "url": "https://reliefweb.int/report/world/pacific-syndromic-surveillance-system-weekly-bulletin-systeme-de-surveillance-syndromic-dans-le-pacifique-bulletin-hebdomadaire-w14-2026-mar-30-apr-05-enfr",
-    "region": "Global",
-    "subregion": "Global",
-    "rw_id": "4207189",
-    "file_url": "https://reliefweb.int/attachments/de2b33c2-abde-4d7b-9947-206b031c3ec6/PSSS%20Weekly%20Bulletin%20-%20W14%202026%20%28Mar%2030-Apr%2005%29.pdf"
-  },
-  {
-    "id": "rw-4206998",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Indonesia | Floods - Early Action Protocol Operations Update, 10 April 2026 (EAP No.: EAP2024ID01 | Operation No.: MDRID027)",
-    "source": "IFRC",
-    "crisis": "Indonesia: Floods and Landslides - Nov 2025",
-    "location": "Indonesia",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "EARLY ACTION PROTOCOL Summary of revisions to the operation During Readiness Year 1 (2025), the Indonesian Red Cross (PMI/Palang Merah Indonesia) made substantial progress in implementing readiness activities, including capacity building for staff and volunteers, socialization of the Early Action Protocol (EAP) framework to branches, strengthening of operational arrangements for EAP activation, and advancement of procurement and prepositioning of key early action items. However, due to operational and contextual challenges including the prioritization of a major flood emergency response in Sumatra triggered by Cyclone Senyar where several planned activities, particularly workshops and procurement processes, could not be fully completed within the initial timeframe. This Operation Update…",
-    "url": "https://reliefweb.int/report/indonesia/indonesia-floods-early-action-protocol-operations-update-10-april-2026-eap-no-eap2024id01-operation-no-mdrid027",
-    "region": "Asia",
-    "subregion": "South-eastern Asia",
-    "rw_id": "4206998",
-    "file_url": "https://reliefweb.int/attachments/81984f56-8094-435e-914f-0449a8753765/MDRID027OU1.pdf"
-  },
-  {
-    "id": "rw-4207000",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Cameroon | River Flooding - Summary of the Early Action Protocol, March 2026 (EAP No.: EAP2025CM02 | Operation No.: MDRCM044)",
-    "source": "IFRC",
-    "crisis": "Flood",
-    "location": "Cameroon",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "SUMMARY OF THE EARLY ACTION PROTOCOL The IFRC's Disaster Relief Emergency Fund (DREF) has approved a total of CHF 949,997 for the implementation of the Cameroon Red Cross Red Cross River Flood Early Action Protocol. The approved amount is distributed as follows: CHF 205,762 for preparedness activities, CHF 280,872 for the pre-positioning of supplies and CHF 463,363 for the implementation of early intervention measures once trigger thresholds are reached. These allowances come from the \"Anticipation\" pillar of the DREF, under the call code MDR00001. Unallocated contributions to DREF are strongly encouraged to ensure the availability of funds for the implementation of the early action protocols currently underway in d'élaboration. The Cameroon Red Cross (CRC) Early Intervention Protocol (…",
-    "url": "https://reliefweb.int/report/cameroon/cameroon-river-flooding-summary-early-action-protocol-march-2026-eap-no-eap2025cm02-operation-no-mdrcm044",
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "rw_id": "4207000",
-    "file_url": "https://reliefweb.int/attachments/f07ee2ad-b870-4d66-8113-17dc3b1bd032/MDRCM044EAP%20.pdf"
-  },
-  {
-    "id": "rw-4207001",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Afghanistan Flood 2026 - DREF Operation (MDRAF021)",
-    "source": "IFRC",
-    "crisis": "Afghanistan: Floods - Mar 2026",
-    "location": "Afghanistan",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "Description of the Event Date of event 30-03-2026 What happened, where and when? Beginning on 26 March 2026, heavy and sustained rainfall triggered devastating flash floods across multiple regions of Afghanistan. The flooding continued through early April 2026, with meteorological forecasts indicating persistent rainfall patterns throughout the period. These weather conditions followed an already challenging winter and coincided with the spring thaw season, when snowmelt from mountainous areas compounded rainfall-driven flooding in low-lying regions, creating particularly hazardous conditions for riverine and valley communities. The floods affected communities across 22 provinces spanning all major regions of the country, including Kabul, Parwan, Kapisa, and Logar in the central region;…",
-    "url": "https://reliefweb.int/report/afghanistan/afghanistan-flood-2026-dref-operation-mdraf021",
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "rw_id": "4207001",
-    "file_url": "https://reliefweb.int/attachments/230fc7b5-e111-42cc-aa60-63d14fcc43a3/MDRAF021.do.pdf"
-  },
-  {
-    "id": "rw-4207002",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Congo Cholera outbreak 2026 - DREF Operation (MDRCG028)",
-    "source": "IFRC",
-    "crisis": "Congo: Cholera Outbreak - Jul 2025",
-    "location": "Congo",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "Description of the Event Date when the trigger was met 26-04-2026 What happened, where and when? The Republic of Congo is currently experiencing an ongoing cholera outbreak that began in July 2025 and remains active as of March 2026, characterized by sustained transmission and a high case fatality rate. While cholera cases have been reported since last year, the current situation represents a new resurgence, characterized by a recent peak in cases and deaths, as highlighted in SITREP 36, as well as a persistently high case fatality rate (8.5%), significantly above emergency thresholds. As of 26 March 2026, a cumulative total of 1,074 cases (998 suspected and 76 confirmed) and 91 deaths have been reported, corresponding to a case fatality rate of 8.5%, significantly exceeding the emergen…",
-    "url": "https://reliefweb.int/report/congo/congo-cholera-outbreak-2026-dref-operation-mdrcg028",
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "rw_id": "4207002",
-    "file_url": "https://reliefweb.int/attachments/40adafb0-10ab-4e95-a3b9-6c3ffbd49c07/MDRCG028do.pdf"
-  },
-  {
-    "id": "rw-4207044",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "WFP Zambia Country Brief, March 2026",
-    "source": "WFP",
-    "crisis": "Humanitarian Crisis",
-    "location": "Zambia",
-    "scope": "single",
-    "date": "2026-04-13",
-    "content": "KEY HIGHLIGHTS - In February, WFP assisted 146,800 people with food and nutrition assistance, distributing1,247 metric tons of food and USD 67,175 through cash-based transfers. - Collaboration with Government is strengthening nutrition, climate-smart agriculture, and shock-responsive social protection systems. Expanding social behavioural change (SBC), IYCF, digital advisory tools, and anticipatory frameworks presents opportunities for partners to reinforce national capacities. - Improving last-mile delivery and resilience infrastructure is central to long-term food and nutrition security. Priorities include market access and warehousing upgrades, water harvesting expansion, production unit completion, and timely drought recovery interventions. IN NUMBERS 146,805 people assisted in Febr…",
-    "url": "https://reliefweb.int/report/zambia/wfp-zambia-country-brief-march-2026",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "rw_id": "4207044",
-    "file_url": "https://reliefweb.int/attachments/dbc8e105-93c2-46e0-a35e-c1d10a6a8e9d/WFP-0000173058.pdf"
   }
 ]
