@@ -1,9 +1,22 @@
 Crisis / situation: Lebanon
 
---- Report 1: Action Against Hunger (2026-05-14) ---
+--- Report 1: IOM (2026-05-14) ---
+KEY FIGURES
++1,049,000 IDPs Reported by the Ministry of Social Affairs (as of 01 April)
+127,210 IDPs in collective sites (as of 11 May)
+628 Active collective sites (as of 11 May)
+48,500+ Migrants displaced (IOM DTM estimate)
++451,000 Cross-border movements from Lebanon to Syria* (between 02 March and 20 April)
+CONTEXT
+The operational environment in Lebanon remains highly volatile, with renewed insecurity further undermining already fragile ceasefire conditions. Airstrikes and recent displacement orders, primarily in southern suburbs of Beirut, South Lebanon and Nabatieh, triggered additional movements. These developments have reinforced a pattern of repeated and precautionary displacement, as affected populations continue to move in response to shifting security dynamics rather than pursuing sustainable return options.
+Movement trends remained uneven across the country, with some areas such as Aley, Chouf, and Saida experiencing increased pressure due to new arrivals, while others such as Kesrwane, Baalbek, and El Meten recording departures from collective sites. In many cases, movements appear to be temporary or exploratory, with families navigating uncertain conditions and limited visibility on the status of their areas of origin. This fluidity continues to complicate planning efforts and places sustained pressure on hosting arrangements, both within and outside collective sites.
+At the same time, humanitarian operations are facing growing constraints linked to access challenges in parts of southern Lebanon, particularly in the South and Nabatieh governorates, as well as deteriorating service environments. Damage to infrastructure, insecurity along access routes, and disruptions to supply chains are increasingly affecting the continuity of assistance and the ability of IOM and partners to respond at scale. Concerns are also emerging around the sustainability of essential services, particularly in critical sectors such as health and water, sanitation and hygiene (WASH), where pipeline breaks and resource shortages are anticipated if conditions persist.
+The cumulative impact of these dynamics is placing additional strain on already overstretched systems and communities, with risks of further service disruptions and reduced access to assistance. In this context, maintaining operational continuity and ensuring the availability of essential services remains critical to mitigating the immediate humanitarian consequences of the crisis and preventing further deterioration to the situation.
+
+--- Report 2: Action Against Hunger (2026-05-14) ---
 The report presents Action Against Hunger’s field findings from March to May 2026 on the deteriorating nutrition and health situation among infants, young children, and pregnant and lactating women amid the ongoing crisis in Lebanon. It highlights key concerns related to disrupted infant and young child feeding practices, maternal nutrition, unsafe shelter conditions, and gaps in nutrition support coverage.
 
---- Report 2: OCHA (2026-05-13) ---
+--- Report 3: OCHA (2026-05-13) ---
 This report is produced by OCHA Lebanon Office in collaboration with Inter-Sector Coordination Group under 2026 Lebanon Response Plan (LRP) Framework.
 KEY FIGURES
 &gt;1,049 K (MOSA) self-registered Internally Displaced People (IDP)
