@@ -1,6 +1,22 @@
 Crisis / situation: Lebanon
 
---- Report 1: Health Cluster (2026-05-17) ---
+--- Report 1: Health Cluster (2026-05-18) ---
+Situation Update
+Despite the ceasefire, attacks on healthcare continue. Since the last reporting period, five incidents have been recorded, resulting in two deaths and ten injuries among healthcare workers. Since the ceasefire took effect, a total of 18 attacks has been reported, causing 12 deaths and 28 injuries. Overall, since 2 March, 164 incidents have led to 110 deaths and 259 injuries among healthcare personnel. These incidents continue to occur despite the protected status of healthcare under International Humanitarian Law (IHL). Their persistence raises serious concerns regarding compliance with the core IHL principles of distinction, proportionality, and precaution, which obligate parties to safeguard civilians and essential services, including medical care. The impacts remain heavily concentrated in southern areas, particularly Nabatiyeh (53%) and the South (36%), with additional cases reported in Bekaa, Baalbek-Hermel, Mount Lebanon governorates, and Beirut Southern Suburbs. The scale, persistence, and geographic concentration of these attacks underscore the urgent need to uphold IHL obligations, protect healthcare services, and ensure accountability for violations. Health service availability remains severely constrained due to extensive facility closures and limited operational capacity. Three hospitals and 42 PHCCs remain closed, while an additional six PHCCs provide restricted services only, mainly for chronic disease management and emergencies. Health sector partner has conrmed the arrival of the third shipment of lifesaving reprodutive health supplies in Lebanon via the European Union Humanitarian Air Bridge and in close coordination with the Ministry of Public health and Ministry of Social Aairs. Funded by the UN’s Central Emergency Response Fund (CERF), this cargo includes 68 inter-agency kits designed to provide 12,500+ women and girls with Safe births &amp; emergency obstetric care, clinical management of rape &amp; GBV survivor care, essential family planning services and Lifesaving blood transfusions. Preliminary ndings from the Partners’ Capacity Assessment indicate that 11 operational partners continue to provide life-saving health services in South of Litani, with 37 partners active nationwide. Demand remains extremely high, with signicant reliance on humanitarian assistance, especially for trauma care, critical medications (anesthetics, oncology treatments, and oxygen), NCD management, and emergency and inpatient care services
+
+--- Report 2: AMEL (2026-05-18) ---
+Over this two-month period, Amel reached 101,581 people across 8 governorates, through 19 Primary Healthcare Centres, 14 Mobile Medical Units, and a multi-sectoral health, protection and education response across 187 sites, including 110 collective shelters.
+Key highlights include:
+
+51,399 health services provided, including 30,982 primary healthcare consultations
+20,329 people reached through protection activities (GBV, MHPSS, Child Protection)
+19,780 children reached through education and recreational activities
+11,957 individuals reached through relief item distributions
+1,748 People With Specific Needs identified and prioritized
+
+The report also outlines the challenges ahead, including critical funding gaps, damaged facilities in Haret Hreik, Borj El Brajneh and Khiam, and the urgent need to scale up our response to reach more than 100,000 people per month.
+
+--- Report 3: Health Cluster (2026-05-17) ---
 Situation overview
 Impact of ongoing airstrikes
 • Since 8 May 2026, the security situation in Lebanon has remained highly volatile, with continued airstrikes, ongoing hostil-ities, and renewed displacement despite the ceasefire announced on 17 April 2026.
@@ -19,7 +35,7 @@ Casualties and injuries overview
 • 9% of the total casualties are children, 209 children are dead, and 823 children are injured. Fig 3. Shows age distribution of casualties.
 • Nationality data shows that 11,241 casualties (94%) were Lebanese, 422 casualties (4%) were Syrian, 144 casualties (1%) were Palestinian, and 132 casualties (1%) from other nationalities, Fig 4.
 
---- Report 2: OCHA (2026-05-16) ---
+--- Report 4: OCHA (2026-05-16) ---
 HIGHLIGHTS
 
 To date, 2,896 have been killed and 8,824 injured since 2 March.
