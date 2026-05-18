@@ -1,8 +1,8 @@
 Crisis / situation: Timor-Leste
 
---- Report 1: IFRC (2026-05-15) ---
+--- Report 1: IFRC (2026-05-18) ---
 Risk Analysis
-Moderate to heavy rainfall occurred over a three-day period from 10 to 13 May 2026 in Dotic Village, Manufahi Municipality, as well as in Lautem, Viqueque, and Covalima municipalities. The rainfall caused rivers to overflow, resulting in flooding in Dotic Village (Manufahi) and in Tazhilin and Raimea areas of Covalima Municipality. The CVTL has activated the Early Action Protocol (EAP) in Manufahi Municipality to mitigate the impact of the overflowing Weberek River in Dotic Village. As rainfall continues in Manufahi, the number of evacuated people is expected to increase. Additionally, the Timor-Leste Meteorology Office has forecast continued heavy rainfall in Manufahi Municipality through 15 May 2026. Based on the latest updates, the CVTL team may consider ceasing anticipatory early actions and transitioning to a response operation should the flooding situation worsen.
+Moderate to heavy rainfall occurred over a three-day period from 10 to 13 May 2026 in Dotic Village, Manufahi Municipality, as well as in Lautem, Viqueque, and Covalima municipalities. The rainfall caused rivers to overflow, resulting in flooding in Dotic Village (Manufahi) and in Tazhilin and Raimea areas of Covalima Municipality. The CVTL has activated the Early Action Protocol (EAP) in Manufahi Municipality to mitigate the impact of the overflowing Weberek River in Dotic Village. As rainfall continues in Manufahi, the number of evacuated people is expected to increase. Additionally, the Timor-Leste Meteorology Office forecast continued rainfall in Manufahi Municipality through 15 May 2026. Based on the latest updates and the actual situation in Dotic Village, the moderate rainfall forecasted by the Meteorology Office has not caused any significant impact on Dotic Village or the surrounding communities. In light of this, the CVTL team proceeded with the initial plan to deactivate the anticipatory action at 01:00 a.m. local time, officially ceasing early anticipatory activities and concluding its services at the evacuation center.
 Request For Assistance
 Government Requests International Assistance: No
 NS Requests International Assistance: No
@@ -12,32 +12,27 @@ Actions taken by RCRC
 General
 Other
 Summary
-Coordination with NS for any technical and funding support
+Coordination meeting
 Actions taken by Federation
 General
-Support NS advanced preparedness actions
+Movement Coordination
 Monitor Situation
-Support Activation of Early Action Protocol
+Interagency Coordination
 Summary
-Supporting BDRT team and Activation Manager set up the CEA system at the evacuation center and throughout the whole activation program, by ensuring that community are the key partner of the early action protocol activation. additionally, supporting and participating the coordination with external partner for the transitioning of early action protocol
+Support Manufahi branch for deactivation of early action activities and jointly with BDRT support on relief distribution as well as reintegrated evacuated families return to their residences
 Actions taken by National Society
 General
 Other
-WASH
-Shelter
-Public Awareness Raising &amp; Sensitization
-Food Security &amp; Livelihoods
-Evacuation
-Activation / Mobilization of Volunteers
-Activation of Early Action Protocol
 Summary
-• Alert the forecast information using the loudspeaker • CVTL deployed BDRT 13 (F5, M7) and 4 Watsan Team member • CVTL coordinated with CPA for joint response (evacuation and assessment) for additional 54 household that at risks • Joint evacuation for 22 families in Dotic village • Distribution of shelter basic equipment and hot meals for evacuated families • Carry out evacuation center management plan with evacuees • Implementing CEA with FGD method
+• Distributing food and nonfood items to the affected families • Demobilize BDRT and WatSan Material to the Manufahi branch • handed over the management evacuation center to the Civil Protection Authority • reintegrated evacuated families return to their residences
 Actions taken by others
-- CPA, local police, and Municipal Secretariat, distributed food items - CPA and CVTL continue to encourage the community at risks area to evacuate anticipate upcoming heavy intense rain - Local Leader continuing provide essential services to the evacuees at evacuation center such as encourage community to understand the forecasted rain and damaged that might result from such heavy intense rain The President of CPA has oriented the Municipality Commander to jointly monitor the situation and take action.
+- with support from CVTL BDRT team distributing food and nonfood items - dismissed/close evacuation center
 
---- Report 2: IFRC (2026-05-15) ---
-EARLY ACTION PROTOCOL ACTIVATION
-Activation Overview
-The Cruz Vermelha de Timor-Leste (CVTL) has activated its simplified Early Action Protocol for flood.
-Moderate rainfall occurred two days from Sunday 10th to 12th of May 2026 in Dotic Village Manufahi Municipality. The rain resulted in an overflow river inundating Dotic Village. Moreover, on 12 May 2026 National Directorate of Meteorological and Geophysics forecasted heavy intense to extreme rain from 12th to 14th of May that will likely result in a rise of water level and possibility flood from overflow river (please refer to the table below). This forecast has met trigger 2 statement” The second trigger will be reached when a 3-day weather forecast from DNMG issues a red warning (extreme rain) in any of the target municipalities for two consecutive days. This means all the relevant pre agreed early actions will be triggered in the respective municipalities that are likely to receive rainfall with a cumulative total of more than 200mm in next 72 hours.”
-CVTL Manufahi Branches deployed staff and volunteer to the affected area, in collaboration with Local leader, and local police CVTL evacuating the affected people (children, pregnant women, elderly and people with disability) to the neighbor houses that considered safer. disseminate information to the community avoid risk areas (hills and river) and encourage community to evacuate to safer places. This is partial activation in Manufahi and Covalima municipalities, according to the forecast for a duration of three days. As of 13 May 2026, NDMG also provide WhatsApp communication forecasting to the general public in the national territory that the conditions of the atmosphere for today will continue to be unstable, here &quot; rain will continue to with sufficient intensity to extreme (~ 20 mm) mainly in the South and Other Municipalities rain intensity will vary from light to moderate.
+--- Report 2: WFP (2026-05-18) ---
+KEY HIGHLIGHT
+• The Government of Timor-Leste, with support from WFP, launched a data-driven initiative using machine learning and a national registry to strengthen social protection and improve maternal and child nutrition.
+IN NUMBERS
+106,588 people targeted in the EU-funded project Strengthening Social Inclusion and Nutrition in Timor-Leste
+106,063 Schoolchildren &amp; Children Under
+525 Farmers
+USD 0.3M (May – OCT 2026) net funding
