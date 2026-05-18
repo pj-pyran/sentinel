@@ -1,14 +1,25 @@
 Crisis / situation: Middle East
 
---- Report 1: UNHCR (2026-05-12) ---
-Overview
-Escalating hostilities across Asia and the Middle East have led to a deterioration in the humanitarian situation. The affected areas already host 24.3 million forcibly displaced people, many of whom, alongside host communities, face significant protection risks and humanitarian needs.
-With limited funding, many countries are struggling to meet existing needs, making it increasingly difficult to absorb additional pressures and support newly displaced populations.
-Protection needs are rising, alongside heightened risk of internal displacement, new cross-border outflows, and onward movements to neighbouring countries.
-An inter-agency emergency response has been launched to address urgent needs across the region. In Iran, the Flash Refugee Response Plan targets 1.65 million Afghan and Iraqi refugees and others in need of international protection, alongside 1 million host community members and 150,000 Afghans of other status. In Lebanon, a USD 308.3 million Flash Appeal aims to support 1 million people with lifesaving assistance and protection.
+--- Report 1: WHO (2026-05-18) ---
+CRISIS IN NUMBERS
+115 million people in need of humanitarian aid in the Region (48% of global total) prior to the current conflict
+US$ 30.3 million required for WHO Middle East conflict flash appeal (12% funded)
+US$ 633 million required for WHO’s regional health emergency appeals (49% funded)
+KEY HIGHLIGHTS (as of 14 May)
+• Attacks on health care in Lebanon continue to occur despite the ceasefire announcement on 17 April. As of 13 May 2026, WHO has verified 15 attacks on health care, resulting in 12 deaths and 21 injuries. In just one week, from 6-12 May, WHO verified 10 attacks on health care, including attacks on four emergency medical service centres, resulting in seven paramedic deaths, 14 injuries and damage to 12 ambulances.
+• Since the ceasefire on 17 April, 381 deaths and 1141 injuries have been reported in Lebanon as of 13 May, bringing cumulative reported casualties since 2 March to 2883 deaths and 8787 injuries, with the highest burden recorded in El Nabatieh and South governorates. As of 12 May, 127,721 internally displaced people are living in 629 collective shelters across Lebanon.
+• As of 5 May, UNHCR reported that 371,753 people had crossed from Lebanon into Syria since the start of conflict escalations on 2 March.
+• In Syria, the number of confirmed measles cases since the beginning of 2026 has reached 98, mostly from Hasaka, Deir Ez-Zor and Aleppo, with the increase linked to immunity gaps, population movement and overcrowded living conditions. Between 9 April and 3 May, 170 suspected Hepatitis A cases were reported in Mahjah, Daraa governorate, mainly affecting children aged 10–14 years and linked to contaminated drinking water, inadequate sewage infrastructure and inconsistent chlorination.
+• In Iraq, delays in shipment of vaccines and immunization supplies due to suspension or limitation of flights continue to pose a risk to stock availability. The number of confirmed Crimean-Congo haemorrhagic fever (CCHF) cases has increased to 40 across 10 provinces since the start of 2026, including 3 deaths.
+• In Yemen, regional instability and localized insecurity continue to affect humanitarian operations, placing additional pressure on fragile health services, logistics and supply chains, particularly in frontline and high-risk areas including Al Dhale, Taiz and Aden.
 
---- Report 2: UNHCR (2026-05-12) ---
-REGIONAL OVERVIEW
-Since late February, escalating hostilities in Iran and Lebanon have triggered humanitarian consequences with impact across the region, including refugee returns in adverse circumstances to Afghanistan and Syria. Events are unfolding against an already fragile humanitarian baseline, with over 24 million forcibly displaced people hosted across the wider region prior to the current escalation, alongside host communities under significant economic and social strain.
-Inter agency emergency response is underway to address urgent needs. In Iran, the Flash Refugee Response Plan targets refugees and others in need of international protection alongside affected host communities. In Lebanon, a Flash Appeal complements the broader response under the Lebanon Response Plan to deliver life saving assistance and protection, including to Syrian refugees. In Afghanistan, the funding requirement for the returns response is outlined under the Humanitarian Needs &amp; Response Plan.
-UNHCR and partners have been working across countries neighbouring Iran to strengthen preparedness for possible large-scale refugee flows, in support of national authorities. Preparedness measures are in place, including border monitoring, reception and protection readiness, but these arrangements remain highly dependent on flexible and predictable funding in an increasingly constrained resource environment.
+--- Report 2: WFP (2026-05-17) ---
+Highlights
+April 2026
+
+Global food prices increased moderately compared to the start of the Middle East crisis, with Hormuz-related energy and geopolitical developments adding upward pressure. Vegetable oils stand out in particular, driven largely by strong biofuel demand.
+Crude oil prices have risen sharply, 57 percent for WTI and 52 percent for Brent, since the conflict began. Annually both prices increased by 81 percent. Local gasoline prices increased by at least 15 percent in 17 countries since the start of the Middle East crisis; 11 countries experienced increases between 5 and 15 percent.
+Local diesel prices increased by at least 15 percent in 13 countries; 19 countries experienced increases between 5 and 15 percent.
+Fertilizer prices rose after the Strait of Hormuz was blocked, causing urea and sulfur price increases comparable to those seen after the 2022 Ukraine conflict. Although the ceasefire raised expectations of a Strait of Hormuz reopening, shipping flows recovered only marginally as security risks continued, with prices remaining above pre-conflict levels.
+15 countries experienced year-on-year food inflation of at least 15 percent; 8 countries experienced year-on-year food inflation between 10 and 15 percent. 36 countries experienced year-on-year food inflation between 5 and 10 percent.
+7 currencies are flagged as hotspots or in alert, indicating annual value losses that are unusually high, rapidly accelerating or both.
