@@ -1,19 +1,19 @@
 Crisis / situation: Mali
 
---- Report 1: OCHA (2026-05-12) ---
-This report was produced by OCHA based on information shared by humanitarian partners, national and regional authorities. It covers the period from 25 April to 10 May 2026
-Highlights
+--- Report 1: WFP (2026-05-19) ---
+368,627 people assisted in Mar-Apr 2026
+(53% female)*
+63,135 mt food distributed*
+USD 3.2M cash transferred*
+USD 30.6M required in the next six months (May – Oct 2026)
+* Preliminary figures
+KEY HIGHLIGHTS
+• As of 30 April, WFP resumed Programme Criticality level 1 (PC1) lifesaving assistance for 40,000 vulnerable people in Mopti and Timbuktu following security-related suspensions, underscoring its ability to restart rapidly despite constraints under the “stay and deliver” principle.
+• As of 7 May, WFP reached over 30,000 vulnerable Malians, including IDPs and refugees, with emergency food and nutrition assistance.
+• Ahead of the 2026 lean season, 1.6 million people are projected to face acute food insecurity (IPC Phase 3+) between June and August, driven by insecurity, climate shocks, displacement, and funding gaps.
 
-On 25 April, armed groups staged simultaneous attacks across Mali, resulting in casualties and damages to civilian infrastructures
-Limited population displacements have been reported, with 600 people newly registered as refugees in Niger and over 100 households displaced internally
-Humanitarian operations are gradually resuming
-
-Situation overview
-On 25 April 2026, armed groups staged coordinated attacks targeting Kati, Sévaré, Gao, Mopti and Kidal. While the final toll of the attacks remains to be confirmed, significant damage to civilian infrastructure has been reported by humanitarian partners. In Mopti region, the facilities of at least five schools were damaged, leading to the suspension of classes across the region until 4 May. In Gao, armed groups targeted a community health centre, while the offices of the regional health directorate in Kidal were also attacked. These attacks severely affected access to essential health services for vulnerable populations. Critical telecommunications infrastructure was also damaged in Rhaous (Tombouctou region), Tessit (Gao region), Ménaka and Kidal, hampering humanitarian operations. Humanitarian partners also expressed concerns over fuel shortages and the presence of armed groups along key road axes, complicating populations’ movements and supply of essential staple food. Following the attacks, UNHAS operated several special flights to Tombouctou and Gao on 2 and 3 May before resuming regular flights on 7 May. Overall, humanitarian assistance across sectors has progressively resumed in most of the country, except for Kidal and Menaka regions.
-
---- Report 2: UNICEF (2026-05-12) ---
-Highlights
-
-In the first quarter of 2026, Mali’s humanitarian crisis remained severe, driven by insecurity, climate stress, and socio-political uncertainty. Armed violence continued to affect humanitarian operations, with access constrained by insecurity, movement restrictions, and disruptions in fuel supply, limiting service delivery in high-need areas.
-While displacement levels remained relatively stable—at around 415,000 internally displaced persons and nearly 280,000 refugees—pressure on basic services persisted. Humanitarian needs remained acute, with millions requiring health, nutrition, education, and protection services. The detection of circulating vaccine-derived poliovirus type 2 (cVDPV2) in Ménaka in late January led UNICEF to activate Polio Emergency procedures.
-Despite funding and access constraints, UNICEF and its partners delivered critical assistance, including treatment for over 41,000 children with severe acute malnutrition, access to learning for more than 15,000 children, psychosocial support to nearly 31,000 people, and primary health care reaching 624,517 children under five and 101,682 pregnant women.
+--- Report 2: UNFPA (2026-05-17) ---
+The humanitarian environment in Mali is facing a severe contraction in access and operational space. The Government of Mali has temporarily suspended all humanitarian flights, which is restricting the movement of humanitarian personnel, disrupting the delivery of critical supplies, and paralyzing field operations. In addition, a newly introduced 10% government tax on the project budgets of all UN agencies, non-governmental organizations, and non-profit associations is significantly reducing the funding available for essential humanitarian programming at a time when organizations are already confronting acute funding shortfalls.
+Violence continues to escalate in the city of Léré, which is under a strategic siege by Jama'at Nusrat al-Islam wal-Muslimin. The siege is exacerbating protection risks, including sexual violence against women and girls. The Timbuktu Region—which includes Léré—recorded a 77% increase in gender-based violence (GBV) cases between January and March 2026 compared with the same period in 2025. The siege is also severely disrupting access to essential sexual and reproductive health (SRH) services. The blockade has had particularly serious consequences for obstetric emergencies, with all vehicle movement into and out of Léré prohibited, making emergency referrals no longer possible.
+Disease outbreaks are further compounding the crisis. The diphtheria outbreak continues to worsen, with health authorities reporting a 72% increase in cases between October 2025 and March 2026. Meanwhile, 31 confirmed cases of mpox and two related deaths have been recorded, primarily in Bamako and Koulikoro. Both diseases pose serious risks to pregnant women and newborns, including miscarriage, stillbirth, and premature birth.
+UNFPA is responding to the urgent and escalating SRH and GBV needs in Mali. In March, 5,027 women and adolescent girls received SRH services, while 6,681 people benefited from GBV prevention, mitigation, and response activities.
