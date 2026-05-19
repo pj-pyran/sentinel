@@ -1,6 +1,13 @@
 Crisis / situation: Sudan
 
---- Report 1: WFP (2026-05-18) ---
+--- Report 1: UNHCR (2026-05-19) ---
+Situation Overview
+
+Security conditions in the Kordofan and Darfur states are highly volatile, with persistent hostilities, aerial strikes, and criminal incidents resulting in civilian casualties, further displacement, and challenges in sustaining humanitarian aid delivery.
+On 24 April, a UNHCR truck transporting emergency shelter kits to Tawila, North Darfur State was struck in a drone attack, resulting in the complete destruction of the assistance intended for over 1,300 forcibly displaced families. The driver escaped unharmed. Such incidents undermine humanitarian response, restrict access to vulnerable communities, and delay the delivery of life-saving support.
+The cross-border access through Adré border crossing point with Chad has been extended until 30 June 2026, supporting the continued delivery of humanitarian assistance into the Darfur regions.
+
+--- Report 2: WFP (2026-05-18) ---
 Highlights
 Market and Food Security Overview - (April 2025) The monthly and annual percentage changes in the prices of key commodities and the WFP Local Food Basket (LFB) are summarized below:
 
@@ -10,7 +17,7 @@ Wheat Flour: SDG 3,980 /kg ( 17.5 % MoM, 47 % YoY)
 Goat: SDG 268,815/head ( 22.4 MoM, 83 % YoY)
 Groundnuts: SDG 172,417/kantar ( 45.8 % MoM, 189 % YoY)
 
---- Report 2: Insecurity Insight (2026-05-18) ---
+--- Report 3: Insecurity Insight (2026-05-18) ---
 Data from Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 28 April 2026:
 
 749 attacks on health care recorded
