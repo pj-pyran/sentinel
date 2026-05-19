@@ -1,11 +1,22 @@
 Crisis / situation: Sudan
 
---- Report 1: CCCM Cluster (2026-05-12) ---
-The ES/NFI Cluster in Sudan faces a critical funding gap for 2026, with only US$35.3 million of the required US$179.4 million secured—leaving coverage at just 19.7%. As the rainy season approaches, 15.4 million people are identified as needing Emergency Shelter and Non-Food Items assistance, though only 1.8 million are targeted and 1.6 million prioritized under current constraints. Flooding, waterlogging, wind damage, and fire risks are expected to intensify the challenges faced by displaced populations, especially as conflict, overcrowding, and insecure tenure complicate the situation. Analysis shows that about 6.91 million IDPs are exposed to medium-to-very-high flood risk across 183 localities, including 1,220 mapped IDP sites, and over 4 million of these are at high or very high risk in 163 localities. Disaster risk reduction, shelter reinforcement, and site safety are urgent priorities, and immediate action is essential to protect vulnerable communities before the rains begin.
+--- Report 1: WFP (2026-05-18) ---
+Highlights
+Market and Food Security Overview - (April 2025) The monthly and annual percentage changes in the prices of key commodities and the WFP Local Food Basket (LFB) are summarized below:
 
---- Report 2: OCHA (2026-05-12) ---
-HIGHLIGHTS
+WFP Local Food Basket: SDG 2,474 /1 unit ( 17.9 % MoM, 37 % YoY)
+Sorghum: SDG 1,572/kg ( 23.3 MoM, 22 % YoY)
+Wheat Flour: SDG 3,980 /kg ( 17.5 % MoM, 47 % YoY)
+Goat: SDG 268,815/head ( 22.4 MoM, 83 % YoY)
+Groundnuts: SDG 172,417/kantar ( 45.8 % MoM, 189 % YoY)
 
-Middle East conflict compounds Sudan’s humanitarian crisis, disrupting supplies, raising fuel and food costs, delaying aid and worsening hunger.
-Sudan’s war enters fourth year, with escalating violence and drone warfare, displacement, strained services and humanitarian funding shortfalls.
-Escalating violence in Blue Nile displaces thousands, strains services and heightens protection risks, especially for women.
+--- Report 2: Insecurity Insight (2026-05-18) ---
+Data from Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 28 April 2026:
+
+749 attacks on health care recorded
+207 health workers killed, 15 kidnapped and 126 arrested
+Health facilities damaged over 210 times
+57 attacks where armed drones affected health care
+51 attacks on maternal health care services
+
+View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
