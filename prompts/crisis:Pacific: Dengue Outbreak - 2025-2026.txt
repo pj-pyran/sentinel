@@ -1,12 +1,12 @@
 Crisis / situation: Pacific: Dengue Outbreak - 2025-2026
 
---- Report 1: Govt. Tonga (2026-05-12) ---
-HIGHLIGHTS:
-• A total of 60 confirmed cases since the last report; including 2 new case.
-• Age group, gender, and island distribution remain unchanged, with the majority of cases reported among age group 11 -14years, predominantly male, and highest in Tongatapu Island.
-• No cases required hospitalization during this reporting period.
-• No Dengue- related death reported to date.
-• Dengue virus serotype 2 (DENV-2)
-
---- Report 2: WHO (2026-05-12) ---
+--- Report 1: WHO (2026-05-19) ---
 No summary available.
+
+--- Report 2: Govt. Tonga (2026-05-18) ---
+HIGHLIGHTS:
+• A total of 62 confirmed dengue fever cases since the last report; including 2 new cases.
+• Age group, gender, and island distribution remain unchanged, with the majority of cases reported among age group 11 – 14years, predominantly male, and highest in Tongatapu Island.
+• One case is currently hospitalized at Princess Fusipala Hospital, Ha’apai.
+• No dengue- related death reported to date.
+• Dengue virus serotype 2 (DENV-2).
