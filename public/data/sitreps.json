@@ -1,5 +1,364 @@
 [
   {
+    "id": "ai-crisis-dr-congo--ebola-outbreak---may-2026",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: DR Congo: Ebola Outbreak - May 2026",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "DR Congo: Ebola Outbreak - May 2026",
+    "location": "Democratic Republic of the Congo",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• The 17th Ebola outbreak in the Democratic Republic of Congo (DRC), caused by the Bundibugyo strain, was declared on 15 May 2026 in Ituri Province, with 8 confirmed cases, 393 suspected cases, and 105 suspected deaths reported across at least nine health zones as of 16 May 2026.\n• The outbreak has spread to Goma, where a confirmed case linked to Ituri was detected, prompting the closure of the border with Rwanda and complicating response efforts and humanitarian access.\n• The Bundibugyo strain lacks a licensed vaccine, increasing challenges for containment compared to previous Zaire strain outbreaks; regional coordination involving DRC, Uganda, WHO, Africa CDC, and partners is ongoing to strengthen surveillance, contact tracing, and community engagement.\n• Uganda confirmed one imported fatal case with no local transmission yet, and has activated preparedness and surveillance measures, especially in border districts, leveraging prior Ebola response experience.\n• The outbreak occurs amid ongoing insecurity, armed conflict, displacement, and weak health infrastructure in eastern DRC, with numerous attacks on healthcare and humanitarian actors reported since January 2025, further complicating the response.\n\nThe 17th Ebola outbreak in DRC follows the recent 16th outbreak in Kasai Province, which ended in December 2025 after 64 cases and 45 deaths. The new outbreak’s location in a conflict-affected region with high population movement and limited health resources poses significant risks of wider spread within the Great Lakes region. The absence of a vaccine for the Bundibugyo strain and cross-border population flows heighten the urgency for coordinated regional preparedness and response efforts.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Health Cluster",
+      "IFRC"
+    ],
+    "sourceIds": [
+      "rw-4212599",
+      "rw-4212352"
+    ]
+  },
+  {
+    "id": "ai-crisis-pacific--dengue-outbreak---2025-2026",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Pacific: Dengue Outbreak - 2025-2026",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Pacific: Dengue Outbreak - 2025-2026",
+    "location": "World",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• Since the last update, Tonga has reported 62 confirmed dengue fever cases, including 2 new cases as of 18 May 2026.  \n• The majority of cases are males aged 11 to 14 years, with the highest concentration on Tongatapu Island.  \n• One patient is currently hospitalised at Princess Fusipala Hospital in Ha’apai.  \n• No deaths related to dengue have been reported so far.  \n• The circulating dengue virus serotype is DENV-2.  \n\nThe dengue outbreak in Tonga remains concentrated among young males on Tongatapu Island, with limited hospitalisations and no fatalities reported to date. Continued monitoring and targeted vector control efforts are essential to prevent further spread.",
+    "url": null,
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Govt. Tonga",
+      "WHO"
+    ],
+    "sourceIds": [
+      "rw-4212616",
+      "rw-4212420"
+    ]
+  },
+  {
+    "id": "ai-location-afghanistan",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Afghanistan",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Afghanistan",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• WHO distributed 400 essential health kits, reaching over 50,000 beneficiaries, and conducted 845 rapid diagnostic tests among returnees, detecting COVID-19 positivity at 16.9% and dengue at 26.8%. A team of 28 social mobilizers engaged more than 37,000 people in high-risk districts of Badakhshan, with 60% female beneficiaries.\n\n• The Afghani exchange rate appreciated slightly to AFN 63.6/USD in mid-May, remaining stronger than last year and the three-year average. Domestic markets functioned with generally adequate commodity availability, supported by harvests and trade through western and northern corridors, despite ongoing transport costs and geopolitical risks affecting supply chains.\n\n• National average food prices mostly declined in the second week of May, with wheat grain, wheat flour, high-quality rice, cooking oil, and pulses showing decreases. However, prices for these commodities remain above last year’s levels by 7–41%. Vegetable prices also declined due to improved seasonal availability, though tomato and potato prices remain above last year’s levels, while onion prices are significantly lower.\n\n• Diesel and fertilizer prices remained relatively stable but continue to be substantially higher than last year, increasing production costs for agriculture. Labour availability improved slightly to 1.9 days per week but remains below previous years due to limited employment opportunities and increased competition.\n\nAfghanistan continues to face complex humanitarian challenges with health risks from infectious diseases and fluctuating food security conditions. While market functioning and commodity supplies show some resilience, elevated prices for key food and agricultural inputs, combined with weak labour markets, sustain vulnerabilities for many households, particularly in high-risk and remote areas.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "WFP",
+      "WHO"
+    ],
+    "sourceIds": [
+      "rw-4212422",
+      "rw-4212350"
+    ]
+  },
+  {
+    "id": "ai-location-lebanon",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Lebanon",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• Since 2 March, 164 attacks on healthcare in Lebanon have caused 110 deaths and 259 injuries among healthcare workers, with 18 attacks reported since the ceasefire, resulting in 12 deaths and 28 injuries.  \n• Healthcare facilities remain severely impacted: three hospitals and 42 primary healthcare centres (PHCCs) are closed, with six PHCCs offering limited services mainly for chronic and emergency care.  \n• Health partners report 37 organisations active nationwide, with 11 providing life-saving services south of the Litani River; critical needs include trauma care, essential medications, non-communicable disease management, and emergency inpatient care.  \n• Amel NGO reached over 101,000 people across eight governorates in two months, delivering more than 51,000 health services, protection support to over 20,000 people, education and recreation to nearly 20,000 children, and relief items to almost 12,000 individuals.  \n• Challenges include critical funding shortages, damaged health facilities in Haret Hreik, Borj El Brajneh, and Khiam, and the urgent need to expand response capacity to meet the high demand for services.\n\nDespite the ceasefire, attacks on healthcare continue, predominantly in southern Lebanon, severely limiting access to essential medical services. The ongoing violence and infrastructure damage exacerbate humanitarian needs, underscoring the urgency of protecting healthcare under international law and scaling up humanitarian assistance to address critical gaps.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "AMEL",
+      "Health Cluster"
+    ],
+    "sourceIds": [
+      "rw-4212423",
+      "rw-4212486"
+    ]
+  },
+  {
+    "id": "ai-location-middle-east",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Middle East",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Middle East",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• Lebanon’s telecommunications network is operational but fragile, with reduced coverage in the south due to damaged infrastructure and limited repair access; displacement is increasing network congestion and degrading service quality.  \n• Since 2 March 2026, over 371,000 people have crossed from Lebanon into Syria, adding pressure to humanitarian systems; internally, 127,721 displaced persons remain in 629 collective shelters across Lebanon.  \n• Despite the ceasefire on 17 April, attacks on health care in Lebanon continue, with 15 verified attacks causing 12 deaths and 21 injuries; cumulative conflict casualties since 2 March total 2,883 deaths and 8,787 injuries.  \n• In Syria, outbreaks of measles (98 cases) and suspected Hepatitis A (170 cases) are linked to population movement and poor living conditions; in Iraq, vaccine supply delays and rising Crimean-Congo haemorrhagic fever cases (40 cases, 3 deaths) pose health risks.  \n• WHO’s Middle East conflict flash appeal requires US$30.3 million but is only 12% funded; broader regional health emergency appeals need US$633 million with 49% funded, highlighting critical funding gaps amid ongoing humanitarian needs.\n\nThe Middle East crisis, now in its tenth week, continues to generate complex humanitarian challenges including widespread displacement, strained health services, and fragile infrastructure. Lebanon faces acute pressures from ongoing displacement and attacks on healthcare despite a ceasefire, while neighbouring countries contend with population movements and disease outbreaks. Coordination of telecommunications support and increased funding for health interventions remain urgent priorities.",
+    "url": null,
+    "region": "Other",
+    "subregion": "",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "ETC",
+      "IOM",
+      "WHO"
+    ],
+    "sourceIds": [
+      "rw-4212598",
+      "rw-4212573",
+      "rw-4212355"
+    ]
+  },
+  {
+    "id": "ai-location-mozambique",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Mozambique",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Mozambique",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• Since mid-April 2026, at least 16,000 people (over 4,100 families) have been displaced across Ancuabe, Montepuez, and Nangade districts in Mozambique due to attacks and fear of further violence by non-State Armed Groups (NSAG).  \n• In Ancuabe District alone, approximately 5,118 individuals (1,925 households) have been displaced between 5 and 8 May, with around 1,178 people in relocation sites and 3,940 living with host communities.  \n• The security situation remains volatile, with ongoing attacks, civilian casualties, abductions, and destruction of infrastructure, leading to reluctance among displaced populations to return home and a high risk of protracted displacement.  \n• Immediate needs are acute and multisectoral, including food, shelter, and non-food items (NFIs), with local authorities and humanitarian actors providing some initial assistance, though response delays have exacerbated vulnerabilities.  \n• Coordination efforts are focused on improving site management and expanding service coverage, particularly in primary displacement sites like Nanjua A and B, to address protection risks and reduce reliance on negative coping mechanisms.\n\nThe crisis is concentrated in districts with the highest severity of humanitarian needs according to the 2026 Humanitarian Needs and Response Plan. Despite widespread violence, displacement is uneven, with some affected areas showing limited movement due to displacement fatigue and resource constraints. Sustained and scaled-up multi-sectoral humanitarian assistance is urgently required to meet the evolving needs of displaced populations and host communities.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "CCCM Cluster",
+      "OCHA"
+    ],
+    "sourceIds": [
+      "rw-4212773",
+      "rw-4212402"
+    ]
+  },
+  {
+    "id": "ai-location-south-sudan",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: South Sudan",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "South Sudan",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• In April 2026, South Sudan's humanitarian situation remained fragile with ongoing arrivals of returnees, refugees, and deportees from Sudan in locations including Renk, Wedweil, and Malakal, straining shelter, health, food security, and WASH services amid seasonal rains and flooding risks.\n\n• Community feedback highlighted critical needs such as insufficient and delayed food and cash assistance, rising market prices, inadequate water and sanitation facilities, limited health services and medicines, protection risks including insecurity and family separation, and overcrowding at nutrition and WASH centres.\n\n• Positive feedback was noted for WFP’s cash and nutrition support, improved health referrals, enhanced information sharing, installation of streetlights, construction of public toilets, and effective communication channels like radio announcements and hotlines.\n\n• WFP reached 1.16 million people in April (82% of target) with 6,200 mt of food and USD 9.5 million in cash, totaling 2 million assisted since January. In Jonglei, 348,000 people (74% of target) received 6,000 mt of food. However, fuel price spikes and increased border taxes caused an 8% rise in local food basket costs, undermining household purchasing power ahead of the lean season.\n\nThe humanitarian response in South Sudan is challenged by complex displacement dynamics and worsening economic conditions that exacerbate food insecurity and strain basic services. Coordination among partners and community engagement through feedback mechanisms are critical to addressing urgent needs and improving programme effectiveness.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Concern",
+      "WFP"
+    ],
+    "sourceIds": [
+      "rw-4212522",
+      "rw-4212437",
+      "rw-4212439",
+      "rw-4212393"
+    ]
+  },
+  {
+    "id": "ai-location-sri-lanka",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Sri Lanka",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Flash Flood",
+    "location": "Sri Lanka",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• No specific information or updates are available from the Disaster Management Centre (DMC) Sri Lanka reports dated 18 and 19 May 2026.\n\n• There are no reported figures, key developments, or identified needs in the provided situation reports.\n\nWithout detailed data from the recent DMC reports, the current humanitarian situation in Sri Lanka cannot be assessed or summarised. Further information is required to understand any ongoing crises or response efforts.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "DMC Sri Lanka"
+    ],
+    "sourceIds": [
+      "rw-4212633",
+      "rw-4212379",
+      "rw-4212401"
+    ]
+  },
+  {
+    "id": "ai-location-sudan",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Sudan",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Sudan",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• Security in Kordofan and Darfur remains volatile with ongoing hostilities, aerial strikes, and criminal incidents causing civilian casualties and displacement, hampering humanitarian aid delivery.\n• A drone attack on 24 April destroyed a UNHCR truck carrying emergency shelter kits for over 1,300 displaced families in North Darfur, undermining aid efforts.\n• The Adré border crossing with Chad remains open until 30 June 2026, facilitating humanitarian access to Darfur.\n• Food prices have sharply increased as of April 2026, with the WFP Local Food Basket rising 17.9% month-on-month and 37% year-on-year; key commodities like sorghum, wheat flour, goat meat, and groundnuts have seen significant price hikes.\n• Since April 2023, there have been 749 attacks on healthcare in Sudan, resulting in 207 health worker deaths, 15 kidnappings, 126 arrests, and over 210 incidents of damage to health facilities, including 57 involving armed drones and 51 targeting maternal health services.\n\nThe ongoing conflict between the Sudanese Armed Forces and Rapid Support Forces continues to severely impact civilian safety, healthcare infrastructure, and humanitarian operations. Escalating food prices and restricted aid access exacerbate the vulnerability of displaced populations, particularly in Darfur and Kordofan states.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Insecurity Insight",
+      "UNHCR",
+      "WFP"
+    ],
+    "sourceIds": [
+      "rw-4212605",
+      "rw-4212574",
+      "rw-4212457"
+    ]
+  },
+  {
+    "id": "ai-location-timor-leste",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Timor-Leste",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Flood",
+    "location": "Timor-Leste",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• Moderate to heavy rainfall from 10 to 13 May 2026 caused river overflows and flooding in Dotic Village (Manufahi Municipality) and parts of Covalima Municipality, leading to evacuations and activation of the Early Action Protocol by the Timor-Leste Red Cross (CVTL).  \n• As rainfall subsided and impacts were less severe than anticipated, early action activities were deactivated on 15 May, evacuation centres closed, and displaced families returned home with support from CVTL and local authorities.  \n• No requests for international assistance were made by the government or National Society in response to the flooding event.  \n• Timor-Leste faces ongoing food security and nutrition challenges, with 27% of households acutely food-insecure and 75% unable to afford a nutritious diet due to high food prices and low agricultural productivity.  \n• The government, supported by WFP, is implementing a data-driven initiative using machine learning and a national registry to enhance social protection and improve maternal and child nutrition, targeting over 106,000 vulnerable individuals through an EU-funded project running May to October 2026.  \n\nDespite recent flooding, the immediate humanitarian impact was contained through anticipatory actions and local response capacity. However, chronic food insecurity and malnutrition remain critical issues exacerbated by climatic shocks and economic constraints. Continued support to social protection systems and resilience-building is essential to address underlying vulnerabilities in Timor-Leste.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "IFRC",
+      "WFP"
+    ],
+    "sourceIds": [
+      "rw-4212358",
+      "rw-4212381"
+    ]
+  },
+  {
+    "id": "ai-location-united-republic-of-tanzania",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: United Republic of Tanzania",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "United Republic of Tanzania",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• As of 31 March 2026, Tanzania hosts 164,901 refugees and asylum seekers, primarily from Burundi (77,032) and the Democratic Republic of Congo (87,163), living in camps and settlements across Kigoma, Katavi, and Tabora regions.  \n• Since January 2025, 4,243 new arrivals fleeing renewed violence in eastern DRC have been received, with 45 new asylum seekers arriving in March 2026.  \n• The Nduta Refugee Camp, which housed over 60,000 Burundian refugees since 2015, was officially closed on 30 April 2026 following the end of repatriation; WFP operations have shifted focus to Nyarugusu Camp, now hosting 107,968 refugees including 20,779 Burundians.  \n• Rising global fuel prices, exacerbated by the Middle East conflict, have caused fuel costs in Tanzania to surge by 33 percent in April 2026 and further increases in May, potentially impacting humanitarian operations and food security.  \n• UNHCR continues to provide protection, primary health care, and education services to refugees and host communities, while seeking durable solutions for refugees in collaboration with the government and partners.  \n\nTanzania remains a key host country for refugees from neighbouring conflict-affected states, particularly Burundi and the DRC. The closure of Nduta Camp marks a significant shift in refugee management, with resources now concentrated in fewer locations. However, rising fuel prices pose a risk to the cost and delivery of humanitarian assistance, necessitating close monitoring of food security and operational capacity.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "UNHCR",
+      "WFP"
+    ],
+    "sourceIds": [
+      "rw-4212700",
+      "rw-4212400"
+    ]
+  },
+  {
+    "id": "ai-location-world",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: World",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "World",
+    "scope": null,
+    "date": "2026-05-20",
+    "content": "• Recorded sea departures along most Mediterranean routes declined sharply in the first quarter of 2026 compared to the last quarter of 2025, with the Central Mediterranean Route decreasing by 58% and the Eastern Mediterranean Route by 65%. In contrast, the South and South-East Asia Route saw a 158% increase, though from a lower base.\n\n• Year-on-year comparisons show varied trends: the Western Mediterranean Route departures rose by 51% from Q1 2025 to Q1 2026, while the West African Atlantic Route saw an 83% decrease. Other routes, including the Central and Eastern Mediterranean, experienced substantial declines.\n\n• Nationality profiles of movements shifted, with Ethiopian and Afghan nationals decreasing by 45% and 53% respectively, contributing to overall reductions. Conversely, movements involving Myanmar and Sudanese nationals increased by 186% and 56%, raising their share of total movements.\n\n• In Afghanistan, escalating conflict and cross-border attacks by Pakistani military forces damaged educational infrastructure, including the destruction of a high school and damage to a university, injuring around 30 students and teachers. Taliban authorities also intensified repression against students through intimidation and discriminatory measures.\n\n• In Nigeria, rising violence and insecurity disrupted education, with attacks on schools, student abductions, and assaults reported across multiple states. Students were evacuated or abducted, and incidents occurred near university campuses, severely impacting student safety and access to education.\n\nGlobal displacement patterns show complex and divergent trends across migration routes, influenced by conflict dynamics and changing nationality profiles. Meanwhile, escalating violence in Afghanistan and Nigeria is severely affecting educational access and safety, highlighting urgent protection and humanitarian needs for students and educational institutions in these countries.",
+    "url": null,
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "Insecurity Insight",
+      "UNHCR",
+      "WHO"
+    ],
+    "sourceIds": [
+      "rw-4212698",
+      "rw-4212469",
+      "rw-4212525"
+    ]
+  },
+  {
+    "id": "rw-4212741",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Central African Republic Country Brief, May 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Central African Republic",
+    "scope": "single",
+    "date": "2026-05-19",
+    "content": "<p>135,417 people assisted in March–April 2026 (54% female)</p>\n<p>721.83 mt food distributed between March–April 2026</p>\n<p>USD 0.9 M cash transferred between March–April 2026</p>\n<p>USD 36.7 M required in the next six months (May–October 2026)</p>\n<p><strong>KEY HIGHLIGHTS</strong></p>\n<p>• Severe funding shortfalls are constraining WFP’s ability to meet rising humanitarian needs, as 2.3 million people are projected to face acute food insecurity in 2026.</p>\n<p>• Protection of human capital requires sustained investment in nutrition, school feeding, and resilience, as resource constraints threaten continuity of services. Scaling integrated approaches linking food, cash, nutrition, livelihoods, and systems strengthening is essential to prevent further deterioration while supporting recovery and long-term stability.</p>\n<p>• Sustained partner support is critical to preserve supply chains, maintain humanitarian presence, and avoid prolonged response disruptions that could take months to reverse.</p>\n",
+    "url": "https://reliefweb.int/report/central-african-republic/wfp-central-african-republic-country-brief-may-2026",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4212741",
+    "file_url": "https://reliefweb.int/attachments/46599ee0-ce92-49ef-adf7-ef7fb59a1c7e/WFP_CAR_CountryBrief_May2026.pdf"
+  },
+  {
+    "id": "rw-4212773",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "IOM CCCM New arrivals Flash update - Cabo Delgado, Ancuabe - 19 May 2026",
+    "source": "CCCM Cluster",
+    "crisis": "Humanitarian Crisis",
+    "location": "Mozambique",
+    "scope": "single",
+    "date": "2026-05-19",
+    "content": "<p><strong>CONTEXT</strong></p>\n<p>Between 05 and 08 May 2026, escalating attacks and persistent fear of further violence in Ancuabe District, across Mesa and Metoro Administrative Posts, triggered the displacement of approximately 1,925 households (5,118 individuals) from the villages of Namacuile, Minheuene, Nacoja, Napete, and Chiute. The aected families have taken refuge across resettlement sites and host communities within Ancuabe District. Within the relocation sites Nanjua A, Milamba 2, and Milamba Expansão approximately 1,178 individuals (332 households) are currently accommodated. In parallel, approximately 3,940 individuals (1,593 households) are residing within host communities in the bairros of Nanjua B, Nanjua A, Mesa Sede, Majasse, Namapa, and Nacololo.</p>\n<p>In response, IOM CCCM, in close coordination with the Ancuabe District Government and humanitarian partners, is supporting a coordinated emergency response. Operational focus remains on Nanjua A and Nanjua B, which serve as primary facilities for humanitarian assistance, service delivery, and coordination. CCCM interventions include site monitoring, registration and verification of displaced populations, facilitation of partner presence, and the strengthening of site-level coordination and accountability mechanisms to enhance the effectiveness and inclusiveness through referrals of the response.</p>\n<p>Priority needs across affected populations remain acute and multisectoral, including, food, shelter and NFI has the reported main needs. The security situation in areas of origin remains volatile and unpredictable, with displaced populations expressing unwillingness to return due to ongoing insecurity. This suggests a high likelihood of protracted displacement, further intensifying pressure on host communities and underscoring the need for sustained and scaled-up humanitarian assistance.</p>\n<p>Overall, the situation highlights the urgent need to reinforce CCCM coordination structures, expand service coverage beyond the relocation sites, and ensure a comprehensive, multi-sectoral response to address the immediate and evolving needs of affected populations.</p>\n",
+    "url": "https://reliefweb.int/report/mozambique/iom-cccm-new-arrivals-flash-update-cabo-delgado-ancuabe-19-may-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4212773",
+    "file_url": "https://reliefweb.int/attachments/d469c837-58b8-41a7-9cc1-fafc418ff53b/CCCM%20FLASH%20UPDATE%20NEW%20ANCUABE%20ARRIVALS%20.pdf"
+  },
+  {
+    "id": "rw-4212774",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Syrian Arab Republic - Emergency Mobility Tracking and Cross Border Monitoring Situation Update - Round 11 (18 May 2026)",
+    "source": "IOM",
+    "crisis": "Humanitarian Crisis",
+    "location": "Syrian Arab Republic, Lebanon",
+    "scope": "regional",
+    "date": "2026-05-19",
+    "content": "<p><strong>OVERVIEW</strong></p>\n<p>Following the ceasefire announced on 17 April 2026 in Lebanon, the rate of displacement from Lebanon into the Syrian Arab Republic (hereafter referred to as Syria) has declined compared to the initial phase of the conflict.</p>\n<p>As of 18 May, a total of 333,856 movements had been recorded along the four points of entry (PoEs) at the Syrian–Lebanese border where DTM tracks population movements into Syria. The majority of movements recorded involved Syrian nationals (96%), with Lebanese nationals accounting for the remaining 4 per cent. An additional 2,031 Lebanese nationals were reported to have transited onward through Syria to Jordan.</p>\n<p>Between 2 March and 18 May, DTM recorded 122,083 individuals arriving across 1,230 locations spanning all 14 governorates in Syria. Arrivals were predominantly Syrian, with Lebanese nationals accounting for less than 1 per cent of those recorded. Approximately 31,000 individuals have returned to Lebanon since the peak of displacement (153,087 arrivals recorded on 27 April 2026).</p>\n<p>Key informants (KIs) reported that arriving returnees continue to face multiple reintegration challenges, including inadequate access to safe housing, with many residing in damaged or partially destroyed homes, unfinished buildings, temporary shelters, or low-quality rented accommodation. Children’s educational integration continues to pose challenges, particularly for those previously enrolled in the Lebanese curriculum, resulting in difficulties adapting to the Syrian education system. Livelihood opportunities remain predominantly unstable and informal, with many returnees dependent on seasonal agricultural work and low-paid daily labour, while opportunities matching prior skills and experience remain limited. Concurrently, an expanding labour supply alongside weak market demand has contributed to declining wages and increased vulnerability to exploitation.</p>\n<p><em><strong>The situation remains fluid, and DTM continues to monitor developments.</strong></em></p>\n",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-emergency-mobility-tracking-and-cross-border-monitoring-situation-update-round-11-18-may-2026",
+    "region": "Other",
+    "subregion": null,
+    "rw_id": "4212774",
+    "file_url": "https://reliefweb.int/attachments/cf8fbf63-247c-4c4b-9cf2-999982451c59/DTM%20Syria_Emergency%20Mobility%20Tracking_FMR_May18.pdf"
+  },
+  {
     "id": "rw-4212673",
     "provider": "reliefweb",
     "type": "original",
@@ -253,320 +612,6 @@
     "subregion": null,
     "rw_id": "4212598",
     "file_url": "https://reliefweb.int/attachments/4fedd6fc-6688-4eaa-9abc-09576a89bee0/LTC%20Lebanon_Telecoms_Sitrep%205_2026%2005%2015.pdf"
-  },
-  {
-    "id": "ai-crisis-dr-congo--ebola-outbreak---may-2026",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: DR Congo: Ebola Outbreak - May 2026",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "DR Congo: Ebola Outbreak - May 2026",
-    "location": "Democratic Republic of the Congo",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• The Democratic Republic of Congo (DRC) declared its 17th Ebola outbreak on 15 May 2026, caused by the Bundibugyo strain, with 8 confirmed cases, 246–393 suspected cases, and 80–105 suspected deaths reported mainly in Ituri Province across multiple health zones including Mongbwalu, Bunia, and Rwampara.\n\n• The outbreak has spread to Goma city, where a confirmed case linked to Ituri was detected, prompting closure of the border with Rwanda and complicating humanitarian access and response efforts.\n\n• Uganda has confirmed two imported Ebola cases from the DRC in Kampala, with no local transmission identified; preparedness and surveillance measures have been activated in border districts.\n\n• The outbreak occurs amid ongoing insecurity, attacks on healthcare, displacement, and weak health systems in eastern DRC, posing significant challenges to surveillance, contact tracing, and response operations.\n\n• On 17 May 2026, the WHO declared the outbreak a Public Health Emergency of International Concern (PHEIC), triggering regional coordination involving DRC, Uganda, WHO, Africa CDC, IFRC, and partners to strengthen surveillance, community engagement, safe burials, and rapid response.\n\nThe Bundibugyo strain lacks a licensed vaccine, increasing the complexity of outbreak control compared to previous Zaire strain outbreaks. The situation is exacerbated by high population mobility, armed conflict, and fragile health infrastructure in affected areas, necessitating sustained regional collaboration and enhanced preparedness to prevent further spread within the Great Lakes region.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Middle Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "Health Cluster",
-      "IFRC",
-      "PAHO"
-    ],
-    "sourceIds": [
-      "rw-4212599",
-      "rw-4212352",
-      "rw-4212342"
-    ]
-  },
-  {
-    "id": "ai-crisis-pacific--dengue-outbreak---2025-2026",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Pacific: Dengue Outbreak - 2025-2026",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Pacific: Dengue Outbreak - 2025-2026",
-    "location": "World",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• Tonga has reported a total of 62 confirmed dengue fever cases as of 18 May 2026, with 2 new cases since the last update.  \n• The majority of cases are males aged 11 to 14 years, predominantly located on Tongatapu Island.  \n• One patient is currently hospitalised at Princess Fusipala Hospital in Ha’apai.  \n• No dengue-related deaths have been reported so far.  \n• The circulating dengue virus serotype is DENV-2.\n\nThe dengue outbreak in Tonga remains concentrated among young males on Tongatapu Island, with limited hospitalisations and no fatalities reported. Continued monitoring and vector control efforts are essential to prevent further spread.",
-    "url": null,
-    "region": "Global",
-    "subregion": "Global",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "Govt. Tonga",
-      "WHO"
-    ],
-    "sourceIds": [
-      "rw-4212616",
-      "rw-4212420"
-    ]
-  },
-  {
-    "id": "ai-location-afghanistan",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Afghanistan",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Afghanistan",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• WHO distributed 400 essential health kits in Afghanistan, reaching over 50,000 beneficiaries, and conducted 845 rapid diagnostic tests among returnees, detecting COVID-19 positivity at 16.9% and dengue at 26.8%. A team of 28 social mobilizers engaged more than 37,000 people in high-risk districts of Badakhshan Province, with 60% female beneficiaries.\n\n• The Afghani exchange rate appreciated slightly to AFN 63.6/USD in mid-May 2026, remaining stronger than the previous year and the three-year average. Domestic markets functioned with generally adequate commodity availability, supported by harvests and trade through western and northern corridors, though supply chains remain vulnerable to external risks.\n\n• National average food prices mostly declined in the second week of May, with decreases in wheat grain, wheat flour, high-quality rice, cooking oil, and pulses. However, prices for major food commodities remain above last year’s levels by 7% to 41%. Vegetable prices also declined due to improved seasonal availability but remain above or below last year’s levels depending on the item.\n\n• Diesel and fertilizer prices remained broadly stable but continue to be significantly higher than last year, increasing agricultural production costs. Labour availability showed slight improvement but remains below previous years, reflecting weak labour market conditions and limited employment opportunities.\n\nThe situation in Afghanistan in May 2026 shows some stabilisation in market conditions and food availability, supported by domestic production and trade. However, high prices for key commodities and inputs, alongside health challenges such as COVID-19 and dengue outbreaks, continue to pose significant risks to livelihoods and public health. Vulnerable populations, especially in high-risk districts, require sustained humanitarian support.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "WFP",
-      "WHO"
-    ],
-    "sourceIds": [
-      "rw-4212422",
-      "rw-4212350"
-    ]
-  },
-  {
-    "id": "ai-location-lebanon",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Lebanon",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Lebanon",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• Since 2 March 2026, Lebanon has experienced 14,674 hostilities incidents, including 5,503 after the 17 April ceasefire, with casualties reaching 11,939 (2,951 deaths, including 209 children and 284 women, and 8,988 injuries). The ceasefire is due to expire on 17 May 2026.\n• Healthcare workers have been heavily targeted, with 164 attacks since 2 March causing 110 deaths and 259 injuries. Attacks remain concentrated in southern Lebanon, particularly Nabatiyeh and the South governorates, severely impacting health service availability.\n• Health infrastructure is severely disrupted: three hospitals and 42 primary healthcare centres (PHCCs) remain closed, with six PHCCs offering limited services. Humanitarian partners continue to provide essential health services, including trauma care and chronic disease management.\n• Humanitarian actors like Amel have reached over 100,000 people across eight governorates with health, protection, education, and relief services, but face critical funding gaps and damaged facilities, limiting their capacity to scale up responses.\n• Displacement and insecurity persist, especially in southern Lebanon, with repeated displacement orders affecting 27 localities and ongoing restrictions on humanitarian access, exacerbating the humanitarian situation.\n\nThe situation in Lebanon remains highly volatile with ongoing violence despite the ceasefire, which is set to expire imminently. The healthcare system is under severe strain due to targeted attacks and infrastructure damage, while humanitarian needs continue to grow amid displacement and limited access. Urgent efforts are needed to protect healthcare services, ensure compliance with international humanitarian law, and scale up humanitarian assistance.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "AMEL",
-      "Health Cluster"
-    ],
-    "sourceIds": [
-      "rw-4212423",
-      "rw-4212486",
-      "rw-4212321"
-    ]
-  },
-  {
-    "id": "ai-location-mali",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Mali",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Mali",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• Between March and April 2026, WFP assisted 368,627 people in Mali with food and cash transfers, distributing 63,135 mt of food and USD 3.2 million in cash. However, USD 30.6 million is still required for the next six months (May–October 2026) to sustain operations.\n\n• WFP resumed lifesaving assistance for 40,000 vulnerable people in Mopti and Timbuktu by the end of April after security-related suspensions, and as of early May reached over 30,000 vulnerable individuals including IDPs and refugees with emergency food and nutrition aid.\n\n• An estimated 1.6 million people in Mali are projected to face acute food insecurity (IPC Phase 3+) during the 2026 lean season from June to August, driven by insecurity, climate shocks, displacement, and funding shortfalls.\n\n• Humanitarian access is severely constrained due to a government suspension of all humanitarian flights and a new 10% tax on UN and NGO project budgets, reducing operational capacity and funding availability amid escalating needs.\n\n• Violence and a strategic siege by Jama'at Nusrat al-Islam wal-Muslimin in Léré, Timbuktu Region, have caused a 77% rise in gender-based violence cases in early 2026 and disrupted access to sexual and reproductive health services, including emergency obstetric care.\n\n• Disease outbreaks are worsening, with a 72% increase in diphtheria cases between October 2025 and March 2026 and 31 confirmed mpox cases with two deaths, mainly in Bamako and Koulikoro, posing additional risks to pregnant women and newborns.\n\nThe humanitarian situation in Mali remains critical with overlapping food insecurity, conflict-related protection risks, and deteriorating health conditions. Access constraints and funding gaps are impeding the delivery of essential aid, particularly in conflict-affected areas such as Timbuktu Region. Urgent scale-up of assistance and improved operational access are needed to address escalating needs ahead of the lean season.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "UNFPA",
-      "WFP"
-    ],
-    "sourceIds": [
-      "rw-4212691",
-      "rw-4212347"
-    ]
-  },
-  {
-    "id": "ai-location-middle-east",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Middle East",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Middle East",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• Lebanon’s telecommunications network is operational but fragile, with reduced coverage in the south due to damaged infrastructure and limited repair access; displacement is increasing network congestion and degrading service quality.  \n• Since 2 March 2026, over 371,000 people have crossed from Lebanon into Syria, adding pressure on humanitarian systems; Lebanon hosts over 127,700 internally displaced persons in 629 collective shelters.  \n• Attacks on healthcare facilities in Lebanon continue despite the ceasefire on 17 April, with 15 verified attacks causing 12 deaths and 21 injuries; overall conflict casualties in Lebanon since 2 March total 2,883 deaths and 8,787 injuries.  \n• The Middle East region had 115 million people in need of humanitarian aid prior to the current conflict; WHO requires US$ 30.3 million for the Middle East conflict flash appeal (12% funded) and US$ 633 million for regional health emergencies (49% funded).  \n• Food and fuel prices have risen sharply since the conflict began, with crude oil prices increasing over 50%, local gasoline and diesel prices up by at least 15% in many countries, and fertilizer prices surging due to Strait of Hormuz disruptions; 15 countries face food inflation of at least 15% year-on-year.\n\nThe ongoing conflict in the Middle East has severely impacted civilian infrastructure, healthcare, and population mobility, particularly in Lebanon and Syria. Despite a ceasefire, humanitarian needs remain critical, compounded by economic pressures from rising food and fuel prices. Continued support for health services, shelter, and essential commodities is urgently required to address the escalating crisis.",
-    "url": null,
-    "region": "Other",
-    "subregion": "",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "ETC",
-      "IOM",
-      "WFP",
-      "WHO"
-    ],
-    "sourceIds": [
-      "rw-4212598",
-      "rw-4212573",
-      "rw-4212355",
-      "rw-4212343"
-    ]
-  },
-  {
-    "id": "ai-location-south-sudan",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: South Sudan",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "South Sudan",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• In April 2026, South Sudan's humanitarian situation remained critical in key locations including Renk, Wedweil, and Malakal, with ongoing arrivals of returnees, refugees, and displaced persons from Sudan, compounded by the rainy season and rising food insecurity.\n\n• Community feedback highlighted urgent needs such as insufficient and delayed food and cash assistance, inadequate shelter and non-food items, limited health services and medicines, poor water, sanitation and hygiene (WASH) conditions, protection risks including insecurity and family separation, and overcrowding at facilities.\n\n• Positive feedback was noted for WFP’s cash and nutrition support, improved health referrals, enhanced information sharing, installation of streetlights, and better organisation of aid distributions, demonstrating effective community engagement and responsiveness by humanitarian actors.\n\n• WFP reached 1.16 million people in April (82% of target), distributing 6,200 mt of food and USD 9.5 million in cash; however, fuel price increases and other economic pressures caused an 8% rise in the cost of the local food basket, undermining household purchasing power during the lean season.\n\n• Jonglei state’s crisis response reached 348,000 people (74% of target) with 6,000 mt of food delivered since operations began, indicating ongoing scale-up but still below full coverage.\n\nThe humanitarian context in South Sudan remains highly complex, with multiple overlapping crises driven by displacement from Sudan, seasonal weather challenges, and economic shocks. While aid delivery continues at scale, significant gaps in assistance, protection, and basic services persist, requiring sustained coordination and adaptation to evolving needs.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "Concern",
-      "WFP"
-    ],
-    "sourceIds": [
-      "rw-4212522",
-      "rw-4212437",
-      "rw-4212439",
-      "rw-4212393"
-    ]
-  },
-  {
-    "id": "ai-location-sri-lanka",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Sri Lanka",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Flash Flood",
-    "location": "Sri Lanka",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• No specific information or updates are available from the Disaster Management Centre (DMC) Sri Lanka reports dated 17 to 19 May 2026.  \n• There are no reported figures on affected populations, damages, or humanitarian needs in these reports.  \n• The absence of data suggests either a lack of new developments or a delay in reporting for this period.\n\nWithout detailed situation reports, it is not possible to assess the current humanitarian situation or identify priority needs in Sri Lanka as of mid-May 2026. Further information is required to provide an accurate briefing.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "DMC Sri Lanka"
-    ],
-    "sourceIds": [
-      "rw-4212633",
-      "rw-4212379",
-      "rw-4212401",
-      "rw-4212378"
-    ]
-  },
-  {
-    "id": "ai-location-sudan",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Sudan",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "Sudan",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• Security in Kordofan and Darfur remains unstable with ongoing hostilities, aerial strikes, and criminal incidents causing civilian casualties and displacement, complicating humanitarian aid delivery.  \n• A drone attack on 24 April destroyed a UNHCR truck carrying emergency shelter kits for over 1,300 displaced families in North Darfur, highlighting risks to aid operations.  \n• The Adré border crossing with Chad remains open until 30 June 2026, facilitating humanitarian access to Darfur.  \n• Food prices have sharply increased by April 2026, with the WFP Local Food Basket rising 37% year-on-year; key staples such as sorghum and wheat flour have increased by 22% and 47% respectively, severely impacting food security.  \n• Since April 2023, there have been 749 attacks on healthcare, resulting in 207 health worker deaths, 15 kidnappings, and over 210 incidents of health facility damage, including 57 involving armed drones and 51 targeting maternal health services.\n\nThe ongoing conflict between the Sudanese Armed Forces and the Rapid Support Forces continues to severely disrupt civilian life and humanitarian operations. The combination of insecurity, attacks on health infrastructure, and soaring food prices exacerbates the vulnerability of affected populations, particularly displaced families in Darfur and Kordofan. Sustained and secure humanitarian access remains critical to address urgent shelter, health, and food needs.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "Insecurity Insight",
-      "UNHCR",
-      "WFP"
-    ],
-    "sourceIds": [
-      "rw-4212605",
-      "rw-4212574",
-      "rw-4212457"
-    ]
-  },
-  {
-    "id": "ai-location-timor-leste",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Timor-Leste",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Flood",
-    "location": "Timor-Leste",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• Moderate to heavy rainfall from 10 to 13 May 2026 caused river overflows and flooding in Dotic Village (Manufahi Municipality) and parts of Covalima Municipality, leading to evacuations. Early Action Protocol measures were activated then deactivated by 15 May as impacts lessened and evacuees returned home.\n\n• The Timor-Leste Red Cross (CVTL) and local teams distributed food and non-food items to affected families, managed evacuation centres, and coordinated with civil protection authorities for relief and reintegration efforts.\n\n• The Government of Timor-Leste, supported by WFP, launched a machine learning-based initiative to strengthen social protection and improve maternal and child nutrition, targeting over 106,000 people including schoolchildren and farmers.\n\n• Despite progress since independence, Timor-Leste faces high rates of child stunting, with 27% of households acutely food-insecure and 75% unable to afford a nutritious diet due to rising food prices and low agricultural productivity.\n\n• WFP’s 2026-2030 strategic plan aligns with national development goals to improve food security and nutrition through enhanced social protection programmes, supply chain management, and emergency preparedness.\n\nTimor-Leste continues to grapple with recurrent climatic shocks impacting vulnerable communities, particularly in rural municipalities. While recent flooding was managed effectively with anticipatory actions and community support, underlying food insecurity and malnutrition remain critical challenges requiring sustained multisectoral interventions.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "South-eastern Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "IFRC",
-      "WFP"
-    ],
-    "sourceIds": [
-      "rw-4212358",
-      "rw-4212381"
-    ]
-  },
-  {
-    "id": "ai-location-united-republic-of-tanzania",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: United Republic of Tanzania",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "United Republic of Tanzania",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• As of 31 March 2026, Tanzania hosts 164,901 refugees and asylum seekers, primarily from Burundi (77,032) and the DRC (87,163), residing in camps and settlements across Kigoma, Katavi, and Tabora regions.  \n• Since January 2025, 4,243 new arrivals fleeing violence in eastern DRC have been received, including 45 in March 2026.  \n• The Nduta Refugee Camp, which housed over 60,000 Burundian refugees since 2015, was officially closed on 30 April 2026, with WFP shifting operations to Nyarugusu Camp now hosting 107,968 refugees, including 20,779 Burundians.  \n• Rising fuel prices in Tanzania, driven by the Middle East conflict and global market trends, surged by 33% in April 2026 and continued to increase in May, potentially impacting humanitarian operations and food security.  \n• UNHCR continues to provide protection, primary health care, education, and seeks durable solutions for refugees, extending some services to host communities as well.\n\nTanzania remains a key host country for refugees from neighbouring conflict zones, with ongoing arrivals from the DRC despite protracted displacement. The closure of Nduta Camp marks a significant shift in refugee management, concentrating populations in fewer locations. Economic pressures from fuel price hikes pose risks to operational costs and food access for both refugees and host populations.",
-    "url": null,
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "UNHCR",
-      "WFP"
-    ],
-    "sourceIds": [
-      "rw-4212700",
-      "rw-4212400"
-    ]
-  },
-  {
-    "id": "ai-location-world",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: World",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Humanitarian Crisis",
-    "location": "World",
-    "scope": null,
-    "date": "2026-05-19",
-    "content": "• Mediterranean migration routes saw significant declines in sea departures in early 2026 compared to late 2025, with the Central Mediterranean Route decreasing by 58% and the Eastern Mediterranean Route by 65%. However, the Western Mediterranean Route departures increased by 51% year-on-year to 5,580 in Q1 2026.  \n• The South and South-East Asia migration route experienced a 158% increase in departures in Q1 2026 compared to Q4 2025, though absolute numbers remain lower than other routes.  \n• Nationality profiles of migrants shifted, with Ethiopian and Afghan nationals decreasing by 45% and 53% respectively, while movements involving Myanmar and Sudanese nationals rose by 186% and 56%. Algerian nationals remain dominant on the Western Mediterranean Route, and Moroccan nationals increased on the West African Atlantic Route.  \n• In Afghanistan, escalating conflict and cross-border attacks by Pakistani forces damaged educational institutions, injuring students and staff, while Taliban authorities intensified repression and discriminatory actions against students.  \n• Nigeria faced increased violence affecting education, including school attacks, abductions, and armed raids, leading to evacuations and heightened insecurity for students and teachers in multiple states.  \n\nMigration trends show varied regional dynamics with some routes declining sharply while others rise, reflecting complex geopolitical and security factors. Meanwhile, conflict-related violence in Afghanistan and Nigeria is severely disrupting education and threatening civilian safety.",
-    "url": null,
-    "region": "Global",
-    "subregion": "Global",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "Insecurity Insight",
-      "UNHCR",
-      "WHO"
-    ],
-    "sourceIds": [
-      "rw-4212698",
-      "rw-4212469",
-      "rw-4212525"
-    ]
   },
   {
     "id": "rw-4212573",
@@ -9033,56 +9078,5 @@
     "subregion": "Western Asia",
     "rw_id": "4208287",
     "file_url": "https://reliefweb.int/attachments/7486d74e-9aef-58a2-a24d-3469a8530eed/CWG%20Situation%20Report%202026%20%231.pdf"
-  },
-  {
-    "id": "rw-4208210",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Health Cluster Sudan Bulletin (March 2026)",
-    "source": "Health Cluster",
-    "crisis": "Epidemic",
-    "location": "Sudan",
-    "scope": "single",
-    "date": "2026-04-19",
-    "content": "Key achievements • Health C luster Partners have provid ed essential and life - saving health services in all states of Sudan , including support to ~2,300 health facilities , provision of ~55 ,000 vaccinations, delive ry of reproductive health services for ~42,000 women, and ~1,2 million curative services. • Important steps taken towards operationalizing the Sudan 3H Humanitarian Health Minimum Service Response Package , which will serve as the operational backbone for severity-based prioritization. • Cluster coordination was maintained at both national and subnational levels and preliminary findings from the 2025 Cluster Coordination Performance Monitoring highlight strong leadership and sustained operational performance, whilst indicating areas for improvement around referral systems…",
-    "url": "https://reliefweb.int/report/sudan/health-cluster-sudan-bulletin-march-2026",
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "rw_id": "4208210",
-    "file_url": "https://reliefweb.int/attachments/4782d266-182c-42ae-b16c-7d46ac90b1bb/HC_Bulletin_March_2026_v2.pdf"
-  },
-  {
-    "id": "rw-4208211",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Health Sector Syria update biweekly national and sub-national health sector coordination (1 - 15 April 2026)",
-    "source": "Health Cluster",
-    "crisis": "Humanitarian Crisis",
-    "location": "Syrian Arab Republic",
-    "scope": "single",
-    "date": "2026-04-19",
-    "content": "National health sector coordination, Damascus • Participated and contributed to the ISCG planning workshop for 2026, including 2025 performance review. • Took part in ad hoc a-ISCG South meeting to discuss key priority needs of Syrian returnees in the southern region. • Participated in 3LC by WHO Syria on Middle East escalation. Updated health sector with information on Middle East escalation of the conflict, including WHO EMRO RD statement and WHO situation reports and launched WHO Emergency Appeal. • Jointly with HIM team: o Reviewed the levels of submissions for new 2026 4W HNRP, January – March 2026. o Aiming to update: ▪ 4W 2026 HNRP, January – March, infographic ▪ Health sector referral pathway, Q1 2026 ▪ HeRAMS, both hospitals and PHCs, 2026 ▪ Light HeRAMS, 2026 ▪ Sector level su…",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/health-sector-syria-update-biweekly-national-and-sub-national-health-sector-coordination-1-15-april-2026",
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "rw_id": "4208211",
-    "file_url": "https://reliefweb.int/attachments/cd73a0d5-56fa-4444-9ece-d62f678adb11/Health%20Sector%20Syria%20update%20biweekly%20national%20and%20sub-national%20health%20sector%20coordination%201%20-%2015%20April%202026.pdf"
-  },
-  {
-    "id": "rw-4208233",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "WFP Egypt Country Brief, April 2026 (Reporting Period: March 2026)",
-    "source": "WFP",
-    "crisis": "Humanitarian Crisis",
-    "location": "Egypt",
-    "scope": "single",
-    "date": "2026-04-19",
-    "content": "IN NUMBERS 570, 000 people assisted in March 2026 (60% female) 562.67 mt food distributed in March 2026 USD 2M cash transferred in March 2026 USD 26M required in the next six months (April – Sept 2026) KEY HIGHLIGHTS - In March 2026, WFP suspended cash assistance for 100,000 refugees and crisis-affected people due to funding shortfalls - now supporting 150,000 out of the 250,000 targeted vulnerable beneficiaries with a reduced value of USD 9.54, covering only 20 percent of the Survival Minimum Expenditure Basket. WFP will soon be forced to completely suspend assistance if no further funding is received.",
-    "url": "https://reliefweb.int/report/egypt/wfp-egypt-country-brief-april-2026-reporting-period-march-2026",
-    "region": "Africa",
-    "subregion": "Northern Africa",
-    "rw_id": "4208233",
-    "file_url": "https://reliefweb.int/attachments/8c97bc8e-57b2-4920-9bf4-0da5707b67d3/2026%2003%20Egypt%20Country%20Brief.pdf"
   }
 ]
