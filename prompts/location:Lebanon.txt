@@ -1,9 +1,28 @@
 Crisis / situation: Lebanon
 
---- Report 1: WeWorld (2026-05-20) ---
+--- Report 1: OCHA (2026-05-20) ---
+HIGHLIGHTS
+
+Hostilities intensified despite the announced ceasefire extension, with continued strikes and new displacement orders affecting at least 27 localities, driving further population movements and increasing humanitarian needs.
+Since 2 March, 2,988 people were killed and 9,210 were injured. Casualties include 209 children, 279 women killed and 838 children and 1,124 women injured.
+Continued attack on healthcare professionals resulted in two deaths and ten injuries.
+Displacement and pressure on collective shelters are increasing, with over 130,000 IDPs hosted across 634 sites, while funding shortfalls threaten the continuity of critical services, including WASH.
+Flash Appeal stands at 51 per cent funded, putting critical services at risk of interruption.
+
+SITUATION OVERVIEW
+The humanitarian situation in Lebanon deteriorated between 15 and 18 May, marked by a sharp escalation of hostilities despite diplomatic developments. On 15 May, a new 45‑day ceasefire extension was announced following talks between Israel and Lebanon facilitated by the United States, with plans to reconvene on 2 June 2026. However, hostilities on the ground persisted, with continued strikes reported across southern Lebanon governorates. This reporting period was characterized by some of the most intense attacks since the initial ceasefire was announced in mid‑April, contributing to a worsening security environment and deepening humanitarian needs across sectors.
+Since the onset of hostilities on 2 March, at least 2,988 people have been killed and 9,210 injured. The intensity of attacks during the reporting period further compounded civilian suffering and infrastructure damage. Attacks impacting healthcare continued to be reported despite the ceasefire extension. Between 14 and 18 May, WHO recorded five incidents affecting healthcare facilities and personnel, resulting in two deaths and ten injuries among healthcare workers. These incidents underscore the continued vulnerability of essential services and the risks faced by frontline responders.
+Displacement levels increased following the deterioration in security conditions. During the reporting period, six renewed displacement orders were issued for 27 localities, triggering additional population movements. Displacement trends across Lebanon continue to show an upward trajectory, although geographically uneven. Areas such as Beirut, Mount Lebanon and North Lebanon are experiencing mounting pressure from successive waves of displacement, while returns remain limited due to insecurity, damaged housing, lack of services, and risks associated with unexploded ordnance (UXO).
+The shelter landscape continues to shift rapidly in response to fluctuating population movements. As of 18 May, the number of collective shelters increased by five since 14 May, reaching 634 sites hosting over 130,000 internally displaced persons – an increase of 2,279 individuals during the reporting period. Ongoing population movements, coupled with uneven shelter availability, are placing additional strain on coordination efforts and response capacity. These dynamics highlight the need for sustained monitoring, flexible planning, and reinforced support to ensure adequate shelter conditions and access to essential services for displaced populations.
+Humanitarian access remains constrained in several conflict‑affected and hard‑to‑reach areas. Civilians continue to face severe limitations in accessing healthcare, communications, markets, safe mobility, and humanitarian assistance, exacerbated by insecurity and continued infrastructure degradation. While humanitarian partners are maintaining operations where feasible, their ability to scale up remains restricted by insecurity, logistical challenges, and resource limitations.
+Funding constraints remain a major challenge to sustaining life‑saving assistance. As of 18 May, the 2026 Lebanon Flash Appeal has received approximately US$158.2 million out of the US$308 million required, representing 51.3 per cent funding coverage. The significant funding gap is limiting the ability of humanitarian partners to maintain essential services and expand response capacity. Critical sectors, including Water, Sanitation and Hygiene (WASH), face an increasing risk of service interruptions in the coming period if additional resources are not mobilized.
+On 14 May 2026, the United States and OCHA jointly announced a significant new humanitarian funding package during a press conference at UN Headquarters in New York. The U.S. committed an additional US$1.8 billion in humanitarian financing to OCHA-managed pooled funds and related life‑saving activities, bringing its total recent contribution under the Humanitarian Reset framework to approximately US$3.8 billion. Lebanon has been mentioned as one of the recipient countries.
+Overall, despite the announced ceasefire extension, the humanitarian situation remains highly fragile and complex. Continued hostilities, rising displacement, and pressure on essential services are compounding vulnerabilities across the country. In the absence of sustained improvements in security conditions, humanitarian needs are expected to remain high in the near term.
+
+--- Report 2: WeWorld (2026-05-20) ---
 Despite the Cessation of Hostilities (CoH) agreement that came into effect on 17 April 2026 and was recently extended through June, Israeli military activity across Lebanon continues, particularly in the South. Airstrikes remain intense and have increasingly expanded into parts of the Bekaa region, further worsening humanitarian conditions and civilian insecurity.
 
---- Report 2: UNRWA (2026-05-20) ---
+--- Report 3: UNRWA (2026-05-20) ---
 All information valid for 29 April - 5 May 2026
 Key Points
 
@@ -13,19 +32,3 @@ UNRWA launched its emergency response in Lebanon on 4 March. As of 21 April, it 
 Renewed evacuation orders were issued by the Israeli military between 30 April and 1 May for 10 villages in southern Lebanon and Nabatieh District north of the Litani River area.
 By 5 May, a total of 1,132 displaced people (328 families) were registered in the two UNRWA emergency shelters. This represents an increase from 951 people recorded in the previous week and follows the issuance of evacuation orders during the period.
 Between 29 April and 5 May, no security incidents affecting on-duty UNRWA personnel or facilities were reported.
-
---- Report 3: Health Cluster (2026-05-18) ---
-Situation Update
-Despite the ceasefire, attacks on healthcare continue. Since the last reporting period, five incidents have been recorded, resulting in two deaths and ten injuries among healthcare workers. Since the ceasefire took effect, a total of 18 attacks has been reported, causing 12 deaths and 28 injuries. Overall, since 2 March, 164 incidents have led to 110 deaths and 259 injuries among healthcare personnel. These incidents continue to occur despite the protected status of healthcare under International Humanitarian Law (IHL). Their persistence raises serious concerns regarding compliance with the core IHL principles of distinction, proportionality, and precaution, which obligate parties to safeguard civilians and essential services, including medical care. The impacts remain heavily concentrated in southern areas, particularly Nabatiyeh (53%) and the South (36%), with additional cases reported in Bekaa, Baalbek-Hermel, Mount Lebanon governorates, and Beirut Southern Suburbs. The scale, persistence, and geographic concentration of these attacks underscore the urgent need to uphold IHL obligations, protect healthcare services, and ensure accountability for violations. Health service availability remains severely constrained due to extensive facility closures and limited operational capacity. Three hospitals and 42 PHCCs remain closed, while an additional six PHCCs provide restricted services only, mainly for chronic disease management and emergencies. Health sector partner has conrmed the arrival of the third shipment of lifesaving reprodutive health supplies in Lebanon via the European Union Humanitarian Air Bridge and in close coordination with the Ministry of Public health and Ministry of Social Aairs. Funded by the UN’s Central Emergency Response Fund (CERF), this cargo includes 68 inter-agency kits designed to provide 12,500+ women and girls with Safe births &amp; emergency obstetric care, clinical management of rape &amp; GBV survivor care, essential family planning services and Lifesaving blood transfusions. Preliminary ndings from the Partners’ Capacity Assessment indicate that 11 operational partners continue to provide life-saving health services in South of Litani, with 37 partners active nationwide. Demand remains extremely high, with signicant reliance on humanitarian assistance, especially for trauma care, critical medications (anesthetics, oncology treatments, and oxygen), NCD management, and emergency and inpatient care services
-
---- Report 4: AMEL (2026-05-18) ---
-Over this two-month period, Amel reached 101,581 people across 8 governorates, through 19 Primary Healthcare Centres, 14 Mobile Medical Units, and a multi-sectoral health, protection and education response across 187 sites, including 110 collective shelters.
-Key highlights include:
-
-51,399 health services provided, including 30,982 primary healthcare consultations
-20,329 people reached through protection activities (GBV, MHPSS, Child Protection)
-19,780 children reached through education and recreational activities
-11,957 individuals reached through relief item distributions
-1,748 People With Specific Needs identified and prioritized
-
-The report also outlines the challenges ahead, including critical funding gaps, damaged facilities in Haret Hreik, Borj El Brajneh and Khiam, and the urgent need to scale up our response to reach more than 100,000 people per month.
