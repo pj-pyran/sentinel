@@ -1,6 +1,12 @@
 Crisis / situation: Lebanon
 
---- Report 1: OCHA (2026-05-20) ---
+--- Report 1: UNHCR (2026-05-21) ---
+Situation Overview
+Renewed hostilities since early March 2026 have significantly aggravated humanitarian needs across Lebanon, triggering mass internal displacement now affecting more than one million people. Against this backdrop, the 2026 Flash Appeal (March–May) seeks USD 308.3 million to address urgent needs, yet funding levels remain critically insufficient, with overall coverage below 40 per cent. Cash-based responses, particularly MPCA, are among the most underfunded components, limiting the response’s ability to keep pace with the scale, diversity, and geographic spread of needs.
+Despite access and security constraints, local markets continue to operate in most displacement-affected areas, including major IDP-hosting locations. This reality reinforces the operational relevance of cash assistance, which the Cash Working Group (CWG) continues to prioritize as the most appropriate response modality where markets are functional, supporting choice, flexibility, and efficient delivery at scale.
+For displaced households living outside shelters, cash assistance plays a critical role in covering a wide range of essential expenditures, including housing, food, healthcare, transport, and disability-related needs, while also reducing exposure to high-risk coping strategies. These needs are particularly acute in hard-to-reach and high-risk areas, including parts of southern Lebanon. However, the persistent under-resourcing of cash assistance highlights the need for greater financing flexibility, improved alignment across sectors, and stronger collective prioritization to ensure assistance reaches those most in need in a timely and predictable manner.
+
+--- Report 2: OCHA (2026-05-20) ---
 HIGHLIGHTS
 
 Hostilities intensified despite the announced ceasefire extension, with continued strikes and new displacement orders affecting at least 27 localities, driving further population movements and increasing humanitarian needs.
@@ -19,10 +25,10 @@ Funding constraints remain a major challenge to sustaining life‑saving assista
 On 14 May 2026, the United States and OCHA jointly announced a significant new humanitarian funding package during a press conference at UN Headquarters in New York. The U.S. committed an additional US$1.8 billion in humanitarian financing to OCHA-managed pooled funds and related life‑saving activities, bringing its total recent contribution under the Humanitarian Reset framework to approximately US$3.8 billion. Lebanon has been mentioned as one of the recipient countries.
 Overall, despite the announced ceasefire extension, the humanitarian situation remains highly fragile and complex. Continued hostilities, rising displacement, and pressure on essential services are compounding vulnerabilities across the country. In the absence of sustained improvements in security conditions, humanitarian needs are expected to remain high in the near term.
 
---- Report 2: WeWorld (2026-05-20) ---
+--- Report 3: WeWorld (2026-05-20) ---
 Despite the Cessation of Hostilities (CoH) agreement that came into effect on 17 April 2026 and was recently extended through June, Israeli military activity across Lebanon continues, particularly in the South. Airstrikes remain intense and have increasingly expanded into parts of the Bekaa region, further worsening humanitarian conditions and civilian insecurity.
 
---- Report 3: UNRWA (2026-05-20) ---
+--- Report 4: UNRWA (2026-05-20) ---
 All information valid for 29 April - 5 May 2026
 Key Points
 

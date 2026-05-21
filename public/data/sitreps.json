@@ -1,5 +1,124 @@
 [
   {
+    "id": "rw-4212983",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Syrian Arab Republic Heat Wave 2025 - DREF Final Report (MDRSY016)",
+    "source": "IFRC",
+    "crisis": "Syria: Heat Wave - Aug 2025",
+    "location": "Syrian Arab Republic",
+    "scope": "single",
+    "date": "2026-05-21",
+    "content": "<p><strong>Description of the Event</strong></p>\n<p><strong>Date of event</strong><br />\n08-08-2025<br />\n<strong>What happened, where and when?</strong></p>\n<p>On 8 August 2025, the Syrian Arab Republic experienced a severe heatwave, with temperatures exceeding 45°C in several parts of the country. The event was unprecedented in its intensity and duration, following a dry summer and exacerbating the vulnerability of populations already affected by conflict, displacement, and limited access to basic services.</p>\n<p>The heatwave had heavily impacted the governorates of Rural Damascus, Hama, Aleppo, Homs, Sweida, and Daraa, where many communities live in poor shelter conditions with limited protection from extreme heat. Reports from Syrian Arab Red Crescent (SARC) field teams indicated increased cases of heat-related illness, dehydration, and worsening health conditions among vulnerable groups, particularly children, older adults, and persons with chronic illnesses.</p>\n<p>As of 12 August 2025, the heatwave was ongoing, with national meteorological agencies continuing to issue warnings for extreme temperatures expected to persist in the coming days.</p>\n<p>This DREF was sought to enable immediate and targeted humanitarian response by SARC to reduce heat-related health risks and protect the most affected populations.</p>\n",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-heat-wave-2025-dref-final-report-mdrsy016",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4212983",
+    "file_url": "https://reliefweb.int/attachments/fd42d19e-5f25-4a70-9395-9c0f3e3473dc/MDRSY016fr.pdf"
+  },
+  {
+    "id": "rw-4212984",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "30 Months Operation Update - Sudan Crisis: Regional Population Movement, Emergency Appeal No. MDRS1001",
+    "source": "IFRC",
+    "crisis": "Humanitarian Crisis",
+    "location": "Sudan, Chad, Egypt",
+    "scope": "regional",
+    "date": "2026-05-21",
+    "content": "<p><strong>A.SITUATION ANALYSIS</strong><br />\n<strong>Description of the crisis</strong></p>\n<p>Since the escalation of conflict in Sudan in April 2023, the crisis has driven large-scale displacement across the region, with over 11.5 million people displaced, including approximately 4.5 million fleeing to neighbouring countries such as Ethiopia, South Sudan, Chad, Uganda, Egypt, Libya and the Central African Republic. This mass movement of people has placed significant pressure on border areas and host communities, overwhelming already limited resources and essential services.</p>\n<p>Across the region, health systems have come under severe strain, with increasing outbreaks of communicable diseases linked to overcrowding, inadequate shelter, and poor water, sanitation, and hygiene (WASH) conditions. Food insecurity has sharply deteriorated, with crisis and emergency levels of hunger observed in multiple contexts. These overlapping pressures have contributed to a rapidly worsening humanitarian situation, affecting both displaced populations and host communities.</p>\n",
+    "url": "https://reliefweb.int/report/sudan/30-months-operation-update-sudan-crisis-regional-population-movement-emergency-appeal-no-mdrs1001",
+    "region": "Other",
+    "subregion": null,
+    "rw_id": "4212984",
+    "file_url": "https://reliefweb.int/attachments/ebcb73bf-8975-487f-974c-8076398ccbde/MDRS1001%20OU6.pdf"
+  },
+  {
+    "id": "rw-4213005",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Zimbabwe - Food Security and Markets Monitoring Report, April 2026",
+    "source": "WFP",
+    "crisis": "Zimbabwe: Drought - Apr 2024",
+    "location": "Zimbabwe",
+    "scope": "single",
+    "date": "2026-05-21",
+    "content": "<h2>Situation Overview</h2>\n<p>Zimbabwe’s food security situation showed improved national production prospects following above-normal rainfall, which supported crop performance, pasture availability, and livestock conditions. National cereal production is projected at 2.74 million MT (CLAFA 2, 2026), with maize output increasing by 2% compared to the previous season.</p>\n<p>However, significant district-level disparities persist, with areas such as Mutare, Buhera, Chivi, and Beitbridge expected to face cereal deficits and shorter food stock durations. Markets reflected mixed trends, with easing prices for some staples such as maize meal, while rice, sugar beans, and vegetable oil continued to rise. Fuel prices remained elevated despite government interventions aimed at cushioning consumers.</p>\n<p>Livestock conditions were generally fair to good due to improved water and grazing availability, but outbreaks of tick-borne diseases, Lumpy Skin Disease, and Foot and Mouth Disease continued to threaten livestock productivity, particularly in southern districts where access to vaccines and treatment remained limited.</p>\n",
+    "url": "https://reliefweb.int/report/zimbabwe/zimbabwe-food-security-and-markets-monitoring-report-april-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4213005",
+    "file_url": "https://reliefweb.int/attachments/e35aebf5-f996-4144-afa4-3030994e52b5/WFP-0000173709.pdf"
+  },
+  {
+    "id": "rw-4213012",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Ebola Bundibugyo Virus Disease Outbreak: Democratic Republic of the Congo | Uganda, Weekly External Situation Report 01 (Data as of 18 May 2026)",
+    "source": "WHO",
+    "crisis": "DR Congo: Ebola Outbreak - May 2026",
+    "location": "Democratic Republic of the Congo",
+    "scope": "single",
+    "date": "2026-05-21",
+    "content": "<h2>Event description</h2>\n<p>On 5 May 2026, the World Health Organization (WHO) received an alert regarding an unknown illness with high mortality in Mongbwalu Health Zone (HZ), Ituri Province, Democratic Republic of the Congo (DRC), including reports of four health workers who died within four days. Rapid response teams deployed to Mongbwalu and Rwampara HZs conducted investigations, and on 15 May 2026, laboratory testing by the Institut National de la Recherche Biomédicale (INRB), Kinshasa confirmed Bundibugyo virus disease (BVD) caused by Bundibugyo virus. On the same day, the Ministry of Public Health, Hygiene and Social Welfare of DRC officially declared the country’s 17th Ebola disease outbreak, initially affecting Rwampara, Mongbwalu and Bunia HZs. Uganda subsequently confirmed two imported cases on 15 and 16 May 2026. On 16 May 2026, the WHO Director-General determined that the outbreak constituted a Public Health Emergency of International Concern (PHEIC) under the International Health Regulations (2005).</p>\n",
+    "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-bundibugyo-virus-disease-outbreak-democratic-republic-congo-uganda-weekly-external-situation-report-01-data-18-may-2026",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4213012",
+    "file_url": "https://reliefweb.int/attachments/8b4f1240-5982-495b-88d2-17d78918b633/Wk_Ext_SitRep_0118052026.pdf"
+  },
+  {
+    "id": "rw-4213013",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Lebanon Cash Working Group: Situation Report #2 (Reporting period: 15 April to 15 May 2026)",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "scope": "single",
+    "date": "2026-05-21",
+    "content": "<p><strong>Situation Overview</strong></p>\n<p>Renewed hostilities since early March 2026 have significantly aggravated humanitarian needs across Lebanon, triggering mass internal displacement now affecting more than one million people. Against this backdrop, the 2026 Flash Appeal (March–May) seeks USD 308.3 million to address urgent needs, yet funding levels remain critically insufficient, with overall coverage below 40 per cent. Cash-based responses, particularly MPCA, are among the most underfunded components, limiting the response’s ability to keep pace with the scale, diversity, and geographic spread of needs.</p>\n<p>Despite access and security constraints, local markets continue to operate in most displacement-affected areas, including major IDP-hosting locations. This reality reinforces the operational relevance of cash assistance, which the Cash Working Group (CWG) continues to prioritize as the most appropriate response modality where markets are functional, supporting choice, flexibility, and efficient delivery at scale.</p>\n<p>For displaced households living outside shelters, cash assistance plays a critical role in covering a wide range of essential expenditures, including housing, food, healthcare, transport, and disability-related needs, while also reducing exposure to high-risk coping strategies. These needs are particularly acute in hard-to-reach and high-risk areas, including parts of southern Lebanon. However, the persistent under-resourcing of cash assistance highlights the need for greater financing flexibility, improved alignment across sectors, and stronger collective prioritization to ensure assistance reaches those most in need in a timely and predictable manner.</p>\n",
+    "url": "https://reliefweb.int/report/lebanon/lebanon-cash-working-group-situation-report-2-reporting-period-15-april-15-may-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4213013",
+    "file_url": "https://reliefweb.int/attachments/d518a160-9ae0-5f72-b9e3-df3a9322083a/Situation%20Report%202026%20SitRep%20%232.pdf"
+  },
+  {
+    "id": "rw-4213018",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Pakistan - Market Monitor Report - April 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Pakistan",
+    "scope": "single",
+    "date": "2026-05-21",
+    "content": "<p><strong>HIGHLIGHTS April</strong></p>\n<ul>\n<li>The <strong>Consumer Price Index (CPI)-based annual headline inflation increased to 10.9 percent (YoY),</strong> up from 7.3 percent in March. On a month-on-month basis the <strong>CPI</strong> <strong>is up by 2.5 percent,</strong> in April compared to March, reflecting higher transport and perishable food costs.</li>\n<li><strong>Annual food inflation increased by 7.6 percent (YoY) compared to April 2025,</strong> indicating that households paid nearly 8 percent more for food items - impacting food expenditure, especially for poor households.</li>\n<li><strong>Prices of wheat and wheat flour in April were slightly lower</strong> compared to March, while rice prices largely remained stable with marginal decreases, reflecting adequate supply conditions.</li>\n<li>Compared to the previous month, the terms-of trade (ToT) improved by 4 percent, meaning that an unskilled daily wage earner’s wage could purchase marginally more wheat flour (12.3 kgs) in April than in March (11.8 kg), offering some relief.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/pakistan/pakistan-market-monitor-report-april-2026-0",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4213018",
+    "file_url": "https://reliefweb.int/attachments/05df0b91-14bb-4b05-8bcd-80e6910ba90b/WFP%20Pakistan%20Monthly%20Market%20Monitor%20-%20May%202026.pdf"
+  },
+  {
+    "id": "rw-4213020",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Situation Report - Sri Lanka 21st May 2026 at 1000hrs",
+    "source": "DMC Sri Lanka",
+    "crisis": "Flash Flood",
+    "location": "Sri Lanka",
+    "scope": "single",
+    "date": "2026-05-21",
+    "content": "No summary available.",
+    "url": "https://reliefweb.int/report/sri-lanka/situation-report-sri-lanka-21st-may-2026-1000hrs",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4213020",
+    "file_url": "https://reliefweb.int/attachments/3aa5205d-32cb-419b-a18f-357488ca19fc/Situation_Report_on_2026__1779338686.pdf"
+  },
+  {
     "id": "ai-crisis-dr-congo--ebola-outbreak---may-2026",
     "provider": "ai",
     "type": "ai-summary",
@@ -9,7 +128,7 @@
     "location": "Democratic Republic of the Congo",
     "scope": null,
     "date": "2026-05-21",
-    "content": "• The Democratic Republic of Congo (DRC) is experiencing its 17th Ebola outbreak, caused by the Bundibugyo strain, with over 500 suspected cases and at least 130 deaths reported as of 19 May 2026, primarily in Ituri province. Uganda has confirmed two cases, including one death, both linked to the DRC outbreak.\n\n• The outbreak is concentrated in eastern DRC, especially Ituri’s Mongbwalu, Bunia, and Rwampara health zones, with transmission complicated by delayed detection, insecurity, mining-related mobility, and weak health infrastructure. Infection prevention and control (IPC) readiness is critically low, with severe shortages of personal protective equipment and trained staff.\n\n• There is no approved vaccine or therapeutics for the Bundibugyo strain, so response efforts focus on rapid surveillance, contact tracing, testing, IPC measures, clinical care, risk communication, community engagement, and cross-border coordination. At least four healthcare workers have died, highlighting risks of healthcare-associated transmission.\n\n• Humanitarian needs are severe, with over 1.9 million people in Ituri and 2.5 million in North Kivu already requiring assistance due to conflict, displacement, and recurrent outbreaks. The fragile operating environment and overstretched health facilities exacerbate the crisis.\n\n• Regional coordination is active, involving the DRC Ministry of Health, WHO, Africa CDC, IFRC, and neighbouring countries including Uganda and South Sudan, which is enhancing preparedness due to population movements and cross-border risks. Uganda has activated surveillance and community-based monitoring but has not confirmed local transmission beyond imported cases.\n\nThis outbreak follows the recent end of the 16th Ebola outbreak in Kasai Province in late 2025, which was geographically confined and involved the Zaire strain. The current Bundibugyo strain outbreak poses greater challenges due to lack of vaccines and therapeutics, ongoing insecurity, and complex population movements in eastern DRC, requiring sustained international support and regional collaboration to contain spread and address humanitarian needs.",
+    "content": "• On 5 May 2026, an unknown illness with high mortality was reported in Ituri Province, DRC; by 15 May, the Bundibugyo virus was confirmed as the cause, marking the 17th Ebola outbreak in the country, centred in Mongbwalu, Rwampara, and Bunia health zones.  \n• As of 19 May 2026, over 500 suspected cases and at least 130 deaths have been reported in DRC; Uganda has confirmed two imported cases with one death in Kampala.  \n• The Bundibugyo strain lacks approved vaccines or therapeutics, complicating response efforts which focus on surveillance, contact tracing, infection prevention and control (IPC), clinical care, community engagement, and cross-border coordination.  \n• Health facilities in affected areas are under severe strain with critical shortages of personal protective equipment, trained staff, isolation capacity, and IPC coverage below 35% in key hospitals; at least four healthcare workers have died.  \n• The outbreak exacerbates pre-existing humanitarian needs in Ituri and North Kivu provinces, where millions already require assistance due to conflict, displacement, and prior health crises; regional coordination includes DRC, Uganda, South Sudan, WHO, Africa CDC, IFRC, and partners.\n\nThis outbreak follows the recent end of the 16th Ebola outbreak in Kasai Province in late 2025, highlighting ongoing vulnerability to Ebola in DRC. The current situation is aggravated by insecurity, population mobility linked to mining, and weak health infrastructure. Regional preparedness and response efforts are critical to prevent further spread in the Great Lakes region.",
     "url": null,
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -17,11 +136,38 @@
     "file_url": null,
     "relatedSources": [
       "IFRC",
-      "IMC"
+      "IMC",
+      "WHO"
     ],
     "sourceIds": [
+      "rw-4213012",
       "rw-4212813",
       "rw-4212599"
+    ]
+  },
+  {
+    "id": "ai-crisis-tropical-cyclone-maila---apr-2026",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Tropical Cyclone Maila - Apr 2026",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Tropical Cyclone Maila - Apr 2026",
+    "location": "Solomon Islands",
+    "scope": null,
+    "date": "2026-05-21",
+    "content": "• Tropical Cyclone Maila caused displacement of at least 964 people in Solomon Islands' Western and Choiseul provinces, with damage to 21 health facilities and 59 schools affecting around 2,000 children; environmental damage and risks of waterborne disease outbreaks are reported.  \n• In Solomon Islands, humanitarian response includes distribution of non-food items such as WASH kits, blankets, and shelter materials, with ongoing displacement tracking and expansion of aid operations planned.  \n• In Papua New Guinea, over 128,000 people across five provinces have been affected, with 114,000 requiring humanitarian assistance and 50 fatalities reported; priority needs include food, shelter, WASH, health services, and access to isolated communities.  \n• The PNG response is transitioning from emergency to recovery phase, with coordination shifting to provincial authorities, though national monitoring and support continue; logistics challenges persist due to damaged infrastructure and adverse sea conditions.  \n• Multi-sector humanitarian activities are underway in PNG’s Autonomous Region of Bougainville, Milne Bay, East New Britain, and New Ireland, with plans to expand to West New Britain.  \n\nTropical Cyclone Maila struck the Solomon Islands and Papua New Guinea in April 2026, causing widespread displacement, infrastructure damage, and humanitarian needs. While the Solomon Islands response focuses on immediate relief and displacement tracking in the most affected provinces, PNG is managing a larger-scale crisis with significant numbers affected and a transition towards recovery, despite logistical difficulties. Continued coordination and resource mobilisation remain critical to address ongoing needs.",
+    "url": null,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "IOM",
+      "UNCT PNG"
+    ],
+    "sourceIds": [
+      "rw-4212933",
+      "rw-4212627"
     ]
   },
   {
@@ -34,7 +180,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-05-21",
-    "content": "• Since 2 March 2026, hostilities in Lebanon have resulted in at least 2,988 deaths and 9,210 injuries, including significant numbers of women and children.  \n• Despite a ceasefire extension announced on 15 May, intense Israeli airstrikes continue, particularly in southern Lebanon and expanding into the Bekaa region, worsening civilian insecurity.  \n• Displacement is rising, with over 130,000 internally displaced persons (IDPs) now hosted across 634 collective shelters, an increase of more than 2,200 people since mid-May; renewed evacuation orders have affected multiple localities.  \n• Healthcare services remain under severe strain, with attacks on medical personnel causing deaths and injuries, and critical sectors like WASH facing risks of service interruption due to funding shortfalls.  \n• The 2026 Lebanon Flash Appeal is only 51 per cent funded (US$158.2 million of US$308 million required), limiting humanitarian response capacity despite new significant funding commitments announced by the United States.  \n\nThe humanitarian situation in Lebanon remains highly fragile and volatile, with ongoing hostilities undermining security and access to essential services. Displacement continues to rise amid damaged infrastructure and limited returns, while constrained humanitarian access and funding gaps threaten the continuity of life-saving assistance. Without improved security and increased resources, vulnerabilities across affected populations are expected to deepen.",
+    "content": "• Since early March 2026, renewed hostilities in Lebanon have caused mass internal displacement exceeding one million people, with over 130,000 IDPs currently hosted across 634 collective shelters. Displacement is increasing, particularly in Beirut, Mount Lebanon, and North Lebanon, while returns remain limited due to insecurity and damaged infrastructure.\n\n• Hostilities have intensified despite a ceasefire extension announced in mid-May, with ongoing airstrikes especially in southern Lebanon and the Bekaa region. Since 2 March, nearly 3,000 people have been killed and over 9,200 injured, including significant numbers of women and children. Healthcare workers continue to face attacks, resulting in deaths and injuries.\n\n• Humanitarian needs are acute and diverse, including shelter, food, healthcare, transport, and disability-related support. Cash-based assistance is a critical response modality due to functioning local markets, but remains severely underfunded, limiting timely and adequate aid delivery.\n\n• The 2026 Lebanon Flash Appeal requests USD 308.3 million but is only 40–51% funded, threatening continuity of essential services such as water, sanitation, and hygiene (WASH). Recent additional funding commitments, including a US$1.8 billion package benefiting Lebanon among other countries, may help address gaps.\n\n• Humanitarian access remains constrained by insecurity and logistical challenges, especially in hard-to-reach areas. Coordination and flexible planning are needed to respond to rapidly shifting displacement and service demands.\n\nDespite ceasefire agreements, the security situation in Lebanon remains volatile with ongoing military activity undermining civilian safety and infrastructure. The combination of escalating displacement, underfunded humanitarian response, and restricted access continues to exacerbate vulnerabilities across the country, necessitating urgent and sustained international support.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -42,10 +188,12 @@
     "file_url": null,
     "relatedSources": [
       "OCHA",
+      "UNHCR",
       "UNRWA",
       "WeWorld"
     ],
     "sourceIds": [
+      "rw-4213013",
       "rw-4212962",
       "rw-4212861",
       "rw-4212788"
@@ -61,7 +209,7 @@
     "location": "Middle East",
     "scope": null,
     "date": "2026-05-21",
-    "content": "• Since late February 2026, escalating hostilities in Iran and Lebanon have exacerbated an already fragile humanitarian situation in the Middle East, impacting over 24 million forcibly displaced people and host communities under economic and social strain.  \n• In Iran, the Flash Refugee Response Plan targets 1.65 million refugees and others in need of protection, alongside 1 million host community members and 150,000 Afghans of other status; in Lebanon, a USD 308.3 million Flash Appeal aims to assist 1 million people with lifesaving aid and protection.  \n• Preparedness measures for potential large-scale refugee flows from Iran are in place in neighbouring countries, including border monitoring and reception readiness, but these depend heavily on flexible and predictable funding.  \n• Lebanon’s telecommunications network remains operational but fragile, with reduced coverage in the south due to damaged infrastructure and increased congestion from ongoing displacement, affecting service quality and humanitarian coordination.  \n• The Logistics & Telecommunications Cluster, activated in March 2026 and led by WFP, has introduced data visualization tools to support coordination and near real-time connectivity monitoring in Beirut and southern Lebanon, while limited Starlink internet access is available through government-authorized channels.  \n\nThe humanitarian response is challenged by limited funding and increasing protection risks amid rising displacement and cross-border movements. Efforts focus on delivering urgent assistance and strengthening infrastructure to support both displaced populations and host communities across the region.",
+    "content": "• Since late February 2026, escalating hostilities in Iran and Lebanon have worsened humanitarian conditions, triggering refugee returns to Afghanistan and Syria under adverse circumstances and increasing protection risks across the region.  \n• The region already hosts over 24 million forcibly displaced people, with host communities facing severe economic and social strain, and many countries struggling to meet existing humanitarian needs amid limited funding.  \n• In response, inter-agency emergency plans have been activated: Iran’s Flash Refugee Response Plan targets 1.65 million refugees and 1 million host community members; Lebanon’s USD 308.3 million Flash Appeal aims to assist 1 million people with lifesaving aid and protection.  \n• Lebanon’s telecommunications infrastructure is fragile, especially in the south where damaged sites and displacement-related congestion degrade service quality, complicating humanitarian coordination and information management.  \n• The Logistics & Telecommunications Cluster, led by WFP, has been activated to support response efforts, including deploying data visualization tools and facilitating limited Starlink internet access through government-authorized channels.  \n\nThe ongoing conflict in Iran and Lebanon is exacerbating an already critical displacement crisis in the Middle East, stretching humanitarian capacities and infrastructure. Effective coordination and flexible funding remain essential to address urgent protection and assistance needs, while fragile telecom networks pose operational challenges for aid delivery.",
     "url": null,
     "region": "Other",
     "subregion": "",
@@ -87,7 +235,7 @@
     "location": "Sri Lanka",
     "scope": null,
     "date": "2026-05-21",
-    "content": "• No specific information or updates were provided in the situation reports from the Disaster Management Centre (DMC) Sri Lanka dated 19 and 20 May 2026.\n\n• The absence of detailed data limits the assessment of current developments, figures, or humanitarian needs related to the crisis in Sri Lanka.\n\nWithout further information, it is not possible to provide an accurate briefing on the situation. Additional reports or data are required to understand the context and identify priority areas for response.",
+    "content": "• No specific information or updates are available from the Disaster Management Centre (DMC) Sri Lanka reports dated 19, 20, and 21 May 2026.\n\n• The absence of data suggests either a lack of significant new developments or a delay in reporting on the current situation in Sri Lanka.\n\n• Humanitarian needs, affected populations, and response activities cannot be assessed based on the available reports.\n\nFurther context or detailed situation reports are required to provide an accurate briefing on the crisis or humanitarian situation in Sri Lanka at this time.",
     "url": null,
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -97,6 +245,7 @@
       "DMC Sri Lanka"
     ],
     "sourceIds": [
+      "rw-4213020",
       "rw-4212806",
       "rw-4212633"
     ]
@@ -111,7 +260,7 @@
     "location": "occupied Palestinian territory",
     "scope": null,
     "date": "2026-05-21",
-    "content": "• In April 2026, at least 111 Palestinians, including 18 children and 7 women, were killed in Gaza due to Israeli military operations involving airstrikes, artillery, naval shelling, drone attacks, and gunfire, mainly in eastern Gaza City and Khan Younis.  \n• The Israeli militarised zone in Gaza has expanded eastward, bringing five UNRWA installations, including two schools used as shelters for displaced families, closer to active conflict areas, complicating humanitarian efforts and increasing civilian risk.  \n• Gaza’s health system is nearing collapse, with a public health crisis exacerbated by widespread infestation of disease-carrying rodents and insects in shelters and displacement sites, further endangering vulnerable populations.  \n• Between 8 April and 12 May 2026, there were multiple attacks on health facilities and obstruction of medical services in Gaza and the West Bank, including drone strikes near hospitals, shelling close to clinics, and ambulances being blocked or damaged by Israeli forces or settlers.  \n• Fuel shortages have forced hospitals to reduce generator use, limiting critical medical services and increasing the risk to patients requiring urgent care.\n\nThe ongoing conflict and military activities in the occupied Palestinian territory are severely impacting civilian safety, access to healthcare, and humanitarian operations. The expansion of militarised zones and repeated targeting or obstruction of health services are driving a worsening humanitarian and public health crisis in Gaza and the West Bank.",
+    "content": "• In April 2026, at least 111 Palestinians, including 18 children and 7 women, were killed in Gaza due to Israeli military actions involving airstrikes, artillery, naval shelling, drone attacks, and gunfire, mainly in eastern Gaza City and Khan Younis.  \n• The Israeli militarised zone in Gaza has expanded eastward, bringing five UNRWA installations, including two schools used as shelters for displaced families, closer to active conflict areas, complicating humanitarian efforts and increasing civilian risks.  \n• Gaza’s health system is nearing collapse, with a significant public health crisis emerging due to the spread of disease-carrying rodents and insects in shelters and displacement sites, exacerbating already dire living conditions.  \n• Between 8 April and 24 April 2026, there were seven reported incidents of violence or obstruction affecting healthcare in Gaza, including drone strikes near hospitals, gunfire at a UN health centre, and fuel shortages forcing hospitals to reduce generator use, severely limiting medical services.  \n• In the West Bank and East Jerusalem, ambulances have frequently been obstructed by Israeli forces or settlers from reaching injured persons between late April and mid-May 2026, impeding emergency medical response and contributing to preventable deaths.\n\nThe ongoing conflict and military operations in the occupied Palestinian territory continue to severely impact civilian safety, access to healthcare, and humanitarian operations. The expansion of conflict zones near civilian shelters and critical infrastructure heightens vulnerability, while health system degradation and restricted medical access exacerbate the humanitarian crisis.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -125,6 +274,23 @@
       "rw-4212787",
       "rw-4212810"
     ]
+  },
+  {
+    "id": "rw-4212933",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "IOM Solomon Islands: Tropical Cyclone Maila Situation Report No. 2 (12 May 2026)",
+    "source": "IOM",
+    "crisis": "Tropical Cyclone Maila - Apr 2026",
+    "location": "Solomon Islands",
+    "scope": "single",
+    "date": "2026-05-20",
+    "content": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>At least <strong>844 persons are displaced across 7 communities</strong> visited by IOM in Western Province and a further <strong>120 persons</strong> have reportedly been displaced in Choiseul (based on NEOC reporting) as a result of Category 4 Tropical Cyclone (TC) Maila, which formed as a Tropical Cyclone on 04 April and continued to develop in strength, lingering over the Solomon Sea until 10 April 2026 where it began moving West/Southwest to Papua New Guinea (PNG) and gradually weakened to a tropical low by 11 April 2026</li>\n<li>On the 10 April, the government declared a <strong>State of Disaster for Western and Choiseul provinces</strong>, with significant impacts also sustained in Isabel and some communities in Central and Guadalcanal Weather Coast. The most severely impacted locations include Nusa and Lengana communities in Simbo Island</li>\n<li><strong>Damage reported includes critical infrastructure</strong> with 21 health facilities and 59 schools damaged, affecting at least 2000 children in Western and Choiseul provinces. Widespread environmental damage reported, including vegetation and loss of food gardens. Concern for potential health outbreaks because of groundwater contamination and damaged water systems</li>\n<li>Number of displaced is expected to increase, as IOM rapid response personnel working with NDMO and Provincial Government Authorities and partners (ADRA, Red Cross and UN) in Western Province to carry out Displacement Tracking Matrix (DTM) displacement tracking, while also looking to expand operations to Choiseul Province and other affected communities</li>\n<li>IOM, through support from the Korea International Cooperation Agency (KOICA), has supported Western Provincial Government with <strong>360 sets of Non-Food Items (NFIs)</strong> which were released from Gizo warehouse on 16 April and distributed to affected communities. A further <strong>370 sets of NFIs</strong> are expected to arrive in Honiara by 01 May for transportation to Western Province and handover to Provincial Government by mid-May. Items include WASH/hygiene kits, blankets, jerry cans, kitchen sets, rope, sleeping mats, solar lamps, tarpaulins and indoor partitioning/pop up tents</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/solomon-islands/iom-solomon-islands-tropical-cyclone-maila-situation-report-no-2-12-may-2026",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "rw_id": "4212933",
+    "file_url": "https://reliefweb.int/attachments/c1093f4a-aaa5-55c6-90ec-bbeb8f3433c6/cyclone-maila-iom_sitrep_2.pdf"
   },
   {
     "id": "rw-4212959",
