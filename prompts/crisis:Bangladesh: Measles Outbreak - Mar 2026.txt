@@ -1,7 +1,20 @@
 Crisis / situation: Bangladesh: Measles Outbreak - Mar 2026
 
---- Report 1: Bangladesh Red Crescent (2026-04-21) ---
-Overall Situation: Bangladesh is currently facing a significant resurgence of measles, posing a major public health concern, particularly for young children. After several years of progress toward measles elimination, recent trends indicate a reversal, driven largely by immunity gaps and uneven vaccination coverage across the country. Measles is a highly contagious viral disease with serious health consequences, particularly for children. It spreads rapidly in lowimmunity settings and can lead to severe complications such as pneumonia, encephalitis, blindness, and malnutrition. The most affected group is children under five years of age, especially those who are unvaccinated or partially vaccinated. Bangladesh is currently has been experiencing a nationwide surge in measles cases, with …
+--- Report 1: UN RC Bangladesh (2026-05-21) ---
+Highlights
+• Bangladesh has reported 57,856 suspected measles cases and 8,067 confirmed cases across all 64 districts as of 20 May, with children under five accounting for 81 per cent of reported cases.
+• More than 18.3 million children have been vaccinated through the nationwide measlesrubella (MR) campaign, surpassing the initial target and reaching 102 per cent coverage.
+• Weekly measles transmission remains high, with average daily reported cases exceeding 1,100 since 9 April, despite declines observed in several high-priority upazilas following the start of vaccination activities.
+• In Bhasan Char and Cox’s Bazar camps, vaccination campaigns reached most targeted children, while 595 suspected cases, 60 confirmed cases and five deaths have been reported among Rohingya refugees to date.
+• Humanitarian partners have supported surge response measures at priority health facilities, including the deployment of frontline health workers, the establishment of temporary triage and isolation capacity, and the procurement of critical medical supplies and equipment.
+• The Government is considering extending the MR vaccination campaign by one month, particularly in underserved and hard-to-reach areas where transmission remains high.
 
---- Report 2: IFRC (2026-04-20) ---
-Description of the Event Date when the trigger was met 05-04-2026 What happened, where and when? After several years of progress towards measles elimination, Bangladesh has experienced a significant resurgence of measles since early 2026, reversing previous positive trends and posing a major public health concern, particularly for young children. Measles is a highly contagious viral disease that spreads rapidly in low‐immunity settings and can lead to severe complications, including pneumonia, encephalitis, blindness, malnutrition, and death. Children under five years of age are the most affected, especially those who are unvaccinated or partially vaccinated. The current outbreak began to escalate in January 2026, with a steady increase in reported measles cases across the country. By M…
+--- Report 2: UN RC Bangladesh (2026-05-20) ---
+This report was produced by the Inter-Cluster Coordination Group in collaboration with cluster coordinators and humanitarian partners, members of the Humanitarian Coordination Task Team and covers the period 24 April to 5 May 2026.
+Highlights
+• As of 5 May, Bangladesh Ministry of Health and Family Planning reported almost 43,000 suspected measles cases and over 5,700 confirmed cases, including at least 54 confirmed deaths and 263 suspected deaths.
+• These figures indicate approximately 18,000 new confirmed or suspected cases over a two-week period since 22 April, equivalent to approximately 9,000 cases per week. This represents a slowdown in the reported infection rate compared to the previous reporting period (with 11,000 new cases reported in the week of 15-22 April).
+• Children under five make up approximately 72 per cent of cases, slightly lower than in the last reporting period where the proportion was at 80 per cent.
+• The national measles‑rubella vaccination campaign has expanded, with over 16 million children vaccinated.
+• The outbreak is placing severe strain on the health system, especially in high‑burden divisions, due to overcrowding, limited isolation and referral capacity, rising demand for critical care, shortages of trained staff and essential medical supplies.
+• Government and partners are continuing to scale up community outreach, child‑friendly vaccination centres, Vitamin A distribution, and awareness campaigns. Efforts include targeted support to refugees, malnourished children and hard‑to‑reach areas.
