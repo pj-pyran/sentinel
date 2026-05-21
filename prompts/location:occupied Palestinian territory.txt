@@ -1,6 +1,13 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: UNRWA (2026-05-20) ---
+--- Report 1: WFP (2026-05-21) ---
+HIGHLIGHTS
+• Families in Gaza continue to face severe economic hardship, with high unemployment and continued reliance on humanitarian assistance for basic food needs, including wheat flour. One in five households still eats only once daily.
+• WFP continued large-scale food assistance through distributions, bakeries, and community kitchens, alongside a shift toward increased cash-based support via e-wallets. Nutrition and child-focused assistance also continued, including support for pregnant and breastfeeding women and children in learning spaces, while reduced commercial inflows kept pressure on markets and household access to food.
+• In the West Bank, humanitarian needs continued to rise due to military operations, violence, movement restrictions, and displacement.
+WFP continued emergency food and cash assistance to vulnerable households.
+
+--- Report 2: UNRWA (2026-05-20) ---
 Highlights
 The Gaza Strip
 
@@ -8,7 +15,7 @@ Israeli forces continued to maintain a high level of activity, primarily in east
 The so-called “Yellow Line” marking the Israeli-militarised zone in the Gaza Strip was significantly extended eastward in Gaza City and Khan Younis, with reports of tank advances by Israeli forces in both areas. As a result of the expansion, five UNRWA installations are now in proximity of the militarised zone, including two schools-turned-shelters hosting displaced families. The expansion of the militarised area is expected to affect humanitarian interventions and further squeeze the population, increasing the risks posed by violence in this area.
 As UNRWA's Director of Health warned that “the current spread of rodents and infections is not merely a health issue, but a clear sign of Gaza’s vulnerability and near collapse of its health system.” The spread of disease-carrying rodents and insects is driving a growing public health crisis and undermining already precarious living conditions. Rodents are heavily infesting emergency shelters, displacement sites, and tents, biting people and contaminating living spaces.
 
---- Report 2: Insecurity Insight (2026-05-20) ---
+--- Report 3: Insecurity Insight (2026-05-20) ---
 Since the 08 April 2026 Iran ceasefire, Israeli forces have reportedly increased attacks that directly affected health facilities and access to care across Gaza. In total, Insecurity Insight identified seven incidents of violence against or obstruction of health in the 16 days between 08 and 24 April 2026, compared to four incidents in the previous 16-day period (23 March-07 April). Reported incidents include Israeli drone strikes and artillery shelling near hospitals, restricting safe access to medical care, as well as gunfire directed at a UN-run health centre. Fuel restrictions and ongoing Israeli military operations also pushed critical services closer to collapse: on 11 April, a hospital was forced to shut down one of its main generators due to fuel shortages, leaving vital departments dependent on lower-capacity backup generators operating only for limited hours.
 Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
 Past briefs: 15-28 April; 01-14 April; 18-31 March; 04-17 March; 18 February-03 March; 04-17 February; 21 January-03 February; 07-20 January; 24 December 2025-06 January; 10-23 December; 26 November-09 December; All
