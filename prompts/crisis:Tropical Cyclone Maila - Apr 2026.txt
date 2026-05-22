@@ -1,6 +1,16 @@
 Crisis / situation: Tropical Cyclone Maila - Apr 2026
 
---- Report 1: IOM (2026-05-20) ---
+--- Report 1: PHT (2026-05-22) ---
+This report is produced by OCHA Office of the Pacific Islands in collaboration with humanitarian partners under the Pacific Humanitarian Team (PHT). It covers the period from 08 -16 May 2026.
+HIGHLIGHTS
+
+Humanitarian partners continue to scale-up the response, with a shift from immediate relief to stabilization and early recovery, while significant gaps remain across sectors
+Displacement remains significant, with affected populations still residing in evacuation centres, host communities, and informal settlements. Shelter identified as top priority, alongside construction materials and technical support to rebuild.
+Health services are still constrained, with 41 facilities partially functional and around 180 expectant mothers requiring urgent access to safe delivery services.
+Widespread damage to WASH systems is increasing risks of waterborne disease and delaying reopening of schools and health facilities
+Education disruption is significant, affecting over 11,000 children across 84 schools, while protection risks, including GBV and psychosocial distress, are rising.
+
+--- Report 2: IOM (2026-05-20) ---
 HIGHLIGHTS
 
 At least 844 persons are displaced across 7 communities visited by IOM in Western Province and a further 120 persons have reportedly been displaced in Choiseul (based on NEOC reporting) as a result of Category 4 Tropical Cyclone (TC) Maila, which formed as a Tropical Cyclone on 04 April and continued to develop in strength, lingering over the Solomon Sea until 10 April 2026 where it began moving West/Southwest to Papua New Guinea (PNG) and gradually weakened to a tropical low by 11 April 2026
@@ -8,14 +18,3 @@ On the 10 April, the government declared a State of Disaster for Western and Cho
 Damage reported includes critical infrastructure with 21 health facilities and 59 schools damaged, affecting at least 2000 children in Western and Choiseul provinces. Widespread environmental damage reported, including vegetation and loss of food gardens. Concern for potential health outbreaks because of groundwater contamination and damaged water systems
 Number of displaced is expected to increase, as IOM rapid response personnel working with NDMO and Provincial Government Authorities and partners (ADRA, Red Cross and UN) in Western Province to carry out Displacement Tracking Matrix (DTM) displacement tracking, while also looking to expand operations to Choiseul Province and other affected communities
 IOM, through support from the Korea International Cooperation Agency (KOICA), has supported Western Provincial Government with 360 sets of Non-Food Items (NFIs) which were released from Gizo warehouse on 16 April and distributed to affected communities. A further 370 sets of NFIs are expected to arrive in Honiara by 01 May for transportation to Western Province and handover to Provincial Government by mid-May. Items include WASH/hygiene kits, blankets, jerry cans, kitchen sets, rope, sleeping mats, solar lamps, tarpaulins and indoor partitioning/pop up tents
-
---- Report 2: UNCT PNG (2026-05-19) ---
-This report is produced by the Papua New Guinea Disaster Management Team (DMT) in collaboration with humanitarian partners, the National Emergency Operations Center (NEOC) within the PNG National Disaster Center (NDC), and relevant Provincial Government partners. Sources: NEOC daily briefing minutes, Provincial SitReps, disaster needs assessment reports, official communications, and DMT/ISCG meeting minutes. It covers the period from 08 – 16 May 2026.
-HIGHLIGHTS
-
-As of 16 May 2026, assessments have expanded to 256 wards in 29 LLGs, across 10 districts and 5 affected provinces.
-Preliminary findings indicate over 128,000 people affected, with over 114,000 people in need of humanitarian assistance, and 50 reported fatalities.
-Priority needs identified include food assistance, shelter and NFIs, WASH, health services, and support to reach isolated and hard to reach communities.
-As of 15 May 2026, the National Disaster Centre’s National Emergency Operations Centre (NDC-NEOC) will be deactivated as the response transitions to the recovery phase, with coordination shifting to provincial level while maintaining national-level monitoring, weekly coordination meetings, and surge support as required for affected provinces.
-Logistics constraints persist due to damaged infrastructure and difficult sea conditions, with reliance on air and maritime transport.
-Multi‑sector response ongoing across food assistance, shelter/NFI, WASH, health, protection, and cash assistance in the Autonomous Region of Bougainville (AROB), Milne Bay, East New Britain, and New Ireland, with expansion planned to West New Britain.
