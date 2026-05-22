@@ -1,19 +1,7 @@
 Crisis / situation: Middle East
 
---- Report 1: UNHCR (2026-05-20) ---
+--- Report 1: WFP (2026-05-21) ---
+No summary available.
+
+--- Report 2: UNHCR (2026-05-20) ---
 Since late February, escalating hostilities in Iran and Lebanon have triggered humanitarian consequences with impact across the region, including refugee returns in adverse circumstances to Afghanistan and Syria. Events are unfolding against an already fragile humanitarian baseline, with over 24 million forcibly displaced people hosted across the wider region prior to the current escalation, alongside host communities under significant economic and social strain. Inter agency emergency response is underway to address urgent needs. In Iran, the Flash Refugee Response Plan targets refugees and others in need of international protection alongside affected host communities. In Lebanon, a Flash Appeal complements the broader response under the Lebanon Response Plan to deliver life saving assistance and protection, including to Syrian refugees. In Afghanistan, the funding requirement for the returns response is outlined under the Humanitarian Needs &amp; Response Plan. UNHCR and partners have been working across countries neighbouring Iran to strengthen preparedness for possible large-scale refugee flows, in support of national authorities. Preparedness measures are in place, including border monitoring, reception and protection readiness, but these arrangements remain highly dependent on flexible and predictable funding in an increasingly constrained resource environment.
-
---- Report 2: UNHCR (2026-05-19) ---
-Overview
-Escalating hostilities across Asia and the Middle East have led to a deterioration in the humanitarian situation. The affected areas already host 24.3 million forcibly displaced people, many of whom, alongside host communities, face signiﬁcant protection risks and humanitarian needs.
-With limited funding, many countries are struggling to meet existing needs, making it increasingly difficult to absorb additional pressures and support newly displaced populations.
-Situation Overview
-Protection needs are rising, alongside heightened risk of internal displacement, new cross-border outﬂows, and onward movements to neighbouring countries.
-An inter-agency emergency response has been launched to address urgent needs across the region. In Iran, the Flash Refugee Response Plan targets 1.65 million Afghan and Iraqi refugees and others in need of international protection, alongside 1 million host community members and 150,000 Afghans of other status. In Lebanon, a USD 308.3 million Flash Appeal aims to support 1 million people with lifesaving assistance and protection.
-
---- Report 3: ETC (2026-05-19) ---
-This situation report provides updates on the Middle East escalation, with focus on Lebanon’s security situation. It outlines the telecoms area activities of the Logistics &amp; Telecommunications Cluster (LTC) in support of the humanitarian response. The Cluster was formally activated on 16 March 2026 and is led by the United Nations World Food Programme (WFP).
-Summary Points
-• Lebanon’s telecommunications network remains operational but fragile, with reduced coverage in the south due to damaged sites and limited access for repairs. Ongoing displacement is increasing congestion in host areas, degrading service quality and placing pressure on mobile data and local networks.
-• UN agencies have been informed of Starlink availability through Alfa, with pre-orders now open. Activation is limited to kits procured through the Government-authorized reseller.
-• The LTC has launched two data visualization layers on LogIE: one mapping telecom services (coordination, information management, assessments), and another, developed with ITU, providing near real-time connectivity data for Beirut and southern Lebanon.
