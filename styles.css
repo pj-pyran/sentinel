@@ -886,6 +886,55 @@ body {
   opacity: 0.65;
 }
 
+.sitrep-prompt-meta {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 0.5rem 0 0.25rem 0;
+  opacity: 0.8;
+}
+
+.sitrep-prompt {
+  margin-top: 0.25rem;
+}
+
+.sitrep-prompt-toggle {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+}
+
+.sitrep-prompt-toggle::-webkit-details-marker { display: none; }
+.sitrep-prompt-toggle::marker { content: none; }
+
+.sitrep-prompt-toggle::before {
+  content: '▸ ';
+  font-size: 0.65rem;
+  opacity: 0.7;
+}
+
+.sitrep-prompt[open] .sitrep-prompt-toggle::before {
+  content: '▾ ';
+}
+
+.sitrep-prompt-text {
+  margin: 0.35rem 0 0 0.9rem;
+  padding: 0.5rem 0.6rem;
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--muted);
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 250px;
+  overflow-y: auto;
+}
+
 
   display: inline-flex;
   align-items: center;
