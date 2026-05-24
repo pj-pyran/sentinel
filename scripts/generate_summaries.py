@@ -13,9 +13,11 @@ Requires: GITHUB_TOKEN env var (injected automatically in GH Actions).
 Run locally:  GITHUB_TOKEN=<pat> python scripts/generate_summaries.py
 """
 
+import hashlib
 import json
 import os
 import re
+import sqlite3
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -26,6 +28,7 @@ from openai import OpenAI
 # ---------------------------------------------------------------------------
 
 SITREPS_PATH = Path('public/data/sitreps.json')
+DB_PATH      = Path('public/data/history.db')
 WINDOW_HOURS = 48        # look back window for source sitreps
 MIN_SOURCES  = 2         # minimum originals needed to produce a summary
 # MODEL        = 'gpt-4o-mini'
@@ -99,13 +102,25 @@ def strip_html(html: str) -> str:
     return re.sub(r'<[^>]+>', '', html or '').strip()
 
 
-def build_prompt(label: str, sitreps: list[dict]) -> str:
-    parts = [f'Crisis / situation: {label}\n']
+def build_prompt(label: str, sitreps: list[dict]) -> tuple[str, str]:
+    """Return (full_prompt, display_prompt).
+
+    full_prompt    — includes stripped body content; passed to the model.
+    display_prompt — source/date/title lines only (no body); stored in JSON
+                     for UI display without bloat.
+    """
+    header        = f'Crisis / situation: {label}\n'
+    full_parts    = [header]
+    display_parts = [header]
     for i, s in enumerate(sitreps, 1):
-        parts.append(f'--- Report {i}: {s["source"]} ({s["date"]}) ---')
-        parts.append(strip_html(s.get('content') or s.get('title') or ''))
-        parts.append('')
-    return '\n'.join(parts)
+        report_header = f'--- Report {i}: {s["source"]} ({s["date"]}) ---'
+        full_parts.append(report_header)
+        full_parts.append(strip_html(s.get('content') or s.get('title') or ''))
+        full_parts.append('')
+        display_parts.append(report_header)
+        display_parts.append(s.get('title') or '')
+        display_parts.append('')
+    return '\n'.join(full_parts), '\n'.join(display_parts)
 
 
 def call_model(client: OpenAI, prompt: str) -> str:
@@ -135,6 +150,24 @@ def main() -> None:
         base_url='https://models.inference.ai.azure.com',
         api_key=token,
     )
+
+    # Register current prompt version in prompt_history (INSERT OR IGNORE — no-op if unchanged).
+    prompt_id    = hashlib.sha256((SYSTEM_PROMPT + MODEL).encode()).hexdigest()[:12]
+    generated_at = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    if DB_PATH.exists():
+        conn = sqlite3.connect(DB_PATH)
+        try:
+            conn.execute(
+                'INSERT OR IGNORE INTO prompt_history (id, system_prompt, model, first_used_dt)'
+                ' VALUES (?, ?, ?, ?)',
+                (prompt_id, SYSTEM_PROMPT, MODEL, int(datetime.now(timezone.utc).timestamp())),
+            )
+            conn.commit()
+        finally:
+            conn.close()
+        print(f'Prompt version: {prompt_id}')
+    else:
+        print('Warning: history.db not found — skipping prompt_history upsert', file=sys.stderr)
 
     data    = json.loads(SITREPS_PATH.read_text())
     cutoff  = (datetime.now(timezone.utc) - timedelta(hours=WINDOW_HOURS)).date().isoformat()
@@ -169,7 +202,7 @@ def main() -> None:
         print(f'  Summarising "{label}" from {len(sitreps)} source(s)...', end='', flush=True)
 
         try:
-            prompt = build_prompt(label, sitreps)
+            prompt, display_prompt = build_prompt(label, sitreps)
             # Save prompt to a file for debugging
             Path(f'prompts/{gid}.txt').write_text(prompt)
             content = call_model(client, prompt)
@@ -206,8 +239,13 @@ def main() -> None:
             'subregion':     subregion,
             'rw_id':         None,
             'file_url':      None,
-            'relatedSources': sorted({s['source'] for s in sitreps}),
-            'sourceIds':      [s['id'] for s in sitreps],
+            'relatedSources':      sorted({s['source'] for s in sitreps}),
+            'sourceIds':           [s['id'] for s in sitreps],
+            'model':               MODEL,
+            'generated_at':        generated_at,
+            'prompt_id':           prompt_id,
+            'system_prompt':       SYSTEM_PROMPT,
+            'user_prompt_display': display_prompt,
         }
         new_summaries.append(summary)
         print(f' done ({len(content)} chars)')

@@ -651,9 +651,33 @@ export class SitrepsTab {
             : `<li><span class="sitrep-sources-org">${this.escapeHtml(s.source)}</span> – ${label}</li>`;
         });
       if (!items.length) return '';
+
+      const metaParts = [];
+      if (sitrep.model) metaParts.push(`Model: ${this.escapeHtml(sitrep.model)}`);
+      if (sitrep.generated_at) {
+        const dt = new Date(sitrep.generated_at).toUTCString().replace(' GMT', ' UTC');
+        metaParts.push(`Generated: ${dt}`);
+      }
+      const metaHtml = metaParts.length
+        ? `<p class="sitrep-prompt-meta">${metaParts.join(' · ')}</p>`
+        : '';
+      const sysHtml = sitrep.system_prompt
+        ? `<details class="sitrep-prompt">
+            <summary class="sitrep-prompt-toggle">View instructions (system prompt)</summary>
+            <pre class="sitrep-prompt-text">${this.escapeHtml(sitrep.system_prompt)}</pre>
+          </details>`
+        : '';
+      const userHtml = sitrep.user_prompt_display
+        ? `<details class="sitrep-prompt">
+            <summary class="sitrep-prompt-toggle">View source input</summary>
+            <pre class="sitrep-prompt-text">${this.escapeHtml(sitrep.user_prompt_display)}</pre>
+          </details>`
+        : '';
+
       return `<details class="sitrep-sources">
         <summary class="sitrep-sources-toggle">Generated from ${items.length} source report${items.length !== 1 ? 's' : ''}</summary>
         <ul class="sitrep-sources-list">${items.join('')}</ul>
+        ${metaHtml}${sysHtml}${userHtml}
       </details>`;
     })();
 

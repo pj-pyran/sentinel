@@ -9,7 +9,7 @@
     "location": "Nigeria",
     "scope": null,
     "date": "2026-05-24",
-    "content": "• WFP resumed food assistance in Borno and Yobe states in April 2026, reaching 420,163 people with emergency food aid after a pause due to funding constraints in March.  \n• Over 3.6 million people remain internally displaced across northeast, northwest, and northcentral Nigeria due to ongoing conflict.  \n• Between July and September 2026, an estimated 34.8 million people are projected to face crisis or worse (IPC3+) levels of food insecurity, coinciding with the lean season before harvest.  \n• Food inflation reached 16.06 percent in April 2026, outpacing overall inflation and driven by rising prices of staple foods, further reducing poor households’ purchasing power.  \n• Humanitarian food assistance coverage has declined significantly in early 2026 due to funding shortfalls and access constraints, increasing reliance on aid among vulnerable populations.  \n\nThe humanitarian situation in northern Nigeria remains dire, with insecurity disrupting livelihoods and food production. WFP continues to support government-led efforts through its strategic plan despite financial and operational challenges, aiming to stabilise and build resilience among affected communities.",
+    "content": "• WFP resumed food assistance in Borno and Yobe states in April 2026, reaching 420,163 people with emergency food support after a pause in March due to funding constraints.  \n• Over 3.6 million people remain internally displaced across northeast, northwest, and northcentral Nigeria due to ongoing conflict.  \n• An estimated 34.8 million people are projected to face crisis or worse (IPC3+) levels of food insecurity between July and September 2026, coinciding with the lean season.  \n• Food inflation in northern Nigeria reached 16.06 percent in April 2026, outpacing overall inflation and driven by rising staple food prices, further reducing household purchasing power.  \n• Humanitarian food assistance coverage has declined significantly in early 2026 due to funding and access challenges, increasing dependency among poor households amid depleted food stocks and limited income opportunities.  \n\nThe humanitarian crisis in Nigeria is driven by a complex mix of insecurity, economic pressures, and climatic factors, severely affecting food security in northern regions. Despite WFP’s ongoing efforts and collaboration with the government, funding shortfalls and access constraints continue to limit the reach of critical assistance during a period of heightened need.",
     "url": null,
     "region": "Africa",
     "subregion": "Western Africa",
@@ -21,7 +21,12 @@
     "sourceIds": [
       "rw-4213275",
       "rw-4213293"
-    ]
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-05-24T11:25:37Z",
+    "prompt_id": "a3a6fd17e378",
+    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
+    "user_prompt_display": "Crisis / situation: Nigeria\n\n--- Report 1: WFP (2026-05-22) ---\nWFP Nigeria Country Brief, May 2026\n\n--- Report 2: WFP (2026-05-22) ---\nWFP Northern Nigeria Situation Report, May 2026\n"
   },
   {
     "id": "rw-4213300",
