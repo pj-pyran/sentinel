@@ -1,13 +1,24 @@
 Crisis / situation: Yemen
 
---- Report 1: OCHA (2026-05-14) ---
+--- Report 1: FAO (2026-05-26) ---
+KEY HIGHLIGHTS
+SHORT-TERM OUTLOOK AND IMPLICATIONS ON FOOD SECURITY: The food security outlook for Yemen through the end of 2026 remains highly alarming, with 18.7 million people (53% of the population) projected to face Crisis or worse levels of acute food insecurity (IPC Phase 3+). Yemen currently bears the world’s highest burden of populations trapped in IPC Phase 4 (Emergency), covering approximately 17% of the population, where the risk of excess mortality (exceeding the expected number of deaths under normal conditions) is real and steadily increasing. Isolated pockets of catastrophic conditions (IPC Phase 5) are already emerging, particularly within SBA controlled areas. Yemen's structural food system collapse is driven by a critical convergence of localized instability, severe funding shortfalls (only 13% funded as of May), and regional geopolitical shocks. Regional escalations and trade disruptions through the Strait of Hormuz are driving up fuel costs, triggering price increases across domestic transport, food, and agricultural inputs. Without immediate multi-year funding and the restoration of humanitarian access, a slide into localized catastrophic conditions (IPC Phase 5) remains imminent.
+
+--- Report 2: WFP (2026-05-24) ---
 HIGHLIGHTS
 
-Yemen’s 2026 humanitarian outlook: Rising needs, shrinking resources
-Yemen’s health system under strain as funding cuts, outbreaks and supply disruptions deepen needs
-Excluded by default: Migrants stranded in Yemen need both inclusion and a safe way back home
-Torrential rains and flooding exacerbate humanitarian needs
-YHF in action: Strengthened local, data-driven life-saving support across Yemen
+Half of all households in Yemen were unable to obtain their minimum food needs in March, according to WFP data.
+The ongoing regional crisis is constraining fuel imports to Yemen, while increasing food costs are threatening access to food.
+WFP has completed the first and second cycles of its new targeted emergency food assistance (TEFA) programme in Government-controlled areas, with preparations for the third cycle ongoing.
+WFP has completed its re-targeting and registration exercise, a prioritization and beneficiary identification exercise designed to enhance accountability and enable an agile and hyper-prioritized response.
+WFP has completed a community-based participatory planning exercise in Ta’iz governorate to inform future WFP resilience and livelihoods efforts.
 
---- Report 2: Health Cluster (2026-05-13) ---
-A total of 1080 Health Facilities (186 Hospitals, 374 Health Centers , 503 Health Units, and 17 Others ) are being supported by Health Cluster Partners. - During the reporting period of November and December 2025, Health Cluster conducted a total of 7 Health Cluster coordination meetings and 12 ad hoc meetings at the National, AoR, and Hub levels (Aden, Al Hudaydah, Ibb/Taizz, Sa’dah, Sana’a, Marib, Hadramout, and West Coast). - Health Cluster conducted and attended over 37 technical meetings, which include but are not limited to ICCM, RCT, TWGs, inter-sectoral, and government meetings. The cluster also conducted 5 field visits and over 35 bilateral meetings with partners, donors, government entities, and stakeholders during the reporting period. Furthermore, the Health Cluster attended/ Conducted 3 trainings and 2 Taskforce meetings.
+SITUATION OVERVIEW
+• WFP food security monitoring data shows that 50 percent of households in Yemen were unable to obtain their minimum food needs in March, a seven-percentage point decrease from February.
+• The apparent improvement is an expected effect observed during Ramadan (when many religious charities provide food and other forms of support), increased remittances, and the release of partial salaries for public sector employees.
+• However, the temporary improvement needs to be seen with caution as it was notably less marked than in recent years, reflecting worsening economic conditions, reduced purchasing power, and curtailed food assistance.
+• WFP is closely monitoring the effects of the regional crisis on supply chain, market disruptions, and food security in Yemen.
+• Fuel supplies via Yemen’s sea ports declined sharply in the first quarter of 2026, and at Yemen’s Red Sea ports, with no fuel imports in March 2026 at all. However, small quantities of fuel began entering the ports in April.
+• Fuel price increases have already come into effect in areas under the internationally recognized Government of Yemen (IRG), with an increase in diesel prices affecting WFP supply chain operations.
+• While food imports continued at sufficient volumes in March, a nationwide increase in food costs is threatening purchasing power and food access.
+• All UN activities in areas under the Sana-based authorities (SBA) remain suspended. WFP continues to call for the release of all detained staff. Thirty-eight (38) WFP staff remain in detention in northern Yemen, alongside 35 staff from other UN agencies.
