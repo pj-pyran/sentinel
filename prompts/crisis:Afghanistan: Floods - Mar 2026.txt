@@ -1,6 +1,25 @@
 Crisis / situation: Afghanistan: Floods - Mar 2026
 
---- Report 1: IFRC (2026-05-25) ---
+--- Report 1: ARCS (2026-05-26) ---
+Description
+Following heavy and sustained rainfall, flash floods occurred in May 2026 across the country, affecting communities in Helmand, Herat, Uruzgan, Kunduz, Samangan, Parwan, Kapisa, Kabul, Takhar, Daikundi, Ghor, Baghlan, Sar-e-pul, Kandahar, Badakhshan, Maidan Wardak and Daikundi provinces. Low-lying areas and settlements located along riverbeds were particularly impacted. The floods resulted in loss of life, injuries, and widespread damage to shelters, livelihoods and agricultural land, reflecting the broader pattern of seasonal flooding currently affecting several parts of the country.
+According to preliminary information compiled by the Afghan Red Crescent Society (ARCS), more than 1,587 families were affected. The floods caused 37 deaths and 27 injuries, with 4 cases of missing people reported. Shelter damage was significant, with 15,87 houses completely and partially damaged, particularly in several provinces of Helmand, Kunduz, Herat, Uruzgan, Samangan, Parwan, Kapisa, Kabul, Takhar, Daikundi, Ghor, Baghlan, Sar-e-pul, Badakhshan, Kandahar, Maidan Wardak and Daikundi. In addition, the floods had a severe impact on livelihoods, resulting in the loss of 767 livestock and damage to approximately 2,754 jeribs of agricultural land, further increasing vulnerabilities among farming and pastoral households.
+ARCS, through its provincial branches and volunteers, is monitoring the evolving situation and conducting initial assessments in coordination with local authorities and Movement partners. Priority humanitarian needs identified include emergency shelter and essential household items for families whose homes were destroyed or damaged, food assistance and multipurpose cash support, as well as livelihood and agricultural recovery assistance, including livestock support. With possibility of further rainfall, affected communities remain at risk of additional flooding, underscoring the need for timely humanitarian support.
+Request For Assistance
+Government Requests International Assistance
+-
+NS Requests International Assistance: Yes
+Information Bulletin Published
+No
+Actions taken by National Society
+General
+Search &amp; Rescue
+Damage/Needs assessment
+Summary
+Planned International Response
+DREF: Planned
+
+--- Report 2: IFRC (2026-05-25) ---
 Description of the Event
 Date of event
 30-03-2026
@@ -10,7 +29,7 @@ Rainfall did not stabilize after activation. Successive precipitation episodes t
 OCHA's Flash Update #3 (17–26 April 2026) reports a lower figure of 73,300 people initially identified as affected and 56,900 confirmed in need, with joint inter-agency assessments still ongoing in 34 districts. The variance between ARCS and OCHA figures reflects differences in methodology and coverage rather than contradiction: ARCS data is drawn from its 34 provincial branch network with direct community level access, including areas not yet reached by inter-agency missions, while OCHA figures are based on verified joint assessments completed at the time of reporting and exclude districts where assessments remain in progress. ARCS figures are therefore used as the operational planning basis for this second allocation, with OCHA data referenced for inter-agency corroboration of the overall trajectory.
 FEWS NET's April–September 2026 Outlook similarly confirms flash flooding countrywide, affecting nearly 74,000 people through destruction of homes, infrastructure, and agricultural land.
 
---- Report 2: ARCS (2026-05-25) ---
+--- Report 3: ARCS (2026-05-25) ---
 Description
 Following heavy and sustained rainfall, flash floods occurred in May 2026 across the country, affecting communities in Helmand, Herat, Uruzgan, Samangan, Parwan,Kapisa,Kabul,Takhar,Diakundi,Ghor , Baghlan, Sar-e-pul,Kandahar,Badakhsan,Maidan Wardak and Daikundi provinces. Low-lying areas and settlements located along riverbeds were particularly impacted. The floods resulted in loss of life, injuries, and widespread damage to shelters, livelihoods and agricultural land, reflecting the broader pattern of seasonal flooding currently affecting several parts of the country.
 According to preliminary information compiled by the Afghan Red Crescent Society (ARCS), more than 1401 families were affected. The floods caused 28 deaths and 23 injuries, with 4 cases of missing people reported. Shelter damage was significant, with 1401 houses completely and partially damaged, particularly in several provinces of Helmand, Herat, Uruzgan, Samangan, Parwan,Kapisa,Kabul,Takhar,Diakundi,Ghor , Baghlan, Sar-e-pul,Badakhsan,Kandahar,Maidan Wardak and Daikundi. In addition, the floods had a severe impact on livelihoods, resulting in the loss of 660 livestock and damage to approximately 1,754 jeribs of agricultural land, further increasing vulnerabilities among farming and pastoral households.
@@ -28,7 +47,7 @@ Search &amp; Rescue
 Damage/Needs assessment
 Summary: -
 
---- Report 3: OCHA (2026-05-24) ---
+--- Report 4: OCHA (2026-05-24) ---
 Cross-border hostilities continue to drive humanitarian needs in Afghanistan
 Cross-border hostilities between Afghanistan and Pakistan since October 2025 have caused significant humanitarian consequences, including civilian casualties, displacement and disruptions to essential services. Although a ceasefire reached in October 2025 temporarily reduced the intensity of hostilities, violence has continued intermittently in border provinces.
 Between January and March 2026, cross-border armed violence between Afghanistan’s de facto security forces and the Pakistani military resulted in 769 civilian casualties, according to the United Nations Assistance Mission in Afghanistan (UNAMA). This includes 372 people killed and 397 injured, among them 72 women, 554 men, 48 girls and 95 boys.

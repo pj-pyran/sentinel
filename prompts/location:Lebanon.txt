@@ -1,11 +1,21 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNFPA (2026-05-25) ---
+--- Report 1: UNRWA (2026-05-26) ---
+All information valid for 6 - 19 May 2026
+Key Points
+
+A 10-day ceasefire between Israel and Lebanon came into effect at midnight on 16 April. On 23 April, US President Donald Trump announced that the ceasefire would be extended for an additional three weeks, following a second high-level trilateral meeting between representatives of Israel, the United States and Lebanon. On 15 May, the ceasefire was extended again for an additional 45 days after two days of talks, facilitated by the United States, concluded with an agreement to hold further meetings in the coming weeks.
+The humanitarian situation in Lebanon remains fragile and unpredictable, with a continued risk of conflict escalation and military operations in the south of the country.
+UNRWA launched its emergency response in Lebanon on 4 March. Since then, the Agency has been operating two collective emergency shelters[1]: Siblin Training Centre in Saida Area and Battir School in Nahr el-Bared Camp in northern Lebanon.
+By 19 May, a total of 1,264 displaced people from 372 families were registered in the two UNRWA emergency shelters. This represents a slight increase from 1,132 people recorded in the previous reporting period and follows the issuance of one evacuation order by Israeli forces over the past two weeks.
+Between 6 and 19 May, no security incidents affecting on-duty UNRWA personnel or facilities were reported.
+
+--- Report 2: UNFPA (2026-05-25) ---
 The humanitarian situation in Lebanon remains highly volatile, with continued airstrikes, hostilities, and renewed displacement. Despite the 17 April ceasefire, which was extended for an additional 45 days on 15 May, the intensity of hostilities increased by nearly 40 per cent during the post-ceasefire period. Fluid population movements continue, with renewed displacement orders affecting 27 localities in southern Lebanon.
 Since 2 March 2026, 2,951 people are reported to have been killed and 8,988 injured. The situation remains fluid, with potential for rapid escalation, underscoring the urgent need for increased humanitarian and health sector support. UNFPA has reached more than 100,000 displaced people with sexual and reproductive health and gender-based violence (GBV) services since the start of the crisis. This was achieved through support to 55 health facilities, nine mobile medical units, 22 mobile GBV teams, and 11 women and girls’ safe spaces serving 200 collective shelters and host communities.
 The UNFPA Flash Appeal for US $12 million remains severely underfunded, with only US $2.9 million mobilized to date. If more funding does not become available, nearly 90,000 women and girls will lose access to life-saving sexual and reproductive health and protection services within the next six months.
 
---- Report 2: Health Cluster (2026-05-25) ---
+--- Report 3: Health Cluster (2026-05-25) ---
 Situation Update
 World Health Assembly Adopts Resolution on Protection of Health Care in Lebanon with Broad Support. The Lebanese delegation to the 79th World Health Assembly (WHA79) successfully led the drafting and adoption of a landmark resolution on the protection of health care in Lebanon, securing 95 votes following intensive negotiations and strong international engagement.
 However, despite the ceasefire and the adoption of this resolution, attacks on healthcare continue. Since the last reporting period, three incidents have been recorded, resulting in seven deaths and ten injuries among health-care workers. Since the ceasefire took effect, a total of 27 attacks have been reported, causing 25 deaths and 42 injuries. Overall, since 2 March, 173 incidents have resulted in 123 deaths and 273 injuries among health-care personnel.
@@ -16,7 +26,7 @@ Preliminary findings from the Rapid Health Assessment (RHA) conducted in May 202
 Health system capacity is under significant strain, with 68 per cent of facilities fully functional and 29 per cent partially operational, facing insecurity, staff shortages, and limited partner support. Service delivery is further weakened by frequent attacks on healthcare, weak referral systems, reduced operational capacity, and stock-outs of medicines.
 Public health risks continue to increase, including respiratory infections, mental health conditions, diarrheal diseases, and injuries, while critical shortages persist in essential medicines, non-communicable diseases (NCD) medications, trauma supplies, psychotropic medications, fuel, and medical consumables.
 
---- Report 3: WHO (2026-05-24) ---
+--- Report 4: WHO (2026-05-24) ---
 Situation overview
 Impact of ongoing airstrikes
 
@@ -37,7 +47,7 @@ Casualties and injury overview
 • 9% of the total casualties are children, 217 children are dead, and 854 children are injured. Fig 3. Shows age distribution of casualties.
 • Nationality data shows that 11,802 casualties (94%) were Lebanese, 440 casualties (4%) were Syrian, 163 casualties (1%) were Palestinian, and 138 casualties (1%) from other nationalities, Fig 4.
 
---- Report 4: OCHA (2026-05-24) ---
+--- Report 5: OCHA (2026-05-24) ---
 HIGHLIGHTS
 
 Hostilities continued despite the ceasefire extension announcement, with continued airstrikes and displacement orders affecting at least 14 new localities.
