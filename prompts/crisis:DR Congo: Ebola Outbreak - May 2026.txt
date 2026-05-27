@@ -1,6 +1,28 @@
 Crisis / situation: DR Congo: Ebola Outbreak - May 2026
 
---- Report 1: UNICEF (2026-05-27) ---
+--- Report 1: HOPE (2026-05-27) ---
+Key Updates
+
+Project HOPE’s Emergency Response Team, including an epidemiologist and emergency physician with extensive Ebola experience, has deployed to Uganda to respond to the worsening Ebola outbreak.
+The Bundibugyo strain of Ebola virus has impacted both DRC and Uganda, with over 900 suspected cases, 223 suspected deaths, 112 confirmed cases, and 11 confirmed deaths.
+As case numbers continue to rise, there is increasing uncertainty on whether the virus has already reached South Sudan, which is facing a humanitarian crisis.
+With no vaccine available in the near future, local authorities and humanitarian partners are relying on IPC practices, community education, and rapid hot spot identification to stem the outbreak.
+
+Project HOPE’s Emergency Response Team is deploying to Uganda and working with local partners to respond to the worsening outbreak of the Bundibugyo strain of Ebola virus in DRC and Uganda.
+Situation Overview
+Both suspected and confirmed cases of Ebola virus are on the rise in the northeast region of the Democratic Republic of the Congo (DRC) as a result of continued disease spread and increased testing across impacted areas. Currently, there are over 900 suspected cases and 223 suspected deaths in DRC, as well as 105 confirmed cases and 10 confirmed deaths, all within Ituri, North Kivu, and South Kivu provinces.
+In Uganda, seven cases and one death have been confirmed, with five of those cases confirmed as a result of contact tracing following the first two cases. One of these individuals is a health worker who cared for the first case, highlighting an urgent need for the distribution of Personal Protective Equipment (PPE) and infection prevention and control (IPC) trainings for caregivers. Uganda has ceased air travel to DRC, closed multiple border crossings, and increased border crossing screenings. In
+
+--- Report 2: Health Cluster (2026-05-27) ---
+South Sudan remains at high risk of Ebola Virus Disease (EVD) importation following the evolving Bundibugyo Virus Disease outbreak in the Democratic Republic of the Congo (DRC) and Uganda. Preparedness and readiness activities continue under the leadership of the Ministry of Health with support from WHO, Health Cluster partners, and humanitarian actors.
+Regional Situation Update
+• The Democratic Republic of the Congo (DRC) has reported a cumulative total of 977 suspected EVD cases and 228 suspected deaths. Confirmed deaths - 01 with CFR of 14.3%.
+• Alerts have been reported from 18 health zones, indicating ongoing geographic spread and heightened surveillance needs.
+• Travel restrictions imposed within DRC have disrupted sample transportation and movement of critical supplies, posing operational challenges to response efforts.
+• Humanitarian corridors have been established to facilitate continuity of essential operations and logistical support.
+• Uganda reported 02 new confirmed Bundibugyo Virus Disease cases in the last 24 hours, bringing the cumulative number of confirmed cases to 07, including two health workers. Confirmed deaths - 01 with CFR of 14.3%.Point of Entry screening has been activated in 28 locations, with 13,897 travelers screened during the last 24 hours.
+
+--- Report 3: UNICEF (2026-05-27) ---
 Highlights:
 
 On 17 May 2026, WHO declared the Ebola outbreak in the Democratic Republic of the Congo (DRC) and Uganda a Public Health Emergency of International Concern; Africa CDC declared a Public Health Emergency of Continental Security on 18 May.
@@ -10,7 +32,23 @@ The risk of further spread is high and growing, driven by population movement al
 UNICEF has activated its highest emergency classification (Level 3 Corporate Emergency), releasing US$5.75 million in Emergency Programme Funds (internal, reimbursable loan) and scaling up response in DRC and Uganda and preparedness in at-risk neighboring countries.
 UNICEF and partners are delivering across five priority areas: risk communication and community engagement (RCCE); infection prevention and control (IPC) and WASH; community-based surveillance; continuity of essential services; and leadership and coordination.
 
---- Report 2: Africa CDC (2026-05-25) ---
+--- Report 4: IMC (2026-05-26) ---
+FAST FACTS
+
+As of May 25, the DRC had reported more than 100 confirmed cases, with 10 confirmed deaths, while more than 900 suspected cases and 220 suspected deaths have been reported. Uganda has confirmed seven cases and one death.
+Cases of the Bundibugyo strain of Ebola began in the Ituri province of the DRC, but have spread into North Kivu and South Kivu provinces, as well as into Uganda.
+Fear of cross-border transmission of the EVD is rising as the DRC shares porous borders with Burundi, Rwanda, South Sudan and Uganda.
+There is a serious security concern in Ituri province—which experiences chronic fighting by non-state armed groups—where there have been multiple attacks on Ebola Treatment Centers (ETCs) and hospitals where patients with suspected and confirmed cases are receiving treatment.
+
+OUR RESPONSE
+
+International Medical Corps’ rapid response teams have deployed to Ituri, Goma and Kinshasa in DRC, and to Kampala in Uganda.
+Our team is operating in 49 health facilities, including in ETCs and Ebola transit centers.
+Our teams in the DRC are constructing ETCs at the Bunia General Hospital in Ituri and at the Virunga General Hospital in North Kivu, and are providing critical hygiene supplies to surrounding health facilities in Ituri and North Kivu.
+Our team in Uganda is launching health and IPC activities in Ntoroko and Bundibugyo districts.
+Our team in South Sudan is conducting Ebola-relevant preparedness training for the Ministry of Health and is prepositioning PPE to support operational readiness for cross-border transmission.
+
+--- Report 5: Africa CDC (2026-05-25) ---
 A rapidly escalating outbreak of Bundibugyo ebolavirus, affecting two neighbouring countries- the DRC and Uganda, placed the global community on high alert.
 As of 16 May 2026, the outbreak has resulted in at least 106 deaths: 105 in the Democratic Republic of the
 Congo (DRC) and one in Kampala, Uganda, due to a cross-border imported case. On 17 May 2026, the WHO
@@ -22,7 +60,7 @@ The outbreak’s epidemiology is rapidly evolving and has extended beyond the or
 The suspected index case (a healthcare professional) had symptom onset in Epidemiological Week 15 (25 April 2026), but official detection and laboratory confirmation did not occur until Epidemiological Week 19 (13 May 2026). This significant delay (a fourweek detection gap) highlights a critically low initial index of clinical suspicion among local healthcare providers, which facilitated wider geographic spread prior to the initiation of containment efforts.
 To date, four healthcare worker deaths, including the index case, have been reported. These incidents among frontline staff highlight serious, urgent deficiencies in clinical triage, standard Infection Prevention and Control (IPC) measures, and the supply of personal protective equipment (PPE) in health care facilities in the affected health zone.
 
---- Report 3: UNFPA (2026-05-25) ---
+--- Report 6: UNFPA (2026-05-25) ---
 An Ebola outbreak was declared on 15 May 2026 by the Authorities of the Democratic Republic of Congo (DRC). The outbreak has spread to the health zones of Mongbwalu, Rwanpara and Bunia in Ituri Province, and Butembo and Goma in North Kivu, with 516 suspected cases and 131 deaths. In neighbouring Uganda two cases, including one death, have also been confirmed by the Ugandan Ministry of Health. On 17 May 2026 the World Health Organization declared the outbreak a Public Health Emergency of International Concern.
 All Ebola cases reported at the Bunia Centre Medical Evangelique Nyakunde are frontline health professionals. Four health workers died within four days, highlighting major infection prevention control gaps and health facility transmission risks.
 The outbreak severely threatens sexual and reproductive health outcomes, making pregnant women, newborns, and maternal healthcare providers at risk of nosocomial infection. Community fear of Ebola can also cause a sharp decline in accessing life-saving reproductive health services, and subsequently lead to increases in maternal and neonatal mortality.
