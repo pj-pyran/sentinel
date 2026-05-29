@@ -1,29 +1,17 @@
 Crisis / situation: Sudan
 
---- Report 1: UNHCR (2026-05-19) ---
-Situation Overview
+--- Report 1: UNFPA (2026-05-29) ---
+An estimated 8.8 million people remain displaced across all 18 states of Sudan, and the recent intensification of fighting is driving new waves of displacement that further add pressure to overstretched services and host communities while contributing to widespread risk of gender-based violence (GBV). A joint mission confirmed that women and girls in Blue Nile displacement sites face heightened exposure to harassment and sexual violence due to unsafe living conditions and weak protection systems. The situation in South Kordofan remains volatile; after more than two years of siege, women and girls face compounding protection risks, including direct exposure to hostilities, heightened harassment, questioning at checkpoints, and detention. Deteriorating conditions lead to harassment, child marriage, and intimate partner violence driven by economic hardship.
+In response to the significant needs, UNFPA reestablished its physical presence in White Nile and Darfur states, having paused operations in those locations in 2023, and rapidly scaled up the delivery of life-saving sexual and reproductive health (SRH) and GBV services. In April 2026, UNFPA and its implementing partners collectively reached 77,570 people with SRH services across 17 states and provided GBV protection and response services to over 102,700 people, primarily internally displaced persons, across 14 states.
+In 2026, UNFPA is appealing for US $129.2 million to respond to critical SRH and GBV needs in Sudan. To date, around 29% of this funding has been received, leaving a significant gap of US$92 million. UNFPA continues to call for urgent financial support to address the growing needs of women and girls across the country.
 
-Security conditions in the Kordofan and Darfur states are highly volatile, with persistent hostilities, aerial strikes, and criminal incidents resulting in civilian casualties, further displacement, and challenges in sustaining humanitarian aid delivery.
-On 24 April, a UNHCR truck transporting emergency shelter kits to Tawila, North Darfur State was struck in a drone attack, resulting in the complete destruction of the assistance intended for over 1,300 forcibly displaced families. The driver escaped unharmed. Such incidents undermine humanitarian response, restrict access to vulnerable communities, and delay the delivery of life-saving support.
-The cross-border access through Adré border crossing point with Chad has been extended until 30 June 2026, supporting the continued delivery of humanitarian assistance into the Darfur regions.
-
---- Report 2: WFP (2026-05-18) ---
-Highlights
-Market and Food Security Overview - (April 2025) The monthly and annual percentage changes in the prices of key commodities and the WFP Local Food Basket (LFB) are summarized below:
-
-WFP Local Food Basket: SDG 2,474 /1 unit ( 17.9 % MoM, 37 % YoY)
-Sorghum: SDG 1,572/kg ( 23.3 MoM, 22 % YoY)
-Wheat Flour: SDG 3,980 /kg ( 17.5 % MoM, 47 % YoY)
-Goat: SDG 268,815/head ( 22.4 MoM, 83 % YoY)
-Groundnuts: SDG 172,417/kantar ( 45.8 % MoM, 189 % YoY)
-
---- Report 3: Insecurity Insight (2026-05-18) ---
-Data from Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 28 April 2026:
-
-749 attacks on health care recorded
-207 health workers killed, 15 kidnapped and 126 arrested
-Health facilities damaged over 210 times
-57 attacks where armed drones affected health care
-51 attacks on maternal health care services
-
-View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
+--- Report 2: WFP (2026-05-29) ---
+KEY HIGHLIGHTS
+• WFP assisted 3.1 million people in April.
+• Since the beginning of 2026, WFP has been unable to achieve the monthly average reach of 2025 (4 million). The decrease in reach has been driven by funding shortages, access constraints, and administrative delays.
+• In April, 798,000 people were reached in areas projected to be already facing or at risk of catastrophic hunger (IPC phase 4-5) covering 62 percent of the 1.3 million food-insecure population in those locations.
+• Out of the 3.1 million people assisted in April, WFP reached 2.9 million crisis-affected people with food and cash assistance.
+• WFP also reached 1.1 million people through CBT in April.
+• WFP provided integrated nutrition support to 203,000 people, including children under five and pregnant and breastfeeding women and girls (PBWG).
+• In Tawila, North Darfur, home to the largest population of internally displaced persons (IDPs), WFP delivered life-saving emergency food and nutrition assistance to more than 450,000 people.
+• From 8 to 14 April, WFP Deputy Executive Director Carl Skau undertook a high-level mission to Sudan. The mission focused on engagement with government authorities, the reestablishment of WFP’s presence in Khartoum, and a review of operational conditions in Darfur and key border areas.
