@@ -145,7 +145,7 @@
     "location": "Sri Lanka",
     "scope": null,
     "date": "2026-06-01",
-    "content": "• No specific information or updates are available from the Disaster Management Centre (DMC) Sri Lanka reports dated 30 May and 1 June 2026.\n\n• There are no reported figures or details on the current humanitarian situation, needs, or response activities in Sri Lanka from these sources.\n\n• The absence of data limits the ability to assess the current crisis status or identify urgent requirements.\n\nDue to the lack of available information in the recent DMC Sri Lanka situation reports, it is not possible to provide a detailed briefing on the humanitarian context or developments at this time. Further updates or alternative sources will be needed to inform response planning.",
+    "content": "• No specific information or data on the situation in Sri Lanka is available from the provided reports dated 30 May and 1 June 2026.\n• There are no updates on key developments, figures, or humanitarian needs in these reports.\n• The absence of detailed situation reports limits the ability to assess the current crisis or response status in Sri Lanka.\n\nDue to the lack of information in the recent disaster management centre reports, it is not possible to provide an informed briefing on the humanitarian situation in Sri Lanka at this time. Further data or situation updates are required to understand the context and needs.",
     "url": null,
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -160,7 +160,7 @@
       "rw-4214234"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-01T07:46:38Z",
+    "generated_at": "2026-06-01T14:01:39Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Sri Lanka\n\n--- Report 1: DMC Sri Lanka (2026-06-01) ---\nSituation Report - Sri Lanka 31st May 2026 at 1000hrs\n\n--- Report 2: DMC Sri Lanka (2026-06-01) ---\nSituation Report - Sri Lanka 1st June 2026 at 1000hrs\n\n--- Report 3: DMC Sri Lanka (2026-05-30) ---\nSituation Report - Sri Lanka 30th May 2026 at 1000hrs\n"
