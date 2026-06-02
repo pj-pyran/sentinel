@@ -1,58 +1,26 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: UNRWA (2026-05-12) ---
-Executive Summary – 2025 Protection Case Trends, UNRWA Syria
-In 2025, UNRWA recorded 1,727 protection cases affecting Palestine refugees across Syria, an 8% increase from 2024. Women and girls continue to be disproportionately impacted, representing 82% of all cases. Despite strengthened reporting systems and expanded frontline capacity, overall caseloads remain significantly under‑reported relative to the approximately 420,000 Palestine refugees still inside Syria.
-Key Protection Trends
+--- Report 1: SARD (2026-06-02) ---
+SITUATION OVERVIEW
+According to the Syrian Ministry of Emergency and Disaster Management, the eastern province of Deir ezZor and the northern province of Raqqa is experiencing escalating humanitarian impacts due to continued Euphrates River rise, linked to increased inflows and tributary flows.
+The Ministry reports the river exceeded 3.60 meters above normal, with further rise expected, causing flooding in low-lying riverbank areas, damage to crossings and agricultural crops, and disruption of basic services including water supply.
+Public reporting during the same period also described rising river levels in Raqqa and Deir ez-Zor. Residents along the riverbanks are being urged to relocate to safer areas.
 
-Gender-Based Violence (GBV) accounted for the largest share of cases (48% / 834 cases), with psychological and emotional abuse remaining the most reported GBV concern (537 cases).
-General Protection (GP) cases rose sharply (466 cases, a 127% increase), driven by improved identification of psychological/emotional abuse and neglect, now the single fastest-growing protection concern.
-Child Protection (CP) cases slightly decreased to 427 cases (a 12% decline), though separated/unaccompanied children (182 cases) remain a major risk group.
+--- Report 2: SARD (2026-06-02) ---
+SITUATION OVERVIEW
+Deir ez-Zor and Al Raqqa are facing a rapidly evolving emergency due to rising water levels in the Euphrates River, which has flooded low-lying riverbank areas and disrupted essential services.
+The situation is developing quickly and may worsen if water levels continue to rise, increasing the risk of further displacement and service interruptions.
 
-Geographical Concentration of Needs
-Protection risks continue to be highest in:
-
-Rural Damascus – 690 cases (49%), with major concentrations in Sayida Zeinab and other surrounding areas.
-South Area (Dera’a region) – consistently high caseloads (351 cases), despite a smaller refugee population and ongoing instability.
-Yarmouk refugee camp – a 231% increase in reporting, reflecting both heightened vulnerabilities among returning families and improved reporting.
-
-Emerging and High-Risk Case Patterns
-
-Forced/early marriage declined significantly (57 cases in 2025 vs. 152 in 2024) but remains deeply rooted and requires long‑term, multi-disciplinary support.
-Legal status and civil documentation barriers increased by 300%, highlighting growing administrative obstacles affecting children, women, and returnees.
-Complex cases requiring multi-programme intervention increased from 79 to 262 cases, a 231% rise, indicating increasing severity and multi-layered vulnerabilities.
-
-Programme Contributions and Service Response
-
-The UNRWA Health Programme remained the main entry point for detection and referrals (63% of all cases), particularly for GBV and mental health‑related concerns.
-UNRWA provided a spectrum of support services, with:
-
-44% of services being psychosocial or MHPSS-related,
-28% health/hospitalisation support,
-15% social protection services,
-11% education-related services.
-
-
-
-Why Support Remains Critical
-Protection needs among Palestine refugees in Syria are increasing in severity, even as resources shrink. Support is essential to:
-
-Sustain and scale PSS/MHPSS services, addressing the dominant trend of psychological/emotional abuse.
-Strengthen responses for complex and high-risk cases, including survivors of GBV, separated/unaccompanied children, and households facing multi-layered vulnerabilities.
-Enhance access to services in high‑need areas, particularly in the South and rural Damascus.
-Expand community‑based protection mechanisms to improve early detection and mitigate risks before they escalate.
-Support emergency cash-for-protection assistance, a critical lifeline for survivors and families requiring urgent, sustained assistance.
-
---- Report 2: SCPR (2026-05-11) ---
-Cost-Push Inflation The Impact of Political Transformations on Prices in Northeast Syria
-
-This bulletin provides an independent assessment of consumer prices and inflation rates across all Syrian governorates, based on a monthly price survey conducted by the Syrian Center for
-Policy Research (SCPR) since October 2020. The assessment relies on a methodology developed by the Center to calculate the Consumer Price Index (CPI), incorporating the components of the consumer basket, weighting structure, and market selection. The bulletin is based on the monthly consumer price survey covering 58 markets and 112 goods and services across different governorates and areas of control in Syria, using 2021 as the base year) SCPR’s Consumer Price Index in Syria).
-The inflation surge recorded in February 2026 indicates a significant escalation in price pressures, driven by a combination of structural and short-term factors. The Consumer Price Index (CPI) recorded a Month on month (M-o-M) inflation rate of 6.5 per cent in February 2026 compared to January 2026, confirming that inflation was not only elevated but broadly driven by multiple reinforcing dynamics, most notably exchange rate volatility, rising transport and energy costs, colder weather conditions, and weak market oversight.
-This inflationary pattern is clearly reflected at the level of major consumption groups, highlighting the concentration of pressures in essential sectors. Prices increased by 7.9 per cent for housing, water, electricity, gas, and other fuels; 5.9 per cent for food and non-alcoholic beverages; 16.8 per cent for furnishings, household equipment, and routine maintenance; 5.8 per cent for health; and 5.7 per cent for transport, indicating that inflation was driven primarily by cost escalation in basic goods and services.
-The spatial distribution of inflation further underscores its structural drivers. The governorates of Ar-Raqqa, Deir-Ezzor, and Al-Hasakeh recorded elevated inflation rates, which can be primarily attributed to the reassertion of control by government forces in Ar-Raqqa and Deir-Ezzor. This development was followed by a structural shift from the subsidized provisioning system previously in place under the Autonomous Administration (AA) to a liberalized pricing regime for strategic goods and essential services (including bread, diesel, gasoline, gas, electricity, and water), suggesting that institutional and governance changes have directly translated into price increases.
-At the national level, the inflation pattern reflects a dual and uneven market structure. Data for February 2026 indicate a dual pattern at the national level: a relative convergence in the prices of tradable goods, which can be linked to shifts in trade policies following the liberalisation of imports, accompanied by the subsequent harmonisation of customs duties across areas under the SIG. In contrast, non-tradable services and durable goods exhibited significant price divergence, as their prices remained driven by local factors such as operating costs—particularly energy—income levels, domestic demand, and differences in the currency of circulation across regions, highlighting the fragmented nature of domestic markets.
-The contribution analysis further clarifies the concentration of inflationary pressures. An analysis of contributions to M-o-M inflation in February 2026 shows that national price pressures (6.5 per cent) were primarily concentrated in two main groups: housing, water, electricity, gas and other fuels, which accounted for 52 per cent, and food and non-alcoholic beverages, which contributed 30 per cent, with secondary contributions from the transport group and furnishings and household equipment, confirming that essential consumption categories are the primary drivers of inflation.
-Monetary dynamics add another layer to this inflationary environment. The Central Bank of Syria continued to maintain the official exchange rate (for remittances and exchange operations) at SYP 11055 per USD for the ninth consecutive month, alongside noticeable fluctuations in the parallel market, where the exchange rate ranged between SYP 11507 and SYP 11786 per USD, indicating a divergence between official and market signals. Despite these fluctuations, the Syrian Pound (SYP) appreciated by 1.7 per cent during February, with the average exchange rate reaching SYP 11655 per USD, compared to SYP 11773 per USD in the previous month, suggesting that nominal exchange rate movements did not fully offset underlying inflationary pressures.
-From an income perspective, the data reveals persistent constraints on household purchasing power. The average monthly wage of a university-educated public sector employee (at entry level) in Syria stood at approximately SYP 1.13 million in February 2026, while the average monthly wage in the private sector reached SYP 1.32 million, and the average wage of a civil sector employee amounted to SYP 3.1 million during the same period, indicating disparities across employment categories.
-However, these income levels remain insufficient in relation to the cost of living. The abject poverty line for a household reached SYP 3.11 million per month in February 2026, while the lower poverty line stood at SYP 4.89 million, and the upper poverty line at SYP 6.76 million, highlighting the magnitude of the gap between earnings and basic needs. An analysis of wage-to-poverty-line coverage in Syria reveals a deep structural crisis in income adequacy, particularly in both the public and private sectors. At the national level, the overall average reflects a severe shortfall, with the wages of a university-educated public sector employee covering less than 63 per cent of the abject poverty line, and this gap widening to exceed 83 per cent when compared to the upper poverty line, underscoring the extent of income erosion under sustained inflation.
+--- Report 3: Health Cluster (2026-05-31) ---
+National health sector coordination, Damascus
+• Updated the sector on key issues, including, new US pledge of 1.8 billion USD to OCHA and related advocacy for health sector funding, WHO Situation Report on Middle East Conflict, latest Security Council statements, MoH key activities for April and May, World Health Assembly 79, World Health Statistics 2026.
+• Briefed ECHO and EU teams as part of a separate technical consultation on NEXUS operationalization in Syria.
+• Continued to follow up on projects revisions funded by SHF: SAMS, Bahar, Mentor Initiative.
+• Conducted bilateral meetings, participated in various calls: Relief International.
+• Followed up key requests from the Embassy of Netherlands for sector related issues and WHA79.
+• Updated and shared with the sector the following materials: IM deliverables, Q1 2026, details of OCHA Donor Support Group visit to Syria, PHSA May 2026, inter-Ministerial workshop on “No Tent and No Camp” vision, key activities from Syria-EU meeting in Brussels, UNFPA and UNICEF reports, Relief International assessment, IOM DTM and UNHCR updates.
+• Jointly with the HIS team, updated and disseminated: Health sector 4W 2026 HNRP infographic, January – March 2026, Health sector referral pathway, Q1 2026, Health sector overview on reconstruction and rehabilitation, Impact of underfunding of health sector.
+• Shared with ECHO details of key sector level IM materials used in planning and response tracking. • Followed up on the inter-sector coordination group meeting with OCHA Donor Support Group.
+• Nominated 3 HIS colleagues in the planned 2 days Inter-Agency ToT on Referrals.
+• Provided sector level inputs for preparation of the draft of the UN Security Council briefing on humanitarian situation in Syria. • Followed up on the review of the overall Humanitarian Coordination Structure, including various Working Groups and Task Forces under HCT and UNCT umbrella.
+• Provided inputs as part of inter-sector brainstorming: roadmap to SHF Standard Allocation.
