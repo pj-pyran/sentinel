@@ -1,5 +1,68 @@
 [
   {
+    "id": "ai-location-sri-lanka",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Sri Lanka",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Flash Flood",
+    "location": "Sri Lanka",
+    "scope": null,
+    "date": "2026-06-02",
+    "content": "• No specific information or updates are available from the Disaster Management Centre of Sri Lanka as of 1 June 2026.\n• There are no reported figures on affected populations, damages, or humanitarian needs in the provided reports.\n• The situation status, response activities, and urgent requirements remain unspecified in the latest available reports.\n\nCurrently, there is a lack of detailed situational data or assessments from official sources regarding the crisis in Sri Lanka. Further information is needed to understand the scope and impact of the situation and to guide humanitarian response efforts.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "DMC Sri Lanka"
+    ],
+    "sourceIds": [
+      "rw-4214235",
+      "rw-4214245"
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-02T00:45:06Z",
+    "prompt_id": "a3a6fd17e378",
+    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
+    "user_prompt_display": "Crisis / situation: Sri Lanka\n\n--- Report 1: DMC Sri Lanka (2026-06-01) ---\nSituation Report - Sri Lanka 31st May 2026 at 1000hrs\n\n--- Report 2: DMC Sri Lanka (2026-06-01) ---\nSituation Report - Sri Lanka 1st June 2026 at 1000hrs\n"
+  },
+  {
+    "id": "rw-4214287",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WHO EMR Polio Bulletin Issue No.1443, Week 21 (ending on 31/05/2026)",
+    "source": "WHO",
+    "crisis": "Epidemic",
+    "location": "Afghanistan",
+    "scope": "single",
+    "date": "2026-06-01",
+    "content": "<p><strong>Wildpoliovirus type 1 (WPV1)</strong></p>\n<p>Cases: No new WPV1 positive cases reported this week. In total, 52 WPV1-positive cases have been confirmed in 2025 to date (21 from Afghanistan and 31 from Pakistan in 2025) and 7 WPV1 cases reported in 2026 (4 from Afghanistan and 3 from Pakistan).</p>\n<p>Environment: Four new WPV1 positive environmental samples in 2026 from Pakistan reported this week. The new reported WPV1 environmental samples are all from Sindh province (1 each from Kamabr and Kashmore districts and Karachi West and East towns) with collection dates between 4th and 5th May 2026. In total, 745 WPV1-positive environmental samples have been reported in 2025 (94 from Afghanistan and 651 from Pakistan) and 119 WPV1-positive environmental samples reported in 2026 (34 from Afghanistan and 85 from Pakistan).</p>\n<p><strong>Vaccine-derived poliovirus (VDPV)</strong></p>\n<p>Cases:</p>\n<p>• cVDPV2: No new positive cases reported this week. The cVDPV2 case count to date in 2026 is 6 (5 from Somalia and 1 from Sudan) and in 2025 is 47 (31 from Yemen, 13 from Sudan, 2 from Somalia and 1 from Djibouti).</p>\n<p>Environment</p>\n<p>• cVDPV1: No new cVDPV1 isolates were reported this week. cVDPV1 were confirmed from 10 environmental samples in 2025 (all from Djibouti).</p>\n<p>• cVDPV2: No new cVDPV2 isolates were reported this week. To date, cVDPV2 was confirmed in 11 sewage water samples in 2026 (8 from Somalia and 3 from Sudan), and In 2025 from 58 samples (17 from Djibouti, 15 from Yemen, 13 from Somalia, 7 from occupied Palestinian territory, and 6 from Sudan).</p>\n",
+    "url": "https://reliefweb.int/report/afghanistan/who-emr-polio-bulletin-issue-no1443-week-21-ending-31052026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4214287",
+    "file_url": "https://reliefweb.int/attachments/9c611deb-59aa-5abc-a7ac-1dc761f3c1b5/EMR_Polio_Bulletin_Issue_1443_Week_21-2026.pdf"
+  },
+  {
+    "id": "rw-4214310",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Respiratory Viruses Weekly Report Epidemiological week: 2026-19 / Reporte semanal de Virus Respiratorios Semana epidemiológica: 2026-19 [EN/ES]",
+    "source": "PAHO",
+    "crisis": "Humanitarian Crisis",
+    "location": "World",
+    "scope": "single",
+    "date": "2026-06-01",
+    "content": "<p><strong>Regional situation:</strong> In EW 19 of 2026, respiratory virus activity in the Region of the Americas deepens the pattern of inter-hemispheric seasonal transition observed in previous weeks, with an increasingly marked divergence between hemispheres. North America, the Caribbean, and Central America are consolidating the end of the 2025–2026 season, with influenza positivity at low levels close to the interseasonal baseline. In contrast, Brazil and the Southern Cone establish themselves as the subregion of greatest epidemiological relevance for this reporting period, intensifying an accelerated upward trend of the start of the austral winter season, led by Argentina. The Andean Subregion maintains a mixed pattern, with an aggregate decline in influenza but divergent trajectories between countries and with RSV cases that continue to rise. The inter-hemispheric predominance of subtypes persists: influenza B, which has characterized the end of the Northern Hemisphere season, and influenza A, mainly A(H3N2), in the subregions of the Southern Hemisphere. Likewise, RSV shows opposite patterns according to hemisphere: declining in North America and rising in the Andean Region and in Brazil and the Southern Cone, consistent with the start of the austral season. SARS-CoV-2 maintains its generalized decline in all subregions, with no sign of resurgence. The burden of SARI and ILI is declining in the Northern Hemisphere, while the indicators are beginning to reflect an increase in the Southern Cone.</p>\n<p><strong>Situación regional:</strong> En la SE 19 de 2026, la actividad de virus respiratorios en la Región de las Américas profundiza el patrón de transición estacional inter-hemisférica observado en las semanas previas, con una divergencia cada vez más marcada entre hemisferios. América del Norte, el Caribe y Centroamérica consolidan el fin de la temporada 2025–2026, con positividades de influenza en niveles bajos próximos a la línea de base interestacional. En contraste, Brasil y el Cono Sur se afirman como la subregión de mayor relevancia epidemiológica para este periodo de reporte, intensificando una tendencia ascendente y acelerada de inicio de temporada invernal austral, liderada por Argentina. La Subregión Andina mantiene un patrón mixto, con descenso agregado de influenza, pero trayectorias divergentes entre países y con casos de VRS que continúan en ascenso. Persiste el predominio inter-hemisférico de subtipos: influenza B que ha caracterizado el cierre de temporada del hemisferio norte e influenza A, principalmente A(H3N2), en las subregiones del hemisferio sur. Igualmente, el VRS muestra patrones opuestos según hemisferio: en descenso en América del Norte y en ascenso en la Región Andina y en Brasil y el Cono Sur, consistente con el inicio de la temporada austral. El SARS-CoV-2 mantiene su descenso generalizado en todas las subregiones, sin señal de resurgimiento. La carga de IRAG y ETI desciende en el hemisferio norte, mientras los indicadores comienzan a reflejar un incremento en el Cono Sur.</p>\n",
+    "url": "https://reliefweb.int/report/world/respiratory-viruses-weekly-report-epidemiological-week-2026-19-reporte-semanal-de-virus-respiratorios-semana-epidemiologica-2026-19-enes",
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": "4214310",
+    "file_url": "https://reliefweb.int/attachments/ab6272c9-6bb3-5484-a24d-0556b0bc29b8/paho-influenza-orv-weekly-bulletin-ew19.pdf"
+  },
+  {
     "id": "rw-4214218",
     "provider": "reliefweb",
     "type": "original",
@@ -134,36 +197,6 @@
     "subregion": "Southern Asia",
     "rw_id": "4214245",
     "file_url": "https://reliefweb.int/attachments/fc7b7e12-8661-4068-bb01-6f753f2721fe/Situation_Report_on_2026__1780289819.pdf"
-  },
-  {
-    "id": "ai-location-sri-lanka",
-    "provider": "ai",
-    "type": "ai-summary",
-    "title": "Situation Summary: Sri Lanka",
-    "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Flash Flood",
-    "location": "Sri Lanka",
-    "scope": null,
-    "date": "2026-06-01",
-    "content": "• No new information or updates are available from the Disaster Management Centre of Sri Lanka as of 30 May and 1 June 2026.\n• No data on key developments, figures, or humanitarian needs have been reported in the latest situation reports.\n• The absence of reports suggests either a stable situation or a lack of recent assessment and dissemination of information.\n\nDue to the lack of specific details in the latest reports, it is not possible to provide an updated briefing on the humanitarian situation in Sri Lanka. Further information will be needed to assess current needs and response priorities.",
-    "url": null,
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "rw_id": null,
-    "file_url": null,
-    "relatedSources": [
-      "DMC Sri Lanka"
-    ],
-    "sourceIds": [
-      "rw-4214235",
-      "rw-4214245",
-      "rw-4214234"
-    ],
-    "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-01T19:39:47Z",
-    "prompt_id": "a3a6fd17e378",
-    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Sri Lanka\n\n--- Report 1: DMC Sri Lanka (2026-06-01) ---\nSituation Report - Sri Lanka 31st May 2026 at 1000hrs\n\n--- Report 2: DMC Sri Lanka (2026-06-01) ---\nSituation Report - Sri Lanka 1st June 2026 at 1000hrs\n\n--- Report 3: DMC Sri Lanka (2026-05-30) ---\nSituation Report - Sri Lanka 30th May 2026 at 1000hrs\n"
   },
   {
     "id": "rw-4214178",
@@ -912,6 +945,23 @@
     "subregion": "Global",
     "rw_id": "4213776",
     "file_url": "https://reliefweb.int/attachments/42e9dbe6-abc6-4134-b00e-55e89815facc/153.-29-April-12-May-2026-Aid-in-Danger-News-Brief.pdf"
+  },
+  {
+    "id": "rw-4213648",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "EMR Polio Bulletin: World Health Organization – Regional Office for Eastern Mediterranean Issue No. 1442, Week 20 (ending on 24/05/2026)",
+    "source": "WHO",
+    "crisis": "Humanitarian Crisis",
+    "location": "World",
+    "scope": "global",
+    "date": "2026-05-26",
+    "content": "No summary available.",
+    "url": "https://reliefweb.int/report/afghanistan/emr-polio-bulletin-world-health-organization-regional-office-eastern-mediterranean-issue-no-1442-week-20-ending-24052026",
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": "4213648",
+    "file_url": "https://reliefweb.int/attachments/cca2cfa1-ee7b-5bf5-a8fb-d937cd6d1daa/EMR_Polio_Bulletin_Issue_1442_Week_20-2026.pdf"
   },
   {
     "id": "rw-4213712",
@@ -8069,22 +8119,5 @@
     "subregion": "Southern Asia",
     "rw_id": "4210287",
     "file_url": "https://reliefweb.int/attachments/202800b7-88fd-49c5-8663-5812415034a8/WFP%20Middle%20East%20Regional%20Escalation%20Emergency%20Response%20External%20Situation%20Report%20%239%20-%203%20May%202026.pdf"
-  },
-  {
-    "id": "rw-4210266",
-    "provider": "reliefweb",
-    "type": "original",
-    "title": "Lebanon: Flash Update #22 - Escalation of hostilities in Lebanon (as of 30 April 2026)",
-    "source": "OCHA",
-    "crisis": "Humanitarian Crisis",
-    "location": "Lebanon",
-    "scope": "single",
-    "date": "2026-05-02",
-    "content": "KEY FIGURES \\>1,049 K (MOSA) self-registered Internally Displaced People (IDP) 119,623 (DRM) displaced in collective shelters 626 (DRM) shelters 2,576 (MOPH) people killed 7,962 (MOPH) people injured HIGHLIGHTS - Since the announcement of the ceasefire on 17 April and recent extension, hostilities continued resulting in additional loss of lives. - 24 per cent of the population are projected to face acute food insecurity between April and August 2026. - 103 humanitarian movements including 19 convoys were facilitated delivering urgent assistance to conflict affected and hard-to-reach areas. - Lebanon Flash Appeal remains significantly underfunded with only 38 per cent of resources available, putting humanitarian assistance supply chains at risk. Situation Overview The humanitarian situat…",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-22-escalation-hostilities-lebanon-30-april-2026",
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "rw_id": "4210266",
-    "file_url": "https://reliefweb.int/attachments/fa7c00e1-f884-4653-9596-56505aa657d1/OCHA_Lebanon_Flash_Update%20No%2022.pdf"
   }
 ]
