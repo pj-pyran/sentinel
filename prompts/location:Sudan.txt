@@ -1,23 +1,19 @@
 Crisis / situation: Sudan
 
---- Report 1: WFP (2026-05-29) ---
-On 2 April, the Office of the RC/HC relocated to Khartoum following the recent re-establishment of government ministries. WFP Sudan is implementing a phased return to Khartoum and rotations supported by the regular UNHAS airbridge.
-15 April 2026 marked the third anniversary of the war in Sudan. In a statement, the UN Secretary‑General warned that Sudan has become the world’s largest humanitarian crisis and urged an immediate ceasefire, civilian protection, full funding for aid, and a credible civilian‑led political process.
-At the Berlin Conference on 15 April, donors pledged over USD 1.5 billion to Sudan.
-On 24 April, a truck carrying relief items from UNHCR came under drone attack in North Darfur, destroying emergency shelter supplies intended for 1,300 families in Tawila, where more than 700,000 displaced people have sought safety after fleeing fighting in other parts of Darfur.
+--- Report 1: ETC (2026-06-02) ---
+The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 25 May 2023 in response to the conflict crisis in Sudan. This Situation Report provides a monthly update on LTC telecoms activities. All references to the LTC in this report relate to the telecommunications area of the cluster.
+Summary Points
+• In May, LTC Telecoms sustained critical connectivity across seven hubs despite funding and access constraints, while expansion plans in Khartoum slowed due to renewed insecurity. UN agencies are preparing phased returns from Port Sudan to the capital.
+• LTC Telecoms is transitioning to an on-demand service model, managed by WFP, using cost-recovery and costsharing to sustain operations. Piloted in Al Gedaref, the model supports shared connectivity services and is expanding to more stable areas in eastern Sudan.
+• LTC Telecoms is finalizing a project to support community connectivity in Khartoum, in coordination with the Protection Working Group and partner Go Green, to strengthen digital services at community centres.
 
---- Report 2: UNFPA (2026-05-29) ---
-An estimated 8.8 million people remain displaced across all 18 states of Sudan, and the recent intensification of fighting is driving new waves of displacement that further add pressure to overstretched services and host communities while contributing to widespread risk of gender-based violence (GBV). A joint mission confirmed that women and girls in Blue Nile displacement sites face heightened exposure to harassment and sexual violence due to unsafe living conditions and weak protection systems. The situation in South Kordofan remains volatile; after more than two years of siege, women and girls face compounding protection risks, including direct exposure to hostilities, heightened harassment, questioning at checkpoints, and detention. Deteriorating conditions lead to harassment, child marriage, and intimate partner violence driven by economic hardship.
-In response to the significant needs, UNFPA reestablished its physical presence in White Nile and Darfur states, having paused operations in those locations in 2023, and rapidly scaled up the delivery of life-saving sexual and reproductive health (SRH) and GBV services. In April 2026, UNFPA and its implementing partners collectively reached 77,570 people with SRH services across 17 states and provided GBV protection and response services to over 102,700 people, primarily internally displaced persons, across 14 states.
-In 2026, UNFPA is appealing for US $129.2 million to respond to critical SRH and GBV needs in Sudan. To date, around 29% of this funding has been received, leaving a significant gap of US$92 million. UNFPA continues to call for urgent financial support to address the growing needs of women and girls across the country.
+--- Report 2: IOM (2026-06-01) ---
+Between 11 January and 21 May 2026, an estimated 59,742 individuals (11,956 households) were displaced from locations across Blue Nile state.
 
---- Report 3: WFP (2026-05-29) ---
-KEY HIGHLIGHTS
-• WFP assisted 3.1 million people in April.
-• Since the beginning of 2026, WFP has been unable to achieve the monthly average reach of 2025 (4 million). The decrease in reach has been driven by funding shortages, access constraints, and administrative delays.
-• In April, 798,000 people were reached in areas projected to be already facing or at risk of catastrophic hunger (IPC phase 4-5) covering 62 percent of the 1.3 million food-insecure population in those locations.
-• Out of the 3.1 million people assisted in April, WFP reached 2.9 million crisis-affected people with food and cash assistance.
-• WFP also reached 1.1 million people through CBT in April.
-• WFP provided integrated nutrition support to 203,000 people, including children under five and pregnant and breastfeeding women and girls (PBWG).
-• In Tawila, North Darfur, home to the largest population of internally displaced persons (IDPs), WFP delivered life-saving emergency food and nutrition assistance to more than 450,000 people.
-• From 8 to 14 April, WFP Deputy Executive Director Carl Skau undertook a high-level mission to Sudan. The mission focused on engagement with government authorities, the reestablishment of WFP’s presence in Khartoum, and a review of operational conditions in Darfur and key border areas.
+This marks a 21 per cent increase compared to the previous update, up from 49,512 IDPs recorded on 4 May 2026.
+Individuals were displaced from locations across Al Kurmuk (30,025 IDPs), Baw (19,507 IDPs), and Geisan (10,210 IDPs) localities.
+Individuals were displaced to locations across seven different localities within Blue Nile state: Ed Damazine (31,035 IDPs), Baw (15,917 IDPs), Geisan (6,335 IDPs), Ar Rusayris (4,935 IDPs), At Tadamon (985 IDPs), Wad Al Mahi (400 IDPs) and Al Kurmuk (135 IDPs).
+The vast majority of newly displaced individuals sought shelter at informal gathering sites (72%), while others stayed with host families (21%) or were hosted in schools and other public buildings (7%).
+Approximately 53 per cent of IDPs were female, compared to 47 per cent male. Half (50%) were children, under the age of 18.
+
+For further information on displacement across Sudan, see DTM Sudan Displacement and Return Snapshot (5). DTM reports on all events triggering displacement within Sudan via Early Warning Flash Alerts.
