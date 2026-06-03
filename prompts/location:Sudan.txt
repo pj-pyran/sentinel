@@ -1,13 +1,29 @@
 Crisis / situation: Sudan
 
---- Report 1: ETC (2026-06-02) ---
+--- Report 1: Insecurity Insight (2026-06-03) ---
+Data from Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 12 May 2026:
+
+755 attacks on health care recorded
+Over two-thirds of these 755 attacks were attributed to the RSF.
+207 health workers killed, 15 kidnapped and 127 arrested
+Health facilities attacked 214 times
+61 attacks where armed drones affected health care
+51 attacks on maternal health care services
+
+Documented incidents
+13-26 May 2026
+The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care between 13-26 May 2026. The incidents below have not been verified through ground investigations. There is a delay in reporting incidents due to our open source verification protocol.
+20 May 2026: In Dilling city, South Kordofan state, a medical warehouse was destroyed during an attack by RSF and SPLM-N with drones and missiles, destroying medical supplies and equipment. Sources: Sudan Doctors Network and UN OCHA
+As reported on 21 May 2026: In Dilling city, South Kordofan state, two health workers were killed in shelling by an unidentified armed group. Source: UN OCHA
+
+--- Report 2: ETC (2026-06-02) ---
 The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 25 May 2023 in response to the conflict crisis in Sudan. This Situation Report provides a monthly update on LTC telecoms activities. All references to the LTC in this report relate to the telecommunications area of the cluster.
 Summary Points
 • In May, LTC Telecoms sustained critical connectivity across seven hubs despite funding and access constraints, while expansion plans in Khartoum slowed due to renewed insecurity. UN agencies are preparing phased returns from Port Sudan to the capital.
 • LTC Telecoms is transitioning to an on-demand service model, managed by WFP, using cost-recovery and costsharing to sustain operations. Piloted in Al Gedaref, the model supports shared connectivity services and is expanding to more stable areas in eastern Sudan.
 • LTC Telecoms is finalizing a project to support community connectivity in Khartoum, in coordination with the Protection Working Group and partner Go Green, to strengthen digital services at community centres.
 
---- Report 2: IOM (2026-06-01) ---
+--- Report 3: IOM (2026-06-01) ---
 Between 11 January and 21 May 2026, an estimated 59,742 individuals (11,956 households) were displaced from locations across Blue Nile state.
 
 This marks a 21 per cent increase compared to the previous update, up from 49,512 IDPs recorded on 4 May 2026.
