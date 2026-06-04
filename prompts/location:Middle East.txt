@@ -1,6 +1,21 @@
 Crisis / situation: Middle East
 
---- Report 1: IMC (2026-06-03) ---
+--- Report 1: WHO (2026-06-04) ---
+CRISIS IN NUMBERS
+115 million people in need of humanitarian aid in the Region (48% of global total) prior to the current conflict
+US$ 30.3 million required for WHO Middle East conflict flash appeal (12% funded)
+US$ 633 million required for WHO’s regional health emergency appeals (49% funded)
+KEY HIGHLIGHTS
+• The Seventy-Ninth World Health Assembly adopted a resolution on the protection of health care, submitted by Lebanon and endorsed by the Council of Arab Health Ministers, calling for strengthened protection of health services, sustained international support and enhanced operational assistance to ensure continuity of essential health services during conflict.
+• Attacks on health care in Lebanon continue despite the ceasefire. Since 2 March 2026, more than 191 attacks on health care have been reported, resulting in 128 health worker deaths and 357 injuries.
+• More than 127,700 people remain displaced in collective shelters across Lebanon, while acute watery diarrhoea cases continue to increase, from 504 cases in week 17 to 803 cases in week 20, bringing the cumulative total to 2,777 cases.
+• Population movements from Lebanon continue, with more than 448,000 people reported crossing into Syria since 2 March.
+• In Syria, 545 measles cases have been reported since January 2026, including 96 cases during the past two weeks, while cutaneous leishmaniasis remains a public health concern with more than 5,800 cases reported during the first quarter of 2026.
+• Iraq has reported 88 confirmed cases of Crimean-Congo haemorrhagic fever, including eight deaths, highlighting continued risks from infectious disease outbreaks amid regional instability.
+• On 3 June, strikes on Kuwait Airport, residential areas, and civilian and diplomatic facilities resulted in 1 death and 63 injuries. The UN House, hosting WHO’s office, was hit by debris, but no casualties were reported.
+• WHO's Middle East conflict flash appeal remains significantly underfunded, with only 12% of the US$30.3 million requirement funded.
+
+--- Report 2: IMC (2026-06-03) ---
 FAST FACTS
 
 More than 1 million people remain displaced, including over 132,000 people sheltering in 633 collective sites. Escalating insecurity in the south and the Bekaa continues to restrict humanitarian access and block safe returns.
@@ -17,7 +32,7 @@ Nutrition teams have screened 986 children and pregnant or breastfeeding women f
 
 International Medical Corps is continuing to deliver lifesaving health services at scale across the Middle East, supporting communities affected by conflict, displacement and worsening humanitarian conditions. Our regional presence and operational reach are set out in previous Situation Reports and in our regional Capability Statement. All personnel remain safe and accounted for.
 
---- Report 2: UNHCR (2026-06-03) ---
+--- Report 3: UNHCR (2026-06-03) ---
 SITUATION OVERVIEW
 REGIONAL CONTEXT
 Since late February, escalating hostilities in Iran and Lebanon have triggered humanitarian consequences with impact across the region, including refugee returns in adverse circumstances to Afghanistan and Syria. Events are unfolding against an already fragile humanitarian baseline, with over 24 million forcibly displaced people hosted across the wider region prior to the current escalation, alongside host communities under significant economic and social strain.
