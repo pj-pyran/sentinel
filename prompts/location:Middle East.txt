@@ -1,28 +1,25 @@
 Crisis / situation: Middle East
 
---- Report 1: UNHCR (2026-05-26) ---
-Overview
-• Between 14 and 15 May, political-level talks between Lebanon and Israel were held in Washington under U.S. auspices, marking a further step in direct engagement.
-• On 15 May, Israel and Lebanon agreed to extend the ceasefire for 45 days. The talks resulted in the launch of two parallel tracks: a security track on 29 May and a formal political track scheduled for 2-3 June 2026. Despite the extension, hostilities have remained intense over the past two weeks since the last UNHCR Flash Update, with continued airstrikes mainly targeting southern Lebanon.
-• Displacement patterns remain fluid, with many people repeatedly returning home temporarily before being displaced again, especially in southern areas. More people are relying on public spaces, unfinished buildings, host communities, and informal shelters, making vulnerable groups harder to identify and limiting their access to assistance and referral services
-• Displacement orders expanded beyond southern Lebanon to include Nabatiyeh city, prompting renewed population movements and raising concerns over the geographic expansion of hostilities. Returns continue to be constrained by insecurity, widespread housing damage, inadequate access to services, and risks posed by unexploded ordnance.
+--- Report 1: IMC (2026-06-03) ---
+FAST FACTS
 
---- Report 2: Logistics Cluster (2026-05-25) ---
-Summary
-This Supply Route Snapshot provides an overview of the current supply routes used by partners to continue operations in the region and provides key logistics information and analyses on the primary and secondary affected countries.
-Content
-(Download PDF for source links)
-The humanitarian consequences of the crisis in the Middle East have intensified since February 2026. The effects of the situation extend across the region, with primary humanitarian operational impacts across Afghanistan, Lebanon, the Occupied Palestinian Territory, Syria, and Iran, creating supply chain and market disruptions in neighbouring countries and regions, including humanitarian responses in East Africa. Regional transport corridors, airspace, ports, border crossings, and fuel supply chains have been disrupted, resulting in complex cross border logistics challenges. This Supply Route Snapshot provides an overview of the current supply routes used by partners to continue operations in the region and provides key logistics information and analyses on the primary and secondary affected countries.
-(Download PDF to view map)
-Key Situation Updates
-On 12 May 2026, the Islamic Revolutionary Guard Corps Navy announced that the scope of the Strait of Hormuz was expanded from the coasts of Jask and Sirik to beyond Greater Tunb Island. On 20 May 2026, the Iran Persian Gulf Strait Authority (PGSA) announced the establishment of a regulated maritime area within the Strait of Hormuz, extending eastward from Kuh‑e Mubarak in Iran to waters south of Fujairah, United Arab Emirates (UAE), and westward from Qeshm Island to Umm al‑Quwain, UAE. Media outlets have reported the implementation of a multi-tiered mechanism for clearing vessels through the Strait.
-Continued conflict has been reported in Lebanon between 15 and 18 May, despite the announcement of the ceasefire extension on 15 May. Alternative multimodal supply routes in into Afghanistan remain complex due to the inaccessibility to the Persian Gulf and continued border crossing closures with Pakistan. Access to Syrian ports has become increasingly important for neighboring countries, including Iraq, to transport oil and other goods.
-Shipping &amp; Port Access
-The Strait of Hormuz remains effectively closed to commercial shipping. Media outlets have reported very limited controlled transits occurring under military escort arrangements. Following escorted transits, pre-conflict levels of traffic have not resumed, and the corridor remains largely unused by commercial operators that continue to avoid the corridor due to security risks, unclear rules of passage, and high insurance costs.
-Due to decreased visibility and the limitations of maritime tracking data, estimates differ on the number of ships that have been able to transit the strait, though all estimates remain low. On 19 May 2026, InchCape Shipping Services reported that 12 vessels crossed the Strait of Hormuz, Windward Maritime AI reported a total of 7 ships transiting, and the International Maritime Organization (IMO) estimated a total of 4 transits.
-(Download PDF to view Strait of Hormuz Transit Volume chart)
-Note: The below table reflects the status of ports at the time of writing. While several ports are reported as “operational,” actual port activity may be constrained, and vessel calls remain limited due to a range of factors (e.g. cost increases, access uncertainty, and operational risks).
+More than 1 million people remain displaced, including over 132,000 people sheltering in 633 collective sites. Escalating insecurity in the south and the Bekaa continues to restrict humanitarian access and block safe returns.
 
---- Report 3: Insecurity Insight (2026-05-25) ---
-Since 28 February, Insecurity Insight has monitored how the conflict between Iran, Israel, Lebanon and the United States has affected the delivery of aid, education, food and water, and health care across Iran, Israel, Lebanon, and the Greater Middle East region. Insecurity Insight’s open source monitoring recorded a total of 302 incidents where conflict-related violence impacted aid, education, health, food and water systems in ten countries: Azerbaijan, Bahrain, Iran, Iraq, Israel, Kuwait, Lebanon, the occupied Palestinian territory (oPt), Syria and the United Arab Emirates (UAE). Of these incidents, 97% (293) involved explosive weapons and occurred in all listed countries except the oPt. Explosive weapons included a range of weapons such as artillery, aerial and drone strikes, improvised explosive devices (IEDs) and missiles. The highest number of incidents with impact on essential civilian services were attributed to the Israeli Defence Forces (162) and joint Israel-U.S. operations (92), and the U.S military (15). Other conflict parties included the Islamic Republic of Iran Armed Forces, Islamic Revolutionary Guard Corps and Hezbollah. Five incidents were attributed to an unidentified conflict party.
-The highest number of impacts were recorded in Lebanon (150) followed by Iran (117) with the health system being particularly affected in both countries.
+OUR FOOTPRINT
+
+International Medical Corps maintains a wide operational presence across the Middle East, delivering lifesaving assistance in active conflict zones and high-risk environments.
+
+OUR RESPONSE
+
+Across the region, International Medical Corps sustains integrated health, nutrition, mental health, protection and WASH programming through mobile teams, field hospitals and fixed facilities, with established systems in place to expand rapidly as needs intensify.
+In Lebanon, 35 mobile medical teams have operated across 135 shelters and community sites, delivering 17,282 consultations, treating 8,786 acute cases and managing 2,026 chronic conditions. Teams have also conducted health awareness sessions for 3,102 people, referred 1,089 patients for higher-level care and vaccinated 262 children.
+Nutrition teams have screened 986 children and pregnant or breastfeeding women for malnutrition, while mental health teams reached more than 1,000 people with psychosocial and psychological support services. In addition, teams distributed 2,168 hygiene kits to displaced and vulnerable households.
+
+International Medical Corps is continuing to deliver lifesaving health services at scale across the Middle East, supporting communities affected by conflict, displacement and worsening humanitarian conditions. Our regional presence and operational reach are set out in previous Situation Reports and in our regional Capability Statement. All personnel remain safe and accounted for.
+
+--- Report 2: UNHCR (2026-06-03) ---
+SITUATION OVERVIEW
+REGIONAL CONTEXT
+Since late February, escalating hostilities in Iran and Lebanon have triggered humanitarian consequences with impact across the region, including refugee returns in adverse circumstances to Afghanistan and Syria. Events are unfolding against an already fragile humanitarian baseline, with over 24 million forcibly displaced people hosted across the wider region prior to the current escalation, alongside host communities under significant economic and social strain.
+Interagency emergency response is underway to address urgent needs. In Iran, the Flash Refugee Response Plan targets refugees and others in need of international protection alongside affected host communities. In Lebanon, a Flash Appeal complements the broader response under the Lebanon Response Plan to deliver life saving assistance and protection, including to Syrian refugees. In Afghanistan, the funding requirement for the returns response is outlined under the Humanitarian Needs &amp; Response Plan.
+UNHCR and partners have been working across countries neighbouring Iran to strengthen preparedness for possible large-scale refugee flows, in support of national authorities. Preparedness measures are in place, including border monitoring, reception and protection readiness, but these arrangements remain highly dependent on flexible and predictable funding in an increasingly constrained resource environment.
