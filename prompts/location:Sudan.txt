@@ -22,14 +22,3 @@ Summary Points
 • In May, LTC Telecoms sustained critical connectivity across seven hubs despite funding and access constraints, while expansion plans in Khartoum slowed due to renewed insecurity. UN agencies are preparing phased returns from Port Sudan to the capital.
 • LTC Telecoms is transitioning to an on-demand service model, managed by WFP, using cost-recovery and costsharing to sustain operations. Piloted in Al Gedaref, the model supports shared connectivity services and is expanding to more stable areas in eastern Sudan.
 • LTC Telecoms is finalizing a project to support community connectivity in Khartoum, in coordination with the Protection Working Group and partner Go Green, to strengthen digital services at community centres.
-
---- Report 3: IOM (2026-06-01) ---
-Between 11 January and 21 May 2026, an estimated 59,742 individuals (11,956 households) were displaced from locations across Blue Nile state.
-
-This marks a 21 per cent increase compared to the previous update, up from 49,512 IDPs recorded on 4 May 2026.
-Individuals were displaced from locations across Al Kurmuk (30,025 IDPs), Baw (19,507 IDPs), and Geisan (10,210 IDPs) localities.
-Individuals were displaced to locations across seven different localities within Blue Nile state: Ed Damazine (31,035 IDPs), Baw (15,917 IDPs), Geisan (6,335 IDPs), Ar Rusayris (4,935 IDPs), At Tadamon (985 IDPs), Wad Al Mahi (400 IDPs) and Al Kurmuk (135 IDPs).
-The vast majority of newly displaced individuals sought shelter at informal gathering sites (72%), while others stayed with host families (21%) or were hosted in schools and other public buildings (7%).
-Approximately 53 per cent of IDPs were female, compared to 47 per cent male. Half (50%) were children, under the age of 18.
-
-For further information on displacement across Sudan, see DTM Sudan Displacement and Return Snapshot (5). DTM reports on all events triggering displacement within Sudan via Early Warning Flash Alerts.
