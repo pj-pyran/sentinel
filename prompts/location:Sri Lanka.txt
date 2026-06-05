@@ -1,6 +1,10 @@
 Crisis / situation: Sri Lanka
 
---- Report 1: IFRC (2026-06-04) ---
+--- Report 1: DMC Sri Lanka (2026-06-05) ---
+No summary available.
+
+--- Report 2: IFRC (2026-06-04) ---
+EARLY ACTION PROTOCOL ACTIVATION
 Activation Overview
 The Sri Lanka Red Cross Society (SLRCS) has activated its simplified Early Action Protocol for dengue after the National Dengue Control Unit (NDCU) reported a confirmed weekly caseload exceeding the trigger point of 1,500. As of May 2026, the NDCU has reported a total of 32,071 dengue cases since the beginning of the year. Additionally, two more deaths have been recorded, raising the total to 17.
 The highest number of cases has been reported in the Western Province, followed by the Southern and Sabaragamuwa Provinces. Dengue infections have occurred in all 25 districts nationwide, with the most significant numbers found in Colombo, Gampaha, Kalutara, Kandy, Galle, Matara, and Rathnapura. The outbreak is impacting communities as the southwest monsoon sets in over the island. Many districts are experiencing considerable rainfall, and the Western Province is facing major and minor flooding, particularly in the Gampaha and Colombo districts. The weather conditions in high-risk urban areas, including the Northern provinces, pose an immediate risk for further spread of the disease.
@@ -9,5 +13,5 @@ Early actions will focus on five districts – Colombo, Gampaha, Kalutara, Kandy
 Early actions will prioritize communities at the highest risk of dengue outbreaks in the districts of Colombo, Gampaha, Kalutara, Kandy, and Jaffna, as well as in selected high-risk zones within these districts. The Ministry of Health and the Dengue Control Unit will collaborate closely to implement early action activities in other districts not included in the initial protocol that are currently experiencing high case numbers. The targeting will focus on households in areas with confirmed local transmission, border communities with significant crossborder mobility, and densely populated urban settlements that are vulnerable to flooding.
 The primary target groups include households near confirmed cases of dengue, school-aged children in highrisk areas, and vulnerable populations such as older people and individuals with disabilities. The dengue task force, along with members of the NDCU and Public Health Inspectors, will conduct household-level surveillance and implement community-level interventions to eliminate breeding sites for the dengue mosquito. These efforts will include promoting hygiene practices, ensuring the surroundings are kept clean, and taking rapid riskreduction measures
 
---- Report 2: DMC Sri Lanka (2026-06-04) ---
+--- Report 3: DMC Sri Lanka (2026-06-04) ---
 No summary available.
