@@ -1,6 +1,11 @@
 Crisis / situation: Lebanon
 
---- Report 1: OCHA (2026-06-07) ---
+--- Report 1: UNHCR (2026-06-08) ---
+Since the escalation of hostilities on 2 March 2026, and until 31 May, the Syrian General Authority for Border and Customs (GABC) estimates that 444,389 Syrians crossed from Lebanon into Syria, while the Lebanese General Security O ce (GSO) estimates that 356,478 Syrians departed through O cial Crossing Points (OCPs) during the same reporting period.
+In April 2026, movements of Syrians from Lebanon to Syria stabilized to an average of 3,600 individuals per day through the main o cial crossing points (OCPs) – Masnaa and Al Qaa; with fewer movements reported through the Arida and Boqayaa OCPs since their reopening for pedestrian-only crossing on 8 March and 4 May respectively. While some movements to Syria are driven by the escalating conflict in Lebanon, others reflect previously planned movements. Syrians crossing include people known, and not known to UNHCR, namely both refugees and Syrians who have stayed in Lebanon under various visa and sponsorship arrangements, or returning from temporary visits. A notable increase in movements was observed in the week leading up to the Eid al-Adha holiday, with an average of 7,500 individuals crossing per day, but this returned to pre-holiday figures by the end of the month.
+Since March 2026, UNHCR has undertaken 50 missions to OCPs, and conducted interviews with a sample of 707 Syrians both known (52%) and not known (48%) to UNHCR, as they were departing to Syria; 53% were conducted with adult men and 47% with adult women. Most Syrians (96%) were between 18 and 59 years old. Most Syrian families (50%) were observed traveling in complete male-headed families, while 48% were single adult males. Furthermore, while 55% of Syrians interviewed in March indicated they were leaving Lebanon due to the security situation; this dropped to only 7% citing the security situation as their main motivation in May (a further reduction from 24% in April). The majority (52%) in May indicated they were leaving for family reasons. Among the Syrians interviewed, 20% indicated an intention to return to Damascus, 14% to (Rural) Damascus, 13% to Aleppo and 12% to Homs. These findings are based on a random sample and are not representative of the profiles and intentions of all returning Syrians, including those known to UNHCR.
+
+--- Report 2: OCHA (2026-06-07) ---
 HIGHLIGHTS
 
 Revised Flash Appeal jointly launched by the United Nations and Government of Lebanon on 5 June, calling for US$ 639.9 million to assist 1.4 million people through August 2026.
@@ -21,7 +26,7 @@ Overall, the situation continues to be characterized by persistent fragility, wi
 On 5 June 2026, the revised Flash Appeal was jointly launched by the Humanitarian Coordinator for Lebanon and the Minister of Social Affairs (the Government’s lead on coordination of and response to the humanitarian crisis resulting from the escalation of hostilities), under the patronage of the Lebanese Prime Minister. The revised appeal seeks an additional US$ 331.5 million to sustain and expand multi-sector assistance for up to 1.4 million people in need through the end of August 2026. The revised appeal reflects the growing scale and severity of humanitarian needs and brings the total funding requirement for the six months’ response from March through August 2026 to US$ 639.9 million. At the time of its publication, the revised Flash Appeal was 29 per cent funded, with $190 million in contributions reported to date.
 At the launch event, Humanitarian Coordinator Imran Riza called for de-escalation, respect for International Humanitarian Law, unhindered humanitarian access, and scaled-up funding,noting that “the people of Lebanon have developed a remarkable strength to withstand the hardest of times, but even this exceptional resilience has its limits.”
 
---- Report 2: WHO (2026-06-07) ---
+--- Report 3: WHO (2026-06-07) ---
 Situation overview
 Impact of ongoing airstrikes
 • Lebanon’s security situation remained highly unstable over the past two weeks, with hostilities concentrated in the south and periodic strikes affecting areas near Beirut.
