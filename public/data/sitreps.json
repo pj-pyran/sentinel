@@ -1,5 +1,39 @@
 [
   {
+    "id": "rw-4215178",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNHCR Facilitated Return of syrian Refugees - Lebanon, 31 May 2026",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "scope": "single",
+    "date": "2026-06-08",
+    "content": "<p>Since the escalation of hostilities on 2 March 2026, and until 31 May, the Syrian General Authority for Border and Customs (GABC) estimates that 444,389 Syrians crossed from Lebanon into Syria, while the Lebanese General Security O ce (GSO) estimates that 356,478 Syrians departed through O cial Crossing Points (OCPs) during the same reporting period.</p>\n<p>In April 2026, movements of Syrians from Lebanon to Syria stabilized to an average of 3,600 individuals per day through the main o cial crossing points (OCPs) – Masnaa and Al Qaa; with fewer movements reported through the Arida and Boqayaa OCPs since their reopening for pedestrian-only crossing on 8 March and 4 May respectively. While some movements to Syria are driven by the escalating conflict in Lebanon, others reflect previously planned movements. Syrians crossing include people known, and not known to UNHCR, namely both refugees and Syrians who have stayed in Lebanon under various visa and sponsorship arrangements, or returning from temporary visits. A notable increase in movements was observed in the week leading up to the Eid al-Adha holiday, with an average of 7,500 individuals crossing per day, but this returned to pre-holiday figures by the end of the month.</p>\n<p>Since March 2026, UNHCR has undertaken 50 missions to OCPs, and conducted interviews with a sample of 707 Syrians both known (52%) and not known (48%) to UNHCR, as they were departing to Syria; 53% were conducted with adult men and 47% with adult women. Most Syrians (96%) were between 18 and 59 years old. Most Syrian families (50%) were observed traveling in complete male-headed families, while 48% were single adult males. Furthermore, while 55% of Syrians interviewed in March indicated they were leaving Lebanon due to the security situation; this dropped to only 7% citing the security situation as their main motivation in May (a further reduction from 24% in April). The majority (52%) in May indicated they were leaving for family reasons. Among the Syrians interviewed, 20% indicated an intention to return to Damascus, 14% to (Rural) Damascus, 13% to Aleppo and 12% to Homs. These findings are based on a random sample and are not representative of the profiles and intentions of all returning Syrians, including those known to UNHCR.</p>\n",
+    "url": "https://reliefweb.int/report/lebanon/unhcr-facilitated-return-syrian-refugees-lebanon-31-may-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4215178",
+    "file_url": "https://reliefweb.int/attachments/7d7a1299-2363-5b6d-82bd-cf7989a17eac/UNHCR%20Faciliated%20Return%20of%20Syrian%20Refugees%20-%20Lebanon%20May%202026.pdf"
+  },
+  {
+    "id": "rw-4215179",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Syria Country Brief, May 2026",
+    "source": "WFP",
+    "crisis": "Flood",
+    "location": "Syrian Arab Republic",
+    "scope": "single",
+    "date": "2026-06-08",
+    "content": "<p><strong>KEY HIGHLIGHTS</strong></p>\n<p>• Syria faces a severe food crisis, with only 18 percent of the population food secure. Severe funding shortfalls have forced WFP to halve emergency food assistance, increasing the risk of hunger, debt, and instability.</p>\n<p>• Humanitarian aid and recovery must go hand in hand, as unmet basic needs risk undermining recovery. WFP support remains critical in stabilizing communities and markets.</p>\n<p>• Urgent funding is needed to safeguard fragile gains and prevent further humanitarian, economic, and social deterioration. Sustained investment in livelihoods, agriculture, markets, and social protection is critical to rebuilding dignity, reducing dependency, and supporting long-term stability.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>• Food security conditions are gradually improving however, over 80 percent of Syrian families still cannot consistently meet their diverse, sufficient and nutritious food needs.<br />\n• Rising living costs are driving the Minimum Expenditure Basket up to approximately SYP 24,000. Even with a planned 50 percent wage increase, incomes cover only about one-third of basic household needs. Between January and March 2026, high inflation and currency depreciation have further reduced purchasing power. As a result, households are facing growing difficulty in affording essential goods and necessities.<br />\n• According to UNHCR, as of 19 May, over 448,582 people had crossed into Syria from Lebanon since the escalation in March, including over 371,548 Syrians (over 83,374 intending permanent return) and 82,189 Lebanese.<br />\n• Since 25 May, severe flooding along the Euphrates in Deir ez‑Zor and Raqqa has caused displacement, infrastructure damage, and livelihood losses during the peak harvest season in some of the most food‑insecure areas, further straining local food systems. This follows earlier localized flooding that also affected communities in Hasakeh, Deir ez‑Zor, and Aleppo. On 30 May, a WFP delegation, including the Country Director, visited Deir ez‑Zor to meet local counterparts and affected households, visit collective shelters, monitor distributions, and assess flood‑affected areas to guide response and planning.<br />\n• In April, WFP launched the development of its new Country Strategic Plan (CSP), which will define WFP’s priorities and operational direction in alignment with the new UNSDCF, with submission to the Executive Board scheduled for February 2027.</p>\n",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/wfp-syria-country-brief-may-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4215179",
+    "file_url": "https://reliefweb.int/attachments/2f3ac5af-9508-4bf4-8458-1fa579beb597/%5BCLEARED%5D%20WFP%20Syria%20Country%20Brief%20-%20April%202026.pdf"
+  },
+  {
     "id": "rw-4215119",
     "provider": "reliefweb",
     "type": "original",
@@ -179,7 +213,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-06-08",
-    "content": "• Since 2 March 2026, Lebanon has experienced at least 3,526 deaths and 10,733 injuries due to ongoing hostilities, with the majority of casualties in the South and Nabatieh governorates; 15% of casualties are women and 9% are children.  \n• Hostilities continue despite a ceasefire announced on 3 June, with Hezbollah rejecting its terms; airstrikes and displacement orders have triggered large-scale population movements, with over 135,000 people sheltering in overcrowded collective centres as of early June.  \n• Healthcare services are severely impacted, with 196 attacks on healthcare recorded since March, resulting in 131 healthcare worker deaths and 379 injuries; critical facilities like Tebnine Governmental Hospital have been repeatedly targeted, compromising trauma care.  \n• Humanitarian needs are escalating amid deteriorating economic conditions, with over 12.4 million meals distributed and cash assistance provided to vulnerable families, but funding gaps threaten service continuity in WASH, health, and food security sectors from 1 July.  \n• A revised Flash Appeal launched on 5 June requests US$ 639.9 million to assist 1.4 million people through August 2026; as of early June, it is only 29% funded, underscoring urgent need for increased humanitarian support.  \n\nThe conflict in Lebanon remains highly volatile with ongoing violence despite ceasefire efforts, resulting in significant civilian casualties, displacement, and strain on health and humanitarian systems. Protection risks, including unexploded ordnance and overcrowding in shelters, exacerbate vulnerabilities. The humanitarian response faces critical funding shortfalls amid rising needs and economic hardship.",
+    "content": "• Since 2 March 2026, at least 3,526 people have been killed and 10,733 injured in Lebanon due to ongoing hostilities, with the majority of casualties in the South and Nabatieh governorates; 85% of casualties are male and 9% are children.  \n• Over 135,000 people (around 35,500 families) are sheltering in 636 overcrowded collective centres, with many more displaced families living in open spaces; displacement orders affecting 14 localities have triggered new population movements.  \n• Healthcare services are severely impacted, with 196 attacks on healthcare recorded since 2 March, resulting in 131 healthcare worker deaths and 379 injuries; Tebnine Governmental Hospital has been repeatedly targeted, compromising trauma care capacity.  \n• Approximately 356,000 to 444,000 Syrians have returned from Lebanon to Syria since early March, with motivations shifting from security concerns to family reasons by May; movements peaked around Eid al-Adha but have since stabilised.  \n• A revised Flash Appeal launched on 5 June requests US$ 639.9 million to assist 1.4 million people through August 2026, but funding is only 29% secured; pipeline breaks in WASH, Health, and Food Security sectors are anticipated from 1 July due to funding shortfalls.  \n\nThe humanitarian crisis in Lebanon remains acute amid persistent hostilities despite a ceasefire announcement, with significant civilian casualties, large-scale displacement, and critical strain on health and shelter services. The ongoing conflict, compounded by economic deterioration and protection risks such as unexploded ordnance, continues to outpace humanitarian response capacity, underscoring urgent needs for increased funding and access.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -187,17 +221,19 @@
     "file_url": null,
     "relatedSources": [
       "OCHA",
+      "UNHCR",
       "WHO"
     ],
     "sourceIds": [
+      "rw-4215178",
       "rw-4215084",
       "rw-4215083"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-08T07:42:26Z",
+    "generated_at": "2026-06-08T13:28:35Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: OCHA (2026-06-07) ---\nLebanon: Flash Update #32 - Escalation of hostilities in Lebanon (as of 4 June 2026)\n\n--- Report 2: WHO (2026-06-07) ---\nWHO Lebanon Health Emergency Situation Update #26 (04 June 2026)\n"
+    "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: UNHCR (2026-06-08) ---\nUNHCR Facilitated Return of syrian Refugees - Lebanon, 31 May 2026\n\n--- Report 2: OCHA (2026-06-07) ---\nLebanon: Flash Update #32 - Escalation of hostilities in Lebanon (as of 4 June 2026)\n\n--- Report 3: WHO (2026-06-07) ---\nWHO Lebanon Health Emergency Situation Update #26 (04 June 2026)\n"
   },
   {
     "id": "ai-location-syrian-arab-republic",
@@ -209,24 +245,26 @@
     "location": "Syrian Arab Republic",
     "scope": null,
     "date": "2026-06-08",
-    "content": "• Rising Euphrates River water levels have caused localized flooding in Deir ez-Zor, Ar-Raqqa, and Aleppo, disrupting movement, damaging infrastructure, and affecting water stations, with ongoing efforts to protect critical infrastructure and maintain water supply through contingency measures.\n\n• The escalation of conflict in south-west Syria (Quneitra, Dar’a, Rural Damascus) has severely strained the health system, increasing emergency and trauma cases, disrupting primary healthcare access, and risking interruption of maternal, child, NCD/dialysis, mental health, and vaccination services; Quneitra is particularly vulnerable with 86,762 people in need.\n\n• As of August 2025, there are approximately 5.5 million IDPs in Syria, with 76% living outside formal sites and 24% inside 1,531 IDP sites; by April 2026, 870,436 individuals reside in 1,275 IDP sites, with women and children constituting 78% and nearly 30,000 persons with disabilities reported.\n\n• The Ministry of Health has revised salary scales for health professionals, and coordination efforts include establishing a Health Sector Syria Strategic Advisory Group, updating preparedness plans for flash floods, and engaging multiple humanitarian partners to support health responses.\n\n• Key ongoing concerns include ensuring safe water and sanitation, continuity of essential health services, emergency care access, and addressing increased risks of waterborne diseases and substance use; advocacy and funding efforts continue, including a significant US government pledge and coordination with international bodies.\n\nThe health sector in Syria is facing compounded challenges from natural disasters and conflict-related escalations, particularly in the south-west. Coordination between government, UN agencies, and NGOs is intensifying to address urgent needs in flood-affected areas and conflict zones, with a focus on maintaining critical health services and protecting vulnerable populations such as IDPs, women, children, and persons with disabilities.",
+    "content": "• Only 18 percent of Syria’s population is food secure, with over 80 percent unable to meet diverse and nutritious food needs; WFP has halved emergency food assistance due to severe funding shortfalls, increasing risks of hunger and instability.  \n• Severe flooding along the Euphrates River in Deir ez-Zor and Raqqa since late May has caused displacement, infrastructure damage, and livelihood losses during peak harvest season, further straining food security and local services.  \n• Rising living costs and inflation have reduced household purchasing power, with incomes covering only about one-third of basic needs despite planned wage increases; the Minimum Expenditure Basket has risen to approximately SYP 24,000.  \n• The health sector faces significant challenges from flooding impacts, including disrupted water supply, increased risk of waterborne diseases, and interrupted health services, especially in south-west Syria where military escalation has increased emergency healthcare demand and limited access to primary care.  \n• Over 1.6 million Syrian refugees have returned, and there are over 5.5 million internally displaced persons (IDPs), with 76 percent living outside camps; many IDP sites host vulnerable populations including women, children, and persons with disabilities, requiring continued humanitarian support.  \n\nThe humanitarian situation in Syria remains critical with overlapping crises of food insecurity, flooding, displacement, and conflict-related health system strain. Urgent funding and coordinated multisectoral responses are essential to prevent further deterioration, support recovery, and maintain essential services amid ongoing economic and security challenges.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
     "rw_id": null,
     "file_url": null,
     "relatedSources": [
-      "Health Cluster"
+      "Health Cluster",
+      "WFP"
     ],
     "sourceIds": [
+      "rw-4215179",
       "rw-4215086",
       "rw-4215089"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-08T07:42:26Z",
+    "generated_at": "2026-06-08T13:28:35Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Syrian Arab Republic\n\n--- Report 1: Health Cluster (2026-06-07) ---\nSyria: Health Sector Bulletin - May 2026\n\n--- Report 2: Health Cluster (2026-06-07) ---\nHealth Sector Syria update, biweekly national and sub-national health sector coordination (16 - 31 May 2026)\n"
+    "user_prompt_display": "Crisis / situation: Syrian Arab Republic\n\n--- Report 1: WFP (2026-06-08) ---\nWFP Syria Country Brief, May 2026\n\n--- Report 2: Health Cluster (2026-06-07) ---\nSyria: Health Sector Bulletin - May 2026\n\n--- Report 3: Health Cluster (2026-06-07) ---\nHealth Sector Syria update, biweekly national and sub-national health sector coordination (16 - 31 May 2026)\n"
   },
   {
     "id": "rw-4215084",
