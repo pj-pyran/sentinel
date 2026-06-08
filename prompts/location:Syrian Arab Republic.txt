@@ -1,12 +1,44 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: SARD (2026-06-02) ---
+--- Report 1: Health Cluster (2026-06-07) ---
+KEY ISSUES
+• New MoH salary scale and its impact
+• NEXUS operationalization
+• Flood emergency update, rising Euphrates River water levels
+• The escalation of the situation in southwest Syria
+• Humanitarian Reset and the Health Sector
+• Establishment of the Health Sector Syria Strategic Advisory Group (SAG)
+• WHO Syria Strategic Engagement on Drug Addiction and Substance Use
+• MoH reported activities in May 2026
+• World Health Assembly 79, 18 – 23 May, Geneva
+• Key IM sector level updates
 SITUATION OVERVIEW
-According to the Syrian Ministry of Emergency and Disaster Management, the eastern province of Deir ezZor and the northern province of Raqqa is experiencing escalating humanitarian impacts due to continued Euphrates River rise, linked to increased inflows and tributary flows.
-The Ministry reports the river exceeded 3.60 meters above normal, with further rise expected, causing flooding in low-lying riverbank areas, damage to crossings and agricultural crops, and disruption of basic services including water supply.
-Public reporting during the same period also described rising river levels in Raqqa and Deir ez-Zor. Residents along the riverbanks are being urged to relocate to safer areas.
+Rising water levels in the Euphrates River have triggered flooding and flood risks in parts of Deir ez-Zor, with localized impacts also reported in Ar-Raqqa and Aleppo. The impact remains localized but significant. Reported impacts include disruption of movement between riverbanks, suspension of some crossings and ferry operations, damage to agricultural land, the collapse or suspension of some river crossings and bridges, and disruption to water stations and other essential services. Several water stations have been impacted or taken offline as a precaution. Efforts are ongoing to protect critical infrastructure, including water stations and pumping systems, and to maintain water supply through contingency measures such as water trucking. The main public health concerns are linked to safe water, sanitation, continuity of essential health services, access to emergency care and referral routes, and the increased risk of waterborne diseases in affected communities.
+The escalation of the situation in south-west Syria has prompted preparations of sector level update of inter-sector gaps, needs and response in Quneitra and parts of Dar’a and Rural Damascus. Military operations and related movement constraints have further stressed an already fragile southern health system. Main effects include higher emergency/trauma pressure, disrupted access to primary health care points, weaker referral movement, and increased risk of interruption to maternal, child, NCD/dialysis, MHPSS and vaccination services. The risk is most acute in Quneitra, where 86,762 people are in need out of a population of 164,496. Quneitra is smaller governorate but highly fragile because it depends on one public hospital and limited outreach/referral depth. Rural Damascus is the main high-capacity but high-pressure service hub. Dar'a is a high-burden, high-activity governorate with mostly partial hospital/PHC functionality.
+Key figures about the returns: Total Syrians Refugee Returnees: 1,667,078. Total IDPs: 5,542,227 (as of August 2025). 4,186,695 (76%) reside outside IDP sites. 1,355,532 (24%) are inside 1,531 IDP sites. As of April 2026, the CCCM records show that 870,436 individuals (169,722 households) are hosted in 1,275 IDP sites in Syria. Of these, 78% are women and children, and 29,869 individuals are reported to be persons with disabilities. For more details about the IDP sites in Syria please see the dashboard
 
---- Report 2: SARD (2026-06-02) ---
-SITUATION OVERVIEW
-Deir ez-Zor and Al Raqqa are facing a rapidly evolving emergency due to rising water levels in the Euphrates River, which has flooded low-lying riverbank areas and disrupted essential services.
-The situation is developing quickly and may worsen if water levels continue to rise, increasing the risk of further displacement and service interruptions.
+--- Report 2: Health Cluster (2026-06-07) ---
+National health sector coordination, Damascus
+
+Revised the sub-national health sector preparedness and response plan on flash floods in Deir-ez-Zoir and provided the respective updates (2).
+Followed up on the First National Private Sector Conference in Syria, organized by the Ministry of Economy and Industry with support of UNDP.
+Conducted bilateral support and facilitation to: MdM France, Polish Medical Mission, UNRWA, the Syrian Youth Association for Development, CORE Syria, SAMS, Samaritan’s Purse,
+Updated the health sector on a few operational updates, 26 May, including IDPs sites monitoring matrix, PSEA Inter-Agency SOP and 2026 Action Plan, establishment of the Assessment and Analysis Task Force, IOM Emergency Mobility Tracking and Cross-Border monitoring.
+Initiated the establishment of the Health Sector Syria Strategic Advisory Group (SAG).
+Completed a one-pager as part of the inter-sector prioritization and response in south-west Syria.
+Briefed WHO Syria leadership on the status of Humanitarian Reset as part of the preparations for the HCT Retreat.
+Followed up on the upcoming OCHA SHF Standard Allocation.
+Updated the sector on the status of funding, Financial Tracking System.
+Took part in the Humanitarian Coordinator’s Meeting with National Sector Coordinators, 20 May 2026.
+Reviewed the draft of Syria Emergency Activation SOPs as proposed by OCHA.
+Reviewed the Strategic Note on Female-Headed Households and Women &amp; Girls (UNFPA/UNWomen).
+Provided sector levels inputs for EMRO High Level presentation on Child Health in Humanitarian Settings.
+Updated the sector on salary scale for the MoH health professionals.
+Followed up with WHO on planned activity of “Joint Ministry of Health and Ministry of Justice Initiative on Developing a Health Workforce Code of Conduct and Integrating Prevention of Sexual Misconduct (PRS) Principles”.
+Reviewed the draft Infrastructure Assessment report for Aleppo Health Facilities prepared by IDA.
+Participated and presented at the national health sector coordination meeting, 21 May.
+Reviewed the WHO Syria – Strategic Engagement on Drug Addiction and Substance Use, 19 May 2026 as requested by the RC/HC Syria a.i.
+Provided requested sector level inputs for preparation of the Governorate’s profiles of Dar’a and Quneitra.
+Took part in the Partners Engagement Event in Yarmouk camp, 19 May, organized by UNRWA.
+Updated the health sector on a few operational updates, 17 May: Additional 1.8 billion USD global pledge by the US government and health cluster advocacy asks about it; CERF; NEXUS technical consultations with ECHO and EU health teams; UN Security Council briefings; key MoH activities during April – May 2026,
+Followed up on Syria delegation’ progress at the World Health Assembly in Geneva.
