@@ -1,0 +1,31 @@
+Crisis / situation: Philippines
+
+--- Report 1: AHA Centre (2026-06-08) ---
+OVERVIEW: On 08 June 2026, PHIVOLCS reported a magnitude 7.8 earthquake (depth 33 km) at 0637 HRS UTC+7 (0737 HRS local PH time), with the epicentre located 32 km south (S04°W) of Maasim, Sarangani Province, offshore southern Mindanao. The earthquake was initially recorded at magnitude 7.0 with a depth of 10 km before being upgraded in a second advisory to magnitude 7.8 at a depth of 33 km. PHIVOLCS assessed the quake as tectonic in origin, with damage and aftershocks expected. The strongest reported intensity was Intensity VII in the City of General Santos.
+TSUNAMI: PHIVOLCS raised a tsunami warning, advising that wave heights of more than one metre above normal tides were expected, with first waves arriving between 0737 and 0937 HRS local time and potentially continuing for hours. Residents of at least nine Mindanao provinces were advised to evacuate coastal areas immediately. BMKG also issued a tsunami warning for the Maluku Islands, Sulawesi and Kalimtantan. Indonesia’s BMKG reported sea-level changes of less than one metre so far.
+IMPACTS AND DAMAGES: NDRRMC Philippines and BNPB Indonesia are currently conducting initial assessments to gather information on impacts and damages. Initial news reports show damaged buildings and infrastructures.
+RESPONSE EFFORTS:
+
+The Philippine President directed all relevant government agencies to act immediately and urged residents in affected provinces to move to higher ground, stating the national government is coordinating with regional offices and local chief executives.
+NDRRMC Philippines is conducting an emergency coordination meeting on the initial impact reports and the ongoing response operations. The NDRRMEOC is on RED alert.
+Several ASEAN Member States indicated readiness to support through the AHA Centre.
+
+The AHA Centre EOC alert level is raised to ORANGE, and continues to closely monitor developments in coordination with NDRRMC and BNPB, and remains on standby should the affected countries welcome assistance from ASEAN.
+DATA SOURCES
+ASEAN Disaster Monitoring &amp; Response System (DMRS), ASEAN Disaster Information Network (ADINet); ASEAN Specialised Meteorological Centre (ASMC);
+Indonesia: BNPB, BMKG;
+Philippines: NDRRMC, PHIVOLCS;
+Verified news media agencies
+
+--- Report 2: OCHA (2026-06-08) ---
+Highlights
+• A magnitude 7.8 earthquake struck 32 km offshore west of Maasim, Sarangani, at 7:37 a.m. on 08 June. Intensity VIII (very destructive) was reported in General Santos City. A tsunami alert triggered coastal evacuations across nine provinces and was lifted by mid-afternoon. More than 138 aftershocks have been recorded.
+• Initial reports indicate 19 people dead, 12 missing and 134 injured. Figures for affected and displaced people remain provisional pending government validation and ongoing assessments.
+• Homes, government buildings, hospitals and schools have been damaged or destroyed. Power and telecommunications outages have been reported, and damaged roads and bridges are constraining access to some communities.
+• More than 3.2 million learners have been affected. Classes remain suspended in over 6,200 public and private schools pending safety assessments.
+• The Government has activated national response mechanisms, including Red Alert status for the NDRRMC and the Inter-Agency Coordinating Cell. Search, rescue and retrieval operations are ongoing, while the United Nations and partners are assessing impacts and preparing to support the Government-led response.
+Situation Overview
+On 08 June, a magnitude 7.8 earthquake along the Cotabato Trench with a depth of 33 kilometers occurred 32 km offshore west of Maasim, Sarangani province, Mindanao at 7:37 am local time. Under the Philippine Institute of Volcanology and Seismology (PHIVOLCS) Earthquake Intensity Scale the highest reported intensity is 8 (very destructive) out of 10 which was felt in General Santos City. More than 138 aftershocks have since been recorded ranging from magnitudes 1.3 to 6.7.
+The earthquake prompted PHIVOLCS to raise a tsunami alert for the evacuation of coastal areas in Sarangani, Davao Occidental, Tawi-tawi, Sulu, Basilan, Zamboanga del Sur, Zamboanga Sibugay, Sultan Kudarat and South Cotabato. Similar alerts were also raised for Japan, Indonesia, and Australia. Tsunami waves of around 1 metre were recorded in Maasim and Kiamba in Sarangani province, and as far as Samar province in Region 8. By mid-afternoon local time, the alert had been lifted.
+Based on initial reports, 19 people have been reported dead, 12 remain missing, and 134 have been injured. These figures, as well as the number of people affected and displaced, remain provisional pending government validation and the completion of ongoing assessments. Initial reports also indicate damage to, and in some cases the collapse of private establishments, government buildings, hospitals, and schools. Power outages and telecommunications disruptions have been reported in some affected areas. According to the Office of Civil Defense (OCD), access to some communities remains constrained due to damage to roads and bridges. Operations at General Santos International Airport were suspended following the earthquake and have since resumed at limited capacity.
+The earthquake has affected more than 3.2 million learners, many of whom were due to return to school on 08 June. Classes have been suspended in more than 6,200 affected public and private schools pending safety assessments and further guidance from authorities.
