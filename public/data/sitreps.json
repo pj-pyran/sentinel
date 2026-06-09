@@ -1,5 +1,90 @@
 [
   {
+    "id": "rw-4215477",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Occupied Palestinian Territories (oPt) Crisis Situation Analysis (Period: 25/05/26 - 31/05/26)",
+    "source": "DFS",
+    "crisis": "Humanitarian Crisis",
+    "location": "occupied Palestinian territory",
+    "scope": "single",
+    "date": "2026-06-09",
+    "content": "<p>The Occupied Palestinian Territory is facing a severe humanitarian crisis, with both Gaza and the West Bank experiencing unprecedented levels of violence and deprivation. In Gaza, following the collapse of a brief pause in hostilities in March 2025, Israeli forces resumed intensive bombardment while maintaining a complete blockade that has now entered its eighth week, preventing all humanitarian aid and commercial supplies from entering. This has left Gaza's 2.2 million residents facing starvation as food stocks deplete, bakeries cease operations due to lack of flour and fuel, and nearly 90% of the population remains displaced with critical infrastructure almost entirely destroyed. A new U.S.-backed peace plan led to a pause in hostilities agreement coming into effect on 10 October 2025, raising cautious hopes for increased humanitarian access and a potential reduction in hostilities after months of relentless violence. However, despite the pause in hostilities, sporadic violations, limited aid entry, and continued displacement highlight the fragility of the pause in hostilities and the deep humanitarian strain that persists across Gaza. Meanwhile, the West Bank has seen a dramatic escalation in military operations, particularly since the launch of &quot;Operation Iron Wall&quot; in January 2025, which has resulted in mass displacement of Palestinians and widespread destruction across refugee camps. Israeli forces have displaced approximately 40,000 people, with officials stating that residents will not be allowed to return for at least a year, while expanded checkpoints and military presence severely restrict movement between Palestinian cities. International organisations and UN bodies have expressed increasing concern about systematic violations of international humanitarian law in the West Bank, including accelerating settlement expansion, land reclassification and forced displacement that multiple observers warn are driving de facto annexation dynamics. These concerns have intensified following the International Court of Justice's 2024 advisory opinion on the illegality of the prolonged occupation and the Israeli authorities' security cabinet decisions of 8 February 2026 expanding civil and administrative control over West Bank land and governance.</p>\n",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/occupied-palestinian-territories-opt-crisis-situation-analysis-period-250526-310526",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4215477",
+    "file_url": "https://reliefweb.int/attachments/a59b3bbe-c853-4a58-b90d-c5f2102035d8/occupied_Palestinian_territories_%28oPt%29_Crisis__Period__25_05_26_-_31_05_26.pdf"
+  },
+  {
+    "id": "rw-4215479",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Palestine Emergency Response External Situation Report #90, 9 June 2026 (Reporting period: 1-31 May 2026)",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "occupied Palestinian territory",
+    "scope": "single",
+    "date": "2026-06-09",
+    "content": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>Humanitarian and commercial cargo flows increased slightly in May, easing some market access constraints and supporting limited reliance on markets. However, food insecurity remained severe, with high and volatile prices and continued challenges in accessing adequate and diverse food, underscoring the need for sustained cargo inflows into Gaza.</li>\n<li>At the same time, the closure of Zikim crossing on 24 May left Kerem Shalom as the only cargo entry point, while ongoing restrictions and supply chain constraints continued to limit the availability of essential goods.</li>\n<li>On 14 May, WFP was targeted by a cyber-attack on its Palestine self-registration application (SRA); the platform was immediately shut down, the intrusion contained, and security measures strengthened. Assistance delivery to existing beneficiaries continued uninterrupted. No other WFP systems were affected.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-emergency-response-external-situation-report-90-9-june-2026-reporting-period-1-31-may-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4215479",
+    "file_url": "https://reliefweb.int/attachments/63ce80d3-cbbc-4a19-8f77-8dc19a0bd0e3/WFP%20Palestine%20Emergency%20Response%20External%20Situation%20Report%2090_%201-31%20May.pdf"
+  },
+  {
+    "id": "rw-4215496",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "South Sudan Humanitarian Update as of 7 June 2026",
+    "source": "OCHA",
+    "crisis": "South Sudan: Floods - Jul 2025",
+    "location": "South Sudan",
+    "scope": "single",
+    "date": "2026-06-09",
+    "content": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>The humanitarian response in Akobo has significantly scaled up, with over 430 metric tonnes of food delivered, reaching about 60,000 of the 80,000 targeted people (75 per cent).</li>\n<li>The Humanitarian Coordinator in South Sudan, Ramanathan Balakrishnan, together with the UNHCR Regional Director, Mamadou Dian Baldé, visited Akobo town on 4 June and engaged with the local authorities, humanitarian partners, communities, and the United Nations Mission in South Sudan (UNMISS) on the security and humanitarian situation.</li>\n<li>Humanitarian access across South Sudan remains constrained. On 25 May, five contractors were killed during fighting between armed groups in Morobo County, Central Equatoria State, while working on a bridge construction project supported by a UN agency.</li>\n<li>Although no Ebola cases have been confirmed in South Sudan, the risk of an outbreak remains high due to porous borders and weak health systems.</li>\n<li>Flooding has already begun affecting vulnerable communities in Unity State, damaging shelters, disrupting livelihoods, and increasing humanitarian needs.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/south-sudan/south-sudan-humanitarian-update-7-june-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4215496",
+    "file_url": "https://reliefweb.int/attachments/7a4c8cb6-4ca8-4271-a06a-1c8462d40f27/South.Sudan_Hum_Update_09062026.pdf"
+  },
+  {
+    "id": "rw-4215502",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Middle East Situation Lebanon - Flash Update #12 (25 May–07 June 2026)",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Middle East",
+    "scope": "regional",
+    "date": "2026-06-09",
+    "content": "<p><strong>Overview</strong></p>\n<p>• The humanitarian situation in Lebanon worsened amid a renewed escalation of hostilities, leading to heightened protection risks, increased displacement, and growing humanitarian needs.</p>\n<p>• Protection monitoring and Protection needs assessments indicate a continued deterioration of the protection environment, driven by repeated displacement, insecurity, and housing instability.</p>\n<p>• Vulnerabilities are increasing as more households face homelessness, overcrowding, and unsafe living arrangements.</p>\n<p>• Syrian refugees and other non-Lebanese populations remain disproportionately affected, encountering barriers to accessing safe shelter and facing heightened risks of exploitation and protection incidents. Psychosocial distress is also on the rise, particularly among children, with growing reports of fear, anxiety, sleep disturbances, and emotional distress linked to ongoing insecurity and uncertainty.</p>\n<p>• The Lebanon Flash Appeal, launched in March, was extended for a further three months (June to August 2026) to enable humanitarian partners to continue rapidly delivering effective humanitarian assistance.</p>\n",
+    "url": "https://reliefweb.int/report/lebanon/middle-east-situation-lebanon-flash-update-12-25-may-07-june-2026",
+    "region": "Other",
+    "subregion": null,
+    "rw_id": "4215502",
+    "file_url": "https://reliefweb.int/attachments/dfa52794-dc53-5a58-9a3f-8809d5f3b344/UNHCR%20LBN_Flash%20Update%2012%20%2825%20May%20-%2007%20June%202026%29.pdf"
+  },
+  {
+    "id": "rw-4215503",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Flash Update: No. 2 – M7.8 Earthquake in Sarangani (9 June 2026)",
+    "source": "AHA Centre",
+    "crisis": "Philippines: Earthquake and Tsunami - Jun 2026",
+    "location": "Philippines",
+    "scope": "single",
+    "date": "2026-06-09",
+    "content": "<p><strong>OVERVIEW:</strong> According to <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.phivolcs.dost.gov.ph/\">PHIVOLCS</a> the magnitude 7.8 earthquake that occurred in Sarangani, Philippines was tectonic in origin and is attributed to subduction along the Cotabato Trench, a major earthquake-generating structure located off the coast. <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.phivolcs.dost.gov.ph/\">PHIVOLCS</a> recorded a highest instrumental intensity of VII (PEIS), experienced in General Santos City and intensity VI in Palimbang, Senator Ninoy Aquino, Sultan Kudarat. In Indonesia, the earthquake was also felt and impacted Sangihe, Talaud, and Minahasa in North Sulawesi as reported by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.bmkg.go.id/\">BMKG</a> and <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://bnpb.go.id/\">BNPB</a>.</p>\n<p><strong>TSUNAMI</strong>: <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://phivolcs.dost.gov.ph/\">PHIVOLCS</a> reported tsunami observations in six areas with the highest waves recorded at 1.48m in Kiamba, Sarangani. <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://phivolcs.dost.gov.ph/\">PHIVOLCS</a> lifted the tsunami warning at 1419H UTC+7. <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.bmkg.go.id/\">BMKG</a> also reported tsunami waves with height at most 0.75m in North Sulawesi. <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.bmkg.go.id/\">BMKG</a> lifted the tsunami warning at 1015H UTC+7.</p>\n<p><strong>IMPACTS &amp; DAMAGES</strong>:</p>\n<p><strong>PHILIPPINES</strong></p>\n<ul>\n<li>37 deaths (ongoing validation)</li>\n<li>4 missing persons (ongoing validation)</li>\n<li>488 injured persons (ongoing validation)</li>\n<li>32.9K families (145.7K individuals) affected</li>\n<li>8.7K families (32K individuals) displaced and accommodated in 54 evacuation centres (ECs) and 1,804 persons served outside ECs</li>\n<li>2.5K houses damaged (460 totally damaged)</li>\n<li>10 road sections and 2 bridges affected</li>\n<li>12 cities/municipalities experienced power interruptions, of which 6 have been restored.</li>\n</ul>\n<p><strong>INDONESIA</strong></p>\n<ul>\n<li>1,160 persons displaced</li>\n<li>95 houses damaged</li>\n<li>2 churches damaged</li>\n<li>2 schools damaged</li>\n<li>1 hospital damaged</li>\n<li>2 other buildings damaged</li>\n</ul>\n<p><strong>HAZARDS &amp; ANTICIPATED RISKS</strong></p>\n<ul>\n<li><strong>Aftershocks</strong> – As of 0600H UTC+7 today, around 1,055 aftershocks were recorded, with highest at M6.7 (<a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://phivolcs.dost.gov.ph/\">PHIVOLCS</a>).</li>\n<li><strong>Landslides</strong> – Mountainous and highly sloped areas are particularly vulnerable to earthquake-induced landslides, rock falls, and tension cracks, which could be further aggravated by heavy rainfall or subsequent aftershocks.</li>\n<li><strong>Liquefaction</strong> – In low-lying, water-saturated, and sandy areas, the intense shaking can cause liquefaction, manifesting as ground fissures, sand boils, and subsidence. This liquefaction-induced subsidence combined with changes in sea level can also make coastal areas and active river channels highly susceptible to seawater inundation.</li>\n</ul>\n<p><strong>RESPONSE EFFORTS:</strong></p>\n<p><strong>PHILIPPINES</strong></p>\n<ul>\n<li>The Philippine President convened national and local officials and deployed Cabinet members to affected areas to oversee a whole-of-government response, including ongoing emergency operations, damage assessments, and relief efforts for communities impacted by the magnitude 7.8 earthquake.</li>\n<li><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://dromic.dswd.gov.ph/\">DSWD</a> is leading relief efforts, prioritising food aid, essential supplies, and the setup of safe evacuation centres.</li>\n<li>Response efforts, led by the local governments, are prioritising search, rescue, retrieval, and debris clearing operations, while addressing urgent shelter needs such as housing repair kits, construction materials, and temporary shelters.</li>\n<li>The Civil Aviation Authority of the Philippines (<a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.pna.gov.ph/articles/1276796\">CAAP</a>) has restricted operations at General Santos International Airport to government, military, and humanitarian flights only.</li>\n<li>The <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://ndrrmc.gov.ph/\">NDRRMOC</a> remains on full <strong>RED</strong> alert together with their regional offices and local emergency operations centres.</li>\n</ul>\n<p><strong>INDONESIA</strong></p>\n<ul>\n<li><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://bnpb.go.id/\">BNPB</a>, <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.bmkg.go.id/\">BMKG</a> , and BPBD issued evacuation advisories and carried out comprehensive evacuations in districts/cities where tsunami impacts were detected.</li>\n<li><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://bnpb.go.id/\">BNPB</a> coordinated with affected district/city BPBDs to collect data on casualties, affected populations, and infrastructure damage.</li>\n<li><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://bnpb.go.id/\">BNPB</a> identified several challenges, including the remoteness of affected areas, with travel between locations requiring approximately 4–5 hours, and disruptions to communication networks caused by power outages.</li>\n</ul>\n<p>The AHA Centre sent a letter of sympathy and offer of assistance to <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://ndrrmc.gov.ph/\">NDRRMC–OCD</a> on 8 June 2026. In its response, NDRRMC expressed appreciation to ASEAN and ASEAN Member States and informed that a comprehensive assessment of the impacts and response requirements is ongoing. <strong>Should additional assistance be required, the Government of the Philippines will coordinate with the AHA Centre</strong> and formally communicate its needs. The AHA Centre EOC Alert Level remains on <strong>ORANGE</strong> and continues to coordinate closely with the affected ASEAN Member States, remaining on standby should ASEAN assistance be requested.</p>\n<p><strong>DATA SOURCES</strong></p>\n<p>ASEAN Disaster Monitoring &amp; Response System (DMRS), ASEAN Disaster Information Network (ADINet); ASEAN Specialised Meteorological Centre (ASMC);</p>\n<p>Indonesia: BNPB, BMKG;</p>\n<p>Philippines: NDRRMC, PHIVOLCS;</p>\n<p>Verified news media agencies</p>\n",
+    "url": "https://reliefweb.int/report/philippines/flash-update-no-2-m78-earthquake-sarangani-9-june-2026",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "rw_id": "4215503",
+    "file_url": "https://reliefweb.int/attachments/209e7543-ff6d-4b4e-8671-a6e851f4de75/FlashUpdate_02_9JUNE2026-EQ-IDN-PHL.pdf"
+  },
+  {
     "id": "rw-4215428",
     "provider": "reliefweb",
     "type": "original",
@@ -162,7 +247,7 @@
     "location": "Philippines",
     "scope": null,
     "date": "2026-06-09",
-    "content": "• On 8 June 2026, a magnitude 7.8 earthquake struck offshore west of Maasim, Sarangani Province, Mindanao, Philippines, with the strongest intensity reaching VIII (very destructive) in General Santos City. Over 138 aftershocks have been recorded since the main quake.\n\n• The earthquake triggered a tsunami alert across nine Mindanao provinces, leading to coastal evacuations; tsunami waves of around one metre were recorded in Sarangani and as far as Samar province. The tsunami alert was lifted by mid-afternoon.\n\n• Initial impact reports indicate 19 deaths, 12 missing persons, and 134 injured. Damage includes collapsed or damaged homes, government buildings, hospitals, schools, and infrastructure such as roads and bridges, which are limiting access to some communities.\n\n• Power and telecommunications outages have been reported in affected areas. General Santos International Airport operations were temporarily suspended but have since resumed at limited capacity.\n\n• More than 3.2 million learners have been affected, with classes suspended in over 6,200 public and private schools pending safety assessments. The government has activated national response mechanisms, including Red Alert status for the National Disaster Risk Reduction and Management Council (NDRRMC), and search and rescue operations are ongoing.\n\nThe earthquake and subsequent tsunami warning have caused significant disruption in southern Mindanao, affecting millions of people and critical infrastructure. The government, supported by ASEAN and UN partners, is coordinating emergency response and impact assessments to address immediate humanitarian needs and facilitate recovery efforts.",
+    "content": "• A magnitude 7.8 earthquake struck offshore Sarangani, Philippines on 8 June 2026, with the highest intensity reaching VIII (very destructive) in General Santos City; over 1,055 aftershocks have been recorded, the strongest at magnitude 6.7.  \n• The earthquake triggered a tsunami with waves up to 1.48m in Sarangani; tsunami warnings were issued and later lifted in the Philippines and Indonesia.  \n• Casualty figures in the Philippines stand at 37 dead, 4 missing, and 488 injured (all under validation); approximately 145,700 people (32,900 families) affected, with 32,000 displaced in 54 evacuation centres and others sheltered outside.  \n• Infrastructure damage includes 2,500 houses (460 totally destroyed), 10 road sections, 2 bridges, power outages in 12 municipalities, and damage to schools, hospitals, and public buildings; over 3.2 million learners affected with classes suspended in more than 6,200 schools.  \n• Response efforts involve national and local government coordination, led by the Department of Social Welfare and Development prioritising food aid, shelter, and emergency services; search and rescue and debris clearing are ongoing; General Santos International Airport operations restricted to essential flights.  \n\nThe earthquake originated from tectonic activity along the Cotabato Trench and also affected parts of Indonesia, where over 1,160 people were displaced and infrastructure damaged. The Philippine government has activated national emergency mechanisms and is conducting damage assessments. The ASEAN Coordinating Centre for Humanitarian Assistance remains on alert and ready to support if requested. Risks of landslides and liquefaction persist, especially in mountainous and low-lying areas.",
     "url": null,
     "region": "Asia",
     "subregion": "South-eastern Asia",
@@ -174,16 +259,17 @@
       "OCHA"
     ],
     "sourceIds": [
+      "rw-4215503",
       "rw-4215352",
       "rw-4215351",
       "rw-4215268",
       "rw-4215278"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-09T13:00:43Z",
+    "generated_at": "2026-06-09T18:46:19Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026\n\n--- Report 1: Govt. Philippines (2026-06-09) ---\nDSWD DROMIC Report #2 on the Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 09 June 2026, 6AM\n\n--- Report 2: Govt. Philippines (2026-06-08) ---\nDSWD DROMIC Report #1 on the Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 08 June 2026, 6PM\n\n--- Report 3: AHA Centre (2026-06-08) ---\nFlash Update: No. 1 – M7.8 Earthquake in Sarangani (8 June 2026)\n\n--- Report 4: OCHA (2026-06-08) ---\nPhilippines: 7.8M Sarangani Earthquake Flash Update No. 1 (As of 8 June 2026)\n"
+    "user_prompt_display": "Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026\n\n--- Report 1: AHA Centre (2026-06-09) ---\nFlash Update: No. 2 – M7.8 Earthquake in Sarangani (9 June 2026)\n\n--- Report 2: Govt. Philippines (2026-06-09) ---\nDSWD DROMIC Report #2 on the Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 09 June 2026, 6AM\n\n--- Report 3: Govt. Philippines (2026-06-08) ---\nDSWD DROMIC Report #1 on the Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 08 June 2026, 6PM\n\n--- Report 4: AHA Centre (2026-06-08) ---\nFlash Update: No. 1 – M7.8 Earthquake in Sarangani (8 June 2026)\n\n--- Report 5: OCHA (2026-06-08) ---\nPhilippines: 7.8M Sarangani Earthquake Flash Update No. 1 (As of 8 June 2026)\n"
   },
   {
     "id": "ai-location-chad",
@@ -195,7 +281,7 @@
     "location": "Chad",
     "scope": null,
     "date": "2026-06-09",
-    "content": "• Since the onset of the Sudan crisis, over 1.3 million people have crossed into Chad, including approximately 400,000 Chadian returnees as of late May 2026, with numbers expected to rise due to ongoing conflict and food insecurity in Darfur.  \n• Returnees and refugees are residing in displacement sites and host communities, facing urgent needs for food, water, sanitation, shelter, healthcare, and protection.  \n• UNHCR and partners have relocated thousands of refugees from border areas to sites such as Arkoum, Kouchaguine-Moura, Dougui, and Ouré Cassoni since March 2026, with over 9,000 individuals moved in total.  \n• Shelter construction is ongoing but remains insufficient, with around 3,500 emergency shelters built out of a planned 16,900, and potable water supply averaging 40 to over 170 m³ daily at key sites.  \n• Special attention is given to persons with specific needs (PSNs), with hundreds relocated and dedicated transport provided during convoys.  \n\nThe situation in Chad reflects a large-scale displacement crisis driven by conflict in Sudan, requiring sustained humanitarian response to meet basic needs and support relocation efforts. Coordination among IOM, UNHCR, government authorities, and NGOs is critical to address shelter shortages, water provision, and protection concerns for vulnerable populations.",
+    "content": "• Since the onset of the Sudan crisis, over 1.3 million people have crossed into Chad, including approximately 400,000 Chadian returnees displaced from Sudan as of late May 2026; this number is expected to increase due to ongoing conflict and food insecurity in Darfur.\n• Returnees and refugees are residing in displacement sites and host communities, with urgent needs for food, water, sanitation, shelter, household items, healthcare, and protection.\n• UNHCR has been actively relocating refugees from border areas, particularly from Adré to sites in Ouaddaï province such as Arkoum, Kouchaguine-Moura, and Dougui; since March 2026, over 9,000 refugees have been relocated through accelerated and regular programs.\n• Shelter construction is ongoing but remains insufficient, with around 3,500 emergency shelters built out of a planned 16,900; water supply at relocation sites is maintained at over 80 cubic metres per day in key locations.\n• Persons with Specific Needs (PSNs) are a significant focus, with over 1,000 relocated and dedicated transport and support services provided during relocation convoys.\n\nThe humanitarian response in Chad is coordinated by IOM and UNHCR alongside government and other partners, focusing on managing large-scale returnee and refugee influxes from Sudan. Despite progress in relocation and shelter provision, the scale of displacement and urgent basic needs require sustained and scaled-up assistance to prevent worsening humanitarian conditions.",
     "url": null,
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -215,7 +301,7 @@
       "rw-4215303"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-09T13:00:43Z",
+    "generated_at": "2026-06-09T18:46:19Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Chad\n\n--- Report 1: IOM (2026-06-09) ---\nIOM Chad: Sudan Crisis Response Situation Update No. 65 | May 2026\n\n--- Report 2: UNHCR (2026-06-08) ---\nUNHCR Relocation Update – Eastern Chad (25–31 May 2026)\n\n--- Report 3: UNHCR (2026-06-08) ---\nUNHCR Relocation Update – Eastern Chad (18–24 May 2026)\n\n--- Report 4: UNHCR (2026-06-08) ---\nUNHCR Relocation Update – Eastern Chad (05–11 May 2026)\n\n--- Report 5: UNHCR (2026-06-08) ---\nUNHCR Relocation Update – Eastern Chad (28 April–05 May 2026)\n\n--- Report 6: UNHCR (2026-06-08) ---\nUNHCR Relocation Update – Eastern Chad (20–26 April 2026)\n\n--- Report 7: UNHCR (2026-06-08) ---\nUNHCR Relocation Update – Eastern Chad (13–19 April 2026)\n"
@@ -230,7 +316,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-06-09",
-    "content": "• Since 2 March 2026, Lebanon has experienced at least 3,526 deaths and 10,733 injuries due to hostilities, with the majority of casualties in the South and Nabatieh governorates; children account for 9% of casualties, including 245 deaths.  \n• Healthcare infrastructure is severely impacted, with 196 attacks on health facilities recorded since March causing 131 deaths and 379 injuries among healthcare workers; 42 primary health care centres and 3 hospitals remain closed, and 17 hospitals damaged, limiting access to essential services.  \n• Over 444,000 Syrians have reportedly crossed from Lebanon into Syria since the escalation, with daily crossings stabilizing around 3,600 in April and May; motivations for return shifted from security concerns to family reasons by May.  \n• Humanitarian needs are escalating amid ongoing hostilities and displacement, with 135,300 people sheltering in overcrowded collective centres; a revised Flash Appeal launched on 5 June requests US$ 639.9 million to assist 1.4 million people through August 2026, but funding is only 29% secured.  \n• Critical gaps remain in healthcare access due to high costs, medicine shortages, and workforce deficits; mental health and non-communicable diseases are increasing burdens, while protection risks including unexploded ordnance and psychosocial stress persist among displaced populations.  \n\nThe situation in Lebanon remains highly volatile despite a ceasefire announced on 3 June, with ongoing hostilities and displacement orders driving humanitarian needs beyond current capacities. The health system is under severe strain from attacks and resource shortages, while large-scale population movements, including the return of Syrians to Syria, reflect complex security and social dynamics. Urgent funding and protection of healthcare services are critical to prevent further deterioration.",
+    "content": "• Since 2 March 2026, Lebanon has experienced at least 3,526 deaths and 10,733 injuries due to hostilities, with the majority of casualties concentrated in the South and Nabatieh governorates; 85% of casualties are male and 9% are children.  \n• Attacks on healthcare continue despite a ceasefire declared on 17 April, with 196 attacks recorded causing 131 deaths and 379 injuries among healthcare workers; 42 primary health care centres and 3 hospitals remain closed, while 17 hospitals have been damaged, severely limiting access to essential health services.  \n• Over 135,000 people are sheltering in 636 overcrowded collective shelters, mainly in South Lebanon, with additional displacement triggered by ongoing hostilities and displacement orders; many families face heightened psychosocial stress and protection risks including unexploded ordnance.  \n• Since March, approximately 356,000 to 444,000 Syrians have crossed from Lebanon into Syria, with movements stabilizing in April and May; motivations for return have shifted from security concerns to family reasons, though intentions vary by destination within Syria.  \n• A revised Flash Appeal launched on 5 June requests US$ 639.9 million to assist 1.4 million people through August 2026, but funding is only 29% secured; pipeline breaks and service disruptions are expected from 1 July in WASH, health, and food security sectors due to funding shortfalls.  \n\nThe conflict in Lebanon has caused severe humanitarian consequences, including widespread casualties, displacement, and damage to critical infrastructure such as health facilities. Despite ceasefire efforts, violence and attacks on healthcare persist, exacerbating an already fragile health system struggling with rising needs and limited capacity. The large-scale displacement and return movements of Syrians add complexity to the crisis. Urgent scaled-up funding and protection of civilians and health services are critical to prevent further deterioration.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -249,10 +335,40 @@
       "rw-4215083"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-09T13:00:43Z",
+    "generated_at": "2026-06-09T18:46:19Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: Health Cluster (2026-06-08) ---\nLebanon Health Sector Emergency Situation Report Issue #14 - June 08, 2026\n\n--- Report 2: UNHCR (2026-06-08) ---\nUNHCR Facilitated Return of Syrian Refugees - Lebanon, 31 May 2026\n\n--- Report 3: OCHA (2026-06-07) ---\nLebanon: Flash Update #32 - Escalation of hostilities in Lebanon (as of 4 June 2026)\n\n--- Report 4: WHO (2026-06-07) ---\nWHO Lebanon Health Emergency Situation Update #26 (04 June 2026)\n"
+  },
+  {
+    "id": "ai-location-middle-east",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Middle East",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Middle East",
+    "scope": null,
+    "date": "2026-06-09",
+    "content": "• In Lebanon, renewed hostilities have worsened the humanitarian situation, causing increased displacement, protection risks, and housing instability, with over 130,000 people displaced in 632 collective shelters as of 31 May 2026.  \n• Syrian refugees and other non-Lebanese populations in Lebanon face disproportionate challenges, including barriers to safe shelter, heightened exploitation risks, and rising psychosocial distress, especially among children.  \n• Shelter capacities in key areas like Saida and Tyre are overwhelmed, and women and girls, who make up nearly 52% of those displaced, are experiencing increased protection risks and difficulties accessing essential services.  \n• In the broader Middle East, over 149,000 civilian infrastructures in Iran have been destroyed, affecting more than 400,000 people, though population movements remain mostly localized and economically driven without mass displacement.  \n• Cross-border movements continue, notably between Iran and Afghanistan, with over 400,000 arrivals into Afghanistan and significant departures to Iran, highlighting the need for sustained humanitarian operations at border points.\n\nThe ongoing escalation of hostilities across the Middle East has intensified humanitarian needs, particularly in Lebanon where displacement and protection concerns are acute. The strain on shelter and services is critical, especially for vulnerable groups such as women, children, and refugees. Regional population movements remain dynamic, with border areas requiring continued preparedness and humanitarian support to manage fluctuating flows.",
+    "url": null,
+    "region": "Other",
+    "subregion": "",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "IOM",
+      "UNHCR"
+    ],
+    "sourceIds": [
+      "rw-4215502",
+      "rw-4215428"
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-09T18:46:19Z",
+    "prompt_id": "a3a6fd17e378",
+    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
+    "user_prompt_display": "Crisis / situation: Middle East\n\n--- Report 1: UNHCR (2026-06-09) ---\nMiddle East Situation Lebanon - Flash Update #12 (25 May–07 June 2026)\n\n--- Report 2: IOM (2026-06-09) ---\nEscalation in Middle East and Beyond Situation Report 11, 8 June 2026\n"
   },
   {
     "id": "ai-location-nigeria",
@@ -264,7 +380,7 @@
     "location": "Nigeria",
     "scope": null,
     "date": "2026-06-09",
-    "content": "• Since April 2025, Nigeria faces a severe food security and nutrition crisis, with over 3 million displaced due to conflict and banditry, especially in the northeast, northwest, and north-central regions.  \n• Only 20% of primary healthcare centres are fully functional, limiting access to treatment for severe acute malnutrition (SAM); over 1 million children are at risk, with stunting rates above 60% in worst-affected areas.  \n• Malnutrition affects over 53% of children under five, with 6.4 million children aged 6-59 months malnourished (2 million SAM, 4.4 million moderate acute malnutrition), and projections indicate worsening conditions through the lean season (May-September 2026).  \n• Recent armed bandit attacks in Katsina State displaced approximately 3,830 people between 21 May and 1 June 2026, with urgent needs for food, shelter, and non-food items reported by affected populations.  \n• The crisis is exacerbated by climate shocks, economic pressures including fuel price hikes, and ongoing insecurity, which disrupt livelihoods, degrade ecosystems, and collapse rural value chains, particularly impacting women and marginalised groups.  \n\nThe convergence of prolonged conflict, climate extremes, and economic shocks has led to a breakdown of critical health and nutrition systems in Nigeria, especially in northern regions. Humanitarian access remains constrained, and urgent, scaled-up interventions are needed to address the escalating malnutrition crisis and support displaced populations with basic needs.",
+    "content": "• Since April 2025, Nigeria has faced a severe food security and nutrition crisis, worsened by prolonged conflict, displacement of over 3 million people, climate shocks, and economic challenges including fuel price hikes.  \n• Only 20% of primary healthcare centres are fully functional, limiting access to treatment for severe acute malnutrition (SAM); less than 20% of SAM cases receive appropriate care. Over 1 million children are at risk of SAM, with stunting rates exceeding 60% in the worst-affected areas.  \n• Northern Nigeria, especially the Northeast, Northwest, and North-Central zones, is classified in Crisis (Phase 3) and Emergency (Phase 4) levels for acute malnutrition, with over 6.4 million children under five malnourished, including 2 million with SAM.  \n• Recent armed bandit attacks in Katsina State displaced approximately 3,830 people between late May and early June 2026, with urgent needs for food, shelter, and non-food items reported among displaced populations.  \n• The ongoing insecurity, climate-related crop failures, and health system underinvestment have led to collapsing rural livelihoods, rising food prices, and increased vulnerability, particularly among women and children.  \n\nThe convergence of conflict, climate shocks, and economic pressures has created a complex humanitarian emergency in Nigeria, with acute malnutrition and displacement at critical levels. Urgent, coordinated interventions are required to restore health services, provide nutrition treatment, and address the immediate needs of displaced populations to prevent further deterioration during the peak malnutrition season.",
     "url": null,
     "region": "Africa",
     "subregion": "Western Africa",
@@ -279,7 +395,7 @@
       "rw-4215119"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-09T13:00:43Z",
+    "generated_at": "2026-06-09T18:46:19Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Nigeria\n\n--- Report 1: IFRC (2026-06-09) ---\nNigeria | Acute malnutrition - 12 Months Operation update (MDRNG042)\n\n--- Report 2: IOM (2026-06-08) ---\nIOM Nigeria Flash Report #290: Population Displacement - North-west Nigeria - Katsina State - Conflict/Attacks (04 June 2026)\n"
@@ -294,7 +410,7 @@
     "location": "Syrian Arab Republic",
     "scope": null,
     "date": "2026-06-09",
-    "content": "• By March 2026, Syria hosted over 14,100 refugees and asylum-seekers, mainly Iraqis (77%), with women comprising 51% and children 40% of this population. Most reside in urban areas, especially Damascus and Al-Hasakeh.\n\n• Severe flooding since late May 2026 in Raqqa and Deir-ez-Zor has affected over 27,000 people, causing displacement, damaging infrastructure including water stations and bridges, and isolating communities. Women and girls face heightened protection risks and limited access to maternal health and hygiene services.\n\n• Food insecurity remains critical, with only 18% of Syrians food secure. Rising living costs and inflation have reduced purchasing power, while flooding during the peak harvest season has further strained food systems in already vulnerable areas.\n\n• The health sector is under severe strain due to flooding impacts, conflict escalation in south-west Syria, and a fragile health system. Key concerns include disrupted access to healthcare, increased emergency cases, risks of waterborne diseases, and interruptions to maternal, child, and chronic disease services.\n\n• Humanitarian actors are responding with mobile health teams, protection services, and coordination efforts, but additional funding is urgently needed, including an estimated $300,000 for flood-related reproductive health and protection services. Over 5.5 million IDPs remain in Syria, with many living outside formal sites.\n\nThe situation in Syria is marked by overlapping crises: protracted displacement, severe food insecurity, climate-induced flooding, and ongoing conflict escalation, particularly in the south-west. These factors compound vulnerabilities, especially for women, children, and displaced populations, stressing the need for integrated, well-funded humanitarian and recovery interventions.",
+    "content": "• By March 2026, Syria hosted 14,101 refugees and asylum-seekers, mainly Iraqis (77%), with 51% women and 40% children; 42% have specific needs, mostly living in urban areas like Damascus and Al-Hasakeh.\n\n• Severe flooding since late May 2026 in Raqqa and Deir-ez-Zor has displaced over 27,000 people, damaged critical infrastructure including water stations and bridges, and disrupted access to essential services, exacerbating health and protection risks, especially for women and girls.\n\n• Food insecurity remains critical, with only 18% of Syrians food secure; WFP has halved emergency food assistance due to funding shortfalls, while inflation and currency depreciation continue to reduce household purchasing power.\n\n• The health sector faces multiple challenges: flood-related disruptions in Deir ez-Zor and surrounding areas threaten water and sanitation services and increase disease risks; escalation of conflict in southwest Syria strains health facilities and access to care, particularly in Quneitra, Dar’a, and Rural Damascus.\n\n• Coordination efforts include revised flood response plans, establishment of a Health Sector Strategic Advisory Group, and ongoing support to partners; however, additional funding (e.g., US $300,000 for reproductive health in flood-affected areas) and sustained humanitarian investment are urgently needed.\n\nSyria’s humanitarian situation in mid-2026 is marked by overlapping crises: a protracted food security emergency worsened by economic decline, significant displacement and return movements, and acute flood impacts disrupting infrastructure and health services. The compounded effects of conflict escalation in the southwest and natural disasters in the northeast highlight the need for integrated, well-funded responses to protect vulnerable populations and stabilise essential services.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -314,10 +430,40 @@
       "rw-4215089"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-09T13:00:43Z",
+    "generated_at": "2026-06-09T18:46:19Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Syrian Arab Republic\n\n--- Report 1: UNHCR (2026-06-08) ---\nSyrian Arab Republic: Refugee Protection Factsheet (January - March 2026)\n\n--- Report 2: UNFPA (2026-06-08) ---\nUNFPA Syria Flash Update: Euphrates Floods in Raqqa and Deir-ez-Zor (25 May - 6 June 2026)\n\n--- Report 3: WFP (2026-06-08) ---\nWFP Syria Country Brief, May 2026\n\n--- Report 4: Health Cluster (2026-06-07) ---\nSyria: Health Sector Bulletin - May 2026\n\n--- Report 5: Health Cluster (2026-06-07) ---\nHealth Sector Syria update, biweekly national and sub-national health sector coordination (16 - 31 May 2026)\n"
+  },
+  {
+    "id": "ai-location-occupied-palestinian-territory",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: occupied Palestinian territory",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "occupied Palestinian territory",
+    "scope": null,
+    "date": "2026-06-09",
+    "content": "• Gaza remains under a complete blockade for over eight weeks, with Israeli bombardment causing widespread destruction and nearly 90% of the 2.2 million population displaced; food stocks are critically low, bakeries have stopped due to lack of flour and fuel, and starvation risks are high.\n\n• A US-backed peace plan led to a pause in hostilities from 10 October 2025, allowing limited humanitarian access, but sporadic violations and ongoing displacement continue to strain the humanitarian situation in Gaza.\n\n• In the West Bank, military operations under \"Operation Iron Wall\" since January 2025 have displaced around 40,000 Palestinians, with returns prohibited for at least a year; increased military presence and settlement expansion are severely restricting movement and raising concerns about de facto annexation.\n\n• Humanitarian and commercial cargo flows into Gaza increased slightly in May 2026, easing some market constraints, but food insecurity remains severe due to high prices and limited access to diverse food; the closure of Zikim crossing has left Kerem Shalom as the sole cargo entry point.\n\n• WFP's Palestine self-registration application was targeted by a cyber-attack on 14 May 2026, but assistance delivery to beneficiaries was not disrupted.\n\nThe humanitarian crisis in the occupied Palestinian territory is marked by severe deprivation in Gaza due to blockade and conflict, alongside escalating military operations and displacement in the West Bank. Despite a fragile pause in hostilities and some improvements in cargo flow, urgent and sustained humanitarian access is needed to address widespread food insecurity and displacement. The situation is further complicated by political and legal developments affecting governance and territorial control.",
+    "url": null,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "DFS",
+      "WFP"
+    ],
+    "sourceIds": [
+      "rw-4215477",
+      "rw-4215479"
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-09T18:46:19Z",
+    "prompt_id": "a3a6fd17e378",
+    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
+    "user_prompt_display": "Crisis / situation: occupied Palestinian territory\n\n--- Report 1: DFS (2026-06-09) ---\nOccupied Palestinian Territories (oPt) Crisis Situation Analysis (Period: 25/05/26 - 31/05/26)\n\n--- Report 2: WFP (2026-06-09) ---\nWFP Palestine Emergency Response External Situation Report #90, 9 June 2026 (Reporting period: 1-31 May 2026)\n"
   },
   {
     "id": "rw-4215351",

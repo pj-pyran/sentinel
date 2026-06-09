@@ -1,40 +1,17 @@
 Crisis / situation: Middle East
 
---- Report 1: WHO (2026-06-04) ---
-CRISIS IN NUMBERS
-115 million people in need of humanitarian aid in the Region (48% of global total) prior to the current conflict
-US$ 30.3 million required for WHO Middle East conflict flash appeal (12% funded)
-US$ 633 million required for WHO’s regional health emergency appeals (49% funded)
-KEY HIGHLIGHTS
-• The Seventy-Ninth World Health Assembly adopted a resolution on the protection of health care, submitted by Lebanon and endorsed by the Council of Arab Health Ministers, calling for strengthened protection of health services, sustained international support and enhanced operational assistance to ensure continuity of essential health services during conflict.
-• Attacks on health care in Lebanon continue despite the ceasefire. Since 2 March 2026, more than 191 attacks on health care have been reported, resulting in 128 health worker deaths and 357 injuries.
-• More than 127,700 people remain displaced in collective shelters across Lebanon, while acute watery diarrhoea cases continue to increase, from 504 cases in week 17 to 803 cases in week 20, bringing the cumulative total to 2,777 cases.
-• Population movements from Lebanon continue, with more than 448,000 people reported crossing into Syria since 2 March.
-• In Syria, 545 measles cases have been reported since January 2026, including 96 cases during the past two weeks, while cutaneous leishmaniasis remains a public health concern with more than 5,800 cases reported during the first quarter of 2026.
-• Iraq has reported 88 confirmed cases of Crimean-Congo haemorrhagic fever, including eight deaths, highlighting continued risks from infectious disease outbreaks amid regional instability.
-• On 3 June, strikes on Kuwait Airport, residential areas, and civilian and diplomatic facilities resulted in 1 death and 63 injuries. The UN House, hosting WHO’s office, was hit by debris, but no casualties were reported.
-• WHO's Middle East conflict flash appeal remains significantly underfunded, with only 12% of the US$30.3 million requirement funded.
+--- Report 1: UNHCR (2026-06-09) ---
+Overview
+• The humanitarian situation in Lebanon worsened amid a renewed escalation of hostilities, leading to heightened protection risks, increased displacement, and growing humanitarian needs.
+• Protection monitoring and Protection needs assessments indicate a continued deterioration of the protection environment, driven by repeated displacement, insecurity, and housing instability.
+• Vulnerabilities are increasing as more households face homelessness, overcrowding, and unsafe living arrangements.
+• Syrian refugees and other non-Lebanese populations remain disproportionately affected, encountering barriers to accessing safe shelter and facing heightened risks of exploitation and protection incidents. Psychosocial distress is also on the rise, particularly among children, with growing reports of fear, anxiety, sleep disturbances, and emotional distress linked to ongoing insecurity and uncertainty.
+• The Lebanon Flash Appeal, launched in March, was extended for a further three months (June to August 2026) to enable humanitarian partners to continue rapidly delivering effective humanitarian assistance.
 
---- Report 2: IMC (2026-06-03) ---
-FAST FACTS
-
-More than 1 million people remain displaced, including over 132,000 people sheltering in 633 collective sites. Escalating insecurity in the south and the Bekaa continues to restrict humanitarian access and block safe returns.
-
-OUR FOOTPRINT
-
-International Medical Corps maintains a wide operational presence across the Middle East, delivering lifesaving assistance in active conflict zones and high-risk environments.
-
-OUR RESPONSE
-
-Across the region, International Medical Corps sustains integrated health, nutrition, mental health, protection and WASH programming through mobile teams, field hospitals and fixed facilities, with established systems in place to expand rapidly as needs intensify.
-In Lebanon, 35 mobile medical teams have operated across 135 shelters and community sites, delivering 17,282 consultations, treating 8,786 acute cases and managing 2,026 chronic conditions. Teams have also conducted health awareness sessions for 3,102 people, referred 1,089 patients for higher-level care and vaccinated 262 children.
-Nutrition teams have screened 986 children and pregnant or breastfeeding women for malnutrition, while mental health teams reached more than 1,000 people with psychosocial and psychological support services. In addition, teams distributed 2,168 hygiene kits to displaced and vulnerable households.
-
-International Medical Corps is continuing to deliver lifesaving health services at scale across the Middle East, supporting communities affected by conflict, displacement and worsening humanitarian conditions. Our regional presence and operational reach are set out in previous Situation Reports and in our regional Capability Statement. All personnel remain safe and accounted for.
-
---- Report 3: UNHCR (2026-06-03) ---
-SITUATION OVERVIEW
-REGIONAL CONTEXT
-Since late February, escalating hostilities in Iran and Lebanon have triggered humanitarian consequences with impact across the region, including refugee returns in adverse circumstances to Afghanistan and Syria. Events are unfolding against an already fragile humanitarian baseline, with over 24 million forcibly displaced people hosted across the wider region prior to the current escalation, alongside host communities under significant economic and social strain.
-Interagency emergency response is underway to address urgent needs. In Iran, the Flash Refugee Response Plan targets refugees and others in need of international protection alongside affected host communities. In Lebanon, a Flash Appeal complements the broader response under the Lebanon Response Plan to deliver life saving assistance and protection, including to Syrian refugees. In Afghanistan, the funding requirement for the returns response is outlined under the Humanitarian Needs &amp; Response Plan.
-UNHCR and partners have been working across countries neighbouring Iran to strengthen preparedness for possible large-scale refugee flows, in support of national authorities. Preparedness measures are in place, including border monitoring, reception and protection readiness, but these arrangements remain highly dependent on flexible and predictable funding in an increasingly constrained resource environment.
+--- Report 2: IOM (2026-06-09) ---
+The escalation of hostilities across the Middle East and beyond continues to trigger a humanitarian crisis spanning multiple regions in an already fragile context, with significant impact on population mobility. Inside the Islamic Republic of Iran, destruction of more than 149,000 civilian infrastructures and services has directly impacted over 400,000 individuals as of 29 April. Overall, population movements remain localized, temporary, and economically driven, with no signs of mass displacement; however, ongoing strain on housing, livelihoods, and basic services is likely to sustain elevated mobility levels in the near-and medium-term.
+In Lebanon, continued hostilities and new displacement orders have contributed to increasing displacement, with 130,369 individuals remaining displaced across 632 collective shelters as of 31 May, overwhelming hugely overstretched services, with shelter capacities being reached in Saida and Tyre, South Governorate.
+Women and girls - who account for nearly 52% of those sheltered - are affected disproportionally by ongoing displacement, facing heightened protection risks, increased care responsibilities, and greater challenges in accessing essential services. Cross-border flows into the Syrian Arab Republic are continuing, with 395,369 movements recorded as of 1 June 2026, placing additional pressure on an already overstretched humanitarian system.
+In the region, Afghanistan observes the highest number of movements with substantial variations in the volume of flows.
+412,008 arrivals from the Islamic Republic of Iran to Afghanistan and 162,557 departures from Afghanistan to the Islamic Republic of Iran between March and June 2026 underscore the criticality of ensuring continued humanitarian operations at the border under the IOM-led Border Consortium. Cross-border flows from Pakistan and Iraq remain moderate and variable rather than steadily increasing; with a total of 25,708 individuals having crossed from the Islamic Republic of Iran into Pakistan, and a net incoming movement of 1,609 individuals into Iraq, the two countries have witnessed smaller and more occasional movements.
+The situation along the borders with Türkiye, Armenia, Azerbaijan, and Turkmenistan remains stable, but investments in contingency planning and preparedness remain critical.
