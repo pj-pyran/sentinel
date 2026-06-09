@@ -1,6 +1,15 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: WFP (2026-06-08) ---
+--- Report 1: UNHCR (2026-06-08) ---
+Overview
+By the end of March 2026, Syria hosted a total of 14,101 refugees and asylum-seekers, comprising 9,904 refugees and 4,197 asylum-seekers. Iraqis constitute the largest population group, representing 77% of the total population. Other registered nationalities include Afghans (7%), Sudanese (7%), and Yemenis (3%), while the remaining 6% consist of other nationalities. Women account for 51% of the population, compared to 49% men. Children represent 40% of the total population, and 42% of all registered individuals are identified as having specific needs. Refugees and asylum-seekers primarily reside in urban areas, with the majority located in Damascus and Al-Hasakeh governorates.
+
+--- Report 2: UNFPA (2026-06-08) ---
+Severe flooding in the Euphrates River basin, driven by heavy rainfall and upstream releases from the Tabqa Dam, has submerged parts of the Raqqa and Deir-ez-Zor governorates of Syria since late May 2026. The rising water levels have affected over 27,000 individuals, forcing thousands into displacement and damaging critical infrastructure, including over 60 water stations, irrigation networks, and key transportation routes. The destruction of bridges and crossings has severely isolated riverside populations, disrupting humanitarian logistics and restricting access to essential services.
+The crisis has acutely impacted women and girls, with nearly 6,700 women of reproductive age affected, including hundreds who are pregnant or nearing delivery. Overcrowding in host communities and shelters, coupled with poor sanitation, has exacerbated protection risks, raised concerns about disease outbreaks, and limited access to maternal healthcare and menstrual hygiene supplies. In response, UNFPA has deployed integrated mobile teams to provide sexual and reproductive health and gender-based violence services. These efforts, which include supporting static clinics and women and girls' safe spaces, have reached nearly 1,520 beneficiaries as of 6 June, while ongoing inter-agency assessments continue to monitor needs and coordinate life-saving relief.
+UNFPA is responding to the acute needs using its existing flexible resources; however, to respond to the growing needs for upcoming three months, an estimated additional amount of US $300,000 is required.
+
+--- Report 3: WFP (2026-06-08) ---
 KEY HIGHLIGHTS
 • Syria faces a severe food crisis, with only 18 percent of the population food secure. Severe funding shortfalls have forced WFP to halve emergency food assistance, increasing the risk of hunger, debt, and instability.
 • Humanitarian aid and recovery must go hand in hand, as unmet basic needs risk undermining recovery. WFP support remains critical in stabilizing communities and markets.
@@ -12,7 +21,7 @@ SITUATION OVERVIEW
 • Since 25 May, severe flooding along the Euphrates in Deir ez‑Zor and Raqqa has caused displacement, infrastructure damage, and livelihood losses during the peak harvest season in some of the most food‑insecure areas, further straining local food systems. This follows earlier localized flooding that also affected communities in Hasakeh, Deir ez‑Zor, and Aleppo. On 30 May, a WFP delegation, including the Country Director, visited Deir ez‑Zor to meet local counterparts and affected households, visit collective shelters, monitor distributions, and assess flood‑affected areas to guide response and planning.
 • In April, WFP launched the development of its new Country Strategic Plan (CSP), which will define WFP’s priorities and operational direction in alignment with the new UNSDCF, with submission to the Executive Board scheduled for February 2027.
 
---- Report 2: Health Cluster (2026-06-07) ---
+--- Report 4: Health Cluster (2026-06-07) ---
 KEY ISSUES
 • New MoH salary scale and its impact
 • NEXUS operationalization
@@ -29,7 +38,7 @@ Rising water levels in the Euphrates River have triggered flooding and flood ris
 The escalation of the situation in south-west Syria has prompted preparations of sector level update of inter-sector gaps, needs and response in Quneitra and parts of Dar’a and Rural Damascus. Military operations and related movement constraints have further stressed an already fragile southern health system. Main effects include higher emergency/trauma pressure, disrupted access to primary health care points, weaker referral movement, and increased risk of interruption to maternal, child, NCD/dialysis, MHPSS and vaccination services. The risk is most acute in Quneitra, where 86,762 people are in need out of a population of 164,496. Quneitra is smaller governorate but highly fragile because it depends on one public hospital and limited outreach/referral depth. Rural Damascus is the main high-capacity but high-pressure service hub. Dar'a is a high-burden, high-activity governorate with mostly partial hospital/PHC functionality.
 Key figures about the returns: Total Syrians Refugee Returnees: 1,667,078. Total IDPs: 5,542,227 (as of August 2025). 4,186,695 (76%) reside outside IDP sites. 1,355,532 (24%) are inside 1,531 IDP sites. As of April 2026, the CCCM records show that 870,436 individuals (169,722 households) are hosted in 1,275 IDP sites in Syria. Of these, 78% are women and children, and 29,869 individuals are reported to be persons with disabilities. For more details about the IDP sites in Syria please see the dashboard
 
---- Report 3: Health Cluster (2026-06-07) ---
+--- Report 5: Health Cluster (2026-06-07) ---
 National health sector coordination, Damascus
 
 Revised the sub-national health sector preparedness and response plan on flash floods in Deir-ez-Zoir and provided the respective updates (2).
