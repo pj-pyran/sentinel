@@ -1,6 +1,12 @@
 Crisis / situation: Philippines
 
---- Report 1: AHA Centre (2026-06-08) ---
+--- Report 1: Govt. Philippines (2026-06-09) ---
+No summary available.
+
+--- Report 2: Govt. Philippines (2026-06-08) ---
+No summary available.
+
+--- Report 3: AHA Centre (2026-06-08) ---
 OVERVIEW: On 08 June 2026, PHIVOLCS reported a magnitude 7.8 earthquake (depth 33 km) at 0637 HRS UTC+7 (0737 HRS local PH time), with the epicentre located 32 km south (S04°W) of Maasim, Sarangani Province, offshore southern Mindanao. The earthquake was initially recorded at magnitude 7.0 with a depth of 10 km before being upgraded in a second advisory to magnitude 7.8 at a depth of 33 km. PHIVOLCS assessed the quake as tectonic in origin, with damage and aftershocks expected. The strongest reported intensity was Intensity VII in the City of General Santos.
 TSUNAMI: PHIVOLCS raised a tsunami warning, advising that wave heights of more than one metre above normal tides were expected, with first waves arriving between 0737 and 0937 HRS local time and potentially continuing for hours. Residents of at least nine Mindanao provinces were advised to evacuate coastal areas immediately. BMKG also issued a tsunami warning for the Maluku Islands, Sulawesi and Kalimtantan. Indonesia’s BMKG reported sea-level changes of less than one metre so far.
 IMPACTS AND DAMAGES: NDRRMC Philippines and BNPB Indonesia are currently conducting initial assessments to gather information on impacts and damages. Initial news reports show damaged buildings and infrastructures.
@@ -17,7 +23,7 @@ Indonesia: BNPB, BMKG;
 Philippines: NDRRMC, PHIVOLCS;
 Verified news media agencies
 
---- Report 2: OCHA (2026-06-08) ---
+--- Report 4: OCHA (2026-06-08) ---
 Highlights
 • A magnitude 7.8 earthquake struck 32 km offshore west of Maasim, Sarangani, at 7:37 a.m. on 08 June. Intensity VIII (very destructive) was reported in General Santos City. A tsunami alert triggered coastal evacuations across nine provinces and was lifted by mid-afternoon. More than 138 aftershocks have been recorded.
 • Initial reports indicate 19 people dead, 12 missing and 134 injured. Figures for affected and displaced people remain provisional pending government validation and ongoing assessments.
