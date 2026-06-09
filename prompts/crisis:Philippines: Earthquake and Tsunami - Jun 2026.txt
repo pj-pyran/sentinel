@@ -1,12 +1,64 @@
 Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026
 
---- Report 1: Govt. Philippines (2026-06-09) ---
+--- Report 1: AHA Centre (2026-06-09) ---
+OVERVIEW: According to PHIVOLCS the magnitude 7.8 earthquake that occurred in Sarangani, Philippines was tectonic in origin and is attributed to subduction along the Cotabato Trench, a major earthquake-generating structure located off the coast. PHIVOLCS recorded a highest instrumental intensity of VII (PEIS), experienced in General Santos City and intensity VI in Palimbang, Senator Ninoy Aquino, Sultan Kudarat. In Indonesia, the earthquake was also felt and impacted Sangihe, Talaud, and Minahasa in North Sulawesi as reported by BMKG and BNPB.
+TSUNAMI: PHIVOLCS reported tsunami observations in six areas with the highest waves recorded at 1.48m in Kiamba, Sarangani. PHIVOLCS lifted the tsunami warning at 1419H UTC+7. BMKG also reported tsunami waves with height at most 0.75m in North Sulawesi. BMKG lifted the tsunami warning at 1015H UTC+7.
+IMPACTS &amp; DAMAGES:
+PHILIPPINES
+
+37 deaths (ongoing validation)
+4 missing persons (ongoing validation)
+488 injured persons (ongoing validation)
+32.9K families (145.7K individuals) affected
+8.7K families (32K individuals) displaced and accommodated in 54 evacuation centres (ECs) and 1,804 persons served outside ECs
+2.5K houses damaged (460 totally damaged)
+10 road sections and 2 bridges affected
+12 cities/municipalities experienced power interruptions, of which 6 have been restored.
+
+INDONESIA
+
+1,160 persons displaced
+95 houses damaged
+2 churches damaged
+2 schools damaged
+1 hospital damaged
+2 other buildings damaged
+
+HAZARDS &amp; ANTICIPATED RISKS
+
+Aftershocks – As of 0600H UTC+7 today, around 1,055 aftershocks were recorded, with highest at M6.7 (PHIVOLCS).
+Landslides – Mountainous and highly sloped areas are particularly vulnerable to earthquake-induced landslides, rock falls, and tension cracks, which could be further aggravated by heavy rainfall or subsequent aftershocks.
+Liquefaction – In low-lying, water-saturated, and sandy areas, the intense shaking can cause liquefaction, manifesting as ground fissures, sand boils, and subsidence. This liquefaction-induced subsidence combined with changes in sea level can also make coastal areas and active river channels highly susceptible to seawater inundation.
+
+RESPONSE EFFORTS:
+PHILIPPINES
+
+The Philippine President convened national and local officials and deployed Cabinet members to affected areas to oversee a whole-of-government response, including ongoing emergency operations, damage assessments, and relief efforts for communities impacted by the magnitude 7.8 earthquake.
+DSWD is leading relief efforts, prioritising food aid, essential supplies, and the setup of safe evacuation centres.
+Response efforts, led by the local governments, are prioritising search, rescue, retrieval, and debris clearing operations, while addressing urgent shelter needs such as housing repair kits, construction materials, and temporary shelters.
+The Civil Aviation Authority of the Philippines (CAAP) has restricted operations at General Santos International Airport to government, military, and humanitarian flights only.
+The NDRRMOC remains on full RED alert together with their regional offices and local emergency operations centres.
+
+INDONESIA
+
+BNPB, BMKG , and BPBD issued evacuation advisories and carried out comprehensive evacuations in districts/cities where tsunami impacts were detected.
+BNPB coordinated with affected district/city BPBDs to collect data on casualties, affected populations, and infrastructure damage.
+BNPB identified several challenges, including the remoteness of affected areas, with travel between locations requiring approximately 4–5 hours, and disruptions to communication networks caused by power outages.
+
+The AHA Centre sent a letter of sympathy and offer of assistance to NDRRMC–OCD on 8 June 2026. In its response, NDRRMC expressed appreciation to ASEAN and ASEAN Member States and informed that a comprehensive assessment of the impacts and response requirements is ongoing. Should additional assistance be required, the Government of the Philippines will coordinate with the AHA Centre and formally communicate its needs. The AHA Centre EOC Alert Level remains on ORANGE and continues to coordinate closely with the affected ASEAN Member States, remaining on standby should ASEAN assistance be requested.
+DATA SOURCES
+ASEAN Disaster Monitoring &amp; Response System (DMRS), ASEAN Disaster Information Network (ADINet); ASEAN Specialised Meteorological Centre (ASMC);
+Indonesia: BNPB, BMKG;
+Philippines: NDRRMC, PHIVOLCS;
+Verified news media agencies
+
+--- Report 2: Govt. Philippines (2026-06-09) ---
 No summary available.
 
---- Report 2: Govt. Philippines (2026-06-08) ---
+--- Report 3: Govt. Philippines (2026-06-08) ---
 No summary available.
 
---- Report 3: AHA Centre (2026-06-08) ---
+--- Report 4: AHA Centre (2026-06-08) ---
 OVERVIEW: On 08 June 2026, PHIVOLCS reported a magnitude 7.8 earthquake (depth 33 km) at 0637 HRS UTC+7 (0737 HRS local PH time), with the epicentre located 32 km south (S04°W) of Maasim, Sarangani Province, offshore southern Mindanao. The earthquake was initially recorded at magnitude 7.0 with a depth of 10 km before being upgraded in a second advisory to magnitude 7.8 at a depth of 33 km. PHIVOLCS assessed the quake as tectonic in origin, with damage and aftershocks expected. The strongest reported intensity was Intensity VII in the City of General Santos.
 TSUNAMI: PHIVOLCS raised a tsunami warning, advising that wave heights of more than one metre above normal tides were expected, with first waves arriving between 0737 and 0937 HRS local time and potentially continuing for hours. Residents of at least nine Mindanao provinces were advised to evacuate coastal areas immediately. BMKG also issued a tsunami warning for the Maluku Islands, Sulawesi and Kalimtantan. Indonesia’s BMKG reported sea-level changes of less than one metre so far.
 IMPACTS AND DAMAGES: NDRRMC Philippines and BNPB Indonesia are currently conducting initial assessments to gather information on impacts and damages. Initial news reports show damaged buildings and infrastructures.
@@ -23,7 +75,7 @@ Indonesia: BNPB, BMKG;
 Philippines: NDRRMC, PHIVOLCS;
 Verified news media agencies
 
---- Report 4: OCHA (2026-06-08) ---
+--- Report 5: OCHA (2026-06-08) ---
 Highlights
 • A magnitude 7.8 earthquake struck 32 km offshore west of Maasim, Sarangani, at 7:37 a.m. on 08 June. Intensity VIII (very destructive) was reported in General Santos City. A tsunami alert triggered coastal evacuations across nine provinces and was lifted by mid-afternoon. More than 138 aftershocks have been recorded.
 • Initial reports indicate 19 people dead, 12 missing and 134 injured. Figures for affected and displaced people remain provisional pending government validation and ongoing assessments.
