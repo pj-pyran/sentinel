@@ -1,6 +1,48 @@
 Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026
 
---- Report 1: AHA Centre (2026-06-09) ---
+--- Report 1: IFRC (2026-06-10) ---
+Description
+At 7:37 AM on 8 June 2026, a magnitude 7.8 earthquake struck approximately 32 km south 04° west of Maasim, Sarangani, at a depth of 33 kilometers, affecting several areas in Mindanao. The Philippine Institute of Volcanology and Seismology (PHIVOLCS) recorded the strongest ground shaking at Intensity VII (Destructive) in General Santos City, with expected aftershocks and reported damages.
+DOST-PHIVOLCS issued Tsunami Information No. 1 on 08 June 2026 at 7:37 AM, warning that coastal areas may experience tsunami wave heights of more than one meter above normal tide levels, which may be higher in enclosed bays and straits. Communities in Sarangani, Davao Occidental, Tawi-Tawi, Sulu, Basilan, Zamboanga del Sur, Zamboanga Sibugay, Sultan Kudarat, and South Cotabato were strongly advised to immediately evacuate to safer areas.
+Based on reports from PRC Chapters, several structural damages were recorded. A total of two (2) structures totally collapsed in North Cotabato and General Santos City; four (4) structures sustained major damages in General Santos City, Davao City, and Sarangani; two (2) additional structures collapsed in General Santos City; four (4) structures sustained minor damages in Davao Oriental and Davao City; and one (1) incident of fallen debris was reported in Davao del Sur. Damaged structures included municipal halls, gyms, and commercial establishments.
+A total of four (4) hospitals in Davao Oriental, South Cotabato, and General Santos City were also affected, sustaining minor to visible cracks and structural damages.
+Additionally, five (5) schools were reported damaged in Davao del Sur, General Santos City, and South Cotabato.
+Landslides were also reported in three (3) municipalities in South Cotabato.
+Following the magnitude 7.8 earthquake in Sarangani, President Ferdinand Marcos Jr. ordered the suspension of classes at all levels across affected areas in Mindanao until further notice.
+STATE OF CALAMITY:
+
+The City of General Santos has declared a state of calamity.
+
+As of the latest PHIVOLCS report released today, a total of 1,055 aftershocks have been recorded following the magnitude 7.8 earthquake in Sarangani. Of these, 301 aftershocks were plotted/located, while 21 were felt by residents in affected areas. The recorded aftershocks ranged from magnitude 1.3 to 6.7.
+Request For Assistance
+Government Requests International Assistance: No
+NS Requests International Assistance: Yes
+Information Bulletin Published
+Planned
+Actions taken by National Society
+General
+Water &amp; Sanitation
+First Aid
+Health
+Evacuation
+Search &amp; Rescue
+Damage/Needs assessment
+Food aid
+Relief/Supply distribution
+RFL
+Psychosocial support services
+Summary
+Summary: • 109 hot meals served • 3 units of welfare desk established • 50 individuals supported with psychosocial first aid (PFA) • 30 individuals were treated/ first aid • 3 medical tent/ gazebo tent was established to support hospital • 150 individuals supported for evacuation (hospital) • 10 units of blood augmented to Gensan Hospital • 83 manpower were mobilized
+Planned International Response
+DREF: Requested
+
+--- Report 2: Govt. Philippines (2026-06-10) ---
+No summary available.
+
+--- Report 3: Govt. Philippines (2026-06-09) ---
+No summary available.
+
+--- Report 4: AHA Centre (2026-06-09) ---
 OVERVIEW: According to PHIVOLCS the magnitude 7.8 earthquake that occurred in Sarangani, Philippines was tectonic in origin and is attributed to subduction along the Cotabato Trench, a major earthquake-generating structure located off the coast. PHIVOLCS recorded a highest instrumental intensity of VII (PEIS), experienced in General Santos City and intensity VI in Palimbang, Senator Ninoy Aquino, Sultan Kudarat. In Indonesia, the earthquake was also felt and impacted Sangihe, Talaud, and Minahasa in North Sulawesi as reported by BMKG and BNPB.
 TSUNAMI: PHIVOLCS reported tsunami observations in six areas with the highest waves recorded at 1.48m in Kiamba, Sarangani. PHIVOLCS lifted the tsunami warning at 1419H UTC+7. BMKG also reported tsunami waves with height at most 0.75m in North Sulawesi. BMKG lifted the tsunami warning at 1015H UTC+7.
 IMPACTS &amp; DAMAGES:
@@ -52,10 +94,10 @@ Indonesia: BNPB, BMKG;
 Philippines: NDRRMC, PHIVOLCS;
 Verified news media agencies
 
---- Report 2: Govt. Philippines (2026-06-09) ---
+--- Report 5: Govt. Philippines (2026-06-09) ---
 No summary available.
 
---- Report 3: IFRC (2026-06-08) ---
+--- Report 6: IFRC (2026-06-08) ---
 Description
 At 7:37 AM on 8 June 2026, a magnitude 7.8 earthquake struck approximately 32 km south 04° west of Maasim, Sarangani, at a depth of 33 kilometers, affecting several areas in Mindanao. The Philippine Institute of Volcanology and Seismology (PHIVOLCS) recorded the strongest shaking at Intensity VII (Destructive) in General Santos City, with expected aftershocks and damages.
 DOST-PHIVOLCS issued Tsunami Information No. 1 on 08 June 2026 at 7:37 AM, alerting that coastal areas may experience wave heights of more than one meter above normal tide levels, which may be higher in enclosed bays and straits. Communities in Sarangani, Davao Occidental, Tawi-Tawi, Sulu, Basilan, Zamboanga del Sur, Zamboanga Sibugay, Sultan Kudarat, and South Cotabato were strongly advised to immediately evacuate to safer areas.
@@ -64,10 +106,10 @@ A total of four (4) hospitals were also affected in Davao Oriental, South Cotaba
 Additionally, five (5) schools were reported damaged in Davao del Sur, General Santos City, and South Cotabato.
 Kindly note that this is a rapid update that contains the most important information immediately at hand. As the situation develops, the information will become more accurate and detailed.
 
---- Report 4: Govt. Philippines (2026-06-08) ---
+--- Report 7: Govt. Philippines (2026-06-08) ---
 No summary available.
 
---- Report 5: AHA Centre (2026-06-08) ---
+--- Report 8: AHA Centre (2026-06-08) ---
 OVERVIEW: On 08 June 2026, PHIVOLCS reported a magnitude 7.8 earthquake (depth 33 km) at 0637 HRS UTC+7 (0737 HRS local PH time), with the epicentre located 32 km south (S04°W) of Maasim, Sarangani Province, offshore southern Mindanao. The earthquake was initially recorded at magnitude 7.0 with a depth of 10 km before being upgraded in a second advisory to magnitude 7.8 at a depth of 33 km. PHIVOLCS assessed the quake as tectonic in origin, with damage and aftershocks expected. The strongest reported intensity was Intensity VII in the City of General Santos.
 TSUNAMI: PHIVOLCS raised a tsunami warning, advising that wave heights of more than one metre above normal tides were expected, with first waves arriving between 0737 and 0937 HRS local time and potentially continuing for hours. Residents of at least nine Mindanao provinces were advised to evacuate coastal areas immediately. BMKG also issued a tsunami warning for the Maluku Islands, Sulawesi and Kalimtantan. Indonesia’s BMKG reported sea-level changes of less than one metre so far.
 IMPACTS AND DAMAGES: NDRRMC Philippines and BNPB Indonesia are currently conducting initial assessments to gather information on impacts and damages. Initial news reports show damaged buildings and infrastructures.
@@ -84,7 +126,7 @@ Indonesia: BNPB, BMKG;
 Philippines: NDRRMC, PHIVOLCS;
 Verified news media agencies
 
---- Report 6: OCHA (2026-06-08) ---
+--- Report 9: OCHA (2026-06-08) ---
 Highlights
 • A magnitude 7.8 earthquake struck 32 km offshore west of Maasim, Sarangani, at 7:37 a.m. on 08 June. Intensity VIII (very destructive) was reported in General Santos City. A tsunami alert triggered coastal evacuations across nine provinces and was lifted by mid-afternoon. More than 138 aftershocks have been recorded.
 • Initial reports indicate 19 people dead, 12 missing and 134 injured. Figures for affected and displaced people remain provisional pending government validation and ongoing assessments.
