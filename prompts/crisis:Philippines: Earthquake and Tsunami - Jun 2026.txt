@@ -1,6 +1,12 @@
 Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026
 
---- Report 1: IFRC (2026-06-10) ---
+--- Report 1: Govt. Philippines (2026-06-11) ---
+No summary available.
+
+--- Report 2: Govt. Philippines (2026-06-10) ---
+No summary available.
+
+--- Report 3: IFRC (2026-06-10) ---
 Description
 At 7:37 AM on 8 June 2026, a magnitude 7.8 earthquake struck approximately 32 km south 04° west of Maasim, Sarangani, at a depth of 33 kilometers, affecting several areas in Mindanao. The Philippine Institute of Volcanology and Seismology (PHIVOLCS) recorded the strongest ground shaking at Intensity VII (Destructive) in General Santos City, with expected aftershocks and reported damages.
 DOST-PHIVOLCS issued Tsunami Information No. 1 on 08 June 2026 at 7:37 AM, warning that coastal areas may experience tsunami wave heights of more than one meter above normal tide levels, which may be higher in enclosed bays and straits. Communities in Sarangani, Davao Occidental, Tawi-Tawi, Sulu, Basilan, Zamboanga del Sur, Zamboanga Sibugay, Sultan Kudarat, and South Cotabato were strongly advised to immediately evacuate to safer areas.
@@ -36,13 +42,13 @@ Summary: • 109 hot meals served • 3 units of welfare desk established • 50
 Planned International Response
 DREF: Requested
 
---- Report 2: Govt. Philippines (2026-06-10) ---
+--- Report 4: Govt. Philippines (2026-06-10) ---
 No summary available.
 
---- Report 3: Govt. Philippines (2026-06-09) ---
+--- Report 5: Govt. Philippines (2026-06-09) ---
 No summary available.
 
---- Report 4: AHA Centre (2026-06-09) ---
+--- Report 6: AHA Centre (2026-06-09) ---
 OVERVIEW: According to PHIVOLCS the magnitude 7.8 earthquake that occurred in Sarangani, Philippines was tectonic in origin and is attributed to subduction along the Cotabato Trench, a major earthquake-generating structure located off the coast. PHIVOLCS recorded a highest instrumental intensity of VII (PEIS), experienced in General Santos City and intensity VI in Palimbang, Senator Ninoy Aquino, Sultan Kudarat. In Indonesia, the earthquake was also felt and impacted Sangihe, Talaud, and Minahasa in North Sulawesi as reported by BMKG and BNPB.
 TSUNAMI: PHIVOLCS reported tsunami observations in six areas with the highest waves recorded at 1.48m in Kiamba, Sarangani. PHIVOLCS lifted the tsunami warning at 1419H UTC+7. BMKG also reported tsunami waves with height at most 0.75m in North Sulawesi. BMKG lifted the tsunami warning at 1015H UTC+7.
 IMPACTS &amp; DAMAGES:
@@ -94,5 +100,5 @@ Indonesia: BNPB, BMKG;
 Philippines: NDRRMC, PHIVOLCS;
 Verified news media agencies
 
---- Report 5: Govt. Philippines (2026-06-09) ---
+--- Report 7: Govt. Philippines (2026-06-09) ---
 No summary available.
