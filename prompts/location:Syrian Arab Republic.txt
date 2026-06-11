@@ -1,6 +1,19 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: UNICEF (2026-06-10) ---
+--- Report 1: WFP (2026-06-11) ---
+Key Highlights
+
+The cost of living in April 2026, as measured by the Minimum Expenditure Basket (MEB), remained stable at Old SYP 2.66 million compared to the previous month. Despite being 22 percent higher than its value in April 2025.
+The Syrian pound depreciated in the parallel market, with the exchange rate weakening from Old SYP 11,972 per USD in March 2026 to Old SYP 12,906 per USD in April 2026. In contrast, the official exchange rate remained stable at Old SYP 11,055 per USD.
+Syria advanced economic recovery efforts through closer cooperation with the World Bank and IMF, securing more than $425 million in financing for water, health, and railway projects, while recording its first state budget surplus since 1990 and launching a new foreign exchange and gold market in Damascus.
+Trade and food supply chain showed notable improvement, driven by expanding regional trade with Jordan, the resumption of oil shipments from Iraq, strengthened logistics and transport links, higher domestic wheat production, and investments in food infrastructure, including new bakeries and measures to protect local agricultural production.
+The WFP-rehabilitated bakery in Talkalkh, rural Homs, resumed operations with an upgraded 10-ton daily flour capacity, securing the primary bread supply for 20 to 30 surrounding villages.
+link to the report: WFP Syria Price Bulletin | April 2026 | Issue #136
+
+For further information please contact The VAM Economics and Market Analysis team:
+Obada ALADIB obada.aladib@wfp.org ; and Mohamad Jaber ALTABBAA mohamadjaber.altabba@wfp.org
+
+--- Report 2: UNICEF (2026-06-10) ---
 Key figures As of 7 June 2026
 17,000 people directly affected by the floods.
 700 families displaced, representing around 2,000 children.
@@ -15,7 +28,7 @@ The flooding has occurred against a backdrop of ongoing public health challenges
 Despite the gradual decline in water levels, continued humanitarian support remains essential to address immediate needs and prevent secondary impacts on affected populations. Timely assistance – including access to safe water, health and immunization services, child protection support, mine and child protection risk awareness, and cash assistance – will be critical to helping families recover and reducing the risks faced by children and caregivers. Without sustained support, affected communities may face prolonged disruptions to essential services and increased vulnerability after years of protracted crisis.
 UNICEF and partners continue to coordinate closely with local authorities and humanitarian actors to monitor the evolving situation, assess remaining needs, and support response and early recovery efforts across affected governorates.
 
---- Report 2: IFRC (2026-06-10) ---
+--- Report 3: IFRC (2026-06-10) ---
 Description of the Event
 Date of event
 25-05-2026
