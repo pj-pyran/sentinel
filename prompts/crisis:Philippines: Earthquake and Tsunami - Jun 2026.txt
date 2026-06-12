@@ -1,12 +1,18 @@
 Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026
 
---- Report 1: Govt. Philippines (2026-06-11) ---
+--- Report 1: Govt. Philippines (2026-06-12) ---
 No summary available.
 
---- Report 2: Govt. Philippines (2026-06-10) ---
+--- Report 2: Govt. Philippines (2026-06-11) ---
 No summary available.
 
---- Report 3: IFRC (2026-06-10) ---
+--- Report 3: Govt. Philippines (2026-06-11) ---
+No summary available.
+
+--- Report 4: Govt. Philippines (2026-06-10) ---
+No summary available.
+
+--- Report 5: IFRC (2026-06-10) ---
 Description
 At 7:37 AM on 8 June 2026, a magnitude 7.8 earthquake struck approximately 32 km south 04° west of Maasim, Sarangani, at a depth of 33 kilometers, affecting several areas in Mindanao. The Philippine Institute of Volcanology and Seismology (PHIVOLCS) recorded the strongest ground shaking at Intensity VII (Destructive) in General Santos City, with expected aftershocks and reported damages.
 DOST-PHIVOLCS issued Tsunami Information No. 1 on 08 June 2026 at 7:37 AM, warning that coastal areas may experience tsunami wave heights of more than one meter above normal tide levels, which may be higher in enclosed bays and straits. Communities in Sarangani, Davao Occidental, Tawi-Tawi, Sulu, Basilan, Zamboanga del Sur, Zamboanga Sibugay, Sultan Kudarat, and South Cotabato were strongly advised to immediately evacuate to safer areas.
@@ -42,63 +48,5 @@ Summary: • 109 hot meals served • 3 units of welfare desk established • 50
 Planned International Response
 DREF: Requested
 
---- Report 4: Govt. Philippines (2026-06-10) ---
-No summary available.
-
---- Report 5: Govt. Philippines (2026-06-09) ---
-No summary available.
-
---- Report 6: AHA Centre (2026-06-09) ---
-OVERVIEW: According to PHIVOLCS the magnitude 7.8 earthquake that occurred in Sarangani, Philippines was tectonic in origin and is attributed to subduction along the Cotabato Trench, a major earthquake-generating structure located off the coast. PHIVOLCS recorded a highest instrumental intensity of VII (PEIS), experienced in General Santos City and intensity VI in Palimbang, Senator Ninoy Aquino, Sultan Kudarat. In Indonesia, the earthquake was also felt and impacted Sangihe, Talaud, and Minahasa in North Sulawesi as reported by BMKG and BNPB.
-TSUNAMI: PHIVOLCS reported tsunami observations in six areas with the highest waves recorded at 1.48m in Kiamba, Sarangani. PHIVOLCS lifted the tsunami warning at 1419H UTC+7. BMKG also reported tsunami waves with height at most 0.75m in North Sulawesi. BMKG lifted the tsunami warning at 1015H UTC+7.
-IMPACTS &amp; DAMAGES:
-PHILIPPINES
-
-37 deaths (ongoing validation)
-4 missing persons (ongoing validation)
-488 injured persons (ongoing validation)
-32.9K families (145.7K individuals) affected
-8.7K families (32K individuals) displaced and accommodated in 54 evacuation centres (ECs) and 1,804 persons served outside ECs
-2.5K houses damaged (460 totally damaged)
-10 road sections and 2 bridges affected
-12 cities/municipalities experienced power interruptions, of which 6 have been restored.
-
-INDONESIA
-
-1,160 persons displaced
-95 houses damaged
-2 churches damaged
-2 schools damaged
-1 hospital damaged
-2 other buildings damaged
-
-HAZARDS &amp; ANTICIPATED RISKS
-
-Aftershocks – As of 0600H UTC+7 today, around 1,055 aftershocks were recorded, with highest at M6.7 (PHIVOLCS).
-Landslides – Mountainous and highly sloped areas are particularly vulnerable to earthquake-induced landslides, rock falls, and tension cracks, which could be further aggravated by heavy rainfall or subsequent aftershocks.
-Liquefaction – In low-lying, water-saturated, and sandy areas, the intense shaking can cause liquefaction, manifesting as ground fissures, sand boils, and subsidence. This liquefaction-induced subsidence combined with changes in sea level can also make coastal areas and active river channels highly susceptible to seawater inundation.
-
-RESPONSE EFFORTS:
-PHILIPPINES
-
-The Philippine President convened national and local officials and deployed Cabinet members to affected areas to oversee a whole-of-government response, including ongoing emergency operations, damage assessments, and relief efforts for communities impacted by the magnitude 7.8 earthquake.
-DSWD is leading relief efforts, prioritising food aid, essential supplies, and the setup of safe evacuation centres.
-Response efforts, led by the local governments, are prioritising search, rescue, retrieval, and debris clearing operations, while addressing urgent shelter needs such as housing repair kits, construction materials, and temporary shelters.
-The Civil Aviation Authority of the Philippines (CAAP) has restricted operations at General Santos International Airport to government, military, and humanitarian flights only.
-The NDRRMOC remains on full RED alert together with their regional offices and local emergency operations centres.
-
-INDONESIA
-
-BNPB, BMKG , and BPBD issued evacuation advisories and carried out comprehensive evacuations in districts/cities where tsunami impacts were detected.
-BNPB coordinated with affected district/city BPBDs to collect data on casualties, affected populations, and infrastructure damage.
-BNPB identified several challenges, including the remoteness of affected areas, with travel between locations requiring approximately 4–5 hours, and disruptions to communication networks caused by power outages.
-
-The AHA Centre sent a letter of sympathy and offer of assistance to NDRRMC–OCD on 8 June 2026. In its response, NDRRMC expressed appreciation to ASEAN and ASEAN Member States and informed that a comprehensive assessment of the impacts and response requirements is ongoing. Should additional assistance be required, the Government of the Philippines will coordinate with the AHA Centre and formally communicate its needs. The AHA Centre EOC Alert Level remains on ORANGE and continues to coordinate closely with the affected ASEAN Member States, remaining on standby should ASEAN assistance be requested.
-DATA SOURCES
-ASEAN Disaster Monitoring &amp; Response System (DMRS), ASEAN Disaster Information Network (ADINet); ASEAN Specialised Meteorological Centre (ASMC);
-Indonesia: BNPB, BMKG;
-Philippines: NDRRMC, PHIVOLCS;
-Verified news media agencies
-
---- Report 7: Govt. Philippines (2026-06-09) ---
+--- Report 6: Govt. Philippines (2026-06-10) ---
 No summary available.
