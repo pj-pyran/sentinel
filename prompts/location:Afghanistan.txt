@@ -1,26 +1,32 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-06-10) ---
-SITUATION OVERVIEW
-Afghanistan is experiencing its highest levels of acute malnutrition on record: in 2026, acute malnutrition will impact 3.7 million children under five, including nearly a million impacted by severe acute malnutrition, as well as 1.2 million pregnant or breastfeeding women, according to IPC estimations. Many WFP-supported health clinics are facing a shortage of specialized nutritious foods and therefore unable to deliver life-saving treatment to malnourished children and women, leaving only a fraction of those in need able to access support.
-Regional conflicts are exacerbating the humanitarian crisis in Afghanistan, with staple food prices rising by up to 30 percent and transport costs tripling amid rerouted supply chains to bypass Iran, increased fuel prices and continued border closures with Pakistan. These pressures are particularly acute for imported nutrition commodities, with the result that one million children will be denied food assistance this year.
-Severe funding constraints have now forced WFP to halt cash assistance for returnees from Iran and Pakistan at all border crossing points, cutting off vital support to families arriving in highly vulnerable conditions and leaving response capacity insufficient to mount an immediate response, should another large-scale influx occur.
-
---- Report 2: WFP (2026-06-10) ---
+--- Report 1: WFP (2026-06-15) ---
 Key Highlights
 Exchange Rate and Trade Dynamics:
-• During the first week of June, the Afghani exchange rate remained stable at AFN 63.8/USD, showing no change from the previous week. The Afghani continues to remain stronger than both last year (+9%) and the three-year average (+16%), helping to moderate imported inflationary pressures.
-• Domestic markets continued to operate normally with generally adequate commodity availability, supported by ongoing domestic harvests, seasonal market arrivals, and sustained trade flows through regional corridors. However, transportation costs, regional trade uncertainties, and high dependence on imports continue to expose domestic supply chains to external market and geopolitical risks.
+• During the second week of June, the Afghani exchange rate depreciated slightly to AFN 64.1/USD. Despite the recent depreciation, the Afghani remains stronger than both last year (8%) and the three-year average (15%), continuing to help moderate imported inflationary pressures.
+• Domestic markets continued to operate normally with generally adequate commodity availability, supported by ongoing harvests, seasonal arrivals, and sustained trade flows through regional corridors. Improved supplies helped ease prices of several commodities and support relative market stability. However, import dependence, elevated transport costs, and regional uncertainties continue to expose domestic supply chains to external shocks.
 Food Items:
-• Overall, national average food prices showed a generally stable trend during the first week of June, with slight week-on-week declines across major staple food items.
-• Compared to last year, most food commodities continue to remain above their respective levels, particularly wheat grain (+12%), wheat flour (high-price +7%; low-price +10%), rice (high-quality +31%; low-quality +34%), cooking oil (+3%), sugar (+24%), and salt (+10%). Conversely, pulses (-12%) and bread (-4%) remained below last year's levels.
+• Overall, national average food prices remained broadly stable during the second week of June, with only minor week-on-week movements across most staple commodities.
+• Most food commodities remained above last year’s levels, particularly wheat grain (+12%), wheat flour (high-price
++ 8%; low-price +12%), rice (high-quality +31%; low-quality +34%), cooking oil (+3%), sugar (+20%), and salt (+10%). In contrast, pulses (-13%) and bread (-4%) remained below last year's levels.
 Vegetables:
-• Vegetable prices continued to ease during the first week of June, largely driven by improved seasonal availability and increased domestic supply.
-• Tomato prices recorded a significant weekly decline (-12.3%), continuing the downward trend observed in recent weeks. Onion and potato prices show negligible changes from last week, reflecting stable market conditions.
-• Compared to last year, potato prices remain substantially above last year's levels (+44%), while tomato prices remain moderately higher (+6%). In contrast, onion prices continue to remain significantly below last year (-24%).
+• Vegetable prices continued to ease during the week, mainly due to improved seasonal availability and domestic supply. Tomato prices recorded a sharp weekly decline (-10.9%), continuing the downward trend observed in recent weeks. Potato prices declined moderately (-1.8%), while onion prices remained broadly stable (-0.2%).
+• Compared to last year, potato prices remained substantially above their levels (+42%). In contrast, tomato prices were moderately below last year (-6%), while onion prices remained significantly lower (-25%), reflecting improved domestic availability.
 Non-Food Items:
-• Diesel prices remained broadly stable during the week (+0.4%) and remains modestly above last year (+4%).
-• Fertilizer prices (DAP and Urea) showed negligible week-on-week increases, while they remain significantly higher than last year, particularly DAP (+16%) and urea (+46%), continuing to exert pressure on agricultural production costs. Meanwhile, improved seed (-0.3%) and animal feed (-1.0%) recorded slight declines and remained relatively stable overall.
+• Diesel prices increased slightly during the week (+1.1%) and remained modestly above last year (+5%).
+• Fertilizer prices continued to rise, with DAP increasing by 1.4% and urea by 6.2% week-on-week. Compared to last year, DAP prices remained 17% higher, while urea prices were substantially higher (+55%), continuing to increase agricultural production costs. Meanwhile, improved seed (-0.4%) and animal feed (-0.4%) recorded slight declines and remained slightly below last year and the three-year average.
 Livestock and Labour Market:
-• The price of a one-year-old live female sheep declined by 6.8% during the week following elevated demand in the lead-up to Eid-ul-Adha. Despite the weekly decline, sheep prices remain broadly in line with last year and slightly above the three-year average.
-• Labour market conditions remained weak. While the casual labour wage remained stable at AFN 304/day, labour availability declined to 1.9 days per week. Labour availability remains substantially below both last year (-20%) and the three-year average (-20%), highlighting continued challenges in income-earning opportunities for vulnerable households who are dependent on daily wage labour.
+• The price of a one-year-old live female sheep declined (-1.0%) during the week and remains slightly below last year (-5%) and close to the three-year average (-2%).
+• Labour market conditions remained weak, with no significant improvement over the longer term. While the casual labour wage remained unchanged at AFN 304/day, labour availability improved to 1.9 days per week, increasing by 3.2% compared to last week. Nevertheless, labour availability remained significantly below both last year (-17%) and the three-year average (-18%), highlighting continued constraints on income-earning opportunities for vulnerable households dependent on daily-wage labour.
+
+--- Report 2: WHO (2026-06-14) ---
+Wild poliovirus type 1 (WPV1)
+Cases:No new WPV1 positive cases reported this week. In total, 52 WPV1-positive cases have been confirmed in 2025 to date (21 from Afghanistan and 31 from Pakistan in 2025) and 7 WPV1 cases reported in 2026 (4 from Afghanistan and 3 from Pakistan).
+Environment: Four new WPV1 positive environmental samples in 2026 from Pakistan reported this week. The new reported WPV1 environmental samples are: 2 from Balochistan province (1 each from Dera Bugti and Chaman), 2 from Bannu district of Kyber PakhtunKhwa province, with collection dates between 5th and 12th May 2026. In total, 745 WPV1-positive environmental samples have been reported in 2025 (94 from Afghanistan and 651 from Pakistan) and 123 WPV1-positive environmental samples reported in 2026 (34 from Afghanistan and 89 from Pakistan).
+Vaccine-derived poliovirus (VDPV)
+Cases:
+
+cVDPV2:No new positive cases reported this week. The cVDPV2 case count to date in 2026 is 6 (5 from Somalia and 1 from Sudan) and in 2025 is 47 (31 from Yemen, 13 from Sudan, 2 from Somalia and 1 from Djibouti).
+Environment
+cVDPV1:No new cVDPV1 isolates were reported this week. cVDPV1 were confirmed from 10 environmental samples in 2025 (all from Djibouti).
+cVDPV2: No new cVDPV2 isolates were reported this week. To date, cVDPV2 was confirmed in 11 sewage water samples in 2026 (8 from Somalia and 3 from Sudan), and In 2025 from 58 samples (17 from Djibouti, 15 from Yemen, 13 from Somalia, 7 from occupied Palestinian territory, and 6 from Sudan)
