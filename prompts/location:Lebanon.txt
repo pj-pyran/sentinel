@@ -1,41 +1,21 @@
 Crisis / situation: Lebanon
 
---- Report 1: Govt. Lebanon (2026-06-11) ---
-The National Mental Health Programme (NMHP) at the Ministry of Public Health continues to lead and coordinate the Mental Health and Psychosocial Support (MHPSS) Coordination Group, co-chaired by WHO and UNICEF, with 100+ partner actors integrating MHPSS across sectors in Lebanon's emergency response. This snapshot provides key updates on the national MHPSS response in the context of the escalation of the war. It highlights selected indicators on service delivery and response efforts across multiple platforms.
+--- Report 1: Health Cluster (2026-06-15) ---
+The security situation continues to disrupt health service delivery, with attacks on healthcare persisting despite the ceasefire and further straining an already fragile health system. Since 1 June, 14 incidents have been recorded, resulting in 6 deaths and 73 injuries among healthcare workers.
+Since the ceasefire announcement on 17 April, a total of 58 attacks have been documented, causing 37 deaths and 173 injuries. Overall, since 2 March, 204 incidents have been recorded through the Surveillance of Attacks on Healthcare (SSA) system, resulting in 135 deaths and 404 injuries.
+These figures indicate no meaningful improvement in the operating environment for health service delivery.
+The cumulative impact of these attacks continues to erode system capacity, disrupt essential services, and limit access to life-saving care. In addition to direct casualties and infrastructure damage, insecurity is reducing service availability and utilization, particularly among vulnerable populations in conflict-affected areas.
+Health service availability remains constrained due to facility closures and reduced operational capacity. Access to care is particularly uneven in southern governorates and areas of return, where insecurity, movement restrictions, and infrastructure damage limit both service delivery and uptake. Facilities are operating below capacity due to workforce shortages, supply gaps, and security concerns, while patients face significant barriers, including high costs, shortages of essential medicines, and limited access to specialized services.
+Findings from the Rapid Health Assessment (May 2026) and partner observations indicate sustained pressure on the health system, with persistent service gaps and rising demand continuing to strain limited resources and weaken response capacity. Despite eorts by the Ministry of Public Health and Health Sector partners to expand subsidized services, aordability constraints, supply shortages, and limited referral capacity remain key barriers to access, particularly for vulnerable groups. Significant gaps persist in hospitalization due to high costs and limited coverage of support programs, as well as in access to essential medications.
 
---- Report 2: OCHA (2026-06-09) ---
-HIGHLIGHTS
-
-Hostilities continued with airstrikes and five new displacement orders covering 17 localities across Bekaa, the South and Nabatieh governorates triggering additional displacement.
-At least 3,613 deaths and 11,072 injuries due to hostilities recorded by the Ministry of Public Health since 2 March.
-A total of 134,800 Internally Displaced Persons were registered in 639 collective shelters on 8 June.
-Over 12.6 million hot and cold meals distributed by Food Security and Agriculture Sector partners since 2 March.
-249,505 IDPs and other affected people have benefitted from protection activities, of whom 62 per cent women and girls, as of 8 June.
-WASH assistance reached over 1 million internally displaced persons across collective shelters, host communities, and out-of-shelter settings.
-Government report on the first three months of response highlights critical shortfalls in response capacity, noting reduced funding and in-kind contributions compared to 2024.
-
-SITUATION OVERVIEW
-Hostilities continued between 5 and 8 June, with new large-scale population movements attributable to displacement orders and/or airstrikes, including the airstrike on Beirut’s southern suburbs on 7 June. At least five displacement orders were issued during the reporting period affecting 17 localities across 5 districts of the South, Nabatieh and Bekaa Governorates.
-According to the national Disaster Risk Management (DRM) unit, approximately 4,000 families were displaced in Nabatieh governorate and 30,000 in South governorate (representing around 85 per cent of those remaining) on 7 June. Preliminary estimates also indicated approximately 50,000 families, or around 200,000 people, were displaced from Beirut's southern suburbs on the same day. The majority of displaced families stayed in open spaces or in temporary tents while a small number moved to collective shelters in North governorate.
-The renewed population movements continued to put increased pressure on already overstretched collective shelters and host communities. As 8 June, 134,800 people (35,600 families) were registered in 639 collective shelters. Local authorities and humanitarian partners reported that two collective shelters in two localities were temporarilyevacuated during the reporting period ue to displacement orders. Collective shelters in Beirut, Tyre, and Saida are at full capacity, while shelters in North governorate have open capacity. Authorities in Beirut and the North are exploring erecting additional tented accommodation to absorb continuing arrivals.
-According to the Ministry of Public Health (MoPH), at least 3,613 people have been killed (including 344 women and 245 children) and 11,072 injured (including 1,360 women and 967 children) due to hostilities since 2 March. Threats and attacks impacting healthcare continue to be reported, with 201 attacks, resulting in 134 deaths among on-duty healthcare workers and 391 injuries recorded between 2 March and 8 June 2026.
-The Presidency of the Council of Ministers has published a Comprehensive Response Report (March-May 2026) detailing the Lebanese Government's national emergency response to the escalation of hostilities that began on 2 March 2026 and which led to the internal displacement of approximately one million people. The report outlines immediate actions taken by the Government, including activating National Emergency Operations Room and deploying a tiered coordination architecture spanning national, sub-national, and local levels, drawing on a pre-existing National Preparedness Plan to rapidly open collective shelters within the first 72 hours.
-The report also features the multisectoral response encompassing food security, health, WASH, shelter, education, protection, and social stability, supported by real-time digital dashboards tracking displacement, aid distribution, and in-kind donation flows to ensure transparency and accountability. The report highlights the critical funding shortfall compared to the 2024 response, with the initial 2026 Flash Appeal (March-May) achieving only 60.3 per cent coverage (USD 185.9 million of USD 308.3 million requested) against a 94.9 per cent coverage rate in 2024, and in-kind donations received at only 18 per cent of the volume recorded during the previous conflict period — underscoring the growing risk that donor fatigue and shifting global priorities pose to the continuity and scale of humanitarian assistance as needs remain acute and displacement unresolved.
-
---- Report 3: UNRWA (2026-06-09) ---
-All information is valid for 20 May - 2 June 2026
-Key Points
-
-A 10-day ceasefire between Israel and Lebanon came into effect on 16 April. It was extended by three weeks on 23 April and again by 45 days on 15 May, bringing the current end date to mid-June. US-facilitated political negotiations continued on 2 June at the State Department in Washington, with the parties reviewing progress and working toward further extending the ceasefire.
-The humanitarian situation in Lebanon remains fragile and unpredictable, with hostilities continuing despite the ceasefire, alongside periodic escalations, including airstrikes, evacuation warnings, and new displacement, particularly in the south of the country.
-UNRWA launched its emergency response in Lebanon on 4 March. Since then, the Agency has been operating two collective emergency shelters[1]: Siblin Training Centre in Saida Area and Battir School in Nahr el-Bared Camp in northern Lebanon.
-By 2 June, a total of 2,148 displaced people from 661 families were registered in the two UNRWA emergency shelters. This represents a significant increase from the 1,264 people recorded in the previous reporting period and follows the issuance of evacuation warnings and increased intensity of military activity, particularly south of the Litani River.
-Between 20 May and 2 June, no security incidents affecting on-duty UNRWA personnel or facilities were reported.
-
-Overall Situation
-
-By 26 May, the Ministry of Social Affairs had documented the displacement of over 1.1 million individuals[2], including 127,714 people in 631 shelters[3]. Monitoring returns remains challenging due to the fluidity of population movements.
-On 27 May, Israeli forces issued evacuation warnings for all areas south of the Zahrani River. This included areas such as Tyre City, which has three adjacent Palestine Refugee camps, as well as Adloun and Sarafand, where Palestine Refugees reside.
-Airstrikes on 25 and 28 May targeted the areas near the Palestine Refugee camps of Rashidieh and El Buss. Combined with evacuation warnings, this resulted in a significant exodus from the camps, with around one-third of the camps’ usual population of 28,000 estimated to have left. Most displaced families seek shelter with relatives or host communities.
-During the reporting period, Hezbollah continued to launch drones and rockets into northern Israel. On 30 May alone, Israeli authorities reported that over 25 projectiles were launched from Lebanon into Israel.
-In a statement on 1 June, Israeli Prime Minister Benjamin Netanyahu said he had instructed Israeli forces to strike targets in Beirut. In reaction, large numbers of people left the southern suburbs of the city.
+--- Report 2: WHO (2026-06-14) ---
+Situation overview
+Impact of ongoing airstrikes
+• Lebanon’s security situation remained highly unstable over the past two weeks, with hostilities concentrated in the south and periodic strikes affecting areas near Beirut.
+• Ceasefire and de-escalation efforts failed to fully halt the violence, resulting in continued casualties, damage to civilian infrastructure, and heightened protection concerns.
+• The humanitarian situation deteriorated significantly between 29 May and 1 June, driven by escalating insecurity, increasing humanitarian needs, and large-scale displacement following 10 displacement orders that affected at least 34 localities.
+• On 1 June, threats of major airstrikes in the southern suburbs of Beirut triggered precautionary population movements and fears of a broader expansion of the conflict into the capital, prompting intensified diplomatic efforts to prevent further escalation.
+• Overall, the reporting period was characterized by heightened insecurity, significant displacement, continued attacks on healthcare workers and health facilities, and growing pressure on humanitarian services.
+Casualties and injury overview
+• MoPH reported a cumulative number of casualties since 2nd March has reached 14,259 including 3,526 deaths (including 245 children and 339 women) and 10,733 injuries as of 6:00pm on June 4, 2026., Fig.1 Causality Distribution by day since March 2, 2026.
+• Out of the total injured, 5,417 (51%) were treated at Emergency rooms as outpatient 4,494 (42%) admitted to regular wards and 822 (7%) admitted to ICU.
