@@ -1,13 +1,31 @@
 Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026
 
---- Report 1: Govt. Philippines (2026-06-15) ---
+--- Report 1: IFRC (2026-06-16) ---
+Description of the Event
+Crisis Category Supporting Document
+Date of event
+08-06-2026
+What happened, where and when?
+On 8 June 2026 at 7:37 a.m., a powerful magnitude 7.8 earthquake struck off the coast of Maasim, Sarangani, with its epicentre located 33 km northeast of Sarangani Province. This event marks the most powerful earthquake to strike the Philippines since 1990. The tremors were felt as far north as Leyte in the Philippines and as far south as Sulawesi, Indonesia, with the highest reported intensity reaching Intensity VII in General Santos City.
+The earthquake was tectonic in origin and was caused by movement along the Cotabato Trench. As of 9:00 p.m. on 10 June, the Philippine Institute of Volcanology and Seismology (PHIVOLCS) had recorded at least 2,000 aftershocks, the strongest of which registered a magnitude of 6.5. Two additional aftershocks exceeded magnitude 6.0, while another measured magnitude 5.8.
+A tsunami warning was issued immediately following the initial tremor, prompting widespread precautionary evacuations across the coastal areas of Sarangani, Davao Occidental, Tawi-Tawi, Sulu, Basilan, Zamboanga del Sur, Zamboanga Sibugay, Sultan Kudarat, and South Cotabato. PHIVOLCS recorded tsunami waves in six locations: Maasim and Kiamba in Sarangani; Kalamansig in Sultan Kudarat; Mati in Davao Oriental; Zamboanga City; and Tandag City in Surigao del Sur. The highest wave reached approximately 1.4 metres. The tsunami warning was officially lifted on the day of impact.
+The earthquake severely affected the SOCCSKSARGEN Region (Region XII), Davao Region (Region XI), and parts of the Zamboanga Peninsula (Region IX). The disaster displaced thousands of families and caused extensive damage to critical infrastructure, including residential homes, schools, airports, roads, bridges, government facilities, power grids, and healthcare facilities.
+According to a PHIVOLCS report released on 12 June, more than 2,800 aftershocks have been recorded following the magnitude 7.8 earthquake in Sarangani. Of these, 755 aftershocks were located and plotted, while 58 were felt by residents in affected areas. The recorded aftershocks ranged in magnitude from 1.2 to 6.4.
+
+--- Report 2: Govt. Philippines (2026-06-16) ---
 No summary available.
 
---- Report 2: Govt. Philippines (2026-06-15) ---
+--- Report 3: Govt. Philippines (2026-06-15) ---
 No summary available.
 
---- Report 3: Govt. Philippines (2026-06-14) ---
+--- Report 4: Govt. Philippines (2026-06-15) ---
 No summary available.
 
---- Report 4: Govt. Philippines (2026-06-14) ---
+--- Report 5: Govt. Philippines (2026-06-15) ---
+No summary available.
+
+--- Report 6: Govt. Philippines (2026-06-14) ---
+No summary available.
+
+--- Report 7: Govt. Philippines (2026-06-14) ---
 No summary available.
