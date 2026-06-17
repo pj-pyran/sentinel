@@ -1,6 +1,9 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: UNRWA (2026-06-16) ---
+--- Report 1: IOM (2026-06-17) ---
+No summary available.
+
+--- Report 2: UNRWA (2026-06-16) ---
 Highlights
 The Gaza Strip
 
@@ -9,7 +12,7 @@ Multiple crossings experienced temporary closures following the escalation in re
 The WASH Cluster has developed a coordinated rodent control plan, implemented with support from UNDP, WHO, UNICEF, UNRWA and other partners, and in close coordination with the Ministry of Health. UNRWA contributes to joint risk assessment, coordination, and surveillance with WHO, UNDP and the Ministry of Health, and implements targeted pest control in high-risk displacement sites and installations, large-scale waste removal, hygiene promotion and community outreach near its displacement sites.
 Severe shortages of engine oil, tyres, and spare parts are placing life-saving humanitarian operations at risk across the Gaza Strip. Health services are particularly affected, as most facilities rely on generators that face frequent breakdowns. At the same time, water production, pumping and distribution systems — alongside wastewater and solid waste management — are at imminent risk of failure, as they depend almost entirely on ageing generators that are operating beyond design limits. Approximately 25 per cent of UNRWA vehicles — including water tankers and waste collection trucks — and 25 per cent of UNRWA generators are already out of service. Without urgent resupply, disruptions to healthcare, safe water access, and waste collection are expected to rapidly escalate public health risks and operational constraints.
 
---- Report 2: Insecurity Insight (2026-06-16) ---
+--- Report 3: Insecurity Insight (2026-06-16) ---
 Attacks on Health Care
 in the occupied Palestinian territory
 Data collected by Insecurity Insight shows that between 07 October 2023 and 17 May 2026 at least 3,281 incidents of violence against or obstruction of access to health care took place across the occupied Palestinian territory. 95% of incidents were attributed to Israeli forces. This includes:
