@@ -1,6 +1,15 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: Insecurity Insight (2026-06-16) ---
+--- Report 1: UNRWA (2026-06-16) ---
+Highlights
+The Gaza Strip
+
+Israeli forces continued high-intensity military activities west of the Yellow Line, conducting multiple air and drone strikes targeting infrastructure, assets, and personnel suspected of links to the de facto authorities, with multiple civilian casualties reported. Israeli forces reportedly advanced across multiple areas, further shrinking humanitarian space across the Gaza Strip.
+Multiple crossings experienced temporary closures following the escalation in regional tension, significantly slowing down the delivery of critical supplies into Gaza.
+The WASH Cluster has developed a coordinated rodent control plan, implemented with support from UNDP, WHO, UNICEF, UNRWA and other partners, and in close coordination with the Ministry of Health. UNRWA contributes to joint risk assessment, coordination, and surveillance with WHO, UNDP and the Ministry of Health, and implements targeted pest control in high-risk displacement sites and installations, large-scale waste removal, hygiene promotion and community outreach near its displacement sites.
+Severe shortages of engine oil, tyres, and spare parts are placing life-saving humanitarian operations at risk across the Gaza Strip. Health services are particularly affected, as most facilities rely on generators that face frequent breakdowns. At the same time, water production, pumping and distribution systems — alongside wastewater and solid waste management — are at imminent risk of failure, as they depend almost entirely on ageing generators that are operating beyond design limits. Approximately 25 per cent of UNRWA vehicles — including water tankers and waste collection trucks — and 25 per cent of UNRWA generators are already out of service. Without urgent resupply, disruptions to healthcare, safe water access, and waste collection are expected to rapidly escalate public health risks and operational constraints.
+
+--- Report 2: Insecurity Insight (2026-06-16) ---
 Attacks on Health Care
 in the occupied Palestinian territory
 Data collected by Insecurity Insight shows that between 07 October 2023 and 17 May 2026 at least 3,281 incidents of violence against or obstruction of access to health care took place across the occupied Palestinian territory. 95% of incidents were attributed to Israeli forces. This includes:
@@ -30,20 +39,3 @@ West Bank and East Jerusalem
 07 June 2026: In Hebron city and governorate, the courtyard of Yatta Governmental Hospital was stormed by Israeli forces. Source: Quds News Network
 08 June 2026: In Al-Tabqa village, south of Dura town, Hebron governorate, ambulance workers were prevented by Israeli forces from reaching people who had been injured in an assault during a raid. Source: Quds News Network
 09 June 2026: In Salfit city and governorate, an ambulance was obstructed by Israeli settlers while traveling along Hares roads. Source: Quds News Network
-
---- Report 2: OCHA (2026-06-14) ---
-Highlights
-
-The situation in the Occupied Palestinian Territory is rapidly deteriorating, the UN Secretary-General warns.
-In the West Bank, more than one third of essential medicines is out of stock and over 11,000 surgeries have been postponed since the beginning of 2026, the Palestinian Ministry of Health warns.
-Since January, more than 1,000 settler attacks caused casualties or property damage across more than 230 communities, with over 2,200 Palestinians displaced in this context.
-Since January, more than 100 incidents of demolition or settler violence have damaged or destroyed over 190 structures related to water and sanitation across the West Bank, increasing reliance on emergency water trucking in vulnerable communities.
-In Gaza, over 70 per cent of people rely on trucked water, but funding gaps are putting this supply at risk.
-Displaced families in overcrowded sites, damaged buildings and makeshift shelters will soon be exposed to extreme summer temperatures, while access restrictions and lengthy clearance procedures continue to affect the timely delivery of critical shelter and non-food items and funding shortfalls threaten procurement and pre-positioning of winter supplies.
-While some 2,000 sites have been treated for pests since mid-May, skin diseases and infections continue to rise owing to limited access to safe water, sanitation and treatment, and access to landfills remaining restricted, causing continuous accumulation of waste in populated areas.
-
-Overview
-The situation across the Occupied Palestinian Territory is deteriorating quickly. This was articulated most recently by Secretary-General António Guterres on 10 June in his remarks to the Security Council.
-“Despite the ceasefire announced eight months ago,” he said, “Gaza still faces profound uncertainty and immense human suffering. Violence is on the rise, with civilians killed on a daily basis. Humanitarian operations remain heavily constrained. Basic human needs – for clean water, sanitation, food, shelter, health care, and more – are going unmet. And the Israeli Government is declaring its intent to control 70 per cent of the Strip.”
-With regards to the West Bank, Mr. Guterres cited “alarming reports ]…[ of settler violence – now averaging six attacks per day. The demolition of homes, destruction of farms, and confiscation of land. The relentless expansion of illegal Israeli settlements. The ongoing displacement of Palestinians at levels not seen since 1967. The threat of an attempted annexation that would – like the decades-long occupation – have no legal validity.”
-The Secretary-General warned of a “presumption of impunity” throughout the Occupied Palestinian Territory. “These injustices must stop,” he said. “Member States must comply with all their obligations under international law. No exceptions.”
