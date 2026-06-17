@@ -72,15 +72,3 @@ Non-Food Items:
 Livestock and Labour Market:
 • The price of a one-year-old live female sheep declined (-1.0%) during the week and remains slightly below last year (-5%) and close to the three-year average (-2%).
 • Labour market conditions remained weak, with no significant improvement over the longer term. While the casual labour wage remained unchanged at AFN 304/day, labour availability improved to 1.9 days per week, increasing by 3.2% compared to last week. Nevertheless, labour availability remained significantly below both last year (-17%) and the three-year average (-18%), highlighting continued constraints on income-earning opportunities for vulnerable households dependent on daily-wage labour.
-
---- Report 4: WHO (2026-06-14) ---
-Wild poliovirus type 1 (WPV1)
-Cases:No new WPV1 positive cases reported this week. In total, 52 WPV1-positive cases have been confirmed in 2025 to date (21 from Afghanistan and 31 from Pakistan in 2025) and 7 WPV1 cases reported in 2026 (4 from Afghanistan and 3 from Pakistan).
-Environment: Four new WPV1 positive environmental samples in 2026 from Pakistan reported this week. The new reported WPV1 environmental samples are: 2 from Balochistan province (1 each from Dera Bugti and Chaman), 2 from Bannu district of Kyber PakhtunKhwa province, with collection dates between 5th and 12th May 2026. In total, 745 WPV1-positive environmental samples have been reported in 2025 (94 from Afghanistan and 651 from Pakistan) and 123 WPV1-positive environmental samples reported in 2026 (34 from Afghanistan and 89 from Pakistan).
-Vaccine-derived poliovirus (VDPV)
-Cases:
-
-cVDPV2:No new positive cases reported this week. The cVDPV2 case count to date in 2026 is 6 (5 from Somalia and 1 from Sudan) and in 2025 is 47 (31 from Yemen, 13 from Sudan, 2 from Somalia and 1 from Djibouti).
-Environment
-cVDPV1:No new cVDPV1 isolates were reported this week. cVDPV1 were confirmed from 10 environmental samples in 2025 (all from Djibouti).
-cVDPV2: No new cVDPV2 isolates were reported this week. To date, cVDPV2 was confirmed in 11 sewage water samples in 2026 (8 from Somalia and 3 from Sudan), and In 2025 from 58 samples (17 from Djibouti, 15 from Yemen, 13 from Somalia, 7 from occupied Palestinian territory, and 6 from Sudan)
