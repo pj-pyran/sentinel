@@ -6,7 +6,13 @@ No summary available.
 --- Report 2: Govt. Philippines (2026-06-17) ---
 No summary available.
 
---- Report 3: AHA Centre (2026-06-16) ---
+--- Report 3: Govt. Philippines (2026-06-17) ---
+No summary available.
+
+--- Report 4: Govt. Philippines (2026-06-17) ---
+No summary available.
+
+--- Report 5: AHA Centre (2026-06-16) ---
 OVERVIEW: At 1027 HRS UTC+7 on 16 June 2026, BMKG reported a magnitude 6.7 earthquake (depth 16 km, corrected from 10km), with the epicentre located on land at 1.04° S and 120.23 E°, about 42 km southeast of Palu, Central Sulawesi. BMKG modeling results indicated no tsunami potential. Meanwhile, as of 1330H UTC+7, BMKG monitoring showed 71 aftershocks with the highest magnitude being M5.2.
 PRELIMINARY ANALYSIS: According to BMKG, considering the location of the epicentre and the depth of the hypocentre, the earthquake was a shallow earthquake caused by the activity of the Sausu fault. BMKG’s analysis of the source mechanism indicated that the earthquake had an oblique normal faulting mechanism with a downward strike-slip movement. Based on its magnitude and depth, the earthquake was expected to generate moderate to severe ground shaking across the affected areas.
 IMPACTS AND DAMAGES: BMKG and BNPB reported that the earthquake generated strong ground shaking across Central Sulawesi, reaching VII MMI in Palolo and Sigi, VI–VII MMI in Torue, Parigi Moutong, and South Parigi, and V–VI MMI in Palu City and Sigi Biromaru. Tremors were also felt in Donggala and Poso. Reports indicate that residents in several affected areas panicked and evacuated their homes due to concerns over possible aftershocks.
@@ -19,7 +25,7 @@ BMKG urged the public to stay away from buildings cracked or damaged by the eart
 
 The AHA Centre continues to closely monitor the situation in coordination with BNPB and will provide updates as necessary. The AHA Centre EOC remains at ORANGE Alert level, activated following the M7.8 Earthquake in Sarangani that affected North Sulawesi, Indonesia and Regions IX, XI, XII, and BARMM, Philippines, and is maintaining close coordination with BNPB Indonesia and NDRRMC Philippines. The AHA Centre remains on standby should the affected countries welcome assistance from ASEAN.
 
---- Report 4: IFRC (2026-06-16) ---
+--- Report 6: IFRC (2026-06-16) ---
 Description of the Event
 Crisis Category Supporting Document
 Date of event
@@ -31,14 +37,5 @@ A tsunami warning was issued immediately following the initial tremor, prompting
 The earthquake severely affected the SOCCSKSARGEN Region (Region XII), Davao Region (Region XI), and parts of the Zamboanga Peninsula (Region IX). The disaster displaced thousands of families and caused extensive damage to critical infrastructure, including residential homes, schools, airports, roads, bridges, government facilities, power grids, and healthcare facilities.
 According to a PHIVOLCS report released on 12 June, more than 2,800 aftershocks have been recorded following the magnitude 7.8 earthquake in Sarangani. Of these, 755 aftershocks were located and plotted, while 58 were felt by residents in affected areas. The recorded aftershocks ranged in magnitude from 1.2 to 6.4.
 
---- Report 5: Govt. Philippines (2026-06-16) ---
-No summary available.
-
---- Report 6: Govt. Philippines (2026-06-15) ---
-No summary available.
-
---- Report 7: Govt. Philippines (2026-06-15) ---
-No summary available.
-
---- Report 8: Govt. Philippines (2026-06-15) ---
+--- Report 7: Govt. Philippines (2026-06-16) ---
 No summary available.
