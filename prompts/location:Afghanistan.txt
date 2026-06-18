@@ -1,6 +1,29 @@
 Crisis / situation: Afghanistan
 
---- Report 1: OCHA (2026-06-16) ---
+--- Report 1: IFRC (2026-06-17) ---
+A. SITUATION ANALYSIS
+Description of the crisis
+Since the beginning of 2025 until 30 April 2026, Afghanistan has witnessed the return of more than 3.42 million Afghan nationals (returnees and deportees) from neighbouring countries - one of the largest cross-border population movements recorded in the region since 2021.
+According to data published by the International Organization for Migration (IOM) and United Nations High Commissioner for Refugees (UNHCR), approximately 2.1 million individuals returned from Iran, while over 1.25 million returned from Pakistan, with smaller but growing movements observed from Tajikistan, Türkiye, and other countries. These movements form part of a longer trend: an estimated 5.8 million Afghans have returned since September 2023, equivalent to a 10–12 per cent increase in the country's population over two years.
+The scale, pace, and sustained nature of these returns continue to exacerbate Afghanistan's already severe humanitarian crisis. More than half of returnees arrived through western and eastern border provinces where local infrastructure, health systems, shelter capacity, and livelihood opportunities remain critically overstretched. Humanitarian partners report that despite the winter season traditionally limiting mobility, cross-border returns remained consistently high through late 2025 and into the first quarter of 2026, indicating that deportation policies, documentation pressures, and protection concerns continue to outweigh seasonal constraints on movement.
+Returnees from Pakistan
+Based on data from UNHCR and Afghan Red Crescent Society (ARCS) border monitoring reports, between 1 January 2025 and 30 April 2026, an estimated 1,335,800 Afghans returned from Pakistan, of whom approximately 208,200 (15 per cent) were forcibly returned or deported.
+The return trend accelerated following the implementation of the second phase of the government of Pakistan’s ‘Illegal Foreigners Repatriation Plan’ (IFRP) in April 2025, initially targeting undocumented Afghans and holders of Afghan Citizen Cards (ACC). On 31 July 2025, the Government of Pakistan announced the expansion of the repatriation plan to include holders of Proof of Registration (PoR) cards, significantly increasing uncertainty among the Afghan population residing in the country.
+Conditions for Afghans in Pakistan deteriorated sharply over the reporting period, with increased arrests, detention, evictions, and restrictions on movement and access to services. These pressures generated a high proportion of forced and pre-emptive returns, often undertaken under distressing conditions and with minimal preparation. At the same time, escalating tensions between Pakistan and Afghanistan resulted in cross-border hostilities, intermittent border closures, and disruptions to trade and humanitarian access, producing congestion and unpredictable population movements at key crossings.
+According to operational monitoring by the ARCS, the highest daily influx from Pakistan during the reporting period was recorded in November 2025, with more than 9,800 individuals crossing in a single day. Most returnees entered Afghanistan through the official border crossings at Torkham (Nangarhar)and Spin Boldak (Kandahar), while smaller cross-border movements were observed through Angur Ada Border Crossing and informal crossing routes in Helmand province.
+Despite temporary fluctuations linked to border closures and political negotiations, daily arrivals remained elevated through the first four months of 2026, suggesting that return movements from Pakistan are likely to continue throughout the remainder of the year.
+Returnees from Iran
+Returns from Iran continued to represent the largest share of cross-border movements during the reporting period. According to UNHCR and IOM border monitoring reports, between 1 January 2025 and 30 April 2026, an estimated 2,099,600 Afghan nationals returned from Iran, with approximately 1,435,400 deported. Accounting for nearly 62 per cent of all recorded returns during the period.
+Of these returns, more than 1.3 million were undocumented or deported individuals, reflecting intensified migration enforcement and reduced access to temporary residency mechanisms inside Iran. Return movements rose sharply between June and September 2025, with daily arrivals at times exceeding 35,000 individuals per day at the Islam Qala Border Crossing in Herat, making it one of the largest single border movements recorded in the region in recent years.
+Although daily arrival rates decreased after the mid-year peak, returns remained consistently high through late 2025 and into early 2026. Most returnees entered through Islam Qala and Milak-Zaranj Border Crossing, often arriving with limited belongings, depleted savings, and urgent humanitarian needs.
+Humanitarian assessments conducted by UNHCR indicate that many returnee households from Iran face acute vulnerabilities upon arrival, including lack of shelter, loss of livelihoods, absence of civil documentation, and limited access to health care. Women, children, older persons, persons with disabilities, and unaccompanied and separated children continue to face heightened protection risks.
+Returnees from Tajikistan
+In Tajikistan, entry for Afghan nationals remains limited to those possessing valid passports and visas. At the same time, humanitarian actors, including UNHCR, continue to report cases of arbitrary deportation involving recognized refugees and asylum seekers, heightening concerns about incidences of refoulement.
+Between January 2025 and April 2026, approximately 2760 Afghanswere recorded returning from Tajikistan. Although fewer than from Iran and Pakistan, these returns continue to raise serious protection concerns due to legal uncertainty, family separation, and restricted access to asylum procedures.
+Humanitarian Outlook
+The sustained return of more than 3.4 million people in sixteen months continues to place extraordinary pressure on Afghanistan’s humanitarian response capacity. Border provinces including Herat, Nangarhar, Kandahar, and Nimroz are experiencing increased strain on reception facilities, emergency health services, shelter assistance, and protection referral systems. With deportation policies in neighbouring countries expected to continue throughout 2026, humanitarian actors anticipate that cross-border returns will remain at significant levels, further increasing immediate humanitarian needs and long-term reintegration challenges across Afghanistan.
+
+--- Report 2: OCHA (2026-06-16) ---
 Funding shortfalls threaten Afghanistan's humanitarian response
 Humanitarian organizations in Afghanistan are facing a growing challenge in responding to widespread needs with increasingly limited resources. Across the country, millions of people are struggling with the combined effects of food insecurity, economic hardship, climate-related shocks, displacement and protection risks. Yet funding for the humanitarian response remains far below what is required to meet these needs.
 As of the end of May, the 2026 Humanitarian Needs and Response Plan received just US$269 million against a requirement of $1.71 billion, leaving a funding gap of $1.44 billion. This represents a decrease of $110 million compared with funding received at the same time in 2025, despite persisting humanitarian needs across the country.
@@ -43,7 +66,7 @@ During Ramadan, he and his wife set aside a portion of the bread and send it to 
 Afghanistan: Humanitarian Needs and Response Plan 2026, Response Overview (1 January - 31 March 2026) - Afghanistan | ReliefWeb
 Afghanistan: Cash Working Group Monitoring Dashboard (Jan - Mar 2026) - Afghanistan | ReliefWeb
 
---- Report 2: WHO (2026-06-16) ---
+--- Report 3: WHO (2026-06-16) ---
 Wild poliovirus type 1 (WPV1)
 Cases: Two new WPV1 positive cases in 2026 from Afghanistan reported this week. The 2 new WPV1 cases are one each from: Kunar province (Nari district) and Hilmand province (NahrE-Saraj district) with dates of onset on 14th April and 7 th May 2026 respectively noting that Kunar WPV1 index case was identified by positive contact. In total, 52 WPV1-positive cases have been confirmed in 2025 to date (21 from Afghanistan and 31 from Pakistan in 2025) and 9 WPV1 cases reported in 2026 (6 from Afghanistan and 3 from Pakistan).
 Environment: One new WPV1 positive environmental sample in 2026 from Pakistan reported this week. The new reported WPV1 environmental sample is from Kyber Pakhtunkhwa province (Peshawar district), with collection date on 14th May 2026. In total, 745 WPV1-positive environmental samples have been reported in 2025 (94 from Afghanistan and 651 from Pakistan) and 124 WPV1-positive environmental samples reported in 2026 (34 from Afghanistan and 90 from Pakistan).
@@ -53,22 +76,3 @@ Cases:
 Environment
 • cVDPV1: No new cVDPV1 isolates were reported this week. cVDPV1 were confirmed from 10 environmental samples in 2025 (all from Djibouti).
 • cVDPV2: No new cVDPV2 isolates were reported this week. To date, cVDPV2 was confirmed in 11 sewage water samples in 2026 (8 from Somalia and 3 from Sudan), and In 2025 from 58 samples (17 from Djibouti, 15 from Yemen, 13 from Somalia, 7 from occupied Palestinian territory, and 6 from Sudan).
-
---- Report 3: WFP (2026-06-15) ---
-Key Highlights
-Exchange Rate and Trade Dynamics:
-• During the second week of June, the Afghani exchange rate depreciated slightly to AFN 64.1/USD. Despite the recent depreciation, the Afghani remains stronger than both last year (8%) and the three-year average (15%), continuing to help moderate imported inflationary pressures.
-• Domestic markets continued to operate normally with generally adequate commodity availability, supported by ongoing harvests, seasonal arrivals, and sustained trade flows through regional corridors. Improved supplies helped ease prices of several commodities and support relative market stability. However, import dependence, elevated transport costs, and regional uncertainties continue to expose domestic supply chains to external shocks.
-Food Items:
-• Overall, national average food prices remained broadly stable during the second week of June, with only minor week-on-week movements across most staple commodities.
-• Most food commodities remained above last year’s levels, particularly wheat grain (+12%), wheat flour (high-price
-+ 8%; low-price +12%), rice (high-quality +31%; low-quality +34%), cooking oil (+3%), sugar (+20%), and salt (+10%). In contrast, pulses (-13%) and bread (-4%) remained below last year's levels.
-Vegetables:
-• Vegetable prices continued to ease during the week, mainly due to improved seasonal availability and domestic supply. Tomato prices recorded a sharp weekly decline (-10.9%), continuing the downward trend observed in recent weeks. Potato prices declined moderately (-1.8%), while onion prices remained broadly stable (-0.2%).
-• Compared to last year, potato prices remained substantially above their levels (+42%). In contrast, tomato prices were moderately below last year (-6%), while onion prices remained significantly lower (-25%), reflecting improved domestic availability.
-Non-Food Items:
-• Diesel prices increased slightly during the week (+1.1%) and remained modestly above last year (+5%).
-• Fertilizer prices continued to rise, with DAP increasing by 1.4% and urea by 6.2% week-on-week. Compared to last year, DAP prices remained 17% higher, while urea prices were substantially higher (+55%), continuing to increase agricultural production costs. Meanwhile, improved seed (-0.4%) and animal feed (-0.4%) recorded slight declines and remained slightly below last year and the three-year average.
-Livestock and Labour Market:
-• The price of a one-year-old live female sheep declined (-1.0%) during the week and remains slightly below last year (-5%) and close to the three-year average (-2%).
-• Labour market conditions remained weak, with no significant improvement over the longer term. While the casual labour wage remained unchanged at AFN 304/day, labour availability improved to 1.9 days per week, increasing by 3.2% compared to last week. Nevertheless, labour availability remained significantly below both last year (-17%) and the three-year average (-18%), highlighting continued constraints on income-earning opportunities for vulnerable households dependent on daily-wage labour.
