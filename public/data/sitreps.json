@@ -1,5 +1,56 @@
 [
   {
+    "id": "rw-4217043",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Measles, Rubella, and Congenital Rubella Syndrome Surveillance in the Americas (Vol. 32, No. 19 - 20) - 23 May 2026",
+    "source": "PAHO",
+    "crisis": "Humanitarian Crisis",
+    "location": "Americas",
+    "scope": "regional",
+    "date": "2026-06-19",
+    "content": "No summary available.",
+    "url": "https://reliefweb.int/report/world/measles-rubella-and-congenital-rubella-syndrome-surveillance-americas-vol-32-no-19-20-23-may-2026",
+    "region": "Other",
+    "subregion": null,
+    "rw_id": "4217043",
+    "file_url": "https://reliefweb.int/attachments/a23ffdf2-dd29-53dd-9fc9-eed935fee673/sme3219-20en_1.pdf"
+  },
+  {
+    "id": "rw-4217044",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Regional Situation Report #5: Measles in the Americas Region (18 June 2026)",
+    "source": "PAHO",
+    "crisis": "Humanitarian Crisis",
+    "location": "Americas",
+    "scope": "regional",
+    "date": "2026-06-19",
+    "content": "<p><strong>Situation Overview</strong></p>\n<p>Between epidemiological week (EW) 1 and EW 23 of 2026 (ending on 13 June 2026), the Region of the Americas reported 22,324 confirmed measles cases from 17 countries and territories, including 38 deaths, representing a 207% increase compared to the same period in 2025. Mexico (11,532), Guatemala (6,895), the United States (2,073) and Canada (1,071) accounted for the majority (97%) of confirmed cases.</p>\n<p>During EW 21 and EW 22 of 2026, the Region of the Americas reported 827 new confirmed measles cases across seven countries and territories, representing a 29.1% decrease compared with the previous two-week period (EW19-20; 1,166 new cases). This decline was driven primarily by continued decreases in Canada and Mexico. The United States showed plateauing trends, while Peru's recent weekly case counts appear stable at the national level, with transmission remaining concentrated in Puno. Trends in Guatemala should be interpreted with caution, given possible reporting delays or updates in recent weeks.</p>\n<p>In the context of the upcoming FIFA World Cup 2026™, countries are encouraged to strengthen preparedness and prevention measures, particularly in host countries and in countries receiving travelers returning from areas with active transmission. This includes ensuring early detection and reporting of suspected measles cases, strengthening laboratory capacity for timely testing and confirmation, and maintaining timely investigation and response capacities.</p>\n",
+    "url": "https://reliefweb.int/report/mexico/regional-situation-report-5-measles-americas-region-18-june-2026",
+    "region": "Other",
+    "subregion": null,
+    "rw_id": "4217044",
+    "file_url": "https://reliefweb.int/attachments/a140e03b-1acd-593e-9ad3-185264677bd1/pahomeaslessitrep5eng.pdf"
+  },
+  {
+    "id": "rw-4217049",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Benin Country Brief, June 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Benin",
+    "scope": "single",
+    "date": "2026-06-19",
+    "content": "<p><strong>KEY HIGHLIGHTS</strong></p>\n<p>• Critical funding gaps and displacement are constraining response capacity while increasing pressure on host communities and needs.</p>\n<p>• WFP expanded emergency response activities into the region of Borgou for the first time, supporting refugees from Nigeria and displaced persons from within Benin.</p>\n<p>• WFP leads the inter-agency emergency working group, supporting joint responses to displacement.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>• Escalating insecurity and regional spillover are driving needs. Violence linked to the Sahel crisis is expanding beyond northern Benin into central areas, triggering displacement (including from Nigeria), increasing protection risks, and straining fragile host communities and services.</p>\n<p>• Food insecurity is worsening under multiple shocks. Around 201,226 people are projected in IPC Phase 3–5 during the 2026 lean season, with many more at risk due to insecurity, climate shocks, and constrained livelihoods.</p>\n<p>• Economic pressures are deepening vulnerability despite growth. Inflation and rising fuel costs are eroding purchasing power, disproportionately affecting poor households and increasing food security risks, particularly in rural and underserved areas.</p>\n<p>• The ongoing displacement in the northern and now central regions of the country heightens risks for vulnerable populations. Women, children, and pregnant women are particularly affected by displacement and limited access to basic services, while insecurity disrupts education, livelihoods, and community protection systems.</p>\n<p>• Access constraints are emerging in newly affected areas, including Borgou as of May. The spread of insecurity into previously stable zones is creating humanitarian access gaps and limiting the presence of partners, complicating response efforts.</p>\n",
+    "url": "https://reliefweb.int/report/benin/wfp-benin-country-brief-june-2026",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "rw_id": "4217049",
+    "file_url": "https://reliefweb.int/attachments/c314de60-dec6-4cb5-b57a-428c67da4023/WFP_Benin_CountryBrief_Jun2026.pdf"
+  },
+  {
     "id": "rw-4216962",
     "provider": "reliefweb",
     "type": "original",
@@ -213,7 +264,7 @@
     "location": "Philippines",
     "scope": null,
     "date": "2026-06-19",
-    "content": "• On 8 June 2026, a 7.8 magnitude earthquake struck 32 km southwest of Maasim, Sarangani in Mindanao, Philippines, followed by over 3,000 aftershocks within three days.  \n• More than 1.5 million people have been affected, with over 86,000 displaced due to ongoing aftershocks.  \n• The disaster resulted in at least 68 deaths and approximately 1,300 injuries.  \n• Infrastructure damage is estimated at over PHP 1 billion (US$16.5 million), with 13 cities and municipalities declared under state of calamity.  \n• The government has provided over PHP 270 million (US$4.4 million) in relief, including food packs, non-food items, financial aid, and deployed mobile kitchens and telecom vehicles; coordination with WFP and other partners is ongoing, and bilateral assistance is welcomed though no formal international appeal has been made.  \n\nThe earthquake struck as children were returning to school, compounding the disruption to communities. The government is actively leading response and recovery efforts, focusing on immediate relief and infrastructure repair while managing the challenges posed by persistent aftershocks.",
+    "content": "• On 8 June 2026, a 7.8 magnitude earthquake struck 32 km southwest of Maasim, Sarangani in Mindanao, Philippines, followed by over 3,000 aftershocks in three days.  \n• More than 1.5 million people have been affected, with over 86,000 displaced due to ongoing aftershocks.  \n• The disaster resulted in 68 reported deaths and approximately 1,300 injuries.  \n• Infrastructure damage is estimated at over PHP 1 billion (US$16.5 million), with 13 cities and municipalities declared under state of calamity.  \n• The government has provided over PHP 270 million (US$4.4 million) in relief, including family food packs, non-food items, financial aid, and deployed mobile kitchens and telecommunications vehicles; coordination with WFP and other partners is ongoing.  \n\nThe earthquake struck as children were returning to school, compounding the disruption to communities. The government is leading response efforts and has welcomed bilateral assistance, though no formal international appeal has been made. Continued aftershocks pose ongoing risks to displaced populations and infrastructure.",
     "url": null,
     "region": "Asia",
     "subregion": "South-eastern Asia",
@@ -232,7 +283,7 @@
       "rw-4216522"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-19T13:11:50Z",
+    "generated_at": "2026-06-19T18:38:04Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026\n\n--- Report 1: Govt. Philippines (2026-06-19) ---\nDSWD DROMIC Report #21 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 19 June 2026, 6AM\n\n--- Report 2: WFP (2026-06-18) ---\nWFP Philippines: Response to the 7.8 Magnitude Earthquake in Sarangani - Situation Report #1 (18 June 2026)\n\n--- Report 3: Govt. Philippines (2026-06-17) ---\nDSWD DROMIC Report #19 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 17 June 2026, 6PM\n\n--- Report 4: Govt. Philippines (2026-06-17) ---\nDSWD DROMIC Report #20 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 18 June 2026, 6AM\n\n--- Report 5: Govt. Philippines (2026-06-17) ---\nDSWD DROMIC Report #18 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 17 June 2026, 6AM\n\n--- Report 6: Govt. Philippines (2026-06-17) ---\nDSWD DROMIC Report #17 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 16 June 2026, 6PM\n"
@@ -247,7 +298,7 @@
     "location": "Afghanistan",
     "scope": null,
     "date": "2026-06-19",
-    "content": "• Since early 2025, over 3.42 million Afghans have returned from neighbouring countries, with approximately 2.1 million from Iran and 1.25 million from Pakistan, causing a 10–12% population increase over two years.  \n• Returnees face critical vulnerabilities including lack of shelter, livelihoods, civil documentation, and limited healthcare access, with women, children, older persons, and persons with disabilities at heightened protection risk.  \n• Border provinces such as Herat, Nangarhar, Kandahar, and Nimroz are under severe strain due to increased arrivals, overwhelming reception, health, shelter, and protection services.  \n• Health indicators show decreases in suspected cases of measles (27.1%), COVID-19 (47.7%), ARI pneumonia (39.1%), and dengue (20.8%) in May compared to April, with WHO supporting health services through training 480 health workers and distributing 306 medical kits benefiting around 30,500 people.  \n• Cross-border returns are expected to continue throughout 2026 due to ongoing deportation policies and restrictive migration enforcement in neighbouring countries, sustaining high humanitarian needs and reintegration challenges.\n\nThe large-scale and sustained return movements are exacerbating Afghanistan’s already severe humanitarian crisis, particularly in border provinces with limited infrastructure and services. Despite some improvements in communicable disease trends, the influx of returnees with urgent needs demands continued and scaled-up humanitarian response to address shelter, health, protection, and livelihood challenges.",
+    "content": "• Since early 2025, over 3.42 million Afghan nationals have returned from neighbouring countries, with around 2.1 million from Iran and 1.25 million from Pakistan, significantly increasing Afghanistan’s population by 10–12% over two years.  \n• Returnees face critical vulnerabilities including lack of shelter, loss of livelihoods, absence of civil documentation, and limited access to healthcare, especially women, children, older persons, persons with disabilities, and unaccompanied minors.  \n• Border provinces such as Herat, Nangarhar, Kandahar, and Nimroz are under severe strain due to overstretched infrastructure, health systems, shelter capacity, and protection services.  \n• Health indicators show decreases in suspected cases of measles (27.1%), COVID-19 (47.7%), ARI pneumonia (39.1%), and dengue (20.8%) compared to April 2026, with WHO supporting frontline health services through training of 480 health workers and distribution of medical kits benefiting over 30,000 people.  \n• Cross-border returns remain consistently high despite seasonal and political challenges, with ongoing deportation policies in neighbouring countries expected to sustain return flows and humanitarian needs throughout 2026.  \n\nThe large-scale and sustained return of Afghan nationals is exacerbating an already severe humanitarian crisis, overwhelming local capacities and increasing protection risks. Continued international support is critical to address urgent health, shelter, and protection needs and to support longer-term reintegration efforts.",
     "url": null,
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -262,10 +313,39 @@
       "rw-4216738"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-19T13:11:50Z",
+    "generated_at": "2026-06-19T18:38:04Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Afghanistan\n\n--- Report 1: WHO (2026-06-18) ---\nAfghanistan Emergency Situation Report No.64 | May 2026\n\n--- Report 2: IFRC (2026-06-17) ---\nAfghanistan | Population Movement (Returnees) - Operation update #5 (12-month update) (MDRAF018)\n"
+  },
+  {
+    "id": "ai-location-americas",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Americas",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Americas",
+    "scope": null,
+    "date": "2026-06-19",
+    "content": "• Between epidemiological week 1 and week 23 of 2026, the Americas reported 22,324 confirmed measles cases and 38 deaths across 17 countries, a 207% increase compared to the same period in 2025.  \n• Mexico (11,532 cases), Guatemala (6,895), the United States (2,073), and Canada (1,071) accounted for 97% of confirmed cases.  \n• New confirmed cases decreased by 29.1% between weeks 21 and 22, mainly due to declines in Canada and Mexico; the US cases plateaued, and Peru's cases remained stable, concentrated in Puno.  \n• Trends in Guatemala are uncertain due to possible reporting delays or updates.  \n• With the FIFA World Cup 2026 approaching, countries are urged to enhance measles preparedness, including early detection, laboratory capacity, and response measures, especially in host countries and those receiving travellers from affected areas.  \n\nThe significant rise in measles cases in the Americas in 2026 highlights ongoing transmission risks, particularly in Mexico and Guatemala. The upcoming FIFA World Cup poses additional challenges for disease control, necessitating strengthened surveillance and immunisation efforts to prevent further spread.",
+    "url": null,
+    "region": "Other",
+    "subregion": "",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "PAHO"
+    ],
+    "sourceIds": [
+      "rw-4217043",
+      "rw-4217044"
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-19T18:38:04Z",
+    "prompt_id": "a3a6fd17e378",
+    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
+    "user_prompt_display": "Crisis / situation: Americas\n\n--- Report 1: PAHO (2026-06-19) ---\nMeasles, Rubella, and Congenital Rubella Syndrome Surveillance in the Americas (Vol. 32, No. 19 - 20) - 23 May 2026\n\n--- Report 2: PAHO (2026-06-19) ---\nRegional Situation Report #5: Measles in the Americas Region (18 June 2026)\n"
   },
   {
     "id": "ai-location-lebanon",
@@ -277,7 +357,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-06-19",
-    "content": "• Hostilities in Lebanon continue despite a US-Iran peace deal announced on 15 June, with renewed airstrikes and displacement orders between 12 and 14 June affecting southern Lebanon, Nabatieh, and Beirut’s southern suburbs.  \n• At least 3,798 deaths and 11,781 injuries have been recorded since 2 March, including significant casualties among women and children; healthcare facilities have been repeatedly targeted, resulting in closures and casualties among healthcare workers.  \n• Approximately 131,200 internally displaced persons (IDPs) remain in 644 collective shelters, many of which are operating at or beyond capacity, particularly in Beirut and Mount Lebanon; the majority of displaced people continue to rely on host communities or informal arrangements.  \n• Returns to areas of origin remain limited and cautious due to ongoing insecurity, infrastructure damage, and lack of safety guarantees; many displaced families conduct \"go-and-see\" visits but do not yet resettle permanently.  \n• Humanitarian needs are extensive, with over 1.1 million people reached with WASH services and 13.6 million meals distributed; however, the 2026 Lebanon Flash Appeal is only 32.7% funded, receiving approximately US$209.6 million of the requested US$639.9 million.  \n\nThe humanitarian situation in Lebanon remains highly volatile and severe, driven by ongoing hostilities and repeated displacement. Despite some reduction in hostilities following the US-Iran agreement, the security environment is fragile, and large-scale returns are not yet feasible. The strain on shelter and basic services is acute, exacerbated by attacks on civilian infrastructure and healthcare, underscoring the urgent need for sustained humanitarian support and increased funding.",
+    "content": "• Hostilities in Lebanon continue despite a US-Iran peace deal announced on 15 June, with renewed airstrikes and displacement orders between 12-14 June affecting southern Lebanon, Nabatieh, and Beirut’s southern suburbs.  \n• At least 3,798 deaths and 11,781 injuries have been recorded since 2 March, including significant casualties among women and children; healthcare facilities have been repeatedly targeted, resulting in closures and casualties among healthcare workers.  \n• Over 131,000 internally displaced persons (IDPs) remain in 644 collective shelters nationwide, many operating at or beyond capacity, with additional displaced people relying on host communities and informal arrangements, exacerbating local infrastructure strain.  \n• Returns to areas of origin are limited and cautious due to ongoing insecurity, infrastructure damage, and lack of safety guarantees; many displaced families conduct \"go-and-see\" visits but remain displaced.  \n• Humanitarian needs remain extensive, with over 1.1 million people reached through WASH services and 13.6 million meals distributed; however, the 2026 Lebanon Flash Appeal is only 32.7% funded, receiving approximately US$209.6 million of the requested US$639.9 million.  \n\nThe humanitarian situation in Lebanon remains highly volatile and severe, with ongoing hostilities driving recurrent displacement and straining shelter and basic services. Despite some reduction in hostilities following the US-Iran agreement, security risks and infrastructure damage continue to prevent large-scale returns, maintaining high levels of vulnerability among displaced populations. Sustained and increased humanitarian funding and support are critical to address urgent shelter, protection, and basic needs.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -292,7 +372,7 @@
       "rw-4216599"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-19T13:11:50Z",
+    "generated_at": "2026-06-19T18:38:04Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: IOM (2026-06-18) ---\nLebanon Situation Report - Update #11 (1 - 15 June 2026)\n\n--- Report 2: OCHA (2026-06-17) ---\nLebanon: Flash Update #35 - Escalation of hostilities in Lebanon (as of 15 June 2026)\n"
@@ -307,7 +387,7 @@
     "location": "Middle East",
     "scope": null,
     "date": "2026-06-19",
-    "content": "• On 15 June 2026, the USA and Iran agreed on a Memorandum of Understanding to cease hostilities, leading to some de-escalation signs, but the overall situation in the Middle East remains fragile with uncertain impacts on population mobility.\n\n• In Iran, approximately 9,000 people remain displaced as of 1 June due to housing and infrastructure damage, though some families have started returning home; displacement is mostly localised and temporary.\n\n• Lebanon continues to face a severe humanitarian crisis with nearly 135,000 people displaced in 642 collective shelters as of 11 June, and thousands more in open spaces; security concerns and ongoing military activities hinder safe returns.\n\n• Cross-border movements into Syria have reached over 441,000 as of 15 June, exacerbating pressure on an overstretched humanitarian system amid fragile institutions and protection challenges.\n\n• International Medical Corps is providing extensive health, nutrition, mental health, protection, and WASH services across the region, including mobile medical teams in Lebanon delivering over 20,000 consultations and distributing hygiene kits, while adapting operations to the complex and evolving needs.\n\nThe recent peace agreement between the USA and Iran offers a potential pathway to stabilisation, but the humanitarian situation remains critical across multiple countries in the Middle East. Displacement is widespread but largely localised, with many displaced persons unable or unwilling to return due to security and infrastructure damage. Humanitarian actors continue to face access challenges but are scaling up efforts to meet urgent health, nutrition, and protection needs. Sustained monitoring and operational readiness are essential given the fragile and dynamic context.",
+    "content": "• On 15 June 2026, the USA and Iran signed a Memorandum of Understanding to cease hostilities, leading to some de-escalation and limited returns in Iran, though approximately 9,000 people remain displaced due to housing damage.  \n• In Lebanon, nearly one million people have been displaced since early March, with 134,807 still in 642 collective shelters as of 11 June; security concerns and ongoing military activity hinder safe returns.  \n• Cross-border movements into Syria have reached 441,453 as of 15 June, exacerbating pressures on an already overstretched humanitarian system.  \n• International Medical Corps operates extensively across the region, providing integrated health, nutrition, mental health, protection, and WASH services, including 36 mobile medical teams in Lebanon delivering over 20,000 consultations and distributing hygiene kits.  \n• Humanitarian needs remain critical across the Middle East, with ongoing crises in Gaza, Syria, and Yemen contributing to complex and urgent requirements for health, food security, and protection services.  \n\nThe recent ceasefire agreement has created cautious optimism but the humanitarian situation remains fragile with large numbers of displaced people and ongoing insecurity limiting returns and access to aid. Humanitarian actors continue to monitor mobility patterns closely and scale up operations to meet urgent and evolving needs across multiple countries in the region.",
     "url": null,
     "region": "Other",
     "subregion": "",
@@ -322,7 +402,7 @@
       "rw-4216717"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-19T13:11:50Z",
+    "generated_at": "2026-06-19T18:38:04Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Middle East\n\n--- Report 1: IOM (2026-06-19) ---\nEscalation in the Middle East and Beyond — Mobility Report (09 - 15 June 2026)\n\n--- Report 2: IMC (2026-06-17) ---\nMiddle East Conflict: Lebanon Response Situation Report #7 | June 16, 2026\n"
@@ -337,7 +417,7 @@
     "location": "Somalia",
     "scope": null,
     "date": "2026-06-19",
-    "content": "• Somalia is experiencing a worsening humanitarian crisis due to consecutive failed rainy seasons, a prolonged dry period (Jilaal), and rising fuel prices linked to Middle East instability, severely affecting Puntland and central and southern regions.\n\n• Light to moderate rainfall in parts of southern Somalia in May 2026 has been insufficient to improve conditions, with forecasts indicating continued dryness until October and an elevated risk of flooding during the October–December Deyr season related to a likely El Niño event.\n\n• Fuel remains physically available but has become less affordable and sustainable due to disruptions around the Strait of Hormuz, causing increased humanitarian delivery costs, reduced transport reliability, and threatening programme continuity.\n\n• Poor infrastructure, restricted road access, and insecurity in key areas such as Gedo, Lower Shabelle, Bay, and Middle Juba continue to obstruct safe humanitarian access.\n\n• Funding shortfalls are forcing humanitarian actors to prioritise only the most life-saving interventions, leaving millions at risk of hunger, displacement, and protection concerns; demand for logistics services, especially air transport, has sharply increased to reach hard-to-access populations.\n\nThe humanitarian situation in Somalia remains fragile with multiple compounding factors limiting effective response. The combination of climatic shocks, economic pressures, and insecurity is straining operational capacities and increasing the vulnerability of affected populations. Preparedness for potential flooding later in the year is critical to mitigate further impact.",
+    "content": "• Somalia is experiencing a worsening humanitarian crisis due to consecutive failed rainy seasons, a prolonged dry period (Jilaal), and rising fuel prices linked to Middle East instability, severely affecting Puntland and central and southern regions.  \n• Light to moderate rainfall in parts of southern Somalia in May 2026 has not sufficiently improved conditions; a continued dry period is expected until October, followed by a high risk of flooding during the October–December Deyr season associated with a likely El Niño event.  \n• Rising fuel prices, shipping delays, and increased freight costs caused by disruptions around the Strait of Hormuz are inflating humanitarian delivery costs, reducing transport reliability, and threatening programme continuity, despite stable physical fuel availability.  \n• Poor infrastructure, restricted road access, and insecurity in key areas such as Gedo, Lower Shabelle, Bay, and Middle Juba continue to obstruct safe humanitarian access.  \n• Funding shortfalls are forcing humanitarian actors to focus only on the most life-saving interventions, leaving millions at risk of hunger, displacement, and protection concerns; demand for logistics services, especially air transport, has sharply increased to reach hard-to-access populations.  \n\nThe humanitarian situation in Somalia remains fragile with multiple overlapping challenges including climatic shocks, conflict-related access constraints, and economic pressures. The anticipated flood risks later in the year require urgent preparedness efforts. The Logistics Cluster plays a vital role in enabling aid delivery amid these complex operational constraints.",
     "url": null,
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -351,7 +431,7 @@
       "rw-4216993"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-19T13:11:50Z",
+    "generated_at": "2026-06-19T18:38:04Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Somalia\n\n--- Report 1: Logistics Cluster (2026-06-19) ---\nSomalia - Operational Overview - April 2026\n\n--- Report 2: Logistics Cluster (2026-06-19) ---\nSomalia - Operational Overview - May 2026\n"
@@ -366,7 +446,7 @@
     "location": "World",
     "scope": null,
     "date": "2026-06-19",
-    "content": "• El Niño conditions are persisting and may become one of the strongest on record, causing drier-than-normal conditions in East Africa, the Red Sea area, and the Arabian Peninsula during July and August, with wetter conditions expected in northern and eastern Africa and the Middle East from September onwards.\n\n• Drier-than-normal conditions are forecast to persist in India until October, while gregarious breeding of locusts will conclude in Morocco and Algeria but begin in Mauritania and other Sahelian areas in July, increasing the risk of outbreaks from September.\n\n• In 2025, the use of explosive weapons in populated areas severely disrupted humanitarian aid operations worldwide, damaging critical infrastructure such as roads, bridges, warehouses, and aid distribution points, and endangering humanitarian personnel.\n\n• Incidents of explosive weapon use particularly affected countries including Myanmar, Palestine, and Ukraine, blocking transport corridors and delaying or preventing delivery of essential relief items, thereby limiting operational access and prolonging civilian suffering.\n\n• The Explosive Weapons in Populated Areas (EWIPA) diplomatic process aims to reduce humanitarian harm by strengthening civilian protection and ensuring continued aid delivery, reinforcing international humanitarian law obligations critical for safer and more reliable humanitarian access.\n\nThe persistence of strong El Niño conditions combined with locust breeding increases the risk of food insecurity in vulnerable regions of Africa and the Arabian Peninsula. Concurrently, ongoing conflict-related disruptions caused by explosive weapons in multiple countries continue to hinder humanitarian response efforts, compounding the challenges faced by affected populations. Coordinated international action addressing both climatic and conflict-related factors is essential to mitigate worsening humanitarian conditions.",
+    "content": "• El Niño conditions are persisting and may become one of the strongest on record, with drier-than-normal weather expected in East Africa, the Red Sea area, and the Arabian Peninsula during July and August, while northern Africa is forecast to receive above-normal rainfall.\n\n• From September, wetter conditions linked to a positive Indian Ocean Dipole are expected to expand across northern and eastern Africa and the Middle East, potentially increasing rainfall through October.\n\n• Breeding of locusts is ongoing in the Western Region and will begin in Mauritania and other Sahelian areas in July, raising the risk of locust outbreaks from September onwards.\n\n• The use of explosive weapons in populated areas continues to severely disrupt humanitarian aid delivery, damaging critical infrastructure such as roads, bridges, warehouses, and distribution points, and endangering humanitarian personnel.\n\n• Countries experiencing sustained explosive weapon use, including Myanmar, Palestine, and Ukraine, face significant delays and obstructions in delivering life-saving assistance, with humanitarian access and operational capacity notably constrained.\n\nThe combined impact of climatic factors and conflict-related disruptions poses a complex challenge for humanitarian operations globally. Persistent El Niño conditions and locust breeding threaten food security in vulnerable regions, while ongoing conflict and explosive weapon use undermine the delivery of essential aid. Strengthening protection of civilians and aid infrastructure under international frameworks remains critical to ensuring timely and effective humanitarian response.",
     "url": null,
     "region": "Global",
     "subregion": "Global",
@@ -381,7 +461,7 @@
       "rw-4216801"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-19T13:11:50Z",
+    "generated_at": "2026-06-19T18:38:04Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: World\n\n--- Report 1: FAO (2026-06-19) ---\nLocust Watch: Seasonal precipitation predictions in the Desert Locust summer and winter breeding areas (July–December 2026) (18 June 2026)\n\n--- Report 2: Insecurity Insight (2026-06-18) ---\nAid in Danger Bi-Monthly News Brief (27 May - 09 June 2026)\n"
