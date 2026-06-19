@@ -1,6 +1,9 @@
 Crisis / situation: World
 
---- Report 1: Insecurity Insight (2026-06-18) ---
+--- Report 1: FAO (2026-06-19) ---
+The dynamical models indicate that El Niño conditions are persisting, with a likelihood of becoming one of the strongest on record. Drier‑than‑normal conditions are expected in East Africa, the Red Sea area, and the Arabian Peninsula during July and August, while above‑normal rainfall is forecast in northern Africa. From September onwards, wetter conditions are expected to develop in association with a positive Indian Ocean Dipole, expanding to widespread above‑normal rainfall across northern and eastern Africa and the Middle East by October. Drier‑than‑normal conditions are expected to persist in India until October. Gregarious breeding will conclude in Morocco and Algeria. Summer breeding will begin in Mauritania and, at a smaller scale, in other Sahelian areas in July. Breeding should continue in the Western Region during August and September, increasing the risk of outbreaks from September onwards.
+
+--- Report 2: Insecurity Insight (2026-06-18) ---
 The Explosive Weapons Monitor 2025, for which Insecurity Insight contributed data and analysis, highlights how the use of explosive weapons in populated areas continues to severely disrupt humanitarian aid operations and restrict civilian access to essential assistance. Beyond immediate harm causing death and injury, the report documents how explosive weapons damage roads, bridges, warehouses, and aid distribution points, as well as endanger humanitarian personnel. These impacts slow or block the delivery of life-saving assistance, including food, medical supplies, shelter materials, and emergency relief, at a time when civilian needs are often at their highest.
 Key figures:
 
@@ -13,19 +16,3 @@ The safety of humanitarian personnel remained a significant concern in 2025, wit
 The report highlights that impacts on humanitarian access were not limited to a single region, with incidents recorded in multiple countries where explosive weapons use in populated areas continues to undermine civilian infrastructure and emergency response systems.
 These findings demonstrate how explosive weapons not only cause immediate harm but also create cascading barriers to life-saving assistance. When access routes, infrastructure, and personnel are affected, entire populations can be cut off from timely and adequate support, deepening vulnerability and prolonging recovery.
 The EWIPA (Explosive Weapons in Populated Areas) process is a diplomatic and policy initiative aimed at reducing the humanitarian harm caused by explosive weapons in towns and cities. It supports states in implementing commitments under the Political Declaration on EWIPA, including strengthening the protection of civilians and ensuring the continued delivery of humanitarian assistance. This framework is critical for humanitarian operations because it reinforces international humanitarian law obligations that protect aid delivery systems, enabling faster, safer, and more reliable access to populations in need. Read the full report
-
---- Report 2: UNHCR (2026-06-16) ---
-1. Monthly analysis: By April 2026, total recorded movements across mixed movement routes sharply diverged. The Central Mediterranean Route and Eastern Mediterranean Route remained below 2025 levels (–46 per cent and –32 per cent year-to-date respectively), while the South and South-East Asia route more than doubled compared to the same period last year (+152 per cent year-to-date). The Western Mediterranean Route also expanded (+75 per cent year-to-date), contrasting with the West African Atlantic Route, which remains deeply contracted (–78 per cent year-to-date) despite a short-term rebound in April. For more detailed information on monthly / weekly trends, please refer to A Route-Based Snapshot: Data &amp; Trends for Refugees from Myanmar (end April 2026) , Situation Europe Sea Arrivals and Italy Monthly Sea Arrivals (Update April 2026).
-
---- Report 3: UNHCR (2026-06-16) ---
-HIGHLIGHTS
-
-
-UNHCR and the Ministry of Foreign Affairs commemorated 45 years of partnership, recognizing joint efforts to strengthen protection for forcibly displaced and stateless people. The event brought together government authorities, UN agencies, civil society, academia, and international partners, reaffirming a shared commitment to dignity, protection, and solutions. UNHCR highlighted milestones, including enhancing the capacities of the Commission for Refugee Status Determination (CODER), and presented a recognition to the country.
-The ceremony also marked the opening of the art exhibition “Solidarity with People Forced to Flee,” developed in partnership with students from the Dr. José Matías Delgado University, which raises awareness about forced displacement and promotes solidarity for people seeking international protection.
-
-
-UNHCR joined the United Nations Resident Coordinator and the General Directorate of Civil Protection to launch the Humanitarian Assistance Logistics System (SILAH). Developed with UNHCR’s support, SILAH supports ongoing efforts to digitalize the management and distribution of humanitarian assistance, contributing to improved response during emergencies and disasters. The launch event brought together the Vice Minister of Foreign Affairs, members of the Humanitarian Country Team, and representatives of national institutions.
-
-
-As the 2026 MIRPS Pro Tempore Presidency, El Salvador advanced efforts to update its national pledges and strengthen regional coordination. UNHCR supported the Ministry of Foreign Affairs and member institutions throughout the process, including during the first MIRPS Plenary of the year, where participating countries endorsed regional commitments
