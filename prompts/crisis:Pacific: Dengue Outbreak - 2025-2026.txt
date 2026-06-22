@@ -1,21 +1,25 @@
 Crisis / situation: Pacific: Dengue Outbreak - 2025-2026
 
---- Report 1: WHO (2026-06-16) ---
-No summary available.
+--- Report 1: IFRC (2026-06-22) ---
+Since the launch of the operation, the dengue situation in the Cook Islands has improved, with a significant reduction in reported cases. However, vector surveillance and community clean-up activities continue to identify mosquito breeding sites across affected communities, indicating an ongoing risk of renewed transmission. As a result, the operational strategy has been revised to transition from an intensive emergency response towards sustaining targeted prevention, surveillance, and preparedness activities to reduce the risk of renewed transmission.
+Implementation of the operation has progressed well, with a satisfactory expenditure rate and a remaining balance resulting from operational efficiencies and cost savings. Savings were achieved through procurement processes, lower-than-anticipated operational costs, and activities that were reduced in scope or not fully implemented due to the evolving epidemiological situation.
+The remaining balance has been reallocated to support priority activities that align with the revised operational strategy and emerging needs. The budget reallocation is justified by the need to sustain critical response capacities and maximise the impact of available resources. Reallocated funds will strengthen targeted vector control measures, community engagement and risk communication, distribution and post-distribution monitoring activities, blood donor recruitment and blood bank support, logistics and procurement capacity, and ongoing surveillance and environmental clean-up efforts in coordination with the MoH.
+In addition, additional resources have been allocated to strengthen the Lessons Learned Workshop to ensure that operational experiences, good practices, and recommendations are effectively documented and used to improve future public health emergency preparedness and response. These adjustments will enable the operation to maintain essential public health interventions while ensuring the efficient and accountable use of available funds.
 
---- Report 2: SPC (2026-06-16) ---
+--- Report 2: SPC (2026-06-22) ---
 HIGHLIGHTS
 • Since 1 January 2025, 11 dengue outbreaks have been reported in the Pacific Islands Countries and areas (PICs).
 • The following PICs reported dengue outbreaks in 2025: American Samoa, Cook Islands, Fiji, French Polynesia, Kiribati, Nauru, Samoa, Tonga and Tuvalu. In 2025 there were 21 258 confirmed cases and 21 deaths reported across the Pacific Dengue fatalities were reported in Fiji (n=8), Samoa (n=7), Tonga (n=3), Nauru (n=2) and Kiribati (n=1).
 • End of dengue outbreaks in 2025 was declared in Fiji and Tonga in August, and French Polynesia’s two-year surge in November.
-• Between 1 January 2026 and 11 June 2026, a total 3 708 of dengue confirmed cases, 156 hospitalisations and 3 deaths have been reported across the Pacific.
-• The Pacific Syndromic Surveillance System (PSSS) has reported a total of 7 285 Dengue-like Illness (DLI) cases to date, a lower trend compared to the same period last year.
+• Between 1 January 2026 and 16 June 2026, a total 4 206 of dengue confirmed cases, 162 hospitalisations and 3 deaths have been reported across the Pacific.
+• The Pacific Syndromic Surveillance System (PSSS) has reported a total of 7 718 Dengue-like Illness (DLI) cases to date, a lower trend compared to the same period last year.
 • In 2026 dengue outbreaks were officially declared in New Caledonia and Tonga.
 • The most affected countries and areas this year include: Cook Islands, French Polynesia, Samoa, and New Caledonia. These account for 94% of confirmed cases.
 • Dengue serotype-1 (DENV-1) and serotype-2 (DENV-2) are currently in circulation.
 • Cook Islands declared the end of its outbreak on 25 May 2026.
-• As of 12 June 2026:
+• As of 16 June 2026:
 
-Dengue remains in circulation in New Caledonia, Samoa and Tonga.
-Countries under monitoring include Vanuatu and Wallis and Futuna
-No recent reports of dengue have been received from American Samoa, Kiribati and Tuvalu
+DENV-1 is confirmed in Wallis and Futuna, with evidence of community transmission in Wallis;
+Low levels of transmission are observed in American Samoa, New Caledonia, Samoa, and Tonga;
+The situation in Vanuatu is under monitoring;
+No recent reports of dengue have been received from Kiribati.

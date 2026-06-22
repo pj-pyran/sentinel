@@ -1,24 +1,17 @@
 Crisis / situation: Yemen
 
---- Report 1: FAO (2026-05-26) ---
-KEY HIGHLIGHTS
-SHORT-TERM OUTLOOK AND IMPLICATIONS ON FOOD SECURITY: The food security outlook for Yemen through the end of 2026 remains highly alarming, with 18.7 million people (53% of the population) projected to face Crisis or worse levels of acute food insecurity (IPC Phase 3+). Yemen currently bears the world’s highest burden of populations trapped in IPC Phase 4 (Emergency), covering approximately 17% of the population, where the risk of excess mortality (exceeding the expected number of deaths under normal conditions) is real and steadily increasing. Isolated pockets of catastrophic conditions (IPC Phase 5) are already emerging, particularly within SBA controlled areas. Yemen's structural food system collapse is driven by a critical convergence of localized instability, severe funding shortfalls (only 13% funded as of May), and regional geopolitical shocks. Regional escalations and trade disruptions through the Strait of Hormuz are driving up fuel costs, triggering price increases across domestic transport, food, and agricultural inputs. Without immediate multi-year funding and the restoration of humanitarian access, a slide into localized catastrophic conditions (IPC Phase 5) remains imminent.
+--- Report 1: WFP (2026-06-22) ---
+WFP data show that adequate food remained beyond the reach of nearly 60 percent of the population in April, as the humanitarian response is severely hampered by underfunding and constrained access.
+Data shows that WFP’s new targeted emergency food assistance (TEFA) programme has contributed to a significant reduction in severe food deprivation in targeted districts.
+WFP is rolling out the integration of preventative nutrition support with emergency food assistance to ensure comprehensive and targeted coverage among the most vulnerable.
+WFP is working to enhance its food security monitoring ecosystem in Yemen to support more timely, targeted, and evidence-based humanitarian action.
 
---- Report 2: WFP (2026-05-24) ---
-HIGHLIGHTS
+--- Report 2: FAO (2026-06-21) ---
+HIGHLIGHTS:
 
-Half of all households in Yemen were unable to obtain their minimum food needs in March, according to WFP data.
-The ongoing regional crisis is constraining fuel imports to Yemen, while increasing food costs are threatening access to food.
-WFP has completed the first and second cycles of its new targeted emergency food assistance (TEFA) programme in Government-controlled areas, with preparations for the third cycle ongoing.
-WFP has completed its re-targeting and registration exercise, a prioritization and beneficiary identification exercise designed to enhance accountability and enable an agile and hyper-prioritized response.
-WFP has completed a community-based participatory planning exercise in Ta’iz governorate to inform future WFP resilience and livelihoods efforts.
-
-SITUATION OVERVIEW
-• WFP food security monitoring data shows that 50 percent of households in Yemen were unable to obtain their minimum food needs in March, a seven-percentage point decrease from February.
-• The apparent improvement is an expected effect observed during Ramadan (when many religious charities provide food and other forms of support), increased remittances, and the release of partial salaries for public sector employees.
-• However, the temporary improvement needs to be seen with caution as it was notably less marked than in recent years, reflecting worsening economic conditions, reduced purchasing power, and curtailed food assistance.
-• WFP is closely monitoring the effects of the regional crisis on supply chain, market disruptions, and food security in Yemen.
-• Fuel supplies via Yemen’s sea ports declined sharply in the first quarter of 2026, and at Yemen’s Red Sea ports, with no fuel imports in March 2026 at all. However, small quantities of fuel began entering the ports in April.
-• Fuel price increases have already come into effect in areas under the internationally recognized Government of Yemen (IRG), with an increase in diesel prices affecting WFP supply chain operations.
-• While food imports continued at sufficient volumes in March, a nationwide increase in food costs is threatening purchasing power and food access.
-• All UN activities in areas under the Sana-based authorities (SBA) remain suspended. WFP continues to call for the release of all detained staff. Thirty-eight (38) WFP staff remain in detention in northern Yemen, alongside 35 staff from other UN agencies.
+Precipitation: Rainfall across Yemen declined gradually in May 2026, though intermittent convective showers continued in the highlands—especially in Ibb—while monthly totals remained below the five-year average.
+Rainfall anomalies: Relative to the 30-year average, May 2026 was generally mixed in conditions across much of Yemen, with wetter trends across the Northern and Central Highlands, whereas localized deficits prevailed in southern and eastern areas.
+Temperature: May 2026 was hotter, signaling the seasonal transition to warmer conditions. Temperatures reached 38–44°C in eastern and coastal areas, increasing heat-related risks.
+Vegetation: Vegetation conditions remained broadly favorable, with 68% of cultivated areas in fair-to-good condition; however, localized stress persisted in some governorates.
+Crop season: Despite a reduction in cultivated area, crop performance was largely unaffected, as cereal growth continued across the highlands.
+Livelihoods and food security: Conditions remained generally supportive of wheat harvesting, sorghum planting, and pasture regeneration, but localized flood impacts, rangeland water stress in Al Dhale’e and Abyan, and persistently high food insecurity—affecting nearly 5 million people in GoY areas—continued to constrain rural livelihoods.
