@@ -1,6 +1,11 @@
 Crisis / situation: Lebanon
 
 --- Report 1: DFS (2026-06-22) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/lebanon
+
+--- Report 2: DFS (2026-06-22) ---
 The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
 2026. Although a November 2024 ceasefire was put in place, persistent daily violations and Israel's continued occupation of five
 positions in southern Lebanon blocked reconstruction and the return of displaced residents. The truce officially collapsed on March 2,
@@ -33,7 +38,7 @@ to support 1.4 million people through August. However, with only $190 million of
 agencies warn that imminent pipeline and service breaks starting in July will directly threaten vital food, health, clean water, and
 shelter assistance for over 1.2 million displaced people.
 
---- Report 2: WHO (2026-06-21) ---
+--- Report 3: WHO (2026-06-21) ---
 Situation Overview
 Impact of ongoing airstrikes
 • Between 11 and 18 June 2026, the humanitarian situation in Lebanon remained fragile and severely strained, despite emerging indications of regional de-escalation following a mid-June political understanding between external actors.
@@ -42,7 +47,7 @@ Impact of ongoing airstrikes
 • Overall, the period was characterized by low-to-moderate but persistent security incidents, with no large-scale escalation observed between 11 and 18 June. However, the situation remains unstable, with no clear or sustained trajectory toward stabilization.
 • In southern areas, conditions continued to be highly volatile, with ongoing incidents in border-adjacent areas contributing to continued civilian exposure to risk and sustained humanitarian pressure.
 
---- Report 3: OCHA (2026-06-20) ---
+--- Report 4: OCHA (2026-06-20) ---
 HIGHLIGHTS
 
 Partial returns movement reported following the United States-Iran deal announced on 15 June.

@@ -1,12 +1,33 @@
 Crisis / situation: Yemen
 
---- Report 1: WFP (2026-06-22) ---
+--- Report 1: IOM (2026-06-22) ---
+IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
+From 1 January to 20 June 2026, IOM Yemen DTM tracked 1,183 households (HH) (7,098 Individuals) who experienced displacement at least once.
+Between 14 and 20 June 2026, IOM Yemen DTM tracked 17 households (102 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
+
+Ma’rib (7 HHs) – Ma’rib (4 HHs), Ma’rib City (3 HHs) districts. Most displacements in the governorate originated from Al Hodeidah and Ibb.
+Al Hodeidah (7 HHs) – Hays (7 HHs) district. Most displacements in the governorate originated from Al Hodeidah and Ta’iz.
+Ta’iz (3 HH) – Salah (3 HHs) district. All displacements in the governorate originated from Aden.
+
+The majority of people moved from the following governorates and districts:
+
+Al Hodeidah (7 HHs) – Hays (5 HHs), Az Zuhrah (1 HH), Zabid (1 HH) districts.
+Aden (3 HHs) – Al Mualla (3 HHs) district.
+Ta’iz (2 HH) – Maqbanah (2 HHs) district.
+
+IOM identified 11 additional households displaced in the previous reporting period, which covered 07 - 13 June 2026, in the governorates of Al Hodeidah (6 HHs), and Ma’rib (5 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
+Methods used:
+DTM’s Rapid Displacement Tracking (RDT) tool collects and reports on numbers of households forced to flee on a daily basis, allowing for regular reporting of new displacements in terms of numbers, geography and needs.
+Limitations:
+DTM Yemen is unable to report on figures in some governorates due to access limitations.
+
+--- Report 2: WFP (2026-06-22) ---
 WFP data show that adequate food remained beyond the reach of nearly 60 percent of the population in April, as the humanitarian response is severely hampered by underfunding and constrained access.
 Data shows that WFP’s new targeted emergency food assistance (TEFA) programme has contributed to a significant reduction in severe food deprivation in targeted districts.
 WFP is rolling out the integration of preventative nutrition support with emergency food assistance to ensure comprehensive and targeted coverage among the most vulnerable.
 WFP is working to enhance its food security monitoring ecosystem in Yemen to support more timely, targeted, and evidence-based humanitarian action.
 
---- Report 2: FAO (2026-06-21) ---
+--- Report 3: FAO (2026-06-21) ---
 HIGHLIGHTS:
 
 Precipitation: Rainfall across Yemen declined gradually in May 2026, though intermittent convective showers continued in the highlands—especially in Ibb—while monthly totals remained below the five-year average.
