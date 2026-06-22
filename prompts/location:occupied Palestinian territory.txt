@@ -1,48 +1,39 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: IOM (2026-06-17) ---
-SITUATION OVERVIEW
-Across the Gaza Strip, the humanitarian situation continued to deteriorate throughout May 2026, due to daily strikes, shrinking humanitarian access, near-depleted aid stocks, and deepening funding shortfalls. Meanwhile, conditions across displacement sites remain dire.
-According to the Site Management Cluster (SMC), some 1,600 displacement sites across Gaza are currently hosting about 1.7 million people. Nearly 88 per cent of them reside in makeshift sites, while others are accommodated in collective centres or scattered locations.
-Access for humanitarian supplies remained severely constrained. Kerem Shalom and Zikim were the only operational entry points for cargo. In May, according to UN2720 mechanism data, UN and partners ooaded approximately 51,900 pallets - an increase on April but below levels recorded in January and February.
-Brieng the Security Council on 21 May, the UN Deputy Special Coordinator warned that humanitarian conditions remained acute and the population remains dependent on daily aid delivery. He noted that while the reopening of Zikim Crossing in mid-April and a limited increase in aid volumes were welcome, humanitarian operations remained heavily constrained by limited operational crossings and restrictions on critical items considered &quot;dual-use&quot; by Israeli authorities.
+--- Report 1: DFS (2026-06-22) ---
+The Occupied Palestinian Territory is facing a severe humanitarian crisis, with both Gaza and the West Bank experiencing
+unprecedented levels of violence and deprivation. In Gaza, following the collapse of a brief pause in hostilities in March 2025, Israeli
+forces resumed intensive bombardment while maintaining a complete blockade that has now entered its eighth week, preventing all
+humanitarian aid and commercial supplies from entering. This has left Gaza's 2.2 million residents facing starvation as food stocks
+deplete, bakeries cease operations due to lack of flour and fuel, and nearly 90% of the population remains displaced with critical
+infrastructure almost entirely destroyed. A new U.S.-backed peace plan led to a pause in hostilities agreement coming into effect on 10
+October 2025, raising cautious hopes for increased humanitarian access and a potential reduction in hostilities after months of
+relentless violence. However, despite the pause in hostilities, sporadic violations, limited aid entry, and continued displacement
+highlight the fragility of the pause in hostilities and the deep humanitarian strain that persists across Gaza.
+Meanwhile, the West Bank has seen a dramatic escalation in military operations, particularly since the launch of &quot;Operation Iron Wall&quot;
+in January 2025, which has resulted in mass displacement of Palestinians and widespread destruction across refugee camps. Israeli
+forces have displaced approximately 40,000 people, with officials stating that residents will not be allowed to return for at least a year,
+while expanded checkpoints and military presence severely restrict movement between Palestinian cities.
+International organisations and UN bodies have expressed increasing concern about systematic violations of international
+humanitarian law in the West Bank, including accelerating settlement expansion, land reclassification and forced displacement that
+multiple observers warn are driving de facto annexation dynamics. These concerns have intensified following the International Court of
+Justice's 2024 advisory opinion on the illegality of the prolonged occupation and the Israeli authorities' security cabinet decisions of 8
+February 2026 expanding civil and administrative control over West Bank land and governance.
 
---- Report 2: UNRWA (2026-06-16) ---
+--- Report 2: OCHA (2026-06-22) ---
 Highlights
-The Gaza Strip
 
-Israeli forces continued high-intensity military activities west of the Yellow Line, conducting multiple air and drone strikes targeting infrastructure, assets, and personnel suspected of links to the de facto authorities, with multiple civilian casualties reported. Israeli forces reportedly advanced across multiple areas, further shrinking humanitarian space across the Gaza Strip.
-Multiple crossings experienced temporary closures following the escalation in regional tension, significantly slowing down the delivery of critical supplies into Gaza.
-The WASH Cluster has developed a coordinated rodent control plan, implemented with support from UNDP, WHO, UNICEF, UNRWA and other partners, and in close coordination with the Ministry of Health. UNRWA contributes to joint risk assessment, coordination, and surveillance with WHO, UNDP and the Ministry of Health, and implements targeted pest control in high-risk displacement sites and installations, large-scale waste removal, hygiene promotion and community outreach near its displacement sites.
-Severe shortages of engine oil, tyres, and spare parts are placing life-saving humanitarian operations at risk across the Gaza Strip. Health services are particularly affected, as most facilities rely on generators that face frequent breakdowns. At the same time, water production, pumping and distribution systems — alongside wastewater and solid waste management — are at imminent risk of failure, as they depend almost entirely on ageing generators that are operating beyond design limits. Approximately 25 per cent of UNRWA vehicles — including water tankers and waste collection trucks — and 25 per cent of UNRWA generators are already out of service. Without urgent resupply, disruptions to healthcare, safe water access, and waste collection are expected to rapidly escalate public health risks and operational constraints.
+UN Relief Chief tells Security Council that Gaza civilians cannot wait for diplomacy, while in the West Bank, a decades-long deterioration is accelerating rapidly.
+Further encroachment of the “Yellow Line” triggers new displacement as Israeli troops advance towards populated areas of Gaza city, marking the revised route with cement blocks.
+A reduction in fuel inflows forces humanitarian partners to prioritize the most life-saving services, further limiting overall efforts.
+Over 520 endoscopic and surgical procedures are at risk of being suspended unless new supplies of high-level disinfectant agents urgently enter Gaza.
+In the West Bank, two Palestinian herding families were displaced for a second time since the beginning of 2026 following escalating settler attacks near Birzeit, highlighting a broader trend that has displaced over 2,200 Palestinians, including more than 1,000 children, this year.
+By the end of May, humanitarian partners had reported 230 access incidents across the West Bank, where checkpoints, road closures and other movement restrictions continue to impede aid delivery and humanitarian operations.
+Humanitarian partners continue to report growing protection and psychosocial support needs across the West Bank, while health partners report ongoing access constraints and attacks affecting health-care delivery.
 
---- Report 3: Insecurity Insight (2026-06-16) ---
-Attacks on Health Care
-in the occupied Palestinian territory
-Data collected by Insecurity Insight shows that between 07 October 2023 and 17 May 2026 at least 3,281 incidents of violence against or obstruction of access to health care took place across the occupied Palestinian territory. 95% of incidents were attributed to Israeli forces. This includes:
-
-Gaza: At least 2,303 attacks on health care were recorded during which health facilities were damaged 445 times, 761 health workers were killed and 390 arrested. Patient access to medicine was obstructed on 288 occasions.
-West Bank and East Jerusalem: At least 917 attacks on health care were recorded during which health facilities were damaged 30 times, 12 health workers were killed and 184 arrested. Patient access to medicine was obstructed on 566 occasions.
-
-Documented incidents
-27 May-09 June 2026
-The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care between 27 May-09 June 2026. The incidents below have not been verified through ground investigations. There is a delay in reporting incidents due to our open-source verification protocol.
-Gaza
-30 May 2026: In Deir al-Balah city and governorate, a doctor and head of the anaesthesia department at Yafa Hospital was killed in an Israeli airstrike on a police point near Al-Manfaluti School. Sources: Quds News Network, Quds News Network I, Quds News Network II and WAFA
-As reported on 31 May 2026: In Deir al-Balah city and governorate, operating rooms at Al-Aqsa Martyrs Hospital ceased functioning after the electrical generators went completely out of service. Sources: Quds News Network and WAFA
-01 June 2026: At Kerem Abu Salem Crossing, Gaza city and governorate, a medical student was arrested by Israeli forces after leaving the Gaza Strip through the Kerem Abu Salem crossing while travelling to Italy to continue his medical studies and specialisation at the University of Tor Vergata. The student had reportedly obtained the necessary approvals to travel after months of efforts to secure permission to leave Gaza. He was taken to an unknown location. Sources: Personal Communication and Quds News Network
-02 June 2026: In Gaza city and governorate, the vicinity of the Al-Ahli Arab Hospital (Baptist Hospital), run by the Episcopal Diocese of Jerusalem, was fired upon by an Israeli drone. Source: Quds News Network
-04 June 2026: In Gaza city and governorate, the vicinity of PRCS Al-Quds Hospital was hit by an Israeli airstrike, injuring seven people. Source: WAFA
-08 June 2026: In Deir al-Balah city and governorate, a group of people in the vicinity of Al-Aqsa Martyrs Hospital were bombed by Israeli forces, killing a 31-year-old man and injuring an unspecified number of others. Sources: Quds News Network and Quds News Network I
-09 June 2026: On Salah al-Deen street, Gaza city and governorate, seven PRCS health workers were detained by Israeli forces while performing their duties after two PRCS ambulances were stopped at a checkpoint. The health workers were forcibly removed from the ambulances and had their mobile phones and personal belongings confiscated. Five were later released following investigation with them. Sources: Quds News Network and Quds News Network I
-West Bank and East Jerusalem
-29 May 2026: In Beit Ummar town, Hebron governorate, pharmacies were prevented from opening by Israeli forces, who imposed a curfew on the area. Source: WAFA
-29 May 2026: In Ramallah city and governorate, the Palestine Medical Complex was stormed and patrolled by Israeli forces at 2350hrs, who positioned themselves in its courtyard. Sources: Negotiation Affairs Department, Quds News Network  and Quds News Network I
-30 May 2026: In Madama village, Nablus governorate, ambulance crews were obstructed by Israeli forces while attempting to reach Palestinians injured in a Settlers' attack. Source: Quds News Network
-02 June 2026: Near Bethlehem city, Bethlehem governorate, an unspecified number of female Red Crescent volunteers were detained by Israeli forces at the &quot;Container&quot; checkpoint. Source: Quds News Network
-06 June 2026: In the Masafer Bani Na'im area, Hebron governorate, a doctor was arrested by Israeli forces accompanied by Israeli settlers. Source: Quds News Network
-06 June 2026: In Al-Maghazi Refugee Camp, Deir al-Balah governorate, a home behind the UNRWA Al-Wakala Clinic was shelled by Israeli forces. Source: Quds News Network
-07 June 2026: In Balata Refugee Camp, Nablus governorate, an ambulance team was prevented from reaching a sick person by Israeli forces. Source: WAFA
-07 June 2026: In Hebron city and governorate, the courtyard of Yatta Governmental Hospital was stormed by Israeli forces. Source: Quds News Network
-08 June 2026: In Al-Tabqa village, south of Dura town, Hebron governorate, ambulance workers were prevented by Israeli forces from reaching people who had been injured in an assault during a raid. Source: Quds News Network
-09 June 2026: In Salfit city and governorate, an ambulance was obstructed by Israeli settlers while traveling along Hares roads. Source: Quds News Network
+Overview
+Across the Occupied Palestinian Territory (OPT), civilians continue to face insecurity, displacement and constrained access to essential services, while humanitarian partners operate under growing access restrictions and operational uncertainty. Essential systems remain under pressure, protection risks are high, and damage to infrastructure as well as poor living conditions are compounding vulnerabilities.
+Briefing the Security-Council on 18 June, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher, paid tribute to humanitarian workers who have made progress since the announcement of a ceasefire on 10 October 2025. At the same time, he warned that “Gaza is being held together by humanitarian workarounds and Palestinian perseverance,” which is unsustainable. “Palestinians in Gaza remain deprived of the basics that you would all demand for your own families: safety, shelter, clean water, health care, education,” he said.
+UN Relief Chief noted that “Too many Palestinians are being squeezed into an ever-shrinking strip of land. Their lives are shaped by the indignity of constantly shifting ‘yellow’ and ‘orange’ lines that define where they can seek refuge.”
+Speaking of the West Bank, including East Jerusalem, Mr Fletcher warned that “a decades-long deterioration is accelerating rapidly, characterized by calls from Israeli officials for Palestinian ‘voluntary migration’ and an intensification of discriminatory policies and practices.” In this context, he mentioned the high level of settler attacks and their impact so far in 2026.
+He called for humanitarian “funding that is timely, flexible and commensurate with the scale of this crisis” and for the cessation of measures that &quot;appear aimed at altering the demographic composition of the Occupied Palestinian Territory in violation of international law,” listing forced displacement, destruction of homes and other property, land confiscation, and movement restrictions.
