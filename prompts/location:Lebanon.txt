@@ -1,11 +1,17 @@
 Crisis / situation: Lebanon
 
---- Report 1: DFS (2026-06-22) ---
+--- Report 1: UNFPA (2026-06-23) ---
+Violence persisted across Lebanon in spite of a ceasefire extension, further worsening an already critical humanitarian situation. Women and girls continue to face heightened protection risks, disrupted health services, and reduced access to safe and dignified support.
+On 31 May, airstrikes severely damaged a UNFPA-supported primary healthcare centre and a women and girls’ safe space in southern Lebanon. Both were among the few facilities still operating in the region. Forced evacuation orders in Beirut on 1 June and intense attacks in southern Lebanon have further increased the scale and unpredictability of displacement, causing panic and distress among affected persons, particularly women and girls.
+Since the onset of the crisis, UNFPA has reached more than 124,000 displaced people with sexual and reproductive health and gender-based violence (GBV) services. This has been delivered through support to 55 health facilities, nine mobile medical units, 24 mobile GBV teams, and 16 women and girls’ safe spaces, serving 200 collective shelters and host communities.
+On 5 June, UNFPA launched a revised Flash Appeal, aligned to the revised Inter-Agency Lebanon Flash Appeal. UNFPA is appealing for US $25 million to meet the urgent needs of 450,000 people from March to August 2026. Immediate action is critical to sustain essential life-saving services and to respond to the urgent and growing needs of the most affected populations.
+
+--- Report 2: DFS (2026-06-22) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/lebanon
 
---- Report 2: DFS (2026-06-22) ---
+--- Report 3: DFS (2026-06-22) ---
 The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
 2026. Although a November 2024 ceasefire was put in place, persistent daily violations and Israel's continued occupation of five
 positions in southern Lebanon blocked reconstruction and the return of displaced residents. The truce officially collapsed on March 2,
@@ -38,7 +44,7 @@ to support 1.4 million people through August. However, with only $190 million of
 agencies warn that imminent pipeline and service breaks starting in July will directly threaten vital food, health, clean water, and
 shelter assistance for over 1.2 million displaced people.
 
---- Report 3: WHO (2026-06-21) ---
+--- Report 4: WHO (2026-06-21) ---
 Situation Overview
 Impact of ongoing airstrikes
 • Between 11 and 18 June 2026, the humanitarian situation in Lebanon remained fragile and severely strained, despite emerging indications of regional de-escalation following a mid-June political understanding between external actors.
