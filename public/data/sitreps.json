@@ -1,5 +1,56 @@
 [
   {
+    "id": "rw-4217387",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNFPA Sri Lanka: Cyclone Ditwah Situation Report (1 April - 31 May 2026)",
+    "source": "UNFPA",
+    "crisis": "Tropical Cyclone Ditwah - Nov 2025",
+    "location": "Sri Lanka",
+    "scope": "single",
+    "date": "2026-06-23",
+    "content": "<p>Five months since Cyclone Ditwah’s landfall in Sri Lanka, the humanitarian situation has shifted markedly. Of the 2.2 million people initially affected, most have returned to normal life, although many continue to recover from significant losses and disrupted livelihoods. Temporary safety centre populations have significantly declined, with most families now living in host communities or government-supported rental accommodation.</p>\n<p>Conditions in safety centres have improved significantly, reflecting the collective efforts of response partners over recent months. While the situation has improved for most, UNFPA and its partners continue to address residual protection risks and recovery needs associated with prolonged displacement, psychosocial distress and economic hardships.</p>\n<p>As affected communities transition further into the recovery phase, the need for mental health and psychosocial support remains significant. Community-based initiatives continue to play a key role in helping people rebuild social connections, strengthen resilience, and recover from the longer-term impacts of displacement and loss.</p>\n<p>UNFPA launched an appeal for US $8.3 million in early December 2025 in response to Cyclone Ditwah. To date, US $1,214,356 (15 per cent) has been mobilized to deliver life-saving sexual and reproductive health and gender-based violence services.</p>\n",
+    "url": "https://reliefweb.int/report/sri-lanka/unfpa-sri-lanka-cyclone-ditwah-situation-report-1-april-31-may-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4217387",
+    "file_url": "https://reliefweb.int/attachments/29075523-1afe-45fb-81e8-8625e1f8d3b0/UNFPA%20Sri%20Lanka%20Situation%20Report%20%28April-May%202026%29.pdf"
+  },
+  {
+    "id": "rw-4217388",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNFPA Central African Republic Situation Report - May 2026",
+    "source": "UNFPA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Central African Republic",
+    "scope": "single",
+    "date": "2026-06-23",
+    "content": "<p>The security and humanitarian situation in the Central African Republic (CAR) deteriorated significantly in May 2026 due to an intersection of cross-border epidemiological threats, recurring insecurity, and severe weather events. An outbreak of Ebola in the neighboring Democratic Republic of the Congo poses an acute risk to the CAR's fragile health system, while armed group incursions, displacement, and protection incidents — including sexual violence and attacks on humanitarian workers — have intensified across multiple prefectures. These challenges have triggered widespread displacement, disrupted critical sexual and reproductive health (SRH) services, and left vulnerable populations, particularly women and girls, with limited access to life-saving care.</p>\n<p>In May 2026, UNFPA continued its integrated response to address the SRH and gender-based violence (GBV) needs of vulnerable people in crisis-affected areas. UNFPA utilized mobile clinics and partnerships with local health districts and other partners to provide comprehensive maternal and neonatal care, including assisted births, emergency caesarean sections, and antenatal/postnatal consultations. UNFPA’s community-based strategy also prioritized protection, reaching thousands with GBV awareness sessions, providing psychosocial support and vocational training, distributing dignity kits, and ensuring medical care for survivors of sexual violence. Additionally, UNFPA engaged adolescents and youth through dedicated spaces and youth kiosks to disseminate vital information on family planning, prevention of sexually transmitted infections, and GBV support services.</p>\n<p>In 2026, UNFPA requires US $13.2 million to deliver essential SRH and protection services in the CAR. As of the end of May, UNFPA has mobilized US $2.2 million of funding. The significant funding gap is hindering UNFPA’s ability to provide life-saving services to women and girls in need.</p>\n",
+    "url": "https://reliefweb.int/report/central-african-republic/unfpa-central-african-republic-situation-report-may-2026",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4217388",
+    "file_url": "https://reliefweb.int/attachments/7ee51f45-f108-4325-bb38-e812ed91a3cd/UNFPA%20CAR%20Situation%20Report%20%28May%202026%29.pdf"
+  },
+  {
+    "id": "rw-4217389",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNFPA Situation Report: Lebanon Crisis (16 May - 8 June 2026)",
+    "source": "UNFPA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "scope": "single",
+    "date": "2026-06-23",
+    "content": "<p>Violence persisted across Lebanon in spite of a ceasefire extension, further worsening an already critical humanitarian situation. Women and girls continue to face heightened protection risks, disrupted health services, and reduced access to safe and dignified support.</p>\n<p>On 31 May, airstrikes severely damaged a UNFPA-supported primary healthcare centre and a women and girls’ safe space in southern Lebanon. Both were among the few facilities still operating in the region. Forced evacuation orders in Beirut on 1 June and intense attacks in southern Lebanon have further increased the scale and unpredictability of displacement, causing panic and distress among affected persons, particularly women and girls.</p>\n<p>Since the onset of the crisis, UNFPA has reached more than 124,000 displaced people with sexual and reproductive health and gender-based violence (GBV) services. This has been delivered through support to 55 health facilities, nine mobile medical units, 24 mobile GBV teams, and 16 women and girls’ safe spaces, serving 200 collective shelters and host communities.</p>\n<p>On 5 June, UNFPA launched a revised Flash Appeal, aligned to the revised Inter-Agency Lebanon Flash Appeal. UNFPA is appealing for US $25 million to meet the urgent needs of 450,000 people from March to August 2026. Immediate action is critical to sustain essential life-saving services and to respond to the urgent and growing needs of the most affected populations.</p>\n",
+    "url": "https://reliefweb.int/report/lebanon/unfpa-situation-report-lebanon-crisis-16-may-8-june-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4217389",
+    "file_url": "https://reliefweb.int/attachments/bde246cf-5415-47a5-942d-5ff920321622/UNFPA%20Lebanon%20Situation%20Report%20%2816%20May-8%20June%202026%29%20final.pdf"
+  },
+  {
     "id": "rw-4217378",
     "provider": "reliefweb",
     "type": "original",
@@ -26,7 +77,7 @@
     "location": "Cook Islands",
     "scope": null,
     "date": "2026-06-23",
-    "content": "• Since January 2025, 11 dengue outbreaks have occurred across Pacific Island Countries, with 21,258 confirmed cases and 21 deaths reported in 2025, primarily in Fiji, Samoa, Tonga, Nauru, and Kiribati.  \n• In 2026, 4,206 confirmed cases, 162 hospitalisations, and 3 deaths have been reported up to 16 June, with outbreaks declared in New Caledonia and Tonga; Cook Islands declared the end of its outbreak on 25 May 2026.  \n• The majority of 2026 cases (94%) are concentrated in Cook Islands, French Polynesia, Samoa, and New Caledonia, with dengue serotypes 1 and 2 circulating; DENV-1 transmission is confirmed in Wallis and Futuna.  \n• The Cook Islands have transitioned from emergency response to sustained prevention, surveillance, and preparedness activities, reallocating resources to vector control, community engagement, blood bank support, and lessons learned documentation.  \n• Surveillance indicates ongoing low-level transmission in American Samoa, New Caledonia, Samoa, and Tonga, while Vanuatu is being monitored and no recent cases have been reported in Kiribati.  \n\nThe dengue outbreak in the Pacific has shown a declining trend in some countries, with several outbreaks declared over by late 2025 and mid-2026. However, persistent mosquito breeding sites and ongoing transmission risks require continued vigilance and targeted public health interventions to prevent resurgence. The coordinated regional response includes strengthened surveillance, vector control, and community engagement to manage the evolving epidemiological situation.",
+    "content": "• Since January 2025, 11 dengue outbreaks have occurred across Pacific Island Countries, with 21,258 confirmed cases and 21 deaths reported in 2025; fatalities were concentrated in Fiji, Samoa, Tonga, Nauru, and Kiribati.  \n• In 2026, as of 16 June, 4,206 confirmed cases, 162 hospitalisations, and 3 deaths have been reported, with Cook Islands, French Polynesia, Samoa, and New Caledonia accounting for 94% of cases.  \n• The Cook Islands declared the end of its dengue outbreak on 25 May 2026, but ongoing vector surveillance and community clean-up activities indicate a persistent risk of renewed transmission.  \n• Dengue serotypes 1 and 2 are circulating, with DENV-1 confirmed in Wallis and Futuna showing community transmission; low transmission levels persist in American Samoa, New Caledonia, Samoa, and Tonga.  \n• Response efforts in the Cook Islands have shifted from emergency response to sustained prevention, surveillance, and preparedness, with reallocated funds supporting vector control, community engagement, blood bank support, logistics, and lessons learned documentation.  \n\nThe dengue outbreaks in the Pacific have shown a declining trend in some areas, with several countries declaring the end of outbreaks in 2025 and early 2026. However, the presence of multiple serotypes and ongoing transmission in several locations highlight the need for continued vigilance, targeted vector control, and community engagement to prevent resurgence. The operational focus is now on sustaining critical public health interventions and improving preparedness for future outbreaks.",
     "url": null,
     "region": "Other",
     "subregion": "",
@@ -41,7 +92,7 @@
       "rw-4217173"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-23T00:41:54Z",
+    "generated_at": "2026-06-23T07:15:34Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Pacific: Dengue Outbreak - 2025-2026\n\n--- Report 1: IFRC (2026-06-22) ---\nCook Islands Dengue Outbreak - DREF Operational Update MDRCK003\n\n--- Report 2: SPC (2026-06-22) ---\nDengue in the Pacific: Multicountry Situation (As of 18 June 2026)\n"
@@ -56,7 +107,7 @@
     "location": "Philippines",
     "scope": null,
     "date": "2026-06-23",
-    "content": "• A significant earthquake and subsequent tsunami have impacted the Philippines in June 2026.\n• No detailed information on casualties, displacement, or damage has been provided by government reports as of 21–23 June.\n• There is currently no publicly available data on humanitarian needs, response efforts, or affected areas.\n\nDue to the lack of detailed situation reports, the scale and specific impacts of the earthquake and tsunami remain unclear. Further updates are needed to assess the humanitarian situation and coordinate appropriate response measures.",
+    "content": "• The Philippines experienced an earthquake and tsunami event in June 2026, with government reports issued between 21 and 23 June.\n• No detailed information on casualties, damages, or humanitarian needs has been provided in the available government situation reports.\n• There is currently no publicly available data on the scale of displacement, infrastructure impact, or emergency response measures.\n\nLimited official information restricts a comprehensive assessment of the situation. Further updates are needed to understand the humanitarian impact and identify priority needs for affected populations.",
     "url": null,
     "region": "Asia",
     "subregion": "South-eastern Asia",
@@ -73,10 +124,40 @@
       "rw-4217158"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-23T00:41:54Z",
+    "generated_at": "2026-06-23T07:15:34Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026\n\n--- Report 1: Govt. Philippines (2026-06-23) ---\nDSWD DROMIC Report #9 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 23 June 2026, 6AM\n\n--- Report 2: Govt. Philippines (2026-06-22) ---\nDSWD DROMIC Report #28 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 22 June 2026, 6PM\n\n--- Report 3: Govt. Philippines (2026-06-22) ---\nDSWD DROMIC Report #27 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 22 June 2026, 6AM\n\n--- Report 4: Govt. Philippines (2026-06-21) ---\nDSWD DROMIC Report #25 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 21 June 2026, 6AM\n\n--- Report 5: Govt. Philippines (2026-06-21) ---\nDSWD DROMIC Report #26 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 21 June 2026, 6PM\n"
+  },
+  {
+    "id": "ai-location-greece",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Greece",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Greece",
+    "scope": null,
+    "date": "2026-06-23",
+    "content": "• In 2025, Greece recorded 48,800 arrivals of refugees and asylum-seekers, a 21% decrease from 2024, with the sea route from North Africa to Crete becoming more prominent.  \n• UNHCR has scaled back its field presence due to severe funding cuts since mid-2025, closing offices in Samos, Chios, Kos, and Thessaloniki, and reducing interpretation services, which has impacted communication and assistance delivery.  \n• Critical protection activities for vulnerable groups, including survivors of violence, children, and persons with disabilities, have been suspended or reduced, along with mental health and psychosocial support programmes.  \n• Legal assistance services have been significantly curtailed, with coverage withdrawn from northern Greece and the islands, and specialised support for family reunification, statelessness, and detainees ceased, undermining fair asylum procedures.  \n• UNHCR requires $8.3 million in 2026 to sustain and scale up priority protection, legal, and reception-related interventions to uphold refugees’ access to territory, asylum, and rights.\n\nDespite reduced arrivals, ongoing vulnerabilities among refugees and asylum-seekers in Greece are exacerbated by funding shortfalls that have forced UNHCR to reduce critical services and presence. The introduction of the EU Pact on Migration and Asylum has increased the need for early legal support, which is currently under-resourced. Ensuring adequate funding is essential to maintain protection standards and address emerging challenges in the asylum system.",
+    "url": null,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "UNHCR"
+    ],
+    "sourceIds": [
+      "rw-4217282",
+      "rw-4217284",
+      "rw-4217285"
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-23T07:15:34Z",
+    "prompt_id": "a3a6fd17e378",
+    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
+    "user_prompt_display": "Crisis / situation: Greece\n\n--- Report 1: UNHCR (2026-06-22) ---\nUNHCR Greece - Vulnerables Protection Programme 2026\n\n--- Report 2: UNHCR (2026-06-22) ---\nUNHCR Greece - Legal assistance Programme 2026\n\n--- Report 3: UNHCR (2026-06-22) ---\nUNHCR Greece - Protection by Presence Programme 2026\n"
   },
   {
     "id": "ai-location-lebanon",
@@ -88,7 +169,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-06-23",
-    "content": "• The conflict between Hezbollah and Israel, ongoing since late 2023, escalated sharply in March 2026 after the collapse of a fragile ceasefire, leading to intensified Israeli ground operations and widespread evacuations in southern Lebanon and Beirut's southern suburbs.  \n• Casualties since March 2026 have exceeded 3,600 killed and 11,000 injured, with women, children, and the elderly comprising over one-third of civilian victims; nearly 200 healthcare facilities have been damaged or destroyed.  \n• Over 1.2 million people remain displaced, overwhelming shelters in cities such as Tyre and Saida, while humanitarian funding is critically insufficient—only $190 million of a $640 million appeal has been secured, risking imminent breaks in food, health, water, and shelter services.  \n• UNIFIL peacekeepers have faced severe operational challenges, including attacks and infrastructure damage, undermining their ability to monitor ceasefire violations along the Blue Line during their final mandate year.  \n• Despite a US-brokered ceasefire agreement in early June establishing \"pilot zones\" under Lebanese army control, Hezbollah has rejected the truce, and sporadic violence continues, keeping the security situation volatile and humanitarian needs acute.  \n\nThe Lebanon crisis remains highly unstable with ongoing hostilities and significant civilian harm. The humanitarian response is constrained by funding shortfalls and operational challenges, while political and military dynamics continue to impede durable peace and reconstruction efforts.",
+    "content": "• Since March 2026, Lebanon has experienced a severe escalation in conflict between Hezbollah and Israel, following the collapse of a fragile ceasefire, resulting in over 3,600 killed and 11,000 injured, with women, children, and elderly comprising over a third of civilian casualties.  \n• Airstrikes and ground operations have heavily damaged infrastructure, including nearly 200 healthcare facilities and key humanitarian sites such as a UNFPA-supported primary healthcare centre and women’s safe space in southern Lebanon, further limiting access to essential services.  \n• The conflict has displaced approximately 1.2 million people, overwhelming shelters in cities like Tyre and Saida, with ongoing violence and evacuation orders causing widespread panic and distress, especially among women and girls.  \n• Humanitarian needs are critical and growing, with a revised UN Flash Appeal launched on 5 June 2026 requesting $639.9 million to assist 1.4 million people through August; however, only $190 million has been secured, risking imminent breaks in food, health, water, and shelter services.  \n• Despite a US-brokered ceasefire agreement in early June establishing pilot zones for Lebanese army control, the truce remains fragile, with continued localized violence and rejection by Hezbollah threatening renewed escalation.  \n\nThe Lebanon crisis is marked by intense and sustained conflict that has devastated civilian infrastructure and displaced large populations, exacerbating vulnerabilities, particularly for women and girls. Humanitarian actors face significant operational challenges amid ongoing hostilities and funding shortfalls, necessitating urgent and coordinated international support to prevent further deterioration of living conditions and to sustain critical life-saving services.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -96,18 +177,20 @@
     "file_url": null,
     "relatedSources": [
       "DFS",
+      "UNFPA",
       "WHO"
     ],
     "sourceIds": [
+      "rw-4217389",
       "rw-4217358",
       "rw-4217223",
       "rw-4217115"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-23T00:41:54Z",
+    "generated_at": "2026-06-23T07:15:34Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: DFS (2026-06-22) ---\nLebanon Situation Analysis: 18/5/26 - 24/5/26\n\n--- Report 2: DFS (2026-06-22) ---\nLebanon Crisis Situation Analysis (Period: 01/06/26 - 07/06/26)\n\n--- Report 3: WHO (2026-06-21) ---\nLebanon Health Emergency Situation Update #28 18 June 2026\n"
+    "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: UNFPA (2026-06-23) ---\nUNFPA Situation Report: Lebanon Crisis (16 May - 8 June 2026)\n\n--- Report 2: DFS (2026-06-22) ---\nLebanon Situation Analysis: 18/5/26 - 24/5/26\n\n--- Report 3: DFS (2026-06-22) ---\nLebanon Crisis Situation Analysis (Period: 01/06/26 - 07/06/26)\n\n--- Report 4: WHO (2026-06-21) ---\nLebanon Health Emergency Situation Update #28 18 June 2026\n"
   },
   {
     "id": "ai-location-sri-lanka",
@@ -119,7 +202,7 @@
     "location": "Sri Lanka",
     "scope": null,
     "date": "2026-06-23",
-    "content": "• Dengue cases in Sri Lanka have surged sharply, with 4,824 suspected cases reported in the 24th week of 2026, a 48.2% increase from the previous week.  \n• The Western Province remains the epicentre, accounting for over half (55.4%) of cases, particularly in Colombo, Gampaha, and Kalutara districts.  \n• Other significantly affected districts include Matara, Kandy, Galle, Ratnapura, Kurunegala, Kegalle, and Hambantota, indicating widespread transmission across multiple provinces.  \n• Hospital admissions for dengue have increased, with nearly 900 patients admitted weekly to sentinel hospitals, straining healthcare capacity; 19 deaths have been reported in 2026 with a case fatality rate of 0.06%.  \n• The government has launched intensive dengue prevention and mosquito control campaigns, including legal actions against mosquito breeding sites, covering 14 districts and 72 MOH divisions.  \n\nThe dengue outbreak in Sri Lanka is driven by heavy rains and flooding associated with the southwest monsoon, creating favourable conditions for mosquito breeding and virus spread. The rapid rise in cases and hospital admissions highlights urgent needs for enhanced vector control, healthcare support, and public awareness to prevent further escalation.",
+    "content": "• Dengue cases in Sri Lanka have surged sharply, with 4,824 suspected cases reported in the 24th week of 2026, a 48.2% increase from the previous week.  \n• The Western Province remains the epicentre, accounting for over half (55.4%) of cases, particularly in Colombo and Gampaha districts.  \n• As of early June 2026, nearly 37,000 cases were recorded nationwide, marking a 30% rise compared to the previous year, with 19 dengue-related deaths reported so far (CFR 0.06%).  \n• Hospital admissions for dengue have increased, with 899 patients admitted in week 22, straining healthcare facilities in major hospitals in Colombo, Negombo, Kalubowila, and Kandy.  \n• The government has launched a nationwide mosquito control campaign covering 14 districts, including legal actions against premises breeding mosquitoes, aiming to curb the epidemic amid ongoing heavy rains and flooding.\n\nThe dengue outbreak in Sri Lanka is driven by seasonal heavy rains and flooding, which have created favourable conditions for mosquito breeding and virus transmission. The epidemic is widespread, affecting multiple provinces beyond the Western Province, and is placing significant pressure on healthcare services. Continued vector control efforts and public awareness are critical to managing the outbreak.",
     "url": null,
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -134,7 +217,7 @@
       "rw-4217159"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-23T00:41:54Z",
+    "generated_at": "2026-06-23T07:15:34Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Sri Lanka\n\n--- Report 1: Govt. Sri Lanka (2026-06-22) ---\nSri Lanka National Dengue Control Unit: Weekly Dengue Update, Week 24 (08th – 14th June 2026)\n\n--- Report 2: IFRC (2026-06-21) ---\nSri Lanka Dengue Outbreak 2026 - DREF Operation (MDRLK024)\n"
@@ -149,7 +232,7 @@
     "location": "Yemen",
     "scope": null,
     "date": "2026-06-23",
-    "content": "• From 1 January to 20 June 2026, 7,098 individuals (1,183 households) in Yemen experienced displacement at least once, with 102 individuals displaced between 14 and 20 June. Most recent displacements were to Ma’rib, Al Hodeidah, and Ta’iz governorates, originating mainly from Al Hodeidah, Ibb, and Aden.\n\n• Nearly 60 percent of Yemen’s population lacked adequate food access in April 2026 due to underfunded humanitarian response and access constraints. WFP’s targeted emergency food assistance programme has helped reduce severe food deprivation in targeted districts.\n\n• Rainfall in May 2026 was below average overall but showed wetter conditions in northern and central highlands, with hotter temperatures reaching 38–44°C in eastern and coastal areas, increasing heat-related risks. Vegetation was generally fair to good on 68% of cultivated land, supporting ongoing cereal growth despite some localized stress.\n\n• Nearly 5 million people in government-controlled areas continue to face high food insecurity, with rural livelihoods constrained by localized flooding, rangeland water stress in Al Dhale’e and Abyan, and persistent food shortages.\n\nHumanitarian access limitations affect displacement data coverage in some governorates. The combination of ongoing displacement, widespread food insecurity, and climatic challenges underscores the need for sustained and expanded humanitarian assistance, particularly in food security and livelihood support.",
+    "content": "• From 1 January to 20 June 2026, 7,098 individuals (1,183 households) were displaced at least once in Yemen, with 102 individuals displaced between 14 and 20 June. Displacements mainly occurred in Ma’rib, Al Hodeidah, and Ta’iz governorates, originating from Al Hodeidah, Ibb, Aden, and Ta’iz.\n\n• Nearly 60 percent of Yemen’s population lacked adequate food access as of April 2026, due to underfunded humanitarian response and limited access. WFP’s targeted emergency food assistance programme has helped reduce severe food deprivation in targeted districts.\n\n• Rainfall in May 2026 declined overall but remained variable, with wetter conditions in northern and central highlands and deficits in southern and eastern areas. Temperatures rose to 38–44°C in eastern and coastal regions, increasing heat-related risks.\n\n• Vegetation conditions were mostly favourable with 68% of cultivated areas in fair-to-good condition, supporting wheat harvesting, sorghum planting, and pasture regeneration. However, localized flooding, water stress in rangelands, and high food insecurity continue to negatively impact rural livelihoods, affecting nearly 5 million people in government-controlled areas.\n\nDisplacement continues at a moderate pace, concentrated in key governorates with ongoing movement linked to conflict and instability. Food insecurity remains a critical concern, exacerbated by funding shortfalls and access constraints. Climatic factors such as heat and uneven rainfall are adding pressure on agricultural productivity and rural livelihoods, underscoring the need for integrated humanitarian and development interventions.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -166,7 +249,7 @@
       "rw-4217114"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-23T00:41:54Z",
+    "generated_at": "2026-06-23T07:15:34Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Yemen\n\n--- Report 1: IOM (2026-06-22) ---\nYemen — Rapid Displacement Tracking Update (14 - 20 June 2026)\n\n--- Report 2: WFP (2026-06-22) ---\nWFP Yemen Country Brief June 2026\n\n--- Report 3: FAO (2026-06-21) ---\nYemen Agrometeorological Update: Food Security and Early Warning Information System (01 - 31 May 2026) [EN/AR]\n"
@@ -181,7 +264,7 @@
     "location": "occupied Palestinian territory",
     "scope": null,
     "date": "2026-06-23",
-    "content": "• Gaza's humanitarian situation remains dire after eight weeks of blockade and bombardment, with 2.2 million residents facing starvation, nearly 90% displaced, and critical infrastructure largely destroyed. A pause in hostilities since 10 October 2025 has allowed limited aid entry but remains fragile due to sporadic violations.\n\n• In the West Bank, Israeli military operations under \"Operation Iron Wall\" have displaced around 40,000 Palestinians, with returns barred for at least a year. Movement restrictions, settler violence, and land confiscation continue to escalate, displacing over 2,200 Palestinians in 2026 alone, including more than 1,000 children.\n\n• Humanitarian access is severely constrained across both Gaza and the West Bank, with over 230 access incidents reported in the West Bank by May 2026. Fuel shortages in Gaza are forcing prioritisation of life-saving services, and critical medical procedures risk suspension due to lack of disinfectants.\n\n• International bodies have raised concerns about systematic violations of international humanitarian law, including settlement expansion and forced displacement, which may amount to de facto annexation. The humanitarian community calls for timely, flexible funding and an end to policies altering the demographic composition of the territory.\n\nThe overall humanitarian crisis in the Occupied Palestinian Territory is marked by sustained violence, widespread displacement, and severe restrictions on aid and movement. Despite a ceasefire agreement, the situation remains unstable, with urgent needs for food, medical supplies, protection, and unrestricted humanitarian access. The deteriorating conditions in both Gaza and the West Bank underscore the complexity and urgency of addressing both immediate humanitarian needs and the underlying political and legal issues.",
+    "content": "• Gaza's humanitarian situation remains dire after eight weeks of blockade and intensive bombardment resumed in March 2025, with 2.2 million residents facing starvation, nearly 90% displaced, and critical infrastructure largely destroyed.  \n• A U.S.-backed pause in hostilities began on 10 October 2025, allowing limited aid entry, but violations and displacement continue, underscoring the fragility of the ceasefire.  \n• In the West Bank, \"Operation Iron Wall\" since January 2025 has displaced around 40,000 Palestinians, with returns barred for at least a year; settler attacks have displaced over 2,200 people in 2026, including more than 1,000 children.  \n• Movement restrictions, checkpoints, and road closures in the West Bank have caused 230 reported access incidents by May 2026, severely impeding humanitarian operations and health-care delivery.  \n• Humanitarian partners face critical shortages, including fuel and medical supplies, threatening essential services such as over 520 surgical procedures in Gaza; psychosocial and protection needs are escalating across the territory.  \n\nThe ongoing conflict and occupation have led to widespread violations of international humanitarian law, with concerns about forced displacement, settlement expansion, and de facto annexation in the West Bank. Despite a ceasefire, the humanitarian crisis in Gaza and the West Bank continues to worsen, with urgent calls for increased, flexible funding and cessation of policies that alter the demographic and territorial status quo.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -196,10 +279,61 @@
       "rw-4217162"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-06-23T00:41:54Z",
+    "generated_at": "2026-06-23T07:15:34Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: occupied Palestinian territory\n\n--- Report 1: DFS (2026-06-22) ---\nOccupied Palestinian Territories (oPt) Crisis Situation Analysis (Period: 01/06/26 - 07/06/26)\n\n--- Report 2: OCHA (2026-06-22) ---\noPt: Humanitarian Situation Report | 19 June 2026\n"
+  },
+  {
+    "id": "rw-4217282",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNHCR Greece - Vulnerables Protection Programme 2026",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Greece",
+    "scope": "single",
+    "date": "2026-06-22",
+    "content": "<p><strong>CONTEXT</strong></p>\n<p>People fleeing war or persecution often undertake dangerous journeys, but those with specific vulnerabilities—such as children, older persons, single women, people with disabilities, survivors of violence against women and children, or those with serious health and mental health conditions—face disproportionately higher risks. They may experience violence, exploitation, and abuse, often leaving them traumatized, especially when protection systems may not be able to address immediate needs and humanitarian resources are overstretched.</p>\n<p>Vulnerability is not static; it evolves over time and is shaped by factors such as social and environmental barriers, personal characteristics, and individual resilience. EU and national legislation recognize these compounding challenges by providing for specific safeguards for vulnerable asylum‑seekers during both reception and legal procedures.</p>\n<p>UNHCR’s added value lies in its field presence and partnerships with authorities, civil society, and refugee communities, enabling early identification of vulnerabilities and tailored, rights‑based responses. UNHCR ensures timely identification during reception procedures and adapts assistance to individual needs to safeguard well‑being and uphold fair and dignified treatment that prevents further harm.</p>\n<p>Severe funding constraints from mid‑2025 resulted in the suspension of critical protection activities, disproportionately affecting the most vulnerable. Case management and emergency accommodation for survivors of violence against women and children, youth protection and self‑reliance interventions were scaled back, and a vital mental health and psychosocial support programme ended.</p>\n<p>A total of $8.3 million is needed in 2026 to sustain priority responses and scale up critical interventions across all UNHCR programmatic areas.</p>\n",
+    "url": "https://reliefweb.int/report/greece/unhcr-greece-vulnerables-protection-programme-2026",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "rw_id": "4217282",
+    "file_url": "https://reliefweb.int/attachments/ee18cb8c-aad5-59db-8605-5de5498f63e3/unhcr-greece-vulnerables-protection-factsheet-june-2026.pdf"
+  },
+  {
+    "id": "rw-4217284",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNHCR Greece - Legal assistance Programme 2026",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Greece",
+    "scope": "single",
+    "date": "2026-06-22",
+    "content": "<p><strong>CONTEXT</strong></p>\n<p>Early legal support is essential to ensure fair asylum procedures and effective access to rights for refugees and asylum-seekers. As of 12 June 2026, the implementation of the EU Pact on Migration and Asylum introduced new procedural demands, requiring early and effective legal assistance and representation for the most vulnerable ones. UNHCR and its partners’ work is essential to sustain minimum safeguards and address emerging gaps through the provision of targeted legal assistance and strategic litigation.</p>\n<p>UNHCR brings extensive experience in delivering free, high-quality legal assistance, covering key stages of the asylum process and access to fundamental rights, such as right to family reunification. Partners have secured landmark decisions at national and international level, shaping jurisprudence and strengthening protection for refugees and asylum-seekers. This impact is driven by a coordinated approach combining legal action with monitoring, referrals, evidence-based advocacy, and judicial engagement. UNHCR has also played a critical role in bridging systemic gaps, including in the provision of compulsory legal assistance at the appeal stage.</p>\n<p>However, severe funding reductions since mid‑2025 have significantly undermined this capacity. By end‑2025, legal assistance coverage was withdrawn from northern Greece, and services on the islands ended in April 2026. Specialised support for family reunification, statelessness, and detainees ceased between mid and late-2025, leaving only limited resources available for targeted cases. Cuts to social assistance and interpretation services further undermined access to rights.</p>\n<p>A total of $8.3 million is needed in 2026 to sustain priority responses and scale up critical interventions across all UNHCR programmatic areas.</p>\n",
+    "url": "https://reliefweb.int/report/greece/unhcr-greece-legal-assistance-programme-2026",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "rw_id": "4217284",
+    "file_url": "https://reliefweb.int/attachments/56d45c13-5f22-5588-9d2d-0539655b25c0/unhcr-greece-legal-assistance-factsheet-june-2026.pdf"
+  },
+  {
+    "id": "rw-4217285",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNHCR Greece - Protection by Presence Programme 2026",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Greece",
+    "scope": "single",
+    "date": "2026-06-22",
+    "content": "<p><strong>CONTEXT</strong></p>\n<p>Arrivals to Greece by sea and land routes continue, though at reduced levels compared to previous years. In 2025, Greece recorded 48,800 arrivals (21% less than in 2024), with the sea route from North Africa to the Crete region gaining prominence.</p>\n<p>Since 2013, UNHCR has supported the functioning of the State’s first-reception mechanism. Pursuant to Article 45 of Law 4939/2022, UNHCR monitors reception and identification procedures, provides information to persons subject to these procedures, and offers any form of assistance, in accordance with its mandate and responsibilities. Through its long-standing presence in key locations, UNHCR enables direct engagement with affected populations and authorities, real-time identification of protection risks, and evidence-based advocacy to uphold access to territory and asylum.</p>\n<p>Ensuring refugees’ access to territory and asylum remains a priority. UNHCR will remain engaged with the State to support with any activities under the Screening Regulation of the EU Pact on Migration and Asylum, which sets out streamlined procedures for identifying, registering, and conducting security checks on thirdcountry nationals at the EU’s external borders.</p>\n<p>In 2025, due to reduced resources, UNHCR’s presence in field locations was scaled back. The premises of Samos, Chios, Kos, and Thessaloniki closed, and a limited staff presence was retained in all field locations primarily through camp-based modalities, while the Country Office remains in Athens covering southern Greece. In-person interpretation services were shifted to remote modalities, and interpretation hours were reduced, affecting communication with refugees.</p>\n<p>A total of $8.3 million is needed in 2026 to sustain priority responses and scale up critical interventions across all UNHCR programmatic areas.</p>\n",
+    "url": "https://reliefweb.int/report/greece/unhcr-greece-protection-presence-programme-2026",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "rw_id": "4217285",
+    "file_url": "https://reliefweb.int/attachments/0e5611eb-9c17-5cf2-abc0-b83bd4646c75/unhcr-greece-protection-by-presence-factsheet-june-2026.pdf"
   },
   {
     "id": "rw-4217375",
@@ -556,7 +690,7 @@
     "region": "Other",
     "subregion": null,
     "rw_id": "4217298",
-    "file_url": "https://reliefweb.int/attachments/e81a5d37-ffb3-4e47-af19-04e7976398a8/MDRCK003OU1.pdf"
+    "file_url": "https://reliefweb.int/attachments/9c5ba37a-4cb3-4b24-9d51-5101552de1d7/e81a5d37-ffb3-4e47-af19-04e7976398a8.pdf"
   },
   {
     "id": "rw-4217302",
@@ -812,6 +946,23 @@
     "subregion": "Southern Asia",
     "rw_id": "4217159",
     "file_url": "https://reliefweb.int/attachments/de0c51a8-d561-406b-b7f7-663eee1cfc82/MDRLK024.do.pdf"
+  },
+  {
+    "id": "rw-4217101",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Europe — Mixed Migration Flows to Europe, Quarterly Overview (January-March 2026)",
+    "source": "IOM",
+    "crisis": "Humanitarian Crisis",
+    "location": "World",
+    "scope": "single",
+    "date": "2026-06-20",
+    "content": "<p>In late 2015, IOM launched a Displacement Tracking Matrix (DTM) Flow Monitoring system, aiming to monitor Mixed Migration Flows to Europe by land and sea. Since then, DTM gathers, validates and disseminates information on migrants and refugees entering Europe through four main routes:</p>\n<ul>\n<li><strong>Eastern Mediterranean route (EMR)</strong>: arrivals by sea and land to Bulgaria, Cyprus and Greece</li>\n<li><strong>Central Mediterranean route (CMR)</strong>: arrivals by sea to Italy and Malta</li>\n<li><strong>Western Mediterranean route (WMR)</strong>: arrivals by sea to the Peninsular Coasts of Spain, Balearic Islands, by land to the autonomous cities of Ceuta and Melilla</li>\n<li><strong>Western African Atlantic route (WAAR)</strong>: arrivals by sea to the Canary Islands of Spain</li>\n</ul>\n<p>DTM also monitors data on migrants in transit through the <strong>Western Balkan route (WBR)</strong>, including data from Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, Serbia, and Kosovo (UNSCR 1244, 1999). These are considered separately to prevent, to the extent possible, the double counting of the same people, crossing multiple borders. Finally, DTM compiles data on migrants entering Croatia, Romania and Slovenia by land, typically after having crossed the Western Balkans or Bulgaria.</p>\n<p>This report presents the latest available data and trends, focusing on the first quarter of 2026 and comparing it with the same period in 2025 and the previous Q4 2025.</p>\n",
+    "url": "https://reliefweb.int/report/world/europe-mixed-migration-flows-europe-quarterly-overview-january-march-2026",
+    "region": "Global",
+    "subregion": "Global",
+    "rw_id": "4217101",
+    "file_url": "https://reliefweb.int/attachments/d301c547-3524-5eee-bcb1-150ca87b4e52/Europe%20%E2%80%94%20Mixed%20Migration%20Flows%20to%20Europe%2C%20Quarterly%20Overview%20%28January-March%202026%29.pdf"
   },
   {
     "id": "rw-4217102",
