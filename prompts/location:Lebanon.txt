@@ -1,10 +1,20 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNHCR (2026-06-23) ---
+--- Report 1: UNRWA (2026-06-23) ---
+All information is valid for 3 - 16 June 2026
+Key Points
+
+Following US-facilitated negotiations in Washington, Lebanon and Israel announced on 3 June an agreement on a conditional ceasefire aimed at ending hostilities linked to the broader regional conflict. The agreement is contingent on a complete cessation of fire by Hezbollah and the withdrawal of its operatives from areas south of the Litani River.
+The humanitarian situation in Lebanon remains fragile and unpredictable, with armed clashes continuing despite the ceasefire, alongside periodic escalations, including airstrikes, evacuation warnings, and new displacement, particularly in the south of the country.
+UNRWA launched its emergency response in Lebanon on 4 March 2026. Since then, the Agency has been operating two collective emergency shelters[1]: Siblin Training Centre in Saida Area and Battir School in Nahr El Bared Camp in northern Lebanon.
+By 16 June, a total of 1,911 displaced people from 605 families were registered in the two UNRWA emergency shelters.
+Between 3 and 16 June, no security incidents affecting on-duty UNRWA personnel or facilities were reported.
+
+--- Report 2: UNHCR (2026-06-23) ---
 Situation Overview
 The humanitarian situation in Lebanon remains fragile despite the ceasefire in place since 17 April 2026. Hostilities continued and increased, predominantly in Nabatiyeh and South governorates, with new displacement orders and sporadic attacks being reported in the West Bekaa. Over 1.4 million people have been affected by the crisis, including an estimated 390,000 women of reproductive age, among them approximately 16,000 pregnant women. In a matter of weeks, over one million individuals have been displaced amid large-scale destruction, with the crisis increasingly becoming protracted and urban in nature. The majority of displaced populations are living outside the roughly 639 functioning collective shelters, making them harder to reach and limiting access to essential services, while around 32,000 people remain in hard-to-reach areas. The situation is further exacerbated by violations of the ceasefire agreements with repeated targeting of civilian areas resulting in casualties, ongoing displacement, and widespread damage to infrastructure. In addition, the presence of unexploded ordnance (UXO) poses a severe and ongoing threat, increasing the risk of injury and death while hindering safe returns and access to affected locations.1 The situation in Southern Lebanon, including El Nabatiyeh and south governorate, remains particularly worrisome, with reports that around 45% of the towns and villages being damaged or destroyed
 
---- Report 2: CESVI (2026-06-23) ---
+--- Report 3: CESVI (2026-06-23) ---
 The rapid re-escalation of hostilities across Lebanon have further compounded an already fragile humanitarian situation, triggering renewed displacement, civilian casualties, and increasing pressure on overstretched public services. In response, CESVI has adapted its operational priorities in a flexible and agile manner to address the most urgent humanitarian needs arising from the crisis, while maintaining its long-term commitment to supporting vulnerable Lebanese communities, refugees, and displaced populations.
 Building on its long-standing presence in the country and established operational infrastructure,
 CESVI is delivering emergency assistance in areas where it already maintains access and strong local partnerships, particularly Saida, Baalbek, Iqlim El Kharroub and Bourj Hammoud in Beirut. Current interventions prioritise life-saving support to displaced populations residing in both collective shelters and host communities. Activities include the distribution of non-food items and hygiene kits, the provision of psychosocial support and protection services, MultiPurpose Cash Assistance (MPCA), and access to health services through mobile clinics implemented in collaboration with local partners. Rapid needs assessments, drawing on information gathered by field teams, social workers and MEAL systems, continue to inform the targeting and adaptation of interventions as humanitarian needs evolve. CESVI is also exploring opportunities to support the implementation of the Emergency Response Needs Assessment (ERNA) at the national level.
@@ -13,13 +23,13 @@ CESVI has promoted financial support programmes in Southern Lebanon, providing f
 Overall, CESVI remains well positioned to respond to Lebanon’s evolving humanitarian needs.
 With experienced national and international staff, strong local partnerships, and active participation in humanitarian coordination mechanisms, the organisation retains the operational capacity to conduct rapid needs assessments within 24-48 hours of the onset of a crisis and adapt programming accordingly to changing needs, delivering timely, targeted, and flexible assistance to affected populations.
 
---- Report 3: UNFPA (2026-06-23) ---
+--- Report 4: UNFPA (2026-06-23) ---
 Violence persisted across Lebanon in spite of a ceasefire extension, further worsening an already critical humanitarian situation. Women and girls continue to face heightened protection risks, disrupted health services, and reduced access to safe and dignified support.
 On 31 May, airstrikes severely damaged a UNFPA-supported primary healthcare centre and a women and girls’ safe space in southern Lebanon. Both were among the few facilities still operating in the region. Forced evacuation orders in Beirut on 1 June and intense attacks in southern Lebanon have further increased the scale and unpredictability of displacement, causing panic and distress among affected persons, particularly women and girls.
 Since the onset of the crisis, UNFPA has reached more than 124,000 displaced people with sexual and reproductive health and gender-based violence (GBV) services. This has been delivered through support to 55 health facilities, nine mobile medical units, 24 mobile GBV teams, and 16 women and girls’ safe spaces, serving 200 collective shelters and host communities.
 On 5 June, UNFPA launched a revised Flash Appeal, aligned to the revised Inter-Agency Lebanon Flash Appeal. UNFPA is appealing for US $25 million to meet the urgent needs of 450,000 people from March to August 2026. Immediate action is critical to sustain essential life-saving services and to respond to the urgent and growing needs of the most affected populations.
 
---- Report 4: WFP (2026-06-22) ---
+--- Report 5: WFP (2026-06-22) ---
 SITUATION OVERVIEW
 
 In May 2026, WFP assisted 850,000 people across all activities, including 264,000 conflict-affected people reached through emergency food and cash assistance.
@@ -31,12 +41,12 @@ SITUATION OVERVIEW
 • In May 2026, military operations continued to escalate, expanding beyond the Litani River, including to Beirut and various areas across the country, thereby heightening risks to civilians. • Evacuation warnings and resulting displacement continue to be the primary drivers of heightened humanitarian needs, affecting approximately 20 percent of the population (around 1 million people), of whom 134,400 internally displaced persons (IDPs) reside across 642 collective shelters (as of end of May).
 • The ongoing conflict, and its deeply-felt consequences, continues to erode recent food security gains in Lebanon, pushing conditions toward crisis level, with the latest IPC projections for April–August 2026 indicating that 24 percent of the population are expected to face acute food insecurity.
 
---- Report 5: DFS (2026-06-22) ---
+--- Report 6: DFS (2026-06-22) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/lebanon
 
---- Report 6: DFS (2026-06-22) ---
+--- Report 7: DFS (2026-06-22) ---
 The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
 2026. Although a November 2024 ceasefire was put in place, persistent daily violations and Israel's continued occupation of five
 positions in southern Lebanon blocked reconstruction and the return of displaced residents. The truce officially collapsed on March 2,
@@ -68,12 +78,3 @@ expanded their initial response strategy, launching a revised Flash Appeal that 
 to support 1.4 million people through August. However, with only $190 million of this total secured, massive funding gaps persist. Aid
 agencies warn that imminent pipeline and service breaks starting in July will directly threaten vital food, health, clean water, and
 shelter assistance for over 1.2 million displaced people.
-
---- Report 7: WHO (2026-06-21) ---
-Situation Overview
-Impact of ongoing airstrikes
-• Between 11 and 18 June 2026, the humanitarian situation in Lebanon remained fragile and severely strained, despite emerging indications of regional de-escalation following a mid-June political understanding between external actors.
-• During the first part of the reporting period, hostilities temporarily intensified, resulting in additional civilian casualties and infrastructure damage across multiple locations.
-• On 14 June, an airstrike on Beirut’s southern suburbs. This incident followed two earlier strikes in the same area within the preceding week, reflecting a continued pattern of recurring incidents affecting densely populated areas.
-• Overall, the period was characterized by low-to-moderate but persistent security incidents, with no large-scale escalation observed between 11 and 18 June. However, the situation remains unstable, with no clear or sustained trajectory toward stabilization.
-• In southern areas, conditions continued to be highly volatile, with ongoing incidents in border-adjacent areas contributing to continued civilian exposure to risk and sustained humanitarian pressure.
