@@ -1,6 +1,13 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-06-22) ---
+--- Report 1: WFP (2026-06-24) ---
+WFP assisted 3.4 million people in May, despite operating in a highly volatile security environment marked by a surge in drone strikes across the Darfurs, Kordofans, Khartoum and Blue Nile. This included in-kind assistance to 1.9 million people and cash-based transfers (CBT) to 1.3 million people.
+In May, 680,000 people were reached in areas projected to be at risk of famine, representing 88 percent of the 771,000 food-insecure people in those locations.
+WFP’s humanitarian food assistance continues to account for the largest share of overall support provided each month. In May, 3.2 million crisis-affected people received food and cash-based assistance. At the same time, integrated nutrition support reached 232,000 children under five, as well as pregnant and breastfeeding women and girls (PBWG).
+Due to funding shortfalls, WFP has had to hyper-prioritize assistance focusing on IPC4+ populations, based on the May 2026 IPC analysis. Monthly targets are being reduced from 5 million beneficiaries in Q1 to 3.4 million by Q4. Additionally, rations are being set at 70 percent for IPC5 areas to mitigate deterioration into famine conditions and 50 percent for IPC4 areas.
+WFP is aligning its targeting criteria with IPC analysis and nutrition indicators to better reach the most food-insecure populations. This ensures coherent geographic prioritization and beneficiary targeting across programme design and implementation.
+
+--- Report 2: DFS (2026-06-22) ---
 Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces
 (SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
 widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
@@ -42,16 +49,3 @@ As of mid-2026, Sudan remains one of the world’s most severe and complex human
 armed conflict, fragmented territorial control, mass displacement, and shrinking humanitarian space. Without urgent improvements in
 humanitarian access, sustained financing, and renewed diplomatic engagement, the crisis is likely to deepen further, with serious
 implications for civilian populations and broader regional stability.
-
---- Report 2: Logistics Cluster (2026-06-20) ---
-Highlights
-The monthly and annual percentage changes in the prices of key commodities and the WFP Local Food Basket (LFB) are summarized below:
-➢ WFP Local Food Basket: SDG 2,762/1 unit ( 14 % MoM, 49 %YoY)
-➢ Sorghum: SDG 1,458/kg( 7 MoM, 18%YoY)
-➢ Wheat Flour: SDG 3,787/kg ( 1.9% MoM, 41%YoY)
-➢ Goat: SDG 355,360/head( 8.8 MoM, 97%YoY)
-➢ Groundnuts: SDG 170,175/kantar ( 10.6% MoM, 205%YoY)
-Sudanese Pound:
-➢ SDG 4,150/USD in Parallel Market (depreciation of 2.0% month-on-month, 60% year-on-year)
-➢ SDG 3,390/USD in Commercial Banks (depreciation of 7.0%month-on-month, 66%year-on-year)
-Key Drivers: Currency depreciation, supply chain disruptions, and rising cost of production.
