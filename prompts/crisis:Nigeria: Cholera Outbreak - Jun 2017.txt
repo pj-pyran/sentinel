@@ -1,9 +1,10 @@
 Crisis / situation: Nigeria: Cholera Outbreak - Jun 2017
 
---- Report 1: Health Cluster (2026-05-28) ---
-This Situation Report provides an update on the cholera outbreak response in Borno State, Nigeria, covering the period from 1 to 22 May 2026.
-As of 22 May 2026, a cumulative 2,422 cholera cases and 24 associated deaths had been reported across seven LGAs, with a case fatality rate (CFR) of 1.0%. The report notes the continued geographic expansion of the outbreak, including newly affected Ngala LGA, and summarizes ongoing surveillance, laboratory testing, case management, WASH, risk communication, and multisectoral coordination activities.
+--- Report 1: Health Cluster (2026-06-23) ---
+This Situation Report provides an update on the cholera outbreak response in Borno State, Nigeria, covering the period from 01 May - 01 June 2026.
 
---- Report 2: Health Cluster (2026-05-28) ---
-This Situation Report provides an update on the cholera outbreak response in Borno State, Nigeria, covering the period from 1 to 25 May 2026.
-As of 25 May 2026, a cumulative 2,918 cholera cases and 27 associated deaths had been reported across seven LGAs, with a case fatality rate (CFR) of 0.9%. The report highlights ongoing transmission, water source contamination risks, and response activities including surveillance, laboratory testing, case management, WASH/IPC, risk communication, community engagement, and multisectoral coordination.
+--- Report 2: Health Cluster (2026-06-23) ---
+This Situation Report provides an update on the cholera outbreak response in Borno State, Nigeria, covering the period from 01 May - 08 June 2026.
+
+--- Report 3: Health Cluster (2026-06-23) ---
+This Situation Report provides an update on the cholera outbreak response in Borno State, Nigeria, covering the period from 01 May - 19 June 2026.
