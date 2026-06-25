@@ -1,6 +1,13 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: UNRWA (2026-06-23) ---
+--- Report 1: WFP (2026-06-25) ---
+HIGHLIGHTS
+
+Humanitarian needs remain immense. While food security improved during the ceasefire—driven in large part by humanitarian assistance and commercial imports—many families still struggle to access nutritious and diverse diets. Livelihoods and local production remain severely limited, leaving households highly dependent on humanitarian assistance.
+Humanitarian coverage continues to shrink following the suspension of WFP’s partnership with IHH, on top of the Israeli High Court’s 19 May decision already affecting the registration status of 37 international NGOs. Fewer national and international partners are able to operate in Gaza, reducing operational capacity and technical expertise on the ground.
+Armoured vehicle (AV) fleet limitations are a major concern for the safety of staff in Gaza, with only six of 21 AVs currently considered safe and operational. Authorisation to import eight new vehicles has now been approved, but it is still to be determined when they will be authorised to enter Gaza.
+
+--- Report 2: UNRWA (2026-06-23) ---
 All information updated for 10 -16 June 2026 [1]
 Days 976 - 982 since the start of the war in the Gaza Strip
 Highlights
@@ -8,41 +15,3 @@ The Gaza Strip
 
 UNRWA continues to participate in the pest-control campaign led by the WASH Cluster, aiming to prevent the spread of diseases and improve the living conditions for displaced communities amid severe overcrowding and deteriorating public health conditions. UNRWA is conducting cleaning campaigns, community awareness activities, and targeted pesticide application conducted by trained UNRWA personnel, alongside solid waste disposal and other activities to improve environmental conditions. In total, 351 campaigns to control the spread of disease-carrying animals and pests will be completed this week across all areas, with UNRWA directly implementing 270 campaigns and jointly implementing 81.
 Severe shortages of engine oil, tyres, and spare parts are placing life-saving humanitarian operations at risk across the Gaza Strip. According to ICRC, the overall water production in Gaza dropped radically to around 40 per cent of what it was before October 2023. The situation has deteriorated rapidly in recent months largely due to shortages of chemicals and spare parts. Today, for over 70 per cent of the population, the primary source of drinking water is truck deliveries supported by UNRWA and other partners. Funding for this critical intervention remains insufficient to keep delivering water at the current scale, let alone scale distribution up during the summer.
-
---- Report 2: DFS (2026-06-22) ---
-The Occupied Palestinian Territory is facing a severe humanitarian crisis, with both Gaza and the West Bank experiencing
-unprecedented levels of violence and deprivation. In Gaza, following the collapse of a brief pause in hostilities in March 2025, Israeli
-forces resumed intensive bombardment while maintaining a complete blockade that has now entered its eighth week, preventing all
-humanitarian aid and commercial supplies from entering. This has left Gaza's 2.2 million residents facing starvation as food stocks
-deplete, bakeries cease operations due to lack of flour and fuel, and nearly 90% of the population remains displaced with critical
-infrastructure almost entirely destroyed. A new U.S.-backed peace plan led to a pause in hostilities agreement coming into effect on 10
-October 2025, raising cautious hopes for increased humanitarian access and a potential reduction in hostilities after months of
-relentless violence. However, despite the pause in hostilities, sporadic violations, limited aid entry, and continued displacement
-highlight the fragility of the pause in hostilities and the deep humanitarian strain that persists across Gaza.
-Meanwhile, the West Bank has seen a dramatic escalation in military operations, particularly since the launch of &quot;Operation Iron Wall&quot;
-in January 2025, which has resulted in mass displacement of Palestinians and widespread destruction across refugee camps. Israeli
-forces have displaced approximately 40,000 people, with officials stating that residents will not be allowed to return for at least a year,
-while expanded checkpoints and military presence severely restrict movement between Palestinian cities.
-International organisations and UN bodies have expressed increasing concern about systematic violations of international
-humanitarian law in the West Bank, including accelerating settlement expansion, land reclassification and forced displacement that
-multiple observers warn are driving de facto annexation dynamics. These concerns have intensified following the International Court of
-Justice's 2024 advisory opinion on the illegality of the prolonged occupation and the Israeli authorities' security cabinet decisions of 8
-February 2026 expanding civil and administrative control over West Bank land and governance.
-
---- Report 3: OCHA (2026-06-22) ---
-Highlights
-
-UN Relief Chief tells Security Council that Gaza civilians cannot wait for diplomacy, while in the West Bank, a decades-long deterioration is accelerating rapidly.
-Further encroachment of the “Yellow Line” triggers new displacement as Israeli troops advance towards populated areas of Gaza city, marking the revised route with cement blocks.
-A reduction in fuel inflows forces humanitarian partners to prioritize the most life-saving services, further limiting overall efforts.
-Over 520 endoscopic and surgical procedures are at risk of being suspended unless new supplies of high-level disinfectant agents urgently enter Gaza.
-In the West Bank, two Palestinian herding families were displaced for a second time since the beginning of 2026 following escalating settler attacks near Birzeit, highlighting a broader trend that has displaced over 2,200 Palestinians, including more than 1,000 children, this year.
-By the end of May, humanitarian partners had reported 230 access incidents across the West Bank, where checkpoints, road closures and other movement restrictions continue to impede aid delivery and humanitarian operations.
-Humanitarian partners continue to report growing protection and psychosocial support needs across the West Bank, while health partners report ongoing access constraints and attacks affecting health-care delivery.
-
-Overview
-Across the Occupied Palestinian Territory (OPT), civilians continue to face insecurity, displacement and constrained access to essential services, while humanitarian partners operate under growing access restrictions and operational uncertainty. Essential systems remain under pressure, protection risks are high, and damage to infrastructure as well as poor living conditions are compounding vulnerabilities.
-Briefing the Security-Council on 18 June, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher, paid tribute to humanitarian workers who have made progress since the announcement of a ceasefire on 10 October 2025. At the same time, he warned that “Gaza is being held together by humanitarian workarounds and Palestinian perseverance,” which is unsustainable. “Palestinians in Gaza remain deprived of the basics that you would all demand for your own families: safety, shelter, clean water, health care, education,” he said.
-UN Relief Chief noted that “Too many Palestinians are being squeezed into an ever-shrinking strip of land. Their lives are shaped by the indignity of constantly shifting ‘yellow’ and ‘orange’ lines that define where they can seek refuge.”
-Speaking of the West Bank, including East Jerusalem, Mr Fletcher warned that “a decades-long deterioration is accelerating rapidly, characterized by calls from Israeli officials for Palestinian ‘voluntary migration’ and an intensification of discriminatory policies and practices.” In this context, he mentioned the high level of settler attacks and their impact so far in 2026.
-He called for humanitarian “funding that is timely, flexible and commensurate with the scale of this crisis” and for the cessation of measures that &quot;appear aimed at altering the demographic composition of the Occupied Palestinian Territory in violation of international law,” listing forced displacement, destruction of homes and other property, land confiscation, and movement restrictions.

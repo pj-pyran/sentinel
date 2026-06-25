@@ -1,12 +1,46 @@
 Crisis / situation: Ukraine
 
---- Report 1: ACAPS (2026-06-11) ---
-OVERVIEW
-Between January–April 2026, humanitarian access in frontline oblasts remained challenging following shifts in the frontline. After frontline movement led to increased shelling, particularly in the east, raions in these areas have seen humanitarian access deteriorate. Access breakdown and service disruptions continue to develop in areas further beyond the frontline, with technological advancements expanding drone reach and placing an even wider region under threat of strikes.
-This reporting period saw significant challenges in access to energy, heating, and other civilian services, as freezing weather conditions – the coldest in 15 years at −20°C – increased needs for electricity and heating sources. Persistent Russian strikes on energy infrastructure outpaced repairs, widening the gap between civilians’ service needs and the accessibility of those services and hampering humanitarian response capacity.
-In Donetska oblast, Druzhkivka, Kramatorsk, and Sloviansk in Kramatorskyi raion became increasingly central to both military defence efforts and humanitarian action as the frontline moved as close as 15km away. These cities, which contain the largest remaining population centres in Ukrainian-controlled Donetska oblast, have experienced some of the most significant increases in aerial attacks and shifting frontlines from January–April 2026, increasing civilian evacuations and affecting humanitarians’ ability to consistently access these populations.
-Kherson city and riverbank areas in Khersonskyi and Beryslavskyi raions continue to experience persistent strikes. Since January, the range of these strikes has slowly been increasing, with more attacks reaching as far as 25km and a very limited number reaching as far as 40km beyond the river. These attacks are raising the already high level of humanitarian action access severity within these regions. New Russian tactics, including the increased use of petal mines in Kherson city, are increasing the daily threat level throughout the city in both road and pedestrian areas, affecting civilian and humanitarian movements through the city.
-Russian attacks on transport and logistics hubs persisted at elevated rates through the reporting period, reducing operational continuity for civilians, humanitarians, and military alike, particularly in the east and north. Because of this targeting, general insecurity in these areas also increased, hindering safe humanitarian access. Attacks have affected major roadways and transit points in places such as Barvinkove, Lozova, Pavlohrad, Romny, and Sloviansk, making movement more difficult and necessitating the use of alternative roads and routes for safer humanitarian passage.
+--- Report 1: World Vision (2026-06-25) ---
+World Vision started working in Ukraine in March 2022 through 6 and now 3 active offices in Ukraine (Kyiv, Dnipro, Mykolaiv), which currently support aid efforts reaching conflict-affected people. While also supported Ukrainian refugees and host communities in Moldova, Romania, and Georgia. WV UCR in Moldova concluded its operations in June 2025 and transitioned to WV Romania registered Moldova Foundation.
+World Vision’s Ukraine Crisis Response and its local partners have reached over 2.3 million people, including more than 1 million children, providing essential support through food, non-food items, cash assistance, protection and education interventions, livelihood, and mental health &amp; psychosocial support programming.
+In 2025, World Vision intentionally incorporated early recovery and economic development into its programming, expanding livelihood opportunities for affected families and creating new jobs.
+Its microfinance arm, VisionFund, is operating in Ukraine in the field of medium- to long-term recovery and development via financing small and medium-sized businesses for further growth, opportunities to generate income and create new jobs.
+Ukraine Crisis Response Goal
+The Ukrainian children, refugees and IDPs, as well as the host communities in Ukraine, Moldova, Romania, and Georgia have the support to overcome the humanitarian consequences of the war crisis.
+UCR Strategic Objectives
+1 Early recovery and economic development opportunities are created for IDP and refugee households, as well as host communities for improved and self-reliant livelihood.
+2 Children, their families and communities benefit from enhanced social protection mechanisms and education opportunities in Ukraine and host countries.
+3 Basic needs of vulnerable children, families and communities affected by the war are met in Ukraine and host countries.
+4 Equitable and complementary partnerships with national and local actors are encultured and promoted to enable them take stronger leadership role in delivering the humanitarian response and managing the transition to rehabilitation and development.
 
---- Report 2: FAO (2026-06-10) ---
-Through its Emergency and Early Recovery Response Plan for 2026–2028, the Food and Agriculture Organization of the United Nations (FAO) is targeting 239 844 rural families and small-scale farmers affected by the ongoing war. With a total funding requirement of USD 193 million, the plan combines urgent agricultural support with early recovery measures to help sustain food production and rural livelihoods. During the first half of 2026, FAO has supported over 11 000 rural families with seed potatoes, vegetable seeds, young poultry, cash and voucher assistance, including support for animal feed and fuelwood. In parallel, more than 600 farmers received agricultural input vouchers for sowing campaigns and mine action-related recovery, modular storage units, and grant support for farm development. This assistance helped them maintain production, safely store harvested grain, invest in value chains and resume agricultural activities in affected areas.
+--- Report 2: ACLED (2026-06-24) ---
+Ukraine Conflict Monitor  Update
+Russia steps up its targeting of critical civilian infrastructure along Ukraine’s front line regions.
+1,937 political violence events
+3% increase compared to last week
+205 incidents of violence targeting civilians
+6% decrease compared to last week
+At least 61 civilians killed by targeted violence
+45% decrease compared to last week
+
+
+6 Jun.
+Krasnodar, Russia — A Ukrainian drone strike sparks a fire at the Poltava oil depot in Ust-Labinsk
+
+
+8 Jun.
+Kharkiv — A Russian combined drone and missile strike on Chuhuiv kills three civilians and damages apartments
+
+
+9 Jun.
+Mykolaiv — Russian forces withdraw from their positions on the Kinburn Spit
+
+
+
+Russian forces advanced in the Donetsk region, occupying the settlements of Pryiut, Rozkishne, and Tykhonivka following clashes with Ukrainian forces. In the Sumy region, they also claimed the capture of Myropillia and Zapsillia, both bordering Russia’s Belgorod region.
+Russian forces launched at least 33 long-range missile and drone attacks, including on the Kyiv, Odesa, and Zhytomyr regions.
+Russian strikes killed at least 51 civilians in the Sumy, Donetsk, Zaporizhia, Kharkiv, Kherson, Dnipropetrovsk, and Mykolaiv regions. Ukrainian drone strikes reportedly killed seven civilians in the Russian-controlled parts of the Luhansk, Zaporizhia, Kherson, and Donetsk regions.
+
+During the week of 6 to 12 June, Russian forces attacked at least 14 petrol stations in Ukraine’s front line regions, in a trend that had been intensifying since April. On 9 June alone, Russian drones damaged three different petrol stations in the villages of Korobochkyne, Malynivka, and Pechenihy in the Kharkiv region. In the Chernihiv region, Russian drones attacked petrol stations in Koriukivka and Novhorod-Siversky. They also attacked the cities of Nikopol and Pavlohrad and the villages of Bohdanivka and Hrushivka in the Dnipropetrovsk region, as well as a petrol station in the city of Kherson. In some of these strikes, Russian forces launched small drones at targets 20 to 25 kilometers within the front line. They mostly caused fires to erupt, without inflicting mass casualties. This suggests that the aim of these attacks was to impede civilian access to fuel rather than achieve any military objectives.
+Importantly, Russian attacks mostly targeted liquefied gas units, which are usually the most flammable and prone to exploding part of the station, rather than the station’s forecourt. This increases the impact of even a minor hit. For now, it does not seem that these attacks are leading to a systemic fuel shortage, and undamaged stations continue operating without queues or civilians rushing to buy fuel in panic. The consequences of these attacks are largely local and include some temporary closures of petrol stations, changes to their operating schedules, and potentially heavier traffic at the undamaged stations. To this point, the apparent goal seems to be to make civilians afraid of routine tasks such as refueling their cars, rather than to constrain fuel supply in these areas.
+These strikes fit into the broader pattern of Russia’s targeting of critical civilian infrastructure in Ukraine. Other examples are attacks on water supply systems such as the Pecheniky dam in the Kharkiv region. These strikes only further exacerbate the already dire humanitarian situation of Ukraine’s front line communities, where relentless attacks have wiped out entire cities, displaced much of the population, and left those who remain — often the elderly and people with limited mobility — with limited access to basic services. Whether through spreading fear among the civilian population or actually decreasing their access to fuel, these strikes — alongside the direct civilian targeting along the front line — appear designed to make these areas even less livable.
