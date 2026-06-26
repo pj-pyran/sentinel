@@ -1,12 +1,18 @@
 Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026
 
---- Report 1: Govt. Philippines (2026-06-25) ---
+--- Report 1: Govt. Philippines (2026-06-26) ---
 No summary available.
 
---- Report 2: Govt. Philippines (2026-06-24) ---
+--- Report 2: Govt. Philippines (2026-06-25) ---
 No summary available.
 
---- Report 3: IMC (2026-06-24) ---
+--- Report 3: Govt. Philippines (2026-06-25) ---
+No summary available.
+
+--- Report 4: Govt. Philippines (2026-06-24) ---
+No summary available.
+
+--- Report 5: IMC (2026-06-24) ---
 FAST FACTS
 
 A powerful earthquake struck the Mindanao region of the Philippines on June 8. Immediate needs include food assistance, safe drinking water, emergency shelter, infrastructure rehabilitation, livelihood recovery and psychosocial support.
@@ -20,10 +26,10 @@ After the quake, International Medical Corps immediately deployed a team to Sara
 Widespread humanitarian impacts and severe infrastructure damage have been reported following the 7.8-magnitude earthquake that struck offshore near Sarangani province, in the south of Mindanao island in the Philippines. Glan and Maasim municipalities in Sarangani province remain among the hardest-hit areas, with continuing aftershocks, landslides, damaged infrastructure and disruptions to essential services affecting recovery efforts. More than 5,000 aftershocks have been recorded since the main earthquake.
 International Medical Corps staff deployed to the affected municipalities in Sarangani province 24 hours after the earthquake, and immediately began working with the Provincial Disaster Risk Reduction and Management Office and the Provincial Health Office to streamline response efforts. Our teams also coordinated with health clusters and other NGOs responding to the disaster. By June 10, our team had begun supporting earthquake-affected health facilities in Sarangani province by providing generator sets, fuel, essential medicines and medical supplies to Sarangani Provincial Hospital (SPH) and Maasim Rural Health Unit (RHU), facilities that serve hundreds of thousands of people and are critical for maintaining emergency, primary and specialized healthcare services. To provide additional support in Glan and Maasim, International Medical Corps distributed hundreds of food and hygiene kits. Our team will be visiting Balut Island on June 26 to 27 to deliver initial support to the RHU there— including medicine, medical consumables, generators and fuel—and to conduct a rapid assessment to determine the additional needs for support and early recovery.
 
---- Report 4: Govt. Philippines (2026-06-24) ---
+--- Report 6: Govt. Philippines (2026-06-24) ---
 No summary available.
 
---- Report 5: UNFPA (2026-06-24) ---
+--- Report 7: UNFPA (2026-06-24) ---
 A magnitude 7.8 offshore earthquake caused widespread devastation across Mindanao, prompting the declaration of a State of Calamity in Sarangani Province on 10 June. The number of affected people has increased tenfold since initial estimates, placing significant pressure on health, protection and social service systems.
 Despite extensive damage, staffing shortages and limited equipment, front-line health workers continue to provide life-saving maternal and newborn care from temporary facilities, assisting deliveries and caring for vulnerable newborns under challenging conditions. Protection assessments in displacement sites have identified significant risks for women and girls, including overcrowded shelters, poorly lit and non-sex-segregated hygiene facilities, and a lack of dedicated safe spaces, undermining privacy and access to support services.
 UNFPA is working closely with the Government of the Philippines and partners to ensure continued access to sexual and reproductive health and gender-based violence services through coordination, protection monitoring, and the rapid deployment of an Emergency Maternity Tent Facility, reproductive health supplies, and dignity kits.

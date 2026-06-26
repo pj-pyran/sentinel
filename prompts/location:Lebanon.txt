@@ -1,10 +1,43 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNHCR (2026-06-25) ---
+--- Report 1: DFS (2026-06-26) ---
+The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
+2026. Although a November 2024 ceasefire was put in place, persistent daily violations and Israel's continued occupation of five
+positions in southern Lebanon blocked reconstruction and the return of displaced residents. The truce officially collapsed on March 2,
+2026, following U.S. and Israeli strikes on Iran, which triggered retaliatory Hezbollah rocket and drone attacks, subsequent heavy Israeli
+bombardments, expanded ground operations, and widespread evacuation orders across southern Lebanon and Beirut's southern
+suburbs.
+The conflict between Hezbollah and Israel rooted in late 2023 and early 2024 entered a volatile new phase on March 2, 2026, when a
+fragile November 2024 truce collapsed following U.S. and Israeli strikes on Iran. Hezbollah's retaliatory rocket and drone attacks
+prompted a massive Israeli response, shifting from &quot;limited&quot; incursions into an intensified ground campaign and heavy bombardments
+that triggered widespread evacuation orders across southern Lebanon and Beirut's southern suburbs. Amid this escalation, UNIFIL has
+faced severe operational constraints in its final mandate year; with peacekeepers killed, patrols targeted, and infrastructure damaged,
+the mission's ability to monitor and document violations along the Blue Line has been deeply compromised.
+UNIFIL has faced severe operational constraints during its final mandate year. Since March, peacekeepers have been killed, patrols
+targeted, and monitoring infrastructure damaged, undermining the mission’s ability to document violations along the Blue Line. Israeli
+military operations intensified throughout March and May 2026, evolving from “limited” operations into a broader ground campaign
+extending deeper into southern Lebanon.
+Following the massive military escalation that began in early 2026, Israel has targeted thousands of sites across Lebanon. While a
+breakthrough in early June led to a US - brokered ceasefire agreement outlining &quot;pilot zones&quot; for Lebanese army control, the diplomatic
+framework remains highly fragile. Hezbollah officially rejected the truce, demanding a full Israeli military withdrawal, while ongoing
+localized violence including an IDF strike on Beirut's southern suburbs and a major Hezbollah rocket barrage on June 7 continues to
+threaten a total collapse of the ceasefire, leaving over 1 million civilians displaced amid climbing casualties.
+Between April and June 2026, Lebanon's humanitarian crisis deepened severely. The Ministry of Public Health reported that casualties
+since March climbed to over 3,613 killed and 11,072 injured, with women, children, and the elderly making up more than a third of the
+civilian toll. Continuous airstrikes flattened neighborhoods, schools, and nearly 200 healthcare facilities across Southern Lebanon, the
+Bekaa Valley, and Beirut's southern suburbs, keeping 1.2 million people displaced and completely overwhelming shelters in cities like
+Tyre and Saida.
+Humanitarian funding in Lebanon remains critically inadequate. On June 5, 2026, the UN and the Lebanese government drastically
+expanded their initial response strategy, launching a revised Flash Appeal that raised the total financial requirement to $639.9 million
+to support 1.4 million people through August. However, with only $190 million of this total secured, massive funding gaps persist. Aid
+agencies warn that imminent pipeline and service breaks starting in July will directly threaten vital food, health, clean water, and
+shelter assistance for over 1.2 million displaced people.
+
+--- Report 2: UNHCR (2026-06-25) ---
 Revised Flash Appeal – March to August 2026
 The Revised 2026 Flash Appeal for Lebanon was launched on Friday, 5 June 2026. It presents an evidence-based continuation of the Government-led emergency response to the expanding scope and severity of humanitarian needs, seeking an additional US$331.5 million between June and August, and bringing the total revised Flash Appeal requirements for March to August 2026 to $639.9 million. As of 25 June, $226.9 million (35.5%) has been received against the Appeal. The revised Flash Appeal was informed by a common planning outlook for continued and expanding scale of hostilities. It was also informed by updated assessments and analyses and reflects a changed response posture recalibrating assistance around where people are, what they need and what delivery modality works, including in hard-to-reach areas. The revised Flash Appeal aims to provide lifesaving multi-sectoral assistance to 1.4 million vulnerable people in need, including affected vulnerable Lebanese, displaced Syrians, Palestine Refugees in Lebanon, Palestinian Refugees from Syria, and migrants. The Appeal is fully complementary to, and supportive of, the LRP 2026, which remains the primary planning framework in the country supporting an integrated humanitarian and stabilization response, co-led with the Government.
 
---- Report 2: OCHA (2026-06-24) ---
+--- Report 3: OCHA (2026-06-24) ---
 HIGHLIGHTS
 
 At least 4,175 deaths and 12,164 injuries due to hostilities recorded by the Ministry of Public Health since 2 March.
