@@ -36,6 +36,22 @@ HIGHLIGHTS
 • PAHO/WHO is supporting health sector coordination with the Ministry of Health, Civil Protection and the Health Cluster—convening partners, supporting evaluations, mapping partner presence and capacity, and engaging regional counterparts on potential donations. It is supporting rapid health facility functionality and damage assessments and identification of urgent needs for medicines, supplies, oxygen, fuel and other critical response needs. The PAHO Regional Response Team is on standby, with specialists identified for potential deployment across coordination, hospital safety, mass casualty care, logistics and other key areas.
 
 --- Report 4: Health Cluster (2026-06-25) ---
+English version follows
+Aspectos destacados y panorama del impacto
+El 24 de junio de 2026, un &quot;doblete sísmico&quot; de alta intensidad, compuesto por dos grandes terremotos poco profundos (M7,2 y M7,5), sacudió el centro-norte de Venezuela en rápida sucesión, con epicentro cerca de Morón, en el eje Carabobo/Yaracuy. El Sistema Global de Alerta y Coordinación en Casos de Desastre (GDACS) emitió una Alerta Roja para el evento. La presidenta encargada, Delcy Rodríguez, declaró el estado de emergencia nacional, confirmando oficialmente 164 muertes y 971 heridos a nivel nacional, mientras que las autoridades del estado Miranda reportan, por separado, 20 muertes y 209 heridos adicionales en sus municipios.
+Activación del sector salud y estado de los establecimientos críticos
+La infraestructura de salud pública y privada ha sido plenamente activada en todo el país. Según el modelo preliminar de exposición de la OPS/OMS, hasta 91 hospitales de emergencia se encuentran en zonas de sacudida severa, incluidos 20 hospitales directamente expuestos a una intensidad de Mercalli VII o superior. Se ha registrado una fuerte presión operativa, evacuaciones parciales y daños estructurales confirmados en múltiples establecimientos:
+
+Hospital Domingo Luciani (El Llanito): Evacuado por completo como medida preventiva; las evaluaciones técnicas de funcionalidad continúan en curso.
+Hospital Dr. Francisco A. Rísquez (Cotiza): Sufrió el colapso del ala del piso inferior, lo que provocó su evacuación y solicitudes urgentes de evaluación estructural.
+Hospital Magallanes de Catia: Varios pisos evacuados debido a roturas de tuberías y daños en la mampostería; se mantienen activas las solicitudes de carpas de emergencia y suministros de campo.
+Hospital Victorino Santaella Ruiz (Los Teques): Evacuado por las autoridades tras confirmarse daños estructurales en paredes internas y externas.
+Otros establecimientos clave desbordados: Se han reportado colapsos funcionales de las áreas de triaje de emergencia debido a la afluencia masiva de pacientes en el Hospital José María Vargas, el Hospital Pérez de León I y II, y el Hospital Vargas de La Guaira.
+
+Logística, entrada humanitaria y redes ciudadanas
+Los servicios públicos críticos (electricidad, agua, gas médico y telecomunicaciones) están sufriendo interrupciones severas, lo que amenaza la continuidad de la atención hospitalaria. Si bien el Aeropuerto Internacional Simón Bolívar (Maiquetía) sufrió daños en su infraestructura, ha sido reabierto exclusivamente para operaciones humanitarias y de respuesta. La Base Aérea Generalísimo Francisco de Miranda (La Carlota), en Caracas, funciona como el principal Punto de Entrada internacional. Venezuela solicitó formalmente la activación de la red INSARAG, autorizando el despliegue inmediato de los equipos internacionales de Búsqueda y Rescate Urbano (USAR). Este informe institucional oficial reconoce además un amplio ecosistema de redes ciudadanas digitales activas y registros de personas desaparecidas (como la red Todos Con Venezuela), que aportan recopilación descentralizada de datos y mapeo de recursos sobre el terreno.
+------------------------
+English version:
 Highlights &amp; Impact Overview
 On 24 June 2026, a high-intensity 'seismic doublet' consisting of two shallow, major earthquakes ($M7.2$ and $M7.5$) struck north-central Venezuela in rapid succession, with the epicentre located near Morón along the Carabobo/Yaracuy axis. The Global Disaster Alert and Coordination System (GDACS) has issued a Red Alert for the event. Acting President Delcy Rodríguez declared a national state of emergency, officially confirming 164 deaths and 971 injuries nationwide , while Miranda State authorities separately report an additional 20 deaths and 209 injuries across its municipalities.
 Health Sector Activation &amp; Critical Facility Status
@@ -49,7 +65,6 @@ Other Key Overwhelmed Facilities: Functional collapses of emergency triage areas
 
 Logistics, Humanitarian Entry &amp; Citizen Networks
 Critical utility lifelines (electricity, water, medical gas, and telecommunications) are experiencing severe disruptions, threatening the continuity of hospital care. While Simón Bolívar International Airport (Maiquetía) sustained infrastructure damage, it has been reopened strictly for humanitarian and response operations. Generalísimo Francisco de Miranda Air Base (La Carlota) in Caracas is serving as the primary international Point of Entry. Venezuela has formally requested INSARAG network activation, authorizing international Urban Search and Rescue (USAR) teams to deploy immediately. This official institutional report also acknowledges a broad ecosystem of active digital citizen-led networks and missing-persons registries (such as the Todos Con Venezuela network) providing decentralized data collection and resource mapping on the ground.
-Please note: A Spanish translation of this official document is currently in progress / La traducción al español de este informe se encuentra en proceso.
 
 --- Report 5: OCHA (2026-06-25) ---
 Situation Report #2
