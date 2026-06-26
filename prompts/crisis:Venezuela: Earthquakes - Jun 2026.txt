@@ -1,6 +1,21 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
 --- Report 1: OCHA (2026-06-25) ---
+Situation Report #2
+Earthquakes in Venezuela
+25 June 2026
+Time: 3:00 pm
+Highlights
+
+Two consecutive earthquakes of magnitude 7.2 and 7.5 recorded at around 18:00 on Wednesday 24 June, with more than 130 aftershocks.
+211 people dead and 1261 injured (provisional figure), according to authorities as of the afternoon of Thursday, June 25.
+250 buildings were affected or suffered total loss, particularly in La Guaira, according to official information.
+La Guaira state identified as the most affected, with multiple collapsed buildings.
+Significant structural damage in Caracas, including partial collapses and mass evacuations.
+Activation of the State of Emergency and the response General Staff.
+International rescue teams on the way.
+
+--- Report 2: OCHA (2026-06-25) ---
 Earthquakes in Venezuela
 June 25, 2026
 Time: 3:00 am
@@ -14,7 +29,7 @@ Maiquetía International Airport closed; Metro and rail services suspended.
 State of Emergency declared and Emergency Operations Command activated.
 International rescue teams are being deployed.
 
---- Report 2: Cruz Roja Venezolana (2026-06-25) ---
+--- Report 3: Cruz Roja Venezolana (2026-06-25) ---
 Description
 On 24 June 2026, two strong earthquakes, preliminarily measured at magnitudes 7.1 and 7.5, struck north-central Venezuela in rapid succession, with epicentres near Morón, Carabobo State. The earthquakes were felt across much of the country, including Caracas, La Guaira, Aragua, Carabobo and neighbouring states. Therefore, the national goverment of Venezuela declared the state of emergency.
 Preliminary information indicates damage to residential and commercial buildings, with reports of structural collapses in parts of Caracas and damage to infrastructure in several affected areas. Search and rescue operations have been activated while authorities continue rapid damage assessments. Power and telecommunications interruptions have been reported in some locations, and hospitals are receiving injured people.
