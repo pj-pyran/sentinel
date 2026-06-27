@@ -1,6 +1,26 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: UNICEF (2026-06-26) ---
+--- Report 1: OCHA (2026-06-26) ---
+Situation Report No. 3
+Earthquakes in Venezuela
+26 June 2026
+Time: 3:00 pm
+Highlights
+
+Two consecutive earthquakes of magnitude 7.2 and 7.5 on 24 June (18:00 local time); authorities report more than 302 aftershocks.
+Provisional official toll: 920 people dead and 3,360 injured; the figure continues to rise.
+More than 3,000 people resulted displaced, according to authorities.
+At least 1,423 infrastructures were affected; La Guaira remains the
+most affected state.
+Maiquetía International Airport closed without commercial flights; Caracas Metro and railways suspended; power outages in multiple states.
+International teams are already present in the country, including the United Nations Disaster Assessment and Coordination (UNDAC) team and Urban Search and Rescue (USAR) teams under INSARAG coordination.
+
+Situation overview
+Venezuela is facing a national emergency following the two consecutive high-magnitude earthquakes (7.2 and 7.5) of 24 June (18:00 local time) in the north-central region, with the epicentre off the coast some 28–30 km north-west of Montalbán (Carabobo). Authorities report more than 302 aftershocks, including a magnitude 5.1 event reported in Tucacas (Falcón state) on the night of 25 June, and a magnitude 4.4 aftershock northeast of Guatire (Miranda state) in the early hours of 26 June, sustaining high-risk conditions.
+The provisional official toll stands at 920 people dead and 3,360 injured. Authorities reported that at least 3,007 people had been displaced. Additionally, 1,423 infrastructures were affected. Figures remain under review as operations advance.
+The Government response in the initial hours has focused on search and rescue, emergency medical care and damage assessments. The impact is severe and widespread, with the highest concentration in the Capital District, La Guaira, Miranda, Carabobo and Yaracuy. La Guaira, which has been declared a disaster area, accounts for the highest number of affected infrastructures and ongoing rescue operations.
+
+--- Report 2: UNICEF (2026-06-26) ---
 Highlights
 
 On June 24, approximately 18:00 local time, Venezuela was struck by two consecutive high-magnitude earthquakes (7.2 and 7.5) in the central-northern region, triggering national and widespread damage. According to official sources, more than 30 aftershocks have been recorded maintaining a high level of risk and complicating ongoing response and assessment efforts.
@@ -19,11 +39,11 @@ Preliminary reports indicate extensive damage to buildings, critical infrastruct
 Hospitals and health facilities in affected states are partially impacted, with assessments by the Ministry of Health ongoing. Preliminary indications suggest disruptions to service delivery capacity in some facilities, although full functional status remains to be confirmed. Civil Protection authorities and national security forces have been mobilized nationwide and are leading response and search-and-rescue operations. Children and vulnerable populations are among the most affected. Schools, health facilities, and child protection systems have been disrupted, leaving children at increased risk of psychological distress, displacement, and disease outbreaks. Pre-existing vulnerabilities in paediatric health services and nutrition systems have been further exacerbated by the shock. UNICEF and partners highlight heightened risks related to malnutrition, interruption of immunization services, and lack of safe water and sanitation in displacement settings.
 Immediate humanitarian priorities, in addition to rescue operations, will be further defined following rapid multi-sectoral needs assessments. However, initial indications suggest urgent requirements for temporary shelter for displaced families, psychosocial support for children and caregivers, emergency health and nutrition interventions, restoration of safe water and sanitation services, and the establishment of temporary learning spaces to ensure continuity of education. Medium- to long-term recovery efforts will be essential to restore essential services and infrastructure, strengthen resilience, and ensure that children remain at the centre of the humanitarian response.
 
---- Report 2: DFS (2026-06-25) ---
+--- Report 3: DFS (2026-06-25) ---
 On 24 June 2026, northern Venezuela was struck by two powerful earthquakes approximately 40 seconds apart - a magnitude 7.2 foreshock followed by a magnitude 7.5 mainshock, making it the country's strongest recorded earthquake in more than 125 years. The shallow earthquakes generated violent ground shaking across northern Venezuela, causing widespread damage to homes, health facilities, schools, transport infrastructure, and essential services. As of 25 June, at least 164 people have been confirmed dead and 971 injured, although casualty figures are expected to rise as search and rescue operations continue and assessments reach previously inaccessible areas.
 This report provides a consolidated overview of the evolving humanitarian situation, including the geographic extent of the earthquake and an assessment of the most affected states, municipalities, and parishes. It also analyses the humanitarian impacts in the context of Venezuela's pre-existing vulnerabilities, which are likely to compound the effects of the disaster and increase humanitarian needs. Drawing on available information, the report identifies priority humanitarian needs across key sectors, highlights the populations and locations facing the greatest risks, and outlines key response considerations and likely operational priorities to support emergency response, humanitarian coordination, and the transition towards early recovery.
 
---- Report 3: PAHO (2026-06-25) ---
+--- Report 4: PAHO (2026-06-25) ---
 HIGHLIGHTS
 • On 24 June 2026, two consecutive earthquakes (M7.2 and M7.5) struck Yaracuy state in north-central Venezuela with ~3.9 million people exposed to severe shaking.
 • The earthquake was felt across several states, including Miranda, Aragua, Yaracuy, Lara, Mérida, Falcón, Carabobo, La Guaira and the Capital District. La Guaira may be among the worst affected –with multiple collapsed buildings, ongoing search and rescue, and a disaster-area declaration – while collapsed buildings and damaged infrastructure are also reported in parts of Caracas and Miranda. Assessments are still ongoing
@@ -35,7 +55,7 @@ HIGHLIGHTS
 • PAHO/WHO staff are reported safe, and the PAHO office withstood the earthquake.
 • PAHO/WHO is supporting health sector coordination with the Ministry of Health, Civil Protection and the Health Cluster—convening partners, supporting evaluations, mapping partner presence and capacity, and engaging regional counterparts on potential donations. It is supporting rapid health facility functionality and damage assessments and identification of urgent needs for medicines, supplies, oxygen, fuel and other critical response needs. The PAHO Regional Response Team is on standby, with specialists identified for potential deployment across coordination, hospital safety, mass casualty care, logistics and other key areas.
 
---- Report 4: Health Cluster (2026-06-25) ---
+--- Report 5: Health Cluster (2026-06-25) ---
 English version follows
 Aspectos destacados y panorama del impacto
 El 24 de junio de 2026, un &quot;doblete sísmico&quot; de alta intensidad, compuesto por dos grandes terremotos poco profundos (M7,2 y M7,5), sacudió el centro-norte de Venezuela en rápida sucesión, con epicentro cerca de Morón, en el eje Carabobo/Yaracuy. El Sistema Global de Alerta y Coordinación en Casos de Desastre (GDACS) emitió una Alerta Roja para el evento. La presidenta encargada, Delcy Rodríguez, declaró el estado de emergencia nacional, confirmando oficialmente 164 muertes y 971 heridos a nivel nacional, mientras que las autoridades del estado Miranda reportan, por separado, 20 muertes y 209 heridos adicionales en sus municipios.
@@ -66,7 +86,7 @@ Other Key Overwhelmed Facilities: Functional collapses of emergency triage areas
 Logistics, Humanitarian Entry &amp; Citizen Networks
 Critical utility lifelines (electricity, water, medical gas, and telecommunications) are experiencing severe disruptions, threatening the continuity of hospital care. While Simón Bolívar International Airport (Maiquetía) sustained infrastructure damage, it has been reopened strictly for humanitarian and response operations. Generalísimo Francisco de Miranda Air Base (La Carlota) in Caracas is serving as the primary international Point of Entry. Venezuela has formally requested INSARAG network activation, authorizing international Urban Search and Rescue (USAR) teams to deploy immediately. This official institutional report also acknowledges a broad ecosystem of active digital citizen-led networks and missing-persons registries (such as the Todos Con Venezuela network) providing decentralized data collection and resource mapping on the ground.
 
---- Report 5: OCHA (2026-06-25) ---
+--- Report 6: OCHA (2026-06-25) ---
 Situation Report #2
 Earthquakes in Venezuela
 25 June 2026
@@ -88,7 +108,7 @@ The governmental response is focused on search-and-rescue operations, emergency 
 Caracas experienced prolonged shaking (60 seconds), resulting in widespread panic, evacuations and significant structural damage to buildings. La Guaira state has been identified as the epicentre of the most severe impact, with reports of multiple collapses and conditions classified as a disaster zone, where intensive rescue operations continue.
 The provisional official toll reports 211 people dead and 1261 injured. These figures subject to revision as work continues in collapsed structures.
 
---- Report 6: OCHA (2026-06-25) ---
+--- Report 7: OCHA (2026-06-25) ---
 Earthquakes in Venezuela
 June 25, 2026
 Time: 3:00 am
@@ -108,7 +128,7 @@ The Government response is focused on search and rescue operations, emergency me
 Caracas experienced prolonged shaking (&gt;60 seconds), resulting in widespread panic, evacuations, and significant structural damage to buildings. La Guaira State has been identified as the area with the most severe impact, with multiple building collapses and conditions classified as a disaster zone, where intensive search and rescue operations are ongoing.
 Preliminary figures report 32 fatalities and more than 700 injured, with numbers expected to rise as rescue efforts continue in collapsed structures.
 
---- Report 7: Cruz Roja Venezolana (2026-06-25) ---
+--- Report 8: Cruz Roja Venezolana (2026-06-25) ---
 Description
 On 24 June 2026, two strong earthquakes, preliminarily measured at magnitudes 7.1 and 7.5, struck north-central Venezuela in rapid succession, with epicentres near Morón, Carabobo State. The earthquakes were felt across much of the country, including Caracas, La Guaira, Aragua, Carabobo and neighbouring states. Therefore, the national goverment of Venezuela declared the state of emergency.
 Preliminary information indicates damage to residential and commercial buildings, with reports of structural collapses in parts of Caracas and damage to infrastructure in several affected areas. Search and rescue operations have been activated while authorities continue rapid damage assessments. Power and telecommunications interruptions have been reported in some locations, and hospitals are receiving injured people.
