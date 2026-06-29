@@ -1,6 +1,36 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: OCHA (2026-06-28) ---
+--- Report 1: UNICEF (2026-06-28) ---
+Highlights
+
+Approximately 72 hours have passed since two major earthquakes of magnitude 7.2 and 7.5 struck north-central Venezuela on 24 June 2026, causing widespread destruction across densely populated urban areas. As of 27 June, at least 1430 people have been reported dead and over 3,000 have been injured with casualty figures expected to rise as search and rescue operations continue. In response, the Government of the Bolivarian Republic of Venezuela declared a State of Emergency to mobilize technical, human, financial and material resources.
+An estimated 6.76 million people, including approximately 2 million in Caracas, could be affected by the 24 June earthquakes in Venezuela, with preliminary satellite analysis indicating that 31.5 per cent of buildings in only one location (Catia La Mar) have been damaged (IOM, 27 June).
+UNICEF estimates that approximately 1.8 million people, including 680,000 children, are in need of humanitarian assistance* following the earthquakes in Venezuela. These figures are expected to evolve as access improves and further assessments are conducted.
+UNICEF has activated a scaled-up emergency response, deploying additional surge staff, mobilizing pre-positioned and incoming relief supplies, and participating in interagency assessments and coordination mechanisms to address urgent, life-saving needs in earthquake-affected areas. Through its earthquake response, UNICEF aims to reach approximately 650,000 people, including 234,000 children, with critical interventions across health, nutrition, WASH, child protection and education.
+A first air shipment from UNICEF's regional warehouse in Panama, carrying 20 tons of medical supplies, WASH items, and tents, arrived in the country on 27 June. A second shipment from UNICEF's central warehouse in Copenhagen, containing 48 tons of additional supplies, is expected to arrive on 30 June. Together, these supplies are intended to support more than 100,000 people.
+UNICEF estimates that US$52 million will be required to support the humanitarian response to the earthquake emergency in Venezuela.
+
+Situation in Numbers
+6.76 million People affected by the earthquakes (according to IOM, 27 June 2026)
+1.8 million People in need of humanitarian assistance (UNICEF estimate)
+680K children in need of humanitarian assistance (UNICEF estimate)
+650K People to be reached (UNICEF estimate)
+234K Children to be reached (UNICEF estimate)
+US$52 million Required for UNICEF humanitarian response
+Funding Overview and Partnerships
+UNICEF is seeking US$52 million to respond to the humanitarian consequences of the 24 June earthquakes. Note that before the earthquakes, UNICEF's 2026 Humanitarian Action for Children appeal for Venezuela stood at US$137.6 million, with only 35 per cent funded.
+The earthquake response aims to reach approximately 650,000 people, including 234,000 children, with lifesaving assistance across health, nutrition, water, sanitation and hygiene (WASH), child protection and education. The funding requirement come at a time when Venezuela was already facing a protracted humanitarian situation, with an estimated 7.9 million people, including 3.9 children, in need of assistance prior to the disaster.
+UNICEF is grateful for the rapid mobilization of flexible resources and the support of donors and partners that have enabled the immediate deployment of emergency supplies and personnel to support affected children and families. Continued and timely funding will be critical to sustain life-saving interventions, scale up emergency operations and address increasing humanitarian needs as assessments continue and access improves. Flexible contributions will enable UNICEF to complement Government-led response efforts and rapidly adapt to evolving needs on the ground. In addition to external contributions and donor pledges, UNICEF has mobilized approximately US$3.5 million from its own internal resources, including the Emergency Programme Fund (EPF) and Global Humanitarian Thematic Funds (GHTF), to enable an immediate scale-up of the response and ensure the rapid delivery of life-saving assistance in the initial phase of the emergency.
+Under the leadership of the Government of the Bolivarian Republic of Venezuela and within the interagency response framework, UNICEF is working closely with national and local authorities, United Nations agencies, civil society organizations and non-governmental organizations through established coordination mechanisms. UNICEF is participating in interagency assessments and supporting sector coordination while leveraging its longstanding partnerships with government institutions, local organizations and the private sector to deliver urgent assistance and support early recovery efforts for children and their families in the affected areas.
+Situation overview and Humanitarian Needs
+On 24 June 2026, Venezuela was struck by two major earthquakes of magnitude 7.2 and 7.5 within one minute of each other, causing widespread destruction across north-central and densely populated urban areas of the country. Two days after the earthquakes, at least 1430 deaths and more than 3,000 injured were reported, with casualty figures expected to rise as search and rescue operations continue. The Government of the Bolivarian Republic of Venezuela has declared a State of Emergency throughout the national territory to mobilize technical, human, financial and material resources in support of the response.
+According to the International Organization for Migration (IOM), preliminary estimates indicate that up to 6.76 million people, including approximately 2 million people in Caracas, could be affected by the earthquakes. Initial satellite analysis suggests that 31.5 per cent of buildings in Catia La Mar (La Guaira) alone have sustained damage,i highlighting the severity of the disaster and the potential for significant displacement.
+UNICEF estimates that approximately 1.8 million people, including 680,000 children, are in need of humanitarian assistance,ii with figures expected to evolve as access improves and additional assessments are conducted. The earthquakes have compounded an already fragile humanitarian context. Prior to the disaster, an estimated 7.9 million people, including 3.9 million children, required humanitarian assistance due to prolonged socioeconomic challenges and gaps in access to essential services. The earthquakes have further strained already vulnerable communities, creating a complex urban emergency characterized by damaged critical infrastructure, disrupted services and increasing humanitarian needs, particularly among children and families.
+UNICEF is supporting national response efforts in close coordination with government counterparts, United Nations agencies, humanitarian partners and local actors to ensure that the needs and rights of children remain at the centre of the response. UNICEF has activated a scale-up response, mobilized emergency funding and deployed additional surge personnel to support assessments, coordination and the delivery of life-saving assistance. Through its earthquake response, UNICEF aims to reach approximately 650,000 people, including 234,000 children, with critical interventions across health, nutrition, WASH, child protection and education.
+A first air shipment from UNICEF's regional warehouse in Panama, carrying 20 metric tons of medical supplies, WASH items and tents, arrived in the country on 27 June. A second shipment of 48 metric tons from UNICEF's Global Supply Hub in Copenhagen is expected to arrive on 30 June. Together, these supplies are expected to support approximately 100,000 people with life-saving assistance. UNICEF is also mobilizing pre-positioned supplies and preparing additional shipments to address urgent humanitarian needs.
+Immediate priorities, beyond search and rescue operations, include the provision of emergency health and nutrition assistance, safe water and sanitation services, psychosocial support for children and caregivers, child protection services and temporary learning spaces to ensure continuity of education. Over the medium and longer term, recovery efforts will focus on restoring essential services and infrastructure, strengthening community resilience and supporting children and families to recover with dignity.
+
+--- Report 2: OCHA (2026-06-28) ---
 Situation Report No. 4
 Earthquakes in Venezuela
 27 June 2026
@@ -21,41 +51,22 @@ Venezuela is facing a national emergency following the two consecutive high-magn
 The official toll stands at 1,430 people dead and 3,280 injured. Authorities also reported that 3,142 families have been displaced. Additionally, as of the afternoon of Friday, 26 June, at least 1,423 infrastructures had been reported as affected. Figures remain under review as operations advance.
 The Government response in the initial hours has focused on search and rescue, emergency medical care and damage assessments. The impact is severe, with the highest concentration in the La Guaira, Capital District, Miranda, Carabobo and Yaracuy. The United Nations and its partner organizations are coordinating for the next phase of the response.
 
---- Report 2: OCHA (2026-06-26) ---
-Situation Report No. 3
-Earthquakes in Venezuela
-26 June 2026
-Time: 3:00 pm
+--- Report 3: IOM (2026-06-27) ---
+This first Situation Report provides an overview of the impact of the 24 June earthquakes in the Bolivarian Republic of Venezuela and outlines IOM’s planned response in support of affected populations and national efforts.
 Highlights
 
-Two consecutive earthquakes of magnitude 7.2 and 7.5 on 24 June (18:00 local time); authorities report more than 302 aftershocks.
-Provisional official toll: 920 people dead and 3,360 injured; the figure continues to rise.
-More than 3,000 people resulted displaced, according to authorities.
-At least 1,423 infrastructures were affected; La Guaira remains the
-most affected state.
-Maiquetía International Airport closed without commercial flights; Caracas Metro and railways suspended; power outages in multiple states.
-International teams are already present in the country, including the United Nations Disaster Assessment and Coordination (UNDAC) team and Urban Search and Rescue (USAR) teams under INSARAG coordination.
+Two major earthquakes of Mw 7.2 and Mw 7.5 struck central-northern Venezuela on 24 June, causing widespread damage across La Guaira, Caracas, Miranda, Carabobo and Yaracuy.
+La Guaira has been identified as the most severely affected area, with significant destruction reported.
+Critical infrastructure has been disrupted, including electricity, water supply, telecommunications, transport systems, the Caracas Metro and Maiquetía International Airport.
+The Government has declared a state of emergency and activated national response mechanisms.
 
-Situation overview
-Venezuela is facing a national emergency following the two consecutive high-magnitude earthquakes (7.2 and 7.5) of 24 June (18:00 local time) in the north-central region, with the epicentre off the coast some 28–30 km north-west of Montalbán (Carabobo). Authorities report more than 302 aftershocks, including a magnitude 5.1 event reported in Tucacas (Falcón state) on the night of 25 June, and a magnitude 4.4 aftershock northeast of Guatire (Miranda state) in the early hours of 26 June, sustaining high-risk conditions.
-The provisional official toll stands at 920 people dead and 3,360 injured. Authorities reported that at least 3,007 people had been displaced. Additionally, 1,423 infrastructures were affected. Figures remain under review as operations advance.
-The Government response in the initial hours has focused on search and rescue, emergency medical care and damage assessments. The impact is severe and widespread, with the highest concentration in the Capital District, La Guaira, Miranda, Carabobo and Yaracuy. La Guaira, which has been declared a disaster area, accounts for the highest number of affected infrastructures and ongoing rescue operations.
+Key figures
 
---- Report 3: UNICEF (2026-06-26) ---
-Highlights
+At least 920 people reported dead.
+Approximately 3,360 people injured.
+More than 214 aftershocks recorded as of the morning of 25 June.
+Casualty figures are expected to rise as search-and-rescue operations continue.
 
-On June 24, approximately 18:00 local time, Venezuela was struck by two consecutive high-magnitude earthquakes (7.2 and 7.5) in the central-northern region, triggering national and widespread damage. According to official sources, more than 30 aftershocks have been recorded maintaining a high level of risk and complicating ongoing response and assessment efforts.
-The most affected areas include the Capital District, Miranda, Carabobo and Yaracuy States, with Caracas experiencing prolonged shaking, mass evacuations, and suffering significant damage.
-La Guaira, where the main international airport is located, has been identified as a disaster zone, where intensive search and rescue operations remain underway and complex.
-On 25 June, official reports indicated that 164 deaths and more than 970 injured people, with casualty figures expected to increase as rescue teams continue to search collapsed structures and conduct damage assessments.
-UNICEF is closely monitoring the impact of the earthquakes and is supporting national response efforts in coordination with other UN agencies and local partners to ensure that children’s protection, health, WASH, psychosocial support and other essential needs remain at the centre of the humanitarian response.
-
-Situation in Numbers
-971 people injured (Ministry of Health of Venezuela official statement, 25 June 2026).
-164 reported deaths (Ministry of Health of Venezuela official statement, 25 June 2026).
-30 aftershocks (Ministry of Health of Venezuela official statement, 25 June 2026 - midday).
-Situation Overview and Humanitarian Needs
-On 24 June, two powerful earthquakes of magnitude Mw 7.2 and Mw 7.5 struck Venezuela, marking the most significant seismic event in over a century. The epicentre, located near Yumare in Yaracuy State, triggered widespread destruction across La Guaira, Caracas, Carabobo, Falcón, Miranda and surrounding areas. The two main shocks occurred approximately 30 seconds apart, exacerbating structural damage and contributing to heightened disruption across already densely populated and infrastructure-constrained urban centres. On 25 June, Venezuela's Acting President, Delcy Rodríguez, has declared a state of emergency and reported on Thursday that 164 deaths and 971 injuries had been registered following the two major earthquakes.
-Preliminary reports indicate extensive damage to buildings, critical infrastructure, and essential services, including widespread failures in electricity, water supply, and telecommunications systems. In La Guaira, particularly in the vicinity of the port and airport area, severe structural damage has been reported, including collapsed buildings. The Simón Bolívar International Airport in Maiquetía has sustained damage and remains largely inoperable, although one runway is reportedly still operational. This has significantly constrained the flow of humanitarian personnel and relief supplies, as well as evacuation and logistics capacity. The earthquakes also affected key urban areas in Caracas, including Chacao municipality, where structural damage has been reported in both residential and commercial buildings. While Venezuela’s 1967 earthquake remains a historical reference point for seismic risk in the capital, current building standards in parts of Caracas have contributed to variable levels of resilience; however, significant damage has nonetheless been observed, particularly in older or non-retrofitted structures.
-Hospitals and health facilities in affected states are partially impacted, with assessments by the Ministry of Health ongoing. Preliminary indications suggest disruptions to service delivery capacity in some facilities, although full functional status remains to be confirmed. Civil Protection authorities and national security forces have been mobilized nationwide and are leading response and search-and-rescue operations. Children and vulnerable populations are among the most affected. Schools, health facilities, and child protection systems have been disrupted, leaving children at increased risk of psychological distress, displacement, and disease outbreaks. Pre-existing vulnerabilities in paediatric health services and nutrition systems have been further exacerbated by the shock. UNICEF and partners highlight heightened risks related to malnutrition, interruption of immunization services, and lack of safe water and sanitation in displacement settings.
-Immediate humanitarian priorities, in addition to rescue operations, will be further defined following rapid multi-sectoral needs assessments. However, initial indications suggest urgent requirements for temporary shelter for displaced families, psychosocial support for children and caregivers, emergency health and nutrition interventions, restoration of safe water and sanitation services, and the establishment of temporary learning spaces to ensure continuity of education. Medium- to long-term recovery efforts will be essential to restore essential services and infrastructure, strengthen resilience, and ensure that children remain at the centre of the humanitarian response.
+IOM response priorities
+IOM is mobilizing internal capacities to support the earthquake response, with planned interventions focused on emergency shelter and core relief items, health and mental health and psychosocial support, WASH, CCCM/site management, protection, and data and needs assessments.
+Priority activities include the provision of emergency shelter materials and essential household items, deployment of mobile health teams, support to health facilities, rapid assessments, site monitoring, protection risk analysis, referral pathways and DTM-based data products to inform coordination and targeting.
