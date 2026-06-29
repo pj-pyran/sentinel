@@ -1,9 +1,14 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNHCR (2026-06-27) ---
+--- Report 1: DFS (2026-06-29) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/lebanon
+
+--- Report 2: UNHCR (2026-06-27) ---
 No summary available.
 
---- Report 2: OCHA (2026-06-27) ---
+--- Report 3: OCHA (2026-06-27) ---
 HIGHLIGHTS
 
 Displacement fell to 59,700 people in shelters (down from over 140,000), while more than 523,000 people have begun returning, although movements remain cautious and often temporary.

@@ -1,51 +1,16 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-06-26) ---
-Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces
-(SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
-widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
-continuing to deteriorate across much of the country.
-An estimated 19.5 million people are currently experiencing acute food insecurity, making Sudan the world’s largest hunger crisis.
-Famine conditions have been confirmed in el-Fasher (North Darfur) and Kadugli (South Kordofan), while multiple areas across Darfur
-and Kordofan remain at high risk of famine amid ongoing conflict, siege tactics, market disruption, and severe restrictions on
-humanitarian access. Children continue to bear a disproportionate burden of the crisis, with millions exposed to acute malnutrition,
-disease outbreaks, and heightened mortality risks.
-Fatality estimates remain highly contested due to limited access, communication blackouts, and verification constraints. The Armed
-Conflict Location &amp; Event Data Project (ACLED) recorded nearly 30,000 reported deaths by late 2024, while independent analyses and
-international media estimates suggest the true death toll may exceed 150,000 people. Civilians continue to face widespread violence,
-including indiscriminate shelling, aerial bombardments, drone attacks, and ethnically targeted violence, particularly in Darfur and
-parts of Kordofan.
-Sudan’s health system remains severely degraded, especially in active conflict zones where many facilities are non-operational or
-functioning only partially. Although the nationwide cholera outbreak that spread across all 18 states between 2024 and early 2026 was
-declared contained in March 2026, underlying conditions—including mass displacement, damaged health infrastructure, and poor
-sanitation—continue to create a high risk of renewed outbreaks and other communicable diseases.
-Displacement continues at an unprecedented scale. More than 14 million people have been displaced since the start of the conflict,
-including approximately 9 million internally displaced persons (IDPs) and over 4 million refugees in neighboring countries, making
-Sudan the world’s largest displacement crisis. At the same time, limited and fragile returns to parts of Khartoum and Al Jazirah have
-been reported since early 2026 following shifting frontlines, though returnees face widespread destruction, insecurity, and lack of basic
-services and livelihoods.
-Militarily, the conflict has continued to fragment since late 2025, with intensified fighting in Darfur and Kordofan driving further civilian
-displacement and humanitarian access constraints. The RSF maintains significant influence across much of Darfur and continues
-offensive operations in Kordofan, while the SAF retains control over key eastern and northern urban centers. The growing use of drones,
-aerial strikes, and long-range attacks has increasingly impacted civilian infrastructure, including hospitals, schools, markets, and
-displacement sites, further compounding humanitarian needs.
-Ethnic violence and sexual and gender-based violence (SGBV) continue to escalate, particularly in Darfur. Human rights organizations
-and monitoring networks have documented widespread abuses, including conflict-related sexual violence, forced displacement,
-arbitrary detention, and targeted attacks on ethnic communities. Despite sustained international pressure, including sanctions
-imposed by the United States and United Kingdom on RSF leaders and affiliated networks, diplomatic and mediation efforts have yet to
-achieve a durable ceasefire or political settlement.
-The conflict is also generating increasing regional spillover, with large refugee flows, cross-border insecurity, and growing pressure on
-already overstretched humanitarian systems in neighboring countries. Humanitarian operations inside Sudan remain critically
-underfunded, with the World Food Programme warning in 2026 that severe funding gaps are threatening emergency food pipelines,
-ration levels, and the continuity of lifesaving assistance.
-As of mid-2026, Sudan remains one of the world’s most severe and complex humanitarian emergencies, characterized by prolonged
-armed conflict, fragmented territorial control, mass displacement, and shrinking humanitarian space. Without urgent improvements in
-humanitarian access, sustained financing, and renewed diplomatic engagement, the crisis is likely to deepen further, with serious
-implications for civilian populations and broader regional stability.
+--- Report 1: DFS (2026-06-29) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/sudan
 
---- Report 2: WFP (2026-06-24) ---
-WFP assisted 3.4 million people in May, despite operating in a highly volatile security environment marked by a surge in drone strikes across the Darfurs, Kordofans, Khartoum and Blue Nile. This included in-kind assistance to 1.9 million people and cash-based transfers (CBT) to 1.3 million people.
-In May, 680,000 people were reached in areas projected to be at risk of famine, representing 88 percent of the 771,000 food-insecure people in those locations.
-WFP’s humanitarian food assistance continues to account for the largest share of overall support provided each month. In May, 3.2 million crisis-affected people received food and cash-based assistance. At the same time, integrated nutrition support reached 232,000 children under five, as well as pregnant and breastfeeding women and girls (PBWG).
-Due to funding shortfalls, WFP has had to hyper-prioritize assistance focusing on IPC4+ populations, based on the May 2026 IPC analysis. Monthly targets are being reduced from 5 million beneficiaries in Q1 to 3.4 million by Q4. Additionally, rations are being set at 70 percent for IPC5 areas to mitigate deterioration into famine conditions and 50 percent for IPC4 areas.
-WFP is aligning its targeting criteria with IPC analysis and nutrition indicators to better reach the most food-insecure populations. This ensures coherent geographic prioritization and beneficiary targeting across programme design and implementation.
+--- Report 2: DFS (2026-06-29) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/sudan]
+
+--- Report 3: DFS (2026-06-29) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/sudan
