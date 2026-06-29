@@ -1,6 +1,35 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: UNICEF (2026-06-28) ---
+--- Report 1: OCHA (2026-06-29) ---
+Situation Report No. 5
+Earthquakes in Venezuela
+28 June 2026
+Time: 5:00 pm
+Highlights
+
+Two consecutive earthquakes of magnitude 7.2 and 7.5 on 24 June (18:00 local time); authorities report more than 500 aftershocks.
+At least seven (7) states have been impacted. La Guaira continues to record the highest level of impact.
+Official toll: 1,450 people dead and 3,150 injured; the figure continues to rise.
+More than 12,700 people resulted displaced.
+At least 2,501 infrastructures were affected, including 38 hospitals and more than 700 buildings.
+Urban Search and Rescue (USAR) teams from at least 27 countries continue to arrive in the country and are operating in the most affected areas, in coordination with OCHA.
+The United Nations system and its partner organizations will deliver a multi-sectoral response to affected people in three strategic locations in La Guaira.
+
+Situation overview
+Venezuela is facing a national emergency following the two consecutive high-magnitude earthquakes (7.2 and 7.5) of 24 June (18:00 local time) in the north-central region, with the epicentre along the San Felipe–Yumare–Montalbán axis (Yaracuy/Carabobo). Authorities report more than 512 aftershocks, maintaining a high-risk conditions.
+The official toll stands at 1,450 people dead and 3,150 injured. Authorities also reported that 12,721 people have been displaced. Additionally, at least 2,501 infrastructures had been reported as affected, including 38 hospitals and 774 buildings. Figures remain under review as operations advance.
+The Government response has focused on search and rescue, emergency medical care and damage assessments. Up to seven (7) states were affected, including La Guaira, Distrito Capital, Miranda, Falcón, Carabobo, and Yaracuy. The United Nations system and its partner organizations, in coordination with the authorities, will deliver a multi-sectoral response to affected people in three strategic locations in La Guaira.
+
+--- Report 2: PAHO (2026-06-28) ---
+HIGHLIGHTS
+• On 24 June 2026, two consecutive earthquakes (M7.2 and M7.5) struck Yaracuy state in north-central Venezuela. Since then, the president has declared a state of emergency, with over 920 deaths and 3360 injured.
+• Severe and widespread damage has been reported, with the greatest concentration in the Capital District, La Guaira, Miranda, Carabobo, and Yaracuy. La Guaira, now declared a disaster area, records the highest number of affected structures and remains the focus of ongoing rescue operations.
+• More than 1,423 structures have been damaged, with La Guaira the hardest hit. Maiquetía International Airport is closed, Caracas Metro and railway services are suspended, and power outages persist across multiple states (1).
+• Preliminary assessments of 7 health facilities reveal chaotic care delivery and patient flow, marked by overcrowding, growing surgical backlogs (traumaorthopedics and neurosurgery), a breakdown of biosafety measures, and staff under severe stress. Critical gaps include the collapse of forensic and morgue services, inadequate casualty registration and missing-persons tracking, and structural damage compromising service continuity.
+• MOH Preliminary needs (assessments ongoing) include refrigerated trucks for dead body management; laboratory reagents to restore capacity; trauma supplies (including osteosynthesis) and ICU supplies; WASH supplies for health facilities and shelters (2) (3) and vaccines (yellow fever, measles, tetanus).
+• PAHO/WHO has deployed health and engineering assessment teams and completed ERES rapid assessments at 7 health facilities (5 in Caracas, 2 in La Guaira), while supporting the Ministry of Health, Civil Protection, and the Health Cluster to align priorities, coordination of the response; and manage incoming offers of assistance It has also activated its Regional Response Team and the Virtual CICOM, with 38 EMTs and Specialized Care Teams identified (One EMT Type 3 has arrived at La Guaira). • In parallel, PAHO is coordinating the procurement and delivery of vaccines, medicines, and supplies, including a 4-ton emergency shipment from its Strategic Reserve in Panama, and medical-surgical supplies and body bags already provided to the Ministry of Health.
+
+--- Report 3: UNICEF (2026-06-28) ---
 Highlights
 
 Approximately 72 hours have passed since two major earthquakes of magnitude 7.2 and 7.5 struck north-central Venezuela on 24 June 2026, causing widespread destruction across densely populated urban areas. As of 27 June, at least 1430 people have been reported dead and over 3,000 have been injured with casualty figures expected to rise as search and rescue operations continue. In response, the Government of the Bolivarian Republic of Venezuela declared a State of Emergency to mobilize technical, human, financial and material resources.
@@ -30,7 +59,7 @@ UNICEF is supporting national response efforts in close coordination with govern
 A first air shipment from UNICEF's regional warehouse in Panama, carrying 20 metric tons of medical supplies, WASH items and tents, arrived in the country on 27 June. A second shipment of 48 metric tons from UNICEF's Global Supply Hub in Copenhagen is expected to arrive on 30 June. Together, these supplies are expected to support approximately 100,000 people with life-saving assistance. UNICEF is also mobilizing pre-positioned supplies and preparing additional shipments to address urgent humanitarian needs.
 Immediate priorities, beyond search and rescue operations, include the provision of emergency health and nutrition assistance, safe water and sanitation services, psychosocial support for children and caregivers, child protection services and temporary learning spaces to ensure continuity of education. Over the medium and longer term, recovery efforts will focus on restoring essential services and infrastructure, strengthening community resilience and supporting children and families to recover with dignity.
 
---- Report 2: OCHA (2026-06-28) ---
+--- Report 4: OCHA (2026-06-28) ---
 Situation Report No. 4
 Earthquakes in Venezuela
 27 June 2026
@@ -51,7 +80,13 @@ Venezuela is facing a national emergency following the two consecutive high-magn
 The official toll stands at 1,430 people dead and 3,280 injured. Authorities also reported that 3,142 families have been displaced. Additionally, as of the afternoon of Friday, 26 June, at least 1,423 infrastructures had been reported as affected. Figures remain under review as operations advance.
 The Government response in the initial hours has focused on search and rescue, emergency medical care and damage assessments. The impact is severe, with the highest concentration in the La Guaira, Capital District, Miranda, Carabobo and Yaracuy. The United Nations and its partner organizations are coordinating for the next phase of the response.
 
---- Report 3: IOM (2026-06-27) ---
+--- Report 5: Health Cluster (2026-06-27) ---
+El 26 de junio se consolidó un mecanismo único de respuesta ante la emergencia mediante la reunión del Clúster de Salud Ampliado junto al Ministerio de la Salud (MPPS), logrando integrar a actores estatales, agencias de Naciones Unidas y ONG para optimizar las operaciones en el terreno. Con el fin de priorizar y agilizar las labores de búsqueda y salvamento, las autoridades competentes establecieron restricciones temporales de acceso al estado La Guaira a partir de esa misma noche. Por su parte, la infraestructura sanitaria reporta compromisos estructurales en diversos centros asistenciales, lo que ha motivado la habilitación de áreas de atención externas y la activación de protocolos para localizar al personal de salud en las zonas de mayor impacto. Asimismo, se registra una interrupción generalizada de servicios básicos como agua, energía eléctrica y gas, obligando a la población a ubicarse preventivamente en espacios abiertos con el apoyo técnico de equipos internacionales de rescate. Finalmente, la evaluación de necesidades se canaliza a través de la Sala Situacional para orientar la asistencia técnica, ratificando al SEFAR (Las Adjuntas) como el nodo central para el acopio y redistribución de insumos, mientras se agilizan las importaciones y traslados terrestres de suministros médicos.
+-------------------
+On June 26, a unified emergency response mechanism was established through a meeting of the Expanded Health Cluster together with the Ministry of Health (MPPS), successfully bringing together government actors, United Nations agencies, and NGOs to optimize operations on the ground. In order to prioritize and expedite search and rescue efforts, the relevant authorities imposed temporary restrictions on access to the state of La Guaira beginning that same night. Meanwhile, health authorities report structural damage to various healthcare facilities, which has led to the establishment of outdoor treatment areas and the activation of protocols to locate healthcare personnel in the most affected areas. Furthermore, there has been a widespread disruption of basic services such as water, electricity, and gas, forcing the population to evacuate as a precautionary measure to open spaces with the technical support of international rescue teams. Finally, needs assessments are being coordinated through the Situation Room to guide technical assistance, confirming SEFAR (Las Adjuntas) as the central hub for the collection and redistribution of supplies, while imports and land transport of medical supplies are being expedited.
+Translated with DeepL.com (free version)
+
+--- Report 6: IOM (2026-06-27) ---
 This first Situation Report provides an overview of the impact of the 24 June earthquakes in the Bolivarian Republic of Venezuela and outlines IOM’s planned response in support of affected populations and national efforts.
 Highlights
 
