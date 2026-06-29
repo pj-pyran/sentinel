@@ -1,41 +1,11 @@
 Crisis / situation: Myanmar
 
---- Report 1: Insecurity Insight (2026-06-05) ---
-Data collected by Insecurity Insight shows the devastating and sustained impact of violence on health care in Myanmar since the military coup on 1 February 2021. Between 1 February 2021 and 12 May 2026, Insecurity Insight recorded more than 1,929 incidents of violence against health care - equivalent to over 30 attacks on health care every month for more than five years.
-Key findings include:
+--- Report 1: DFS (2026-06-29) ---
+Executive Summary
+Myanmar faces a protracted humanitarian emergency characterized by widespread displacement, ongoing armed conflict, severe economic deterioration, and compounding natural disasters. The crisis demands sustained international attention and coordinated humanitarian response across multiple sectors. The Myanmar crisis requires sustained engagement across diplomatic, humanitarian, and development channels. Immediate priorities include scaling humanitarian assistance, protecting civilian infrastructure, and maintaining pressure for political resolution while preparing for long-term recovery and resilience-building efforts.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Myanmar crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/myanmar
 
-1929 attacks on health care recorded across Myanmar
-66% of these attacks were attributed to the Myanmar Armed Forces.
-At least 173 health workers killed and 930 arrested
-Health facilities damaged on at least 503 occasions
-
-These figures illustrate the extent to which violence against health care has become a persistent feature of the conflict. Attacks on health workers, facilities, and services continue to undermine access to essential care, weaken disease surveillance and response, and erode the resilience of Myanmar's health system.
-The impact on specific health services is particularly concerning. At least 53 maternal health services have been damaged, disrupted, or otherwise affected by violence and coercive measures, reducing access to care for pregnant women, mothers, and newborns. The growing use of drones has also emerged as a threat to health care delivery in Myanmar, with more than 80 recorded incidents affecting health workers, facilities, transport, and service provision.
-This interactive map enables users to:
-
-Access near real-time data for briefings, reports, advocacy, and analysis.
-Explore Myanmar-specific trends using filters by context, impact, perpetrator, and type of health service affected.
-Review individual incidents by clicking on the yellow incident markers.
-Analyse thematic areas and patterns of violence affecting health care across Myanmar.
-
-Together, these data provide critical evidence of the scale, patterns, and consequences of attacks on health care, supporting efforts to improve awareness, protection, and accountability.
-Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
-Documented incidents
-13-26 May 2026
-The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care in Myanmar between 13-26 May 2026. The incidents have not been verified through ground investigations. There is a delay in reporting incidents due to our open source verification protocol.
-As reported on 13 May 2026: In Tedim town, township, and district, Chin state, an unspecified number of health workers left the township hospital due to the news of possible armed clashes. Sources: Ayeyarwaddy Times, Surbung Time, and Zalen
-13 May 2026: At the Myanmar military checkpoints at the exit of Pakokku town, Pakokku township and district, Magway region, the junta authorities banned the transportation of medicines and food items from Pakokku town to nearby villages and other townships on the western side of the Irrawaddy River in Magway Region. Sources: Irrawaddy and Myanmar Pressphoto Agency
-19 May 2026: On the highway connecting Leiktho town and Toungoo town, near Chauk Maing village, Leiktho township, Thandaung Gyi district, Kayin state, an LNGO ambulance was damaged by landmine. A 31-year-old male LNGO worker was killed at the scene, another LNGO worker, one patient, and two patient attendants were injured. As the LNGO had informed junta authorities and obtained clearance to move, locals accused resistance forces of the attack. Sources: Karen Information Centre, Mizzima, and Myaelatt Athan
-As reported on 20 May 2026: In Mawdaung town, Tanintharyi township, Myeik district, Tanintharyi region, bunkers were seen at a station hospital, schools, religious buildings, government buildings, and houses after the town had been reseized by the Myanmar military on 19 May 2026. The town was under the control of Karen National Union, Karen National Liberation Army, and People’s Defence Force for six months. Sources: Eleven Media Group and Ministry of Information
-24 May 20226: In Thu Soe village and village tract, Natogyi township, Myaingyan district, Mandalay region, two buildings of a station hospital were damaged by artillery shelling by the Myanmar military. The hospital was functioning at the time of the attack. Sources: Khit Thit Media and NTI Media
-Past briefs: 29 April-12 May; 15-28 April; 01-14 April; 18-31 March; 04-17 March; 18 February-03 March; 04-17 February; 21 January-03 February; 07-20 January; 24 December 2025-06 January; 10-23 December; All
-SHCC chapters: Burmese: 2024; 2023. English: 2024; 2023: 2022; 2021; 2020
-Help support the protection of health care by sharing this resource. Please copy and paste this link: https://bit.ly/13-26May2026MMRHealth
-
---- Report 2: KHRG (2026-06-04) ---
-Excerpt
-Part 3 – Complete Description of the Incident
-Describe the Incident(s) in complete detail.
-Aa--- village, Th’Lweh Htaw village tract, Kruh Tuh (Kyonedoe) Township, Dooplaya District is under KNU [Karen National Union][8] control. The SAC [State Administration Council] had not been able to control this area from the [2021] coup[9] until 2026. Even though the SAC soldiers could not reach this area, the soldiers from Light Infantry Battalion (LIB) #230 fired 120 mm mortar shells into the village [often]. On 29 March 2026, at around 3-4 pm, the SAC fired two 120 mm mortar shells into Aa--- village, injuring a villager named Saw A--- (19 years old), destroying his house, and burning all of the clothes and kitchen materials inside the house. As his house was on fire, the neighbour tried to help by pouring water on the house to extinguish the fire. As the shelling landed very close to Saw A---, he could not hear [well] for three days. During the shelling, there were no armed groups present in the village, and no fighting occurred in the area. After he was injured, township health workers [from the Karen Department of Health and Welfare (KDHW)] transported him to Ab--- clinic, Wa Ka village tract, Kruh Tuh Township. [Ab--- clinic is administered by the KDHW and Saw A--- did not need to pay any treatment fees.]
-Saw A--- [later] explained to KHRG that he and his father were building their new house [during the incident]. They were working on the rooftop of the house when the first shell landed in the middle of the village and damaged a house [of another villager]. When Saw A--- and his father heard the sound of the shelling, they came down from the rooftop and ran back to their old house. When they were on their way and about to reach their old house, another shell landed only ten yards away from them. The shrapnel from the explosion injured Saw A---’s face and thigh, [caused his old house to catch on fire which] destroyed his house, and also damaged his grandmother’s house and his uncle’s house.
-As Saw A---’s house was burned, he and his family had to stay at his grandmother’s house temporarily. After this incident, the villagers became afraid and fled to the monastery in the village, where they slept at night.
+--- Report 2: DFS (2026-06-29) ---
+Executive Summary
+Myanmar faces a protracted humanitarian emergency characterized by widespread displacement, ongoing armed conflict, severe economic deterioration, and compounding natural disasters. The crisis demands sustained international attention and coordinated humanitarian response across multiple sectors. The Myanmar crisis requires sustained engagement across diplomatic, humanitarian, and development channels. Immediate priorities include scaling humanitarian assistance, protecting civilian infrastructure, and maintaining pressure for political resolution while preparing for long-term recovery and resilience-building efforts.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Myanmar crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/myanmar
