@@ -1,6 +1,28 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: OCHA (2026-06-29) ---
+--- Report 1: IOM (2026-06-30) ---
+This second Situation Report provides an updated overview of the impact of the 24 June earthquakes in the Bolivarian Republic of Venezuela and outlines IOM’s ongoing and planned response in support of affected populations and national efforts.
+Highlights
+Official figures report at least 1,719 fatalities, 5,034 injuries, 15,866 people severely affected and 22,619 people affected following the 24 June earthquakes.
+At least 855 buildings have been affected, including 189 total collapses, while access to basic services remains disrupted in several affected areas.
+Temporary shelters have been activated in affected states, including sites in La Guaira, Caracas, Miranda and Aragua. The Polideportivo José María Vargas in Maiquetía is hosting more than 1,200 people and is expected to receive additional arrivals.
+IOM activities
+IOM has supported shelter, site coordination and essential services in temporary accommodation sites, including the validation of information from 14 collective centres hosting an estimated 8,821 people, the mapping and verification of temporary accommodation sites, and the establishment of health and protection services at the Polideportivo José María Vargas. At this site, IOM and authorities have also supported the installation of services, including the delivery of 180 bunk beds.
+In health, MHPSS, WASH, protection and data, IOM has coordinated with La Guaira health authorities to provide emergency health services in critical temporary accommodation sites, including Polideportivo José María Vargas in Pariata and Estadio César Nieves in Catia La Mar. IOM has delivered emergency health services, provided primary health care to 220 people, coordinated storage capacity for medicines and supplies,has deployed six protection staff, conducted protection screening and maintained DTM-based mobility monitoring.
+IOM planned response
+IOM’s planned response will continue to prioritize emergency accomodation and core relief items, site coordination and management, health and MHPSS, WASH, protection, and data and needs assessments. In site coordination, IOM will complete information gathering for remaining collective centres, strengthen monitoring, service mapping and referral mechanisms, provide technical support to authorities and site managers, support site improvements such as drainage, lighting and fire risk mitigation, and mobilize emergency shelter materials and core relief items.
+Across health, WASH, protection and data, IOM will continue emergency health services, deliver essential medical supplies and equipment, support trauma care and referral pathways, and provide health facility assessments and operational support. IOM will also support emergency water access, hygiene kits, menstrual hygiene items, handwashing points, infection prevention and control supplies, sanitation, waste management and hygiene promotion. Protection activities will focus on risk analysis, referral pathways, assistance for persons with specific needs, dignity kits, community participation, information desks and PSEAH training, while DTM products and mobility monitoring will inform coordination, targeting and multisectoral prioritization.
+
+--- Report 2: Plan International (2026-06-29) ---
+Highlights
+• Two strong earthquakes (M7.2 and M7.5) struck north-central Venezuela on 24 June 2026, affecting Caracas, La Guaira, Carabobo, Aragua and surrounding states. A state of emergency was declared as search and rescue operations continue amid widespread infrastructure damage and more than 300 aftershocks.
+• According to the latest official figures, 920 people have been killed, more than 3,360 injured, 70,000 families affected in La Guaira, and 387 buildings damaged or destroyed. These figures are expected to rise as rescue operations continue. The scale of humanitarian needs is immense, and the time to act is now.
+• GDACS has classified the M7.5 earthquake as a Red Alert event. An estimated 2.4 million people were exposed to severe shaking, 45,000–60,000 people may be displaced, and 3.9 million children and adolescents live in the earthquake-affected areas (UNICEF).
+• Education Cluster data shared for planning indicates 70,000 affected households, 140,000 affected children, 433 schools affected and 42 schools reportedly being used as shelters.
+• Children—especially girls—must remain at the centre of the humanitarian response. Alongside life-saving assistance, ensuring protection, healthcare, safe water, education and psychosocial support is critical to their recovery.
+• Humanitarian coordination is transitioning to a structured inter-agency response. Plan International has activated a EUR 10 million phased, partner-led response targeting 100,000 people through trusted local partners, prioritising shelter, WASH, Child Protection in Emergencies, Education in Emergencies and psychosocial support.
+
+--- Report 3: OCHA (2026-06-29) ---
 Situation Report No. 5
 Earthquakes in Venezuela
 28 June 2026
@@ -20,7 +42,7 @@ Venezuela is facing a national emergency following the two consecutive high-magn
 The official toll stands at 1,450 people dead and 3,150 injured. Authorities also reported that 12,721 people have been displaced. Additionally, at least 2,501 infrastructures had been reported as affected, including 38 hospitals and 774 buildings. Figures remain under review as operations advance.
 The Government response has focused on search and rescue, emergency medical care and damage assessments. Up to seven (7) states were affected, including La Guaira, Distrito Capital, Miranda, Falcón, Carabobo, and Yaracuy. The United Nations system and its partner organizations, in coordination with the authorities, will deliver a multi-sectoral response to affected people in three strategic locations in La Guaira.
 
---- Report 2: PAHO (2026-06-28) ---
+--- Report 4: PAHO (2026-06-28) ---
 HIGHLIGHTS
 • On 24 June 2026, two consecutive earthquakes (M7.2 and M7.5) struck Yaracuy state in north-central Venezuela. Since then, the president has declared a state of emergency, with over 920 deaths and 3360 injured.
 • Severe and widespread damage has been reported, with the greatest concentration in the Capital District, La Guaira, Miranda, Carabobo, and Yaracuy. La Guaira, now declared a disaster area, records the highest number of affected structures and remains the focus of ongoing rescue operations.
@@ -29,7 +51,7 @@ HIGHLIGHTS
 • MOH Preliminary needs (assessments ongoing) include refrigerated trucks for dead body management; laboratory reagents to restore capacity; trauma supplies (including osteosynthesis) and ICU supplies; WASH supplies for health facilities and shelters (2) (3) and vaccines (yellow fever, measles, tetanus).
 • PAHO/WHO has deployed health and engineering assessment teams and completed ERES rapid assessments at 7 health facilities (5 in Caracas, 2 in La Guaira), while supporting the Ministry of Health, Civil Protection, and the Health Cluster to align priorities, coordination of the response; and manage incoming offers of assistance It has also activated its Regional Response Team and the Virtual CICOM, with 38 EMTs and Specialized Care Teams identified (One EMT Type 3 has arrived at La Guaira). • In parallel, PAHO is coordinating the procurement and delivery of vaccines, medicines, and supplies, including a 4-ton emergency shipment from its Strategic Reserve in Panama, and medical-surgical supplies and body bags already provided to the Ministry of Health.
 
---- Report 3: UNICEF (2026-06-28) ---
+--- Report 5: UNICEF (2026-06-28) ---
 Highlights
 
 Approximately 72 hours have passed since two major earthquakes of magnitude 7.2 and 7.5 struck north-central Venezuela on 24 June 2026, causing widespread destruction across densely populated urban areas. As of 27 June, at least 1430 people have been reported dead and over 3,000 have been injured with casualty figures expected to rise as search and rescue operations continue. In response, the Government of the Bolivarian Republic of Venezuela declared a State of Emergency to mobilize technical, human, financial and material resources.
@@ -59,7 +81,7 @@ UNICEF is supporting national response efforts in close coordination with govern
 A first air shipment from UNICEF's regional warehouse in Panama, carrying 20 metric tons of medical supplies, WASH items and tents, arrived in the country on 27 June. A second shipment of 48 metric tons from UNICEF's Global Supply Hub in Copenhagen is expected to arrive on 30 June. Together, these supplies are expected to support approximately 100,000 people with life-saving assistance. UNICEF is also mobilizing pre-positioned supplies and preparing additional shipments to address urgent humanitarian needs.
 Immediate priorities, beyond search and rescue operations, include the provision of emergency health and nutrition assistance, safe water and sanitation services, psychosocial support for children and caregivers, child protection services and temporary learning spaces to ensure continuity of education. Over the medium and longer term, recovery efforts will focus on restoring essential services and infrastructure, strengthening community resilience and supporting children and families to recover with dignity.
 
---- Report 4: OCHA (2026-06-28) ---
+--- Report 6: OCHA (2026-06-28) ---
 Situation Report No. 4
 Earthquakes in Venezuela
 27 June 2026
@@ -79,29 +101,3 @@ Situation overview
 Venezuela is facing a national emergency following the two consecutive high-magnitude earthquakes (7.2 and 7.5) of 24 June (18:00 local time) in the north-central region, with the epicentre off the coast some 28–30 km north-west of Montalbán (Carabobo). Authorities report more than 430 aftershocks, sustaining. In the early hours of Saturday, 26 June alone, 20 events were recorded, according to local media reports, maintaining a high-risk conditions.
 The official toll stands at 1,430 people dead and 3,280 injured. Authorities also reported that 3,142 families have been displaced. Additionally, as of the afternoon of Friday, 26 June, at least 1,423 infrastructures had been reported as affected. Figures remain under review as operations advance.
 The Government response in the initial hours has focused on search and rescue, emergency medical care and damage assessments. The impact is severe, with the highest concentration in the La Guaira, Capital District, Miranda, Carabobo and Yaracuy. The United Nations and its partner organizations are coordinating for the next phase of the response.
-
---- Report 5: Health Cluster (2026-06-27) ---
-El 26 de junio se consolidó un mecanismo único de respuesta ante la emergencia mediante la reunión del Clúster de Salud Ampliado junto al Ministerio de la Salud (MPPS), logrando integrar a actores estatales, agencias de Naciones Unidas y ONG para optimizar las operaciones en el terreno. Con el fin de priorizar y agilizar las labores de búsqueda y salvamento, las autoridades competentes establecieron restricciones temporales de acceso al estado La Guaira a partir de esa misma noche. Por su parte, la infraestructura sanitaria reporta compromisos estructurales en diversos centros asistenciales, lo que ha motivado la habilitación de áreas de atención externas y la activación de protocolos para localizar al personal de salud en las zonas de mayor impacto. Asimismo, se registra una interrupción generalizada de servicios básicos como agua, energía eléctrica y gas, obligando a la población a ubicarse preventivamente en espacios abiertos con el apoyo técnico de equipos internacionales de rescate. Finalmente, la evaluación de necesidades se canaliza a través de la Sala Situacional para orientar la asistencia técnica, ratificando al SEFAR (Las Adjuntas) como el nodo central para el acopio y redistribución de insumos, mientras se agilizan las importaciones y traslados terrestres de suministros médicos.
--------------------
-On June 26, a unified emergency response mechanism was established through a meeting of the Expanded Health Cluster together with the Ministry of Health (MPPS), successfully bringing together government actors, United Nations agencies, and NGOs to optimize operations on the ground. In order to prioritize and expedite search and rescue efforts, the relevant authorities imposed temporary restrictions on access to the state of La Guaira beginning that same night. Meanwhile, health authorities report structural damage to various healthcare facilities, which has led to the establishment of outdoor treatment areas and the activation of protocols to locate healthcare personnel in the most affected areas. Furthermore, there has been a widespread disruption of basic services such as water, electricity, and gas, forcing the population to evacuate as a precautionary measure to open spaces with the technical support of international rescue teams. Finally, needs assessments are being coordinated through the Situation Room to guide technical assistance, confirming SEFAR (Las Adjuntas) as the central hub for the collection and redistribution of supplies, while imports and land transport of medical supplies are being expedited.
-Translated with DeepL.com (free version)
-
---- Report 6: IOM (2026-06-27) ---
-This first Situation Report provides an overview of the impact of the 24 June earthquakes in the Bolivarian Republic of Venezuela and outlines IOM’s planned response in support of affected populations and national efforts.
-Highlights
-
-Two major earthquakes of Mw 7.2 and Mw 7.5 struck central-northern Venezuela on 24 June, causing widespread damage across La Guaira, Caracas, Miranda, Carabobo and Yaracuy.
-La Guaira has been identified as the most severely affected area, with significant destruction reported.
-Critical infrastructure has been disrupted, including electricity, water supply, telecommunications, transport systems, the Caracas Metro and Maiquetía International Airport.
-The Government has declared a state of emergency and activated national response mechanisms.
-
-Key figures
-
-At least 920 people reported dead.
-Approximately 3,360 people injured.
-More than 214 aftershocks recorded as of the morning of 25 June.
-Casualty figures are expected to rise as search-and-rescue operations continue.
-
-IOM response priorities
-IOM is mobilizing internal capacities to support the earthquake response, with planned interventions focused on emergency shelter and core relief items, health and mental health and psychosocial support, WASH, CCCM/site management, protection, and data and needs assessments.
-Priority activities include the provision of emergency shelter materials and essential household items, deployment of mobile health teams, support to health facilities, rapid assessments, site monitoring, protection risk analysis, referral pathways and DTM-based data products to inform coordination and targeting.
