@@ -1,12 +1,31 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNFPA (2026-06-30) ---
+--- Report 1: Health Cluster (2026-06-30) ---
+Situation Update
+Despite relative regional de-escalation since mid-June, including the 20 June ceasere announcement, the operating environment for health service delivery in
+Lebanon remains fragile and operationally constrained. Although hostilities have eased compared with previous weeks, insecurity, return movements, and access
+constraints continue to aect service continuity and operational planning. The current context does not yet provide reliable conditions for safe and predictable health
+service delivery. Since 22 June, no incidents have been recorded through the Surveillance of Attacks on Healthcare (SSA) system. Cumulative gures remain unchanged:
+since the ceasere announcement on 17 April, 65 attacks on healthcare have been documented, resulting in 39 deaths and 175 injuries; overall, since 2 March, 211
+incidents have been recorded, causing 135 deaths and 406 injuries.
+While the absence of newly reported attacks during the current reporting period is a positive development, it is not yet sucient to indicate sustained improvement in
+the protection of healthcare or in the broader operating environment for service delivery. Insecurity continues to strain the health system, disrupt essential services,
+and limit access to care, particularly in conict-aected areas. Service availability remains uneven in parts of the South and Nabatieh governorates, including border
+and return areas and some areas north of the Zahrani River, where insecurity, movement restrictions, infrastructure damage, and service disruptions continue to aect
+both care-seeking and service continuity. Recurrent insecurity is also increasing psychological distress among aected communities and healthcare workers.
+Findings from the Rapid Health Assessment (May 2026), eld observations, and partner reporting continue to indicate sustained pressure on the health system.
+Facilities face stang shortages, including among PSU midwives, supply gaps, and operational limitations, while patients continue to face high costs, reduced access
+to essential medicines and specialized care, fragmented referral pathways, and gaps in hospitalization support and continuity of treatment for chronic conditions.
+Despite eorts by the Ministry of Public Health and Health Sector partners to expand subsidized services and reduce nancial barriers, aordability remains a major
+obstacle, and needs continue to exceed response capacity.
+
+--- Report 2: UNFPA (2026-06-30) ---
 The humanitarian situation in Lebanon remains volatile despite the United States-Iran Memorandum of Understanding signed on 15 June and broader regional de-escalation efforts. Hostilities continue across the country, particularly in southern Lebanon and the Bekaa governorate. Women and girls are bearing the brunt of the crisis, facing heightened protection and gender-based violence (GBV) risks, disrupted health services including for maternal health, and reduced access to safe and dignified support.
 On 20 June, a social worker from UNFPA’s partner Amel Association was killed along with her son and parents in an airstrike in the Bekaa. Since 2 March 2026, more than 4,100 people have been killed and 12,115 injured, with 5,346 casualties reported since the ceasefire announcement in April 2026.
 Since the onset of the crisis, UNFPA has reached more than 135,000 displaced people with sexual and reproductive health and GBV services. These have been delivered through support to 55 health facilities, nine mobile medical units, 24 mobile GBV teams, and 17 women and girls’ safe spaces, serving 200 collective shelters and host communities.
 UNFPA launched a revised Flash Appeal in June, aligned with the revised Inter-Agency Lebanon Flash Appeal appealing for US $25 million to meet the urgent needs of 450,000 people from March to August 2026. To date, only 16 per cent of the required funding has been secured.
 
---- Report 2: DFS (2026-06-29) ---
+--- Report 3: DFS (2026-06-29) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/lebanon
