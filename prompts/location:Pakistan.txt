@@ -1,11 +1,15 @@
 Crisis / situation: Pakistan
 
---- Report 1: WFP (2026-05-15) ---
-• For the week ending 7 May, national average prices of staple foods are slightly higher compared to 26 February when the crisis began.
-• Compared to the previous week, wheat flour prices are 3 percent higher, mainly driven by increase in production and transportation costs.
-• The cost of a basic food basket is PKR 15,084 per month (USD 54.1) or PKR 3,771 per week (USD 13.5) nationwide, excluding lower cost items such as vegetables or spices.
-• Fuel prices rose week-on-week, with petrol up 1.7 percent and diesel (HDS) up 5.1 percent. Compared to pre-crisis levels, petrol and HDS prices are higher by 55 percent and 45 percent.
-• Fertilizer (DAP) availability is expected to remain stable in the short term, with buffer stocks of around 96,000 tonnes projected to cover the Kharif peak sowing months through July.
+--- Report 1: UNHCR (2026-06-30) ---
+INTRODUCTION
+In response to the Ministry of Interior's (MoI) decision of 26 September 2023 to enact an “Illegal Foreigners' Repatriation Plan”, UNHCR, the UN Refugee Agency and IOM, the UN Migration Agency, have collated their data on the arrest, detention, and deportation of Proof of Registration (PoR) holders, Afghan Citizen Card (ACC) holders, and undocumented Afghan nationals as well as on the outflows of Afghan nationals at the Torkham, Ghulam Khan, Chaman, Badini and Bahramcha border crossing points, to better understand the protection environment and movements of Afghan nationals returning to Afghanistan from Pakistan.
+In 2025, the Government of Pakistan (GoP) issued several directives impacting Afghan nationals. In January, the GoP announced that Afghan nationals should relocate from Islamabad Capital Territory (ICT) and Rawalpindi, or else face deportation. In April, further announcements indicated the implementation of the second phase of the “IFRP”, targeting ACC holders, in addition to undocumented Afghans. In July, the GoP issued a Statutory Regulation Order (SRO) directing the repatriation/deportation of PoR card holders following the expiry of PoR card validity on 30 June. The GoP later indicated a deadline of 1 September for PoR holders to leave Pakistan, before the start of the repatriation/deportation process. UNHCR issued a press briefing expressing concern regarding the decision and urging the GoP to exempt Afghans with international protection needs, as well as those with particular circumstances or vulnerabilities, from involuntary return.
 
---- Report 2: WFP (2026-05-13) ---
-The Asset Impact Monitoring from Space (AIMS) Pakistan Report highlights exceptional results in Asset Detection Analysis, with 133 assets monitored and a 100% ADI (Asset Detection Indicator) score confirming visibility and maintenance. The Landscape Impact Assessment analyzed 49 assets, achieving a 67% LCI (Landscape Contract Indicator) score, showing most assets improved or maintained vegetation conditions. Seasonal analysis revealed stronger monsoon rains but drier non-monsoon months, with vegetation health closely tied to rainfall. Eastern Pakistan faced extreme rainfall anomalies, while western regions experienced drier conditions. Featured assets include flood protection in Khyber Pakhtunkhwa, water ponds in Balochistan, and irrigation canals in Punjab, each showing varying impacts on vegetation and resilience. The report recommends regenerative practices, nature-based solutions, and ecosystem-based approaches to balance physical development with environmental resilience.
+--- Report 2: WFP (2026-06-30) ---
+HIGHLIGHTS May
+
+Month-on-month, the Consumer Price Index (CPI) rose by 0.52 percent in May, driven by higher transport, clothing &amp; footwear, and non-perishable food prices. Annual inflation also climbed to 11.7 percent (YoY), up from 10.9 percent in April.
+While month-on-month food inflation increased by just 0.10 percent, annual food inflation reached 7.9 percent compared to May 2025, driven by supply and cost pressures - meaning households paid nearly 8 percent more for food, with low-income groups hit the hardest.
+Prices of wheat and wheat flour increased in May compared to April, with wheat flour rising sharply by 9.0 percent,signalling growing pressure on key staples. In contrast, rice prices remained largely stable, reflecting sufficient supply.
+Petrol prices decreased month-on-month in May 2026, mainly due to lower global oil prices and domestic adjustments; however, year-on-year, petrol and diesel prices remained significantly higher by 51.1 percent and 49.5 percent, respectively.
+Remittances during the month of May reached record high at USD 4.25 billion, driven by seasonal and Eid-related transfers.

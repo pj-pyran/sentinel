@@ -1,16 +1,35 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-06-29) ---
+--- Report 1: IOM (2026-06-30) ---
+Between 25 October 2025 and 23 June 2026, an estimated 219,319 IDPs displaced from the Kordofan region were recorded across 1,012 locations in 89 localities and 14 states in Sudan.
+
+DTM field teams reported 109 incidents triggering displacement across the Kordofan region between 25 October 2025 and 23 June 2026.
+The majority of individuals displaced from the Kordofan region were recorded in Khartoum (75,005 IDPs), White Nile (39,442 IDPs), and North Kordofan (33,465 IDPs). Compared to late February 2026, there has been a sharp increase in IDPs moving to other states outside the Kordofan region, particularly Khartoum.
+Within Khartoum, the majority of IDPs from Kordofan were recorded across Um Bada (37,969 IDPs), Karrari (17,653 IDPs),
+and Um Durman (12,682 IDPs). Within White Nile, IDPs were primarily recorded in Kosti (25,123 IDPs), followed by smaller populations recorded in Tendalti (4,145 IDPs), and Rabak (4,095 IDPs). Within North Kordofan, IDPs were primarily recorded in Sheikan (19,400 IDPs) and in Ar Rahad (8,985 IDPs).
+
+DTM will provide continues updates on events triggering displacement across Kordofan via Early Warning Flash Alerts. The latest nationwide data on displacement and return is available in DTM Sudan Displacement and Return Snapshot (6).
+
+--- Report 2: Insecurity Insight (2026-06-30) ---
+Data from Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 09 June 2026 at least 761 incidents of violence against or obstruction of access to health care took place across Sudan:
+
+Over two-thirds of these 761 attacks were attributed to the RSF
+211 health workers were killed, 15 kidnapped and 127 arrested
+Health facilities were damaged 216 times
+63 attacks where armed drones affected health care
+51 attacks on maternal health care services
+
+--- Report 3: DFS (2026-06-29) ---
 Executive Summary
 The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/sudan
 
---- Report 2: DFS (2026-06-29) ---
+--- Report 4: DFS (2026-06-29) ---
 Executive Summary
 The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/sudan]
 
---- Report 3: DFS (2026-06-29) ---
+--- Report 5: DFS (2026-06-29) ---
 Executive Summary
 The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/sudan
