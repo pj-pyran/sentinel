@@ -1,11 +1,20 @@
 Crisis / situation: Myanmar
 
---- Report 1: DFS (2026-06-29) ---
+--- Report 1: Health Cluster (2026-06-30) ---
+Highlights
+
+Data collected between 1 February 2021 and 24 May 2026 by Insecurity Insight shows at least 1,939 attacks on health care, equivalent to one attack on health care every day, killing 175 health workers and arresting 931, damaging health facilities on at least 506 occasions. Between 1 and 30 June 2026, Insecurity Insight reported 13 new incidents in Myanmar, while WHO’s Surveillance System for Attacks on Health Care (SSA) recorded one verified incident. Health Cluster to organise awareness sessions for partners to report incidents directly in WHO’s online system.
+The Office of the High Commissioner for Human Rights (OHCHR) report to the 62nd session of the Human Rights Council confirms over 700 civilians killed in continuous attacks by the military between August 2025 and 31 January 2026, mostly due to airstrikes in Northwest and Rakhine.
+Surge in malaria cases from endemic areas in Chin, Kachin, Karenni, Sagaing, and Tanintharyi aggravated by lack of preventative measures, including insecticide-treated bednets. As expected during the monsoon season, increase in dengue cases in Rakhine and Karenni.
+Acute Watery Diarrhoea (AWD) outbreaks in Kachin and Rakhine rapidly responded to thanks to effective coordination between WASH and health partners. Joint AWD Action Planning at sub-national level ongoing as part of monsoon preparedness using AWD Prioritization Tool, developed by WASH Cluster together with Health and Nutrition Clusters
+Measles outbreak in neighbouring Bangladesh showing a decrease in cases, but risk for Rakhine and Chin remains high: measles preparedness to continue in view of large number of unvaccinated children.
+
+--- Report 2: DFS (2026-06-29) ---
 Executive Summary
 Myanmar faces a protracted humanitarian emergency characterized by widespread displacement, ongoing armed conflict, severe economic deterioration, and compounding natural disasters. The crisis demands sustained international attention and coordinated humanitarian response across multiple sectors. The Myanmar crisis requires sustained engagement across diplomatic, humanitarian, and development channels. Immediate priorities include scaling humanitarian assistance, protecting civilian infrastructure, and maintaining pressure for political resolution while preparing for long-term recovery and resilience-building efforts.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Myanmar crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/myanmar
 
---- Report 2: DFS (2026-06-29) ---
+--- Report 3: DFS (2026-06-29) ---
 Executive Summary
 Myanmar faces a protracted humanitarian emergency characterized by widespread displacement, ongoing armed conflict, severe economic deterioration, and compounding natural disasters. The crisis demands sustained international attention and coordinated humanitarian response across multiple sectors. The Myanmar crisis requires sustained engagement across diplomatic, humanitarian, and development channels. Immediate priorities include scaling humanitarian assistance, protecting civilian infrastructure, and maintaining pressure for political resolution while preparing for long-term recovery and resilience-building efforts.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Myanmar crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/myanmar
