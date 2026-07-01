@@ -1,40 +1,24 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-06-22) ---
+--- Report 1: WFP (2026-06-30) ---
 Key Highlights
 Exchange Rate and Trade Dynamics:
-• During the third week of June, the Afghani exchange rate remained almost stable at AFN 64.3/USD. Despite the recent depreciation, the Afghani remains stronger than both last year (8%) and the three-year average (15%), continuing to help moderate imported inflationary pressures.
-• Domestic markets continued to operate normally with generally adequate commodity availability, supported by ongoing harvests, seasonal arrivals, and sustained trade flows through regional corridors. Improved supplies helped ease prices of several commodities and support relative market stability. However, import dependence, elevated transport costs, and regional uncertainties continue to expose domestic supply chains to external shocks.
+• During the fourth week of June, the Afghani exchange rate remained broadly stable at AFN 64.6/USD, appreciating slightly (0.5%) compared to last week. Despite recent fluctuations, the Afghani remains 8% stronger than last year and 15% stronger than the three-year average, which continues to help moderate imported inflationary pressures.
+• Domestic markets continued to function normally with generally adequate commodity availability, supported by ongoing harvests, seasonal arrivals, and sustained regional trade flows. Improved domestic supplies continued to support price stability for several food commodities. Nevertheless, Afghanistan's reliance on imports, elevated transportation costs, and regional trade uncertainties continue to expose domestic markets to external shocks.
 Food Items:
-• Overall, national average food prices remained broadly stable during the third week of June, with only minor week-on-week movements across most staple commodities.
-• Most food commodities remained above last year’s levels, particularly wheat grain (+12%), wheat flour (high-price +9%; low-price +12%), rice (high-quality +31%; low-quality +33%), cooking oil (+3%), sugar (+17%), and salt (+10%). In contrast, pulses (-13%) and bread (-4%) remained below last year's levels.
+• Overall, national average food prices remained broadly stable during the fourth week of June, with only minor week-on-week movements across most staple commodities.• • Most food commodities remained above last year's levels, particularly wheat grain (+11%), wheat flour (high-price +9%; low-price +11%), rice (high-quality +30%; low-quality +34%), cooking oil (+2%), sugar (+13%), and salt (+10%). In contrast, pulses (-15%) and bread (-4%) remained below last year's levels..
 Vegetables:
-• Improved seasonal availability and domestic supply helped ease vegetable prices and experienced a downward trend over the recent weeks. Compared to last week, vegetable prices recorded a negligible decline, mainly tomato (-4.8%), potato (-0.9%) and onion (-1.2%).
-• Compared to last year and the three-year average, potato prices remained substantially higher (+40% and +20%, respectively). In contrast, tomato prices were moderately lower (-10% and -19%), while onion prices remained significantly lower (-25% and -36%), reflecting improved domestic availability.
+• Improved seasonal availability and domestic supply continued to support vegetable markets. Compared to last week, tomato (+0.3%) remained broadly stable, while potato (+1.4%) and onion (+2.1%) recorded slight week-on-week increases, reflecting normal seasonal market fluctuations.
+• Compared to last year and the three-year average, potato prices remained substantially higher (+42% and +21%, respectively). In contrast, tomato prices remained moderately lower (-10% and -19%), while onion prices remained significantly lower (-24% and -34%), reflecting improved domestic availability.
 Non-Food Items:
-• Diesel prices increased slightly week-on-week (+0.7%) and remained above last year and the three-year average.
-• Fertilizer prices continued to rise, with DAP increasing by 0.1% and Urea by 1.3% week-on-week. Compared to last year, DAP prices remained 19% higher, while Urea prices are notably higher (+57%), continuing to increase agricultural production costs. Meanwhile, improved seed (-0.6%) and animal feed (-0.4%) recorded slight declines and remained slightly below last year and the three-year average.
+• Diesel prices declined slightly from last week (-0.8%) but remained 5% above both last year and the 3-year average.
+• Fertilizer prices remained generally stable, with DAP price unchanged (-0.1%) and urea decreasing by 2.1% week-on-week. Compared to last year, DAP and urea prices continued to be substantially higher (+19% and +54%, respectively), maintaining elevated agricultural production costs. Meanwhile, improved seed and animal feed prices remained slightly below both last year’s levels and the three-year average, indicating a stable market equilibrium.
 Livestock and Labour Market:
-• The price of a one-year-old live female sheep declined (-0.5%) during the week and remains slightly below last year (-6%) and close to the three-year average (-2%).
-• Labour market conditions remained weak, with no significant improvement over the longer term. Compared to last week, the casual labour wage marginally improved to AFN 309/day and labour availability stays at 1.9 days per week. Nevertheless, labour availability remained significantly below both last year and the three-year average (-16%), highlighting continued constraints on income-earning opportunities for vulnerable households dependent on daily-wage labour.
+• The price of a one-year-old live female sheep declined slightly (-0.6%) during the week and remained 6% below last year and 3% below the three-year average, indicating a decline in pastoralist terms of trade (ToT).
+• Labour market conditions remained weak with limited improvement. Compared to last week, the unskilled labour wage increased slightly to AFN 310/day (+0.5%), while labour availability improved to 2.0 days per week (+3.0%). Despite this short-term improvement, labour availability remained 13% below last year and 14% below the three-year average, highlighting continued constraints on income-earning opportunities for vulnerable households dependent on daily wage labour.
 
---- Report 2: ACF (2026-06-20) ---
-NUTRITION CLUSTER PERFORMANCE OVERVIEW: JAN - MAR 2026
-As of March 2026, the Afghanistan Nutrition Cluster comprised 65 partners (including 4 UN agencies, 18 international NGOs, 41 national NGOs and PND/MoPH). Key achievements during the first quarter of 2026 included:
-Overall, the Nutrition Cluster reached 16% of its annual target during the first quarter of 2026. A total of 856,362 beneficiaries received critical nutrition services between January and March, including 143,835 girls, 149,705 boys and 562,822 pregnant and breastfeeding women.
+--- Report 2: WHO (2026-06-29) ---
+No summary available.
 
-
-By the end of March 2026, the Outpatient Therapeutic Program (OTP) had been implemented in 336 districts through 2,905 fixed and 112 temporary health facilities. The Targeted Supplementary Feeding Program (TSFP) was implemented in 309 districts through 1,437 fixed and 53 temporary health facilities. There were 134 Inpatient SAM treatment centers by the end of March 2026.
-
-
-A total of 105,121 children under five with severe acute malnutrition (60,617 girls and 44,504 boys) were admitted to OTP sites, reaching 15% of the annual target. Additionally, 9,237 children under five (5,138 girls and 4,099 boys) with severe acute malnutrition and complications received treatment in inpatient SAM centers, reaching 13% of the annual target.
-A total of 148,178 children under five with moderate acute malnutrition (83,535 girls and 64,643 boys) were admitted to the TSFP, representing 8% of the annual target. Additionally, 58,324 malnourished PBW were reached through the TSFP, accounting for 8% of the annual target.
-
-
-Meanwhile, 120,822 children under five years of age (61,831 girls and 58,991 boys) and 51,252 pregnant and breastfeeding women were enrolled in the Blanket Supplementary Feeding Program (BSFP), reaching 8% and 7% of their annual targets, respectively.
-
-
-In addition, MIYCN counseling to improve breast feeding and complementary feeding practices for children aged 0-23 months was provided to 481,841 pregnant and lactating women and care givers, representing 21% of the annual target.
-
-
-For a clearer comparison of 2026 first quarter coverage versus 2025, please refer to the table below.
+--- Report 3: WHO (2026-06-29) ---
+No summary available.
