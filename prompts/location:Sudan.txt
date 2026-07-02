@@ -1,6 +1,22 @@
 Crisis / situation: Sudan
 
---- Report 1: IOM (2026-06-30) ---
+--- Report 1: UNICEF (2026-07-02) ---
+Highlights
+
+On 15 April 2026, Sudan's war entered its fourth year with no signs of abating, as violence, mass displacement and collapsed services continue to drive one of the world's most severe humanitarian crises.
+In a significant milestone, UNICEF supported the safe conduct of national examinations for 544,200 students across more than 3,000 centres, helping sustain learning despite conflict and significant access constraints.
+Deteriorating food insecurity and conflict continue to drive acute malnutrition, underscoring the need for a sustained, integrated response. With UNICEF support, 786,300 children under five were screened for acute malnutrition, and over 74,000 children were admitted for SAM treatment. UNICEF scaled up immunization to prevent disease outbreaks, delivering 14.6 million vaccine doses, including through cross-border operations to hard-to-reach areas, and supporting the first round of a novel oral polio vaccine type 2 campaign targeting 4.38 million children.
+
+SITUATION OVERVIEW AND HUMANITARIAN NEEDS
+On 15 April 2026, Sudan's devastating conflict entered its fourth year. The violence has engulfed the whole country and continues to drive one of the world’s largest and most complex humanitarian emergencies, characterized by widespread attacks against civilians and civilian installations, mass displacement, deepening food insecurity, disease outbreaks, and the collapse of essential services. Millions of children remain exposed to violence, malnutrition, exploitation, and prolonged disruption to education.
+Overall, approximately 8.9 million people remain internally displaced, maintaining Sudan as the largest displacement crisis globally and displacement continued to surge in hotspot areas. By April 2026, more than 300,000 people were newly displaced, largely from North Darfur, Kordofan, and Blue Nile states . Although nearly four million people have returned to areas of origin, returns remain fragile and often to damaged or insecure locations.
+Humanitarian access remained severely constrained in key conflict areas, including Kordofan, Blue Nile and North Darfur, where insecurity and bureaucratic and logistical barriers continued to limit the delivery of aid.
+Protection risks continued to increase nationwide. In April 2026, a drone strike on Al Deain Teaching Hospital in East Darfur killed around 70 people and injured more than 140, including women, children and health workers. Attacks on health facilities have remained widespread, with more than 200 incidents recorded since the start of the conflict, severely disrupting access to healthcare services . These incidents highlight the growing threat to civilians and the erosion of essential services.
+Public health risks remained high, with multiple disease outbreaks recorded —including dengue, malaria, measles, and hepatitis E—driven by displacement, poor sanitation, and limited access to healthcare. Dengue transmission remained a concern, particularly in River Nile and Khartoum states, where outbreaks were reported amid fragile health systems (more than 17,300 cumulative cases and 22 associated deaths reported). While Malaria remained a major public health concern with 311,100 confirmed and presumed malaria cases reported in April through public health facilities. 2 National examinations for Grade 12 students were conducted from 13 to 23 April 2026, marking the third examination cycle since the onset of the conflict. The Grade 12 examination has significant importance to students and families in Sudan, serving as the primary pathway to tertiary education and future employment. For students who have navigated years of conflict, displacement, and learning disruption to reach this point, sitting the exam is an opportunity that carries lasting consequences for their educational pathways and longer-term outcomes. A total of 544,200 students sat for the examinations across more than 3,000 centres nationwide.
+Nationwide, approximately 12,200 schools are now operational out of 19,800 (62 per cent). School closures are most pronounced in East Darfur, North Darfur, North Kordofan, South Darfur and West Kordofan, where fewer than one in three schools are functional. Only six of Sudan’s 18 states report nearly full operational status. An estimated six per cent of schools remain used as collective shelters or occupied by armed actors, further limiting access to education. UNICEF continued to advocate for the protection of schools as safe learning spaces.
+The conflict continued to drive catastrophic food and nutrition crisis. Nearly 19.5–21 million people are now estimated to be facing acute food insecurity across Sudan . Famine conditions have been confirmed in locations such as Al Fasher and Kadugli, with additional areas at risk across Darfur and Kordofan . By 2026, an estimated over 800,000 children are at risk of severe acute malnutrition, with millions more affected by acute malnutrition.
+
+--- Report 2: IOM (2026-06-30) ---
 Between 25 October 2025 and 23 June 2026, an estimated 219,319 IDPs displaced from the Kordofan region were recorded across 1,012 locations in 89 localities and 14 states in Sudan.
 
 DTM field teams reported 109 incidents triggering displacement across the Kordofan region between 25 October 2025 and 23 June 2026.
@@ -10,7 +26,7 @@ and Um Durman (12,682 IDPs). Within White Nile, IDPs were primarily recorded in 
 
 DTM will provide continues updates on events triggering displacement across Kordofan via Early Warning Flash Alerts. The latest nationwide data on displacement and return is available in DTM Sudan Displacement and Return Snapshot (6).
 
---- Report 2: Insecurity Insight (2026-06-30) ---
+--- Report 3: Insecurity Insight (2026-06-30) ---
 Data from Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 09 June 2026 at least 761 incidents of violence against or obstruction of access to health care took place across Sudan:
 
 Over two-thirds of these 761 attacks were attributed to the RSF
