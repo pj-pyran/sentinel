@@ -1,15 +1,26 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: WFP (2026-06-25) ---
-The cost of living in May 2026, as measured by the Minimum Expenditure Basket (MEB), remained stable at New SYP 26,567 compared to the previous month. However, it was 19 percent higher than in May 2025 (year-on-year).
-The Syrian pound (SYP) depreciated slightly in the official market, with the exchange rate increasing from New SYP 110.55 per USD to New SYP 113 per USD in May 2026. Domestic fuel prices increased by 17 to 30 percent, with diesel prices rising from USD 0.75 to USD 0.88 per liter. This increase raised agricultural transportation costs and food processing expenses across local markets.
-A projected wheat harvest of 2.3 million tons signals a recovery toward self-sufficiency, providing an important supply buffer that is expected to help stabilize wheat and flour prices.
-The General Authority for Land and Sea Ports announced the rehabilitation of the phosphate terminal at Tartous Port. The project is expected to improve export efficiency, strengthen trade activity, and support economic recovery over the medium term.
+--- Report 1: Health Cluster (2026-07-02) ---
+Health Sector Updates: Action for Humanity
+AFH continued delivering essential health services across Raqqa and Deir-ez-Zor by supporting five main hospitals. Services included maternal and child healthcare, surgical interventions, multidisciplinary consultations, physiotherapy, health and nutrition awareness, and psychosocial support. These efforts were complemented by the provision of essential medicines and diagnostic services to ensure uninterrupted, quality care for vulnerable populations. In Deir-ez-Zor city, new interventions were initiated through support to Deir-ez-Zor National Hospital. This included plans to rehabilitate outpatient clinics and the general surgery department, alongside the provision of medicines and medical equipment. In parallel, AFH continued supporting children with Down syndrome by providing integrated, child-centered services. These included educational and recreational activities, psychosocial support, and guidance for caregivers. Medical consultations, medication provision, eyeglass fitting, and individualized medical records enabled continuous follow-up and comprehensive care. Medical consultations ensured timely access to specialized healthcare for patients in need. Across AFH-supported hospitals, more than 20,000 medical services were delivered, including over 14,000 consultations and 374 major and minor surgical operations. Additionally, 809 normal deliveries and 496 Caesarean sections were conducted to ensure safe childbirth.
 
---- Report 2: UNHCR (2026-06-24) ---
-Syria’s operational environment is increasingly defined by large-scale returns and persistent humanitarian vulnerability.
-While around 1.6 million refugees and 1.9 million internally displaced persons (IDPs) have returned since December 2024, humanitarian needs remain severe, with 15.6 million people requiring humanitarian assistance.
-This evolving context is driving a gradual operational shift from an emergency displacement response toward return and reintegration support, in line with Syria’s National Recovery Priorities and the Government’s “No Tents, No Camps” vision, while maintaining protection and humanitarian assistance for highly vulnerable populations.
-The sustainability of returns continues to be constrained by damaged housing, limited access to services and livelihoods, the need for civil documentation and overstretched local absorption capacity.
-UNHCR advocates that movements out of camps or collective shelters remain voluntary, informed, safe, and dignified, and supported by conditions that enable sustainable reintegration.
-UNHCR also provides protection and assistance to the most vulnerable refugee and IDP returnees while working to increase institutional capacity
+--- Report 2: Health Cluster (2026-07-02) ---
+1. Current humanitarian health situation
+Syria’s health sector continues to operate in a protracted, multi-layered humanitarian crisis marked by large-scale displacement, returns, weak service functionality, disease risks, underfunding, and growing pressure on already overstretched public health services. As of late May 2026, Syria had around 5.54 million IDPs, with more than 1.9 million IDP returns recorded. Around 870,000 people remain in 1,275 IDP sites, including a high proportion of women and children and an estimated 30,000 persons with disabilities. These population movements are increasing demand for essential health services in areas where health system capacity remains limited. The main gap is the limited functionality of the health system. Only 57% of hospitals and 37% of primary health care centers are fully functional. This creates major barriers to equitable access to the minimum package of health services, especially for displaced people, returnees, women, children, persons with disabilities, people with chronic diseases, and communities in high-severity or underserved sub-districts. Health access remains a serious concern: recent assessments show that 72% of communities still report problems accessing health care, with major gaps linked to lack of medicines, unaffordable care, long waiting times, distance, safety concerns, and uneven geographic coverage. Mobile medical team coverage is also inconsistent, with 32% of communities reporting no recent mobile team visits.
+
+--- Report 3: Health Cluster (2026-07-02) ---
+National health sector coordination, Damascus
+• Conducted bilateral support and facilitation, including planned prioritization for the ongoing AFS Fourth Regular Allocation) to: Lapis, the Mentor Initiative, SRP, ONSUR, Orange, MedGlobal, AHF, Al-Ameen, WATAN, BINAA, IYD, EMERGENCY, Mesopotamia Association for Relief and Development, SNCF.
+• Updated and disseminated the Sector Assessment Registry, January – May 2026.
+• Submitted health sector prioritization under the SHF Standard Allocation.
+• Developed and disseminated the monthly Health Sector Bulletin, June 2026.
+• Developed an update of impact of underfunding on health sector Syria.
+• Provided technical feedback for the RCO-ISCG briefing on NEXUS operationalization and INGO inclusion under UNSDCF.
+• Finalized, jointly with the Ministry of Health, the composition of the Health Sector Strategic Advisory Group.
+• Participated in the webinar on newly introduced took on Health Cluster Achievements by the Global Health Cluster.
+• Followed up on two possible incidents of attacks on health care in Deir-ez-Zoir and Hassakeh.
+• Provided feedback to WHO as CLA on UNCT agenda, including Area-Based approach in Deir-ez-Zoir.
+• Disseminated the Joint Statement: Implementing Regulations for Qualitative Salary Increases for Ministry of Health Employees in Syria, 23 May 2026.
+• Participated, produced and shared the health sector reports as part of the inter-agency assessment mission to west Dar’a on 18 June.
+• Developed and disseminated “Dar’a Governorate: Health Sector Profile: Health Situation, Gaps, Needs, Opportunities, and Recommendations, 18 June 2026”.
+• Reviewed separately received WASH Sector Contingency Plan for 2026.

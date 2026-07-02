@@ -1,6 +1,30 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: IMC (2026-07-02) ---
+--- Report 1: ChildFund International (2026-07-02) ---
+Situation at a Glance
+
+On 24 June 2026, two successive earthquakes of 7.2 and 7.5 magnitude struck north-central Venezuela — the strongest seismic event in Venezuela in over 100 years.
+Five days into the response, the scale of destruction continues to grow, and only now are we beginning to understand the true magnitude of the devastation.
+At least 1,430 people have been killed, more than 3,238 injured, and over 68,900 reported missing. According to the President of the National Assembly, Jorge Rodriguez, 774 buildings collapsed (189 were completely destroyed) and 2,501 buildings were damaged, including hospitals, shopping centers, bridges and roads. In La Guaira alone, more than 1,400 buildings were destroyed and more than 11,200 people are missing. A magnitude 4.7 aftershock on 26 June caused additional building damage in Caracas and collapsed the bridge connecting Caraballeda to the rest of La Guaira, further disrupting relief efforts. A damaged runway at Simon Bolivar International Airport delayed the arrival of rescue teams; however, as of June 28, 30 international search and rescue teams with more than 1,600 personnel and over 100 dogs are on the ground. More than 400 aftershocks have been recorded in total.)
+The UNDP estimated direct physical damage of between USD 4.7 and 8.7 billion — approximately 6% of Venezuela's GDP — not including infrastructure loss, longterm economic disruption or reconstruction costs.
+This emergency is compounding an already fragile humanitarian situation: prior to the earthquakes, nearly 8 million people in Venezuela were already in need of humanitarian assistance.
+
+--- Report 2: UNHCR (2026-07-02) ---
+• Two major earthquakes struck north-central Venezuela on 24 June, with the strongest impact reported in La Guaira and the Greater Caracas area.
+• As of 29 June, at least 1,719 people had been reported dead, more than 5,034 people injured and 15,866 were reported affected. Figures are expected to evolve as search-and-rescue operations and assessments continue.
+• Updated reports indicate 2,501 damaged infrastructure sites, including 774 housing units and 38 hospitals. Among housing units, 189 have completely collapsed, while others have sustained damage or partial collapse.
+• Families displaced from damaged or unsafe homes are staying with relatives, in streets and public spaces, and in churches, schools, stadiums and other improvised shelters. Many temporary sites do not yet meet minimum protection standards.
+• UNHCR is supporting local authorities in set-up of government-led multi-service centres, while providing tools and equipment for the safe collection and management of information to identify protection needs, deliver protection services, and facilitate referrals to appropriate specialized services.
+• UNHCR is scaling up support in two priority areas: protection and core relief items and shelter, and requires $14.8 million to support up to 30,000 earthquake-affected people over six months.
+• Initial reports also indicate that a temporary accommodation site used for the reception of returnees in La Guaira was severely affected, underscoring the specific risks faced by people who were already in vulnerable situations prior to the earthquake.
+
+--- Report 3: UNHCR (2026-07-02) ---
+Following the devastating earthquakes that struck north-central Venezuela on 24 June 2026, thousands of families have been affected by loss of life, injuries, displacement, damage to homes and disruption of essential services. UNHCR, the UN Refugee Agency, is scaling up its response and seeks USD 14.85 million in flexible funding to support up to 30,000 earthquake-affected people over a six-month period. The response will focus on protection, emergency relief items and temporary shelter support for displaced and vulnerable populations, including refugees, asylum-seekers, returnees and affected host communities.
+
+--- Report 4: PDC (2026-07-02) ---
+The response is transitioning from live rescue to recovery. Live rescues are now rare exceptions. Missing-persons estimates range from tens of thousands (unverified crowd-sourced registries cite 43,000 to 46,000), against no confirmed official figure. The UN is planning against a scenario of up to 10,000 deaths.
+
+--- Report 5: IMC (2026-07-02) ---
 FAST FACTS
 
 Just after 6 p.m. local time on June 24, two back-to-back earthquakes of 7.1 and 7.5 magnitude hit northern Venezuela in rapid succession, seriously impacting the capital city of Caracas and the neighboring city of La Guaira.
@@ -20,7 +44,7 @@ Within hours of the earthquakes, members of International Medical Corps' Venezue
 Based on these findings, International Medical Corps quickly deployed a mobile medical unit (MMU) to provide lifesaving first aid and primary healthcare services to displaced people and others affected by the quakes who have limited access to basic medical care. We plan to deploy additional MMUs in the coming days, and will be deploying a field hospital and emergency medical team early next week.
 International Medical Corps will continue working closely throughout the region with local actors and community members to map and identify additional needs in health facilities, shelters and underserved locations, enabling us to quickly expand coverage to areas where people and communities’ needs are urgent and unmet.
 
---- Report 2: OCHA (2026-07-02) ---
+--- Report 6: OCHA (2026-07-02) ---
 Situation Report No. 8
 Earthquakes in Venezuela
 01 July 2026
@@ -41,14 +65,14 @@ One week after the earthquakes, authorities report a toll of 2,295 people dead, 
 Authorities report a total of 26,403 affected people, including 12,841 displaced and severely affected individuals, as well as people whose homes have been damaged or who have experienced physical or psychological impacts as a result of the earthquakes.
 The Government response remains focused on search and rescue operations and on the preparation and expansion of transitional camps to assist affected populations. La Guaira remains the most affected state. The United Nations and its partner organizations, in coordination with the authorities, are implementing multisectoral response activities and will continue to scale up assistance to affected people.
 
---- Report 3: ETC (2026-07-02) ---
+--- Report 7: ETC (2026-07-02) ---
 This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
 Summary Points
 • Two high-magnitude earthquakes (7.2 and 7.5) caused widespread damage across north-central Venezuela, disrupting telecommunications infrastructure and services in several of the country's most densely populated areas.
 • Internet and mobile connectivity remain significantly affected in La Guaira and other impacted locations, with restoration efforts supported by emergency measures including temporary satellite-based communications services.
 • LTC Telecoms is coordinating with partners to assess connectivity gaps, support response planning, and mobilize emergency telecommunications and information management support for humanitarian responders.
 
---- Report 4: PAHO (2026-07-01) ---
+--- Report 8: PAHO (2026-07-01) ---
 HIGHLIGHTS
 
 El 24 de junio de 2026, dos terremotos consecutivos (M7,2 y M7,5) afectaron el centro-norte de Venezuela, impactando al menos 7 estados. La Guaira fue el territorio más severamente afectado.
@@ -58,7 +82,7 @@ El Hospital Vargas-IVSS ha sido identificado como el establecimiento de máxima 
 La OPS/OMS desplegó cuatro especialistas del Equipo Regional de Respuesta, con funciones en coordinación de emergencias en salud, logística, gestión de información, coordinación de Equipos Médicos de Emergencia (EMT) y evaluación rápida de establecimientos de salud. En coordinación con el Ministerio de Salud, la OPS/OMS apoya el CICOM virtual y la movilización de EMT. Actualmente, un EMT Tipo 3 (Samaritan’s Purse) se encuentra operativo en La Guaira; tres EMT adicionales están en proceso de movilización y cinco EMT más han sido confirmados por el Ministerio de Salud/CICOM y están listos para su despliegue.
 El 26 de junio, la OPS/OMS entregó 2,18 toneladas de suministros médicos a la Dirección Regional de Salud de La Guaira, incluidos kits de trauma, módulos del kit interagencial de emergencia en salud, equipos de protección personal (EPP) y consumibles médicos, además de 320 bolsas para cadáveres. Asimismo, se prevé la llegada inminente de un envío de emergencia adicional de 4 toneladas desde la Reserva Estratégica de la OPS en Panamá, que incluye kits de trauma, medicamentos, equipamiento de campo y EPP.
 
---- Report 5: HOPE (2026-07-01) ---
+--- Report 9: HOPE (2026-07-01) ---
 Key Updates
 • Project HOPE continues to expand emergency response activities as the death toll rises.
 • Search and rescue operations are ongoing in La Guaira, with Project HOPE's long-time partner, SAMU, supporting complex extrications and assessments alongside national and international teams.
@@ -73,7 +97,7 @@ Up to 6.8 million people have been affected by the earthquakes, including 1.8 mi
 The emergency response is transitioning from a predominantly lifesaving search-andrescue operation to a combined rescue, humanitarian relief, and early recovery response. With the significant additional pressure on the local health system, three government field hospitals are currently operational, with additional field hospitals established by the United States and India. Officials have identified urgent needs for orthopedic trauma supplies, while emergency medical priorities increasingly focus on trauma surgery, intensive care, post-operative care, infectious prevention and control, and maintaining essential services for patients with chronic conditions.
 As rescue operations begin transitioning toward recovery, priorities include expanding temporary shelter, restoring health services, strengthening protection and psychosocial support, and coordinating recovery planning to support affected communities over the coming weeks.
 
---- Report 6: OCHA (2026-07-01) ---
+--- Report 10: OCHA (2026-07-01) ---
 Situation Report No. 7
 Earthquakes in Venezuela
 30 June 2026
@@ -93,7 +117,7 @@ Venezuela is facing a national emergency following two consecutive high-magnitud
 The official toll stands at 1,943 people dead and 10,571 injured. Authorities also reported 15,866 people affected. As of 28 June, a total of 2,501 infrastructure assets had sustained some degree of damage, including 38 health facilities and 855 affected buildings. It is also reported that 6,461 people have been rescued since the earthquakes. Figures remain under review as operations continue.
 Five days after the earthquakes, the Government response remains focused on search and rescue operations and assistance to affected populations. Up to seven (7) states have been impacted, including La Guaira, Miranda, Capital District, Falcón, Carabobo and Yaracuy. The United Nations and its partners, in coordination with the authorities, are implementing multisectoral actions and will continue scaling up the response.
 
---- Report 7: IOM (2026-07-01) ---
+--- Report 11: IOM (2026-07-01) ---
 This third Situation Report provides an updated overview of the impact of the 24 June earthquakes in the Bolivarian Republic of Venezuela and outlines IOM’s ongoing and planned response in support of affected populations and national efforts.
 Highlights
 Official figures report at least 1,943 fatalities, 10,571 injuries, 15,866 people severely affected and 6,461 people rescued following the 24 June earthquakes.
@@ -106,13 +130,13 @@ IOM planned response
 IOM’s planned response will continue to prioritize emergency accommodation and core relief items, site coordination and management, health and MHPSS, WASH, protection, and data and needs assessments. In site coordination, IOM will continue monitoring, service mapping and verification of temporary accommodation sites, support site planning, population registration and digitalization of registration, and strengthen community organization, coexistence rules, information provision, AAP, GBV and PSEA measures. IOM will also support site improvements and the delivery of tents, tarpaulins and basic arrangements to improve safety, dignity and protection.
 Across health, WASH, protection and data, IOM will continue mobile health activities in temporary accommodation sites, including general medicine, paediatrics, gynaecology and obstetrics, psychological first aid and referrals. IOM will prioritize medicines, supplies, referral pathways for severe medical cases and persons with reduced mobility, while maintaining MHPSS support, WASH interventions, hygiene kits, water storage, handwashing spaces, sanitation, waste management and infection prevention and control. Protection activities will focus on risk monitoring, safe referrals, community engagement, information provision and training for response actors, while DTM products, site profiles, mobility updates, maps and needs analyses will continue informing multisectoral prioritization.
 
---- Report 8: WFP (2026-06-30) ---
+--- Report 12: WFP (2026-06-30) ---
 Funding Needed
 FOR THE 1st MONTH OF EMERGENCY: USD 50 Million are required.
 FOR REGULAR PROGRAMMES, INCLUDING SCHOOL MEALS: USD 20 Million are required.
 Resources and stock from regular programmes are being redirected to the emergency, making donor support critical on both fronts.
 
---- Report 9: OCHA (2026-06-30) ---
+--- Report 13: OCHA (2026-06-30) ---
 Situation Report No. 6
 Earthquakes in Venezuela
 29 June 2026
@@ -132,14 +156,14 @@ Venezuela is facing a national emergency following the two consecutive high-magn
 The official toll stands at 1,719 people dead and 5,034 injured. Authorities also reported that 15,866 people have been displaced. In addition, at least 855 buildings were affected. As of 28 June, a total of 2,501 infrastructure assets had sustained some level of damage, including 38 hospitals. Figures remain under review as operations advance.
 The Government response has focused on search and rescue, emergency medical care and damage assessments. Up to seven (7) states were affected, including La Guaira, Distrito Capital, Miranda, Falcón, Carabobo, and Yaracuy. The United Nations and its partners, in coordination with the authorities, will deliver a multisectoral response to affected people in three strategic locations across La Guaira.
 
---- Report 10: UNFPA (2026-06-30) ---
+--- Report 14: UNFPA (2026-06-30) ---
 Venezuela is facing a major humanitarian emergency following two consecutive earthquakes of magnitudes 7.2 and 7.5 that struck the central-northern region of the country on 24 June, causing widespread destruction and more than 130 aftershocks.
 On Thursday, 25 June, preliminary reports indicated that there were more than 200 fatalities and close to 1,500 injuries, with figures expected to rise as search and rescue operations continue. The states most affected include the Capital District, La Guaira, Miranda, Carabobo, and Yaracuy.
 UNFPA is mobilizing to address the life-saving sexual and reproductive health (SRH) and protection needs of women and girls affected by the earthquake. Essential maternal health services, emergency obstetric care, family planning, clinical management of rape, and gender-based violence (GBV) prevention and response must remain available from the earliest stages of the emergency.
 UNFPA is allocating US $500,000 from its Emergency and Humanitarian Thematic Funds to support the immediate response following the level-2 emergency activation. Essential supplies and equipment are currently being shipped to affected areas to sustain life-saving SRH and GBV services.
 UNFPA is working with partners to secure additional resources to support rapid needs assessments and respond to the most pressing needs of women, girls, adolescents, and vulnerable populations affected by the earthquake.
 
---- Report 11: IOM (2026-06-30) ---
+--- Report 15: IOM (2026-06-30) ---
 This second Situation Report provides an updated overview of the impact of the 24 June earthquakes in the Bolivarian Republic of Venezuela and outlines IOM’s ongoing and planned response in support of affected populations and national efforts.
 Highlights
 Official figures report at least 1,719 fatalities, 5,034 injuries, 15,866 people severely affected and 22,619 people affected following the 24 June earthquakes.
