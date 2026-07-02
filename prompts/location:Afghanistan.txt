@@ -1,6 +1,13 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-06-30) ---
+--- Report 1: Nutrition Cluster (2026-07-02) ---
+Nutrition Sentinel Site Surveillance System process and coverage
+Methodology
+The Community Nutrition Sentinel Site system works across 481 sites in 401 districts to track under‐five malnutrition. It uses simple mid‐ to upper‐arm measurements and checks for swelling. The system began in 2023 through close collaboration with partners and local communities. | 3 Selection follows a two‐step random approach: CHWs prepare household listings, then 40 households per site are randomly selected. One child aged 6–59 months is included from each home. When an ID is not available, a local calendar event helps confirm the child’s age.
+Trained Community Health Workers collect data every quarter, helping keep information reliable and consistent across places and over time. These workers receive strong practical and classroom training, and 40% of them are women.
+Early Childhood Food Insecurity Experience Scale (EC-FIES) : It is fully integrated into the CHWs questionnaire, allowing CHWS to collect food insecurity data concurrently with MUAC measurements, biannually.
+
+--- Report 2: WFP (2026-06-30) ---
 Key Highlights
 Exchange Rate and Trade Dynamics:
 • During the fourth week of June, the Afghani exchange rate remained broadly stable at AFN 64.6/USD, appreciating slightly (0.5%) compared to last week. Despite recent fluctuations, the Afghani remains 8% stronger than last year and 15% stronger than the three-year average, which continues to help moderate imported inflationary pressures.
@@ -16,9 +23,3 @@ Non-Food Items:
 Livestock and Labour Market:
 • The price of a one-year-old live female sheep declined slightly (-0.6%) during the week and remained 6% below last year and 3% below the three-year average, indicating a decline in pastoralist terms of trade (ToT).
 • Labour market conditions remained weak with limited improvement. Compared to last week, the unskilled labour wage increased slightly to AFN 310/day (+0.5%), while labour availability improved to 2.0 days per week (+3.0%). Despite this short-term improvement, labour availability remained 13% below last year and 14% below the three-year average, highlighting continued constraints on income-earning opportunities for vulnerable households dependent on daily wage labour.
-
---- Report 2: WHO (2026-06-29) ---
-No summary available.
-
---- Report 3: WHO (2026-06-29) ---
-No summary available.
