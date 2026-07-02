@@ -1,8 +1,14 @@
 Crisis / situation: World
 
---- Report 1: PAHO (2026-07-01) ---
+--- Report 1: Insecurity Insight (2026-07-02) ---
+Protection of Humanitarian and UN Personnel, Premises and Assets
+In the 25 months since the adoption of the resolution, Insecurity Insight recorded 1,258 attacks and acts of violence against aid workers from the UN, humanitarian and civil society, resulting in 787 aid workers killed, 717 injured, 371 kidnapped and 576 arrested. These acts of violence underscore the urgent need for strengthened collective action and the promotion of collaborative security risk mitigation strategies to enhance aid worker safety and security and to provide crisis and post-incident support to affected individuals and their families.
+Of the 787 aid workers who were killed, 610 were national aid workers, representing 78% of total killings, while ten were international aid workers. These figures underscore how aid workers closest to affected communities - often working with the least protection and visibility - bear the greatest risk.
+Download the data (updated every Monday). Insecurity Insight continuously backdates data, as such, numbers may change if or when further information is made available.
+
+--- Report 2: PAHO (2026-07-01) ---
 Considering the increase in influenza B activity observed in some countries of the Americas Region, as evidenced by recent increases in detections reported by national surveillance systems, and given that this increase occurs in the context of the onset of the respiratory virus season—characterized by increased transmission of seasonal influenza and the progressive circulation of respiratory syncytial virus (RSV)— particularly in the Southern Hemisphere, the Pan American Health Organization/World Health Organization (PAHO/WHO) urges Member States to strengthen epidemiological and virological surveillance of acute respiratory infections, review response capacity, and reinforce prevention and control strategies targeting high-risk groups. In this context, the co-circulation of influenza and RSV could lead to a significant increase in outpatient visits, hospitalizations, and the demand for pediatric and intensive care beds, placing additional pressure on health services, particularly during periods of peak viral circulation.
 
---- Report 2: WHO (2026-06-30) ---
+--- Report 3: WHO (2026-06-30) ---
 OVERVIEW
 The eSURV/ISS mechanism provides pivotal, near real-time evidence from field operations, which is essential for timely informed decision-making.  During the month in focus, low active surveillance visits activities have been observed across the implementing countries as indicated in fig. 1.  Notably, no active surveillance activities were recorded in Mauritania, Gambia, Sierra Leone, Equatorial Guinea, Namibia and Lesotho throughout the reporting period.
