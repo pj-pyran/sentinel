@@ -1,45 +1,30 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: UNRWA (2026-07-01) ---
+--- Report 1: ETC (2026-07-03) ---
+The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 31 October 2023 in response to the crisis in Gaza. This Situation Report provides a monthly update on LTC telecoms activities. All references to the LTC in this report relate specifically to the telecommunications area of the cluster.
+Summary Points
+• LTC Telecoms continued supporting critical communications in Gaza, coordinating with UN, humanitarian, and private sector partners to sustain telecommunications services, address fuel shortages, and advocate for the entry of essential ICT equipment, spare parts, and consumables.
+• Inter-agency Security Communications Systems (SCS) were further strengthened, with progress on the Unified Radio Configuration Project, expanded VHF radio coverage, technical support to the Gaza Security Operations Centre (SOC), and security communications training for humanitarian partners.
+• Telecommunications services remained severely constrained by conflict-related damage and supply restrictions, with an estimated 75 percent of infrastructure damaged or destroyed since October 2023. Ongoing shortages of ICT equipment, fuel, spare parts, and maintenance supplies continued to affect network reliability and limit connectivity for humanitarian responders and affected communities.
+
+--- Report 2: ETC (2026-07-03) ---
+Operation overview
+Armed conflict between Palestinian militant groups and Israeli military forces began on 07 October 2023. The conflict has resulted in a dire and devastating humanitarian crisis and significant disruption to communications networks, ultimately impeding life-saving humanitarian operations. The WFP-led Logistics and Telecommunications Cluster (LTC Telecoms) was activated on 31 October 2023 to meet the urgent need to support access to reliable shared communications services for humanitarian organizations operating in Gaza.
+
+--- Report 3: UNRWA (2026-07-03) ---
+Highlights
+The Gaza Strip
+
+On 30 June, Israeli forces forcibly entered the UNRWA Kalandia Training Centre, located in occupied East Jerusalem. They conducted a tour, took photos of the premises and stated that the centre had to close. The centre serves hundreds of students from refugee camps across the West Bank, many of whom face difficult socio-economic conditions and benefit from free education services at the facility. The spokesperson for the UN Secretary-General condemned the operation and noted that it “breached the inviolability of UN premises and violated Israel’s obligations concerning the privileges and immunities of the United Nations”.
+The Humanitarian Country Team in the Occupied Palestinian Territory warned that the continued expansion of areas under Israeli control in the Gaza Strip is intensifying risks to civilians and further constraining humanitarian efforts. For reference, 126 UNRWA installations are currently located in areas where access has been restricted (i.e. behind the so-called “Yellow Line” and “Orange Line” of military control implemented by the Israeli authorities)
+Over the reporting period, UNRWA staff members were injured as a result of airstrikes conducted across the Gaza Strip. This includes an airstrike conducted on 29 June on tents in Al Mawasi area of Khan Younis, where scores of Palestinians were injured and hundreds of tents were damaged or destroyed.
+Amid severe overcrowding and deteriorating public health conditions, UNRWA continues to conduct cleaning campaigns, community awareness activities, and targeted pesticide application by trained UNRWA personnel, alongside solid waste disposal and other activities to improve environmental conditions. In total, 352 campaigns to control the spread of disease-carrying animals and pests have already been completed across 371 displacement sites since 7 June, reaching an area where almost 684,000 people reside. UNRWA is a main contributor to the campaign, taking part directly or in collaboration with partners in 335 out of the 352 planned campaigns.
+The continued shortage of engine oil and spare parts poses a major challenge for the Agency’s humanitarian operations. Generators in UNRWA schools-turned-shelters are operating for just 2-3 hours per day, leading to reduced access to water and essential services. Furthermore, an increasing number of UNRWA vehicles remain grounded, resulting in the accumulation of waste in camps and collective shelters, and limiting the ability of UNRWA teams to move across the Strip.
+
+--- Report 4: UNRWA (2026-07-01) ---
 Highlights
 The Gaza Strip
 
 UNRWA continues to participate in the pest-control campaign led by the WASH Cluster, aiming to prevent the spread of diseases and improve living conditions for displaced communities amid severe overcrowding and deteriorating public health conditions.
 UNRWA is conducting cleaning campaigns, community awareness activities, and targeted pesticide use by trained UNRWA personnel, alongside solid waste disposal, and other activities to improve environmental conditions. In total, 264 campaigns to control the spread of disease-carrying animals and pests have already been completed across 371 displacement sites since 7 June, reaching an area where almost 684,000 people reside. UNRWA is a main contributor to the campaign, taking part (directly or together with partners) in 335 out of the 352 planned campaigns.
 On Saturday, 20 June, UNRWA schools started registering new first-grade students for the 2026/2027 school year.
-
---- Report 2: Insecurity Insight (2026-06-30) ---
-Data collected by Insecurity Insight shows that between 07 October 2023 and 09 June 2026, at least 3,327 incidents of violence against or obstruction of access to health care took place across the occupied Palestinian territory. 95% of all incidents were attributed to Israeli forces.
-
-Gaza: 2,328 attacks on health care were recorded during which health facilities were damaged 448 times, 765 health workers were killed and 398 arrested. Patient access to medicine was obstructed on 289 occasions.
-West Bank and East Jerusalem: 938 attacks on health care were recorded during which health facilities were damaged 30 times, 12 health workers were killed and 188 arrested. Patient access to medicine was obstructed on 579 occasions.
-
-Of the 938 attacks on health care in the West Bank, 47 were attributed to Israeli settlers, who were typically armed with guns or rocks. The proportion of such attacks more than doubled in 2025 compared to 2024, rising from around 2% to 9% of total reported attacks. Between 01 January and 09 June 2026, Israeli settler-attributed attacks increased further, accounting for 22% of all reported attacks during that period. Most Israeli settler attacks on health care targeted ambulances and first responders, including blocking their access to those needing care. On at least seven occasions, Israeli settlers attacked health care under the protection of the IDF.
-View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
-Past briefs: 27 May-09 June; 13-26 May; 29 April-12 May; 15-28 April; 01-14 April; 18-31 March; 04-17 March; 18 February-03 March; 04-17 February; 21 January-03 February; 07-20 January; 24 December 2025-06 January; All
-SHCC Factsheets (EN): 2025; 2024; 2023; 2022; 2021. (AR): 2025; 2024; 2023; 2022; 2021.
-Help support the protection of health care by sharing this resource. Please copy and paste this link: https://bit.ly/10-26Jun2026OPTHealth
-Documented incidents
-10-23 June 2026
-The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care between 10-23 June 2026. The incidents below have not been verified through ground investigations. There is a delay in reporting incidents due to our open source verification protocol.
-Gaza
-11 June 2026: In Deir al-Balah city and governorate, a home near Al Aqsa Martyrs Hospital was bombed by Israeli forces. Source: Quds News Network
-11 June 2026: Across Gaza, private hospitals stopped receiving patients referred by the Ministry of Health due to depleted medicine stocks and worsening financial crises. Hospitals reported severe shortages of essential resources, government arrears estimated at 2.7 billion shekels, and the accumulation of 12 to 18 months of unpaid salaries for staff. Source: Quds News Network
-14 June 2026: In Khan Yunis city and governorate, the vicinity of Nasser Medical Complex was hit by an Israeli drone strike, injuring an unspecified number of people. Source: Quds News Network
-14 June 2026: In Jabalia Refugee Camp, North Gaza governorate, the vicinity of Al-Yemen Al-Sa'eed Hospital was shelled by Israeli forces, killing four people and injuring an unspecified number of others. Sources: Quds News Network and Quds News Network I
-15 June 2026: In Abu Iskandar area, Gaza city and governorate, a nurse and his son were killed after their home was shelled by Israeli forces. Sources: Quds News Network, Quds News Network I and Quds News Network II
-15 June 2026: In Wadi Al Salqa area, Deir al-Balah city and governorate, an ambulance was prevented by Israeli forces from reaching a three-year-old child and his father who had both been shot. Both were detained and the child later died. Source: Quds News Network and Ultra Palestine
-17 June 2026: On Salah al-Din Street, Khan Yunis city and governorate, the vicinity of the NGO Dar Al-Salam Hospital was struck by Israeli quadcopter drones, reportedly in preparation for detonations in the area. Source: Quds News Network
-22 June 2026: In Al Mawasi area, Khan Yunis governorate, a paramedic was killed and three people were injured when a vehicle was shelled by Israeli forces. Sources: Quds News Network, Quds News Network I, Quds News Network II and WAFA
-23 June 2026: In Al Tuffah neighbourhood, Gaza city and governorate, the vicinity of Al-Durra Children's Hospital was struck when an Israeli airstrike hit a plot of land in the vicinity of Martyrs of Gaza School Sources: Quds News Network and Quds News Network I
-23 June 2026: In Deir al-Balah city and governorate, the vicinity of a pharmaceutical factory was fired upon by Israeli tanks. Source: Quds News Network
-West Bank and East Jerusalem
-10 June 2026: In Fawwar Refugee Camp, Hebron governorate, ambulance crews were prevented by Israeli forces from reaching a young man who had been shot in the foot by Israeli forces. Source: WAFA
-10 June 2026: In Aqaba village, Nablus governorate, ambulance crews were prevented by Israeli forces from reaching an 18-year-old boy who had been run over by an Israeli military vehicle. Sources: Quds News Network and WAFA
-11 June 2026: In Beita town, Nablus governorate, a PRCS volunteer was arrested by Israeli forces while they were storming the area. Source: Quds News Network
-13 June 2026: At the entrance of Duma town, Nablus governorate, PRCS workers were prevented from treating the injuries of a 29-year-old man with special needs by Israeli forces. Sources: Quds News Network and Quds News Network I
-17 June 2026: In Qalqilya city and governorate, Red Crescent vehicles had threatening posters placed on them by Israeli forces. Sources: Quds News Network and Quds News Network I
-17 June 2026: In Bethlehem governorate, an ambulance was obstructed by Israeli settlers while it was travelling. Source: Quds News Network
-18 June 2026: Near Beitin village, Ramallah governorate, an unspecified number of ambulances were attacked by Israeli settlers. Source: Quds News Network
-19 June 2026: In the Jabal Tarousa area, Dura town, Hebron governorate, ambulance crews were obstructed by Israeli forces during a protest against land seizure. Israeli forces reportedly stopped and searched ambulance vehicles while they were responding to people affected by the suppression of the demonstration, during which participants were fired upon with tear gas and rubber-coated metal bullets, causing an unspecified number of people to suffer from suffocation. Sources: Quds News Network and WAFA
-21 June 2026: In al-Tira neighbourhood, Rantis village, Ramallah governorate, a doctor was arrested by Israeli forces after storming his home. Sources: Independent Palestinian Doctors Association, Quds News Network and Quds News Network I

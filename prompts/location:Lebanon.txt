@@ -1,6 +1,13 @@
 Crisis / situation: Lebanon
 
---- Report 1: OCHA (2026-07-01) ---
+--- Report 1: IOM (2026-07-02) ---
+CONTEXT
+The humanitarian situation in Lebanon remains fragile as communities continue to navigate the impacts of months of displacement, infrastructure damage, and disrupted services. While recent weeks have seen an increase in return movements to some areas of origin, particularly in southern Lebanon, conditions remain challenging for many affected populations, with humanitarian needs persisting among both displaced and returning households.
+As of 1 July, more than 499,000 individuals remained displaced across Lebanon, including over 47,000 people residing in 430 collective sites. Displacement dynamics remain fluid, with some displaced families relocating to collective sites closer to their areas of origin in southern Lebanon to undertake “go-and-see” visits and assess conditions for return. However, many households remain unable or unwilling to return due to damaged housing, limited access to essential services and livelihood opportunities, ongoing insecurity, and the presence of unexploded ordnance. As a result, a large proportion of displaced households continue to rely on host communities, rented accommodation, informal settlements, and other temporary arrangements.
+The ongoing crisis places considerable pressure on affected households and host communities alike. Repeated displacement, loss of income, and prolonged reliance on temporary accommodation have eroded coping capacities and heightened vulnerabilities, particularly among women, children, older persons, and persons with disabilities.
+Recovery needs are substantial across conflict-affected areas. Restoring access to adequate shelter, essential services, livelihood opportunities, and protection assistance remains fundamental to facilitating safe, informed, and sustainable returns, while strengthening the resilience and recovery capacity of displacement-affected communities.
+
+--- Report 2: OCHA (2026-07-01) ---
 HIGHLIGHTS
 
 At least 4,247 deaths and 12,195 injuries due to hostilities recorded by the Ministry of Public Health since 2 March.
@@ -14,28 +21,3 @@ Returns have increased, particularly in South and Nabatieh governorates, yet rem
 As of 29 June, 704,445 people remain internally displaced, a 17 per cent decrease from 17 June, with 91 per cent of IDPs coming from just five districts: Nabatieh, Bent Jbeil, Marjaayoun, Sour, and Baabda. Approximately 479 collective shelters remain operational as of 28 June, hosting 52, 243 people. This reflects a decrease of 7,500 individuals in shelters and the closure of 46 sites since 25 June according to the Lebanese Red Cross and National Disaster Risk Management Unit. For families that remain displaced, prolonged and repeated displacement are eroding coping mechanisms and further heightening vulnerability.
 The Ministry of Public Health reported 4,247 people killed (including 390 Women and 253 children) and 12,195 injured (1449 women and 1036 children) as of 28 June. 135 health care professionals have been killed on duty and 406 reported as injured since 2 March.
 Funding constraints remain a major challenge to sustaining humanitarian assistance. As of 29 June, the 2026Lebanon Flash Appeal has received US$ 237 million, or 37 per cent of the $639.9 million requested.
-
---- Report 2: Health Cluster (2026-06-30) ---
-Situation Update
-Despite relative regional de-escalation since mid-June, including the 20 June ceasere announcement, the operating environment for health service delivery in
-Lebanon remains fragile and operationally constrained. Although hostilities have eased compared with previous weeks, insecurity, return movements, and access
-constraints continue to aect service continuity and operational planning. The current context does not yet provide reliable conditions for safe and predictable health
-service delivery. Since 22 June, no incidents have been recorded through the Surveillance of Attacks on Healthcare (SSA) system. Cumulative gures remain unchanged:
-since the ceasere announcement on 17 April, 65 attacks on healthcare have been documented, resulting in 39 deaths and 175 injuries; overall, since 2 March, 211
-incidents have been recorded, causing 135 deaths and 406 injuries.
-While the absence of newly reported attacks during the current reporting period is a positive development, it is not yet sucient to indicate sustained improvement in
-the protection of healthcare or in the broader operating environment for service delivery. Insecurity continues to strain the health system, disrupt essential services,
-and limit access to care, particularly in conict-aected areas. Service availability remains uneven in parts of the South and Nabatieh governorates, including border
-and return areas and some areas north of the Zahrani River, where insecurity, movement restrictions, infrastructure damage, and service disruptions continue to aect
-both care-seeking and service continuity. Recurrent insecurity is also increasing psychological distress among aected communities and healthcare workers.
-Findings from the Rapid Health Assessment (May 2026), eld observations, and partner reporting continue to indicate sustained pressure on the health system.
-Facilities face stang shortages, including among PSU midwives, supply gaps, and operational limitations, while patients continue to face high costs, reduced access
-to essential medicines and specialized care, fragmented referral pathways, and gaps in hospitalization support and continuity of treatment for chronic conditions.
-Despite eorts by the Ministry of Public Health and Health Sector partners to expand subsidized services and reduce nancial barriers, aordability remains a major
-obstacle, and needs continue to exceed response capacity.
-
---- Report 3: UNFPA (2026-06-30) ---
-The humanitarian situation in Lebanon remains volatile despite the United States-Iran Memorandum of Understanding signed on 15 June and broader regional de-escalation efforts. Hostilities continue across the country, particularly in southern Lebanon and the Bekaa governorate. Women and girls are bearing the brunt of the crisis, facing heightened protection and gender-based violence (GBV) risks, disrupted health services including for maternal health, and reduced access to safe and dignified support.
-On 20 June, a social worker from UNFPA’s partner Amel Association was killed along with her son and parents in an airstrike in the Bekaa. Since 2 March 2026, more than 4,100 people have been killed and 12,115 injured, with 5,346 casualties reported since the ceasefire announcement in April 2026.
-Since the onset of the crisis, UNFPA has reached more than 135,000 displaced people with sexual and reproductive health and GBV services. These have been delivered through support to 55 health facilities, nine mobile medical units, 24 mobile GBV teams, and 17 women and girls’ safe spaces, serving 200 collective shelters and host communities.
-UNFPA launched a revised Flash Appeal in June, aligned with the revised Inter-Agency Lebanon Flash Appeal appealing for US $25 million to meet the urgent needs of 450,000 people from March to August 2026. To date, only 16 per cent of the required funding has been secured.
