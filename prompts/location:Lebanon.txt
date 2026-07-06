@@ -1,23 +1,26 @@
 Crisis / situation: Lebanon
 
---- Report 1: IOM (2026-07-02) ---
-CONTEXT
-The humanitarian situation in Lebanon remains fragile as communities continue to navigate the impacts of months of displacement, infrastructure damage, and disrupted services. While recent weeks have seen an increase in return movements to some areas of origin, particularly in southern Lebanon, conditions remain challenging for many affected populations, with humanitarian needs persisting among both displaced and returning households.
-As of 1 July, more than 499,000 individuals remained displaced across Lebanon, including over 47,000 people residing in 430 collective sites. Displacement dynamics remain fluid, with some displaced families relocating to collective sites closer to their areas of origin in southern Lebanon to undertake “go-and-see” visits and assess conditions for return. However, many households remain unable or unwilling to return due to damaged housing, limited access to essential services and livelihood opportunities, ongoing insecurity, and the presence of unexploded ordnance. As a result, a large proportion of displaced households continue to rely on host communities, rented accommodation, informal settlements, and other temporary arrangements.
-The ongoing crisis places considerable pressure on affected households and host communities alike. Repeated displacement, loss of income, and prolonged reliance on temporary accommodation have eroded coping capacities and heightened vulnerabilities, particularly among women, children, older persons, and persons with disabilities.
-Recovery needs are substantial across conflict-affected areas. Restoring access to adequate shelter, essential services, livelihood opportunities, and protection assistance remains fundamental to facilitating safe, informed, and sustainable returns, while strengthening the resilience and recovery capacity of displacement-affected communities.
+--- Report 1: UNICEF (2026-07-06) ---
+Highlights
 
---- Report 2: OCHA (2026-07-01) ---
-HIGHLIGHTS
+Despite ceasefire announcements, airstrikes, displacement orders, and civilian casualties continued in May 2026, with more than 3,400 people killed and over 10,200 injured. Children accounted for 9 per cent of total casualties.
+Emergency rapid needs assessments reveal that multilayered and cross-sectoral humanitarian needs are increasing, and severity deepening.
+In May, UNICEF and partners continued to adapt programming to maintain critical services. UNICEF-supported water interventions reached over 167,000 people and wastewater interventions benefited 110,000 people; primary healthcare satellite units reached 19,391 women and children; the Call and Learn hotline provided academic support to 18,386 children; and community-based MHPSS sessions reached 6,931 children and caregivers.
+UNICEF's 2026 Humanitarian Action for Children appeal requires US$388.5 million and is 49 per cent funded. Significant gaps persist in social protection, the Palestinian Programme in Lebanon, and child protection.
 
-At least 4,247 deaths and 12,195 injuries due to hostilities recorded by the Ministry of Public Health since 2 March.
-A total of 52,243 Internally Displaced Persons (over 52 per cent women and girls) remained in 479 collective shelters as of 29 June.
-Since 2 March, 49,328 children under five, adolescent girls, and pregnant and breastfeeding women have been reached with emergency nutrition rations and micronutrient supplements.
-The 2026 Lebanon Flash Appeal is 37 per cent funded, with approximately US$237million received against US$639.9 million required.
-
-SITUATION OVERVIEW
-The humanitarian situation in Lebanon remains critical, with protection risks and significant gaps in essential services persisting. Following the latest ceasefire announcement, military activity in Lebanon has decreased. However, daily airstrikes, shelling, demolitions, and nationwide military drone activity continued to be reported.
-Returns have increased, particularly in South and Nabatieh governorates, yet remained limited as the security situation remains fragile and destruction of housing and infrastructure hinder safe return. Some displaced families are relocating to shelters closer to their areas of origin to conduct “go-and-see” visits to assess conditions, including levels of damage and safety. Priority needs for returning populations include shelter support, restoration of basic services, and unexploded ordnance (UXO) clearance.
-As of 29 June, 704,445 people remain internally displaced, a 17 per cent decrease from 17 June, with 91 per cent of IDPs coming from just five districts: Nabatieh, Bent Jbeil, Marjaayoun, Sour, and Baabda. Approximately 479 collective shelters remain operational as of 28 June, hosting 52, 243 people. This reflects a decrease of 7,500 individuals in shelters and the closure of 46 sites since 25 June according to the Lebanese Red Cross and National Disaster Risk Management Unit. For families that remain displaced, prolonged and repeated displacement are eroding coping mechanisms and further heightening vulnerability.
-The Ministry of Public Health reported 4,247 people killed (including 390 Women and 253 children) and 12,195 injured (1449 women and 1036 children) as of 28 June. 135 health care professionals have been killed on duty and 406 reported as injured since 2 March.
-Funding constraints remain a major challenge to sustaining humanitarian assistance. As of 29 June, the 2026Lebanon Flash Appeal has received US$ 237 million, or 37 per cent of the $639.9 million requested.
+--- Report 2: WHO (2026-07-06) ---
+Situation overview
+Impact of ongoing airstrikes
+• Since 18 June 2026, the security situation in Lebanon has remained fragile despite a decline in the overall intensity of hostilities following the latest ceasefire announcement.
+• Daily airstrikes, shelling, demolitions, military drone activity, and other localized military operations have continued to be reported, particularly in southern Lebanon, posing risks to civilians, limiting safe returns, and highlighting the potential for renewed escalation despite ongoing diplomatic efforts.
+• As of 1 July 2026, a total of 25,783 hostilities had been recorded since 2 March 2026, according to the DRM.
+Casualties and injury overview
+• MoPH reported a cumulative number of casualties since 2nd March has reached 16,494 including 4,298 deaths (including 253 children and 391 women) and 12,196 injuries as of 6:00pm on July 2, 2026., Fig.1 Causality Distribution by day since March 2, 2026.
+• Out of the total injuries, 6,287 (51%) were treated at Emergency rooms as outpatient, 4,953 (42%) admitted to regular wards and 956 (7%) admitted to ICU.
+• For total casualties since March 2,2026, the majority of fatalities and injuries occurred in Nabatiyeh (7,038 casualties), followed by the South (6,922casualties), and Mount Lebanon (1,202 casualties), Additional cases were reported across other governorates. Fig 2.
+• Of the total casualties, 14,223 (86%) were male and 2,271 (14%) females.
+• 8% of the total casualties are children, 253 children are dead, and 1,036 children are injured. Fig 3. Shows age distribution of casualties.
+• Nationality data shows that 15,571 casualties (94%) were Lebanese, 533 casualties (3%) were Syrian, 233 casualties (2%) were Palestinian, and 157 casualties (1%) from other nationalities, Fig 4.
+• Between 17 April and 2 July 2026 (ceasefire period), MoPH reported a cumulative number of casualties of 6,071, including 1,792deaths and 4,279 injured. Fig.5. Casualty Distribution by Day since April 17, 2026.
+• Out of a total of 6,071 post-ceasefire casualties, 5,320 were male (88%) and 751 were female (12%), while children accounted for 6% of the total.
+• The majority of cases were reported from South (3,036) and Nabatiyeh (2,758). The toll also included 1,792 deaths. Among the injured, 1,805 were admitted to regular wards, 2,074 were treated in emergency rooms, and 400 required admissions to intensive care units.
