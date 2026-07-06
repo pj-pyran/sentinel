@@ -1,6 +1,29 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNICEF (2026-07-06) ---
+--- Report 1: Health Cluster (2026-07-06) ---
+Situation Update
+Despite the relative easing of hostilities in Lebanon since mid-June, the operating environment for health service delivery remains fragile. While the security situation
+has been comparatively calmer than in previous weeks, access constraints, insecurity, return movements, and service disruptions continue to aect operational
+planning and continuity of essential health services. Conditions remain insucient to support safe, predictable, and sustained health service delivery, particularly in
+conict-aected, border, and return areas. Since 29 June, no new incidents have been reported through the Surveillance of Attacks on Healthcare (SSA) system.
+Cumulative gures since the ceasere announcement on 17 April show that 65 attacks on healthcare have been documented, resulting in 39 deaths and 175 injuries.
+Overall, since 2 March, 211 incidents have been recorded, causing 135 deaths and 406 injuries.
+The absence of newly reported attacks on healthcare remains positive; however, it has not yet translated into reliable access or sustained improvement in the operating
+environment. Service availability continues to vary across parts of the South and Nabatieh governorates, including border and return areas and some areas north of the
+Zahrani River, where insecurity, movement restrictions, damaged infrastructure, transportation barriers, variable health facility functionality, and service disruptions
+continue to aect delivery and care-seeking. Access remains particularly constrained in parts of Nabatieh, where disrupted referral pathways and variable facility
+functionality continue to aect continuity of care, especially for patients with chronic conditions. Ongoing insecurity also continues to increase MHPSS needs among
+aected communities, displaced and returning populations, and healthcare workers.
+Findings from the Rapid Health Assessment conducted in May 2026, eld observations, and partner reporting continue to indicate sustained pressure on the health
+system. Facilities continue to face stang and supply gaps, including constraints aecting PSU capacity, while patients face high costs, limited access to essential
+medicines and specialized care, fragmented referral pathways, and gaps in hospitalization support. Health partners continue to sustain PHCC- and PSU-level services
+across multiple governorates, including outreach, vaccination, chronic disease care, nutrition support, emergency referrals, and support to shelters and community
+gathering points. However, several PHCCs and hospitals have sustained varying levels of damage, with some resuming services after repairs or rehabilitation, while
+others require temporary arrangements, phased reopening, or remain inaccessible. Partner reporting also indicates increased pressure on hospitals, particularly in
+Saida and Beirut, as wounded patients are referred from the South. Despite eorts by the Ministry of Public Health and Health Sector partners to expand subsidized
+services and reduce nancial barriers, aordability remains a major obstacle, and response capacity remains below needs.
+
+--- Report 2: UNICEF (2026-07-06) ---
 Highlights
 
 Despite ceasefire announcements, airstrikes, displacement orders, and civilian casualties continued in May 2026, with more than 3,400 people killed and over 10,200 injured. Children accounted for 9 per cent of total casualties.
@@ -8,7 +31,7 @@ Emergency rapid needs assessments reveal that multilayered and cross-sectoral hu
 In May, UNICEF and partners continued to adapt programming to maintain critical services. UNICEF-supported water interventions reached over 167,000 people and wastewater interventions benefited 110,000 people; primary healthcare satellite units reached 19,391 women and children; the Call and Learn hotline provided academic support to 18,386 children; and community-based MHPSS sessions reached 6,931 children and caregivers.
 UNICEF's 2026 Humanitarian Action for Children appeal requires US$388.5 million and is 49 per cent funded. Significant gaps persist in social protection, the Palestinian Programme in Lebanon, and child protection.
 
---- Report 2: WHO (2026-07-06) ---
+--- Report 3: WHO (2026-07-06) ---
 Situation overview
 Impact of ongoing airstrikes
 • Since 18 June 2026, the security situation in Lebanon has remained fragile despite a decline in the overall intensity of hostilities following the latest ceasefire announcement.
