@@ -1,25 +1,11 @@
 Crisis / situation: Middle East
 
---- Report 1: IOM (2026-07-03) ---
-On 17 June 2026, the United States of America and the Islamic Republic of Iran reached an agreement on a Memorandum of Understanding (MOU) concerning the cessation of hostilities. The escalation in the Middle East and beyond had triggered a humanitarian crisis affecting multiple regions in an already fragile context, with significant impact to population mobility.1 Since the announcement of the MOU and subsequent 60-day ceasefire, its impact on mobility dynamics across the region and beyond remains uncertain. The situation continues to be highly fragile, requiring sustained monitoring and operational preparedness.
-In the Islamic Republic of Iran, some families have begun returning to their homes amid signs of de-escalation. However, thousands continue to shelter in hotels due to damage to housing and civilian infrastructure. As of 01 June, approximately 9,000 individuals remain displaced, unable to return to their homes due to the extent of the damage. Overall, population movements remain localised, temporary, and economically driven, with no signs of mass displacement.
-The humanitarian situation in Lebanon remains critical. As of 24 June 2026, 704,445 people remain internally displaced across 848 cadastres, a 17 per cent decrease compared to the previous reporting period (as of 17 June 2026). Of the total IDPs in Lebanon, 80,611 individuals remained displaced in 584 collective shelters. Returns have increased, with 523,249 returned IDPs reported as of 24 June 2026. However, returns remained limited as the security situation remains fragile and destruction of housing and infrastructure hinder safe return.
-IOM’s Displacement Tracking Matrix (DTM) is on the ground, actively tracking displacement and cross-border mobility while scaling operations in coordination with local authorities and partners to better understand how the crisis is impacting human mobility in the region.
+--- Report 1: IOM (2026-07-08) ---
+Since the announcement of the Memorandum of Understanding between the United States of America and the Islamic Republic of Iran, its impact on regional mobility remains uncertain. Across neighbouring countries, movements continue to reflect largely routine and precautionary travel patterns, with no large-scale cross-border displacement observed; however, the situation remains fragile and requires sustained monitoring. Inside the Islamic Republic of Iran, mobility remains localized and temporary, with approximately 9,000 individuals still displaced due to housing damage and no signs of mass displacement. Meanwhile, Lebanon and the Syrian Arab Republic continue to face significant displacement pressures. While returns in Lebanon have increased, more than 700,000 people remain displaced and insecurity continues to hinder sustainable return. At the same time, over 464,000 movements from Lebanon into the Syrian Arab Republic have been recorded since March, with economic reintegration challenges further complicating return prospects and placing continued pressure on already fragile humanitarian systems
 
---- Report 2: IMC (2026-07-02) ---
-FAST FACTS
-
-The number of registered displaced people In Lebanon has fallen to 704,445 and occupancy in the shelters has decreased by more than 50%.
-
-OUR FOOTPRINT
-
-International Medical Corps maintains a wide operational presence across the Middle East, delivering lifesaving assistance in active conflict zones and high-risk environments.
-
-OUR RESPONSE
-
-Across the region, International Medical Corps sustains integrated health, nutrition, mental health, protection, and water, sanitation and hygiene programming through mobile teams, field hospitals and fixed facilities, with established systems in place to expand rapidly as needs intensify.
-In Lebanon, 37 mobile medical teams have operated across 143 shelters and community sites, delivering 22,524 consultations, treating 11,809 acute cases and managing 2,516 chronic conditions. Teams have also conducted health awareness sessions for 3,389 people, referred 1,324 patients to specialized care and vaccinated 271 children.
-Nutrition teams have screened 1,138 children and pregnant or breastfeeding women for malnutrition, while mental health teams have reached 1,612 people with psychosocial and psychological support services. In addition, teams have distributed 2,485 hygiene kits to displaced and vulnerable households and individuals.
-
-International Medical Corps is continuing to deliver lifesaving health services at scale across the Middle East, supporting communities affected by conflict, displacement and worsening humanitarian conditions. Our regional presence and operational reach are set out in previous Situation Reports and in our regional Capability Statement. All personnel remain safe and accounted for.
-Across the Middle East region, humanitarian needs remain critical and deeply complex. International Medical Corps continues to adapt our operations across the region, drawing on decades of experience, trusted local partnerships and well-established emergency response systems. This enables us to deliver timely, effective and lifesaving assistance to communities affected by crisis, while remaining responsive to evolving humanitarian needs.
+--- Report 2: ETC (2026-07-06) ---
+This situation report provides updates on the Middle East escalation, with focus on Lebanon’s security situation. It outlines the telecoms area activities of the Logistics &amp; Telecommunications Cluster (LTC) in support of the humanitarian response1 . The Cluster was formally activated on 16 March 2026 and is led by the United Nations World Food Programme (WFP).
+Summary Points
+• Lebanon’s telecommunications network remained operational but fragile during June, with damaged infrastructure, restricted maintenance access, and continued insecurity in southern Lebanon increasing the risk of localized service disruptions and limiting network resilience.
+• LTC Telecoms continued coordination with government authorities, telecommunications providers, and humanitarian partners to strengthen emergency telecommunications preparedness, advance discussions on Starlink access for humanitarian operations, and support the implementation of inter-agency ICT common services.
+• LTC Telecoms expanded efforts to strengthen connectivity and communications for humanitarian responders, including testing eSIM-based data solutions in southern Lebanon, collecting field connectivity data to support operational planning, and enhancing emergency voice communications capacity through additional satellite communications equipment.

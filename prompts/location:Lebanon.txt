@@ -1,6 +1,15 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNICEF (2026-07-06) ---
+--- Report 1: UNHCR (2026-07-08) ---
+During January and February 2026, the security situation in Lebanon remained tense but relatively contained. Protection monitoring highlighted persistent vulnerabilities among Palestine refugees, including worsening poverty levels, deterio‐ rating living conditions and ongoing anxiety, particularly among refugees living in camps located near high-risk areas. In early March, after Hezbollah fired rockets into Israel and the Israeli military responded, there was a sharp escalation in hostili‐ ties, triggering widespread displacement, rising civilian casual‐ ties and increased pressure on services. By the end of March, over one million people were displaced nationwide, including more than 136,731 individuals using collective shelters.
+
+--- Report 2: UNICEF (2026-07-08) ---
+This Situation Report provides an overview of the Protection Emergency Response in Lebanon from 2 March to 3 July 2026. As of early July, more than 1.04 million people had been displaced, including 36,213 people living in 350 open shelters. The emergency had resulted in 26,782 reported incidents, 4,305 deaths and 12,203 injuries.
+Protection, Child Protection and Gender-Based Violence partners collectively reported reaching 334,063 people. Key interventions included 168,881 awareness and information activities, 114,234 psychosocial support and case-management services, and the distribution of 36,180 dignity kits.
+The response reached 108,624 people through general protection activities, 132,523 through Child Protection interventions and 91,088 through GBV programming, supported respectively by 37, 56 and 40 partners. Mount Lebanon, the South and Beirut recorded the highest overall reach.
+Note: Reported figures are not de-duplicated, meaning individuals may be counted more than once where they received multiple services.
+
+--- Report 3: UNICEF (2026-07-06) ---
 Highlights
 
 Children and caregivers bear the brunt of escalating conflict and prolonged instability. Since 2 March 2026, 211 children have been killed and 845 children injured, with 62 unaccompanied and separated children identified. An estimated 308,000 children remain displaced.
@@ -14,7 +23,7 @@ SITUATION IN NUMBERS
 211 Children killed in the conflict since 2 March 2026
 308,000 Children displaced by the conflict
 
---- Report 2: Health Cluster (2026-07-06) ---
+--- Report 4: Health Cluster (2026-07-06) ---
 Situation Update
 Despite the relative easing of hostilities in Lebanon since mid-June, the operating environment for health service delivery remains fragile. While the security situation
 has been comparatively calmer than in previous weeks, access constraints, insecurity, return movements, and service disruptions continue to aect operational
@@ -37,7 +46,7 @@ others require temporary arrangements, phased reopening, or remain inaccessible.
 Saida and Beirut, as wounded patients are referred from the South. Despite eorts by the Ministry of Public Health and Health Sector partners to expand subsidized
 services and reduce nancial barriers, aordability remains a major obstacle, and response capacity remains below needs.
 
---- Report 3: UNICEF (2026-07-06) ---
+--- Report 5: UNICEF (2026-07-06) ---
 Highlights
 
 Despite ceasefire announcements, airstrikes, displacement orders, and civilian casualties continued in May 2026, with more than 3,400 people killed and over 10,200 injured. Children accounted for 9 per cent of total casualties.
@@ -45,7 +54,7 @@ Emergency rapid needs assessments reveal that multilayered and cross-sectoral hu
 In May, UNICEF and partners continued to adapt programming to maintain critical services. UNICEF-supported water interventions reached over 167,000 people and wastewater interventions benefited 110,000 people; primary healthcare satellite units reached 19,391 women and children; the Call and Learn hotline provided academic support to 18,386 children; and community-based MHPSS sessions reached 6,931 children and caregivers.
 UNICEF's 2026 Humanitarian Action for Children appeal requires US$388.5 million and is 49 per cent funded. Significant gaps persist in social protection, the Palestinian Programme in Lebanon, and child protection.
 
---- Report 4: WHO (2026-07-06) ---
+--- Report 6: WHO (2026-07-06) ---
 Situation overview
 Impact of ongoing airstrikes
 • Since 18 June 2026, the security situation in Lebanon has remained fragile despite a decline in the overall intensity of hostilities following the latest ceasefire announcement.
