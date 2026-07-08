@@ -1,6 +1,9 @@
 Crisis / situation: Pacific: Dengue Outbreak - 2025-2026
 
---- Report 1: SPC (2026-07-06) ---
+--- Report 1: WHO (2026-07-08) ---
+No summary available.
+
+--- Report 2: SPC (2026-07-06) ---
 Key Highlights:
 
 6 new confirmed dengue cases were reported in EW26, bringing the cumulative total to 29 cases.
@@ -17,7 +20,7 @@ Some cases reported recent travel to Fiji within 15 days before symptom onset, i
 Samples have been sent for laboratory testing and serotyping, but the circulating dengue serotype remains unconfirmed.
 Outbreak status remains unchanged because transmission continues to exceed the alert threshold.
 
---- Report 2: SPC (2026-07-06) ---
+--- Report 3: SPC (2026-07-06) ---
 HIGHLIGHTS
 • Since 1 January 2025, 12 dengue outbreaks have been reported in the Pacific Islands Countries and areas (PICs).
 • The following PICs reported dengue outbreaks in 2025: American Samoa, Cook Islands, Fiji, French Polynesia, Kiribati, Nauru, Samoa, Tonga and Tuvalu. In 2025 there were 21 258 confirmed cases and 21 deaths reported across the Pacific Dengue fatalities were reported in Fiji (n=8), Samoa (n=7), Tonga (n=3), Nauru (n=2) and Kiribati (n=1).
