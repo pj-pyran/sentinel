@@ -1,6 +1,6 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNHCR (2026-07-08) ---
+--- Report 1: UNRWA (2026-07-08) ---
 During January and February 2026, the security situation in Lebanon remained tense but relatively contained. Protection monitoring highlighted persistent vulnerabilities among Palestine refugees, including worsening poverty levels, deterio‐ rating living conditions and ongoing anxiety, particularly among refugees living in camps located near high-risk areas. In early March, after Hezbollah fired rockets into Israel and the Israeli military responded, there was a sharp escalation in hostili‐ ties, triggering widespread displacement, rising civilian casual‐ ties and increased pressure on services. By the end of March, over one million people were displaced nationwide, including more than 136,731 individuals using collective shelters.
 
 --- Report 2: UNICEF (2026-07-08) ---
@@ -8,65 +8,3 @@ This Situation Report provides an overview of the Protection Emergency Response 
 Protection, Child Protection and Gender-Based Violence partners collectively reported reaching 334,063 people. Key interventions included 168,881 awareness and information activities, 114,234 psychosocial support and case-management services, and the distribution of 36,180 dignity kits.
 The response reached 108,624 people through general protection activities, 132,523 through Child Protection interventions and 91,088 through GBV programming, supported respectively by 37, 56 and 40 partners. Mount Lebanon, the South and Beirut recorded the highest overall reach.
 Note: Reported figures are not de-duplicated, meaning individuals may be counted more than once where they received multiple services.
-
---- Report 3: UNICEF (2026-07-06) ---
-Highlights
-
-Children and caregivers bear the brunt of escalating conflict and prolonged instability. Since 2 March 2026, 211 children have been killed and 845 children injured, with 62 unaccompanied and separated children identified. An estimated 308,000 children remain displaced.
-In 2026 UNICEF sustained access to safe water through over 136 water station repair and maintenance interventions, supporting systems functionality for over 1.7 million people.
-UNICEF also expanded Primary Healthcare Satellite Units (PSU) from 30 to 60, with more than 864,000 children and women having access to primary healthcare services through UNICEF-supported facilities since the beginning of 2026.
-UNICEF's 2026 humanitarian appeal is currently 36 percent funded, leaving a gap of US$ 248.6 million. Significant shortfalls persist in WASH programming, particularly affecting services in shelters for Internally Displaced People (IDPs) and Informal Tented Settlements (ITSs) for Syrian refugees.
-
-SITUATION IN NUMBERS
-1,061,968 Children in need of humanitarian assistance
-2,990,000 People in need of humanitarian assistance
-211 Children killed in the conflict since 2 March 2026
-308,000 Children displaced by the conflict
-
---- Report 4: Health Cluster (2026-07-06) ---
-Situation Update
-Despite the relative easing of hostilities in Lebanon since mid-June, the operating environment for health service delivery remains fragile. While the security situation
-has been comparatively calmer than in previous weeks, access constraints, insecurity, return movements, and service disruptions continue to aect operational
-planning and continuity of essential health services. Conditions remain insucient to support safe, predictable, and sustained health service delivery, particularly in
-conict-aected, border, and return areas. Since 29 June, no new incidents have been reported through the Surveillance of Attacks on Healthcare (SSA) system.
-Cumulative gures since the ceasere announcement on 17 April show that 65 attacks on healthcare have been documented, resulting in 39 deaths and 175 injuries.
-Overall, since 2 March, 211 incidents have been recorded, causing 135 deaths and 406 injuries.
-The absence of newly reported attacks on healthcare remains positive; however, it has not yet translated into reliable access or sustained improvement in the operating
-environment. Service availability continues to vary across parts of the South and Nabatieh governorates, including border and return areas and some areas north of the
-Zahrani River, where insecurity, movement restrictions, damaged infrastructure, transportation barriers, variable health facility functionality, and service disruptions
-continue to aect delivery and care-seeking. Access remains particularly constrained in parts of Nabatieh, where disrupted referral pathways and variable facility
-functionality continue to aect continuity of care, especially for patients with chronic conditions. Ongoing insecurity also continues to increase MHPSS needs among
-aected communities, displaced and returning populations, and healthcare workers.
-Findings from the Rapid Health Assessment conducted in May 2026, eld observations, and partner reporting continue to indicate sustained pressure on the health
-system. Facilities continue to face stang and supply gaps, including constraints aecting PSU capacity, while patients face high costs, limited access to essential
-medicines and specialized care, fragmented referral pathways, and gaps in hospitalization support. Health partners continue to sustain PHCC- and PSU-level services
-across multiple governorates, including outreach, vaccination, chronic disease care, nutrition support, emergency referrals, and support to shelters and community
-gathering points. However, several PHCCs and hospitals have sustained varying levels of damage, with some resuming services after repairs or rehabilitation, while
-others require temporary arrangements, phased reopening, or remain inaccessible. Partner reporting also indicates increased pressure on hospitals, particularly in
-Saida and Beirut, as wounded patients are referred from the South. Despite eorts by the Ministry of Public Health and Health Sector partners to expand subsidized
-services and reduce nancial barriers, aordability remains a major obstacle, and response capacity remains below needs.
-
---- Report 5: UNICEF (2026-07-06) ---
-Highlights
-
-Despite ceasefire announcements, airstrikes, displacement orders, and civilian casualties continued in May 2026, with more than 3,400 people killed and over 10,200 injured. Children accounted for 9 per cent of total casualties.
-Emergency rapid needs assessments reveal that multilayered and cross-sectoral humanitarian needs are increasing, and severity deepening.
-In May, UNICEF and partners continued to adapt programming to maintain critical services. UNICEF-supported water interventions reached over 167,000 people and wastewater interventions benefited 110,000 people; primary healthcare satellite units reached 19,391 women and children; the Call and Learn hotline provided academic support to 18,386 children; and community-based MHPSS sessions reached 6,931 children and caregivers.
-UNICEF's 2026 Humanitarian Action for Children appeal requires US$388.5 million and is 49 per cent funded. Significant gaps persist in social protection, the Palestinian Programme in Lebanon, and child protection.
-
---- Report 6: WHO (2026-07-06) ---
-Situation overview
-Impact of ongoing airstrikes
-• Since 18 June 2026, the security situation in Lebanon has remained fragile despite a decline in the overall intensity of hostilities following the latest ceasefire announcement.
-• Daily airstrikes, shelling, demolitions, military drone activity, and other localized military operations have continued to be reported, particularly in southern Lebanon, posing risks to civilians, limiting safe returns, and highlighting the potential for renewed escalation despite ongoing diplomatic efforts.
-• As of 1 July 2026, a total of 25,783 hostilities had been recorded since 2 March 2026, according to the DRM.
-Casualties and injury overview
-• MoPH reported a cumulative number of casualties since 2nd March has reached 16,494 including 4,298 deaths (including 253 children and 391 women) and 12,196 injuries as of 6:00pm on July 2, 2026., Fig.1 Causality Distribution by day since March 2, 2026.
-• Out of the total injuries, 6,287 (51%) were treated at Emergency rooms as outpatient, 4,953 (42%) admitted to regular wards and 956 (7%) admitted to ICU.
-• For total casualties since March 2,2026, the majority of fatalities and injuries occurred in Nabatiyeh (7,038 casualties), followed by the South (6,922casualties), and Mount Lebanon (1,202 casualties), Additional cases were reported across other governorates. Fig 2.
-• Of the total casualties, 14,223 (86%) were male and 2,271 (14%) females.
-• 8% of the total casualties are children, 253 children are dead, and 1,036 children are injured. Fig 3. Shows age distribution of casualties.
-• Nationality data shows that 15,571 casualties (94%) were Lebanese, 533 casualties (3%) were Syrian, 233 casualties (2%) were Palestinian, and 157 casualties (1%) from other nationalities, Fig 4.
-• Between 17 April and 2 July 2026 (ceasefire period), MoPH reported a cumulative number of casualties of 6,071, including 1,792deaths and 4,279 injured. Fig.5. Casualty Distribution by Day since April 17, 2026.
-• Out of a total of 6,071 post-ceasefire casualties, 5,320 were male (88%) and 751 were female (12%), while children accounted for 6% of the total.
-• The majority of cases were reported from South (3,036) and Nabatiyeh (2,758). The toll also included 1,792 deaths. Among the injured, 1,805 were admitted to regular wards, 2,074 were treated in emergency rooms, and 400 required admissions to intensive care units.

@@ -1,12 +1,25 @@
 Crisis / situation: Sudan
 
---- Report 1: UNFPA (2026-07-08) ---
+--- Report 1: UNICEF (2026-07-08) ---
+Highlights
+
+In May, UNICEF reached over 800,000 children with education, but over 8 million remain out of school with the most severe disruptions concentrated in Darfur and conflict-affected Kordofan states.
+Over one million children under five were screened for acute malnutrition, contributing to 4.5 million children screened since January 2026. Over 24,400 severely acute malnourished children have been admitted this month for lifesaving treatment.
+Multiple disease outbreaks, including cholera, dengue fever, malaria, measles, and hepatitis E, continue to spread amid displacement and poor access to essential services. In response, UNICEF supported 400 women and children with essential primary healthcare, enabled 753,500 people to access safe water, and scaled up hygiene interventions in cholera-affected and high-risk areas.
+Despite ongoing scale-up of lifesaving interventions, a 71 per cent HAC funding gap continues to constrain the delivery of critical services to vulnerable children.
+
+SITUATION IN NUMBERS
+17,300,000 Children in need of humanitarian assistance
+33,700,000 People in need of humanitarian assistance
+9,139,309 Internally Displaced People
+
+--- Report 2: UNFPA (2026-07-08) ---
 Drone attacks on El Obeid in North Kordofan have intensified markedly in recent weeks, now occurring on a near-daily basis as part of a sustained campaign to impose siege-like conditions on the city. The strikes have systematically targeted critical infrastructure, including power substations, fuel stations, water facilities and healthcare infrastructure, disrupting essential services and affecting sexual and reproductive health (SRH) and gender-based violence (GBV) service delivery across the city.
 Essential services remain critically fragile in light of repeated strikes, and continued degradation of these systems is expected to further constrain humanitarian access and fresh water availability, disrupt healthcare delivery, increase protection risks for women and girls who require health services, and reduce resilience of the civilian population should the situation on the ground deteriorate further.
 In response to this emerging crisis, UNFPA has expanded its operational presence in the central zone of Sudan by deploying an inter-agency SRH coordinator for the SRH Working Group along with two humanitarian programme coordinators, currently based in White Nile. They are supported by existing SRH and GBV technical staff to preserve life-saving services, strengthen coordination, and facilitate effective service delivery and supply chain management in view of the evolving humanitarian situation.
 In the face of continuously growing humanitarian needs and new emergencies, existing resources are becoming increasingly overstretched, placing the continuity and quality of life-saving SRH and GBV services at risk across the country. Immediate additional funding is required to enable UNFPA to scale up life-saving SRH and GBV interventions in newly affected and high-risk areas while sustaining essential services for women and girls and other vulnerable groups affected by the crisis.
 
---- Report 2: ETC (2026-07-08) ---
+--- Report 3: ETC (2026-07-08) ---
 The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 25 May 2023 in response to the conflict crisis in Sudan. This Situation Report provides a monthly update on LTC telecoms activities.
 Summary Points
 
