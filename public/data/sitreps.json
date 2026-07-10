@@ -1,5 +1,90 @@
 [
   {
+    "id": "rw-4220826",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Afghanistan: Weekly Market Report: Issue 302: Week 1 – July 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Afghanistan",
+    "scope": "single",
+    "date": "2026-07-10",
+    "content": "<p><strong>Key Highlights</strong></p>\n<p><strong>Exchange Rate and Trade Dynamics:</strong></p>\n<p>• Exchange Rate: During the first week of July, the Afghani depreciated to AFN 65.7/USD, weakening by 1.7% compared to the previous week. Despite this decline, the currency remained 5% stronger than last year and 13% stronger than the three-year average, continuing to provide some support in containing imported inflation.</p>\n<p>• Trade: Market supply remained generally adequate, supported by domestic harvests and ongoing regional trade. However, Afghanistan's dependence on imported goods continues to expose domestic markets to fluctuations in the exchange rate, fuel costs, and regional trade conditions, which contribute to price volatility across the country and expose the economy to external vulnerabilities.</p>\n<p>Food Items:</p>\n<p>• National average food prices showed divergent trends during the first week of July, with modest weekly changes across most staples.</p>\n<p>• Wheat and Flour: Wheat grain prices rose marginally this week, while high-price and low-price flour also recorded moderate increases. On an annual basis, wheat grain (+13%), high-price flour (+7%), and low-price flour (+11%) remained elevated, mainly due to higher transportation costs associated with renewed import routes.</p>\n<p>• Rice: Both rice categories declined slightly this week. Despite these weekly decreases, rice prices remained significantly higher than last year (high-quality +27%; low-quality +34%) and above the three-year average level.</p>\n<p>• Other Staples: Cooking oil, pulses, sugar and salt prices edged down this week. Sugar posted a notable weekly drop, though it remained above last year's levels (+9%). Cooking oil prices held steady, staying negligibly above last year (+2%). Salt declined weekly but remained higher year-on-year (+8%).</p>\n<p>• Vegetables: Seasonal harvests continued to support domestic vegetable markets with slight weekly fluctuations. Compared to the previous week, tomato (+2.3%) and onion (+2.5%) prices rose slightly, while potato prices remained broadly stable (-0.6%). Compared to last year and the three-year average, potato and tomato prices remains significantly higher, while onion prices have declined.</p>\n<p>Non-Food Items:</p>\n<p>• Fuel: Diesel prices rose by 7.2% during the week, mainly reflecting reduced fuel imports, particularly from Russia. Compared to last year and the three-year average, diesel prices remained 9% and 12% higher, respectively.</p>\n<p>• Fertilizers: Fertilizer prices changed only marginally, with DAP declining by 0.2% and Urea by 1.4% over the week. Compared to last year, DAP and Urea prices remained considerably higher (+17% and +49%, respectively), while improved seed and animal feed prices continued to remain below both last year and the three-year average.</p>\n<p>• Livestock: The price of a one-year-old live female sheep declined marginally (-0.4%) during the week and was 5% below last year's level and 2% below the three-year average, contributing to slightly weaker pastoralist ToT.</p>\n<p>Labour Market:</p>\n<p>• Labour market conditions remained subdued. The unskilled labour wage declined marginally (-0.5%), while labour availability remains low at 1.9 days per week. Labour availability remained 18% below both last year's level and the three-year average, underscoring continued pressure on household income opportunities for casual labourers</p>\n",
+    "url": "https://reliefweb.int/report/afghanistan/afghanistan-weekly-market-report-issue-302-week-1-july-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4220826",
+    "file_url": "https://reliefweb.int/attachments/1c3cb6bd-5630-4801-ab14-a452b2732137/WFP%20AFG%20Countrywide%20Weekly%20Market%20Report%2C%20Issue%20302%20-%201st%20Week%20of%20July%202026.pdf"
+  },
+  {
+    "id": "rw-4220831",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNFPA Situation Report: Lebanon Crisis (23 June - 7 July 2026)",
+    "source": "UNFPA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Lebanon",
+    "scope": "single",
+    "date": "2026-07-10",
+    "content": "<p>The humanitarian situation in Lebanon remains fragile despite a reduction in hostilities, with significant and persistent humanitarian, protection, and early recovery needs. Daily airstrikes and military operations, particularly in southern Lebanon, continue to pose risks to civilians and limit safe returns, highlighting the potential for renewed escalation despite ongoing diplomatic efforts. Since 2 March 2026, a reported 4,304 people have been killed and 12,203 have been injured.</p>\n<p>Women and girls are bearing the brunt of the crisis, facing heightened protection and gender-based violence (GBV) risks, disrupted health services, including for maternal health, and reduced access to safe and dignified support.</p>\n<p>Since the onset of the crisis, UNFPA has reached over 150,000 displaced people with sexual and reproductive health and GBV services. These services have been delivered through support to 55 health facilities, nine mobile medical units, 24 mobile GBV teams, and 19 women and girls’ safe spaces, serving collective shelters and host communities.</p>\n<p>UNFPA launched a revised Flash Appeal in June, aligned with the revised Inter-Agency Lebanon Flash Appeal appealing for US $25 million to meet the urgent needs of 450,000 people from March to August 2026. To date, only 16 per cent of the required funding has been secured.</p>\n",
+    "url": "https://reliefweb.int/report/lebanon/unfpa-situation-report-lebanon-crisis-23-june-7-july-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4220831",
+    "file_url": "https://reliefweb.int/attachments/3b1a99ca-eaa4-4b94-8fbd-b02056526b82/UNFPA%20Lebanon%20Situation%20Report%20%2823%20June%20-%207%20July%202026%29.pdf"
+  },
+  {
+    "id": "rw-4220834",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "DSWD DROMIC Report #60 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 10 July 2026, 6AM",
+    "source": "Govt. Philippines",
+    "crisis": "Philippines: Earthquake and Tsunami - Jun 2026",
+    "location": "Philippines",
+    "scope": "single",
+    "date": "2026-07-10",
+    "content": "No summary available.",
+    "url": "https://reliefweb.int/report/philippines/dswd-dromic-report-60-effects-mw-78-earthquake-incident-maasim-sarangani-10-july-2026-6am",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "rw_id": "4220834",
+    "file_url": "https://reliefweb.int/attachments/60d556c5-c3f1-4525-90f2-5a6807b3056c/DSWD-DROMIC-Report-60-on-the-Effects-of-Mw-7.8-Earthquake-Incident-in-Maasim-Sarangani-as-of-10-July-2026-6AM.pdf"
+  },
+  {
+    "id": "rw-4220841",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Needs Assessment Working Group Bangladesh: Chattogram Division - Flash Flood & Landslides | Flash Update #1, 9 July 2026)",
+    "source": "CARE",
+    "crisis": "Flash Flood",
+    "location": "Bangladesh",
+    "scope": "single",
+    "date": "2026-07-10",
+    "content": "<p><strong>Flash Flood &amp; Landslide Update (9 July 2026):</strong> Heavy rainfall since 5 July has triggered flooding and landslides across Chattogram Division, affecting <strong>7 districts and approximately 536,000 people</strong>, displacing around <strong>17,000 people</strong> and causing <strong>11 reported casualties</strong>. High landslide risks remain in Bandarban, Cox’s Bazar, Chattogram, Rangamati, and Khagrachhari. Major impacts include disrupted road connectivity, rising river levels, and evacuation needs. Priority humanitarian needs are <strong>emergency shelter, food assistance, WASH services, health support, protection services, and rescue/evacuation assistance</strong>. Government authorities have activated shelters, control rooms, and relief operations in the affected districts.</p>\n",
+    "url": "https://reliefweb.int/report/bangladesh/needs-assessment-working-group-bangladesh-chattogram-division-flash-flood-landslides-flash-update-1-9-july-2026",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4220841",
+    "file_url": "https://reliefweb.int/attachments/16d2329a-a4d1-492c-b6ac-fa7c1dde9389/Bangladesh_NAWG_CHT%20Flash%20Flood_Flash%20Update_9%20July%202026_Final%20Draft.pdf"
+  },
+  {
+    "id": "rw-4220847",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Namibia Country Brief, June 2026",
+    "source": "WFP",
+    "crisis": "Namibia: Drought - May 2024",
+    "location": "Namibia",
+    "scope": "single",
+    "date": "2026-07-10",
+    "content": "<p>105,813 households reached with rice bags as of May 2026, (53 percent female, 47 percent Male). Consolidation of June 2026 figures are ongoing.</p>\n<p>4,354 mt of rice distributed</p>\n<p><strong>KEY HIGHLIGHTS</strong></p>\n<p>• WFP is supporting the Government of the Republic of Namibia to reinforce emergency preparedness, social protection, and food‑systems resilience under its Country Strategic Plan (2025–2029).</p>\n<p>• Emerging El Niño risks coincide with rising fuel, transport, and staple food costs, vulnerable households face growing food security challenges. However, current funding gaps limit WFP’s capacity to scale up early warning, preparedness and resilience measures. Timely donor support is essential to protect livelihoods and reduce the need for more costly emergency responses later in 2026.</p>\n",
+    "url": "https://reliefweb.int/report/namibia/wfp-namibia-country-brief-june-2026",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "rw_id": "4220847",
+    "file_url": "https://reliefweb.int/attachments/b6fadd85-68df-4ec2-8444-41545e8fc3a7/WFP%20Namibia%20Country%20Brief.%20%20June%202026_CA.pdf"
+  },
+  {
     "id": "ai-crisis-philippines--earthquake-and-tsunami---jun",
     "provider": "ai",
     "type": "ai-summary",
@@ -9,7 +94,7 @@
     "location": "Philippines",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• Multiple government situation reports from 8 and 9 July 2026 provide no detailed information or summaries on the earthquake and tsunami situation in the Philippines.\n• No figures on casualties, displaced persons, or damage assessments have been reported in these updates.\n• There is no available data on humanitarian needs, response activities, or access constraints from the government reports issued during this period.\n\nDue to the lack of detailed information in the official government reports, the current humanitarian situation, scale of impact, and priority needs following the earthquake and tsunami in the Philippines remain unclear. Further data collection and reporting are necessary to inform response planning and resource allocation.",
+    "content": "• No detailed information or data on the earthquake and tsunami impact in the Philippines has been provided in the available government situation reports dated 8 to 10 July 2026.\n• There are no official figures on casualties, displacement, or damage reported in these documents.\n• No updates on humanitarian needs, response activities, or resource requirements have been communicated by the government sources.\n• The lack of information limits the ability to assess the current situation or identify priority areas for assistance.\n\nThe absence of substantive updates from official Philippine government reports as of early July 2026 suggests either ongoing assessment efforts or delays in information dissemination. Further monitoring of official channels and complementary sources will be necessary to obtain a clearer picture of the crisis impact and humanitarian needs.",
     "url": null,
     "region": "Asia",
     "subregion": "South-eastern Asia",
@@ -19,16 +104,17 @@
       "Govt. Philippines"
     ],
     "sourceIds": [
+      "rw-4220834",
       "rw-4220817",
       "rw-4220633",
       "rw-4220632",
       "rw-4220462"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026\n\n--- Report 1: Govt. Philippines (2026-07-09) ---\nDSWD DROMIC Report #59 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 09 July 2026, 6PM\n\n--- Report 2: Govt. Philippines (2026-07-09) ---\nDSWD DROMIC Report #58 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 09 July 2026, 6AM\n\n--- Report 3: Govt. Philippines (2026-07-08) ---\nDSWD DROMIC Report #57 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 08 July 2026, 6PM\n\n--- Report 4: Govt. Philippines (2026-07-08) ---\nDSWD DROMIC Report #56 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 08 July 2026, 6AM\n"
+    "user_prompt_display": "Crisis / situation: Philippines: Earthquake and Tsunami - Jun 2026\n\n--- Report 1: Govt. Philippines (2026-07-10) ---\nDSWD DROMIC Report #60 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 10 July 2026, 6AM\n\n--- Report 2: Govt. Philippines (2026-07-09) ---\nDSWD DROMIC Report #59 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 09 July 2026, 6PM\n\n--- Report 3: Govt. Philippines (2026-07-09) ---\nDSWD DROMIC Report #58 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 09 July 2026, 6AM\n\n--- Report 4: Govt. Philippines (2026-07-08) ---\nDSWD DROMIC Report #57 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 08 July 2026, 6PM\n\n--- Report 5: Govt. Philippines (2026-07-08) ---\nDSWD DROMIC Report #56 on the Effects of Mw 7.8 Earthquake Incident in Maasim, Sarangani as of 08 July 2026, 6AM\n"
   },
   {
     "id": "ai-crisis-venezuela--earthquakes---jun-2026",
@@ -40,7 +126,7 @@
     "location": "Venezuela (Bolivarian Republic of)",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• On 24 June 2026, two major earthquakes (magnitudes 7.2 and 7.5) struck north-central Venezuela, severely impacting at least seven states, especially La Guaira and Grand Caracas. Official figures report approximately 3,685 to 3,811 deaths, 16,470 to 16,740 injured, and nearly 18,000 displaced or homeless people, with over 1,000 aftershocks recorded since.\n\n• The earthquakes caused extensive infrastructure damage, with 856 to 2,501 buildings affected, including around 190 collapses. Preliminary economic damage estimates reach USD 37 billion, heavily impacting housing, public facilities, health services, and schools.\n\n• The emergency response is transitioning from search and rescue to recovery and sustained humanitarian assistance. Around 80 to 87 transitional camps have been established, hosting over 14,000 displaced people, with urgent needs for shelter, water, sanitation, health care, mental health and psychosocial support (MHPSS), and protection services.\n\n• Protection concerns are escalating, especially for vulnerable groups such as children, women, older persons, and people with disabilities. Key risks include family separation, violence, loss of documentation, inadequate shelter privacy and security, and rising psychosocial distress. Gender-based violence prevention and maternal health services are critical priorities, with an estimated 36,700 pregnant women affected.\n\n• Humanitarian actors, including IOM, UN agencies, Plan International, ChildFund, and Project HOPE, are scaling up multisectoral support, focusing on shelter, health (including emergency obstetric care), WASH, protection, coordination, and information management. Appeals for funding total approximately USD 296 million (UN) and USD 98 million (IOM) to assist over one million people through December 2026.\n\nThe scale and complexity of the disaster have overwhelmed local capacities, necessitating extensive international humanitarian support. The ongoing aftershocks and structural instability continue to pose risks, complicating recovery efforts. Coordination among government, UN agencies, and NGOs is critical to address urgent needs and to plan for long-term recovery and reconstruction.",
+    "content": "• On 24 June 2026, two major earthquakes (magnitudes 7.2 and 7.5) struck north-central Venezuela, severely affecting at least seven states, with La Guaira and Grand Caracas hardest hit. Official death tolls range from approximately 3,342 to 3,811, with 16,740 injured and over 6,400 people rescued. Tens of thousands remain missing, with estimates up to 46,000 unaccounted for, and up to 18,000 displaced.\n\n• The earthquakes caused widespread destruction, including damage to at least 856 buildings (190 collapsed), leaving nearly 18,000 people homeless and over 80 operational transitional camps supporting displaced populations. Preliminary economic damage estimates reach USD 37 billion, heavily impacting housing, public infrastructure, health facilities, and schools.\n\n• Humanitarian response is transitioning from search and rescue to sustained multisector assistance focusing on shelter, health (including maternal and mental health), WASH, protection, and coordination. Over 1.3 million people are targeted for aid under a US$296 million UN appeal, with IOM launching a separate USD 98 million appeal for 850,000 people.\n\n• Protection concerns are rising, particularly for vulnerable groups such as children, women, older persons, and persons with disabilities. Key issues include family separation, psychosocial distress, inadequate shelter privacy and security, loss of documentation, and increased risks of gender-based violence. Specialized protection and mental health services are urgently needed.\n\n• Critical gaps remain in access to safe water, sanitation, health services (including emergency obstetric care), and reliable communications in displacement sites. Humanitarian actors are scaling up mobile medical units, WASH interventions, and protection mechanisms, while also addressing risks of secondary public health emergencies.\n\nThe twin earthquakes have triggered a complex humanitarian crisis in Venezuela, with extensive loss of life, displacement, and infrastructure damage. The scale of needs spans emergency relief and longer-term recovery, requiring coordinated multisectoral efforts and significant funding. Vulnerable populations face heightened protection risks amid disrupted services and shelter conditions, necessitating urgent and sustained humanitarian support.",
     "url": null,
     "region": "Americas",
     "subregion": "South America",
@@ -71,7 +157,7 @@
       "rw-4220480"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Venezuela: Earthquakes - Jun 2026\n\n--- Report 1: IOM (2026-07-09) ---\nVenezuela (Bolivarian Republic of): Earthquake Response Situation Report #9 (8 July 2026)\n\n--- Report 2: Protection Cluster (2026-07-09) ---\nVenezuela Protection Situation Update #3 - Earthquake Response\n\n--- Report 3: PDC (2026-07-09) ---\nVenezuela Earthquake Response Situation Update and Response Actors: Expected Needs, Next 96 Hours — As of 07 July 2026 | 1700ET/2100Z\n\n--- Report 4: HOPE (2026-07-09) ---\nVenezuela Earthquakes: Situation Report #5 (July 7, 2026)\n\n--- Report 5: Plan International (2026-07-09) ---\nSituational Report - Response to Venezuela Earthquakes (July 8th, 2026)\n\n--- Report 6: ChildFund International (2026-07-09) ---\nVenezuela Earthquake: Flash Update #2 (9th July 2026)\n\n--- Report 7: OCHA (2026-07-09) ---\nEarthquakes in Venezuela: Situation Report #15 (08 July 2026, Time: 09:00 pm)\n\n--- Report 8: IOM (2026-07-08) ---\nVenezuela (Bolivarian Republic of): Earthquake Response Situation Report #8 (7 July 2026)\n\n--- Report 9: UNFPA (2026-07-08) ---\nUNFPA Flash Update: Earthquakes in Venezuela (26 June-6 July 2026)\n\n--- Report 10: OCHA (2026-07-08) ---\nEarthquakes in Venezuela: Situation Report #14 (07 July 2026, Time: 09:00 pm)\n\n--- Report 11: ETC (2026-07-08) ---\nVenezuela: Earthquakes - LTC Situation Report (Telecoms) #02 (Reporting period: 01–07 July 2026)\n"
@@ -86,25 +172,27 @@
     "location": "Afghanistan",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• In the first quarter of 2026, UNHCR's Community-Based Protection Monitoring (CBPM) in Afghanistan collected data from returnees, internally displaced persons (IDPs), and host communities, highlighting ongoing protection risks, displacement, and economic hardship affecting these groups.\n\n• UNHCR’s Complaints and Feedback Mechanism (CFM) operates through multiple channels including hotlines, complaint boxes, and community outreach volunteers, enabling affected populations, especially returnees, to raise concerns and provide feedback during registration and assistance processes.\n\n• Border monitoring conducted by UNHCR and partners covered 44,335 interviews at official and unofficial crossing points from January to April 2026, focusing on protection needs and movement trends of Afghan returnees, deportees, and passport holders.\n\n• Female participation in border monitoring interviews reached 29 percent in early 2026, a slight decrease from 32 percent in 2025, but efforts such as recruiting female staff and providing separate interview spaces have improved inclusion.\n\nUNHCR’s integrated approach combines protection monitoring, community feedback, and border monitoring to inform programming and advocacy. Despite challenges, these mechanisms provide critical data on protection concerns and population movements, supporting targeted humanitarian responses in Afghanistan’s complex and fluid context.",
+    "content": "• The Afghani currency depreciated by 1.7% in early July 2026 to AFN 65.7/USD but remains stronger than last year and the three-year average, helping to contain imported inflation despite ongoing vulnerabilities related to exchange rate fluctuations and fuel costs.  \n• Food prices showed mixed trends: wheat and flour prices increased moderately, rice prices declined slightly but remain significantly above last year, and prices for cooking oil, pulses, sugar, and salt decreased or remained stable; vegetable prices fluctuated seasonally but remain higher than previous years.  \n• Diesel prices rose by 7.2% due to reduced imports, particularly from Russia, and remain elevated compared to last year and the three-year average; fertilizer prices stayed high compared to last year, impacting agricultural inputs.  \n• Labour market conditions remain weak, with unskilled labour wages declining slightly and labour availability at 1.9 days per week, 18% below last year and the three-year average, limiting income opportunities for casual workers.  \n• UNHCR’s protection monitoring and complaints mechanisms continue to operate extensively, collecting data from returnees, internally displaced persons, and host communities to inform protection responses; border monitoring recorded over 44,000 interviews in early 2026, with ongoing efforts to increase female participation in data collection.\n\nAfghanistan’s economic and protection situation in mid-2026 remains fragile, with inflationary pressures on staple foods and fuel, subdued labour markets, and persistent protection risks linked to displacement and cross-border movements. UNHCR’s comprehensive monitoring and feedback systems provide critical data to guide humanitarian programming and advocacy in this complex environment.",
     "url": null,
     "region": "Asia",
     "subregion": "Southern Asia",
     "rw_id": null,
     "file_url": null,
     "relatedSources": [
-      "UNHCR"
+      "UNHCR",
+      "WFP"
     ],
     "sourceIds": [
+      "rw-4220826",
       "rw-4220656",
       "rw-4220523",
       "rw-4220525"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Afghanistan\n\n--- Report 1: UNHCR (2026-07-09) ---\nUNHCR Afghanistan Protection Monitoring 1st Quarter 2026\n\n--- Report 2: UNHCR (2026-07-08) ---\nUNHCR Afghanistan - Complaints and Feedback Mechanism - Quarterly Report 1st January to 31st March 2026\n\n--- Report 3: UNHCR (2026-07-08) ---\nUNHCR Afghanistan Border Monitoring Report January-April 2026\n"
+    "user_prompt_display": "Crisis / situation: Afghanistan\n\n--- Report 1: WFP (2026-07-10) ---\nAfghanistan: Weekly Market Report: Issue 302: Week 1 – July 2026\n\n--- Report 2: UNHCR (2026-07-09) ---\nUNHCR Afghanistan Protection Monitoring 1st Quarter 2026\n\n--- Report 3: UNHCR (2026-07-08) ---\nUNHCR Afghanistan - Complaints and Feedback Mechanism - Quarterly Report 1st January to 31st March 2026\n\n--- Report 4: UNHCR (2026-07-08) ---\nUNHCR Afghanistan Border Monitoring Report January-April 2026\n"
   },
   {
     "id": "ai-location-bangladesh",
@@ -116,26 +204,28 @@
     "location": "Bangladesh",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• From 5 to 9 July 2026, heavy to very heavy monsoon rainfall has severely affected Cox’s Bazar and surrounding districts, with up to 506 mm recorded in Cox’s Bazar since 4 July and forecasts of continued intense rain through 12 July, especially in Ukhiya, Teknaf, Ramu, and Cox’s Bazar Sadar.  \n• Across 33 refugee camps, over 5,800 households (around 28,000 people) have been impacted by weather-related incidents including flash floods and landslides, resulting in damage to more than 3,100 shelters, displacement of nearly 4,700 individuals, and at least 15 deaths with dozens injured. Host communities have also suffered flooding affecting approximately 80,000 people and at least 6 fatalities.  \n• Landslide risk remains high in multiple upazilas including Teknaf, Ukhiya, Cox’s Bazar Sadar, Bandarban, and parts of Chattogram, with recent landslides causing fatalities and infrastructure damage. Saturated soils and ongoing rainfall exacerbate the risk of further slope failures and flash floods.  \n• Humanitarian response is active with the Bangladesh Red Crescent Society (BDRCS) coordinating through an Emergency Operation Centre, supporting early warning dissemination, emergency relocations, shelter repair and distribution, WASH facility assessments, health and psychosocial support, and community engagement across camps and host communities. Over 200 volunteers have been mobilised for response and awareness activities.  \n• Access constraints due to flooding and damaged infrastructure are impacting humanitarian operations and daily livelihoods. Continued monitoring, preparedness, and contingency planning are critical as rainfall is expected to remain heavy until at least 11 July, with gradual improvement thereafter.\n\nThe monsoon depression has weakened but the active monsoon trough and steep pressure gradients sustain heavy rainfall and hazards in southeastern Bangladesh. Cox’s Bazar district, hosting large refugee populations in vulnerable camps, remains the epicentre of the crisis with significant humanitarian needs. The situation requires sustained multi-sectoral response and risk mitigation to prevent further loss of life and deterioration of living conditions.",
+    "content": "• Since 5 July 2026, heavy monsoon rains have caused severe flooding and landslides across Chattogram Division, including Cox’s Bazar, Bandarban, and Chattogram districts, affecting over 1.9 million people in 12 districts and displacing thousands, with at least 18–28 fatalities reported in camps and host communities combined.  \n• Cox’s Bazar district is highly vulnerable, with approximately 500,000 people at risk of flash floods and landslides; over 5,000 households in refugee camps have suffered shelter damage, with thousands displaced and critical damage to WASH facilities reported.  \n• The Bangladesh Red Crescent Society (BDRCS) and partners have activated emergency operations centres, disseminated early warnings, conducted evacuations, distributed emergency shelter kits, and provided health, psychosocial support, and WASH services across 33 camps and affected host communities.  \n• Forecasts indicate continued heavy to very heavy rainfall through at least 11 July, maintaining high risks of further flooding, landslides, infrastructure damage, and access disruptions, particularly in Ukhiya, Teknaf, Ramu, and Cox’s Bazar Sadar upazilas.  \n• Priority humanitarian needs include emergency shelter, food assistance, WASH services, health support, protection, and search and rescue operations; ongoing coordination among government, humanitarian actors, and community volunteers remains critical to address evolving risks.  \n\nThe monsoon depression over adjoining Indian states and a strong monsoon trough across southern Bangladesh have intensified rainfall and flood risks. Saturated soils and unstable slopes in refugee camps exacerbate vulnerability to landslides and flash floods. Despite no formal government request for international assistance, the Bangladesh Red Crescent has requested support and activated contingency plans to scale up response and preparedness efforts.",
     "url": null,
     "region": "Asia",
     "subregion": "Southern Asia",
     "rw_id": null,
     "file_url": null,
     "relatedSources": [
-      "Bangladesh Red Crescent"
+      "Bangladesh Red Crescent",
+      "CARE"
     ],
     "sourceIds": [
+      "rw-4220841",
       "rw-4220812",
       "rw-4220613",
       "rw-4220604",
       "rw-4220444"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Bangladesh\n\n--- Report 1: Bangladesh Red Crescent (2026-07-09) ---\nBGD: Flood - 07-2026 - Situation Report-4, Monsoon depression in Cox’s Bazar (2026-07-09)\n\n--- Report 2: Bangladesh Red Crescent (2026-07-09) ---\nBGD: Flood - 07-2026 - BDRCS-IFRC-PMO-Monsoon Situation Report 3 #3 (2026-07-08)\n\n--- Report 3: Bangladesh Red Crescent (2026-07-08) ---\nBangladesh Red Crescent Society Situation Report 1: Monsoon-triggered landslides and flooding in Cox's Bazar, Bandarban and Chattogram, Bangladesh (7 July 2026, 16:00 HRS)\n\n--- Report 4: Bangladesh Red Crescent (2026-07-08) ---\nBGD: Flood - 07-2026 - BDRCS-IFRC-PMO-Monsoon Situation Report 2 #2 (2026-07-07)\n"
+    "user_prompt_display": "Crisis / situation: Bangladesh\n\n--- Report 1: CARE (2026-07-10) ---\nNeeds Assessment Working Group Bangladesh: Chattogram Division - Flash Flood & Landslides | Flash Update #1, 9 July 2026)\n\n--- Report 2: Bangladesh Red Crescent (2026-07-09) ---\nBGD: Flood - 07-2026 - Situation Report-4, Monsoon depression in Cox’s Bazar (2026-07-09)\n\n--- Report 3: Bangladesh Red Crescent (2026-07-09) ---\nBGD: Flood - 07-2026 - BDRCS-IFRC-PMO-Monsoon Situation Report 3 #3 (2026-07-08)\n\n--- Report 4: Bangladesh Red Crescent (2026-07-08) ---\nBangladesh Red Crescent Society Situation Report 1: Monsoon-triggered landslides and flooding in Cox's Bazar, Bandarban and Chattogram, Bangladesh (7 July 2026, 16:00 HRS)\n\n--- Report 5: Bangladesh Red Crescent (2026-07-08) ---\nBGD: Flood - 07-2026 - BDRCS-IFRC-PMO-Monsoon Situation Report 2 #2 (2026-07-07)\n"
   },
   {
     "id": "ai-location-lao-peoples-democratic-republic-the",
@@ -147,7 +237,7 @@
     "location": "Lao People's Democratic Republic (the)",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• Typhoon Maysak and persistent heavy rainfall have caused widespread flooding and landslides in multiple provinces of Lao PDR, notably Khammouane, Bokeo, Phongsaly, Bolikhamxay, and Vientiane Province, affecting residential areas, agricultural land, and infrastructure.\n\n• In Khammouane Province, flooding has inundated villages such as Nakang, Kaeng, and Muang Namsang, submerged key roads including the Kounkham–Kong Lor section, and isolated communities like Nong Hang Kao; a landslide blocked National Road 8A, disrupting transport.\n\n• Approximately 367 people (99 families) in Phongsaly Province were affected by flooding, with damage to 40 hectares of rice fields, fishponds, irrigation canals, rubber plantations, and a bridge; no casualties have been reported across affected areas.\n\n• Authorities in Bolikhamxay Province plan controlled water release from Nam Theun 1 Dam starting 7 July, expected to raise river levels by 3–4 metres downstream, prompting warnings for residents to prepare for possible flooding.\n\n• The Lao Red Cross and government agencies are actively monitoring the situation, conducting assessments, maintaining surveillance, and preparing for potential evacuations, while disseminating safety information; no international assistance has been requested.\n\nThe ongoing monsoon combined with the remnants of Typhoon Maysak continues to generate heavy rainfall, sustaining high flood and landslide risks across northern and central Lao PDR. The situation remains dynamic with infrastructure damage and access constraints complicating response efforts. Continued vigilance and preparedness are essential as weather forecasts predict further rainfall in the coming days.",
+    "content": "• Typhoon Maysak and persistent heavy rainfall have caused widespread flooding and landslides in multiple provinces of Lao PDR, including Khammouane, Bokeo, Phongsaly, Bolikhamxay, and others, affecting residential areas, agricultural land, and key infrastructure such as roads and bridges.\n\n• In Khammouane Province, flooding has submerged roads, isolated communities, and inundated houses up to the second floor, with ongoing risks of further flooding and landslides; a landslide on National Road 8A has temporarily blocked traffic.\n\n• Approximately 367 people (99 families) in Phongsaly Province were affected by flash floods, which damaged around 40 hectares of rice fields and other agricultural assets; no casualties have been reported in the affected areas.\n\n• Authorities have issued warnings about the controlled release of water from Nam Theun 1 Dam in Bolikhamxay Province, which may raise river levels by 3–4 metres and increase flooding risks downstream; residents have been advised to prepare accordingly.\n\n• The Lao Red Cross and government agencies are actively monitoring the situation, conducting damage assessments, maintaining 24-hour surveillance, and preparing for possible evacuations, while no international assistance has been requested so far.\n\nThe ongoing monsoon and the residual effects of Typhoon Maysak continue to pose significant flood and landslide risks across northern and central Lao PDR. While no casualties have been reported to date, the flooding threatens livelihoods, food security, and transportation connectivity. Emergency preparedness and community awareness efforts remain critical to mitigating the impact of further adverse weather.",
     "url": null,
     "region": "Asia",
     "subregion": "South-eastern Asia",
@@ -161,7 +251,7 @@
       "rw-4220466"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Lao People's Democratic Republic (the)\n\n--- Report 1: IFRC (2026-07-09) ---\nLAO: Flood - 06-2026 - Flooding and landslide caused by Typhoon Maysak #3 (2026-07-08)\n\n--- Report 2: IFRC (2026-07-08) ---\nLAO: Flood - 06-2026 - Heavy Rainfall and Flooding caused by Typhoon Maysak #2 (2026-07-07)\n"
@@ -176,7 +266,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• Since 2 March 2026, Lebanon has experienced at least 4,319 deaths and 12,203 injuries due to hostilities, with over 1 million people displaced at peak, including around 37,000 currently in collective shelters as of early July.  \n• Approximately 646,000 people have returned to their areas of origin, mainly in South and Nabatieh governorates, but around 500,000 remain displaced due to insecurity, housing damage, and lack of services.  \n• Basic services are severely disrupted, with 3 hospitals and 35 primary health care centres non-operational, particularly in conflict-affected and hard-to-reach areas, limiting access to lifesaving and maternal care.  \n• Protection concerns are high, with significant needs for psychosocial support, child protection, and gender-based violence services; over 330,000 people have been reached with such interventions.  \n• Funding for humanitarian response is insufficient, with only 42% of the $640 million appeal received, constraining the ability to sustain assistance amid ongoing displacement and service disruptions.  \n\nThe conflict escalation in March 2026 triggered widespread displacement and civilian casualties, exacerbating vulnerabilities among both Lebanese and Palestine refugee populations. Despite some returns, the security situation and damage to infrastructure continue to impede safe and dignified return, prolonging humanitarian needs across Lebanon.",
+    "content": "• Since 2 March 2026, Lebanon has experienced over 4,300 deaths and more than 12,200 injuries due to hostilities, with civilians, including women and children, disproportionately affected.  \n• Over one million people have been displaced nationwide, with around 500,000 still displaced as of early July; approximately 37,000 remain in collective shelters, mainly in Beirut, South, and Nabatieh governorates.  \n• Despite a decline in hostilities and some returns (over 646,000 people), ongoing military activity and destruction of infrastructure continue to hinder safe returns and access to essential services.  \n• Health services are severely disrupted, with three hospitals and 35 primary health care centres non-operational, particularly in conflict-affected and hard-to-reach areas, limiting access to maternal and lifesaving care.  \n• Humanitarian response efforts have reached hundreds of thousands with protection, sexual and reproductive health, and psychosocial support services, but funding remains insufficient, with only 16–42% of appeals funded.  \n\nThe conflict escalation in March 2026 triggered massive displacement and strained Lebanon’s fragile infrastructure and social services. While some improvements in security have allowed partial returns, the situation remains volatile with ongoing risks to civilians and critical gaps in healthcare and protection. Sustained funding and coordinated humanitarian efforts are essential to address the complex and evolving needs of displaced populations and host communities.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -184,19 +274,21 @@
     "file_url": null,
     "relatedSources": [
       "OCHA",
+      "UNFPA",
       "UNICEF",
       "UNRWA"
     ],
     "sourceIds": [
+      "rw-4220831",
       "rw-4220672",
       "rw-4220498",
       "rw-4220500"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: OCHA (2026-07-09) ---\nLebanon: Flash Update #41 - Escalation of hostilities in Lebanon (as of 6 July 2026)\n\n--- Report 2: UNRWA (2026-07-08) ---\nUNRWA - Lebanon Quarterly Protection Update (Q1 2026)\n\n--- Report 3: UNICEF (2026-07-08) ---\nLebanon: Protection Sector Weekly Response Sitrep #12 - 2 March to 03 July 2026\n"
+    "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: UNFPA (2026-07-10) ---\nUNFPA Situation Report: Lebanon Crisis (23 June - 7 July 2026)\n\n--- Report 2: OCHA (2026-07-09) ---\nLebanon: Flash Update #41 - Escalation of hostilities in Lebanon (as of 6 July 2026)\n\n--- Report 3: UNRWA (2026-07-08) ---\nUNRWA - Lebanon Quarterly Protection Update (Q1 2026)\n\n--- Report 4: UNICEF (2026-07-08) ---\nLebanon: Protection Sector Weekly Response Sitrep #12 - 2 March to 03 July 2026\n"
   },
   {
     "id": "ai-location-middle-east",
@@ -208,7 +300,7 @@
     "location": "Middle East",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• Since late February, hostilities in Iran and Lebanon have caused significant humanitarian and protection impacts across the Middle East, including forced returns to Afghanistan and Syria under adverse conditions.  \n• Over 31 million forcibly displaced people and recent returnees were present in the region before the escalation, with host communities facing severe economic and social strains.  \n• In Iran, around 9,000 people remain displaced due to housing damage, but no large-scale displacement has occurred; mobility inside Iran is mainly localized and temporary.  \n• Lebanon continues to experience high displacement pressures, with over 700,000 people displaced and more than 464,000 movements recorded from Lebanon into Syria since March, complicating return and reintegration efforts.  \n• Humanitarian agencies have launched emergency response plans in affected countries, focusing on refugee support, protection, and addressing economic deterioration, but funding constraints pose challenges to preparedness and response capacity.  \n\nThe situation remains fragile despite some reduction in large-scale military activity, with ongoing risks to refugees and vulnerable populations due to economic decline and strained national systems. Continued monitoring and flexible funding are critical to support protection and humanitarian needs across the region.",
+    "content": "• Since late February, hostilities in Iran and Lebanon have caused humanitarian and protection challenges across the Middle East, including forced returns to Afghanistan and Syria under adverse conditions.  \n• Over 31 million forcibly displaced people and recent returnees were present in the region before the escalation, with host communities under significant economic and social strain.  \n• In Iran, about 9,000 people remain displaced due to housing damage, but no mass displacement has occurred; mobility inside Iran is mostly localized and temporary.  \n• Lebanon faces ongoing displacement pressures with over 700,000 people still displaced and insecurity limiting sustainable returns; more than 464,000 movements from Lebanon to Syria have been recorded since March, complicating economic reintegration.  \n• Humanitarian actors have activated emergency response plans in Iran, Lebanon, and Afghanistan, focusing on protection, refugee support, and addressing economic deterioration, but efforts depend on flexible and predictable funding amid constrained resources.  \n\nThe situation remains fragile despite some reduction in large-scale military activity, with ongoing diplomatic efforts and monitoring essential. The complex displacement dynamics and economic challenges continue to strain national systems and humanitarian responses across the region.",
     "url": null,
     "region": "Other",
     "subregion": "",
@@ -223,7 +315,7 @@
       "rw-4220493"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Middle East\n\n--- Report 1: UNHCR (2026-07-08) ---\nUNHCR Middle East Situation: Emergency Update #21 as of 7 July 2026\n\n--- Report 2: IOM (2026-07-08) ---\nEscalation in Middle East and Beyond Situation Report, 8 July 2026\n"
@@ -238,7 +330,7 @@
     "location": "Sudan",
     "scope": null,
     "date": "2026-07-10",
-    "content": "• Over 33.7 million people in Sudan require humanitarian assistance, including 17.3 million children, with 9.1 million internally displaced. Education is severely disrupted, especially in Darfur and Kordofan, leaving over 8 million children out of school despite UNICEF reaching 800,000 in May.\n\n• Acute malnutrition remains critical, with over one million children under five screened in May and 24,400 severely malnourished children admitted for treatment. Multiple disease outbreaks—cholera, dengue fever, malaria, measles, and hepatitis E—are spreading amid displacement and poor service access.\n\n• Drone attacks on El Obeid, North Kordofan, have intensified, targeting power, fuel, water, and healthcare infrastructure, severely disrupting sexual and reproductive health (SRH) and gender-based violence (GBV) services and increasing protection risks for women and girls.\n\n• Humanitarian telecommunications services support around 1,700 responders across 67 sites, but face funding shortfalls, regulatory restrictions, and network disruptions. Efforts to expand connectivity in Darfur and Kordofan continue despite a fully unfunded $5.5 million budget for 2026.\n\n• A 71 per cent funding gap in UNICEF's humanitarian appeal and overstretched resources for SRH and GBV services threaten the continuity of critical life-saving interventions amid escalating needs and infrastructure attacks.\n\nThe humanitarian situation in Sudan remains highly complex and deteriorating, with conflict-driven displacement, infrastructure attacks, and disease outbreaks compounding existing vulnerabilities. Critical gaps in funding and access are undermining the delivery of essential health, nutrition, education, and protection services, particularly for children and women in conflict-affected states.",
+    "content": "• Over 33.7 million people in Sudan require humanitarian assistance, including 17.3 million children, with 9.1 million internally displaced; education disruptions affect over 8 million children, especially in Darfur and Kordofan.  \n• Malnutrition remains critical, with over one million children under five screened for acute malnutrition in May and 24,400 severely malnourished children admitted for treatment; disease outbreaks such as cholera, dengue, malaria, measles, and hepatitis E continue amid displacement and poor services.  \n• Drone attacks on El Obeid, North Kordofan, have intensified, targeting infrastructure and severely disrupting power, water, healthcare, and sexual and reproductive health (SRH) services, increasing protection risks for women and girls.  \n• UNFPA has expanded its presence to coordinate SRH and gender-based violence (GBV) services amid growing needs, but funding shortfalls threaten the continuity and quality of life-saving interventions.  \n• Telecommunications support for humanitarian operations remains constrained by funding gaps and regulatory challenges, with critical connectivity maintained for 1,700 responders across seven hubs; network expansion is planned in Darfur and Kordofan despite operational difficulties.\n\nThe humanitarian situation in Sudan is deteriorating due to ongoing conflict, infrastructure attacks, and widespread displacement, severely impacting essential services and increasing vulnerabilities, especially among children and women. Funding shortfalls across sectors, including health, nutrition, education, and telecommunications, are limiting the scale and effectiveness of response efforts.",
     "url": null,
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -255,7 +347,7 @@
       "rw-4220473"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-10T00:35:48Z",
+    "generated_at": "2026-07-10T07:11:43Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Sudan\n\n--- Report 1: UNICEF (2026-07-08) ---\nUNICEF Sudan Humanitarian Situation Report No. 43, 31 May 2026\n\n--- Report 2: UNFPA (2026-07-08) ---\nUNFPA Sudan Flash Update on the situation in El Obeid, North Kordofan, Sudan (2 July 2026)\n\n--- Report 3: ETC (2026-07-08) ---\nSudan conflict - LTC Situation Report (Telecoms Area) #41 (Reporting period: June 2026)\n"
