@@ -1,12 +1,15 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNFPA (2026-07-10) ---
+--- Report 1: UNHCR (2026-07-10) ---
+Since the escalation of hostilities on 2 March 2026, and until 30 June, the Syrian General Authority for Border and Customs (GABC) estimates that 581,409 Syrians crossed from Lebanon into Syria, while the Lebanese General Security (GSO) estimates that 491,265 Syrians departed through Ocial Crossing Points (OCPs) between 2 March and 26 June. While some movements to Syria were driven by the conflict in Lebanon, others reflect previously planned movements. Syrians crossing include people known, and not known to UNHCR, namely both refugees and Syrians who have stayed in Lebanon under various visa and sponsorship arrangements or returning from temporary visits. During June, a slight increase was observed in daily movement to Syria, with over 4,500 Syrians crossing per day through OCPs, mainly due to the end of the school academic year and the start of the summer season. As of the end of June 2026, only 6% (29,054 individuals) of Syrians who left Lebanon through the OCPs, based on GSO and UNHCR Syria data*, have so far been verified to be known to UNHCR**. Further verification, data collection and triangulation are ongoing.
+
+--- Report 2: UNFPA (2026-07-10) ---
 The humanitarian situation in Lebanon remains fragile despite a reduction in hostilities, with significant and persistent humanitarian, protection, and early recovery needs. Daily airstrikes and military operations, particularly in southern Lebanon, continue to pose risks to civilians and limit safe returns, highlighting the potential for renewed escalation despite ongoing diplomatic efforts. Since 2 March 2026, a reported 4,304 people have been killed and 12,203 have been injured.
 Women and girls are bearing the brunt of the crisis, facing heightened protection and gender-based violence (GBV) risks, disrupted health services, including for maternal health, and reduced access to safe and dignified support.
 Since the onset of the crisis, UNFPA has reached over 150,000 displaced people with sexual and reproductive health and GBV services. These services have been delivered through support to 55 health facilities, nine mobile medical units, 24 mobile GBV teams, and 19 women and girls’ safe spaces, serving collective shelters and host communities.
 UNFPA launched a revised Flash Appeal in June, aligned with the revised Inter-Agency Lebanon Flash Appeal appealing for US $25 million to meet the urgent needs of 450,000 people from March to August 2026. To date, only 16 per cent of the required funding has been secured.
 
---- Report 2: OCHA (2026-07-09) ---
+--- Report 3: OCHA (2026-07-09) ---
 HIGHLIGHTS
 
 At least 4,319 deaths and 12,203 injuries due to hostilities recorded by the Ministry of Public Health since 2 March.
@@ -22,10 +25,10 @@ Basic services in hard-to-reach areas are non-functional or under critical strai
 The Ministry of Public Health reported 4,319 people killed (including 392 Women and 253 children) and 12,203 injured (1,450 women and 1,036 children) as of 6 July. 135 health care professionals have been killed on duty and 406 reported as injured since 2 March.
 Funding constraints remain a major challenge to sustaining humanitarian assistance. As of 6 July, the 2026 Lebanon Flash Appeal has received $269 million, or 42.2 per cent of the $639.9 million requested.
 
---- Report 3: UNRWA (2026-07-08) ---
+--- Report 4: UNRWA (2026-07-08) ---
 During January and February 2026, the security situation in Lebanon remained tense but relatively contained. Protection monitoring highlighted persistent vulnerabilities among Palestine refugees, including worsening poverty levels, deterio‐ rating living conditions and ongoing anxiety, particularly among refugees living in camps located near high-risk areas. In early March, after Hezbollah fired rockets into Israel and the Israeli military responded, there was a sharp escalation in hostili‐ ties, triggering widespread displacement, rising civilian casual‐ ties and increased pressure on services. By the end of March, over one million people were displaced nationwide, including more than 136,731 individuals using collective shelters.
 
---- Report 4: UNICEF (2026-07-08) ---
+--- Report 5: UNICEF (2026-07-08) ---
 This Situation Report provides an overview of the Protection Emergency Response in Lebanon from 2 March to 3 July 2026. As of early July, more than 1.04 million people had been displaced, including 36,213 people living in 350 open shelters. The emergency had resulted in 26,782 reported incidents, 4,305 deaths and 12,203 injuries.
 Protection, Child Protection and Gender-Based Violence partners collectively reported reaching 334,063 people. Key interventions included 168,881 awareness and information activities, 114,234 psychosocial support and case-management services, and the distribution of 36,180 dignity kits.
 The response reached 108,624 people through general protection activities, 132,523 through Child Protection interventions and 91,088 through GBV programming, supported respectively by 37, 56 and 40 partners. Mount Lebanon, the South and Beirut recorded the highest overall reach.
