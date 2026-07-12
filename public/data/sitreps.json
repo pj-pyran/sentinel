@@ -1,5 +1,39 @@
 [
   {
+    "id": "rw-4220998",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Earthquakes in Venezuela: Situation Report #18 (11 July 2026, Time: 09:00 pm)",
+    "source": "OCHA",
+    "crisis": "Venezuela: Earthquakes - Jun 2026",
+    "location": "Venezuela (Bolivarian Republic of)",
+    "scope": "single",
+    "date": "2026-07-12",
+    "content": "<p><strong>Situation Report No. 18</strong><br />\n<strong>Earthquakes in Venezuela</strong><br />\n<strong>11 July 2026</strong><br />\n<strong>Time: 9:00 pm</strong></p>\n<p><strong>Highlights</strong></p>\n<ul>\n<li>Following the 24 June earthquakes of magnitude 7.2 and 7.5 (18:00 local time), <strong>authorities report more than 1,170 aftershocks.</strong></li>\n<li>Official toll: <strong>4,333 people dead and 16,740 injured.</strong></li>\n<li>A total of <strong>6,462 people have been rescued.</strong></li>\n<li><strong>Tom Fletcher, the United Nations humanitarian chief, concluded his four-day visit to the country and called for sustained international support for the Humanitarian Response Plan (HRP).</strong></li>\n<li><strong>An additional appeal for US$298 million was launched to scale up the earthquake response and address the multisectoral needs of 1.3 million people over the next six months.</strong></li>\n<li>The United Nations system and its partner organizations, in coordination with the Government, are responding with multisectoral actions and will continue to scale up assistance to affected people.</li>\n</ul>\n<p>Situation overview</p>\n<p>Venezuela is facing a national emergency following two consecutive high-magnitude earthquakes (7.2 and 7.5) that struck on 24 June (18:00 local time) in the north-central region, with the epicentre located along the San Felipe–Yumare–Montalbán axis (Yaracuy/Carabobo). <strong>Authorities report 1,171 aftershocks.</strong></p>\n<p>Seventeen days after the earthquakes, authorities report a toll of <strong>4,333 people dead, 16,740 injured and 6,462 rescued since the onset of the emergency.</strong> Authorities also indicated that <strong>17,907 people remain without housing.</strong> According to official reports, 315 of those who died have yet to be identified, while search operations for possible survivors remain active at priority sites.</p>\n<p>The Government response remains focused on search operations, the management of transitional camps and assistance to affected populations. The United Nations and its partner organizations, in coordination with the authorities, continue implementing multisectoral response activities and scaling up assistance. United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher concluded his visit to Venezuela this week and called on the international community to sustain support for the humanitarian response. In this context, he <strong>announced a US$298 million addendum to the Humanitarian Response Plan, aimed at addressing the multisectoral needs of 1.3 million people over the next six months.</strong></p>\n",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-18-11-july-2026-time-0900-pm",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4220998",
+    "file_url": "https://reliefweb.int/attachments/0d045a1a-5ee7-4006-b351-e9940652225f/VE_%20Earthquake%20Situation%20in%20Venezuela_OCHA_11July%202026_18.pdf"
+  },
+  {
+    "id": "rw-4221008",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Sudan Humanitarian Update (May - June 2026)",
+    "source": "OCHA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Sudan",
+    "scope": "single",
+    "date": "2026-07-12",
+    "content": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>Violence continues to escalate in North Kordofan, taking a heavy toll on civilians and causing extensive damage to critical civilian infrastructure.</li>\n<li>Explosive ordnance, including unexploded bombs, artillery shells, rockets, and landmines continues to pose a serious threat to families who returned to their homes.</li>\n<li>The situation for children in Sudan remains among the most severe globally, with millions affected by ongoing violence, disrupted essential services and escalating humanitarian needs.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/sudan/sudan-humanitarian-update-may-june-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4221008",
+    "file_url": "https://reliefweb.int/attachments/145b515b-87c5-4e85-a664-66bad52bc201/Sudan_Humanitarian_Update_%28May_-_June_2026%29.pdf"
+  },
+  {
     "id": "ai-crisis-venezuela--earthquakes---jun-2026",
     "provider": "ai",
     "type": "ai-summary",
@@ -9,7 +43,7 @@
     "location": "Venezuela (Bolivarian Republic of)",
     "scope": null,
     "date": "2026-07-12",
-    "content": "• Two major earthquakes of magnitude 7.2 and 7.5 struck north-central Venezuela on 24 June 2026, followed by over 1,100 aftershocks, causing widespread destruction along the San Felipe–Yumare–Montalbán axis in Yaracuy and Carabobo states.  \n• Official figures report between 3,889 and 4,118 deaths, approximately 16,740 injured, around 6,462 people rescued, and about 17,900 individuals displaced or homeless.  \n• The government is prioritising search and rescue, expanding transitional camps, and providing assistance to affected populations, while the UN and partners are scaling up multisectoral humanitarian response efforts.  \n• An additional international appeal for US$298 million has been launched to support the response and meet the needs of 1.3 million people over the next six months.  \n• Health concerns are rising due to deteriorating sanitation, limited clean water access, and disrupted healthcare services, with increased cases of diarrhoeal diseases, respiratory infections, and mental health issues reported, especially in overcrowded temporary shelters.  \n\nThe earthquakes have triggered a national emergency in Venezuela, with significant humanitarian needs across health, shelter, water and sanitation, and psychosocial support sectors. The international community, led by the UN, is mobilising resources to support the government’s response, but ongoing aftershocks and challenging conditions in temporary settlements heighten the risk of secondary public health crises.",
+    "content": "• Two major earthquakes of magnitude 7.2 and 7.5 struck north-central Venezuela on 24 June 2026, triggering over 1,100 aftershocks.  \n• As of 11 July, official figures report between 3,889 and 4,333 deaths, 16,740 injured, and 6,462 people rescued. Approximately 17,900 people remain homeless or displaced.  \n• The government is prioritising search and rescue, management of transitional camps, and assistance to affected populations, with ongoing operations at priority sites.  \n• The United Nations and partners are scaling up multisectoral humanitarian response, including health, water, sanitation, hygiene, and mental health support, to address urgent needs and prevent secondary public health crises.  \n• An additional US$298 million appeal has been launched to support the humanitarian response over the next six months, targeting 1.3 million people affected by the earthquakes.  \n\nThe earthquakes have caused a national emergency in Venezuela, severely impacting the Yaracuy and Carabobo regions. The scale of destruction and displacement has overwhelmed local capacities, necessitating sustained international support. Health concerns are rising due to deteriorating sanitation, risk of disease outbreaks, and mental health challenges among displaced populations living in temporary shelters.",
     "url": null,
     "region": "Americas",
     "subregion": "South America",
@@ -20,15 +54,16 @@
       "OCHA"
     ],
     "sourceIds": [
+      "rw-4220998",
       "rw-4220980",
       "rw-4220924",
       "rw-4220881"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-12T00:29:56Z",
+    "generated_at": "2026-07-12T12:20:03Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Venezuela: Earthquakes - Jun 2026\n\n--- Report 1: OCHA (2026-07-11) ---\nEarthquakes in Venezuela: Situation Report #17 (10 July 2026, Time: 09:00 pm)\n\n--- Report 2: HOPE (2026-07-10) ---\nVenezuela Earthquakes: Situation Report #6 (July 9, 2026)\n\n--- Report 3: OCHA (2026-07-10) ---\nEarthquakes in Venezuela: Situation Report #16 (09 July 2026, Time: 09:00 pm)\n"
+    "user_prompt_display": "Crisis / situation: Venezuela: Earthquakes - Jun 2026\n\n--- Report 1: OCHA (2026-07-12) ---\nEarthquakes in Venezuela: Situation Report #18 (11 July 2026, Time: 09:00 pm)\n\n--- Report 2: OCHA (2026-07-11) ---\nEarthquakes in Venezuela: Situation Report #17 (10 July 2026, Time: 09:00 pm)\n\n--- Report 3: HOPE (2026-07-10) ---\nVenezuela Earthquakes: Situation Report #6 (July 9, 2026)\n\n--- Report 4: OCHA (2026-07-10) ---\nEarthquakes in Venezuela: Situation Report #16 (09 July 2026, Time: 09:00 pm)\n"
   },
   {
     "id": "ai-location-lebanon",
@@ -40,7 +75,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-07-12",
-    "content": "• Since 2 March 2026, approximately 490,000 to 580,000 Syrians have crossed from Lebanon into Syria, with daily crossings increasing to over 4,500 in June due to seasonal factors; only 6% of these returnees are verified as known to UNHCR.\n\n• The conflict in Lebanon has resulted in over 4,300 deaths and more than 12,200 injuries since early March, with ongoing airstrikes and military operations, especially in southern Lebanon, continuing to threaten civilian safety and hinder returns.\n\n• Women and girls face elevated risks of gender-based violence and reduced access to maternal and reproductive health services amid disrupted healthcare; UNFPA has reached over 150,000 displaced individuals with related services through health facilities, mobile units, and safe spaces.\n\n• A revised Flash Appeal requests US $25 million to address urgent humanitarian needs of 450,000 people from March to August 2026, but only 16% of funding has been secured to date.\n\nThe humanitarian situation in Lebanon remains highly fragile with persistent protection and recovery needs despite some reduction in hostilities. The large-scale movement of Syrians back to Syria reflects complex factors including conflict and seasonal migration, while ongoing violence continues to exacerbate civilian vulnerabilities, particularly for women and girls. Funding shortfalls pose significant challenges to scaling up critical health and protection services.",
+    "content": "• Since 2 March 2026, an estimated 491,000 to 581,000 Syrians have crossed from Lebanon into Syria, with daily crossings increasing to over 4,500 in June due to the school year ending and summer season starting. Only 6% of those who left are verified as known to UNHCR, indicating many are outside formal refugee registries.\n\n• The conflict in Lebanon has resulted in at least 4,304 deaths and 12,203 injuries since early March 2026, with ongoing airstrikes and military operations especially in southern Lebanon continuing to endanger civilians and hinder safe returns.\n\n• Women and girls face elevated protection risks, including gender-based violence, and disruptions to sexual and reproductive health services. UNFPA has provided support to over 150,000 displaced persons through health facilities, mobile medical units, GBV teams, and safe spaces.\n\n• A revised Flash Appeal by UNFPA seeks US $25 million to assist 450,000 people from March to August 2026, but only 16% of this funding has been secured so far, underscoring significant gaps in humanitarian financing.\n\nThe humanitarian situation in Lebanon remains precarious with ongoing conflict driving displacement and severe protection and health needs. Despite some reduction in hostilities, the risk of renewed escalation persists, complicating efforts to deliver aid and support vulnerable populations, particularly women and girls.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -55,7 +90,7 @@
       "rw-4220831"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-12T00:29:56Z",
+    "generated_at": "2026-07-12T12:20:03Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: UNHCR (2026-07-10) ---\nUNHCR Facilitated Return of Syrian Refugees - Lebanon, 30 June 2026\n\n--- Report 2: UNFPA (2026-07-10) ---\nUNFPA Situation Report: Lebanon Crisis (23 June - 7 July 2026)\n"
