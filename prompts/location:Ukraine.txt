@@ -1,46 +1,24 @@
 Crisis / situation: Ukraine
 
---- Report 1: World Vision (2026-06-25) ---
-World Vision started working in Ukraine in March 2022 through 6 and now 3 active offices in Ukraine (Kyiv, Dnipro, Mykolaiv), which currently support aid efforts reaching conflict-affected people. While also supported Ukrainian refugees and host communities in Moldova, Romania, and Georgia. WV UCR in Moldova concluded its operations in June 2025 and transitioned to WV Romania registered Moldova Foundation.
-World Vision’s Ukraine Crisis Response and its local partners have reached over 2.3 million people, including more than 1 million children, providing essential support through food, non-food items, cash assistance, protection and education interventions, livelihood, and mental health &amp; psychosocial support programming.
-In 2025, World Vision intentionally incorporated early recovery and economic development into its programming, expanding livelihood opportunities for affected families and creating new jobs.
-Its microfinance arm, VisionFund, is operating in Ukraine in the field of medium- to long-term recovery and development via financing small and medium-sized businesses for further growth, opportunities to generate income and create new jobs.
-Ukraine Crisis Response Goal
-The Ukrainian children, refugees and IDPs, as well as the host communities in Ukraine, Moldova, Romania, and Georgia have the support to overcome the humanitarian consequences of the war crisis.
-UCR Strategic Objectives
-1 Early recovery and economic development opportunities are created for IDP and refugee households, as well as host communities for improved and self-reliant livelihood.
-2 Children, their families and communities benefit from enhanced social protection mechanisms and education opportunities in Ukraine and host countries.
-3 Basic needs of vulnerable children, families and communities affected by the war are met in Ukraine and host countries.
-4 Equitable and complementary partnerships with national and local actors are encultured and promoted to enable them take stronger leadership role in delivering the humanitarian response and managing the transition to rehabilitation and development.
+--- Report 1: Health Cluster (2026-07-13) ---
+HIGHLIGHTS
+• May recorded the highest number in civilian casualties since April 2022, with UN HRMMU verifying 274 civilians killed and 1,763 injured across more than 3,400 air and drone strike events recorded by ACLED. This included the largest single aerial attack by drones recorded to date: more than 1,500 drones and 56 missiles targeting Kyiv, killing 24 people and injured at least 57. Health Cluster partners continued to support the national emergency response through first aid, MHPSS, patient transfer, and medicines prepositioning. As of 31 May, health partners reached 754 people and donated medicines to treat 895 patients.
+• Around 19,500 people were newly displaced in May, according to the IOM DTM Frontline Flow Monitoring Assessment. Sustained shelling, hostilities, and drone attacks continued to force civilians from their homes, with Kramatorsk and Slovyansk accounting for the largest share of displacement. At Transit centers where health partners operate, 10,730 people were registered in May. During the month, 16 health partners provided 3,712 health services, including 3,061 consultations in primary health care services and 651 in MHPSS.
+• The Health Cluster held a two-day Localization Strengthening Workshop in Dnipro, bringing together 34 local representatives from 24 national NGOs and two donor representatives. The sessions covered quality proposal development, compliance, risk reduction, mobile team licensing, OTC kits, and PSEA, culminating in partners preparing and presenting their proposals before a jury.
+• The Health Cluster joined WHO Governance on a joint field visit to Zaporizhzhia,
+Kharkiv, and Dnipro to review coordination, map partner investments, and align HNRP funding priorities with DoH and NHSU needs for expanded frontline service delivery
 
---- Report 2: ACLED (2026-06-24) ---
-Ukraine Conflict Monitor  Update
-Russia steps up its targeting of critical civilian infrastructure along Ukraine’s front line regions.
-1,937 political violence events
-3% increase compared to last week
-205 incidents of violence targeting civilians
-6% decrease compared to last week
-At least 61 civilians killed by targeted violence
-45% decrease compared to last week
+--- Report 2: Logistics Cluster (2026-07-13) ---
+Highlights
+
+94 partners supported through logistics coordination and information sharing, access to common
+services and trainings
+
+• 20 participants from 9 organizations to the Logistics Cluster Induction training in Kyiv
+• IMPACCT Customs &amp; Importations course for the first time launched in Ukrainian
 
 
-6 Jun.
-Krasnodar, Russia — A Ukrainian drone strike sparks a fire at the Poltava oil depot in Ust-Labinsk
+352 service requests from partners processed
 
 
-8 Jun.
-Kharkiv — A Russian combined drone and missile strike on Chuhuiv kills three civilians and damages apartments
-
-
-9 Jun.
-Mykolaiv — Russian forces withdraw from their positions on the Kinburn Spit
-
-
-
-Russian forces advanced in the Donetsk region, occupying the settlements of Pryiut, Rozkishne, and Tykhonivka following clashes with Ukrainian forces. In the Sumy region, they also claimed the capture of Myropillia and Zapsillia, both bordering Russia’s Belgorod region.
-Russian forces launched at least 33 long-range missile and drone attacks, including on the Kyiv, Odesa, and Zhytomyr regions.
-Russian strikes killed at least 51 civilians in the Sumy, Donetsk, Zaporizhia, Kharkiv, Kherson, Dnipropetrovsk, and Mykolaiv regions. Ukrainian drone strikes reportedly killed seven civilians in the Russian-controlled parts of the Luhansk, Zaporizhia, Kherson, and Donetsk regions.
-
-During the week of 6 to 12 June, Russian forces attacked at least 14 petrol stations in Ukraine’s front line regions, in a trend that had been intensifying since April. On 9 June alone, Russian drones damaged three different petrol stations in the villages of Korobochkyne, Malynivka, and Pechenihy in the Kharkiv region. In the Chernihiv region, Russian drones attacked petrol stations in Koriukivka and Novhorod-Siversky. They also attacked the cities of Nikopol and Pavlohrad and the villages of Bohdanivka and Hrushivka in the Dnipropetrovsk region, as well as a petrol station in the city of Kherson. In some of these strikes, Russian forces launched small drones at targets 20 to 25 kilometers within the front line. They mostly caused fires to erupt, without inflicting mass casualties. This suggests that the aim of these attacks was to impede civilian access to fuel rather than achieve any military objectives.
-Importantly, Russian attacks mostly targeted liquefied gas units, which are usually the most flammable and prone to exploding part of the station, rather than the station’s forecourt. This increases the impact of even a minor hit. For now, it does not seem that these attacks are leading to a systemic fuel shortage, and undamaged stations continue operating without queues or civilians rushing to buy fuel in panic. The consequences of these attacks are largely local and include some temporary closures of petrol stations, changes to their operating schedules, and potentially heavier traffic at the undamaged stations. To this point, the apparent goal seems to be to make civilians afraid of routine tasks such as refueling their cars, rather than to constrain fuel supply in these areas.
-These strikes fit into the broader pattern of Russia’s targeting of critical civilian infrastructure in Ukraine. Other examples are attacks on water supply systems such as the Pecheniky dam in the Kharkiv region. These strikes only further exacerbate the already dire humanitarian situation of Ukraine’s front line communities, where relentless attacks have wiped out entire cities, displaced much of the population, and left those who remain — often the elderly and people with limited mobility — with limited access to basic services. Whether through spreading fear among the civilian population or actually decreasing their access to fuel, these strikes — alongside the direct civilian targeting along the front line — appear designed to make these areas even less livable.
+11 inter-agency convoys supported, delivering 60 MT of relief items to 12 hard-to-reach locations
