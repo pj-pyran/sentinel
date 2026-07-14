@@ -1,28 +1,35 @@
 Crisis / situation: Sudan
 
---- Report 1: UNICEF (2026-07-08) ---
-Highlights
+--- Report 1: Insecurity Insight (2026-07-14) ---
+Data from Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 09 June 2026 at least 768 incidents of violence against or obstruction of access to health care took place across Sudan:
 
-In May, UNICEF reached over 800,000 children with education, but over 8 million remain out of school with the most severe disruptions concentrated in Darfur and conflict-affected Kordofan states.
-Over one million children under five were screened for acute malnutrition, contributing to 4.5 million children screened since January 2026. Over 24,400 severely acute malnourished children have been admitted this month for lifesaving treatment.
-Multiple disease outbreaks, including cholera, dengue fever, malaria, measles, and hepatitis E, continue to spread amid displacement and poor access to essential services. In response, UNICEF supported 400 women and children with essential primary healthcare, enabled 753,500 people to access safe water, and scaled up hygiene interventions in cholera-affected and high-risk areas.
-Despite ongoing scale-up of lifesaving interventions, a 71 per cent HAC funding gap continues to constrain the delivery of critical services to vulnerable children.
+Over two-thirds of these 768 attacks were attributed to the RSF
+213 health workers were killed, 15 kidnapped and 129 arrested
+Health facilities were damaged 218 times
 
-SITUATION IN NUMBERS
-17,300,000 Children in need of humanitarian assistance
-33,700,000 People in need of humanitarian assistance
-9,139,309 Internally Displaced People
+During the reporting period, 42 incidents affecting health care were reported in Nyala in South Darfur where a cholera outbreak was declared on 23 June 2026, following a period of ongoing insecurity. Health facilities were damaged on 13 occasions and four health workers killed and 30 were arrested. The cumulative impact of these incidents likely weakened the capacity of the local health system before the outbreak, reducing the availability of health infrastructure and personnel needed for clinical care, disease surveillance, and infection prevention and control. Protecting health facilities, health workers and patients is essential to ensuring an effective cholera response and safeguarding civilians' access to health care.
+View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
+Past briefs: 10-23 June; 27 May-09 June; 13-26 May; 29 April-12 May; 15-28 April; 01-14 April; 18-31 March; 04-17 March; 18 February-03 March; 04-17 February; 21 January-03 February; 07-20 January; All
+SHCC chapters (EN): 2025; 2024; 2023; 2022; 2021. (AR): 2025; 2024; 2023; 2022; 2021.
+Help support the protection of health care by sharing this resource. Please copy and paste this link: https://bit.ly/24Jun-07Jul2026SDNHealth
+Documented incidents
+24 June-07 July 2026
+The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care between 24 June-07 July 2026. The incidents below have not been verified through ground investigations. There is a delay in reporting incidents due to our open source verification protocol.
+As reported 07 July 2026: In Al Nahud locality, West Kordofan state, health conditions were reported as &quot;catastrophic&quot; with a near-total collapse of health services due to the absence of medical personnel, a shortage of medicines resulting from disrupted supply chains, and the destruction of most hospital infrastructure. Al Nahud has been controlled by the RSF since 01 May 2025. Source: Atar Network
+Other resources
+Armed drones are an escalating threat in humanitarian settings, with their use expected to grow. Once rare, they are now a defining feature in modern conflicts. Adapting to the growing threat of drones means rethinking security risk measures in high-risk contexts. This practical guide by Insecurity Insight brings together current best practice and is available in Burmese, English, French and Spanish. Individual resources:
 
---- Report 2: UNFPA (2026-07-08) ---
-Drone attacks on El Obeid in North Kordofan have intensified markedly in recent weeks, now occurring on a near-daily basis as part of a sustained campaign to impose siege-like conditions on the city. The strikes have systematically targeted critical infrastructure, including power substations, fuel stations, water facilities and healthcare infrastructure, disrupting essential services and affecting sexual and reproductive health (SRH) and gender-based violence (GBV) service delivery across the city.
-Essential services remain critically fragile in light of repeated strikes, and continued degradation of these systems is expected to further constrain humanitarian access and fresh water availability, disrupt healthcare delivery, increase protection risks for women and girls who require health services, and reduce resilience of the civilian population should the situation on the ground deteriorate further.
-In response to this emerging crisis, UNFPA has expanded its operational presence in the central zone of Sudan by deploying an inter-agency SRH coordinator for the SRH Working Group along with two humanitarian programme coordinators, currently based in White Nile. They are supported by existing SRH and GBV technical staff to preserve life-saving services, strengthen coordination, and facilitate effective service delivery and supply chain management in view of the evolving humanitarian situation.
-In the face of continuously growing humanitarian needs and new emergencies, existing resources are becoming increasingly overstretched, placing the continuity and quality of life-saving SRH and GBV services at risk across the country. Immediate additional funding is required to enable UNFPA to scale up life-saving SRH and GBV interventions in newly affected and high-risk areas while sustaining essential services for women and girls and other vulnerable groups affected by the crisis.
+Outside When a Drone is Spotted: Arabic; Burmese; English; French; Spanish
+Inside a Building During a Drone Attack: Arabic; Burmese; English; French; Spanish
+Responding to Drone Attacks on Aid Work: Burmese; English; French; Spanish
+Traveling in High-Risk Areas: Burmese; English; French; Spanish
 
---- Report 3: ETC (2026-07-08) ---
-The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 25 May 2023 in response to the conflict crisis in Sudan. This Situation Report provides a monthly update on LTC telecoms activities.
-Summary Points
+Adapted for the protection of health services based on case studies on Myanmar in English and Burmese.
+Insecurity Insight. 2026. 24 June-07 July 2026 Attacks on health care in Sudan. Switzerland: Insecurity Insight. https://bit.ly/24Jun-07Jul2026SDNHealth
 
-LTC Telecoms maintained critical connectivity services for approximately 1,700 humanitarian responders across 67 sites in seven hubs despite funding shortfalls, regulatory constraints, and a highly volatile operating environment. Network expansion planning progressed in Darfur and Kordofan, with equipment pre-positioned and partner agreements established to support future service delivery.
-LTC Telecoms continued to adapt to severe telecommunications disruptions across Sudan, including restrictions on satellite services and delays in regulatory approvals. In coordination with the United Nations Department of Safety and Security (UNDSS), HF radio services and refresher trainings were sustained to ensure humanitarian responders could maintain critical communications in constrained operating environments.
-Funding and regulatory challenges continue to limit the scale of telecommunications support. With the USD 5.5 million 2026 LTC Telecoms requirement remaining unfunded, LTC Telecoms is pursuing cost-sharing service models, engaging donors, and advancing community connectivity initiatives in Khartoum, Geneina, and Kordofan to support both humanitarian responders and conflict-affected populations.
+--- Report 2: OCHA (2026-07-12) ---
+HIGHLIGHTS
+
+Violence continues to escalate in North Kordofan, taking a heavy toll on civilians and causing extensive damage to critical civilian infrastructure.
+Explosive ordnance, including unexploded bombs, artillery shells, rockets, and landmines continues to pose a serious threat to families who returned to their homes.
+The situation for children in Sudan remains among the most severe globally, with millions affected by ongoing violence, disrupted essential services and escalating humanitarian needs.
