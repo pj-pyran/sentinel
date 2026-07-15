@@ -1,6 +1,24 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: OCHA (2026-07-14) ---
+--- Report 1: OCHA (2026-07-15) ---
+Situation Report No. 21
+Earthquakes in Venezuela
+14 July 2026
+Time: 9:00 pm
+Highlights
+
+Following the 24 June earthquakes of magnitude 7.2 and 7.5 (18:00 local time), authorities report more than 1,200 aftershocks.
+Official toll: 4,734 people dead and 16,740 injured.
+A total of 6,462 people have been rescued.
+An additional appeal for US$298 million was launched to scale up the earthquake response and address the multisectoral needs of 1.3 million people over the next six months.
+The United Nations system and its partner organizations, in coordination with the Government, are responding with multisectoral actions and will continue to scale up assistance to affected people.
+
+Situation overview
+Venezuela is facing a national emergency following two consecutive high-magnitude earthquakes (7.2 and 7.5) that struck on 24 June (18:00 local time) in the north-central region, with the epicentre located along the San Felipe–Yumare–Montalbán axis (Yaracuy/Carabobo). Authorities report 1,275 aftershocks.
+Twenty days since the earthquakes, authorities report a toll of 4,734 people dead, 16,740 injured and 6,462 rescued since the onset of the emergency. Authorities also indicated that 17,907 people lost their home.
+The Government response remains focused on search operations, the management of transitional camps and assistance to affected populations. The United Nations and its partner organizations, in coordination with the authorities, continue implementing multisectoral response activities and scaling up assistance. United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher announced a US$298 million addendum to the Humanitarian Response Plan aimed at addressing the multisectoral needs of 1.3 million people over the next six months. This is in addition to the 5.5 million people already targeted under the 2026 Humanitarian Response Plan, which requires US$632 million in funding.
+
+--- Report 2: OCHA (2026-07-14) ---
 Situation Report No. 20
 Earthquakes in Venezuela
 13 July 2026
@@ -18,7 +36,7 @@ Venezuela is facing a national emergency following two consecutive high-magnitud
 Nineteen days since the earthquakes, authorities report a toll of 4,561 people dead, 16,740 injured and 6,462 rescued since the onset of the emergency. Authorities also indicated that 17,907 people remain without housing.
 The Government response remains focused on search operations, the management of transitional camps and assistance to affected populations. The United Nations and its partner organizations, in coordination with the authorities, continue implementing multisectoral response activities and scaling up assistance. United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher announced a US$298 million addendum to the Humanitarian Response Plan aimed at addressing the multisectoral needs of 1.3 million people over the next six months. This is in addition to the 5.5 million people already targeted under the 2026 Humanitarian Response Plan, which requires US$632 million in funding.
 
---- Report 2: WFP (2026-07-13) ---
+--- Report 3: WFP (2026-07-13) ---
 Funding
 USD 80 Million required to support families affected by the earthquakes.
 USD 20 Million for regular programmes, including school feeding. Resources and stock from regular programmes have been redirected to the emergency, making donor support critical on both fronts. Situation
@@ -27,7 +45,7 @@ Update
 • WFP data collection across the seven most affected states reveals damage to infrastructure, disruptions to basic services, and severe impacts on livelihoods. Households struggle to access food and essential items, consistently identifying food assistance, safe drinking water, healthcare, and medicines, and hygiene items as their most urgent needs.
 • Commercial activity is gradually recovering, though significant challenges remain, including rising prices, transport constraints, and shortages of essential goods. In specific communities, however, markets are now functioning well enough to reliably supply food to families with purchasing capacity.
 
---- Report 3: IMC (2026-07-13) ---
+--- Report 4: IMC (2026-07-13) ---
 FAST FACTS
 
 On June 24, two earthquakes of magnitude 7.2 and 7.5 hit northern Venezuela consecutively, impacting at least seven states—including the capital city of Caracas and the neighboring city of La Guaira. In response, the government declared a state of emergency.
@@ -45,7 +63,7 @@ International Medical Corps has conducted a detailed assessment of shelters hous
 
 Needs are continuing to increase given the compromised living conditions and increased risk of communicable disease, accumulation of waste in affected communities, and the upcoming rainy season and associated flooding. As the situation on the ground evolves, International Medical Corps is continuing to communicate with local and international organizations involved in the response, to ensure that we continue to provide critically needed services in an effective, coordinated manner.
 
---- Report 4: IOM (2026-07-13) ---
+--- Report 5: IOM (2026-07-13) ---
 The eleventh Situation Report provides an update on IOM’s response to the 24 June earthquakes in the Bolivarian Republic of Venezuela, covering the period from 10 to 12 July.
 Highlights
 Between 10 and 12 July, IOM expanded its response in La Guaira through interventions in transitory camps and affected communities. Operations focused particularly on five priority sites: César Nieves Stadium, José María Vargas Sports Centre, Playa Grande, Tanaguarena Golf Course and Mare Abajo II.
@@ -61,7 +79,7 @@ IOM Planned Response
 IOM will continue strengthening the management and improvement of transitory camps, the organization of distributions, WASH, health and MHPSS services, protection screening and referrals, access to documentation, and measures to prevent sexual exploitation and abuse.
 IOM will also continue population registration and monitoring, multisectoral assessments, mobility tracking and support to the Infrastructure and Temporary Accommodation Working Group to consolidate information and coordinate interventions.
 
---- Report 5: UNICEF (2026-07-13) ---
+--- Report 6: UNICEF (2026-07-13) ---
 Highlights
 
 Two weeks after two powerful earthquakes struck north-central Venezuela on 24 June 2026, official figures report more than 4,490 deaths, 16,740 people injured and 17,907 people left without housing. More than 1,200 aftershocks have been recorded, while damage assessments continue.
@@ -69,7 +87,7 @@ UNICEF is delivering life-saving and protective services in the initial phase of
 UNICEF continues to scale up its humanitarian response, having distributed at least 82 metric tons of emergency supplies. The supplies include emergency health kits, water purification and storage equipment, tents for child-friendly spaces and service delivery points, and early childhood development and recreational kits.
 In addition to the US$137.6 million requested under the 2026 Humanitarian Action for Children (HAC) appeal and aligned with the addendum to the Humanitarian Response Plan 2026, UNICEF requires US$65.7 million to respond to the humanitarian impact of the earthquakes.
 
---- Report 6: OCHA (2026-07-13) ---
+--- Report 7: OCHA (2026-07-13) ---
 Situation Report No. 19
 Earthquakes in Venezuela
 12 July 2026
