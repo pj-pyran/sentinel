@@ -1,6 +1,37 @@
 Crisis / situation: World
 
---- Report 1: Insecurity Insight (2026-07-14) ---
+--- Report 1: Insecurity Insight (2026-07-16) ---
+Between 01 January and 19 June 2026, Insecurity Insight identified at least 158 incidents in which aid workers were killed, injured, kidnapped or arrested (KIKA) in 23 countries and territories.* Across these incidents, 65 aid workers were killed, 123 injured, 46 kidnapped and 83 arrested.
+More than half of all killings (56%) occurred in three countries - South Sudan (15 aid workers killed), followed by the occupied Palestinian territory (oPt) and Sudan (11 each). In contrast, just over half of all reported injuries (51%) were concentrated in a different set of countries: Lebanon and Ukraine (22 injuries each), and Iran (19). The concentration of aid worker killings in the oPt, Sudan, and South Sudan also reflects differences in the types of violence affecting aid workers. In the oPt and Sudan, most killings resulted from drone and artillery strikes, whereas in South Sudan aid workers were predominantly killed in shootings, with one reported fatal airstrike.
+Aid in Danger incidents affecting aid agencies and their staff and impact on programmes
+Incidents of threats and violence affecting aid workers, aid delivery and aid impact supporting aid agencies in risk mitigation and safety and security measures when implementing programmes. The incidents reported are not a complete nor a representative list of all events that affected the provision of aid delivery. Insecurity Insight continues to update data and figures may change. Updated data includes new and historic reports identified in open-sources and verified security incidents submitted by Aid in Danger partner agencies.
+Africa
+Burkina Faso
+30 June 2026: In Ouagadougou city, Kadiogo province, the UN Human Rights Office announced plans to close its office on 30 November 2026, ending its ability to monitor, document, and report on human rights abuses. The announcement comes three months after the military junta suspended the office’s operations over a press release that called on them to uphold civic space. These actions follow a pattern of systematically shutting down media outlets, labour unions and charities who have tried to investigate the military junta. The UN Human Rights Office subsequently sought clarification on the duration of the suspension numerous times but received no response, forcing them to close. Sources: Human Rights Watch and OHCHR
+Malawi
+01 July 2026: In Mwanza town and district, Southern region, a male Malawian Red Cross volunteer providing Restoring Family Links (RFL) service and First Aid was injured by protestors when violence broke out at Joyce Chitsulo Stadium involving repatriated Malawians who had recently returned from South Africa following xenophobic attacks. Source: ICRC
+South Sudan
+29 June 2026: Between Pajut and Payuel villages, Duk county, Jonglei state, a humanitarian convoy belonging to the John Dau Foundation (JDF) was ambushed by armed Murle youth at around 1400hrs while transporting workers returning from a from a joint training organised by the World Food Programme (WFP) and Action Against Hunger. At least 17 people were killed, including five JDF aid workers, killed and nine people were injured, including three JDF aid workers and a driver. Source: Action Against Hunger, Big News Network, OCHA, Radio Tamazuj and UN News
+Sudan
+26 June 2026: Near El Rahad town, North Kordofan state, a humanitarian aid truck on its way to El Obeid carrying 50 tons of flour was almost completely destroyed by RSF forces in the evening, killing a driver and injuring an unspecified number of people. Sources: Drop Site News and Sudan Tribune
+As reported on 30 June 2026: At the Adré border crossing, West Darfur state, an unspecified number of humanitarian organisations suspended operations due to the worsening security conditions and communications disruptions during the ongoing escalation in El Obeid. Source: Mirage News
+30 June 2026: Near Tendelti town, West Darfur state, a UNHCR-contracted truck carrying humanitarian relief supplies en route to Abu Jubaiha in South Kordofan state was hit by a suspected RSF drone strike, destroying approximately 50 metric tonnes of relief items. The driver escaped unharmed, but destroyed the cargo, including 1,000 non-food item kits comprising 3,000 blankets, 2,000 jerry cans, 1,000 kitchen sets, 3,000 sleeping mats, 2,000 plastic sheets, and 1,000 solar lamps. Sources: Arab News, Shourouk News and UNHCR
+Europe
+Ukraine
+24 June 2026: In Kherson city, raion and oblast, two employees of Norwegian People's Aid were killed and four others injured when a demining team was reportedly struck by a Russian Iskander-M missile at around 1250hrs. One employee was killed at the scene, while another later died from injuries sustained in the attack. Following the incident, Norwegian People's Aid suspended all mine-clearance operations in Ukraine to protect its staff. Sources: Norsk Folkehjelp, Le Temps, Ukrainian Red Cross and UN OCHA
+02 July 2026: In an unspecified location, a clearly marked WFP armoured vehicle was struck by an FPV drone while traveling back from Mezhova in Dnipropetrovsk oblast with a WFP truck that had offloaded food boxes for a distribution. Source: WFP
+02 July 2026: In Kyiv city, a Ukrainian Red Cross humanitarian warehouse was destroyed in a Russian attack. Around 320,000 relief items and equipment worth over UAH 79 million were destroyed. A cargo vehicle used to transport humanitarian assistance was also damaged. Source: Ukrainian Red Cross and Ukrainian Red Cross I
+Middle East and North Africa
+Occupied Palestinian Territory
+West Bank
+26 June 2026: In Khirbet al-Ras al-Ahmar village, Tubas governorate, PRCS health workers were prevented from reaching an injured person. Source: Quds News Network
+30 June 2026: On Al-Adl Street, Nablus city and governorate, the headquarters of At-Tadamun Charitable Society was raided by Israeli forces at around 0500hrs, who vandalised the premises and issued a military order closing the building for a year. During the more than two-hour raid, the contents of the offices were damaged and soldiers posted a notice at the entrance declaring the association &quot;illegal&quot; and alleging that it supported terrorism. The closure order prohibited entry to, use of or any activities at the society's headquarters. The society provides assistance to poor families and orphans, as well as health, education and social welfare services. Later the same day, the building was reopened following intervention by the Palestinian General Authority for Civil Affairs. Sources: Quds News Network, Quds News Network I, Quds News Network II, WAFA and WAFA I
+30 June 2026: In Qalandiya Refugee Camp, Jerusalem governorate, the UNRWA Qalandia Vocational Training Centre was stormed by Israeli forces. Sources: Quds News Network and WAFA
+01 July 2026: In Beit Dajan village, Nablus governorate, an aid worker was arrested by Israeli forces after they raided her home and seized her computer. Source: WAFA
+02 July 2026: In Ramallah city and governorate, a 65-year-old Director of Programme Development and Aid at the Health Work Committees, who is also a member of the Coordinating Committee of the Palestinian NGO Network (PNGO), was arrested from her home by Israeli forces. Source: Quds News Network
+06 July 2026: In Al Mawasi area, Khan Yunis governorate, a vehicle near the Palestine Red Crescent Society checkpoint was hit by an Israeli airstrike, killing two people. Source: Quds News Network
+
+--- Report 2: Insecurity Insight (2026-07-14) ---
 Due to the suspension of funding affecting our Protection in Danger project, all related monitoring, data collection, analysis, and reporting activities have been discontinued. As a result, the Protection in Danger Monthly News Brief will no longer be updated or published, and no further incident data will be collected or made available. We thank our contributors and readers for their support and engagement with this work.
 Past editions: April; March; February; January; December; November; October; September; August; July; June; All
 Documented incidents
@@ -256,7 +287,7 @@ Tulkarem Refugee Camp
 19 May 2026: In Tulkarem Refugee Camp, Tulkarem governorate, a young man was shot in the foot and injured while trying to enter the camp by Israeli forces stationed inside the camp at 1345hrs. Sources: Negotiation Affairs Department and WAFA
 Insecurity Insight. 2026. Protection in Danger Monthly News Brief, May 2026. Switzerland: Insecurity Insight. https://bit.ly/May2026Pro
 
---- Report 2: Insecurity Insight (2026-07-14) ---
+--- Report 3: Insecurity Insight (2026-07-14) ---
 This News Brief bears testimony to the brave survivors who speak about sexual violence by state bodies or conflict actors. Most events of violence are never reported. This compilation is neither complete nor representative of the extent or nature of sexual violence in general. It brings together dispersed accounts about survivors from around the world who broke the silence.
 Past editions: May, April; March; February; January; December: November; October; September; August; July; June; May; April; March; February; January; December; November; October; September; August; July; All
 Help support our work by sharing this resource with your networks. Please copy and paste this link: https://bit.ly/Jun2026SV
@@ -314,7 +345,7 @@ Mexico
 Insecurity Insight. 2026. Reporting Sexual Violence Monthly News Brief, June 2026. Switzerland: Insecurity Insight. https://bit.ly/Jun2026SV
 1 Armed Conflict Location &amp; Event Data Project (ACLED) database attribution policy. Accessed 07 July 2026.
 
---- Report 3: AGRA (2026-07-14) ---
+--- Report 4: AGRA (2026-07-14) ---
 Global Market Updates
 
 In June 2026, global food commodity prices showed mixed trends, with the FAO Food Price Index averaging 130.3 points, down 0.3% from May but 1.7% higher than a year earlier, as declines in cereals, dairy, and sugar prices, driven by strong supplies and improved production prospects, offset gains in vegetable oils and meat. Vegetable oil prices increased due to tighter palm oil supplies and strong biofuel demand, while meat prices reached a record high, supported by higher poultry and bovine meat prices. Similarly, the International Grain Council’s Grains and Oilseeds Index fell 1.4% month-on-month to 224.2 but remained 5.8% above its year-earlier level, reflecting short-term market weakness amid generally stronger annual prices. Rice prices rose the most, both monthly and annually, while barley recorded the largest monthly decline. Wheat and maize prices also eased during the month but stayed above year-ago levels, and soybeans posted the strongest annual increase among oilseeds despite a slight monthly dip.
