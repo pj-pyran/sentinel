@@ -1,6 +1,27 @@
 Crisis / situation: Zimbabwe
 
---- Report 1: IFRC (2026-07-14) ---
+--- Report 1: IMC (2026-07-15) ---
+FAST FACTS
+
+Escalating anti-migrant sentiments and localized violence in South Africa since April have triggered a large-scale return of Zimbabwean migrants.
+The government on July 14 said that almost 100,000 Zimbabweans had returned so far.
+More than 20,000 Zimbabweans are reportedly awaiting transportation support at Zimbabwean diplomatic missions and assembly points across South Africa. Returns are likely to continue in the coming weeks.
+Women and children account for approximately 70% of returnees, highlighting significant protection and reintegration concerns.
+
+OUR RESPONSE
+
+We are coordinating with government and humanitarian partners to identify and address response gaps.
+We are leading the response around water, sanitation and hygiene needs at Beitbridge Reception Center.
+As part of these efforts, we have so far provided safe drinking water to 15,792 returnees and supplies for approximately 400 bacteriological water-quality tests.
+We have installed two 5,000-liter water tanks, four water points, a storage platform and a new pipeline. We also have rehabilitated two ablution blocks and installed five mobile toilets.
+We have installed two high-capacity floodlights to improve site safety and security.
+
+International Medical Corps is closely monitoring the evolving situation and coordinating with government authorities, as well as with UNICEF, UN agencies and other humanitarian partners to support a coordinated response to the influx of returning Zimbabwean migrants. With UNICEF support, International Medical Corps is leading key WASH interventions at Beitbridge Reception Center. We have already begun providing safe drinking water through water trucking and water-storage infrastructure, and have procured water-quality testing reagents to support routine monitoring and to ensure safe drinking water. In addition, we have completed assessments to identify critical sanitation gaps and priority rehabilitation needs.
+We have so far provided safe drinking water to 15,792 returnees and supplies for approximately 400 bacteriological water-quality tests; installed two 5,000-liter water tanks, four water points, a storage platform and a new pipeline; rehabilitated two ablution blocks and installed five mobile toilets; and installed two high-capacity floodlights to improve site safety and security.
+International Medical Corps will continue to expand its WASH response by rehabilitating existing ablution facilities, installing additional mobile toilets and ablution units, strengthening handwashing and waste-management systems, and providing cleaning materials, disinfectants and other essential commodities to support hygiene promotion and infection-prevention and control measures.
+The humanitarian situation remains fluid, with additional returns from South Africa expected in the coming weeks. Continued pressure on reception capacity, health services, WASH infrastructure and transportation systems is likely unless additional resources are mobilized. Immediate priorities include expanding sanitation infrastructure, strengthening health services, addressing protection risks and supporting the safe transportation and reintegration of returnees. International Medical Corps will continue to coordinate closely with the DCP, IOM, UNICEF and other humanitarian partners to monitor emerging needs and support a coordinated humanitarian response.
+
+--- Report 2: IFRC (2026-07-14) ---
 Description of the Event
 Date when the trigger was met
 25-06-2026
@@ -8,10 +29,3 @@ What happened, where and when?
 The ongoing situation involves the large-scale return of Zimbabwean nationals from South Africa following a sharp escalation of localised violence targeting foreign nationals between March and June 2026. The violence, concentrated in major urban centres including Johannesburg, Durban, Cape Town, and parts of KwaZulu-Natal and the Eastern Cape (including Port Elizabeth), resulted in intimidation, displacement, loss of access to basic services, and heightened insecurity among migrant communities, prompting large-scale voluntary and assisted return movements to Zimbabwe. According to the Department of Immigration, a total of over 40,198 Zimbabwean returnees has self-repatriated since 28 May 2026, including 4,795 migrants who have been assisted through the State-assisted repatriation program (as of 27 June 2026).
 The primary entry point and reception area is Beitbridge Border Post in Matabeleland South Province, Zimbabwe, where returnees are processed at the Beitbridge Reception Centre before onward movement to their areas of origin across the country, including Harare, Bulawayo, Manicaland, Masvingo, Midlands, Mashonaland East, Mashonaland West and Mashonaland Central Provinces.
 The violence escalated between March and June 2026, with return movements beginning in late May 2026 and continuing to date. The Government of Zimbabwe has convened a series of coordination meetings at national and district levels to manage and coordinate assistance for returning migrants, including an interministerial meeting held on 27 May 2026, during which the Department of Immigration reported the consolidated statistics on return movements. Although returns have been ongoing over several months, the current phase of sustained high-volume arrivals, combined with winter conditions, makes this the appropriate time for DREF activation, as humanitarian needs have intensified due to prolonged waiting times, overnight stays at the reception centre, and exposure to low temperatures.
-
---- Report 2: WFP (2026-07-13) ---
-SITUATION OVERVIEW
-• Zimbabwe is closely monitoring forecasts from the World Meteorological Organization (WMO) and the National Oceanic and Atmospheric Administration (NOAA), which indicate the potential for El Niño conditions during the 2026/2027 agricultural season. While more localised and detailed forecasts from the National Climate Outlook Forum are expected in August, the Government of Zimbabwe, supported by WFP and partners, is enhancing preparedness through anticipatory action, climate risk monitoring, early warning systems and contingency planning to safeguard food security, protect livelihoods and reduce the impact of potential climate-related shocks on vulnerable communities.
-• Zimbabwe continues to face intersecting climatic and structural pressures that are driving food insecurity and livelihood stress. Recurrent climate shocks have disrupted agricultural production, increasing vulnerability in both rural and urban areas.
-• Through its 2022–2026 Country Strategic Plan,
-WFP Zimbabwe is delivering life‑saving food and nutrition assistance while scaling up resilience‑building efforts and strengthening early warning and social protection systems. At the same time, WFP is investing in government capacity to lead and ultimately assume full ownership of programme delivery, while partnering with the private sector to accelerate progress towards Zero Hunger.
