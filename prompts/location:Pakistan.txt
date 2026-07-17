@@ -1,30 +1,12 @@
 Crisis / situation: Pakistan
 
---- Report 1: IFRC (2026-07-02) ---
-Description
-The 2026 monsoon season has commenced across Pakistan, with the first spell of seasonal rains affecting several parts of the country and increasing the risk of flash floods, riverine flooding, landslides, and other weather-related hazards, particularly in vulnerable and mountainous areas. Rainfall continues across different parts of Pakistan, and according to the Pakistan Meteorological Department (PMD), widespread monsoon activity is expected to persist until 6 July 2026, with the possibility of heavy rainfall, flash flooding, urban flooding, and landslides in vulnerable areas.
-Between 28 June and 1 July 2026, monsoon-related incidents were reported in Gilgit-Baltistan and Lower Chitral, Khyber Pakhtunkhwa. In Diamer District, a flash flood damaged 5–6 houses, washed away one vehicle, and temporarily disrupted road access for around 400 households, while in Ghizer District, rising water levels in River Ghizer caused localized flooding affecting several households. In Lower Chitral, flash flooding damaged residential houses, standing crops, and orchards; and detailed assessments are underway. The Pakistan Red Crescent Society (PRCS), through its National Headquarters and Provincial and District Branches, continues to closely monitor the evolving situation in coordination with government authorities. Trained response teams, first aid volunteers, and pre-positioned relief stocks remain on standby for immediate deployment if required.
-Request For Assistance
-Government Requests International Assistance: No
-NS Requests International Assistance: No
-Information Bulletin Published
-No
-Actions taken by National Society
-General
-Other
-Summary
-PRCS National Headquarters continues to maintain close coordination with all Provincial Branches, Provincial and District Authorities to ensure continuous monitoring of the evolving monsoon situation. The current response is being managed by the respective district authorities, while PRCS remains operationally ready to provide humanitarian assistance if requested. Trained Disaster Response Teams, Emergency Response Teams and First Aid volunteers are available in the affected districts and remain on standby for deployment. Community-based response resources, including CDRT and First Aid kits, can be mobilized immediately as required. PRCS also continues to closely monitor weather forecasts and operational developments to ensure timely preparedness and response.
-Actions taken by Federation
-General
-Other
-Summary
-The IFRC remains in close coordination with the National Society and is available to provide technical support, as required, to strengthen preparedness and response efforts.
-Actions taken by others
-The government immediately activated emergency response mechanisms following the incidents. Damage assessments are underway in the affected areas, heavy machinery has been placed on standby to support response operations, and emergency relief assistance has been provided to the affected households in Gilgit-Baltistan.
+--- Report 1: IOM (2026-07-16) ---
+In response to the Ministry of Interior's (MoI) decision of 26 September 2023 to enact an “Illegal Foreigners' Repatriation Plan”, UNHCR, the UN Refugee Agency and IOM, the UN Migration Agency, have collated their data on the arrest, detention, and deportation of Proof of Registration (PoR) holders, Afghan Citizen Card (ACC) holders, and undocumented Afghan nationals as well as on the outflows of Afghan nationals at the Torkham, Ghulam Khan, Chaman, Badini and Bahramcha border crossing points, to better understand the protection environment and movements of Afghan nationals returning to Afghanistan from Pakistan.
+In 2025, the Government of Pakistan (GoP) issued several directives impacting Afghan nationals. In January, the GoP announced that Afghan nationals should relocate from Islamabad Capital Territory (ICT) and Rawalpindi, or else face deportation. In April, further announcements indicated the implementation of the second phase of the “IFRP”, targeting ACC holders, in addition to undocumented Afghans. In July, the GoP issued a Statutory Regulation Order (SRO) directing the repatriation/deportation of PoR card holders following the expiry of PoR card validity on 30 June. The GoP later indicated a deadline of 1 September for PoR holders to leave Pakistan, before the start of the repatriation/deportation process. UNHCR issued a press briefing expressing concern regarding the decision and urging the GoP to exempt Afghans with international protection needs, as well as those with particular circumstances or vulnerabilities, from involuntary return.
 
---- Report 2: WFP (2026-07-01) ---
-For the week ending on 18 June the national average prices of staple foods (wheat flour and edible oils) prices remained slightly higher compared to their prices on 26 February**,** pre-Middle East crisis.
-Compared to the week ended on 11 June, wheat flour prices decreased marginally likely due to improved supply and slightly lower price of petrol reducing transport costs.
-The cost of the basic food basket stands at PKR 15,758 per month (USD 57), equivalent to PKR 3,940 per week (USD 14) nationwide, excluding lower cost items such as vegetables or spices.
-Fuel prices further decreased during the reporting week, with petrol lower by 1.1 percent while diesel (HSD) price decreased by 0.5 percent. Despite this price reduction, fuel prices remain significantly high compared to pre-crisis levels, with petrol 45 percent higher and HSD 37 percent higher.
-Remittances during the month of May reached record high at USD 4.25 billion, driven by seasonal and Eid-related transfers.
+--- Report 2: WFP (2026-07-16) ---
+For the week ending on 9 July the national average prices of staple foods (wheat flour and edible oils) prices remained higher compared to their prices on 26 February, pre-Middle East crisis.
+Compared to the week ended on 9 July, wheat flour prices increased slightly, likely due to reduced market supply and higher transport costs associated with increased fuel prices.
+The cost of the basic food basket stands at PKR 16,474 per month (USD 59), equivalent to PKR 4,119 per week (USD 15) nationwide, excluding lower cost items such as vegetables or spices.
+Fuel prices decreased slightly during the reporting period, with both petrol and diesel price decreased by 1 percent. Despite this price reduction, fuel prices remain significantly high compared to pre-crisis levels, with petrol 15 percent higher and HSD 12 percent higher.
+Pakistan received USD 3.5 billion in remittances in June 2026, up 2 percent year-on-year but down 18.3 percent from the pre-Eid peak in May 2026.
