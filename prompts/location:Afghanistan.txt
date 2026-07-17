@@ -1,6 +1,23 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-07-15) ---
+--- Report 1: WFP (2026-07-17) ---
+Key Highlights
+Exchange Rate and Trade Dynamics:
+• Exchange Rate: During the second week of July, the Afghani remained broadly stable at AFN 65.7/USD. However, the Afghani remained 5% stronger than last year and 13% stronger than the three-year average, continuing to help moderate imported inflation despite ongoing external market pressures.
+• Trade: Market supply remained generally adequate, supported by domestic harvests and continued regional trade. However, Afghanistan's heavy reliance on imported goods continues to expose domestic markets to fluctuations in the exchange rate, fuel prices, and regional trade conditions, contributing to price volatility and maintaining the country's vulnerability to external shocks.
+Food Items:
+• National average food prices remained relatively stable during the second week of July, with only modest weekly movements across most staple commodities.
+• Wheat and Flour: Wheat grain prices declined slightly (-0.7%) during the week, while both high-price and low-price wheat flour remained broadly stable. Compared to last year, wheat grain (+12%), high-price flour (+7%), and lowprice flour (+11%) remained above their year-ago levels, reflecting sustained production and transportation costs.
+• Rice: Both rice categories declined slightly during the week. Nevertheless, high-price and low-price rice remained 26% and 33% higher than last year, respectively, and above their three-year average levels.
+• Other Staples: Cooking oil increased by 1.4% during the week, while pulses (-0.2%) and salt (-0.1%) declined marginally. Sugar increased by 0.8%. Compared to last year, cooking oil (+3%), sugar (+10%), and salt (+8%) remained higher, whereas pulse prices were 13% lower than a year earlier. • Vegetables: Vegetable prices showed mixed seasonal movements. Potato prices increased by 3.3%, while tomato and onion prices declined by 1.9% and 7.1%, respectively. Compared to last year, tomato (+34%) and potato (+51%) prices remained significantly higher, while onion prices were 10% lower, reflecting improved seasonal availability.
+Non-Food Items:
+• Fuel: Diesel prices continued its upward momentum and increased by 5.3% during the week, reflecting higher International oil prices and continued supply constraints from Russia. Compared to last year and the three-year average, diesel prices remained 15% and 18% higher, respectively.
+• Fertilizers: Fertilizer prices remained largely stable during the week, with DAP declining (-0.3%) and Urea increasing slightly (+0.1%). Compared to last year, DAP (+17%) and Urea (+49%) remained considerably higher, while improved seed (-2%) and animal feed (-7%) remained below last year's levels.
+• Livestock: The price of a one-year-old live female sheep declined marginally (-1.0%) during the week and remained 6% below last year's level and 3% below the three-year average, contributing to weaker pastoralist ToT.
+Labour Market:
+• Labour market conditions remained weak. The unskilled labour wage declined marginally (-0.8%), while labour availability improved to 2.0 days/week (+3.0%). Despite this improvement, labour availability remained 15% below both last year and the three-year average, indicating continued pressure on household income opportunities.
+
+--- Report 2: WFP (2026-07-15) ---
 KEY HIGHLIGHTS
 • After a prolonged pipeline break, more than 1,600 mt of the approximately 6,000 mt of nutrition commodities expected in the country have arrived, enabling WFP to reach 80,000 children and 25,000 mothers.
 • Since early July, funding shortfalls have forced WFP to suspend famine-prevention programmes in hotspot areas, putting 1.5 million people at risk of life-threatening hunger.
@@ -11,7 +28,7 @@ SITUATION OVERVIEW
 • Since early July, WFP's famine-prevention programmes in hotspot areas have been suspended, putting 1.5 million people at heightened risk of life-threatening hunger. Overall, WFP is now forced to turn away 13 million acutely hungry Afghans.
 • In addition, funding constraints have compelled WFP to suspend cash assistance for returnees from Iran and Pakistan at all border crossings, leaving vulnerable families without critical support upon arrival.
 
---- Report 2: WHO (2026-07-15) ---
+--- Report 3: WHO (2026-07-15) ---
 Wild poliovirus type 1 (WPV1)
 Cases: Four new WPV1 positive cases in 2026 from Afghanistan reported this week. The new WPV1 cases are: 2 from Nangarhar province (Behsud and Rodat districts), 1 each from Hilmand province (Musaqalah district) and Hirat province (Shindand district) noting that the Hirat/Shindand case was identified by positive contacts. In total, 52 WPV1-positive cases have been confirmed in 2025 (21 from Afghanistan and 31 from Pakistan in 2025) and 14 WPV1 cases reported in 2026 (11 from Afghanistan and 3 from Pakistan).
 Environment: Thirteen new WPV1 positive environmental samples in 2026 were reported this week, 12 from Afghanistan and 1 from Pakistan. The new WPV1 environmental samples of Afghanistan are: 5 from Kandahar province (all from Kandahar district), 4 from Nangarhar province (2 from Behsud, and 1 each from Batikot and Jalalabad districts), 2 from Kabul province (both from Kabul district), and 1 from Hilmand province (Lashkargah district), with dates of collection on 20th and 24th May 2026, while the new WP1 environmental sample from Pakistan was reported from Khyber Pakhtunkhwa province (Peshawar district) with collection date on 11th June 2026. In total, 745 WPV1-positive environmental samples have been reported in 2025 (94 from Afghanistan and 651 from Pakistan) and 146 WPV1-positive environmental samples reported in 2026 (46 from Afghanistan and 100 from Pakistan).
