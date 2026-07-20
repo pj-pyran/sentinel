@@ -1,78 +1,81 @@
 Crisis / situation: Viet Nam
 
---- Report 1: IFRC (2026-07-07) ---
+--- Report 1: IFRC (2026-07-20) ---
 Description
-Following landfall on 5 July 2026, Typhoon No. 1 (Maysak) weakened into a tropical depression but continues to bring strong winds, heavy rainfall and localised flooding across northeastern Viet Nam, particularly in Quảng Ninh Province. Authorities remain on high alert for secondary hazards, including flash floods and landslides, as heavy rainfall is expected to continue.
-The strong winds caused significant damage across Móng Cái 1, Móng Cái 2 and Móng Cái 3 wards. Numerous trees were uprooted, while corrugated metal roofs were blown off buildings, scattering debris across roads and disrupting transport. Along Hòa Bình Boulevard and around Móng Cái International Border Gate, roofing materials from nearby buildings were blown into surrounding areas. Rising water levels in the Ka Long River also caused floodwaters carrying mud and sediment to overflow onto the riverside pedestrian walkway.
-As of 5 July 2026, no widespread casualties have been officially reported. In Quảng Ninh Province, all three crew members of a fishing vessel that sank off Mũi Ngọc were successfully rescued by local authorities. Móng Cái City experienced disruptions to transport and electricity due to fallen trees, damaged roofs and billboards, while rough sea conditions continued to affect fishing and maritime activities. Authorities continue to monitor communities in flood- and landslide-prone areas and advise residents to remain vigilant until weather conditions improve.
+Within minutes on the morning of 17 July, flash floods carrying large volumes of water, mud and debris swept across National Highway 32, inundating homes and posing an immediate threat to lives and property. The floods claimed five lives, while three people remain missing beneath mud and debris. Eight people were injured, and dozens of households were evacuated from high-risk areas as an emergency precaution.
+The floods affected 53 houses, including 20 houses that were completely washed away. Approximately 300 hectares of rice fields, crops and aquaculture areas were buried or swept away. Several transport routes, irrigation facilities, schools and power systems were also damaged.
+Although floodwaters have now receded, widespread destruction remains, with many affected households continuing to face the impacts of the disaster.
+Immediately following the disaster, local authorities activated emergency response measures. Provincial and commune-level Civil Defence Command Committees were deployed to affected areas to coordinate search and rescue operations, restrict access to dangerous roads, and evacuate people from areas at risk of landslides. The province mobilised nearly 1,000 personnel, along with multiple vehicles and equipment, to support disaster response and recovery efforts.
+The flash floods were triggered by persistent heavy to very heavy rainfall across the northern mountainous region, where cumulative rainfall over the past three days generally ranged from 150–300 mm. The highest accumulations were recorded at Chế Tạo (Lào Cai) with 474 mm, Nậm Păm (Sơn La) with 350 mm, Nà Tấu (Điện Biên) with 277 mm, and Pa Thắng (Lai Châu) with 250 mm.
+Further rainfall is expected to hamper response and recovery efforts. On 20 July, moderate to heavy rain and thunderstorms are forecast across the northern mountainous region and Quảng Ninh Province, with widespread rainfall of 20–50 mm and isolated areas expected to receive more than 100 mm. Short-duration intense rainfall exceeding 70 mm within three hours is possible. Other parts of northern Viet Nam are forecast to experience scattered showers and thunderstorms, with rainfall of 10–20 mm and isolated areas receiving more than 50 mm.
+According to reports from Lào Cai, Lai Châu, Điện Biên and Sơn La provinces, heavy rainfall, floods, inundation, flash floods and landslides from 15–19 July 2026 caused the following impacts:
+Human impact: Five people were killed, three remain missing, and 10 people were injured, all reported in Lai Châu Province.
+Housing: A total of 36 houses collapsed (Lai Châu: 24; Lào Cai: 1; Sơn La: 11); 391 houses were damaged (Lai Châu: 35; Lào Cai: 305; Điện Biên: 27; Sơn La: 24); 140 houses required emergency relocation (Lào Cai: 71; Lai Châu: 26; Điện Biên: 3; Sơn La: 40); and 194 houses were affected by flooding and landslides (Lai Châu: 51; Lào Cai: 65; Điện Biên: 20; Sơn La: 58).
+Agriculture: A total of 707 hectares of rice and crops were affected (Lào Cai: 76.45 ha; Lai Châu: 409.51 ha; Điện Biên: 27.24 ha; Sơn La: 193.80 ha).
+Livestock: Approximately 250 livestock and poultry were killed or washed away.
+Transport infrastructure: Landslides affected multiple sections of roads, including national highways (QL4H, QL12, QL32 and QL279) and provincial roads in Lai Châu (ĐT127, ĐT128, ĐT129, ĐT133, ĐT133B, ĐT134, ĐT135, ĐT138 and ĐT138C); QL279, QL32 and ĐT175B in Lào Cai; 32 locations along ĐT109 in Sơn La; and QL12, QL279 and ĐT143 in Điện Biên, as well as various inter-village and inter-commune roads.
+As of the latest update, traffic remains disrupted at Km139+300 on National Highway 279. Vehicles are currently being diverted through the new bypass section of QL279 in Lào Cai.
+The total estimated economic loss is approximately VND 362.46 billion (Lai Châu: VND 190 billion; Lào Cai: VND 45.16 billion; Sơn La: VND 125 billion; Điện Biên: VND 2.3 billion).
 Request For Assistance
-Government Requests International Assistance: No
-NS Requests International Assistance: No
+Government Requests International Assistance
+No
+NS Requests International Assistance
+No
 Information Bulletin Published
 No
+Actions taken by Federation
+General
+Damage/Needs assessment
+Summary
+IFRC is closely monitoring the evolving situation and maintaining close coordination with the Vietnam Red Cross Society (VNRC) to assess emerging needs and determine potential support as required.
 Actions taken by National Society
 General
 Damage/Needs assessment
+Search &amp; Rescue
+Water &amp; Sanitation
+Food aid
+Relief/Supply distribution
 Other
+CTP/Basic needs
 Summary
-VNRC continues to closely monitor the impacts of Typhoon No. 1 through its disaster management system at national and provincial levels. Provincial Red Cross chapters, particularly in Quảng Ninh Province, are coordinating closely with local authorities to monitor the situation and conduct rapid damage and needs assessments. Red Cross volunteers have been mobilised to disseminate early warning messages, support affected communities where required, and provide field information to inform ongoing assessments and response planning.
-Actions taken by Federation
-Summary
-IFRC continues to closely monitor the evolving situation in coordination with VNRC and remains ready to provide technical and operational support, if required.
+The Lai Châu Red Cross Chapter, in coordination with local authorities and the Vietnam Fatherland Front, provided initial financial assistance to affected families, including VND 15 million (CHF 470) per deceased person and VND 1 million (CHF 31) per injured person. To date, eight injured people have received support, with a total assistance value of VND 8 million (CHF 250). The Red Cross continues to monitor the situation and coordinate further support based on identified needs.
 Actions taken by others
-Provincial authorities in Quảng Ninh have deployed emergency response teams to clear roads, restore essential services and conduct rapid damage assessments following the storm. Local leaders carried out field inspections in Móng Cái and directed recovery operations, prioritising the restoration of transport, electricity, communications and support to affected households. Search and rescue teams successfully rescued all three fishermen from the vessel that sank near Mũi Ngọc. National and provincial authorities continue implementing the &quot;four-on-the-spot&quot; disaster response principle while monitoring ongoing risks of heavy rainfall, flash floods, landslides and localised flooding.
+In addition to search and rescue efforts for missing persons, response forces have been supporting local authorities in evacuating people and their belongings from hazardous areas, setting up temporary shelters, transporting essential supplies, and assisting affected communities to stabilise their living conditions amid the ongoing complex flood situation. On the morning of 19 July, a delegation from the Ministry of Agriculture and Environment visited and inspected areas affected by the recent floods in Mường Than. The delegation met with affected communities and response personnel involved in disaster recovery efforts. Deputy Minister acknowledged the proactive efforts of local authorities and response forces in mobilising resources for search, rescue and relief operations. He also requested local authorities to continue prioritising support for families who lost loved ones, accelerate the search for missing persons, ensure affected households have access to basic living conditions, and urgently restore damaged transport infrastructure, electricity and water supply. Authorities were also requested to conduct thorough assessments of affected areas and develop relocation plans for households whose homes were destroyed.
 
---- Report 2: AHA Centre (2026-07-06) ---
-OVERVIEW: According to the Viet Nam Disaster and Dyke Management Authority (VDDMA) and the National Centre for Hydro-Meteorological Forecasting (NCHMF), on the evening of 4 July 2026, Tropical Cyclone MAYSAK made landfall over northern Quang Ninh. Tropical Cyclone MAYSAK brought Level 8-9 winds with gusts up to Level 12, rough seas, and heavy rainfall. As of 0600H today, Tropical Cyclone MAYSAK has weakened as it moved inland over southern Guangxi Province, China (NCHMF).
-MOVEMENT &amp; INTENSITY: The strongest wind near the centre of the storm is Level 8 (62-74km/h), gusts of Level 10, moving north-northeast at a speed of about 5-10km/h. (NCHMF)
-**FORECAST:**According to NCHMF:
-In the next 12 hours, TC MAYSAK is forecast to move north-northeast at approximately 10km/h as it continues to weaken into a tropical depression then to a low pressure area outside of Viet Nam.
-HAZARDS: According to NCHMF , as of 0800H on 5 July 2026:
-
-Despite weakening, the storm’s circulation continues to affect northern coastal Viet Nam. Observed conditions include Level 9 winds with gusts to Level 11 in Bach Long Vi, Level 8 winds with gusts to Level 10 and 2.25 m waves in Co To, Level 9 winds with gusts to Level 12 in Mong Cai, and Level 8 winds in Cua Ong and Quang Ha. Heavy rainfall was also recorded in Quang Ninh, including 247.6 mm in Mong Cai.
-Through 5 July, hazardous conditions are expected to persist over the northern Gulf of Tonkin and Quang Ninh coast, with Level 6–7 winds, gusts up to Level 9–10, rough seas of 2–3 m, and widespread heavy rainfall. Northeastern Viet Nam is forecast to receive 100–200 mm of rain, with isolated totals exceeding 300 mm, increasing the risk of urban flooding, flash floods, and landslides.
-
-INITIAL IMPACTS: According to VDDMA , as of 0600H on 5 July 2026, TC MAYSAK has caused localised flooding, infrastructure damage, and power outages in Quang Ninh Province, particularly in Mong Cai, although no casualties have been reported as of this report. Details of reported impacts are as follows:
-
-No casualties reported; 21 people (8 households) were evacuated from flooded areas in Mong Cai I
-30 houses sustained roof damage
-Approximately 600 ha of aquaculture were inundated
-Over 850 trees were uprooted or damaged
-10 streetlight poles and several vehicles were damaged.
-Power outages affected the entirety of Mong Cai I from 1900H UTC+7 on 4 July 2026
-
-ANTICIPATED RISKS: The circulation of TC MAYSAK, combined with a moderate to strong southwest monsoon, is forecast to bring moderate to heavy rainfall, with isolated very heavy rain (&gt;140 mm/24 h) across parts of Lao PDR and northeastern Cambodia over the coming days (MRC).
-PREPAREDNESS AND RESPONSE:
-
-The Government of Viet Nam has implemented precautionary measures ahead of TC MAYSAK, focusing on maritime safety, protection of vulnerable infrastructure, and preparedness for heavy rainfall.
-Deputy Minister Nguyen Hoang Hiep instructed all agencies and local authorities to maintain a high level of preparedness, highlighting the elevated risk of heavy rainfall, flash floods, and landslides and stressing that there should be no complacency despite the storm’s expected weakening.
-According to VDDMA, over 56.2K vessels carrying nearly 250K people were guided to safe shelter, while Quang Ninh, Ninh Binh, and Hung Yen imposed sea travel bans. Authorities also implemented safety measures for vulnerable aquaculture areas and critical dike sections.
-Ministries and branches have issued official dispatches directing their subordinate units to proactively respond to storms and tropical depressions.
-VDDMA, NCHMF, and relevant authorities continue to closely monitor the situation and issue regular advisories.
-
-The AHA Centre will continue to monitor for further developments, in coordination with VDDMA Viet Nam and other potentially affected ASEAN Member States, and issue necessary updates..
-DATA SOURCES
-ASEAN Disaster Monitoring &amp; Response System (DMRS), ASEAN Disaster Information Network (ADINet); ASEAN Specialised Meteorological Centre (ASMC);
-Viet Nam: VDDMA, NHCMF, VNDMS
-Verified news media agencies
-
---- Report 3: IFRC (2026-07-06) ---
+--- Report 2: IFRC (2026-07-20) ---
 Description
-According to local goverment, a tropical depression over the East Sea intensified into Typhoon No. 1 (Maysak) on 2 July 2026. As of 08:00 (local time) on 3 July, the typhoon was located approximately 110 km south of Hainan Island (China), moving westwards at around 5 km/h with maximum sustained winds of 62–74 km/h (Force 8) and gusts up to Force 10. The storm is forecast to strengthen as it approaches the Gulf of Tonkin, bringing strong winds, rough seas and heavy rainfall to northern Viet Nam.
-Ahead of the storm, prolonged heavy rainfall from 29 June to 2 July caused localised flooding and landslides in Lao Cai Province, disrupting transport on several national highways. Around 34 households remain at risk of landslides, while damage to transport infrastructure is estimated at VND 1.7 billion (approximately USD 66,000). Additional rainfall is forecast, with authorities warning of an increased risk of flash floods and landslides due to saturated soil conditions.
-As of 3 July, no deaths, injuries or significant damage have been reported. Authorities continue to monitor the situation, particularly the risk of flash floods, landslides, localised flooding and hazardous sea conditions.
+Heavy rainfall from 15–17 July triggered flash floods and landslides across Lai Chau Province, with Muong Than Commune being the worst affected. In response to the severity of the disaster, the Lai Chau Provincial People's Committee declared a state of disaster emergency for Muong Than on 17 July (Decision No. 1501/QĐ-UBND).
+Initial reports indicate that flash floods destroyed and buried houses in several villages, including Doi 9, Doi 11, Sap Ngua, Che Bo and Chit. National Highways 32 and 279, together with several local roads, have been cut off by landslides, significantly disrupting access and emergency response. Casualty figures continue to be updated as search and rescue operations progress. As of the morning of 18 July, authorities reported at least four fatalities, four people missing and seven injured, while approximately 80 households (358 people) have been evacuated from high-risk areas.
+According to the initial rapid reports from Lao Cai, Lai Chau, Dien Bien and Son La provinces, heavy rainfall, flash floods and landslides occurring between 15 and 17 July 2026 caused the following impacts:
+
+Human impact: Four person was killed, four people remain missing/unaccounted for, and seven people were injured (all in Lai Chau Province).
+Housing: A total of 20 houses were destroyed (17 in Lai Chau and 3 in Son La); 113 houses were damaged (88 in Lao Cai, 2 in Lai Chau, 13 in Dien Bien and 10 in Son La); 42 households were urgently evacuated (26 in Lai Chau and 16 in Son La); and 46 houses were affected by flooding and landslides (29 in Lai Chau and 17 in Dien Bien).
+Agriculture: Approximately 238.82 hectares of rice and other crops were damaged, including 65.51 ha in Lao Cai, 101.44 ha in Lai Chau, 31.67 ha in Dien Bien, and 40.2 ha in Son La.
+Livestock: 25 livestock animals and 45 poultry were lost.
+Transport: Multiple landslides caused significant disruption to transportation. In Lai Chau, several sections of National Highways 4H, 12, 32 and 279, as well as Provincial Roads 127, 128, 129, 133, 133B, 134 and 135, were blocked. In Son La, 32 landslide sites were recorded along Provincial Road 109. In Dien Bien, disruptions occurred on National Highways 12 and 279 and Provincial Road 143, while numerous commune and village roads across the affected provinces were also blocked.
+Power supply: In Lai Chau Province, approximately 1,373 electricity customers remained without power.
+
+Total estimated losses to housing, crops, vegetation, roads and power lines amount to more than VNĐ120 billion (US$4.6 million).
 Request For Assistance
 Government Requests International Assistance: No
 NS Requests International Assistance: No
 Information Bulletin Published
 No
-Actions taken by Federation
-Summary
-IFRC is closely monitoring the evolving situation in coordination with VNRC and stands ready to provide technical and operational support, if required.
 Actions taken by National Society
 General
-Other
+Search &amp; Rescue
+Water &amp; Sanitation
+Food aid
+Health
+Evacuation
+First Aid
+Relief/Supply distribution
 Summary
-VNRC Headquarters is closely monitoring the evolving situation in coordination with the Viet Nam Disaster and Dyke Management Authority (VDDMA), provincial Red Cross chapters and local authorities. Provincial chapters in potentially affected areas have been requested to monitor the situation, maintain communication with local authorities, verify potential impacts and ensure readiness to support emergency response if required. VNRC National Disaster Response Teams remain on standby, and further updates will be provided as additional information becomes available.
+The Viet Nam Red Cross (VNRC) has mobilized its provincial chapter, district branches and volunteers to support the ongoing emergency response in Lai Chau Province. In coordination with local authorities, Red Cross volunteers are providing logistical support by preparing and delivering food, drinking water and refreshments for military personnel and emergency responders conducting search and rescue operations. Simultaneously, the VNRC is carrying out rapid assessments of humanitarian needs and maintaining close coordination with local authorities to determine appropriate assistance for affected communities as the situation evolves.
+Actions taken by Federation
+General
+Damage/Needs assessment
+Summary
+The IFRC continues to monitor the evolving situation in close coordination with the VNRC and stands ready to provide technical and operational support should humanitarian needs increase or additional assistance be required.
 Actions taken by others
-The Ministry of Agriculture and Environment has issued an official directive requesting provincial authorities and relevant agencies to: •Monitor the development of the typhoon and disseminate timely early warnings. •Guide fishing vessels and marine transport to safe shelter. •Prepare evacuation plans for communities in coastal, low-lying and landslide-prone areas, where required. •Inspect reservoirs, dykes, drainage systems and construction sites. •Maintain 24-hour emergency operations and ensure readiness of response personnel and equipment under the &quot;four-on-the-spot&quot; principle. Road clearance operations are ongoing in Lao Cai Province, while local authorities have installed warning signs and are maintaining round-the-clock monitoring in high-risk areas.
+Immediately after the disaster, local forces in Mường Than Commune mobilised for rescue operations. Leadership of the Lai Châu Provincial People's Committee formed a working delegation to go directly to the scene and take command of search and rescue efforts. Provincial police and military units were deployed with equipment and support vehicles to focus on disaster relief, search and rescue operations. Lai Châu Provincial Police established a forward command post at Tân Uyên Commune Police station, under the direct command of Colonel Khoàng Văn Thương, Deputy Director of the Provincial Police, to co-ordinate rescue, relief and disaster recovery operations. The Chairman of the Lai Châu Provincial People's Committee issued an urgent directive on July 17, instructing departments, agencies, armed forces and local People's Committees to focus on responding to and recovering from the floods, flash floods and landslides in accordance with the &quot;four on-the-spot&quot; principle, with no room for passivity or unpreparedness. Emergency declarations have been issued for Mường Than Commune and for a landslide site that has severed National Highway 12 within Lê Lợi Commune. Rescue operations in Mường Than Commune are proceeding with urgency. Provincial People's Committee chairman travelled to the scene to inspect and direct recovery efforts and oversee disaster response measures. Provincial and local forces are deploying personnel and equipment to search and rescue operations and disaster relief work, with the aim of restoring stability to residents' lives as quickly as possible.
