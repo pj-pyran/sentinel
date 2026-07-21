@@ -1,6 +1,11 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-07-20) ---
+--- Report 1: UNFPA (2026-07-20) ---
+The humanitarian situation in North Kordofan continues to deteriorate. Between 1 and 19 July, 21 drone-related incidents were recorded, resulting in civilian casualties, damage to critical infrastructure, and further disruptions to the already limited access to essential services.
+Access to sexual and reproductive health (SRH) services and protection from and response to gender-based violence (GBV) remain severely limited in North Kordofan due to the security situation, damaged and overstretched health facilities and service delivery points, and shortages of qualified health personnel, essential medicines, and medical supplies. In addition, water shortages, inadequate sanitation, and deteriorating living conditions are increasing health risks for women and girls, particularly pregnant and lactating women.
+An additional US $1.83 million is urgently required for UNFPA to sustain and scale up preparedness and response activities for SRH and GBV interventions for conflict-affected women and girls in North Kordofan and White Nile states.
+
+--- Report 2: DFS (2026-07-20) ---
 Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces
 (SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
 widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
@@ -43,7 +48,7 @@ armed conflict, fragmented territorial control, mass displacement, and shrinking
 humanitarian access, sustained financing, and renewed diplomatic engagement, the crisis is likely to deepen further, with serious
 implications for civilian populations and broader regional stability.
 
---- Report 2: DFS (2026-07-20) ---
+--- Report 3: DFS (2026-07-20) ---
 Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
 widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
 continuing to deteriorate across much of the country.
@@ -85,7 +90,7 @@ armed conflict, fragmented territorial control, mass displacement, and shrinking
 humanitarian access, sustained financing, and renewed diplomatic engagement, the crisis is likely to deepen further, with serious
 implications for civilian populations and broader regional stability.
 
---- Report 3: DFS (2026-07-20) ---
+--- Report 4: DFS (2026-07-20) ---
 Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces
 (SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
 widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
