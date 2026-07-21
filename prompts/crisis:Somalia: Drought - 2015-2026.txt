@@ -1,16 +1,16 @@
 Crisis / situation: Somalia: Drought - 2015-2026
 
---- Report 1: WFP (2026-05-25) ---
-Somalia’s food security and nutrition crisis continues to worsen, with latest IPC results in May confirming 6 million people facing acute food insecurity IPC Phase 3 and above, including around 2 million in Emergency IPC Phase 4, alongside critical levels of acute malnutrition affecting an estimated 1.9 million children, underscoring the scale and severity of humanitarian needs.
-Severe funding shortfalls are forcing WFP to scale down assistance, with available resources insufficient to sustain current response levels beyond the coming months, heightening the risk of further deterioration in food security and nutrition outcomes.
-Without urgent new funding, life‑saving assistance will continue to decline through August after which lifesaving assistance may come to a complete halt without new resources, significantly heightening the risk of worsening food insecurity and malnutrition.
+--- Report 1: WFP (2026-07-21) ---
+Somalia is facing one of the most complex hunger crises in recent years, driven by drought, insecurity, a sharp drop in humanitarian funding, and the ripple effects of the conflict in the Middle East. The situation is on high alert, with around 2 million people in IPC Phase 4, more than double last year, and a forecasted El Niño event increasing flood risk, indicating a sharp rise in severity.
+Somalia remains one of the world’s most severe malnutrition crises, with 1.9 million acutely malnourished children. IPC analysis indicates famine risk in Burhakaba, where nearly 40 percent of children under five are acutely malnourished or worse.
+WFP remains the backbone of Somalia’s humanitarian response, but funding shortfalls are reducing reach. Through August, food assistance reaches only 644,000 people, 34 percent of the IPC Phase 4 population. Urgent funding is needed to prevent further decline.
+The WFP Executive Board approved Somalia’s Country Strategic Plan (2026–2030), providing a framework for food security, nutrition and resilience, with Somalia’s Minister of Planning advocating for national development priorities at the Annual Session.
 
---- Report 2: FAO (2026-05-25) ---
-Forecast Highlight:
-
-Mostly dry to light localized rainfall is expected across Somalia during 21–27 May 2026, with no widespread moderate or heavy rainfall signal
-The forecast does not indicate significant rainfall over the Juba and Shabelle catchments, suggesting limited additional river recharge during the week
-The Shabelle River remains flood-sensitive, especially at Belet Weyne, where levels remain above the moderate flood-risk threshold despite the slight decline observed over the past few days.
-The Juba River remains below moderate flood-risk thresholds at Dollow and Luuq, with only minor weekly changes
-High to moderately high temperatures are expected across most of Somalia, sustaining evapotranspiration, water demand and heat stress
-Gu rainfall recovery remains spatially uneven, with some areas showing strong seasonal performance while residual drought and livelihood stress persist in dry pockets
+--- Report 2: WFP (2026-07-20) ---
+Catastrophic Levels of Food Insecurity (IPC5) risk in Bay and Bakool: FEWSNET assesses a plausible risk of IPC Phase 5 in Bay–Bakool Agropastoral zones between June and September 2026 in the event of a second consecutive failed Gu harvest, and between October 2026 and January 2027 under an extreme, widespread Deyr flooding scenario comparable to 1997 or 2019.
+Nutrition Famine threshold crossed in Buur Hakaba District: Buur Hakaba has reached IPC Acute Malnutrition Phase 5, with a GAM rate of 37.1 percent, surpassing the famine threshold and signalling a credible risk of area-level Famine between June and September 2026.
+Three Compounding Shocks. Rising food prices driven by consecutive poor harvests and broader supply-chain disruptions linked to the Middle East crisis, an emerging El Niño raising the risk of flash flooding in low-lying areas of Bay and Bakool during the Deyr season, and ongoing disease outbreaks are compounding vulnerabilities across Buur Hakaba, Bakool, Gedo, and Hiiraan.
+Humanitarian assistance is contracting as need rises. Food security assistance nationally is down by 51 percent from March to April 2026; Nutrition sites in Buur Hakaba fell from 16 to three since 2024; and only 34 of 111 villages remain fully accessible.
+The response is severely underfunded. the 2026 HNRP is only around 15 percent funded, in Buur Hakaba USD 3.2 million of the USD 4.62 million requirement is unfunded.
+The window closes with the Deyr rains. 2017 and 2022 show that early, funded response averts famine. Anticipatory action ahead of October to December 2026 is the most cost-effective option left this year.
+Displacement on the rise: internal and cross borders displacements are increasing, with 197,500 new displacements expected in the Q3 of 2026 (IOM, June 2026) flooding and drought as the main driver.
