@@ -1,40 +1,71 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-07-17) ---
-Key Highlights
-Exchange Rate and Trade Dynamics:
-• Exchange Rate: During the second week of July, the Afghani remained broadly stable at AFN 65.7/USD. However, the Afghani remained 5% stronger than last year and 13% stronger than the three-year average, continuing to help moderate imported inflation despite ongoing external market pressures.
-• Trade: Market supply remained generally adequate, supported by domestic harvests and continued regional trade. However, Afghanistan's heavy reliance on imported goods continues to expose domestic markets to fluctuations in the exchange rate, fuel prices, and regional trade conditions, contributing to price volatility and maintaining the country's vulnerability to external shocks.
-Food Items:
-• National average food prices remained relatively stable during the second week of July, with only modest weekly movements across most staple commodities.
-• Wheat and Flour: Wheat grain prices declined slightly (-0.7%) during the week, while both high-price and low-price wheat flour remained broadly stable. Compared to last year, wheat grain (+12%), high-price flour (+7%), and lowprice flour (+11%) remained above their year-ago levels, reflecting sustained production and transportation costs.
-• Rice: Both rice categories declined slightly during the week. Nevertheless, high-price and low-price rice remained 26% and 33% higher than last year, respectively, and above their three-year average levels.
-• Other Staples: Cooking oil increased by 1.4% during the week, while pulses (-0.2%) and salt (-0.1%) declined marginally. Sugar increased by 0.8%. Compared to last year, cooking oil (+3%), sugar (+10%), and salt (+8%) remained higher, whereas pulse prices were 13% lower than a year earlier. • Vegetables: Vegetable prices showed mixed seasonal movements. Potato prices increased by 3.3%, while tomato and onion prices declined by 1.9% and 7.1%, respectively. Compared to last year, tomato (+34%) and potato (+51%) prices remained significantly higher, while onion prices were 10% lower, reflecting improved seasonal availability.
-Non-Food Items:
-• Fuel: Diesel prices continued its upward momentum and increased by 5.3% during the week, reflecting higher International oil prices and continued supply constraints from Russia. Compared to last year and the three-year average, diesel prices remained 15% and 18% higher, respectively.
-• Fertilizers: Fertilizer prices remained largely stable during the week, with DAP declining (-0.3%) and Urea increasing slightly (+0.1%). Compared to last year, DAP (+17%) and Urea (+49%) remained considerably higher, while improved seed (-2%) and animal feed (-7%) remained below last year's levels.
-• Livestock: The price of a one-year-old live female sheep declined marginally (-1.0%) during the week and remained 6% below last year's level and 3% below the three-year average, contributing to weaker pastoralist ToT.
-Labour Market:
-• Labour market conditions remained weak. The unskilled labour wage declined marginally (-0.8%), while labour availability improved to 2.0 days/week (+3.0%). Despite this improvement, labour availability remained 15% below both last year and the three-year average, indicating continued pressure on household income opportunities.
+--- Report 1: ARCS (2026-07-22) ---
+Description
+On Monday, 20 July 2026, at approximately 3:00 p.m. local time, a sudden flash flood struck the central areas of Nuristan Province following heavy and continuous rainfall.
+The low-lying areas and communities located along rivers and seasonal watercourses were the most severely affected. In Nuristan Province, the flash floods resulted in fatalities and injuries, while causing extensive damage to the central market, residential houses, public infrastructure, livelihoods and income sources, as well as agricultural land
+This event is part of seasonal flooding currently affecting parts of Nuristan Province, with the most severe impacts reported in Parun District, the provincial capital.
+Request For Assistance
+Government Requests International Assistance
+Yes
+NS Requests International Assistance
+Yes
+Summary
+Following the flooding, the Afghan Red Crescent Society (ARCS) immediately mobilized its emergency response teams, deploying more than 70 volunteers and 16 staff members from the Nuristan Provincial Branch. Search and Rescue (SAR) and First Aid teams were rapidly deployed to the affected areas. Coordination was established with the relevant government authorities and health service providers. ARCS has been actively engaged in search and rescue operations, which remain ongoing. Two ambulances have been deployed since yesterday to support the transportation of injured people.
+Actions taken by others
+The Government has continued its response efforts by deploying personnel and equipment to support search and rescue operations, evacuate injured individuals, clear access roads, recover bodies from the debris of collapsed structures, and carry out other emergency response activities.
 
---- Report 2: WFP (2026-07-15) ---
-KEY HIGHLIGHTS
-• After a prolonged pipeline break, more than 1,600 mt of the approximately 6,000 mt of nutrition commodities expected in the country have arrived, enabling WFP to reach 80,000 children and 25,000 mothers.
-• Since early July, funding shortfalls have forced WFP to suspend famine-prevention programmes in hotspot areas, putting 1.5 million people at risk of life-threatening hunger.
-• Funding constraints have also forced WFP to suspend cash assistance at all border crossings, leaving vulnerable returning families without critical support.
-SITUATION OVERVIEW
-• Regional conflicts are exacerbating the humanitarian crisis in Afghanistan, with staple food prices at elevated levels and transport costs tripling due to prolonged border closure with Pakistan, re-routed supply chains due to the conflict in the Middle East, and increased fuel prices. These supply chain pressures are particularly acute for imported specialized nutritious foods (SNFs), with most WFP-supported health clinics currently facing a stock out of these commodities.
-• At the same time, Afghanistan is experiencing record levels of acute malnutrition, with 3.7 million children under five and 1.2 million pregnant and breastfeeding women affected in 2026. The shortage of nutrition supplies, combined with funding constraints, means that one million malnourished children will be unable to receive life-saving assistance this year.
-• Since early July, WFP's famine-prevention programmes in hotspot areas have been suspended, putting 1.5 million people at heightened risk of life-threatening hunger. Overall, WFP is now forced to turn away 13 million acutely hungry Afghans.
-• In addition, funding constraints have compelled WFP to suspend cash assistance for returnees from Iran and Pakistan at all border crossings, leaving vulnerable families without critical support upon arrival.
+--- Report 2: OCHA (2026-07-21) ---
+Highlights
 
---- Report 3: WHO (2026-07-15) ---
-Wild poliovirus type 1 (WPV1)
-Cases: Four new WPV1 positive cases in 2026 from Afghanistan reported this week. The new WPV1 cases are: 2 from Nangarhar province (Behsud and Rodat districts), 1 each from Hilmand province (Musaqalah district) and Hirat province (Shindand district) noting that the Hirat/Shindand case was identified by positive contacts. In total, 52 WPV1-positive cases have been confirmed in 2025 (21 from Afghanistan and 31 from Pakistan in 2025) and 14 WPV1 cases reported in 2026 (11 from Afghanistan and 3 from Pakistan).
-Environment: Thirteen new WPV1 positive environmental samples in 2026 were reported this week, 12 from Afghanistan and 1 from Pakistan. The new WPV1 environmental samples of Afghanistan are: 5 from Kandahar province (all from Kandahar district), 4 from Nangarhar province (2 from Behsud, and 1 each from Batikot and Jalalabad districts), 2 from Kabul province (both from Kabul district), and 1 from Hilmand province (Lashkargah district), with dates of collection on 20th and 24th May 2026, while the new WP1 environmental sample from Pakistan was reported from Khyber Pakhtunkhwa province (Peshawar district) with collection date on 11th June 2026. In total, 745 WPV1-positive environmental samples have been reported in 2025 (94 from Afghanistan and 651 from Pakistan) and 146 WPV1-positive environmental samples reported in 2026 (46 from Afghanistan and 100 from Pakistan).
-Vaccine-derivedpoliovirus (VDPV)
-Cases:
-• cVDPV2: No new positive cases reported this week. The cVDPV2 case count to date in 2026 is 6 (5 from Somalia and 1 from Sudan) and in 2025 is 47 (31 from Yemen, 13 from Sudan, 2 from Somalia and 1 from Djibouti).
-Environment
-• cVDPV1: No new cVDPV1 isolates were reported this week. cVDPV1 were confirmed from 10 environmental samples in 2025 (all from Djibouti).
-• cVDPV2: No new cVDPV2 isolates were reported this week. To date, cVDPV2 was confirmed in 11 sewage water samples in 2026 (8 from Somalia and 3 from Sudan), and In 2025 from 58 samples (17 from Djibouti, 15 from Yemen, 13 from Somalia, 7 from occupied Palestinian territory, and 6 from Sudan).
+Heavy rainfall and flash floods affected parts of eastern Afghanistan on 20 July, with the most severe impacts reported in Parun City, Nuristan Province, alongside flooding in Torkham, Nangarhar Province, and Alingar District, Laghman Province.
+Parun City, Nuristan Province, was severely affected by a sudden flash flood at approximately 15:00 hrs on 20 July. So far 23 people have been confirmed dead, 15 have been injured with others reported missing. Search and rescue operations are ongoing.
+The flooding caused extensive damage to homes, public infrastructure, markets, roads and livelihoods in Parun. At least 22 houses were completely destroyed and approximately 45 houses were severely damaged according to preliminary assessments. Five markets and some 70 local shops were also damaged. In addition, four bridges, six road sections, 400 metres of protection wall and 450 metres of irrigation canal have sustained damage. Approximately 50 jeribs (10 hectares) of agricultural land were affected.
+Damage to a water-supply network has disrupted access to safe drinking water for approximately 1,000 families. Twenty-five vehicles, two carpentry workshops and saw machines, one mosque and one private clinic were also damaged or destroyed.
+In Torkham, Nangarhar Province, flash flooding reportedly killed three Afghan refugees and injured nine others at a returnee transit camp on the Pakistan side of the border. Flooding also temporarily disrupted movement at the Torkham border crossing and damaged or washed away private shops and livelihood-related installations at Zero Point.
+In Alingar District, Laghman Province, flooding affected agricultural land and irrigation systems. No damage to residential houses had been reported at the time of the latest update.
+Search and rescue operations are ongoing in Parun, while humanitarian and de facto authority responders are providing emergency health assistance and other initial support. Mobile Health Teams have been deployed, health facilities placed on alert and additional medical, nutrition and food supplies mobilized.
+Immediate humanitarian priorities include emergency shelter, food assistance, emergency health services and medical supplies, non-food items, mental health and psychosocial support, and comprehensive multi-sector needs assessments.
+
+Situation Overview
+Heavy and continuous rainfall on 20 July triggered flash flooding in several areas of eastern Afghanistan. The impacts have varied significantly between locations, ranging from extensive loss of life and destruction in Parun City to damage to livelihoods and irrigation infrastructure in Alingar and disruption to a major border and returnee transit corridor in Torkham.
+In Parun City, the sudden onset of flooding rapidly affected residential areas, public facilities and commercial premises. The latest preliminary assessment by the Afghanistan National Disaster Management Authority (ANDMA) in Nuristan indicates that 23 people have been killed, 15 confirmed injured while others remain missing.
+The flood damaged the local water-supply network disrupting access to safe drinking water for approximately 1,000 families. Damage to bridges and roads is affecting movement and access, while damage to irrigation infrastructure has increased risks to communities and agricultural livelihoods. Markets, local shops, vehicles, carpentry workshops and saw machines were damaged or destroyed, while agricultural land was flooded.
+The flood also caused significant damage to humanitarian and development actors operating in the city. The office of ODESC, a UNESCO implementing partner, was destroyed, while the warehouse and other assets of New Consultancy and Relief Organization (NCRO), including a vehicle and motorbike, were damaged. One national NGO staff member is reportedly missing.
+The impact in Torkham extended beyond physical damage to infrastructure and livelihoods. Flooding affected a returnee transit camp on the Pakistan side of the border, resulting in three reported deaths and nine injuries, while movement through the Torkham crossing was temporarily delayed. The flooding also damaged the protection wall of the Directorate of Refugees and Repatriation compound at Zero Point, Torkham, where humanitarian partners are providing basic services to returnees.
+In Alingar District, Laghman Province, the reported impact has primarily been on agricultural land and irrigation systems. The damage may affect agricultural production and livelihoods, although no damage to residential houses had been reported at the time of the latest update.
+In the southeastern region, flooding has affected communities and infrastructure in several areas, with assessments and verification ongoing.
+The full scale of the regional impact remains under assessment. In Parun in particular, search and rescue operations continue and the number of casualties and missing people may change as additional information is verified. Further rainfall and unstable weather conditions also continue to pose a risk of additional flooding.
+Humanitarian Response
+Humanitarian partners and relevant authorities are working to verify the impact of the floods and identify the most urgent needs in affected areas. Priority response activities include search and rescue, the recovery and identification of people who have died, assistance to injured people and support to affected families.
+Initial response priorities include:
+
+Emergency shelter and non-food items for families whose homes have been damaged or destroyed;
+Food assistance for households that have lost access to food stocks, markets or livelihoods;
+Safe drinking water, hygiene supplies and sanitation support, particularly in areas where water infrastructure has been damaged or contaminated;
+Emergency health assistance, including support for injured people and the deployment of mobile health services where required;
+Protection assistance for families affected by loss of life, displacement, unsafe shelter conditions and access constraints;
+Debris removal and clearance of roads and other access routes;
+Repair and restoration of damaged irrigation infrastructure and other critical community infrastructure; and
+Multi-purpose cash assistance, where markets remain functional and cash assistance is feasible, to help affected households meet their most urgent needs.
+
+Response efforts remain constrained by difficult terrain, damaged roads and limited access to some affected communities. Further assessments are required to determine the scale and severity of needs, particularly in remote areas of Nuristan and other mountainous locations.
+Coordination
+OCHA is coordinating with relevant stakeholders, including disaster-management structures, UN agencies, international and national NGOs and other humanitarian partners to support the assessment and response to the flooding.
+In Nuristan, ANDMA provided an updated preliminary assessment to the Nuristan OCT on 21 July. OCHA and SHPOUL coordinated an ad hoc OCT meeting on 21 July to review the evolving situation, coordinate the initial humanitarian response and prepare for inter-agency needs assessments.
+A rapid needs assessment is being conducted on 21 July. Three inter-agency needs assessment teams have also been constituted, with surge support from Kunar and Jalalabad, and are scheduled to begin assessments on 22 July.
+OCHA’s Eastern Region team remains in close contact with ANDMA, the Nuristan OCT, local authorities and humanitarian partners. Coordination is also ongoing with relevant authorities and partners in Nangarhar and Laghman.
+Weather forecasts and early-warning information have been disseminated to humanitarian partners and the OCT network to support preparedness and monitoring of further rainfall and flood risks.
+A medical site has been established in collaboration with the Directorate of Public Health and two mobile health teams have been deployed. Medical items and food and nutrition items have also been dispatched with high energy biscuits expected to arrive on 21 July.
+At the national level, ANDMA convened a meeting on 21 July to plan the next steps and coordinate response.
+Coordination efforts are focused on:
+
+Verifying reported casualties, missing persons and the number of affected households;
+Supporting the deployment of assessment teams to affected areas;
+Identifying urgent needs and prioritizing assistance to the most severely affected communities;
+Coordinating search-and-rescue, emergency response and early recovery efforts;
+Facilitating information-sharing among humanitarian partners and authorities;
+Identifying access constraints and supporting efforts to restore critical roads and routes; and
+Monitoring the humanitarian situation, including the potential impacts on food security, livelihoods, health, water and sanitation, and protection.
+
+Further assessments are ongoing. Humanitarian partners continue to coordinate with authorities and affected communities to establish the full scale of the disaster and scale up assistance according to verified needs.
