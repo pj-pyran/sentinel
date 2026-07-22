@@ -1,10 +1,30 @@
 Crisis / situation: Malawi
 
---- Report 1: IOM (2026-05-15) ---
-Over the reporting period, a total of 12,556 movements were observed across FMPs in Malawi, an average of 571 movements per day. Number of returnees to Malawi has increased significantly over the months due to a combination of tightened South African enforcement (leading to deportations) and increased surveillance by border authorities (catching more undocumented entries).
+--- Report 1: WFP (2026-07-22) ---
+Global forecasts indicate strengthening El Niño conditions, prompting WFP to support government-led preparedness, early warning and anticipatory action to protect lives and livelihoods.
+Without additional funding, refugee and school feeding assistance could be disrupted from September 2026, affecting more than 63,000 refugees and asylum seekers and nearly 594,000 learners.
+Humanitarian needs are rising as over 38,000 Malawians return from South Africa following attacks on foreign nationals, increasing demand for basic services, food, and protection at reception centres.
 
---- Report 2: IOM (2026-05-15) ---
-No summary available.
-
---- Report 3: IOM (2026-05-15) ---
-Over the reporting period, a total of 10,603 movements were observed across FMPs in Malawi, an average of 505 movements per day. Number of entry to Malawi has increased significantly over the months due to a combination of tightened South African enforcement (leading to deportations) and increased surveillance by border authorities (catching more undocumented entries).
+--- Report 2: IFRC (2026-07-20) ---
+Description
+The measles outbreak in Nsanje District continues to worsen, affecting several communities, particularly those along the Malawi–Mozambique border. As of 17 July 2026, the district had recorded 188 suspected measles cases, including 76 laboratory-confirmed cases. Children under 15 years of age, particularly those younger than five years, are the most affected. Key drivers of the outbreak include low immunization coverage, delayed health-seeking behaviour, cross-border population movement, and incomplete vaccination records. The situation has escalated in Traditional Authority (T/A) Mbenje, where some members of the Apostolic community do not seek treatment at health facilities due to religious beliefs. Tragically, one child recently died after not being taken to a health facility for medical care. This highlights the urgent need for intensified community engagement, risk communication, and efforts to promote timely healthcare seeking and measles vaccination. The outbreak is placing considerable pressure on the health system through increased demand for disease surveillance, case investigation, laboratory testing, case management, and community outreach. Response efforts continue to be constrained by shortages of essential medical supplies, inadequate transport and fuel, and limited resources to support active surveillance and rapid response activities. The affected population remains at high risk of severe illness, complications, and death, particularly among unvaccinated children. Urgent interventions are needed to strengthen routine and outbreak-response immunization, enhance community awareness, improve cross-border coordination, and ensure timely access to quality healthcare services.
+Request For Assistance
+Government Requests International Assistance: No
+NS Requests International Assistance: No
+Information Bulletin Published
+Planned
+Actions taken by National Society
+Health
+Community-based surveillance (CBS)
+Contact tracing
+Psychosocial Support Services (PSS)
+First aid
+General
+Community Engagement and Accountability (CEA) and community feedback mechanisms
+Volunteer Support
+Summary
+Since the onset of the measles outbreak, the Malawi Red Cross Society (MRCS), through its volunteers, has continued to support the Ministry of Health in implementing community-based outbreak response activities in the affected areas. Volunteers continue supporting Community Engagement and Accountability (CEA) activities, including community awareness sessions on measles prevention, early healthcare seeking, the importance of vaccination, and the collection of community feedback to address concerns and rumours. Volunteers also strengthen Community-Based Surveillance (CBS) by identifying and referring suspected measles cases, supporting active case finding, and participating in contact tracing to limit further transmission. In addition, MRCS volunteers provide First Aid services where required and deliver Psychosocial Support Services (PSS) to affected people and their caregivers to help address the emotional and psychological impacts of the outbreak. The National Society also continue to provide operational support to volunteers through coordination and supervision facilitate effective implementation of response activities in the affected communities.
+Actions taken by others
+The District Rapid Response Team (DRRT), in collaboration with partners, has implemented several measures to control and contain the outbreak. Key interventions include: Conducting active case search and strengthening community-based surveillance in affected areas. Carrying out case investigations, line listing, and contact tracing of suspected cases. Collecting, transporting, and facilitating laboratory testing of specimens for confirmation. Enhancing cross-border surveillance and coordination with neighbouring communities in Mozambique to monitor potential transmission. Conducting community sensitization and risk communication activities to promote early health-seeking behaviour, disease prevention, and vaccination uptake. Holding coordination meetings with the Expanded Programme on Immunization (EPI) and other response partners to review progress and strengthen response strategies. Providing supportive case management, including treatment of secondary infections with antibiotics, vitamin A supplementation where available, and health education for affected communities. Following the recent increase in cases in Traditional Authority (TA) Benje, where some Apostolic faith communities have limited engagement with formal health services, the Ministry of Health is planning to intensify community engagement and awareness activities. These efforts aim to address misconceptions, promote timely care-seeking, and increase acceptance of vaccination, particularly after the reported death of a child who was not referred to a health facility for treatment. Additional operational support, especially fuel and other logistics for field-level response activities, is urgently required to sustain active surveillance, community engagement, and outbreak control measures.
+Planned International Response
+DREF: Planned
