@@ -1,11 +1,17 @@
 Crisis / situation: Yemen
 
---- Report 1: WFP (2026-07-22) ---
+--- Report 1: IOM (2026-07-22) ---
+During the reporting period (1 April–30 June 2026), IOM Yemen’s Displacement Tracking Matrix (DTM) recorded 465 newly displaced households (approximately 2,790 individuals) in accessible locations within IRG-administered areas. This represents a 44 per cent decrease compared to Q1 2026 (827 households). Displacement was highest in May (192 households), followed by June (177 households) and April (96 households).
+Geographically, displacement was primarily concentrated in Ma’rib (286 households), which accounted for approximately 62 per cent of all recorded movements during the quarter. This was followed by Al Hodeidah (79 households, 17%), Ta’iz (55 households, 12%), and Lahj (27 households, 6%), while smaller numbers were recorded in Ad Dali’ (12 households, 3%) and Shabwah (6 households, 1%).
+Among displacement drivers, economic reasons related to conflict emerged as the main trigger, accounting for 236 households (51%) of all recorded movements. Conflict-related insecurity accounted for 175 households (38%), while natural hazard-related events contributed to 53 households (11%). Health-related reasons were reported by one household (less than 1 per cent).
+Overall, the findings highlight a decline in displacement levels compared to the previous quarter, alongside a shift in displacement dynamics: economic pressures overtook conflict as the primary reported driver of displacement, while conflict and natural hazard-related events continued to contribute to population movements.
+
+--- Report 2: WFP (2026-07-22) ---
 WFP data show a deterioration of the food security situation in Yemen for the second consecutive month, with the nationwide rate of severe food deprivation increasing to 36 percent.
 WFP, UNICEF, and the Nutrition Cluster are enhancing coordination and collaboration to address emerging nutrition gaps in areas deprioritized by WFP due to funding shortfalls.
 WFP started the fourth targeted emergency food assistance (TEFA) cycle in areas under the internationally recognized Government in mid-July, targeting 1.7 million people.
 
---- Report 2: ACTED (2026-07-20) ---
+--- Report 3: ACTED (2026-07-20) ---
 In Yemen, humanitarian conditions are expected to further deteriorate in 2026, with projections indicating that 22.3 million individuals will require humanitarian assistance—an increase from the 19.5 million reported in the previous year. Since 2015, Al Dhale’e, a frontline governorate, has been facing repeated displacement into remote and insecure areas, which has caused further access constraints, delayed assistance, and limited access to services and information.
 Inadequate Access to Services and Support
 Hind*, a 48-year-old mother of seven and a former teacher, fled her home in Hudaydah in 2020 due to the war and now lives in Eastern Sahda Camp in Al Dhale’e. Like many others, her family faced daily challenges, including finding food, securing shelter, and searching for assistance.
