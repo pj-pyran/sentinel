@@ -1,19 +1,57 @@
 Crisis / situation: Mali
 
---- Report 1: WFP (2026-05-19) ---
-368,627 people assisted in Mar-Apr 2026
-(53% female)*
-63,135 mt food distributed*
-USD 3.2M cash transferred*
-USD 30.6M required in the next six months (May – Oct 2026)
-* Preliminary figures
+--- Report 1: WFP (2026-07-22) ---
 KEY HIGHLIGHTS
-• As of 30 April, WFP resumed Programme Criticality level 1 (PC1) lifesaving assistance for 40,000 vulnerable people in Mopti and Timbuktu following security-related suspensions, underscoring its ability to restart rapidly despite constraints under the “stay and deliver” principle.
-• As of 7 May, WFP reached over 30,000 vulnerable Malians, including IDPs and refugees, with emergency food and nutrition assistance.
-• Ahead of the 2026 lean season, 1.6 million people are projected to face acute food insecurity (IPC Phase 3+) between June and August, driven by insecurity, climate shocks, displacement, and funding gaps.
+• Security incidents and access constraints continue
+to limit humanitarian access in Kidal, Gao, Mopti,
+and Timbuktu.
+• Despite access constraints, WFP continues
+operations through adapted responses and
+enhanced preparedness.
+SITUATION OVERVIEW
+• Mali’s humanitarian environment remains highly
+challenging. Insecurity, access constraints, climate
+shocks, rising prices, supply chain disruptions, and
+population displacement continue to undermine
+livelihoods, strain local markets, and limit
+humanitarian assistance, reinforcing the need for
+sustained support.
+• WFP delivers food and nutrition assistance
+through in-kind and cash-based transfers, based
+on market conditions and access conditions.
+UNHAS supports access to hard‑to-reach areas.
+• WFP also supports national institutions in analysis,
+planning, coordination, and implementation to
+strengthen national capacity to respond to shocks
+and help sustain improvements in food security
+and nutrition over time.
+• With needs increasing as the lean season
+progresses, WFP is scaling up assistance and
+preparedness, with plans to reach over 180,000
+additional vulnerable people on top of the 350,000
+initially targeted.
 
---- Report 2: UNFPA (2026-05-17) ---
-The humanitarian environment in Mali is facing a severe contraction in access and operational space. The Government of Mali has temporarily suspended all humanitarian flights, which is restricting the movement of humanitarian personnel, disrupting the delivery of critical supplies, and paralyzing field operations. In addition, a newly introduced 10% government tax on the project budgets of all UN agencies, non-governmental organizations, and non-profit associations is significantly reducing the funding available for essential humanitarian programming at a time when organizations are already confronting acute funding shortfalls.
-Violence continues to escalate in the city of Léré, which is under a strategic siege by Jama'at Nusrat al-Islam wal-Muslimin. The siege is exacerbating protection risks, including sexual violence against women and girls. The Timbuktu Region—which includes Léré—recorded a 77% increase in gender-based violence (GBV) cases between January and March 2026 compared with the same period in 2025. The siege is also severely disrupting access to essential sexual and reproductive health (SRH) services. The blockade has had particularly serious consequences for obstetric emergencies, with all vehicle movement into and out of Léré prohibited, making emergency referrals no longer possible.
-Disease outbreaks are further compounding the crisis. The diphtheria outbreak continues to worsen, with health authorities reporting a 72% increase in cases between October 2025 and March 2026. Meanwhile, 31 confirmed cases of mpox and two related deaths have been recorded, primarily in Bamako and Koulikoro. Both diseases pose serious risks to pregnant women and newborns, including miscarriage, stillbirth, and premature birth.
-UNFPA is responding to the urgent and escalating SRH and GBV needs in Mali. In March, 5,027 women and adolescent girls received SRH services, while 6,681 people benefited from GBV prevention, mitigation, and response activities.
+--- Report 2: IFRC (2026-07-20) ---
+Description of the Event
+Date of event
+05-06-2026
+What happened, where and when?
+On the night of April 24 to 25, 2026, Mali was confronted with a series of coordinated armed attacks on a scale not seen since the 2012 rebellion. These attacks were carried out simultaneously by the Group for the Support of Islam and Muslims (JNIM) and the Front for the Liberation of Azawad (FLA) against several strategic localities in the country.
+The attacks mainly targeted military positions and strategic infrastructure. They have also had a direct impact on nearby residential areas, resulting in loss of life, destruction of property and a widespread climate of fear and uncertainty. Population movements have been disrupted, economic activities temporarily slowed down and access to some essential services made more difficult, thus increasing the vulnerability of communities already affected by years of crisis.
+In addition, the security situation continues to deteriorate, with numerous reports of blockades of towns and villages by armed groups, burning of public transport vehicles on main roads, abductions of people and destruction of agricultural crops. At the same time, weather forecasts point to a high risk of flooding in several areas of the country, which could further increase humanitarian needs.
+The attacks affected several regions of Mali, including:
+- District of Bamako;
+- Koulikoro region, in particular the city of Kati;
+- Mopti region, in particular Sévaré and Bandiagara;
+- Gao region;
+- Kidal Region;
+- as well as certain areas of central Mali.
+The attacks took place on the night of April 24 to 25, 2026. However, the situation remains ongoing and highly volatile.
+These events are part of a context of continuous deterioration of the security situation observed since 2024, marked in particular by the attack on Bamako airport in September 2024 and by the prolonged disruptions in fuel supply since September 2025.
+Following the attacks of 25 April 2026, the Mali Red Cross (RCM), the International Federation of Red Cross and Red Crescent Societies (IFRC) and the International Committee of the Red Cross (ICRC) conducted a joint analysis of the security context and activated the Movement's coordination mechanisms within the framework of the Seville Agreement 2.0. This analysis indicates a high risk of further deterioration of the situation, with further displacement, increased humanitarian needs and increased difficulties in accessing essential services.
+The current context is also marked by the implementation of restrictive measures recently adopted by the authorities, in particular the ban on the circulation and marketing of certain categories of motorcycles in several areas affected by insecurity through an interministerial order dated June 2, 2026. Although these measures are motivated by security imperatives, they have a significant impact on people's livelihoods, as motorcycles are the main means of transporting people, goods and basic services in many localities. Mobility restrictions limit access to markets, health facilities, schools and economic opportunities, leading to a decrease in the incomes of households already weakened by insecurity.
+At the same time, restrictions on access to certain forest areas considered sensitive further reduce the livelihoods of communities. Many households depend on forest resources for firewood collection, charcoal production, non-timber forest product gathering, grazing and certain income-generating activities. Limiting these activities increases the economic vulnerability of populations, increases the risk of food insecurity and reduces households' coping mechanisms in the face of successive shocks.
+In this context, an inter-headquarters meeting of the International Red Cross and Red Crescent Movement was held on 5 June 2026 between the CRM, the IFRC and the ICRC. This meeting provided an opportunity to carry out an up-to-date joint analysis of the security, humanitarian and operational context as well as to assess the implications of recent developments on the affected populations and on the Movement's response capacities.
+The conclusions of this meeting highlighted a continued deterioration of the context, characterized by the geographical spread of insecurity, the multiplication of restrictions on movement, the weakening of household livelihoods, the increased risks of population displacement and the gradual deterioration of access to essential services. The Movement partners also stressed the need to strengthen operational preparedness and coordination mechanisms in order to respond effectively to a possible escalation of the crisis.
+The launch of this operation is based on the recommendations and analyses resulting from this inter-headquarters coordination meeting of the Movement held on 5 June 2026, organized within the framework of the coordination mechanisms provided for in the Seville Agreement 2.0. The joint analysis concludes that there is a high risk of further deterioration of the situation in the coming months, with a likely increase in humanitarian needs, additional population displacement and increasing access constraints for humanitarian actors. This is consistent with the findings of the UNHCR assessment of 2 June 2026.
+The forward-looking scenarios developed by the Movement anticipate a protracted conflict in the short and medium term, marked by progressive fragmentation of territory, a reduction in the effective presence of the State in certain areas and increased pressure on civilian populations. In this context, the Mali Red Cross is currently operating under Code Orange, with its Emergency Operations Centre(EOC) activated and its Emergency Brigades (BU) mobilised to ensure a rapid response to emerging needs and to strengthen preparedness in the face of a possible deterioration of the situation.

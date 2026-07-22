@@ -1,6 +1,13 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNRWA (2026-07-22) ---
+--- Report 1: WFP (2026-07-22) ---
+KEY HIGHLIGHTS
+
+In June 2026, WFP assisted 663,000 people across all activities, including 194,000 conflict-affected people reached through emergency food and cash assistance.
+Through its SCOPE Card Pilot initiative, WFP reached 336 newly displaced Syrians outside formal shelters in Dhour El Hawa, using pre-issued SCOPE cards to streamline beneficiary verification and access to food assistance.
+In close collaboration with the Ministry of Social Affairs, WFP continues to support the development of Lebanon’s Integrated Beneficiary Registry (IBR), advancing efforts toward a unified and more efficient national social protection system.
+
+--- Report 2: UNRWA (2026-07-22) ---
 All information is valid for 17 June - 14 July 2026
 Key Points
 
@@ -10,38 +17,10 @@ UNRWA launched its emergency response in Lebanon on 4 March 2026. The Agency has
 By 14 July, all displaced persons accommodated in the two UNRWA emergency shelters had departed. Following this, UNRWA formally closed both facilities as emergency shelters. Battir School was closed on 11 July 2026, followed by Siblin Training Centre, which was closed on 13 July 2026.
 Between 17 June and 14 July, no security incidents affecting on-duty UNRWA personnel or facilities were reported.
 
---- Report 2: SARI Global (2026-07-21) ---
+--- Report 3: SARI Global (2026-07-21) ---
 Political Context: IDF Escalation Amid Withdrawal Pressure
 The 14 to 20 July 2026 period recorded the highest IDF operational tempo of the post-MoU environment: 92 incidents, 57 percent of all activity, a sharp increase from the prior week’s 71. The escalation was concentrated in Nabatieh and included airstrikes, a guided missile strike that killed two on the Ali al-Taher heights on 16 July, and a systematic campaign of burning and demolishing residential properties across southern border communities.
 This intensification comes precisely as US pressure on Israel to redeploy from both Lebanon and Syria has become public, with President Trump reported to have urged the Israeli prime minister to withdraw. Israel has still not redeployed from the two Lebanese pilot zones it committed to vacate under the framework agreement, and the US-brokered talks addressing that stalemate produced no announced movement. Against this backdrop, an operational surge and a housing-destruction campaign indicate that Israel is consolidating its southern Lebanon posture rather than preparing to reduce it.
-
---- Report 3: DFS (2026-07-20) ---
-The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
-2026. Although a November 2024 ceasefire was put in place, persistent daily violations and Israel's continued occupation of five
-positions in southern Lebanon blocked reconstruction and the return of displaced residents. The truce officially collapsed on March 2,
-2026, following U.S. and Israeli strikes on Iran, which triggered retaliatory Hezbollah rocket and drone attacks, subsequent heavy Israeli
-bombardments, expanded ground operations, and widespread evacuation orders across southern Lebanon and Beirut's southern
-suburbs.
-The conflict between Hezbollah and Israel rooted in late 2023 and early 2024 entered a volatile new phase on March 2, 2026, when a
-fragile November 2024 truce collapsed following U.S. and Israeli strikes on Iran. Hezbollah's retaliatory rocket and drone attacks
-prompted a massive Israeli response, shifting from &quot;limited&quot; incursions into an intensified ground campaign and heavy bombardments
-that triggered widespread evacuation orders across southern Lebanon and Beirut's southern suburbs. Amid this escalation, UNIFIL has
-faced severe operational constraints in its final mandate year; with peacekeepers killed, patrols targeted, and infrastructure damaged,
-the mission's ability to monitor and document violations along the Blue Line has been deeply compromised.
-UNIFIL has faced severe operational constraints during its final mandate year. Since March, peacekeepers have been killed, patrols
-targeted, and monitoring infrastructure damaged, undermining the mission’s ability to document violations along the Blue Line. Israeli
-military operations intensified throughout March and May 2026, evolving from “limited” operations into a broader ground campaign
-extending deeper into southern Lebanon.
-Following the massive military escalation that began in early 2026, Israel has targeted thousands of sites across Lebanon. While a
-breakthrough in early June led to a US - brokered ceasefire agreement outlining &quot;pilot zones&quot; for Lebanese army control, the diplomatic
-framework remains highly fragile. Hezbollah officially rejected the truce, demanding a full Israeli military withdrawal, while ongoing
-localized violence including an IDF strike on Beirut's southern suburbs and a major Hezbollah rocket barrage on June 7 continues to
-threaten a total collapse of the ceasefire, leaving over 1 million civilians displaced amid climbing casualties.
-Between April and June 2026, Lebanon's humanitarian crisis deepened severely. The Ministry of Public Health reported that casualties
-since March climbed to over 3,613 killed and 11,072 injured, with women, children, and the elderly making up more than a third of the
-civilian toll. Continuous airstrikes flattened neighborhoods, schools, and nearly 200 healthcare facilities across Southern Lebanon, the
-Bekaa Valley, and Beirut's southern suburbs, keeping 1.2 million people displaced and completely overwhelming shelters in cities like
-Tyre and Saida.
 
 --- Report 4: DFS (2026-07-20) ---
 The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
@@ -72,6 +51,34 @@ Bekaa Valley, and Beirut's southern suburbs, keeping 1.2 million people displace
 Tyre and Saida.
 
 --- Report 5: DFS (2026-07-20) ---
+The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
+2026. Although a November 2024 ceasefire was put in place, persistent daily violations and Israel's continued occupation of five
+positions in southern Lebanon blocked reconstruction and the return of displaced residents. The truce officially collapsed on March 2,
+2026, following U.S. and Israeli strikes on Iran, which triggered retaliatory Hezbollah rocket and drone attacks, subsequent heavy Israeli
+bombardments, expanded ground operations, and widespread evacuation orders across southern Lebanon and Beirut's southern
+suburbs.
+The conflict between Hezbollah and Israel rooted in late 2023 and early 2024 entered a volatile new phase on March 2, 2026, when a
+fragile November 2024 truce collapsed following U.S. and Israeli strikes on Iran. Hezbollah's retaliatory rocket and drone attacks
+prompted a massive Israeli response, shifting from &quot;limited&quot; incursions into an intensified ground campaign and heavy bombardments
+that triggered widespread evacuation orders across southern Lebanon and Beirut's southern suburbs. Amid this escalation, UNIFIL has
+faced severe operational constraints in its final mandate year; with peacekeepers killed, patrols targeted, and infrastructure damaged,
+the mission's ability to monitor and document violations along the Blue Line has been deeply compromised.
+UNIFIL has faced severe operational constraints during its final mandate year. Since March, peacekeepers have been killed, patrols
+targeted, and monitoring infrastructure damaged, undermining the mission’s ability to document violations along the Blue Line. Israeli
+military operations intensified throughout March and May 2026, evolving from “limited” operations into a broader ground campaign
+extending deeper into southern Lebanon.
+Following the massive military escalation that began in early 2026, Israel has targeted thousands of sites across Lebanon. While a
+breakthrough in early June led to a US - brokered ceasefire agreement outlining &quot;pilot zones&quot; for Lebanese army control, the diplomatic
+framework remains highly fragile. Hezbollah officially rejected the truce, demanding a full Israeli military withdrawal, while ongoing
+localized violence including an IDF strike on Beirut's southern suburbs and a major Hezbollah rocket barrage on June 7 continues to
+threaten a total collapse of the ceasefire, leaving over 1 million civilians displaced amid climbing casualties.
+Between April and June 2026, Lebanon's humanitarian crisis deepened severely. The Ministry of Public Health reported that casualties
+since March climbed to over 3,613 killed and 11,072 injured, with women, children, and the elderly making up more than a third of the
+civilian toll. Continuous airstrikes flattened neighborhoods, schools, and nearly 200 healthcare facilities across Southern Lebanon, the
+Bekaa Valley, and Beirut's southern suburbs, keeping 1.2 million people displaced and completely overwhelming shelters in cities like
+Tyre and Saida.
+
+--- Report 6: DFS (2026-07-20) ---
 The conflict between Hezbollah and Israel, which began in October 2023 and spiked in September 2024, entered a new phase in early
 2026. Although a November 2024 ceasefire was put in place, persistent daily violations and Israel's continued occupation of five
 positions in southern Lebanon blocked reconstruction and the return of displaced residents. The truce officially collapsed on March 2,
