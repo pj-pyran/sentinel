@@ -1,34 +1,43 @@
 Crisis / situation: Ukraine
 
---- Report 1: ACLED (2026-07-15) ---
-Russia resumes its air campaign against Ukraine with a mass strike on Kyiv.
+--- Report 1: UNHCR (2026-07-23) ---
+Overview
+This report synthesizes five Computer-Assisted Telephone Interviewing (CATI)-based post distribution monitoring (PDM) assessments covering 2,150 households (HHs), examining humanitarian house repair for both war-affected and internally displaced people (IDPs), construction materials and Rapid Thermal Kit (RTK) assistance delivered in 2025. Sources: Windows Replacement (June 2026, n=290), House Repairs (May 2026, n=561), Construction Materials (May 2026, n=537), IDP Housing Repairs (March 2026, n=454), and Rapid Thermal Kits (April–May 2026, n=308). Service providers: Kyiv Institute of Sociology and Info Sapiens. Target sample sizes for each assessment were determined using a standard statistical sample-size formula (the normal-approximation/Cochran method), applying a 99% confidence level against each programme.
+
+--- Report 2: UNHCR (2026-07-23) ---
+Context and Overview
+▪ Winter 2025-2026 was particularly harsh in Ukraine. A report by the UN HRMMU found that Russian Armed Forces systematically and repeatedly targeted energy facilities across Ukraine throughout the 2025-2026 winter months – with electricity generation, transmission and distribution facilities hit at least 423 times between October 2025 and March 2026, including 48 coordinated attacks that targeted three or more regions using multiple types of weapons. These attacks triggered emergency electricity outages, affecting millions of civilians across the country, and disrupted critical utilities to hundreds of thousands of people, leaving many without heating and hot water as temperatures fell below -20°C in the coldest winter in Ukraine since 2010. The impact of these outages was particularly severe for people living in multistory buildings and for people with reduced mobility, including older persons and persons with disabilities.
+▪ The REACH Cold Spots Risk Assessment for the 2026-2027 winter season found that the highest levels of risk remain concentrated in the north-east and east of Ukraine, particularly across Kharkivska, Sumska, Donetska, and Kyivska oblasts, where colder winter conditions overlap with war intensity, proximity to active hostilities or the Russian border, displacement, infrastructure disruption, and cumulative damage to electricity, water, and heating systems. Compared to previous years, winter-related vulnerability is increasingly shaped not only by proximity to the frontline, but also by broader energy-system disruption affecting large urban and densely populated areas. The REACH assessment highlights the growing importance of large urban areas – including cities such as Kyiv, Kharkiv, Odesa, and Dnipro – where disruptions to electricity, heating, water, and communication systems may affect large numbers of people. Meanwhile, parts of Khersonska, Zaporizka, and Odeska oblasts in southern Ukraine also demonstrate winter-related vulnerability linked to war exposure, infrastructure disruption, and utility outages.
+▪ UNHCR’s border monitoring found that the lack of basic services also influenced people’s decisions to flee abroad last winter. People leaving Ukraine started citing lack of electricity, water, and heating among the top reasons for leaving in September 2025. In December 2025, January and February 2026, around 75% of people who left mentioned either lack of electricity, water or heating. About one-third of respondents who left Ukraine in January and February 2026 said that stabilization of the electricity situation was a main factor influencing a future return decision.
+
+--- Report 3: ACLED (2026-07-22) ---
+Ukraine strikes dozens of Russian shadow fleet vessels to cripple trade and logistics through the Azov Sea.
 Author
-Cristian Vlas
-Eastern Europe Assistant Research Manager
+Olha Polishchuk
+Eastern Europe, Caucasus, and Central Asia Research Manager
 Key stats
-2,012 political violence events
-6% increase compared to last week
-234 incidents of violence targeting civilians
-24% increase compared to last week
-At least 118 civilians killed by targeted violence
-18% increase compared to last week
-Key events
-29 Jun. Dnipropetrovsk — A Russian missile strike kills seven civilians and injures 28 others in Dnipro city
-1 Jul. Kherson — Russian drone strikes kill three civilians and wound 31 others in Kherson city
-3 Jul. Sumy — Russian aerial bombs kill five civilians and injure 49 others in Sumy city
+1,948 political violence events
+3% decrease compared to last week
+204 incidents of violence targeting civilians
+14% decrease compared to last week
+At least 110 civilians killed by targeted violence
+10% decrease compared to last week
+6 Jul.
+Kyiv — Russian drones and missiles cause detonations in an unauthorized weapons warehouse in Vyshneve, killing nine civilians
+6 Jul.
+Kyiv — Russian drones and missiles kill 19 civilians and injure 76 others in Kyiv city
+6 Jul.
+Omsk, Russia — Ukrainian drones strike an oil refinery in Omsk, around 2,500 kilometers from the Russian-Ukrainian border
 Key trends
 
-Russian forces continued their advances in the Kharkiv region, claiming two settlements near Vovchansk and Kupiansk. In the Donetsk region, they advanced west of the Slovyansk-Kramatorsk agglomeration, occupying two villages. Despite local Ukrainian counteroffensives at the Dnipropetrovsk-Zaporizhia administrative line, Russia’s infiltration and flag-planting operations allowed it to claim advances and occupy a village northwest of Huliaipole.
-Russian forces launched at least 65 long-range missile and drone attacks, including on Kyiv city and the surrounding region, but mostly on the Chernihiv and Dnipropetrovsk regions.
-Russian strikes reportedly killed at least 96 civilians in the city of Kyiv and across the Sumy, Kharkiv, Dnipropetrovsk, Donetsk, Zaporizhia, Kherson, Mykolaiv, and Odesa regions. Ukrainian strikes reportedly killed at least 20 civilians in the Russian-occupied parts of the Zaporizhia, Donetsk, Kherson, and Luhansk regions.
+Russian forces occupied two settlements close to the Russia-Ukraine border in the Sumy region and another settlement north of Dvorichna in the Kharkiv region.
+Ukrainian forces regained control of a village in the Donetsk region, near the boundary with the Dnipropetrovsk region.
+Russian forces launched at least 64 long-range missile and drone attacks, including on Kyiv city and the surrounding region.
+Russian strikes reportedly killed at least 95 civilians in the city of Kyiv and across the Donetsk, Kharkiv, Kyiv, Kherson, Zaporizhia, Odesa, Mykolaiv, Sumy, and Dnipropetrovsk regions. Ukrainian strikes reportedly killed at least 15 civilians in the Russian-occupied parts of the Luhansk, Zaporizhia, Kherson, and Kharkiv regions, as well as in the occupied Crimea, and the Azov Sea.
 
-Spotlight: Russia resumes its air campaign on Kyiv to bend Ukraine’s will to fight
-A combined attack of Russian drones, ballistic missiles, and cruise missiles launched during the night of 1 and 2 July at the city of Kyiv and its suburbs killed at least 31 civilians and injured over 100 others. The strikes also damaged over 100 residential buildings, as well as educational institutions, a Red Cross warehouse, and oil and energy infrastructure. Russia followed these attacks with a similar mass round of strikes on Kyiv and the Kyiv region on 6 July. Preliminary data point to at least 26 fatalities and tens of injured civilians. The strikes mark a new high of civilian targeting in population centers. ACLED records the third-highest fatality count in Kyiv following the 1 and 2 July overnight strikes since the start of Russia’s full-scale invasion of Ukraine, on par with the strikes it carried out on 31 July 2025.
-During the week, Russian forces also struck the regional capitals of Sumy, Kharkiv, Dnipro, Zaporizhia, Kherson, Odesa, and Mykolaiv, killing at least 34 civilians and injuring over 250 others. They also targeted civilian infrastructure, including apartment buildings and gas stations. The urban centers in front line regions are particularly vulnerable to Russian strikes due to their proximity to Russian launchpads and importance in military logistics and humanitarian service provision. While these strikes highlight Ukraine’s critically low air defense missile stock, they also suggest Moscow’s intent to intensify targeting of civilians and civilian infrastructure behind the front lines, at the cost of breaking civilian casualty records. This intent relies on Vladimir Putin’s presumed theory that continuing deep strikes into Ukraine and their disastrous consequences will be sufficient to break the will of Ukrainian society to fight back. However, this has resulted in little change despite the Ukrainians’ openness to negotiations to end the war.
-
---- Report 2: UNHCR (2026-07-15) ---
-OPERATIONAL CONTEXT &amp; HIGHLIGHTS:
-• The Russian Federation has significantly intensified aerial attacks against Ukraine, with Kyiv and other cities subjected to multiple large-scale strikes. The UN HRMMU reported that civilian casualties in Ukraine were higher in June 2026 than in any other month since April 2022, with at least 293 civilians killed and 1,990 injured. This concerning trend appears to be continuing into July. A massive attack on Kyiv overnight on 1-2 July killed 31 people. Only a few days later, another attack on 5-6 July killed 19 people in Kyiv city and ten people in the Kyiv region. So far this year, Russian Armed Forces launched over 520 ballistic missiles at Ukraine, more than twice as many as in the same period in 2025, according to Ukraine air force data.
-• The Ukraine Recovery Conference (URC) took place in Gdańsk, Poland, on 25 and 26 June. UNHCR’s Representative Bernadette Castel-Hollingsworth attended, joining key discussions with partners, UN agencies and Government counterparts. The Representative also spoke at a side event on recovery and future returns of displaced Ukrainians – highlighting the need for people-centered investments in housing, jobs and services in Ukraine.
-• Marking the 75th anniversary of the 1951 Refugee Convention and the 65th anniversary of the 1961 Convention on the Reduction of Statelessness – and ahead of World Refugee Day in June – UNHCR together with the Ministry of Foreign Affairs launched a photo exhibition in Kyiv highlighting the stories of refugees and stateless people in Ukraine.
-• In the fifth year since the start of the Russian full-scale invasion of Ukraine, and more than 12 years since the war began, UNHCR’s programme in Ukraine increasingly aims to help war-affected people and communities to recover, and displaced people to find durable solutions, particularly through housing and strategic protection advocacy.
+Spotlight: Ukraine intensifies its campaign of targeting Russian vessels to cripple maritime export and supply routes
+Beginning on 6 July, Ukraine has embarked on a campaign of targeted drone strikes on Russian and Russian-affiliated vessels, primarily in the Azov Sea, but also in the Black Sea. By 13 July, the number of impacted vessels exceeded 100 and will likely keep growing until maritime traffic to the Russian and Russian-controlled shores in the Azov Sea is effectively crippled. Most of the targeted vessels were Russian and foreign-flagged shadow fleet oil tankers, but Ukrainian drones also struck several tugboats, cargo ships, and ferries. During one of the attacks on 10 July, a crew member of an oil tanker was killed.
+These naval attacks are yet another escalation in Ukraine’s campaign of targeting the Russian oil industry and energy sector more broadly, which started with long-range attacks on mainly export-oriented oil infrastructure in Russia back in 2024. The campaign has since expanded to other fuel and power infrastructure, as well as to Russian shadow fleet vessels transporting sanctioned oil. This latest series of strikes completely overshadowed attacks on over 20 Russian shadow fleet vessels recorded since 2025, prior to this escalation.
+The choice of the Azov Sea as the area of focus for these strikes seems aimed not just at clogging traffic but also at being symbolic, since the sea is surrounded by a Russian-controlled coast and is treated by Russia as its internal waters. All vessels in the area have either a Russian registration or a Russian authorization to engage in Russian trade or logistics. The attacks also support Ukraine’s recent campaign to isolate Crimea by targeting not only the land logistics network but also maritime supply routes.
+Ukraine justified the campaign by claiming that Russian shadow fleet vessels are lawful military targets because they financially sustain the Russian war in Ukraine due to sanction evasion and high profits. The legality of targeting a civilian industry due to its financial contribution to military spending is heavily disputed, particularly in the naval context, where seizure – not the targeting of enemy civilian vessels – is a recognized lawful method of economic warfare. In particular, the Secretary-General of the International Maritime Organization condemned the attacks against civilian merchant ships in the Azov and Black Seas, stating that they were not parties to the conflict. Aside from the legality of targeting the oil industry, Russian shadow fleet vessels have also been used by Russia for hybrid warfare and intelligence gathering, transporting Russian troops, and sailing under military convoys, though it is not clear whether any of the vessels hit during this campaign engaged in this activity.
+As a result of Ukraine’s naval campaign, Russia decided to halt shipping through the Don-Azov canal, an important maritime corridor for exporting oil, agricultural products, and other goods, but also an exit route for the Caspian flotilla of the Russian Navy.
