@@ -1,6 +1,20 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: IFRC (2026-07-23) ---
+--- Report 1: HOPE (2026-07-23) ---
+Project HOPE continues to expand its humanitarian response across northern Venezuela. The team is significantly increasing access to healthcare for displaced and affected communities by operating eight mobile medical units (MMU), which are providing primary and maternal healthcare services in shelters and underserved communities. Project HOPE also continues to provide additional clinical support at health facilities in Distrito Capital and Miranda, with expansion underway to facilities in La Guaira. To reduce the risk of secondary public health emergencies, Project HOPE is also connecting families to mental health support, providing essential medicines, distributed additional hygiene kits through complementary funding, and recently launched a water trucking initiative.
+Situation Overview
+Humanitarian needs remain high as communities transition from the immediate aftermath of the earthquakes into a prolonged recovery phase. While debris removal and damage assessments continue, thousands of displaced people remain in temporary shelters with persistent needs for healthcare, safe water, sanitation, and protection services. Overcrowded living conditions, intermittent rainfall, and disruptions to essential services continue to increase the risk of infectious disease transmission. At the same time, health facilities face the pressure of a continued increase in demand for services, including for acute injuries and routine health needs that were interrupted by the disaster. As operations evolve, humanitarian partners are increasingly focused on restoring access to primary healthcare and strengthening local health services to support communities through recovery.
+
+--- Report 2: ChildFund International (2026-07-23) ---
+1. Context
+Three weeks after the 24 June earthquakes, the death toll and affected population continue increasing. OCHA has formalized the national response into a six-month Humanitarian Response Plan Addendum (July–Dec. 2026).
+Toll: 5,278 dead, 16,740 injured, 6,462 rescued alive. Of the confirmed dead, 7% remain unidentified, mainly due to missing fingerprint records and identity system gaps.
+Displacement: As of July 21, 107 transitional camps for affected populations have a total capacity of 27,822 people and current occupancy of 23,587 people. As of July 20, 41 camps are in Caracas, 28 in La Guaira, 28 in Miranda, and 10 in Aragua. Of the total camp population, 12,474 people are in La Guaira, 8,554 in Caracas, 1,877 in Miranda, and 682 in Aragua. These numbers are a snapshot, as the population in shelters changes constantly.
+Debris: An estimated 1 million tons of debris has resulted from the earthquake. Of this, only 6,700 tons has been cleared in La Guaira so far, representing just 1% of the total.
+Humanitarian funding request: OCHA's Humanitarian Response Plan Addendum requests USD 298 million to reach 1.3 million people over six months (JulyDecember 2026). This is in addition to the USD 930 million humanitarian funding appeal required for 6.2 million people in Venezuela prior to the earthquake Limited humanitarian operational presence: OCHA's own access assessment finds that Aragua, Carabobo, and Yaracuy have a relatively limited humanitarian operational presence. These states are accessible; the gap is a lack of resources. Priority needs as per the OCHA Rapid Needs Assessment: health (53%), safe water (52%), food security (50%), psychosocial support (27%), sanitation/hygiene (22%), protection/safety/dignity (18%), shelter (17%).
+Economic constraints: June inflation hit 13.8%, more than double May's rate. National reconstruction cost estimates now range from USD 12–15 billion (internal field sourcing).
+
+--- Report 3: IFRC (2026-07-23) ---
 A. SITUATION ANALYSIS
 Description of the crisis
 On 24 June 2026, two powerful earthquakes struck north-central Venezuela in rapid succession, with preliminary magnitudes of 7.2 and 7.5. Authorities have reported more than 1,000 aftershocks since the event, creating a high risk of further structural collapse. The epicentres were located near Morón and Yumare, in the states of Carabobo and Yaracuy, west of Caracas. The impact was severe and widespread, with tremors felt across much of the country, including the Capital District, La Guaira, Aragua, Carabobo, Miranda, Falcón, and neighbouring states.
@@ -12,7 +26,7 @@ Moreover, it is important to note that the main affected area, La Guaira, fulfil
 The physical impacts on affected people remain significant, with thousands of injured, many requiring continued medical care, rehabilitation or referral services, and with families displaced after the destruction or severe damage of their homes. Beyond these physical impacts, the earthquakes have also had significant effects on the mental health and psychosocial well-being of affected people. Many families have experienced loss and grief, injury, displacement, separation from relatives and loss of homes, livelihoods and community support networks. The magnitude of the tragedy on human terms, continued aftershocks, uncertainty regarding housing and recovery, and exposure to damaged environments and recovery operations has contributed to heightened levels of stress, anxiety and sadness among the affected populations.
 Notably, La Guaira’s geographical location is prone to various types of emergencies. In December 1999, torrential rainfall triggered catastrophic landslides, flash floods and debris flows across the then State of Vargas—now La Guaira—causing widespread destruction and displacement. The exact death toll remains uncertain; however, the United States Geological Survey estimated that between 15,000 and 30,000 people were killed. The current earthquake has therefore affected communities with lived and intergenerational memories of one of Venezuela’s most severe disasters.
 
---- Report 2: OCHA (2026-07-23) ---
+--- Report 4: OCHA (2026-07-23) ---
 Situation Report No. 29
 Earthquakes in Venezuela
 22 July 2026
@@ -28,7 +42,7 @@ Venezuela is facing a national emergency following two consecutive high-magnitud
 Twenty-four days since the earthquakes, authorities report a toll of 5,398 people dead and 16,740 injured since the onset of the emergency. Authorities also indicated that 17,907 people lost their homes.
 The Government response remains focused on the management of transitional camps and assistance to affected populations. The United Nations and its partner organizations, in coordination with the authorities, continue implementing multisectoral response activities and scaling up assistance. On 10 July, United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher announced a US$299 million addendum to the Humanitarian Response Plan to address the multisectoral needs of 1.3 million people affected by the earthquakes over the next six months. The addendum complements the 2026 Humanitarian Response Plan, increasing the target population from 5.5 million to 6.2 million people and raising total funding requirements from US$632 million to US$931 million.
 
---- Report 3: IOM (2026-07-22) ---
+--- Report 5: IOM (2026-07-22) ---
 The fifteenth Situation Report provides an update on IOM’s response to the 24 June earthquakes in the Bolivarian Republic of Venezuela, covering the period from 20 to 21 July.
 Highlights
 Between 20 and 21 July, IOM continued its multisectoral response in transitory camps and affected communities through interventions in shelter and site coordination, health, protection, WASH and information management.
@@ -45,13 +59,13 @@ IOM planned response
 IOM will continue the operational transition of three camps to NRC, assistance distributions and infrastructure improvements, while strengthening WASH, health, mental health and protection services.
 It will also strengthen camp and mobility monitoring, multisectoral assessments inside and outside the sites, and coordination with authorities and partners.
 
---- Report 4: CESVI (2026-07-22) ---
+--- Report 6: CESVI (2026-07-22) ---
 OPERATIONAL CONTEXT
 Nearly one month after the earthquakes, the humanitarian response in Venezuela is rapidly transitioning from the immediate emergency phase to a more structured, large-scale operation. Indeed, humanitarian needs remain immense: over 23,000 people live in transitional camps, thousands more remain displaced in host communities or informal settlements, and damaged housing and basic infrastructure continue to limit access to safe shelter, water, sanitation, healthcare and livelihoods.ii
 As aftershocks continue – over 1,300 registered up until now – the humanitarian response continues to expand in scale and complexity. Humanitarian actors are now planning assistance for 1.3 million people affected by the earthquakes over the coming six months, yet significant humanitarian gaps remain, as many communities remain underserved. This requires humanitarian actors that can rapidly identify unmet needs, coordinate effectively with existing response structures and deliver assistance where it is needed most.
 Against this backdrop, CESVI has paired rapid operational deployment with early engagement in humanitarian coordination mechanisms, ensuring that field evidence collected from the first days of the emergency directly informed operational planning, strengthened partnerships and supported the targeting of communities that remained outside the initial humanitarian response.
 
---- Report 5: OCHA (2026-07-22) ---
+--- Report 7: OCHA (2026-07-22) ---
 Situation Report No. 28
 Earthquakes in Venezuela
 21 July 2026
@@ -67,7 +81,7 @@ Venezuela is facing a national emergency following two consecutive high-magnitud
 Twenty-four days since the earthquakes, authorities report a toll of 5,346 people dead and 16,740 injured since the onset of the emergency. Authorities also indicated that 17,907 people lost their homes.
 The Government response remains focused on the management of transitional camps and assistance to affected populations. The United Nations and its partner organizations, in coordination with the authorities, continue implementing multisectoral response activities and scaling up assistance. On 10 July, United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Tom Fletcher announced a US$299 million addendum to the Humanitarian Response Plan to address the multisectoral needs of 1.3 million people affected by the earthquakes over the next six months. The addendum complements the 2026 Humanitarian Response Plan, increasing the target population from 5.5 million to 6.2 million people and raising total funding requirements from US$632 million to US$931 million.
 
---- Report 6: UNICEF (2026-07-22) ---
+--- Report 8: UNICEF (2026-07-22) ---
 Highlights
 
 More than three weeks after the earthquakes of 24 June, official figures report 5,208 deaths, 16,740 people injured, and 17,907 people left without housing.1 Humanitarian needs remain significant, particularly among displaced families residing in transitional camps and communities with disrupted access to essential services.
@@ -75,7 +89,7 @@ UNICEF continues to scale up multi-sectoral assistance, focusing on health, nutr
 UNICEF will reach 150,000 people with critical emergency supplies within the coming weeks, including 49,000 with health supplies, 72,000 with micronutrients, and 29,000 with WASH items. An additional 49 tons of emergency supplies arrived on 14 July to replenish in-country emergency stockpiles.
 In addition to the US$137.6 million requested under the 2026 Humanitarian Action for Children (HAC) appeal and aligned with the addendum to the Humanitarian Response Plan 2026, UNICEF requires US$65.7 million to respond to the humanitarian impact of the earthquakes.
 
---- Report 7: OCHA (2026-07-21) ---
+--- Report 9: OCHA (2026-07-21) ---
 Situation Report No. 27
 Earthquakes in Venezuela
 20 July 2026

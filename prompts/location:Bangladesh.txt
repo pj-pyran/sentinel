@@ -1,6 +1,13 @@
 Crisis / situation: Bangladesh
 
---- Report 1: Bangladesh Red Crescent (2026-07-23) ---
+--- Report 1: UN RC Bangladesh (2026-07-23) ---
+Heavy monsoon rains, flash floods, and landslides continue to impact communities across Bangladesh, with an estimated 1.28 million people affected in seven districts, including more than 15,500 persons with disabilities. Approximately 436,000 people are estimated to require humanitarian assistance, while 59 deaths have been reported in the seven most affected districts as of 22 July 2026.
+Government assessments indicate widespread damage to housing and essential services. A total of 74,479 houses have been damaged or destroyed, while flooding has fully or partially damaged 29,076 water points and 36,550 latrines, severely affecting access to safe water and sanitation across 42 upazilas in six districts.
+The disaster has also had a significant impact on livelihoods and food security. Approximately 27,007 hectares of cropland have been affected, and more than 266,000 livestock have been impacted. Combined losses to the livestock and fisheries sectors are estimated at US$17.3 million across the affected districts.
+Despite gradual improvements in some areas, active monsoon conditions continue to pose risks. The Bangladesh Meteorological Department forecast heavy to very heavy rainfall in Bandarban, Chattogram, and Cox’s Bazar and issued moderate- and low-risk landslide advisories for these districts.
+Government authorities, humanitarian organizations, and development partners continue to scale up response efforts, providing food assistance, cash support, health services, protection interventions, shelter assistance, and water, sanitation and hygiene (WASH) support to affected populations while assessments and recovery planning remain ongoing.
+
+--- Report 2: Bangladesh Red Crescent (2026-07-23) ---
 Bangladesh Red Crescent Society will continue to monitor the situation closely and share updated Situation Reports as new information becomes available. This report provides the latest operational updates and upcoming activities summary as humanitarian actions on the evolving monsoon-induced flooding and landslide emergency affecting Cox’s Bazar, Chattogram, Bandarban, Rangamati, Khagrachhari, Moulvibazar, Habiganj and adjacent districts of Bangladesh.
 KEY ACHIEVEMENTS BY SECTOR
 ● Food &amp; Cash: 23,137 HH/people reached with dry food; 2,400 HH/people with locally funded cooked food.
@@ -18,7 +25,7 @@ WHAT WE PLAN TO DO NEXT
 ● Volunteer mobilization for Joint Need assessment.
 ● BDRCS is responding based on its comprehensive flood response plan (nation-wide) to assist more than 1,50,000 people with live saving humanitarian assistance and seeking BDT 38 Cr (CHF 2.5 million)
 
---- Report 2: WFP (2026-07-22) ---
+--- Report 3: WFP (2026-07-22) ---
 Key highlights
 • General inflation declined slightly in June yet stayed above 9%, continuing a threemonth trend of high price pressures.
 • Import-dependent food commodities (edible oils, sugar) continued to maintain elevated price in the retail markets. • Liquid fuel prices and electricity tariff remained at elevated levels.
