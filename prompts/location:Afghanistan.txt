@@ -1,6 +1,29 @@
 Crisis / situation: Afghanistan
 
---- Report 1: OCHA (2026-07-23) ---
+--- Report 1: WFP (2026-07-24) ---
+Key Highlights
+Fuel Price Shock and Exchange Rate Dynamics:
+A sharp spike in fuel prices is emerging as a primary driver of inflationary pressure, with the cost of transportation cascading into other food and non-food items. This increase is directly impacting supply chains and delivery costs, driven by rising diesel prices. The main catalysts are deepening supply shortages from Russia, exacerbated by the export ban and damage to critical refining infrastructure. Over the past two weeks, limited alternative supplies from Central Asian countries, Iran, and Iraq have contributed to the price surge. Beyond diesel, consumers in parts of the country are reporting shortage of gas used for cooking appliances, with prices rising sharply. Similarly, petrol prices have surged from around AFN 66 to AFN 82 per litre. Concurrently, while the Afghani remained broadly stable at AFN 65.9/USD, it has exhibited an upward trend in recent weeks, depreciating by 2.5% compared to the third week of June. However, it remains 4% stronger than last year and 13% stronger than the three-year average, which continues to partially moderate imported inflation.
+Food Items:
+• National average food prices showed broad-based upward pressure during the third week of July, with rising transportation costs increasingly contributing to price movements across several commodities.
+• Wheat and Flour: All wheat categories rose by around 1% week-on-week, remaining elevated compared to last year—wheat grain (+14%), high-price flour (+8%), and low-price flour (+12%)—reflecting sustained production and transportation costs.
+• Rice: Both rice categories edged up modestly and remained substantially above last year's levels, with high-price rice 27% higher and low-price rice 34% higher, standing significantly above their three-year average levels.
+• Other Staples: Cooking oil surged by 4.6%, the sharpest weekly increase among staples, while sugar rose modestly (+0.5%) and pulses and salt remained largely stable. Year-on-year, prices of cooking oil (+8%), sugar (+10%), and salt (+8%) remains elevated, whereas pulses show a 14% decline.
+• Vegetables: Potato prices continued to climb (+2.2%), while tomato and onion saw marginal increases. Year-on-year, tomato and potato remained significantly elevated by 35% and 55%, respectively, while onion prices eased by 9%, reflecting improved seasonal availability.
+Non-Food Items:
+• Fuel: Diesel prices continued their sharp upward trajectory, increasing by 3.1% during the week, mainly due to higher international oil prices and continued supply constraints from Russia. Compared to last year and the three-year average, diesel prices remained 19% and 21% higher, respectively.
+• Fertilizers: Fertilizer prices rose during the week, with DAP increasing by 1.7% and Urea by 1.1%. However, compared to last year, DAP and Urea remained considerably higher by 19% and 51%, respectively. Improved seed and animal feed prices stayed below last year and the three-year average, reflecting weak consumer demand.
+• Livestock: The price of a one-year-old live female sheep increased marginally by 0.4% during the week but remained 6% below last year's level and 2% below the three-year average, contributing to weaker pastoralist ToT.
+• Labour Market: Daily wage unskilled labour availability remains limited at 2.0 days/week which is 17% lower than last year and the three-year average, indicating continued pressure on household income opportunities
+
+--- Report 2: UNICEF (2026-07-24) ---
+Situation Overview
+• On 20 July, heavy rainfall triggered flash floods across three provinces in eastern Afghanistan. The most severe impact was reported in Parun City, Nuristan Province, where extensive flooding caused deaths, injuries, significant damages with disruption of services to the affected communities.
+• Preliminary reports1 indicate 23 fatalities and 125 injuries, with additional individuals still missing. The floods destroyed and damaged 92 houses, while also impacting a health clinic, markets, and disrupting local livelihoods.
+• Critical infrastructure and services sustained damages, including bridges, road sections, flood protection walls, agricultural land and damaged water supply networks, disrupting access to safe drinking water.
+• Within 24 hours, UNICEF with partners were on the ground, providing immediate lifesaving emergency health services to cover over 600 people including children.
+
+--- Report 3: OCHA (2026-07-23) ---
 Highlights
 
 Heavy rainfall and flash floods have affected communities across several provinces in central, eastern and southeastern Afghanistan. The impacts range from loss of life and extensive damage to homes, public infrastructure and livelihoods to localized impacts affecting individual families.
@@ -63,7 +86,7 @@ OCHA, together with humanitarian partners and ANDMA, continues to coordinate the
 With inter-agency coordination mechanisms activated across affected regions, Operational Coordination Teams (OCTs) continue to meet and coordinate the response across affected provinces. Efforts are ongoing to scale up assistance in the most affected areas while supporting early recovery planning and the restoration of essential services and livelihoods.
 This is a flash update based on information available as of 23 July 2026. Figures and other information remain subject to verification and may change as response activities continue.
 
---- Report 2: WHO (2026-07-22) ---
+--- Report 4: WHO (2026-07-22) ---
 HIGHLIGHTS
 On 20 July 2026, intense rainfall triggered severe flash floods across Nuristan Province in eastern Afghanistan, with the most significant impacts reported in Parun City, the provincial capital of Nuristan Province. Floodwaters rapidly inundated populated areas, causing widespread damage to homes, public infrastructure, agricultural land and commercial properties. Preliminary reports indicate significant loss of life, injuries and extensive disruption to livelihoods, essential services and local markets.
 To date, 23 deaths and 15 injuries have been reported, while additional individuals remain missing across the affected areas. Search and rescue operations are ongoing. Casualty figures are expected to rise as assessment teams gain access to affected locations and rescue efforts continue.
@@ -74,7 +97,7 @@ The situation remains fluid, with search and rescue operations ongoing in Parun 
 Emergency response operations are ongoing. Health workers, search and rescue teams, and humanitarian partners have been mobilized to provide lifesaving medical care, emergency supplies and mental health and psychosocial support to affected communities.
 WHO will continue to coordinate closely with national and provincial health authorities and partners to address the most urgent health needs of affected populations, support ongoing response efforts, and ensure the continuity of essential health services.
 
---- Report 3: ARCS (2026-07-22) ---
+--- Report 5: ARCS (2026-07-22) ---
 Description
 On Monday, 20 July 2026, at approximately 3:00 p.m. local time, a sudden flash flood struck the central areas of Nuristan Province following heavy and continuous rainfall.
 The low-lying areas and communities located along rivers and seasonal watercourses were the most severely affected. In Nuristan Province, the flash floods resulted in fatalities and injuries, while causing extensive damage to the central market, residential houses, public infrastructure, livelihoods and income sources, as well as agricultural land
