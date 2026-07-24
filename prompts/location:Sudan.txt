@@ -1,134 +1,16 @@
 Crisis / situation: Sudan
 
---- Report 1: UNFPA (2026-07-20) ---
-The humanitarian situation in North Kordofan continues to deteriorate. Between 1 and 19 July, 21 drone-related incidents were recorded, resulting in civilian casualties, damage to critical infrastructure, and further disruptions to the already limited access to essential services.
-Access to sexual and reproductive health (SRH) services and protection from and response to gender-based violence (GBV) remain severely limited in North Kordofan due to the security situation, damaged and overstretched health facilities and service delivery points, and shortages of qualified health personnel, essential medicines, and medical supplies. In addition, water shortages, inadequate sanitation, and deteriorating living conditions are increasing health risks for women and girls, particularly pregnant and lactating women.
-An additional US $1.83 million is urgently required for UNFPA to sustain and scale up preparedness and response activities for SRH and GBV interventions for conflict-affected women and girls in North Kordofan and White Nile states.
+--- Report 1: WFP (2026-07-24) ---
+KEY HIGHLIGHTS
 
---- Report 2: DFS (2026-07-20) ---
-Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces
-(SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
-widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
-continuing to deteriorate across much of the country.
-An estimated 19.5 million people are currently experiencing acute food insecurity, making Sudan the world’s largest hunger crisis.
-Famine conditions have been confirmed in el-Fasher (North Darfur) and Kadugli (South Kordofan), while multiple areas across Darfur
-and Kordofan remain at high risk of famine amid ongoing conflict, siege tactics, market disruption, and severe restrictions on
-humanitarian access. Children continue to bear a disproportionate burden of the crisis, with millions exposed to acute malnutrition,
-disease outbreaks, and heightened mortality risks.
-Fatality estimates remain highly contested due to limited access, communication blackouts, and verification constraints. The Armed
-Conflict Location &amp; Event Data Project (ACLED) recorded nearly 30,000 reported deaths by late 2024, while independent analyses and
-international media estimates suggest the true death toll may exceed 150,000 people. Civilians continue to face widespread violence,
-including indiscriminate shelling, aerial bombardments, drone attacks, and ethnically targeted violence, particularly in Darfur and
-parts of Kordofan.
-Sudan’s health system remains severely degraded, especially in active conflict zones where many facilities are non-operational or
-functioning only partially. Although the nationwide cholera outbreak that spread across all 18 states between 2024 and early 2026 was
-declared contained in March 2026, underlying conditions—including mass displacement, damaged health infrastructure, and poor
-sanitation—continue to create a high risk of renewed outbreaks and other communicable diseases.
-Displacement continues at an unprecedented scale. More than 14 million people have been displaced since the start of the conflict,
-including approximately 9 million internally displaced persons (IDPs) and over 4 million refugees in neighboring countries, making
-Sudan the world’s largest displacement crisis. At the same time, limited and fragile returns to parts of Khartoum and Al Jazirah have
-been reported since early 2026 following shifting frontlines, though returnees face widespread destruction, insecurity, and lack of basic
-services and livelihoods.
-Militarily, the conflict has continued to fragment since late 2025, with intensified fighting in Darfur and Kordofan driving further civilian
-displacement and humanitarian access constraints. The RSF maintains significant influence across much of Darfur and continues
-offensive operations in Kordofan, while the SAF retains control over key eastern and northern urban centers. The growing use of drones,
-aerial strikes, and long-range attacks has increasingly impacted civilian infrastructure, including hospitals, schools, markets, and
-displacement sites, further compounding humanitarian needs.
-Ethnic violence and sexual and gender-based violence (SGBV) continue to escalate, particularly in Darfur. Human rights organizations
-and monitoring networks have documented widespread abuses, including conflict-related sexual violence, forced displacement,
-arbitrary detention, and targeted attacks on ethnic communities. Despite sustained international pressure, including sanctions
-imposed by the United States and United Kingdom on RSF leaders and affiliated networks, diplomatic and mediation efforts have yet to
-achieve a durable ceasefire or political settlement.
-The conflict is also generating increasing regional spillover, with large refugee flows, cross-border insecurity, and growing pressure on
-already overstretched humanitarian systems in neighboring countries. Humanitarian operations inside Sudan remain critically
-underfunded, with the World Food Programme warning in 2026 that severe funding gaps are threatening emergency food pipelines,
-ration levels, and the continuity of lifesaving assistance.
-As of mid-2026, Sudan remains one of the world’s most severe and complex humanitarian emergencies, characterized by prolonged
-armed conflict, fragmented territorial control, mass displacement, and shrinking humanitarian space. Without urgent improvements in
-humanitarian access, sustained financing, and renewed diplomatic engagement, the crisis is likely to deepen further, with serious
-implications for civilian populations and broader regional stability.
+In June, WFP reached 3.7 million people, the highest monthly number in 2026, driven by WFP’s strong logistical and procurement capacity, ability to access hard-to-reach areas, close coordination with partners and government counterparts, and the scale-up of both in-kind food assistance and cash-based transfers (CBT).
+Of all the people reached, 1 million received assistance in areas classified as at Risk of Famine (RoF).
+WFP reached 1.4 million people through CBT in June, also the highest monthly reach achieved since the onset of the conflict.
+WFP is facing severe funding constraints. Without additional resources, WFP's food stocks are expected to be exhausted by September, while funding for lifesaving CBT assistance is projected to run out in August, leaving millions of vulnerable people without support.
 
---- Report 3: DFS (2026-07-20) ---
-Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
-widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
-continuing to deteriorate across much of the country.
-An estimated 19.5 million people are currently experiencing acute food insecurity, making Sudan the world’s largest hunger crisis.
-Famine conditions have been confirmed in el-Fasher (North Darfur) and Kadugli (South Kordofan), while multiple areas across Darfur
-and Kordofan remain at high risk of famine amid ongoing conflict, siege tactics, market disruption, and severe restrictions on
-humanitarian access. Children continue to bear a disproportionate burden of the crisis, with millions exposed to acute malnutrition,
-disease outbreaks, and heightened mortality risks.
-Fatality estimates remain highly contested due to limited access, communication blackouts, and verification constraints. The Armed
-Conflict Location &amp; Event Data Project (ACLED) recorded nearly 30,000 reported deaths by late 2024, while independent analyses and
-international media estimates suggest the true death toll may exceed 150,000 people. Civilians continue to face widespread violence,
-including indiscriminate shelling, aerial bombardments, drone attacks, and ethnically targeted violence, particularly in Darfur and
-parts of Kordofan.
-Sudan’s health system remains severely degraded, especially in active conflict zones where many facilities are non-operational or
-functioning only partially. Although the nationwide cholera outbreak that spread across all 18 states between 2024 and early 2026 was
-declared contained in March 2026, underlying conditions—including mass displacement, damaged health infrastructure, and poor
-sanitation—continue to create a high risk of renewed outbreaks and other communicable diseases.
-Displacement continues at an unprecedented scale. More than 14 million people have been displaced since the start of the conflict,
-including approximately 9 million internally displaced persons (IDPs) and over 4 million refugees in neighboring countries, making
-Sudan the world’s largest displacement crisis. At the same time, limited and fragile returns to parts of Khartoum and Al Jazirah have
-been reported since early 2026 following shifting frontlines, though returnees face widespread destruction, insecurity, and lack of basic
-services and livelihoods.
-Militarily, the conflict has continued to fragment since late 2025, with intensified fighting in Darfur and Kordofan driving further civilian
-displacement and humanitarian access constraints. The RSF maintains significant influence across much of Darfur and continues
-offensive operations in Kordofan, while the SAF retains control over key eastern and northern urban centers. The growing use of drones,
-aerial strikes, and long-range attacks has increasingly impacted civilian infrastructure, including hospitals, schools, markets, and
-displacement sites, further compounding humanitarian needs.
-Ethnic violence and sexual and gender-based violence (SGBV) continue to escalate, particularly in Darfur. Human rights organizations
-and monitoring networks have documented widespread abuses, including conflict-related sexual violence, forced displacement,
-arbitrary detention, and targeted attacks on ethnic communities. Despite sustained international pressure, including sanctions
-imposed by the United States and United Kingdom on RSF leaders and affiliated networks, diplomatic and mediation efforts have yet to
-achieve a durable ceasefire or political settlement.
-The conflict is also generating increasing regional spillover, with large refugee flows, cross-border insecurity, and growing pressure on
-already overstretched humanitarian systems in neighboring countries. Humanitarian operations inside Sudan remain critically
-underfunded, with the World Food Programme warning in 2026 that severe funding gaps are threatening emergency food pipelines,
-ration levels, and the continuity of lifesaving assistance.
-As of mid-2026, Sudan remains one of the world’s most severe and complex humanitarian emergencies, characterized by prolonged
-armed conflict, fragmented territorial control, mass displacement, and shrinking humanitarian space. Without urgent improvements in
-humanitarian access, sustained financing, and renewed diplomatic engagement, the crisis is likely to deepen further, with serious
-implications for civilian populations and broader regional stability.
-
---- Report 4: DFS (2026-07-20) ---
-Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces
-(SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered
-widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions
-continuing to deteriorate across much of the country.
-An estimated 19.5 million people are currently experiencing acute food insecurity, making Sudan the world’s largest hunger crisis.
-Famine conditions have been confirmed in el-Fasher (North Darfur) and Kadugli (South Kordofan), while multiple areas across Darfur
-and Kordofan remain at high risk of famine amid ongoing conflict, siege tactics, market disruption, and severe restrictions on
-humanitarian access. Children continue to bear a disproportionate burden of the crisis, with millions exposed to acute malnutrition,
-disease outbreaks, and heightened mortality risks.
-Fatality estimates remain highly contested due to limited access, communication blackouts, and verification constraints. The Armed
-Conflict Location &amp; Event Data Project (ACLED) recorded nearly 30,000 reported deaths by late 2024, while independent analyses and
-international media estimates suggest the true death toll may exceed 150,000 people. Civilians continue to face widespread violence,
-including indiscriminate shelling, aerial bombardments, drone attacks, and ethnically targeted violence, particularly in Darfur and
-parts of Kordofan.
-Sudan’s health system remains severely degraded, especially in active conflict zones where many facilities are non-operational or
-functioning only partially. Although the nationwide cholera outbreak that spread across all 18 states between 2024 and early 2026 was
-declared contained in March 2026, underlying conditions—including mass displacement, damaged health infrastructure, and poor
-sanitation—continue to create a high risk of renewed outbreaks and other communicable diseases.
-Displacement continues at an unprecedented scale. More than 14 million people have been displaced since the start of the conflict,
-including approximately 9 million internally displaced persons (IDPs) and over 4 million refugees in neighboring countries, making
-Sudan the world’s largest displacement crisis. At the same time, limited and fragile returns to parts of Khartoum and Al Jazirah have
-been reported since early 2026 following shifting frontlines, though returnees face widespread destruction, insecurity, and lack of basic
-services and livelihoods.
-Militarily, the conflict has continued to fragment since late 2025, with intensified fighting in Darfur and Kordofan driving further civilian
-displacement and humanitarian access constraints. The RSF maintains significant influence across much of Darfur and continues
-offensive operations in Kordofan, while the SAF retains control over key eastern and northern urban centers. The growing use of drones,
-aerial strikes, and long-range attacks has increasingly impacted civilian infrastructure, including hospitals, schools, markets, and
-displacement sites, further compounding humanitarian needs.
-Ethnic violence and sexual and gender-based violence (SGBV) continue to escalate, particularly in Darfur. Human rights organizations
-and monitoring networks have documented widespread abuses, including conflict-related sexual violence, forced displacement,
-arbitrary detention, and targeted attacks on ethnic communities. Despite sustained international pressure, including sanctions
-imposed by the United States and United Kingdom on RSF leaders and affiliated networks, diplomatic and mediation efforts have yet to
-achieve a durable ceasefire or political settlement.
-The conflict is also generating increasing regional spillover, with large refugee flows, cross-border insecurity, and growing pressure on
-already overstretched humanitarian systems in neighboring countries. Humanitarian operations inside Sudan remain critically
-underfunded, with the World Food Programme warning in 2026 that severe funding gaps are threatening emergency food pipelines,
-ration levels, and the continuity of lifesaving assistance.
-As of mid-2026, Sudan remains one of the world’s most severe and complex humanitarian emergencies, characterized by prolonged
-armed conflict, fragmented territorial control, mass displacement, and shrinking humanitarian space. Without urgent improvements in
-humanitarian access, sustained financing, and renewed diplomatic engagement, the crisis is likely to deepen further, with serious
-implications for civilian populations and broader regional stability.
+--- Report 2: Protection Cluster (2026-07-23) ---
+On 20 July 2026, local sources reported that three drones struck multiple locations in Al Rahad, North Kordofan.
+The reported strikes impacted a health centre and an area adjacent to the main market during peak morning activity.
+While casualty figures remain under verification, UNICEF subsequently reported tha at least 2 children were killed and 6 children, aged between 6 and 14, were injured. Local sources also reported that 4 adults were killed, and more than 20 others were injured.
+The incident followed a reported attack on Al Musallamiya village on 19 July 2026, in which local sources reported that 13 civilians were killed.
+On21 July 2026, local sources reported that in Al Hugeina village, approximately 30 km from Al Rahad a drone strike allegedly targeted a girls' primary school which is still under verification at the time of reporting. One teacher was reportedly injured.
