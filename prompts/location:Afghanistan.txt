@@ -1,24 +1,26 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-07-24) ---
-Key Highlights
-Fuel Price Shock and Exchange Rate Dynamics:
-A sharp spike in fuel prices is emerging as a primary driver of inflationary pressure, with the cost of transportation cascading into other food and non-food items. This increase is directly impacting supply chains and delivery costs, driven by rising diesel prices. The main catalysts are deepening supply shortages from Russia, exacerbated by the export ban and damage to critical refining infrastructure. Over the past two weeks, limited alternative supplies from Central Asian countries, Iran, and Iraq have contributed to the price surge. Beyond diesel, consumers in parts of the country are reporting shortage of gas used for cooking appliances, with prices rising sharply. Similarly, petrol prices have surged from around AFN 66 to AFN 82 per litre. Concurrently, while the Afghani remained broadly stable at AFN 65.9/USD, it has exhibited an upward trend in recent weeks, depreciating by 2.5% compared to the third week of June. However, it remains 4% stronger than last year and 13% stronger than the three-year average, which continues to partially moderate imported inflation.
-Food Items:
-• National average food prices showed broad-based upward pressure during the third week of July, with rising transportation costs increasingly contributing to price movements across several commodities.
-• Wheat and Flour: All wheat categories rose by around 1% week-on-week, remaining elevated compared to last year—wheat grain (+14%), high-price flour (+8%), and low-price flour (+12%)—reflecting sustained production and transportation costs.
-• Rice: Both rice categories edged up modestly and remained substantially above last year's levels, with high-price rice 27% higher and low-price rice 34% higher, standing significantly above their three-year average levels.
-• Other Staples: Cooking oil surged by 4.6%, the sharpest weekly increase among staples, while sugar rose modestly (+0.5%) and pulses and salt remained largely stable. Year-on-year, prices of cooking oil (+8%), sugar (+10%), and salt (+8%) remains elevated, whereas pulses show a 14% decline.
-• Vegetables: Potato prices continued to climb (+2.2%), while tomato and onion saw marginal increases. Year-on-year, tomato and potato remained significantly elevated by 35% and 55%, respectively, while onion prices eased by 9%, reflecting improved seasonal availability.
-Non-Food Items:
-• Fuel: Diesel prices continued their sharp upward trajectory, increasing by 3.1% during the week, mainly due to higher international oil prices and continued supply constraints from Russia. Compared to last year and the three-year average, diesel prices remained 19% and 21% higher, respectively.
-• Fertilizers: Fertilizer prices rose during the week, with DAP increasing by 1.7% and Urea by 1.1%. However, compared to last year, DAP and Urea remained considerably higher by 19% and 51%, respectively. Improved seed and animal feed prices stayed below last year and the three-year average, reflecting weak consumer demand.
-• Livestock: The price of a one-year-old live female sheep increased marginally by 0.4% during the week but remained 6% below last year's level and 2% below the three-year average, contributing to weaker pastoralist ToT.
-• Labour Market: Daily wage unskilled labour availability remains limited at 2.0 days/week which is 17% lower than last year and the three-year average, indicating continued pressure on household income opportunities
+--- Report 1: WeWorld (2026-07-27) ---
+SITUATION UPDATE
+On 20 July 2026, heavy and continuous rainfall triggered severe flash flooding across several parts of eastern Afghanistan. The most serious impact was recorded in Parun City, Nuristan Province, while flooding was also reported in Torkham, Nangarhar Province, and Alingar District, Laghman Province. The floods are the latest in a series of increasingly frequent climate-related disasters affecting Afghanistan, where extreme weather events continue to compound humanitarian needs and undermine community resilience.
 
---- Report 2: UNICEF (2026-07-24) ---
-Situation Overview
-• On 20 July, heavy rainfall triggered flash floods across three provinces in eastern Afghanistan. The most severe impact was reported in Parun City, Nuristan Province, where extensive flooding caused deaths, injuries, significant damages with disruption of services to the affected communities.
-• Preliminary reports1 indicate 23 fatalities and 125 injuries, with additional individuals still missing. The floods destroyed and damaged 92 houses, while also impacting a health clinic, markets, and disrupting local livelihoods.
-• Critical infrastructure and services sustained damages, including bridges, road sections, flood protection walls, agricultural land and damaged water supply networks, disrupting access to safe drinking water.
-• Within 24 hours, UNICEF with partners were on the ground, providing immediate lifesaving emergency health services to cover over 600 people including children.
+--- Report 2: ARCS (2026-07-27) ---
+Description
+Following heavy and sustained rainfall, flash floods occurred in July 2026 across the country, affecting communities in Nuristan,Laghman, Parwan, Logar, Kabul, Kapisa, Panjsher,Nangarhar,Ghazni,Khost,Maidan Wardak,Paktika and Paktia provinces. Low-lying areas and settlements located along riverbeds were particularly impacted. The floods resulted in loss of life, injuries, and widespread damage to shelters, livelihoods and agricultural land, reflecting the broader pattern of seasonal flooding currently affecting several parts of the country.
+According to preliminary information compiled by the Afghan Red Crescent Society (ARCS), more than 910 families were affected. The floods caused 31 deaths and 11 injuries, with 77 cases of missing persons reported. Shelter damage was significant, with 910 houses completely and partially damaged, particularly in several provinces of Nuristan,Laghman, Parwan, Logar, Kabul, Kapisa, Panjsher,Nangarhar,Ghazni,Khost,Maidan Wardak,Paktika and Paktia provinces. In addition, the floods had a severe impact on livelihoods, resulting in the loss of 330 livestock and damage to approximately 5240 jeribs of agricultural land, further increasing vulnerabilities among farming and pastoral households.
+As part of ongoing support of ARCS, distributed 600 Parcel hot meal in Laghman Province ,NFI for one affected HHs in Maidan wardak province to the families who have been affected severely by floods.
+ARCS, through its provincial branches and volunteers, is monitoring the evolving situation and conducting initial assessments in coordination with local authorities and Movement partners. Priority humanitarian needs identified include emergency shelter and essential household items for families whose homes were destroyed or damaged, food assistance and multipurpose cash support, as well as livelihood and agricultural recovery assistance, including livestock support. With possibility of further rainfall, affected communities remain at risk of additional flooding, underscoring the need for timely humanitarian support.
+Request For Assistance
+Government Requests International Assistance: Yes
+NS Requests International Assistance: Yes
+Information Bulletin Published
+No
+Actions taken by National Society
+General
+First Aid
+Search &amp; Rescue
+Damage/Needs assessment
+Human remains management and identification
+Summary
+Planned International Response
+DREF: Requested
