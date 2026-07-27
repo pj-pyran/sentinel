@@ -1,12 +1,17 @@
 Crisis / situation: Yemen
 
---- Report 1: IOM (2026-07-22) ---
-During the reporting period (1 April–30 June 2026), IOM Yemen’s Displacement Tracking Matrix (DTM) recorded 465 newly displaced households (approximately 2,790 individuals) in accessible locations within IRG-administered areas. This represents a 44 per cent decrease compared to Q1 2026 (827 households). Displacement was highest in May (192 households), followed by June (177 households) and April (96 households).
-Geographically, displacement was primarily concentrated in Ma’rib (286 households), which accounted for approximately 62 per cent of all recorded movements during the quarter. This was followed by Al Hodeidah (79 households, 17%), Ta’iz (55 households, 12%), and Lahj (27 households, 6%), while smaller numbers were recorded in Ad Dali’ (12 households, 3%) and Shabwah (6 households, 1%).
-Among displacement drivers, economic reasons related to conflict emerged as the main trigger, accounting for 236 households (51%) of all recorded movements. Conflict-related insecurity accounted for 175 households (38%), while natural hazard-related events contributed to 53 households (11%). Health-related reasons were reported by one household (less than 1 per cent).
-Overall, the findings highlight a decline in displacement levels compared to the previous quarter, alongside a shift in displacement dynamics: economic pressures overtook conflict as the primary reported driver of displacement, while conflict and natural hazard-related events continued to contribute to population movements.
+--- Report 1: FAO (2026-07-26) ---
+Executive Summary
+Analysis of the July–September (Kharif) 2026 seasonal rainfall forecast, vegetation conditions, and agricultural stress indicators suggest a high probability of widespread drought across Yemen's rainfed agricultural areas.
+The forecasted rainfall anomalies are broadly consistent with climatic patterns typically associated with El Niño episodes. While direct attribution cannot be made at this stage, the expected below-average rainfall may be influenced by evolving large-scale climate conditions linked to El Niño, alongside other regional and local climatic drivers.
+Key Projections:
 
---- Report 2: WFP (2026-07-22) ---
-WFP data show a deterioration of the food security situation in Yemen for the second consecutive month, with the nationwide rate of severe food deprivation increasing to 36 percent.
-WFP, UNICEF, and the Nutrition Cluster are enhancing coordination and collaboration to address emerging nutrition gaps in areas deprioritized by WFP due to funding shortfalls.
-WFP started the fourth targeted emergency food assistance (TEFA) cycle in areas under the internationally recognized Government in mid-July, targeting 1.7 million people.
+Large parts of Yemen are expected to receive below-normal rainfall during JAS (July-August-September) 2026, with deficits exceeding 40% below the Long-Term Average (LTA) in many agricultural areas.
+Widespread vegetation stress is anticipated, with the Vegetation Condition Index (VCI) projected to decline to severe and extreme drought levels in several key agricultural governorates.
+An estimated 53% of the population in Yemen are projected to face IPC Phase 3+ (Crisis or worse) acute food insecurity situation during 2026.
+
+This anticipated climatic shock coincides with a deteriorating food security situation driven by contracted humanitarian assistance, regional conflict, and economic instability. Together, these factors are expected to intensify pressure on agricultural livelihoods and household food security, underscoring the urgent need for timely preparedness and anticipatory action.
+
+--- Report 2: FAO (2026-07-26) ---
+KEY HIGHLIGHTS
+SHORT-TERM OUTLOOK AND IMPLICATIONS ON FOOD SECURITY: Yemen faces a critical surge in acute food insecurity, with over 53% of the population projected in IPC Phase 3+ (Crisis or worse) and the world's highest burden of IPC Phase 4 (Emergency) conditions. This baseline vulnerability—where over 50% of rural households depend on agriculture for survival—is compounded by severe macro-economic shocks, including critical funding gaps (~14% funded as of June), currency depreciation, poor purchasing power, and trade disruptions through the Strait of Hormuz and Red Sea. The crisis is now intensified by an impending El Niño climate shock that actively suppresses the Yemeni Kharif monsoon through July–September 2026. Meteorological models project a &gt;70% probability of below-normal rainfall nationwide, with southern, central, and western agricultural zones experiencing &gt;80% rainfall deficits and extreme heat stress. This drought threatens primary Kharif cereal and vegetable crops, accelerates livestock pasture degradation, and threatens to push the share of agricultural households requiring emergency assistance from 36% to 55%—underscoring an urgent requirement before mid-August to prevent further significant deterioration across key priority governorates (Al Hudaydah, Taizz, Ibb, Dhamar, Al Mahwit).
