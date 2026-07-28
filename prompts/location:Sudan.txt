@@ -1,16 +1,15 @@
 Crisis / situation: Sudan
 
---- Report 1: WFP (2026-07-24) ---
-KEY HIGHLIGHTS
+--- Report 1: Insecurity Insight (2026-07-28) ---
+Using data collected by Insecurity Insight, the Safeguarding Health in Conflict Coalition (SHCC) identified 134 incidents of violence against or obstruction of health care in Sudan in 2025, compared to 274 in 2024 and 280 in 2023. Among incidents reported in 2025, health facilities were damaged or destroyed 40 times, while 54 health workers were killed and 47 arrested. Over three-quarters of the reported incidents affected local health care providers working for national health care structures.
+Incidents more than quadrupled in North, South, and West Kordofan states and persisted in the Darfur region – all areas where fighting between conflict parties was intense. Reported cases decreased in Gezira state in 2025 after the SAF recaptured the state capital, Wad Madani, and surrounding areas in January, pushing RSF forces out. More than 80% of reported incidents were attributed to the RSF. Other named conflict parties linked to attacks on health care in 2025 included Darfur communal militia, JFASM, SAF, SLM, and SPLM/ A-North fighters. In some incidents, the responsible conflict party remained unidentified.
+Documented incidents
+08-21 July 2026
+The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care between 08-21 July 2026. The incidents below have not been verified through ground investigations. There is a delay in reporting incidents due to our open source verification protocol.
+As reported 14 July 2026: In Kurmuk town, Blue Nile state, a hospital was reportedly damaged by the RSF during a raid. Kurmak had been taken-over by SAF on 08 July, though RSF claimed they had since taken it back. Sources: Al Jazeera and Centre for Information Resilience
+As reported 15 July 2026: In Khazan Orshi area, Ambro administrative unit, North Darfur state, Urshi General Hospital was reportedly damaged when joint forces allied with the SAF took over the area. Source: Al Jazeera
 
-In June, WFP reached 3.7 million people, the highest monthly number in 2026, driven by WFP’s strong logistical and procurement capacity, ability to access hard-to-reach areas, close coordination with partners and government counterparts, and the scale-up of both in-kind food assistance and cash-based transfers (CBT).
-Of all the people reached, 1 million received assistance in areas classified as at Risk of Famine (RoF).
-WFP reached 1.4 million people through CBT in June, also the highest monthly reach achieved since the onset of the conflict.
-WFP is facing severe funding constraints. Without additional resources, WFP's food stocks are expected to be exhausted by September, while funding for lifesaving CBT assistance is projected to run out in August, leaving millions of vulnerable people without support.
-
---- Report 2: Protection Cluster (2026-07-23) ---
-On 20 July 2026, local sources reported that three drones struck multiple locations in Al Rahad, North Kordofan.
-The reported strikes impacted a health centre and an area adjacent to the main market during peak morning activity.
-While casualty figures remain under verification, UNICEF subsequently reported tha at least 2 children were killed and 6 children, aged between 6 and 14, were injured. Local sources also reported that 4 adults were killed, and more than 20 others were injured.
-The incident followed a reported attack on Al Musallamiya village on 19 July 2026, in which local sources reported that 13 civilians were killed.
-On21 July 2026, local sources reported that in Al Hugeina village, approximately 30 km from Al Rahad a drone strike allegedly targeted a girls' primary school which is still under verification at the time of reporting. One teacher was reportedly injured.
+--- Report 2: DFS (2026-07-27) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response. You can find the SituationHub here: https://analysis.gannet.ai/sudan
