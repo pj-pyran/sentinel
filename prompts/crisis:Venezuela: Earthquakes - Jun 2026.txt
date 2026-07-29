@@ -1,13 +1,29 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: UNICEF (2026-07-27) ---
+--- Report 1: IOM (2026-07-28) ---
+The seventeenth Situation Report provides an update on IOM’s response to the 24 June earthquakes in the Bolivarian Republic of Venezuela, covering the period from 24 to 27 July.
+Highlights
+Between 24 and 27 July, IOM continued its multisectoral response in transitional sites and affected communities through interventions in shelter and site coordination, health, protection, WASH, and information management.
+During the reporting period, IOM and its partner Fundación Vivienda Popular distributed 343 tarpaulins, 343 kitchen sets, 343 solar lamps, 618 jerry cans, 275 ropes, 275 blankets, 35 mosquito nets, and 33 buckets, contributing to improved shelter conditions and access to essential items.
+To date, IOM continues supporting the management of five transitional sites in La Guaira, where 4,538 people remain hosted, through the provision of multisectoral services, coordination, and needs monitoring.
+IOM Activities
+IOM continued the co-management of five transitional sites in La Guaira, strengthening coordination mechanisms, registration, community participation, and inter-agency coordination. In Campo de Golf, registration of 102 families was completed and spatial reorganization advanced for the future installation of 100 tents with IsraAID. In Mare Abajo II, Playa Grande, and César Nieves, infrastructure improvements, registration updates, and transition planning processes continued.
+Under WASH, coordination advanced for the installation of a 20,000-litre-per-day water storage and treatment system in Campo de Golf, alongside sanitation improvements, waste management, and sanitary infrastructure enhancements in other sites. To date, 2,170 collapsible jerry cans, 1,091 hygiene kits, and 93 water storage containers have been distributed.
+IOM and its partner Ven Da Tu Mano continued providing primary health care and psychological first aid (PFA) through mobile teams, conducting more than 500 consultations during the reporting period, including follow-up and referrals for specialized care. IOM also continued co-leading the PFA Technical Working Group with PAHO/WHO to strengthen referral pathways.
+Under information management, IOM completed the DTM Household Survey in transitional sites. Preliminary findings show that 12% of households reached their current location through progressive movements, 55% reported loss of income during the last month, and 55% indicated they do not feel safe when leaving their accommodation.
+Under protection, IOM continued providing guidance, legal assistance, documentation support, referrals, and actions to prevent violence against women, trafficking in persons, and sexual exploitation and abuse (PSEA). HIAS joined as an IOM implementing partner to expand protection service coverage, including psychological support, legal counselling, child protection, and safe spaces.
+Planned IOM Response
+IOM will continue strengthening infrastructure and essential services in transitional sites, as well as coordination mechanisms, information management, and community participation.
+IOM will also maintain mobile health and psychological support services, strengthen referral pathways, and expand specialized protection services, while continuing site monitoring, needs assessments, and coordination with authorities and humanitarian partners.
+
+--- Report 2: UNICEF (2026-07-27) ---
 Highlights
 
 One month after two powerful earthquakes struck Venezuela’s north-central coast, children and families continue to face the lasting impacts of displacement, damaged infrastructure and disruption to essential services.
 UNICEF has provided hygiene supplies to 8,906 people and integrated WASH services to 3,237 people; enabled 21,000 people to access primary health care, including 16,006 people vaccinated; and reached 5,282 children and women with nutrition services. UNICEF also supported more than 4,000 children, adolescents and caregivers with child protection services, including 205 referrals for specialized care, while strengthening education support.
 Through an integrated humanitarian response, UNICEF aims to reach 470,000 people, including 169,000 children, with life-saving assistance and early recovery support. In addition to its US$137.6 million HAC appeal, UNICEF requires an additional US$65.7 million to sustain critical interventions and support the implementation of the 2026 Humanitarian Response Plan Addendum.
 
---- Report 2: ETC (2026-07-27) ---
+--- Report 3: ETC (2026-07-27) ---
 This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
 Summary Points
 • LTC Telecoms in Venezuela is working with government authorities, mobile network operators, internet service providers (ISPs), the UN Office for the Coordination of Humanitarian Affairs (OCHA), and other partners to restore critical communications, and prioritize support in the most affected areas.
