@@ -1,26 +1,16 @@
 Crisis / situation: Burundi
 
---- Report 1: WFP (2026-05-21) ---
-Food assistance distribution: In April 2026, WFP successfully assisted close to 1 million people, distributing 181 mt of food and USD 3.1 million in cash transfers.
-Fragile humanitarian situation during lean season: In April 2026, Burundi faced the lean season with reduced food supplies, rising bean prices, and added pressures from refugee movements and climate shocks—highlighting a fragile humanitarian situation and the urgent need for sustained humanitarian support and stronger social protection systems.
-Congolese refugees voluntary return: On 23 April 2026, UNHCR and the Government of Burundi launched voluntary returns of Congolese refugees under the Tripartite Framework. However, the scale of repatriation during April remained limited, with minimal effect on the overall refugee situation.
+--- Report 1: UNHCR (2026-07-30) ---
+Cash-Based Interventions for Burundian Returnees January - June 2026
+As part of the implementation of the Tripartite Agreement between the Governments of Burundi and the United Republic of Tanzania and UNHCR, efforts to promote the voluntary return and sustainable reintegration of Burundian refugees continued throughout the first half of 2026. To support this process, UNHCR strengthened the use of Cash-Based Interventions (CBIs) as a key assistance modality to help returnees meet their immediate needs and facilitate their reintegration into their communities of return. This document provides an overview of cash assistance returnees between January and June 2026, highlighting key achievements, protection outcomes, and remaining challenges. It also underscores the importance of sustained reintegration support to promote self-reliance and ensure durable solutions for returning populations.
 
---- Report 2: Croix-Rouge du Burundi (2026-05-19) ---
-Sources for data marked as Other
-The figures presented here come from the 2024 general population census. Indeed, the entire province of Bujumbura, comprising the former provinces of Mairie, Bubanza, Bujumbura, and Cibitoke, borders the DRC and has entry and exit points, making it a high-risk zone for the spread of the Ebola epidemic. The large city of Bujumbura, with approximately 50% of the province's population, is thus more exposed and more vulnerable should the disease reach it.
-Request For Assistance
-Government Requests International Assistance: No
-NS Requests International Assistance: No
-Information Bulletin Published
-No
-Actions taken by Federation
-General
-Monitor Situation
+--- Report 2: IFRC (2026-07-29) ---
+SUMMARY OF THE EARLY ACTION PROTOCOL
+The IFRC Disaster Response Emergency Fund (DREF) has approved a total of CHF 778,786 CHF for the implementation of the BURUNDI NATIONAL SOCIETY FLOODS EAP. The approved amount consists of an allocation of CHF 85,100 for readiness, CHF 371,227 for 2 rounds of prepositioning and CHF 322,459 allocated to implement 2 rounds of early actions once the defined triggers are met.
+Allocations are made from the Anticipatory Pillar of the DREF, under the DREF appeal code MDR00001. Unearmarked contributions to the DREF are encouraged to guarantee enough funding is available for the Early Action Protocols being developed.
 Summary
-Actions taken by National Society
-General
-Activation / Mobilization of Volunteers
-Summary
-Following the announcement of the official government statement prohibiting travel to Burundi and calling for preventive measures, the Burundian Red Crescent (BRC) activated its extensive network of volunteers for surveillance and early warning of any suspected cases. The Task Force is operational at headquarters and in branches. A situation report has been posted on the IFRC's Go platform.
-Planned International Response
-DREF: Requested
+Over the past decade, Burundi has suffered shocks that have caused enormous human and material damage at an increasingly frequent frequency. The most threatening risks are above all meteorological, climatic, epidemic and geomorphological phenomena. The severity resulting from the combination of the probability of occurrence and the impact of natural shocks often exceeds the capacity for preparation and anticipation to mitigate the impacts of the latter.
+Climate and weather events such as floods, landslides, landslides and ravines have resulted in loss of life and other damage. The El Nino phenomenon of 2023-2024 has caused floods and landslides that have affected more than 237,000 people and led to more than 42,000 displaced, 29 deaths and 175 injured people since September 2023 to April 26, 20241. Another example is 20192 where more than 13,000 people were affected and 45 deaths were reported, in addition to the losses to crops and public and private infrastructure as a result of the floods.
+The Early Action Protocol (EAP) is a tool that allows for the effective and timely implementation of early actions based on specific weather or climate forecasts of extreme events that, if they materialize and no appropriate action is taken, will most likely generate a humanitarian crisis. This crisis can be avoided or mitigated by joint and rapid action by the government, at-risk communities, stakeholders and the National Red Cross Society.
+This EAP will be implemented by the Burundi Red cross in coordination with several partners, namely the Government of Burundi through the National Platform for Risk Prevention and Disaster Management, the Geographical Institute of Burundi (IGEBU), United Nations agencies and other actors working in disaster risk reduction. This document is expected to form an essential part of the national and local emergency plans of the Burundian government and the Burundi Red Cross Society.
+This Early Action Protocol targets areas at risk of flooding, more specifically the area exposed to the periodic rise of the waters of Lake Tanganyika. The EAP explains the reasons for prioritizing early actions and gives detailed explanations for the selected actions that should be activated when the triggers are reached in a specific order.

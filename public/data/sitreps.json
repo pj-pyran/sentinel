@@ -1,5 +1,90 @@
 [
   {
+    "id": "rw-4223672",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Update on cash-based interventions",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Burundi",
+    "scope": "single",
+    "date": "2026-07-30",
+    "content": "<p>Cash-Based Interventions for Burundian Returnees January - June 2026</p>\n<p>As part of the implementation of the Tripartite Agreement between the Governments of Burundi and the United Republic of Tanzania and UNHCR, efforts to promote the voluntary return and sustainable reintegration of Burundian refugees continued throughout the first half of 2026. To support this process, UNHCR strengthened the use of Cash-Based Interventions (CBIs) as a key assistance modality to help returnees meet their immediate needs and facilitate their reintegration into their communities of return. This document provides an overview of cash assistance returnees between January and June 2026, highlighting key achievements, protection outcomes, and remaining challenges. It also underscores the importance of sustained reintegration support to promote self-reliance and ensure durable solutions for returning populations.</p>\n",
+    "url": "https://reliefweb.int/report/burundi/update-cash-based-interventions",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4223672",
+    "file_url": "https://reliefweb.int/attachments/885eb6ba-c93b-5d56-b0c7-c6862c434cf4/Cash-Based%20Intervention%20-%20Burundian%20Returnees%20-%20June%202026.pdf"
+  },
+  {
+    "id": "rw-4223702",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Syria Monthly Market Price Bulletin, June 2026 - Issue 138",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Syrian Arab Republic",
+    "scope": "single",
+    "date": "2026-07-30",
+    "content": "<ul>\n<li>The cost of living in June 2026, as measured by the Minimum Expenditure Basket (MEB), remained stable at New SYP 26,551 compared to the previous month. However, it was 33 percent higher than in June 2025 (year-on-year).</li>\n<li>The Syrian pound (SYP) depreciated in the official market, with the exchange rate increasing from New SYP 113.00 per USD to New SYP 122.00 per USD in June 2026.also in the parallel market depreciated to New SYP 140.76 from 136.21 New SYP per USD.</li>\n<li>The Syrian Grain Corporation announced that it had procured 1.1 million metric tons of wheat from farmers as of 27 June, covering approximately 44 percent of Syria's annual wheat requirement. Wheat procurement is expected to reach 2.5 million metric tons by the end of July, which would strengthen domestic wheat availability, support farmers' incomes, and reduce reliance on imports.</li>\n<li>The Ministry of Energy announced that petroleum products will be priced in Syrian pounds instead of foreign currency, aiming to strengthen the national currency, reduce fuel price volatility, and support price stability.</li>\n<li>The National Import and Export Committee suspended imports of broiler chickens, broiler chicks, and layer chicks to support domestic poultry production. The measure aims to protect local producers and encourage investment in the poultry sector. Its impact on poultry meat and egg prices will depend on the domestic sector's ability to meet market demand.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/wfp-syria-monthly-market-price-bulletin-june-2026-issue-138",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4223702",
+    "file_url": "https://reliefweb.int/attachments/698c5c0b-f121-45ec-8e57-d1d1f12e1c1f/WFP%20Syria%20Price%20Bulletin%202026_June.pdf"
+  },
+  {
+    "id": "rw-4223686",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Flash Update #54 New Sudanese Refugee Influx into Chad",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Chad",
+    "scope": "single",
+    "date": "2026-07-30",
+    "content": "<p>UPDATE ON SITUATION IN SUDAN</p>\n<p>Context</p>\n<p>The security situation in Eastern Chad remains generally stable but fragile. Following clashes in the Kulbus region of Sudan, new arrivals were reported in Koulbous and Birak (Chad), where an assessment mission identified approximately 3,000 people in need of assistance. To respond to the situation, UNHCR and its partners plan to launch an asylumseeker pre-registration operation from 27 July 2026 to strengthen identification, facilitate relocation to Marasabré, and improve humanitarian assistance planning. Despite challenges related to the rainy season, logistical and operational preparations are underway for the start of the exercise. In refugee-hosting areas, several security incidents were also reported this week, including assaults against refugee women near the Metché site, an armed robbery in the same area, and a road accident involving a humanitarian partner in Aboutengué. These incidents highlight the continued need for protection and security efforts in operational areas.</p>\n",
+    "url": "https://reliefweb.int/report/chad/flash-update-54-new-sudanese-refugee-influx-chad",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4223686",
+    "file_url": "https://reliefweb.int/attachments/c90b4838-f7e4-5ccc-91d3-47f5ef00ffb0/Flash%20Update%20%2354%20New%20Sudanese%20Refugee%20Influx%20into%20Chad%20ENG.pdf"
+  },
+  {
+    "id": "rw-4223687",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Flash Update #55 New Sudanese Refugee Influx into Chad",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Chad",
+    "scope": "single",
+    "date": "2026-07-30",
+    "content": "<p>Context</p>\n<p>The security situation in Chad remains generally stable but continues to be marked by persistent risks along the Sudanese border, particularly in Wadi Fira Province. On 21 July 2026, drone-related incidents were reported near the border town of Tiné, Chad. In Indour, approximately 22 km from the border, a water point was hit, resulting in unconfirmed casualties and significant livestock losses. Later the same day, another incident was reported in Bamina, located 35 km from Tiné, where an administrative vehicle was damaged. These events occurred amid intensified fighting in Darfur near the Chadian border, heightening concerns over possible spillover effects of the conflict. However, no impact on humanitarian personnel or operations was reported.</p>\n",
+    "url": "https://reliefweb.int/report/chad/flash-update-55-new-sudanese-refugee-influx-chad",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4223687",
+    "file_url": "https://reliefweb.int/attachments/2284a9cb-cf0f-50f5-bd4c-1e35e7342a8e/Flash%20Update%20%2355%20New%20Sudanese%20Refugee%20Influx%20into%20Chad.pdf"
+  },
+  {
+    "id": "rw-4223719",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Central African Republic: Situation Report No. 78, as of 28 July, 2026",
+    "source": "OCHA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Central African Republic",
+    "scope": "single",
+    "date": "2026-07-30",
+    "content": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>Suspension of movements along road corridors around Kabo</li>\n<li>Markounda: The host community receives one month of food assistance</li>\n</ul>\n<p><strong>GENERAL CONTEXT</strong></p>\n<p>Vakaga Prefecture – North-East</p>\n<ul>\n<li>On 22 July, a team from an NGO was robbed by armed men approximately 35 km from Birao, along the road to Tiringoulou. After departing Birao in the morning, the team was intercepted, taken into the bush and subjected to physical violence. The vehicle was subsequently searched and personal belongings were stolen. The assailants left the area before the team was able to resume its journey to the village of Delembé, located about 50 km from Birao. The NGO implements a food security program in the area aimed at strengthening community resilience. Birao remains the second most affected location by incidents impacting humanitarian actors, after Zemio.</li>\n</ul>\n<p>Ouham-Fafa Prefecture – Center</p>\n<ul>\n<li>Local authorities have suspended, until further notice, movements along the main road corridors around Kabo, including for humanitarian actors, to mitigate risks to civilians during ongoing security operations. On 27 July, reports of a possible attack on Kabo, as well as the alleged presence of armed elements in surrounding localities, triggered precautionary population movements, including arrivals from neighbouring villages. In response, the Central African Armed Forces (FACA) conducted security operations and increased patrols in and around Kabo. Movement restrictions are limiting humanitarian access to communities outside Kabo, preventing or delaying field missions, assessments, the delivery of humanitarian assistance and the provision of essential services until road access is restored.</li>\n</ul>\n<p><strong>HUMANITARIAN NEEDS AND RESPONSE</strong></p>\n<p><strong>Multi-sector</strong></p>\n<p>Mbomou Prefecture – South-East</p>\n<ul>\n<li>A humanitarian coordination mission was conducted from 20 to 23 July in the localities of Dembia and Rafaï. Discussions with affected communities indicated that approximately 450 displaced households from Guinikoumba (located about 15 km from Dembia, across the Ouara River in Haut-Mbomou Prefecture) intend to remain in Dembia, while continuing to monitor the security situation in their areas of origin for a possible return. Humanitarian needs remain significant across multiple sectors, including emergency shelter, essential household items, food assistance, health services, and water, sanitation and hygiene (WASH). ACTED conducted a follow-up multisectoral assessment on 21 July to assess potential assistance. On 22 July, World Vision started collecting supplementary household data to facilitate the provision of essential household items and shelter assistance. In addition, the International Organization for Migration (IOM) plans to provide shelter assistance to address any remaining unmet needs.</li>\n</ul>\n<p><strong>Nutrition</strong></p>\n<p>Ouham Prefecture – North-West</p>\n<ul>\n<li>On 24 July, the WFP distributed 1.164 tons of ready-to-use supplementary food to eight health facilities in Bossangoa. This assistance will support the nutritional treatment of more than 1,600 children aged 6 to 59 months suffering from moderate acute malnutrition (MAM). The intervention aims to improve the nutritional status of affected children, reduce the risk of malnutrition-related complications, and strengthen access to nutrition services in supported health facilities.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-situation-report-no-78-28-july-2026",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": "4223719",
+    "file_url": "https://reliefweb.int/attachments/6a4f4a19-f09d-425f-ac2f-d5217a316127/CAR%20Situation%20Report%20280726.pdf"
+  },
+  {
     "id": "rw-4223633",
     "provider": "reliefweb",
     "type": "original",
@@ -119,34 +204,34 @@
     "file_url": "https://reliefweb.int/attachments/a4bdb5ef-637a-4d6b-9233-cfdd47a0a31e/WASH%20cluster%20newsletter_June%20-2026.pdf"
   },
   {
-    "id": "ai-crisis-afghanistan--flash-floods---jul-2026",
+    "id": "ai-location-burundi",
     "provider": "ai",
     "type": "ai-summary",
-    "title": "Situation Summary: Afghanistan: Flash Floods - Jul 2026",
+    "title": "Situation Summary: Burundi",
     "source": "AI Summary by gpt-4.1-mini",
-    "crisis": "Afghanistan: Flash Floods - Jul 2026",
-    "location": "Afghanistan",
+    "crisis": "Humanitarian Crisis",
+    "location": "Burundi",
     "scope": null,
     "date": "2026-07-30",
-    "content": "• Flash floods and heavy rainfall in July 2026 have severely affected central, eastern, northeastern, and southeastern Afghanistan, with significant impacts in provinces including Nuristan, Laghman, Nangarhar, Ghazni, Kapisa, Logar, Paktia, Paktika, Parwan, Kabul, and others.  \n• Nuristan is the hardest hit, with over 100 people missing, deaths, injuries, extensive damage to homes, infrastructure, markets, roads, bridges, agricultural land, and water systems; 120 families in Parun district have been identified for humanitarian assistance.  \n• Laghman province reported 3 deaths, 4 injuries, 187 families affected, damage or destruction of 183 houses, loss of approximately 800 acres of crops, and 310 livestock; Nangarhar’s Torkham border area flooding disrupted returnee movements.  \n• Humanitarian response is scaling up with shelter, health, WASH, protection, education, and psychosocial support interventions; water network rehabilitation is underway in Parun, and emergency health services continue.  \n• Risks from displaced or exposed explosive ordnance have increased due to flooding and landslides; UNFPA highlights urgent needs for sexual and reproductive health, gender-based violence services, dignity supplies, and protection support, especially for women and girls.\n\nThe flash floods have caused widespread destruction of homes, livelihoods, and critical infrastructure, exacerbating vulnerabilities in already fragile communities. The ongoing humanitarian response is focused on addressing immediate needs and preventing further harm, with particular attention to vulnerable groups such as women, girls, and displaced families.",
+    "content": "• Between January and June 2026, UNHCR supported the voluntary return and reintegration of Burundian refugees through Cash-Based Interventions, helping returnees meet immediate needs and promoting self-reliance.  \n• The Burundi Red Cross, with support from the IFRC Disaster Response Emergency Fund, has approved CHF 778,786 for an Early Action Protocol to prepare for and respond to floods, including readiness, prepositioning, and early actions.  \n• Floods and landslides linked to climate events such as El Niño have severely impacted Burundi, affecting over 237,000 people and displacing more than 42,000 between September 2023 and April 2024, with significant loss of life and injuries.  \n• The Early Action Protocol focuses on flood-prone areas around Lake Tanganyika and aims to mitigate humanitarian crises through timely coordinated actions involving government, communities, and partners.  \n\nBurundi faces recurrent climate-related disasters that cause significant human and material losses, challenging the country’s disaster preparedness and response capacity. Efforts to support refugee returnees and strengthen early warning and early action mechanisms are critical to reducing vulnerability and enhancing resilience.",
     "url": null,
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
     "rw_id": null,
     "file_url": null,
     "relatedSources": [
-      "OCHA",
-      "UNFPA"
+      "IFRC",
+      "UNHCR"
     ],
     "sourceIds": [
-      "rw-4223493",
-      "rw-4223462"
+      "rw-4223672",
+      "rw-4223471"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-30T06:54:20Z",
+    "generated_at": "2026-07-30T12:34:48Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Afghanistan: Flash Floods - Jul 2026\n\n--- Report 1: OCHA (2026-07-29) ---\nAfghanistan: Flash Update #3: Flooding in Central, Eastern and Southeastern Afghanistan (as of 28 July 2026)\n\n--- Report 2: UNFPA (2026-07-28) ---\nEastern Afghanistan Flash Floods - Flash Update (20 - 21 July 2026)\n"
+    "user_prompt_display": "Crisis / situation: Burundi\n\n--- Report 1: UNHCR (2026-07-30) ---\nUpdate on cash-based interventions\n\n--- Report 2: IFRC (2026-07-29) ---\nBurundi | Flood - Early Action Protocol Summary, July 2026 (EAP2025BI02 | MDRBI027)\n"
   },
   {
     "id": "ai-location-central-african-republic",
@@ -158,7 +243,7 @@
     "location": "Central African Republic",
     "scope": null,
     "date": "2026-07-30",
-    "content": "• Since early June 2026, armed attacks in Vakaga prefecture have caused mass displacement, with over 19,000 people seeking refuge at the MINUSCA base in Am Dafock.  \n• The local health system in Am Dafock has collapsed due to looting and staff fleeing, severely limiting access to medical care; road access to the area remains blocked, restricting humanitarian deliveries.  \n• International Medical Corps has provided over 1,700 curative consultations, 290 antenatal visits, and delivered nearly 1.3 tonnes of medical and nutrition supplies; additional specialised staff and supplies are being deployed to scale up integrated health, nutrition, and protection services.  \n• Concurrently, the Central African Republic is facing a cholera outbreak in Bimbo and Mbaïki with hundreds of suspected cases and dozens of deaths, alongside heightened security risks in Haut-Mbomou that have forced suspension of some humanitarian operations.  \n• UNFPA has delivered critical sexual and reproductive health and gender-based violence services, including assisted births, emergency surgeries, and dignity kit distributions, but faces an 83% funding gap (US $11 million) out of the $13.2 million needed for 2026, limiting its capacity to meet urgent needs.\n\nThe Central African Republic is experiencing a complex humanitarian crisis marked by armed conflict-driven displacement, disease outbreaks, and deteriorating health infrastructure. Access constraints and security challenges are impeding the delivery of essential health, nutrition, protection, and WASH services. Significant funding shortfalls threaten the continuity and expansion of life-saving interventions, particularly for vulnerable women and girls.",
+    "content": "• Armed attacks in Vakaga prefecture since June have displaced over 19,000 people to the MINUSCA base in Am Dafock, where the local health system has collapsed due to looting and staff fleeing. Road access remains cut off, limiting humanitarian deliveries.\n\n• Security operations and threats in Ouham-Fafa prefecture have led to suspension of movements around Kabo, restricting humanitarian access and delaying assistance to affected communities.\n\n• Humanitarian needs in Mbomou prefecture remain high, with around 450 displaced households in Dembia requiring emergency shelter, food, health, and WASH services. Assessments and aid distributions are ongoing but constrained by security and access challenges.\n\n• Nutrition support is being provided in Ouham prefecture, where WFP distributed over 1.1 tons of supplementary food to treat more than 1,600 children with moderate acute malnutrition.\n\n• UNFPA is delivering critical sexual and reproductive health and gender-based violence services across crisis-affected areas but faces a severe funding gap of 83%, limiting its capacity to meet urgent needs for women and girls.\n\nThe Central African Republic is experiencing a complex humanitarian crisis marked by armed conflict, displacement, and multiple health emergencies including cholera and Ebola preparedness. Insecurity and movement restrictions are severely hampering humanitarian operations, exacerbating vulnerabilities in nutrition, health, protection, and shelter. Sustained and increased funding and access are urgently needed to scale up lifesaving interventions for affected populations.",
     "url": null,
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -166,17 +251,48 @@
     "file_url": null,
     "relatedSources": [
       "IMC",
+      "OCHA",
       "UNFPA"
     ],
     "sourceIds": [
+      "rw-4223719",
       "rw-4223448",
       "rw-4223463"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-30T06:54:20Z",
+    "generated_at": "2026-07-30T12:34:48Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Central African Republic\n\n--- Report 1: IMC (2026-07-28) ---\nCentral African Republic: Am Dafock Mass Displacement Crisis - Situation Report #1, July 28, 2026\n\n--- Report 2: UNFPA (2026-07-28) ---\nUNFPA Central African Republic Situation Report - June 2026\n"
+    "user_prompt_display": "Crisis / situation: Central African Republic\n\n--- Report 1: OCHA (2026-07-30) ---\nCentral African Republic: Situation Report No. 78, as of 28 July, 2026\n\n--- Report 2: IMC (2026-07-28) ---\nCentral African Republic: Am Dafock Mass Displacement Crisis - Situation Report #1, July 28, 2026\n\n--- Report 3: UNFPA (2026-07-28) ---\nUNFPA Central African Republic Situation Report - June 2026\n"
+  },
+  {
+    "id": "ai-location-chad",
+    "provider": "ai",
+    "type": "ai-summary",
+    "title": "Situation Summary: Chad",
+    "source": "AI Summary by gpt-4.1-mini",
+    "crisis": "Humanitarian Crisis",
+    "location": "Chad",
+    "scope": null,
+    "date": "2026-07-30",
+    "content": "• Approximately 3,000 new arrivals from Sudan have been identified in the Koulbous and Birak areas of Chad, following clashes in the Kulbus region of Sudan, with urgent assistance needs assessed.  \n• UNHCR and partners are conducting an asylum-seeker pre-registration operation starting 27 July 2026 to improve identification, facilitate relocation to Marasabré, and enhance humanitarian planning despite rainy season challenges.  \n• Several security incidents have been reported in refugee-hosting areas, including assaults on refugee women near Metché, an armed robbery, and a road accident involving humanitarian staff, underscoring ongoing protection and security concerns.  \n• Persistent risks remain along the Sudanese border, especially in Wadi Fira Province, where drone-related incidents on 21 July damaged a water point near Indour causing unconfirmed casualties and livestock losses, and an administrative vehicle was damaged in Bamina.  \n• Intensified fighting in Darfur near the Chadian border raises concerns about potential conflict spillover, although no direct impact on humanitarian personnel or operations has been reported to date.  \n\nThe situation in eastern Chad remains fragile due to the influx of Sudanese asylum seekers escaping conflict and ongoing security threats near the border. Humanitarian actors are scaling up registration and assistance efforts while contending with protection challenges and the risks posed by regional instability and cross-border violence.",
+    "url": null,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "rw_id": null,
+    "file_url": null,
+    "relatedSources": [
+      "UNHCR"
+    ],
+    "sourceIds": [
+      "rw-4223686",
+      "rw-4223687"
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-07-30T12:34:48Z",
+    "prompt_id": "a3a6fd17e378",
+    "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
+    "user_prompt_display": "Crisis / situation: Chad\n\n--- Report 1: UNHCR (2026-07-30) ---\nFlash Update #54 New Sudanese Refugee Influx into Chad\n\n--- Report 2: UNHCR (2026-07-30) ---\nFlash Update #55 New Sudanese Refugee Influx into Chad\n"
   },
   {
     "id": "ai-location-lebanon",
@@ -188,7 +304,7 @@
     "location": "Lebanon",
     "scope": null,
     "date": "2026-07-30",
-    "content": "• Nearly 1.3 million people were displaced in Lebanon three months into the renewed conflict, with over 523,000 beginning to return by four months, though 375,090 remain displaced including 29,500 in collective shelters.\n\n• Since hostilities resumed on 2 March 2026, at least 4,247 to 4,329 people have been killed and 12,195 to 12,233 injured, according to different sources.\n\n• Amel Association International reached between 148,107 and 194,266 people across all eight governorates from March to June 2026, providing health, protection, education, and relief services through numerous centres and mobile units.\n\n• The humanitarian response faces critical challenges including damaged infrastructure, ongoing insecurity, underfunding (Flash Appeal funded between 32% and 44.8%), and operational risks highlighted by the death of two Amel staff members and damage to eight centres.\n\n• Protection risks remain high due to ongoing hostilities near military-declared areas, affecting displaced populations, returnees, and host communities, with humanitarian partners prioritising coordinated multi-sector assistance and civilian protection.\n\nThe humanitarian situation in Lebanon remains dire amid continued conflict and displacement. Despite some returns, significant needs persist across health, protection, education, and relief sectors. Funding shortfalls and security risks threaten the sustainability of life-saving operations, underscoring the urgent need for sustained donor support and efforts to de-escalate hostilities.",
+    "content": "• Since the conflict resumed on 2 March 2026, at least 4,247 to 4,329 people have been killed and 12,195 to 12,233 injured in Lebanon.  \n• Nearly 1.3 million people were displaced early in the crisis, but displacement is stabilizing with over 523,000 to 753,000 people reported returning to their areas of origin; around 375,000 remain displaced, including nearly 29,500 in collective shelters.  \n• Humanitarian response by Amel Association International reached between 148,000 and 194,000 people across all eight governorates, delivering thousands of activities in health, protection, education, and relief distribution through multiple health centres and mobile units.  \n• Protection programming and education services have supported over 23,900 to 27,000 people and 27,000 to 34,000 children respectively; relief items distributed number between 15,000 and 18,600.  \n• The Lebanon Flash Appeal is critically underfunded, with funding levels reported between 32% and 44.8%, threatening the sustainability of life-saving operations amid ongoing insecurity and infrastructure damage.\n\nThe humanitarian situation in Lebanon remains dire due to ongoing hostilities, infrastructure damage, and protection risks, particularly in conflict-affected southern areas. Despite some returns, many displaced people continue to face significant needs, and humanitarian actors emphasise the urgency of increased donor support to maintain essential services and protect vulnerable populations.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -204,7 +320,7 @@
       "rw-4223528"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-30T06:54:20Z",
+    "generated_at": "2026-07-30T12:34:48Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Lebanon\n\n--- Report 1: AMEL (2026-07-29) ---\nAmel Situation Report #3 : Supporting all populations affected by the crisis - March, April & May 2026\n\n--- Report 2: AMEL (2026-07-29) ---\nAmel Situation Report #4 : Supporting all populations affected by the crisis - March, April, May & June 2026\n\n--- Report 3: UNHCR (2026-07-29) ---\nLebanon: What's New? LRP Update July 2026\n"
@@ -219,7 +335,7 @@
     "location": "Myanmar",
     "scope": null,
     "date": "2026-07-30",
-    "content": "• In 2025, Myanmar experienced 259 documented incidents of violence or obstruction against health care, a decline from previous years but with an increased proportion (75%) attributed to Myanmar Armed Forces (MAF) soldiers. Health facilities were damaged or destroyed at least 110 times, with 34 health workers killed and 33 arrested.\n\n• Conflict parties, including ethnic armed groups and the military, increasingly restricted access to medicines and medical supplies in 2025, particularly in opposition-controlled or contested areas such as Chin, Kachin, Rakhine, Sagaing, and northern Shan states. Checkpoints blocked or confiscated essential medicines, and punitive measures targeted health care providers and patients.\n\n• Recent incidents in July 2026 include damage to a rural health centre and injuries to health workers in Sagaing region due to military airstrikes, severe damage to a township hospital in Chin state following military recapture, and arrests of health personnel in Rakhine state accused of links to armed groups.\n\n• Food prices in Myanmar showed mixed trends in mid-2026: rice prices rose modestly year-on-year, pulses remained stable, and some vegetable prices increased due to export demand, while others declined due to increased supply. Animal-sourced food prices remained high, with mutton at record levels due to supply constraints.\n\n• External factors such as the conflict in Iran and partial closure of the Strait of Hormuz have kept fuel and fertiliser prices elevated, leading some farmers to reduce cultivation areas or ploughing. This, combined with flat paddy prices, may reduce fertiliser use and lower monsoon-season agricultural production. Flood warnings and the onset of a new El Niño phase raise concerns about drought risks.\n\nThe ongoing conflict in Myanmar continues to severely impact health care access and infrastructure, with the military playing a dominant role in violence against health services. Simultaneously, economic pressures from high input costs and climatic risks threaten food security and agricultural livelihoods, compounding humanitarian needs across the country.",
+    "content": "• In 2025, Myanmar experienced 259 incidents of violence against or obstruction of health care, a decrease from previous years but with a higher proportion (75%) attributed to Myanmar Armed Forces (MAF) soldiers. Health facilities were damaged at least 110 times, with 34 health workers killed and 33 arrested.  \n• Conflict parties, including ethnic armed groups and the military, increasingly restricted access to medicines and medical supplies, especially in opposition-supporting or non-SAC-controlled areas, severely impacting treatment for chronic diseases and emergency care.  \n• Recent incidents in July 2026 include military attacks damaging health centres and hospitals in Sagaing and Chin states, and arrests of health workers in Rakhine state on accusations of links to armed groups.  \n• Food prices in June 2026 saw modest increases in rice and maize, while pulses remained stable; animal-sourced food prices stayed well above last year’s levels, particularly mutton and fish.  \n• Elevated fuel and fertilizer prices, driven by international conflicts and trade disruptions, are causing farmers to reduce cultivation and fertilizer use, threatening lower agricultural production amid flood warnings and an impending El Niño phase that raises drought risks.\n\nThe ongoing conflict continues to severely disrupt health care access and delivery, with targeted attacks on health infrastructure and personnel, alongside restrictions on medical supplies. Concurrently, economic pressures from rising food and input prices, combined with environmental hazards, exacerbate food insecurity and livelihood vulnerabilities across Myanmar.",
     "url": null,
     "region": "Asia",
     "subregion": "South-eastern Asia",
@@ -234,7 +350,7 @@
       "rw-4223340"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-30T06:54:20Z",
+    "generated_at": "2026-07-30T12:34:48Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Myanmar\n\n--- Report 1: Insecurity Insight (2026-07-28) ---\nAttacks on Health Care in Myanmar: 08 - 21 July 2026\n\n--- Report 2: IFPRI (2026-07-28) ---\nMyanmar Monthly Food Price Report – May Thet Htar, Bart Minten, and Ian Masias (June 2026)\n"
@@ -249,7 +365,7 @@
     "location": "Pakistan",
     "scope": null,
     "date": "2026-07-30",
-    "content": "• Pakistan is experiencing an intensified 2026 monsoon season with 22–26% more rainfall than the previous year, leading to increased flood risks, especially in KP, AJK, GB, Punjab, Balochistan, and Sindh provinces.  \n• As of 28 July 2026, there have been 109 deaths and 360 injuries nationwide due to house collapses and flash floods, with 796 houses damaged and 379 livestock lost; these figures are expected to rise as the season progresses.  \n• Authorities have issued active flood alerts for the Chenab, Jhelum, and Ravi rivers from 29 July to 5 August, prompting evacuations in vulnerable low-lying and riverbank areas.  \n• Significant infrastructure damage has occurred in Neelum Valley from a cloudburst, affecting homes, schools, shops, bridges, and livestock, with local disaster management agencies coordinating relief efforts.  \n• Humanitarian organisations like Alkhidmat Foundation are on high alert, pre-positioning rescue and relief resources and coordinating with authorities to provide timely assistance to affected communities amid ongoing heavy rains and flood threats.  \n\nPakistan remains highly vulnerable to climate-related disasters, ranking among the top 10 most climate-vulnerable countries globally. The compounded impacts of economic fragility and recurrent flooding continue to strain development and disaster response capacities. The 2026 monsoon season is still unfolding, necessitating sustained monitoring and preparedness to mitigate further humanitarian impacts.",
+    "content": "• Pakistan is experiencing an intensified 2026 monsoon season with 22–26% more rainfall forecasted compared to the previous year, increasing flood risks across KP, AJK, GB, Punjab, Balochistan, and Sindh.  \n• As of 28 July, 109 deaths and 360 injuries have been reported nationwide due to house collapses and flash floods; 796 houses and 379 livestock have been damaged or lost, with numbers expected to rise.  \n• The State Disaster Management Authority in AJK reported significant infrastructure damage from a cloudburst in Neelum Valley, including homes, schools, bridges, and livestock losses.  \n• NDMA and PDMA Punjab have issued active flood alerts for the Chenab, Jhelum, and Ravi rivers from 29 July to 5 August, initiating evacuations in vulnerable low-lying and riverbank areas.  \n• Humanitarian organisations like Alkhidmat Foundation are on high alert, coordinating with authorities and pre-positioning rescue and relief resources to respond swiftly to ongoing floods and related emergencies.  \n\nPakistan remains highly vulnerable to climate-induced disasters, ranking among the top 10 most climate-vulnerable countries globally. The current monsoon season is intensifying risks due to increased rainfall and glacier melt, threatening lives, infrastructure, and livelihoods. Ongoing coordination between government agencies and humanitarian actors is critical to mitigate impacts and support affected communities.",
     "url": null,
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -264,7 +380,7 @@
       "rw-4223459"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-30T06:54:20Z",
+    "generated_at": "2026-07-30T12:34:48Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Pakistan\n\n--- Report 1: Islamic Relief (2026-07-29) ---\nIslamic Relief Pakistan: Humanitarian Situation Report (Period: 26-June to 28-July 2026)\n\n--- Report 2: Alkhidmat Foundation (2026-07-28) ---\nAKFP Pakistan: Monsoon Flood 2026 - Situation Report 01 (28 July, 2026)\n"
@@ -279,7 +395,7 @@
     "location": "Sudan",
     "scope": null,
     "date": "2026-07-30",
-    "content": "• The security situation in Sudan has worsened with increased airstrikes targeting transport routes, airports, and critical infrastructure in Khartoum, Darfur, Kordofan, and Blue Nile States, causing civilian casualties and displacements, particularly due to intercommunal violence in Darfur and Kordofan.\n\n• Humanitarian access and supply chains have been disrupted by a two-week suspension of international and domestic flights in Khartoum, while large-scale returns to the city are straining basic services amid fuel shortages and rising prices.\n\n• Health care in Sudan remains severely affected, with 134 reported incidents of violence or obstruction against health care in 2025, including damage to facilities and deaths or arrests of health workers, predominantly attributed to the Rapid Support Forces (RSF) and other armed groups, with recent attacks reported in Blue Nile and North Darfur states in July 2026.\n\n• Refugee-hosting countries around Sudan, including Chad, Egypt, Ethiopia, South Sudan, and Uganda, continue to receive support and monitor the situation, with international partners emphasising the need for sustained funding, durable solutions, and community-based approaches to address displacement and refugee needs.\n\nThe ongoing conflict and violence in Sudan have led to significant humanitarian challenges, including displacement, destruction of infrastructure, and disruption of essential services such as health care. The regional impact is notable, with neighbouring countries hosting refugees and requiring continued international support to manage the evolving crisis.",
+    "content": "• The security situation in Sudan has worsened with increased airstrikes targeting transport routes, airports, and infrastructure across Khartoum, Darfur, Kordofan, and Blue Nile States, causing civilian casualties and displacements, especially due to intercommunal violence in Darfur and Kordofan.\n\n• Large-scale returns to Khartoum are putting pressure on basic services and livelihoods amid fuel shortages and rising prices; international and domestic flights were suspended for about two weeks, disrupting humanitarian access and supply chains.\n\n• Attacks on healthcare in Sudan remain severe, with 134 incidents reported in 2025, including 40 health facilities damaged or destroyed, 54 health workers killed, and 47 arrested; over 80% of these incidents were attributed to the Rapid Support Forces (RSF), with intense violence in Kordofan and Darfur regions.\n\n• Recent clashes in July 2026 led to damage of hospitals in Kurmuk (Blue Nile state) and North Darfur, reflecting ongoing conflict between SAF and RSF forces.\n\n• Refugee-hosting countries such as Chad, Egypt, Ethiopia, South Sudan, and Uganda continue to manage Sudanese refugee flows and related tensions, with international partners emphasising the need for sustained funding, durable solutions, and support for refugee self-reliance.\n\nThe conflict in Sudan is marked by escalating violence and significant humanitarian challenges, including attacks on health infrastructure and disruptions to essential services. The situation is compounded by displacement pressures both within Sudan and in neighbouring countries hosting refugees. International support remains critical to address urgent needs and support longer-term resilience and solutions.",
     "url": null,
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -294,7 +410,7 @@
       "rw-4223403"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-30T06:54:20Z",
+    "generated_at": "2026-07-30T12:34:48Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
     "user_prompt_display": "Crisis / situation: Sudan\n\n--- Report 1: UNHCR (2026-07-29) ---\nSudan Situation: UNHCR Monthly External Update #119 - May 2026\n\n--- Report 2: Insecurity Insight (2026-07-28) ---\nAttacks on Health Care in Sudan, 08 - 21 July 2026\n"
@@ -309,7 +425,7 @@
     "location": "Syrian Arab Republic",
     "scope": null,
     "date": "2026-07-30",
-    "content": "• Since 2 March 2026, over 123,000 arrivals have been recorded across Syria, mostly Syrian nationals, with cross-border movements from Lebanon declining following the April ceasefire. Approximately 30,050 individuals have returned to Lebanon after a peak in arrivals in late April.\n\n• Between March and July 2026, more than 600,000 movements into Syria were recorded at Lebanese border crossings, with Syrians comprising 98 per cent and Lebanese 2 per cent; Syria remains a transit route for Lebanese nationals heading to Jordan.\n\n• Since November 2024, around 3.7 million IDPs and refugees have returned to Syria, half of whom are children, despite ongoing humanitarian needs, limited service access, economic hardship, and protection risks.\n\n• Explosive ordnance continues to pose a severe threat to children, causing 219 deaths and 601 injuries since December 2024.\n\n• UNICEF reached 3.1 million people, including 1.9 million children, with critical interventions during the reporting period, but its 2026 humanitarian appeal is only 27 per cent funded, limiting service provision.\n\nThe situation in Syria remains complex with stabilising population movements following the Lebanon ceasefire, yet significant humanitarian challenges persist. The large-scale returns are occurring amid fragile conditions, including ongoing protection threats and strained services, underscoring the need for sustained and increased humanitarian support.",
+    "content": "• The cost of living in Syria remained stable in June 2026 but was 33% higher than in June 2025, with the Syrian pound depreciating in both official and parallel markets.  \n• Wheat procurement by the Syrian Grain Corporation reached 1.1 million metric tons by late June, about 44% of annual needs, with expectations to reach 2.5 million metric tons by end of July to boost domestic supply and reduce import dependence.  \n• Cross-border movements from Lebanon into Syria have declined since a ceasefire in April 2026, with around 30,050 people returning to Lebanon after a peak of over 153,000 arrivals; overall, 603,615 movements into Syria were recorded between March and July 2026, mostly Syrian nationals.  \n• Since November 2024, approximately 3.7 million IDPs and refugees have returned to Syria, including many children, but returns occur amid ongoing humanitarian needs, limited services, economic hardship, and protection risks, including threats from explosive ordnance causing child casualties.  \n• UNICEF reached 3.1 million people with humanitarian assistance during the reporting period but faces funding shortfalls, with only 27% of its 2026 appeal funded, limiting service provision.\n\nThe situation in Syria remains complex with economic challenges, population movements, and protection risks impacting vulnerable populations, especially children. While some stabilisation is evident in cross-border flows, humanitarian needs persist at high levels, compounded by limited funding and ongoing insecurity.",
     "url": null,
     "region": "Asia",
     "subregion": "Western Asia",
@@ -317,17 +433,19 @@
     "file_url": null,
     "relatedSources": [
       "IOM",
-      "UNICEF"
+      "UNICEF",
+      "WFP"
     ],
     "sourceIds": [
+      "rw-4223702",
       "rw-4223633",
       "rw-4223650"
     ],
     "model": "gpt-4.1-mini",
-    "generated_at": "2026-07-30T06:54:20Z",
+    "generated_at": "2026-07-30T12:34:48Z",
     "prompt_id": "a3a6fd17e378",
     "system_prompt": "You are a concise humanitarian analyst. Given the input of a set of situation reports for a specific crisis or location, produce a short briefing note. Use no material outside of this prompt and the specific inputs.\n\nFormat:\n• Write 3–5 bullet points covering key developments, figures, and needs. Start each bullet with \"• \" on its own line.\n• If there is important context that does not fit in bullets, add a single short paragraph (2–4 sentences) after the bullets, separated by a blank line.• However if this format feels very constraining for a particular case, you may produce longer output.\n\nRules: plain text only — no markdown headers, no bold, no links. Be factual and objective. If figures conflict between sources, note the range. Be aware, sitreps are sometimes published at regional level - read carefully and only include information that clearly applies to the specific country or crisis. Always use British English, including date formatting (day before month).",
-    "user_prompt_display": "Crisis / situation: Syrian Arab Republic\n\n--- Report 1: IOM (2026-07-30) ---\nSyrian Arab Republic - Emergency Mobility Tracking and Cross Border Monitoring Situation Update - Round 18 (27 July 2026)\n\n--- Report 2: UNICEF (2026-07-30) ---\nUNICEF Syrian Arab Republic Humanitarian Situation Report No. 2 (Mid -Year), 30 June 2026\n"
+    "user_prompt_display": "Crisis / situation: Syrian Arab Republic\n\n--- Report 1: WFP (2026-07-30) ---\nWFP Syria Monthly Market Price Bulletin, June 2026 - Issue 138\n\n--- Report 2: IOM (2026-07-30) ---\nSyrian Arab Republic - Emergency Mobility Tracking and Cross Border Monitoring Situation Update - Round 18 (27 July 2026)\n\n--- Report 3: UNICEF (2026-07-30) ---\nUNICEF Syrian Arab Republic Humanitarian Situation Report No. 2 (Mid -Year), 30 June 2026\n"
   },
   {
     "id": "rw-4223616",

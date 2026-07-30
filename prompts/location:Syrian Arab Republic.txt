@@ -1,12 +1,19 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: IOM (2026-07-30) ---
+--- Report 1: WFP (2026-07-30) ---
+The cost of living in June 2026, as measured by the Minimum Expenditure Basket (MEB), remained stable at New SYP 26,551 compared to the previous month. However, it was 33 percent higher than in June 2025 (year-on-year).
+The Syrian pound (SYP) depreciated in the official market, with the exchange rate increasing from New SYP 113.00 per USD to New SYP 122.00 per USD in June 2026.also in the parallel market depreciated to New SYP 140.76 from 136.21 New SYP per USD.
+The Syrian Grain Corporation announced that it had procured 1.1 million metric tons of wheat from farmers as of 27 June, covering approximately 44 percent of Syria's annual wheat requirement. Wheat procurement is expected to reach 2.5 million metric tons by the end of July, which would strengthen domestic wheat availability, support farmers' incomes, and reduce reliance on imports.
+The Ministry of Energy announced that petroleum products will be priced in Syrian pounds instead of foreign currency, aiming to strengthen the national currency, reduce fuel price volatility, and support price stability.
+The National Import and Export Committee suspended imports of broiler chickens, broiler chicks, and layer chicks to support domestic poultry production. The measure aims to protect local producers and encourage investment in the poultry sector. Its impact on poultry meat and egg prices will depend on the domestic sector's ability to meet market demand.
+
+--- Report 2: IOM (2026-07-30) ---
 Following the ceasefire in Lebanon announced on 17 April 2026, cross-border movements from Lebanon into the Syrian Arab Republic (hereafter referred to as Syria) have declined, reflecting a sustained reduction in displacement across the border. Since arrivals peaked on 27 April 2026 (153,087 individuals), DTM estimates that approximately 30,050 Syrian and Lebanese nationals have subsequently returned to Lebanon. This trend suggests that large-scale emergency movements have largely subsided, with cross-border mobility increasingly characterised by more gradual and stabilised patterns. In response to these developments, DTM transitioned its Emergency Mobility Tracking data collection from a weekly to a bi-weekly (every two weeks) cycle as of Round 17. The revised frequency better reflects the evolving operational context while allowing for more in-depth analysis of population movements.
 Between 2 March and 27 July, DTM identified 123,037 arrivals across 1,163 locations covering all 14 governorates of Syria. Syrian nationals represented the vast majority of recorded arrivals, while Lebanese nationals accounted for fewer than 1 per cent.
 Flow monitoring conducted at four assessed Syrian-Lebanese border crossings recorded a cumulative 603,615 movements into Syria between 2 March and 27 July. Of these, approximately 98 per cent involved Syrian nationals and the remaining 2 per cent involved Lebanese nationals. During the same period, DTM also recorded 3,184 Lebanese nationals transiting through Syria towards Jordan, highlighting the continued use of Syria as a transit route for onward regional movement.
 The situation remains fluid, and DTM continues to monitor developments.
 
---- Report 2: UNICEF (2026-07-30) ---
+--- Report 3: UNICEF (2026-07-30) ---
 Highlights
 
 Since November 2024, approximately 3.7 million internally displaced persons (IDPs) and Syrian refugees have returned to their areas of origin or other locations in the Syrian Arab Republic, half of whom are children.
