@@ -1,11 +1,46 @@
 Crisis / situation: Ukraine
 
---- Report 1: UNHCR (2026-07-23) ---
-Overview
-This report synthesizes five Computer-Assisted Telephone Interviewing (CATI)-based post distribution monitoring (PDM) assessments covering 2,150 households (HHs), examining humanitarian house repair for both war-affected and internally displaced people (IDPs), construction materials and Rapid Thermal Kit (RTK) assistance delivered in 2025. Sources: Windows Replacement (June 2026, n=290), House Repairs (May 2026, n=561), Construction Materials (May 2026, n=537), IDP Housing Repairs (March 2026, n=454), and Rapid Thermal Kits (April–May 2026, n=308). Service providers: Kyiv Institute of Sociology and Info Sapiens. Target sample sizes for each assessment were determined using a standard statistical sample-size formula (the normal-approximation/Cochran method), applying a 99% confidence level against each programme.
+--- Report 1: Health Cluster (2026-07-31) ---
+HIGHLIGHTS
+• June 2026 recorded the highest number of civilian casualties in Ukraine since April 2022, surpassing the previous peak set in May 2026. The UN HRMMU verified at least 293 civilians killed and 1,990 injured this month alone. In the first half of 2026, 1,396 were killed and 7,987 injured, a 37 percent increase compared to the same period last year.
+• Long-range weapons remained the leading cause of civilian casualties, with large-scale attacks striking densely populated cities. On 2 June, strikes hit Kyiv, Dnipro, and Kharkiv; in Kyiv alone, attacks killed 27 people and injured at least 90. On 15 June, a large-scale attack further killed six people in Kharkiv, five of them rescue workers. Over the first six months of 2026, health partners, in support of national authorities, reached more than 900 people via their post-strike response and prepositioned medicines and consumables to health facilities to cover the treatment of 1,345 people.
+• Attacks on civilians near the frontline reached their highest level of the full-scale war in June 2026, according to HRMMU. Short-range drones alone killed 89 people and injured 588, the worst month since February 2022. Amid daily attacks and disrupted access to essential services such as water and gas, evacuations from frontline areas rose significantly. In June, more than 15,000 people were registered at transit centers where health partners operate. In response, partners delivered 3,712 health consultations.
+• Humanitarian access has become increasingly constrained for health partners. At least six health partners reported reduced or lost access in Donetska, Dnipropetrovska, Kharkivska,
+Sumska, and Zaporizka oblasts owing to deteriorating security conditions, leaving gaps where vulnerable people still require medical services. The Health Cluster is supporting the roll-out of alternative modalities, including temporary relocation and remote service delivery where feasible.
+• On 24 June, the Health Cluster convened a workshop on reporting and beneficiary calculation to strengthen partners’ capacity to collect, calculate, and report data in line with HNRP 2026 priorities and Health Cluster reporting standards, promoting coherent and credible reporting while enhancing the coordination and visibility of health interventions in Ukraine.
 
---- Report 2: UNHCR (2026-07-23) ---
-Context and Overview
-▪ Winter 2025-2026 was particularly harsh in Ukraine. A report by the UN HRMMU found that Russian Armed Forces systematically and repeatedly targeted energy facilities across Ukraine throughout the 2025-2026 winter months – with electricity generation, transmission and distribution facilities hit at least 423 times between October 2025 and March 2026, including 48 coordinated attacks that targeted three or more regions using multiple types of weapons. These attacks triggered emergency electricity outages, affecting millions of civilians across the country, and disrupted critical utilities to hundreds of thousands of people, leaving many without heating and hot water as temperatures fell below -20°C in the coldest winter in Ukraine since 2010. The impact of these outages was particularly severe for people living in multistory buildings and for people with reduced mobility, including older persons and persons with disabilities.
-▪ The REACH Cold Spots Risk Assessment for the 2026-2027 winter season found that the highest levels of risk remain concentrated in the north-east and east of Ukraine, particularly across Kharkivska, Sumska, Donetska, and Kyivska oblasts, where colder winter conditions overlap with war intensity, proximity to active hostilities or the Russian border, displacement, infrastructure disruption, and cumulative damage to electricity, water, and heating systems. Compared to previous years, winter-related vulnerability is increasingly shaped not only by proximity to the frontline, but also by broader energy-system disruption affecting large urban and densely populated areas. The REACH assessment highlights the growing importance of large urban areas – including cities such as Kyiv, Kharkiv, Odesa, and Dnipro – where disruptions to electricity, heating, water, and communication systems may affect large numbers of people. Meanwhile, parts of Khersonska, Zaporizka, and Odeska oblasts in southern Ukraine also demonstrate winter-related vulnerability linked to war exposure, infrastructure disruption, and utility outages.
-▪ UNHCR’s border monitoring found that the lack of basic services also influenced people’s decisions to flee abroad last winter. People leaving Ukraine started citing lack of electricity, water, and heating among the top reasons for leaving in September 2025. In December 2025, January and February 2026, around 75% of people who left mentioned either lack of electricity, water or heating. About one-third of respondents who left Ukraine in January and February 2026 said that stabilization of the electricity situation was a main factor influencing a future return decision.
+--- Report 2: ACLED (2026-07-29) ---
+Ukraine attacked warehouses of Russia’s largest online retailer, while Russia launched a massive wave of missile strikes at Kyiv city.
+Author
+Olha Polishchuk
+Eastern Europe, Caucasus, and Central Asia Research Manager
+1958 conflict events
+1% increase compared to last week
+239 incidents of violence targeting civilians
+17% increase compared to last week
+At least 136 civilians killed by targeted violence
+24% increase compared to last week
+1128 air- and drone strikes
+7% decrease compared to last week
+242 shelling events
+24% increase compared to last week
+578 armed clashes
+230 Russian attacks on civilian infrastructure
+5% decrease compared to last week
+Most frequent target type: Residential
+Change compared to last week (per target):
+Education: 43% increase
+Healthcare: 36% increase
+Energy: 34% decrease
+Residential: 3% decrease
+Key trends
+
+Ukrainian drone strikes on Russia’s shadow fleet continued on a daily basis across the Sea of Azov and Black Sea during last week. They struck more than 60 tankers, dry cargo ships, and tugboats. These strikes are the maritime extension of Ukraine’s campaign of targeting Russia’s oil refinery capabilities and fuel reserves that has been underway since May. This campaign is aimed at directly reducing Russia’s export revenue and future export potential.
+ACLED records the highest civilian fatality rate as a result of Russian air- and drone strikes in the Odesa region during this period, with 10 events and 17 reported fatalities. Amid strikes on residential areas and port infrastructure, two commercial foreign-flagged vessels were struck, driving the high number of fatalities.
+
+11 Jul.
+Sumy — A Russian airstrike kills six civilians and injures 46 others in Sumy city
+13 Jul.
+Odesa — Russian forces strike a Togo-flagged vessel in Odeskyi district, killing five crew and injuring 12
+16 Jul.
+Kyiv — Over 1,400 demonstrators protest against the dismissal of Defense Minister Fedorov and demand his reinstatement
