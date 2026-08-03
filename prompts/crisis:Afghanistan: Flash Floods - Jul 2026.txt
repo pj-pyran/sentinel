@@ -1,15 +1,16 @@
 Crisis / situation: Afghanistan: Flash Floods - Jul 2026
 
---- Report 1: OCHA (2026-07-29) ---
-HIGHIGHTS
+--- Report 1: UNICEF (2026-08-03) ---
+Highlights
 
-Heavy rainfall, flash floods and related natural hazards continued to affect communities in central, eastern, northeastern and southeastern regions of Afghanistan.
-Significant impacts were reported in Ghazni, Kapisa, Laghman, Logar, Nangarhar, Paktia, Paktika and Parwan, among other provinces. In Laghman, three people were killed and four others were injured, with 187 families affected. A total of 183 houses were damaged or destroyed, while approximately 800 acres of seasonal crops and around 310 livestock were also reportedly lost or damaged.
-Nuristan Province remains the most severely affected area. The completed inter-agency needs assessment in Parun district identified 120 families eligible for humanitarian assistance, while humanitarian assistance has already been provided to the first 92 identified families.
-Joint needs assessments have now been completed in Logar, Kabul, Kapisa and Parwan. Humanitarian assistance is scheduled for 79 families in Logar, 28 families in Kabul, 65 families in Kapisa, and 45 families in Parwan. Assessments in Maidan Wardak and Panjshir are expected to commence shortly.
-Humanitarian partners continue to scale up the response through shelter, health, WASH, protection and education interventions. Water network rehabilitation is underway in Parun, emergency health services continue to be provided, and cluster partners are expanding protection, psychosocial support and education responses.
-Recent flooding and landslides may have displaced or exposed explosive ordnance (EO), increasing risks for affected communities and humanitarian personnel.
+On 20 July, heavy rainfall triggered flash floods across several provinces in central, northern and eastern Afghanistan.
+In the eastern region (ER), Parun district, Nuristan Province, was the most impacted. Preliminary reports indicate 23 fatalities (26 per cent women and 74 per cent men) and 125 injuries (7 per cent women and 93 per cent men), with additional individuals still missing. The floods destroyed and damaged 92 houses, affected a health clinic and markets, disrupted livelihoods, and damaged critical infrastructure, including bridges, roads, flood protection walls, agricultural land and water supply networks, disrupting access to safe drinking water.
+In the central region (CR), flash floods across nine provinces resulted in two deaths and four injuries. A total of 306 houses were affected, impacting 1,917 people (613 girls, 556 boys, 389 women, and 359 men). Approximately 1.6 million square meters of agricultural land were destroyed, around 300 livestock killed, and 11 schools sustained damage.
+In the northern region (NR), flash floods were reported in Shughnan and Maimai districts of Badakhshan province during the same period. Floods caused damages to schools, 428,000 square meters of cultivated agricultural land, killing livestock, and damaging critical infrastructure, including bridges and water mills.
+Recent flash floods may have displaced explosive ordnance (EO) or exposed previously
 
---- Report 2: UNFPA (2026-07-28) ---
-Heavy rainfall and flash flooding have affected communities across Nangarhar, Nuristan and Laghman provinces in eastern Afghanistan, causing deaths, injuries, displacement risks, damage to homes and livelihoods, and disruption to essential services. In Nangarhar, flooding affected the Torkham border area, disrupting returnee movement at the border crossing. In Nuristan, the impact has been severe, with reported deaths, injuries and more than 100 people missing, alongside extensive damage to homes, markets, roads, bridges, agricultural land and water systems. Around 1,000 families reportedly face disrupted access to safe drinking water. In Laghman, flooding damaged agricultural land and crops, threatening livelihoods and household food security.
-UNFPA is working with partners to monitor the situation and to identify emerging needs, particularly for women and girls, including pregnant women, adolescent girls and women-headed households. Ensuring continued access to essential sexual and reproductive health and gender-based violence services, dignity supplies, safe referrals, and protection support will be critical as assessments continue.
+--- Report 2: WHO (2026-08-03) ---
+HIGHLIGHTS
+Heavy rainfall and flash floods impacted the eastern, southeastern, and central regions of Afghanistan, causing widespread humanitarian consequences across multiple provinces. The floods affected communities across eastern Afghanistan, including Nuristan, Nangarhar, and Laghman provinces; southeastern Afghanistan, including Paktika, Paktia, Khost, and Ghazni provinces; and the central region, including Kabul, Kapisa, Panjshir, Parwan, Logar, and Maidan Wardak provinces. The disaster resulted in loss of life, injuries, displacement of families, and extensive damage to homes, public facilities, and community infrastructure.
+WHO, together with Health Cluster partners, has been closely coordinating with local health authorities to support rapid assessments, deploy emergency health supplies and ensure the continuity of essential health services, including trauma care and treatment for injured and flood-affected populations.
+This will be WHO’s final situation report on the recent flash floods.
