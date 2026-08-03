@@ -1,46 +1,40 @@
 Crisis / situation: Ukraine
 
---- Report 1: Health Cluster (2026-07-31) ---
-HIGHLIGHTS
-• June 2026 recorded the highest number of civilian casualties in Ukraine since April 2022, surpassing the previous peak set in May 2026. The UN HRMMU verified at least 293 civilians killed and 1,990 injured this month alone. In the first half of 2026, 1,396 were killed and 7,987 injured, a 37 percent increase compared to the same period last year.
-• Long-range weapons remained the leading cause of civilian casualties, with large-scale attacks striking densely populated cities. On 2 June, strikes hit Kyiv, Dnipro, and Kharkiv; in Kyiv alone, attacks killed 27 people and injured at least 90. On 15 June, a large-scale attack further killed six people in Kharkiv, five of them rescue workers. Over the first six months of 2026, health partners, in support of national authorities, reached more than 900 people via their post-strike response and prepositioned medicines and consumables to health facilities to cover the treatment of 1,345 people.
-• Attacks on civilians near the frontline reached their highest level of the full-scale war in June 2026, according to HRMMU. Short-range drones alone killed 89 people and injured 588, the worst month since February 2022. Amid daily attacks and disrupted access to essential services such as water and gas, evacuations from frontline areas rose significantly. In June, more than 15,000 people were registered at transit centers where health partners operate. In response, partners delivered 3,712 health consultations.
-• Humanitarian access has become increasingly constrained for health partners. At least six health partners reported reduced or lost access in Donetska, Dnipropetrovska, Kharkivska,
-Sumska, and Zaporizka oblasts owing to deteriorating security conditions, leaving gaps where vulnerable people still require medical services. The Health Cluster is supporting the roll-out of alternative modalities, including temporary relocation and remote service delivery where feasible.
-• On 24 June, the Health Cluster convened a workshop on reporting and beneficiary calculation to strengthen partners’ capacity to collect, calculate, and report data in line with HNRP 2026 priorities and Health Cluster reporting standards, promoting coherent and credible reporting while enhancing the coordination and visibility of health interventions in Ukraine.
+--- Report 1: UNHCR (2026-08-03) ---
+UNHCR’s Emergency Shelter and Housing Programme in Ukraine: The programme aims to ensure that the most vulnerable among people affected by the war, whether displaced, remaining at home or having returned from displacement, have access to housing. In the seventh round of UNHCR’s Intention Survey, refugees and internally displaced people raised access to housing along with livelihoods opportunities as key enablers of sustainable and dignified return. UNHCR adopts approaches taking the local contexts into account and includes support that contributes to recovery and durable solutions.
+Overview: The war in Ukraine has damaged or destroyed more than 14% of Ukraine’s total housing stock according to the fifth Rapid Damage and Needs Assessment, and consequently left millions of Ukrainians in need of various forms of housing support. Through its shelter and housing assistance, UNHCR supports:
+▪ People in areas that continue to be directly affected by hostilities and need emergency support to cover damaged housing
+▪ People who have either remained in or returned to damaged housing in war-affected areas and who need support with house repairs.
+▪ People in situations of protracted internal displacement who need accommodation for the medium to longer-term.
 
---- Report 2: ACLED (2026-07-29) ---
-Ukraine attacked warehouses of Russia’s largest online retailer, while Russia launched a massive wave of missile strikes at Kyiv city.
-Author
-Olha Polishchuk
-Eastern Europe, Caucasus, and Central Asia Research Manager
-1958 conflict events
-1% increase compared to last week
-239 incidents of violence targeting civilians
-17% increase compared to last week
-At least 136 civilians killed by targeted violence
-24% increase compared to last week
-1128 air- and drone strikes
-7% decrease compared to last week
-242 shelling events
-24% increase compared to last week
-578 armed clashes
-230 Russian attacks on civilian infrastructure
-5% decrease compared to last week
-Most frequent target type: Residential
-Change compared to last week (per target):
-Education: 43% increase
-Healthcare: 36% increase
-Energy: 34% decrease
-Residential: 3% decrease
-Key trends
+--- Report 2: UNHCR (2026-08-03) ---
+KEY FIGURES
+2.45 million IDPs, returnees and war-affected people reached with cash assistance since March 2022, disbursing $740 million
+72% of those assisted since 2022 are women and children
+86,820 people supported with cash assistance so far in 2026 disbursing $23 million
 
-Ukrainian drone strikes on Russia’s shadow fleet continued on a daily basis across the Sea of Azov and Black Sea during last week. They struck more than 60 tankers, dry cargo ships, and tugboats. These strikes are the maritime extension of Ukraine’s campaign of targeting Russia’s oil refinery capabilities and fuel reserves that has been underway since May. This campaign is aimed at directly reducing Russia’s export revenue and future export potential.
-ACLED records the highest civilian fatality rate as a result of Russian air- and drone strikes in the Odesa region during this period, with 10 events and 17 reported fatalities. Amid strikes on residential areas and port infrastructure, two commercial foreign-flagged vessels were struck, driving the high number of fatalities.
+--- Report 3: World Vision (2026-08-03) ---
+As of June 2026, World Vision Ukraine Crisis Response has reached 2,413,068 people across Ukraine, Romania, Moldova and Georgia with essential humanitarian support.
+Children are at the centre of our work: 44% of those reached, 1,061,542 children, have received aid designed to protect their well-being, restore learning, and process trauma.
+Our response provides holistic support tailored to immediate and long-term needs:
 
-11 Jul.
-Sumy — A Russian airstrike kills six civilians and injures 46 others in Sumy city
-13 Jul.
-Odesa — Russian forces strike a Togo-flagged vessel in Odeskyi district, killing five crew and injuring 12
-16 Jul.
-Kyiv — Over 1,400 demonstrators protest against the dismissal of Defense Minister Fedorov and demand his reinstatement
+Basic Needs: Food assistance, essential household items, and direct cash aid.
+Child Well-Being: Safe education spaces and dedicated protection services.
+Mental Health: Psychosocial support (MHPSS) to help families heal from trauma.
+Livelihoods: Income-generating support to help families regain independence.
+
+Where our aid reaches:
+
+Ukraine: 1,509,734 people (662,740 children)
+Moldova: 510,323 people (215,854 children)
+Romania: 352,027 people (159,871 children)
+Georgia: 40,984 people (23,077 children)
+
+Together with local partners, World Vision remains committed to supporting displaced families and building a safer future for every child affected by this war crisis.
+Download the full June Factsheet to learn more.
+
+--- Report 4: ETC (2026-08-03) ---
+Summary Points
+• LTC Telecoms maintained critical security communications across 10 high-risk locations in Ukraine, restored VHF coverage at the Shakhtarske (ex. Pershotravensk) in Dnipropetrovsk region and the Sumy UN remote sites responding to conflict-related damage to communications infrastructure.
+• LTC Telecoms supported maintenance activities at the UNDSS remote site in Lviv in line with recommendations from the recent {TESS+} mission.
+• LTC Telecoms is relocating communications equipment from the Dnipro warehouse following a second incident of conflict-related damage to the facility, to ensure the security of telecommunications assets and continuity of services.
