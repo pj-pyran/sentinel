@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4224257",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Sudan conflict - LTC Situation Report (Telecoms Area) #42 Reporting period: 01 – 31 July 2026",
+    "source": "ETC",
+    "crisis": "Humanitarian Crisis",
+    "location": "Sudan",
+    "scope": "single",
+    "date": "2026-08-04",
+    "content": "<p><em>The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 25 May 2023 in response to the conflict crisis in Sudan. This Situation Report provides a monthly update on LTC telecoms activities1 .</em></p>\n<p><strong>Summary Points</strong></p>\n<p>• In July, despite funding shortfalls, LTC Telecoms continued coordination and high-level advocacy with humanitarian partners and national authorities to maintain telecommunications services for emergency responders and support the delivery of lifesaving assistance.</p>\n<p>• LTC Sudan Telecoms is prioritizing the renewal and expansion of Security Communications System (SCS) licences, including High Frequency (HF) and Very High Frequency (VHF) radio licences, to enable secure communications in Khartoum and Omdurman. The cluster has applied for new licences and additional frequencies to boost communication for responders.</p>\n<p>• On 22 July, UNICEF, the Accountability to Affected Populations (AAP) Working Group, the United Nations Environment Programme (UNEP) and the Go Green Initiative, officially launched the Ald-Aim Community Centre in Khartoum, marking a key milestone in efforts to expand community access to information, learning opportunities and essential digital services.</p>\n<p><strong>Situation overview</strong></p>\n<p>July was characterized by worsening conflict dynamics, growing health emergencies, sustained largescale humanitarian needs, and inadequate funding levels, leaving millions of Sudanese civilians dependent on humanitarian assistance while facing heightened protection, food security, and health risks. Fighting between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) intensified in several areas, particularly in North Kordofan, Darfur, and parts of the Kordofan region, resulting in civilian casualties, displacement, and damage to critical infrastructure.</p>\n<p>North Kordofan emerged as a major hotspot during the reporting period. The humanitarian situation was further aggravated by a growing cholera outbreak. Humanitarian actors expanded surveillance, treatment, and prevention activities, but response efforts remained constrained by insecurity, limited access, and significant funding shortages</p>\n",
+    "url": "https://reliefweb.int/report/sudan/sudan-conflict-ltc-situation-report-telecoms-area-42-reporting-period-01-31-july-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4224257",
+    "file_url": "https://reliefweb.int/attachments/b87b5a49-6f7b-4a63-b28f-4fdfe06a609d/7-LTC%20Sudan%20Telecoms%20SitRep_2026%2007%2031.pdf"
+  },
+  {
     "id": "rw-4224196",
     "provider": "reliefweb",
     "type": "original",
