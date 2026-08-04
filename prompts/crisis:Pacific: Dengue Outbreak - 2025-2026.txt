@@ -1,31 +1,19 @@
 Crisis / situation: Pacific: Dengue Outbreak - 2025-2026
 
---- Report 1: WHO (2026-07-28) ---
+--- Report 1: WHO (2026-08-04) ---
 No summary available.
 
---- Report 2: SPC (2026-07-27) ---
-Key highlights (as of EW29):
-
-48 cumulative laboratory-confirmed dengue cases reported since the outbreak began.
-2 new confirmed cases were reported in EW29.
-Weekly case numbers remain below the outbreak alert threshold (fewer than 4 cases per week), indicating reduced outbreak activity.
-Ongoing transmission continues, therefore the outbreak status remains unchanged.
-9 cumulative hospitalisations (18.8%) have been recorded; 1 patient remains hospitalised and all others have recovered and been discharged.
-No dengue-related deaths have been reported.
-Dengue Virus Type 1 (DENV-1) has been confirmed as the circulating serotype.
-Highest proportion of cases reported from Pango Area Council (31%), followed by Erakor Area Council (25%).
-67% of cases are among individuals under 26 years of age, and 54% are male.
-Response efforts continue, including enhanced surveillance, vector control, community awareness campaigns, and outreach activities, reaching over 450 community members.
-
---- Report 3: SPC (2026-07-27) ---
+--- Report 2: SPC (2026-08-03) ---
 HIGHLIGHTS
 • Since 1 January 2025, twelve dengue outbreaks have been reported across Pacific Island Countries and Areas (PICs).
 • During 2025, dengue outbreaks were reported in American Samoa, Cook Islands, Fiji, French Polynesia, Kiribati, Nauru, Samoa, Tonga, and Tuvalu. A total of 21,258 confirmed cases and 21 deaths were recorded across the Pacific. Fatalities were reported in Fiji (n=8), Samoa (n=7), Tonga (n=3), Nauru (n=2), and Kiribati (n=1).
-• Between 1 January 2026 and 2 July 2026, a total of 4 466 dengue confirmed cases, 173 hospitalisations and 3 deaths have been reported across the Pacific.
-• The Pacific Syndromic Surveillance System (PSSS) has reported a total of 8 723 Dengue-like Illness (DLI) cases to date, a lower trend compared to the same period last year. • In 2026 dengue outbreaks were officially declared in New Caledonia, Tonga and Shefa province Vanuatu.
+• Between 1 January 2026 and 2 July 2026, a total of 4 478 dengue confirmed cases, 173 hospitalisations and 3 deaths have been reported across the Pacific.
+• The Pacific Syndromic Surveillance System (PSSS) has reported a total of 8 852 Dengue-like Illness (DLI) cases to date, a lower trend compared to the same period last year.
+• In 2026 dengue outbreaks were officially declared in New Caledonia, Tonga and Shefa province Vanuatu.
 • The most affected countries and areas in 2026 include: Cook Islands, French Polynesia, Samoa, and New Caledonia. These account for 94% of confirmed cases.
-• Dengue serotype-1 (DENV-1) and serotype-2 (DENV-2) are currently in circulation. • The Cook Islands officially declared the end of its dengue outbreak on 25 May 2026.
-• As of 27 July 2026:
+• Dengue serotype-1 (DENV-1) and serotype-2 (DENV-2) are currently in circulation.
+• The Cook Islands officially declared the end of its dengue outbreak on 25 May 2026.
+• As of 3 August 2026:
 o The dengue outbreak remains ongoing in Shefa Province, Vanuatu, with dengue virus serotype 1 (DENV-1) continuing to circulate.
 o Low levels of transmission are observed in American Samoa, Kiribati, New Caledonia, Samoa, and Tonga.
-o Wallis and Futuna is under monitoring, following recent reports of community transmission in both Wallis and Futuna.
+o Tonga has declared end of dengue outbreak
