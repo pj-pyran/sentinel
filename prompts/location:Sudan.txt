@@ -1,6 +1,12 @@
 Crisis / situation: Sudan
 
---- Report 1: ETC (2026-08-04) ---
+--- Report 1: DFS (2026-08-04) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
+
+--- Report 2: ETC (2026-08-04) ---
 The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 25 May 2023 in response to the conflict crisis in Sudan. This Situation Report provides a monthly update on LTC telecoms activities1 .
 Summary Points
 • In July, despite funding shortfalls, LTC Telecoms continued coordination and high-level advocacy with humanitarian partners and national authorities to maintain telecommunications services for emergency responders and support the delivery of lifesaving assistance.
@@ -10,12 +16,12 @@ Situation overview
 July was characterized by worsening conflict dynamics, growing health emergencies, sustained largescale humanitarian needs, and inadequate funding levels, leaving millions of Sudanese civilians dependent on humanitarian assistance while facing heightened protection, food security, and health risks. Fighting between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) intensified in several areas, particularly in North Kordofan, Darfur, and parts of the Kordofan region, resulting in civilian casualties, displacement, and damage to critical infrastructure.
 North Kordofan emerged as a major hotspot during the reporting period. The humanitarian situation was further aggravated by a growing cholera outbreak. Humanitarian actors expanded surveillance, treatment, and prevention activities, but response efforts remained constrained by insecurity, limited access, and significant funding shortages
 
---- Report 2: UNFPA (2026-08-03) ---
+--- Report 3: UNFPA (2026-08-03) ---
 Sudan is currently enduring one of the world's most severe humanitarian and displacement crises, characterized by over three years of conflict that has severely damaged infrastructure and isolated communities in regions such as Darfur, Kordofan, and Blue Nile. The collapse of the health system has critically limited access to essential sexual and reproductive health (SRH) services, heightening maternal and newborn health risks, while widespread insecurity and the breakdown of community protection mechanisms have significantly intensified threats for women and girls, particularly regarding gender-based violence (GBV). Despite an estimated 4.6 million people returning to their areas of origin, these populations face substantial challenges due to destroyed infrastructure and severely limited access to essential services. The humanitarian outlook remains precarious, as the upcoming rainy season is expected to further disrupt aid delivery, heighten public health risks through disease outbreaks, and exacerbate existing protection vulnerabilities.
 UNFPA is responding to the crisis in Sudan through provision of integrated SRH and GBV services through 14 partners across 86 health facilities. UNFPA reached over 167,000 individuals with essential health services in May and June 2026, including maternal and newborn care, family planning, and immunization services, while utilizing cash and voucher assistance to reduce financial barriers to safe deliveries and obstetric care. Additionally, integrated programming supported survivor-centred care for GBV, encompassing clinical management of rape, psychological support, and referrals to protection services. Further operational support was directed to conflict-affected areas, including the deployment of mobile health teams and community midwives to sustain emergency obstetric and newborn care.
 In 2026, UNFPA is appealing for US $129.2 million to respond to critical SRH and GBV needs in Sudan. To date, around 33% of this funding has been received, leaving a significant gap of US $86 million. UNFPA continues to call for urgent financial support to address the growing needs of women and girls across the country.
 
---- Report 3: Health Cluster (2026-08-03) ---
+--- Report 4: Health Cluster (2026-08-03) ---
 Key achievements
 
 Health Cluster partners continued delivering essential health services across Sudan through supported health facilities, hospitals, and mobile teams. Services included outpatient consultations, maternal and reproductive healthcare, immunization, nutrition support, mental health and psychosocial ser-vices, and referrals.
@@ -24,7 +30,7 @@ Access to healthcare services was expanded through support to health facilities,
 Integrated health, nutrition, sexual and reproductive health, and protection services continued to reach vulnerable populations in conflict-affected and dis-placement-affected areas.
 Coordination mechanisms remained active at national and subnational levels, supporting prepared-ness planning, information management, partner co-ordination, and resource mobilization despite ongoing operational challenges.
 
---- Report 4: UNICEF (2026-08-02) ---
+--- Report 5: UNICEF (2026-08-02) ---
 The Sudan WASH Cluster has published its 2026 Mid-Year Report, highlighting both the achievements and challenges of the humanitarian WASH response during the first half of 2026. Despite ongoing conflict, displacement, disease outbreaks, and access constraints, partners continued to deliver life-saving water, sanitation, and hygiene services to millions of vulnerable people across Sudan.
 The report showcases key response achievements, progress in cholera preparedness and response, the operationalization of the Sudan WASH Core Pipeline, and a series of partner case studies demonstrating innovative approaches to improving water supply, water quality, sanitation, and public health outcomes across the country.
 At the same time, the report highlights the scale of unmet needs and the urgent need for additional resources. With only US$70 million received against requirements of US$375.9 million, the sector faces a funding gap of more than US$306 million, threatening the continuity of essential WASH services and public health interventions.

@@ -1,18 +1,18 @@
 Crisis / situation: Nigeria
 
---- Report 1: WFP (2026-07-30) ---
-KEY HIGHLIGHTS
-• About 36.3 million people across the country are acutely food insecure at crisis or worse levels. The key driver of food security in Nigeria is insecurity compounded by economic challenges and extreme climate events.
-• The Nigeria Hydrological Service Agency (NIHSA) projects medium flood risk for 13 states in Nigeria including Borno and Adamawa.
-• In June, WFP provided nutrition and resilience integrated food assistance to 847,346 beneficiaries in Borno, Adamawa, Yobe and Katsina states.
-• Monitoring reports show improved food security outcomes for beneficiaries and participants of WFP’s programme activities. About half of the households surveyed reported acceptable food consumption levels.
-SITUATION OVERVIEW
-• Food insecurity remains a major challenge in Nigeria. As the lean season period enters its peak, more households are experiencing severe food consumption gaps.
-• The situation is particularly dire for internally displaced people and other vulnerable households living in conflict-affected areas with 12.8 million people, (i.e. 31 percent of the population) across Borno, Adamawa, Yobe, Katsina, Sokoto and Zamfara facing acute hunger.
-• WFP is supporting the Government of Nigeria since 2016 to provide emergency food and nutrition assistance in Northern Nigeria. Currently, WFP is implementing a five-year Country Strategic Plan (2023-2027) that aims to deliver emergency food assistance and support recovery and resilience-strengthening efforts for vulnerable people and communities. WFP’s strategy for lasting solutions is aligned with national priorities while enhancing the domestic capacity for Government-led solutions.
-• WFP Nigeria also manages critical humanitarian enabling services that support the broader response architecture, including the United Nations Humanitarian Air Service (UNHAS), Emergency Telecommunications Sector (ETS), and the Logistics Sector. • WFP urgently requires USD 99.4 million to sustain food assistance over the next six months (August 2026 – January 2027.
+--- Report 1: IOM (2026-08-04) ---
+On 25, 27 and 28 July 2026, armed bandits attacked the communities of Magaji Wando in Magaji Wando B ward, Bokolo and Nasarawai in Dandume A ward of Dandume Local Government Area (LGA), Katsina State. According to key informants, the attack displaced 252 individuals from 38 households, including 139 children, 66 women, and 47 men.
+Following the incident, Displacement Tracking Matrix (DTM) field staff conducted rapid assessments on 29 and 30 July 2026 to inform the humanitarian community, as well as the government and partners, to enable a more targeted response
 
---- Report 2: UNFPA (2026-07-28) ---
-In June 2026, Nigeria faced a multifaceted humanitarian crisis characterized by protracted conflict, macroeconomic inflation, and disease outbreaks, leaving an estimated 36.3 million people food insecure. The north-east epicenter is suffering from non-state armed violence, severe malnutrition, and a massive cholera outbreak, while the forced closure of internally displaced person camps in Borno State has triggered mass displacement and relocation. Simultaneously, banditry and intercommunal violence have destabilized the north-west and north-central regions, exemplified by a mid-June attack in Zamfara State that caused numerous casualties and widespread displacement. These compounding factors, along with early seasonal flooding, have severely disrupted health infrastructure and heightened protection risks for women and girls, including increased exposure to gender-based violence (GBV) and limited access to essential sexual and reproductive health (SRH) services.
-UNFPA's humanitarian response in Nigeria focused on delivering integrated SRH, GBV, and youth empowerment services through a network of health facilities, safe spaces, youth spaces, and one-stop centres. SRH interventions provided critical care, including 359 managed deliveries, antenatal and postnatal services for thousands of women, contraception access for nearly 3,000 individuals, and comprehensive medical treatment for survivors of sexual violence. GBV response efforts reached over 12,600 people with mental health and psychosocial support, referral linkages, and specialized protection services, while youth programming engaged over 7,300 young people through life-skills training, vocational programmes, and civic engagement initiatives.
-To deliver the required SRH and GBV humanitarian response, a total of US $11,900,000 is required. As of June 2026, UNFPA’s appeal was 11.6% funded, leaving a significant gap in support for essential SRH and GBV services.
+--- Report 2: WFP (2026-08-03) ---
+IN NUMBERS
+856,410 beneficiaries* reached in June 2026
+36.3 million people are food insecure, out of which 2.1 million are in IPC4 and 5 Phases
+1,135 mt food assistance distributed* in June 2026
+US$6.5m distributed through cashbased transfers* in June 2026
+US$ 91.6 million funding gap from July to December 2026
+*Preliminary figures pending final distribution reports
+KEY HIGHLIGHTS
+• Conflict, displacement and restricted access to farmland continue to drive food insecurity outcomes across northern Nigeria during the lean season as irregular rainfall disrupts agricultural production and raises concerns
+• An OCHA-led inter-sector severity classification update, informed by Cadre Harmonisé findings and other multi-sector data to guide humanitarian prioritization has identified 15 LGAs as Severity Level 4.
+• WFP assistance reached more people in June compared to the previous month, providing nutrition-integrated food assistance and strengthening resilience and food systems.
