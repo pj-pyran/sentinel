@@ -1,6 +1,21 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: OCHA (2026-08-03) ---
+--- Report 1: UNRWA (2026-08-05) ---
+All information updated for 15 - 28 July 2026 [1]
+Days 1011 - 1024 since the start of the war in the Gaza Strip
+Highlights
+The Gaza Strip
+
+UNRWA summer learning activities started on 18 July, with 39,509 children (21,666 girls, 17,843 boys, including 875 children with disabilities) participating between 20 and 26 July. Summer activities also started at the UNRWA Rehabilitation Centre for the Visually Impaired (RCVI).
+On 21 July, UNRWA resumed operations at Beach Camp Health Centre in western Gaza City, which had been closed since sustaining damage during the September-October 2025 military escalation. On 29 July, UNRWA also opened the Bahrain Medical Point, in southern Gaza City. Together, the two facilities are expected to serve a large catchment area (almost 100,000 people), expanding access to essential primary healthcare services across densely populated areas of Gaza City.
+The operating environment in Gaza continues to deteriorate, with a significant escalation in hostilities observed in the humanitarian area – also known as the “green zone” – west of the so-called “yellow line” of control designated by Israeli forces. There have also been additional advances of the yellow line across multiple areas, including in eastern Middle Area, Gaza City and Khan Younis. Multiple evacuation orders and shelter-in place orders were issued over the past week with several humanitarian infrastructure affected (including more than ten UNRWA premises).
+Restrictions on the entry of lubricant oil and spare parts continue to pose a critical challenge for humanitarian operation, More than half of UNRWA’s fleet is no longer operational due to the shortage of engine oil and spare parts. In addition, 62 water wells have been affected by fuel and lubricant shortages, leading to a reduction of 42 percent in UNRWA’s production and distribution of clean water.
+
+The occupied West Bank, including East Jerusalem
+
+On 27 July, the UNRWA Kalandia Training Centre in East Jerusalem was subject to an unauthorised entry by Israeli forces and Jerusalem Municipality officials, during which they inspected the premises while educational activities were ongoing. As a United Nations property, the Kalandia Training Centre is protected under international law.
+
+--- Report 2: OCHA (2026-08-03) ---
 Highlights
 
 In Gaza, food insecurity has eased, but needs remain high, and declining aid coverage since February 2026 risks reversing gains, according to the latest Integrated Food Security Phase Classification analysis.
@@ -70,11 +85,11 @@ Between 23 and 24 July, at least 10 Palestinian families comprising 49 people we
 These incidents reflect a broader pattern of recurrent displacement driven by demolitions, settler violence and the expansion of settlement outposts. Since January 2023, more than 6,200 Palestinians, including over 3,000 children, have been displaced, including more than 2,300 people since the beginning of 2026.
 For key figures and additional breakdowns of casualties, displacement, and settler violence between January 2005 and June 2026, please refer to the OCHA West Bank June 2026 Snapshot. For key figures on the impact of settler attacks, please refer to the West Bank – The Impact of Settler Attacks, January 2023 – April 2026.
 
---- Report 2: ETC (2026-08-03) ---
+--- Report 3: ETC (2026-08-03) ---
 Operation overview
 Armed conflict between Palestinian militant groups and Israeli military forces began on 07 October 2023. The conflict has resulted in a severe humanitarian crisis and significant disruption to communications networks, impeding humanitarian operations. The WFP-led Logistics and Telecommunications Cluster (LTC Telecoms) was activated on 31 October 2023 to meet the urgent need to support access to reliable shared communications services for humanitarian organizations operating in Gaza.
 
---- Report 3: ETC (2026-08-03) ---
+--- Report 4: ETC (2026-08-03) ---
 The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 31 October 2023 in response to the crisis in Gaza. This Situation Report provides a monthly update on LTC telecoms activities. All references to the LTC in this report relate specifically to the telecommunications area of the cluster1.
 Summary Points
 • LTC Telecoms continued coordinating with humanitarian, UN, and private-sector partners to address telecommunications equipment access constraints and support critical communications services for humanitarian operations in Gaza.
