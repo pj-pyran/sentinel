@@ -1,16 +1,20 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: ETC (2026-08-04) ---
+--- Report 1: ChildFund International (2026-08-05) ---
+Context
+Five weeks after the June 24 earthquakes in Venezuela, the death toll and affected population continue increasing. OCHA has formalized the national response into a six-month Humanitarian Response Plan Addendum (July–Dec. 2026).
+
+Toll: 5,546 dead, 16,740 injured, 6,462 rescued alive. Rescuers describe no longer searching for survivors, and international search and rescue missions are scaling back. There are critical information gaps related to missing persons.
+Children: CECODAP estimates that over 1,400 children and adolescents remain at significant risk of harm due to the earthquake.
+Displacement: As of July 26, 107 transitional camps for affected populations are housing 24,477 people (87% capacity). Most displaced people remain concentrated in Caracas and La Guaira.
+Education: According to civil society organizations, over 900 schools have been affected, including 18 school facilities that have totally collapsed and 40 that have severe structural damage. 120 teachers have been reported dead.
+Economic effects and reconstruction costs: June inflation hit 13.8%, more than double May's rate. National reconstruction cost estimates now range from USD 12–15 billion. Government and private sector banking institutions are exploring credit programs for housing repair and replacement.
+Humanitarian funding request: OCHA's Humanitarian Response Plan Addendum requests USD 298 million to reach 1.3 million people over six months (JulyDecember 2026). This is in addition to the USD 930 million humanitarian funding required for 6.2 million people in Venezuela prior to the earthquake.
+Priority needs as per the OCHA Rapid Needs Assessment: health (53%), safe water (52%), food security (50%), psychosocial support (27%), sanitation/hygiene (22%), protection/safety/dignity (18%), shelter (17%).
+
+--- Report 2: ETC (2026-08-04) ---
 This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
 Summary Points
 • Since 05 July, an inter-agency LTC Telecoms Coordinator has been deployed in Caracas to strengthen in-country coordination and lead efforts to identify connectivity gaps and operational requirements for targeted humanitarian response support. A new inter-agency LTC Telecoms Coordinator will assume the role on 03 August and continue supporting the response.
 • The inter-agency LTC Telecoms Coordinator is working with UN OCHA, Comisión Nacional de Telecomunicaciones (CONATEL), Compañía Anónima Nacional Teléfonos de Venezuela (CANTV), Movistar, Digitel, G-Network, emergency.lu, Grupo Telefónica, and other partners to deploy connectivity solutions in the most affected areas.
 • Through the Internet for Communities solution, GNetwork’s fibre internet connection will remain free for all users at Polideportivo, César Nieves, and a third site until the end of the year or until the emergency ends. This helps address immediate concerns related to service contracts and recurring connectivity costs.
-
---- Report 2: PAHO (2026-08-02) ---
-HIGHLIGHTS
-• More than a month after the two earthquakes struck north-central Venezuela on 24 June 2026, the emergency response remains active while laying the groundwork for early recovery. Priorities now center on sustaining essential health services, strengthening referral pathways, and supporting temporary camps, while preventing public health risks and ensuring the continuous, needs-based supply of medicines and essential equipment.
-• Integrated surveillance continues to strengthen early detection and public health risk monitoring across affected areas. Approximately 30,638 vaccine doses have been administered, while laboratory, environmental and event-based surveillance activities continue supporting timely verification and response.
-• Transitional camps now shelter 24,477 people across 107 sites at 87% occupancy, with health, WASH, and protection needs extending beyond La Guaira toward Distrito Capital and Miranda as populations move, requiring coordinated action across multiple states.
-• PAHO/WHO continued supporting the response with critical medicines and equipment, benefiting 29 actors through its supplies and donations to date, and facilitated logistical support for 11 accepted donor offers. The latest delivery equipped four health facilities in La Guaira—extending primary care to 40,000 people—and delivered WASH items ensuring safe water for 800 families and nearly 110,000 people per month.
-• PAHO/WHO continues strengthening the Ministry of Popular Power for Health (MPPS) through its Regional Response Team across emergency coordination, logistics, information management, epidemiology, laboratory, WASH, immunization, risk communication, and EMT coordination, with additional experts arriving for entomology, infection prevention and control. It also supports the virtual CICOM and EMT mobilization, with ten teams now operational across La Guaira, Caracas, Miranda, while the EMT Network reinforces the Ministry's epidemiological surveillance and early detection in affected areas
