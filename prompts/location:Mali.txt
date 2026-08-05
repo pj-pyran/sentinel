@@ -1,57 +1,17 @@
 Crisis / situation: Mali
 
---- Report 1: WFP (2026-07-22) ---
-KEY HIGHLIGHTS
-• Security incidents and access constraints continue
-to limit humanitarian access in Kidal, Gao, Mopti,
-and Timbuktu.
-• Despite access constraints, WFP continues
-operations through adapted responses and
-enhanced preparedness.
-SITUATION OVERVIEW
-• Mali’s humanitarian environment remains highly
-challenging. Insecurity, access constraints, climate
-shocks, rising prices, supply chain disruptions, and
-population displacement continue to undermine
-livelihoods, strain local markets, and limit
-humanitarian assistance, reinforcing the need for
-sustained support.
-• WFP delivers food and nutrition assistance
-through in-kind and cash-based transfers, based
-on market conditions and access conditions.
-UNHAS supports access to hard‑to-reach areas.
-• WFP also supports national institutions in analysis,
-planning, coordination, and implementation to
-strengthen national capacity to respond to shocks
-and help sustain improvements in food security
-and nutrition over time.
-• With needs increasing as the lean season
-progresses, WFP is scaling up assistance and
-preparedness, with plans to reach over 180,000
-additional vulnerable people on top of the 350,000
-initially targeted.
+--- Report 1: UNICEF (2026-08-05) ---
+Highlights
 
---- Report 2: IFRC (2026-07-20) ---
-Description of the Event
-Date of event
-05-06-2026
-What happened, where and when?
-On the night of April 24 to 25, 2026, Mali was confronted with a series of coordinated armed attacks on a scale not seen since the 2012 rebellion. These attacks were carried out simultaneously by the Group for the Support of Islam and Muslims (JNIM) and the Front for the Liberation of Azawad (FLA) against several strategic localities in the country.
-The attacks mainly targeted military positions and strategic infrastructure. They have also had a direct impact on nearby residential areas, resulting in loss of life, destruction of property and a widespread climate of fear and uncertainty. Population movements have been disrupted, economic activities temporarily slowed down and access to some essential services made more difficult, thus increasing the vulnerability of communities already affected by years of crisis.
-In addition, the security situation continues to deteriorate, with numerous reports of blockades of towns and villages by armed groups, burning of public transport vehicles on main roads, abductions of people and destruction of agricultural crops. At the same time, weather forecasts point to a high risk of flooding in several areas of the country, which could further increase humanitarian needs.
-The attacks affected several regions of Mali, including:
-- District of Bamako;
-- Koulikoro region, in particular the city of Kati;
-- Mopti region, in particular Sévaré and Bandiagara;
-- Gao region;
-- Kidal Region;
-- as well as certain areas of central Mali.
-The attacks took place on the night of April 24 to 25, 2026. However, the situation remains ongoing and highly volatile.
-These events are part of a context of continuous deterioration of the security situation observed since 2024, marked in particular by the attack on Bamako airport in September 2024 and by the prolonged disruptions in fuel supply since September 2025.
-Following the attacks of 25 April 2026, the Mali Red Cross (RCM), the International Federation of Red Cross and Red Crescent Societies (IFRC) and the International Committee of the Red Cross (ICRC) conducted a joint analysis of the security context and activated the Movement's coordination mechanisms within the framework of the Seville Agreement 2.0. This analysis indicates a high risk of further deterioration of the situation, with further displacement, increased humanitarian needs and increased difficulties in accessing essential services.
-The current context is also marked by the implementation of restrictive measures recently adopted by the authorities, in particular the ban on the circulation and marketing of certain categories of motorcycles in several areas affected by insecurity through an interministerial order dated June 2, 2026. Although these measures are motivated by security imperatives, they have a significant impact on people's livelihoods, as motorcycles are the main means of transporting people, goods and basic services in many localities. Mobility restrictions limit access to markets, health facilities, schools and economic opportunities, leading to a decrease in the incomes of households already weakened by insecurity.
-At the same time, restrictions on access to certain forest areas considered sensitive further reduce the livelihoods of communities. Many households depend on forest resources for firewood collection, charcoal production, non-timber forest product gathering, grazing and certain income-generating activities. Limiting these activities increases the economic vulnerability of populations, increases the risk of food insecurity and reduces households' coping mechanisms in the face of successive shocks.
-In this context, an inter-headquarters meeting of the International Red Cross and Red Crescent Movement was held on 5 June 2026 between the CRM, the IFRC and the ICRC. This meeting provided an opportunity to carry out an up-to-date joint analysis of the security, humanitarian and operational context as well as to assess the implications of recent developments on the affected populations and on the Movement's response capacities.
-The conclusions of this meeting highlighted a continued deterioration of the context, characterized by the geographical spread of insecurity, the multiplication of restrictions on movement, the weakening of household livelihoods, the increased risks of population displacement and the gradual deterioration of access to essential services. The Movement partners also stressed the need to strengthen operational preparedness and coordination mechanisms in order to respond effectively to a possible escalation of the crisis.
-The launch of this operation is based on the recommendations and analyses resulting from this inter-headquarters coordination meeting of the Movement held on 5 June 2026, organized within the framework of the coordination mechanisms provided for in the Seville Agreement 2.0. The joint analysis concludes that there is a high risk of further deterioration of the situation in the coming months, with a likely increase in humanitarian needs, additional population displacement and increasing access constraints for humanitarian actors. This is consistent with the findings of the UNHCR assessment of 2 June 2026.
-The forward-looking scenarios developed by the Movement anticipate a protracted conflict in the short and medium term, marked by progressive fragmentation of territory, a reduction in the effective presence of the State in certain areas and increased pressure on civilian populations. In this context, the Mali Red Cross is currently operating under Code Orange, with its Emergency Operations Centre(EOC) activated and its Emergency Brigades (BU) mobilised to ensure a rapid response to emerging needs and to strengthen preparedness in the face of a possible deterioration of the situation.
+Mali’s humanitarian crisis significantly deteriorated during the first half of 2026, with the 25 April attacks marking a major escalation in insecurity. Conflict incidents increased by 39 per cent between Q1 and Q2, reaching 987 incidents and causing 283 casualties, including six children.
+Children and families faced growing risks as insecurity disrupted essential services and livelihoods. Around 415,000 people remained internally displaced (58 per cent children) and nearly 280,000 refugees, while localized displacement after April affected almost 40,000 people, including 21,600 children. Public health threats also remained high, with recurrent disease outbreaks and two confirmed cVDPV2 polio cases.
+Despite access and funding constraints, UNICEF and partners continued supporting the delivery of critical assistance, reaching 75,041 children with severe acute malnutrition treatment, 930,769 people with health services, 54,793 children and caregivers with psychosocial support, 33,330 children with education assistance and 20,977 people with critical WASH supply.
+
+--- Report 2: IFRC (2026-08-03) ---
+In March 2025, the International Federation of Red Cross and Red Crescent Societies (IFRC) Emergency Disaster Relief Fund (DREF) approved the Mali Red Cross (CRM) Early Action Protocol (EAP) to enable the implementation of anticipatory actions aimed at reducing the humanitarian impacts of riverine floods across Mali.
+The Early Action Protocol (EAP) targets flood-prone areas and primarily aims to reduce loss of life, mitigate economic damage, and prevent waterborne diseases such as diarrhea and cholera. The protocol is designed to reach up to 4,000 households, approximately 24,000 people, with a total budget of CHF 493,567.
+Activation of the EAP is triggered by hydrological and meteorological forecasts produced by the National Directorate of Hydraulics (DNH), indicating that thresholds corresponding to at least a five-year return period have been reached. Once these thresholds are met, the Mali Red Cross (CRM) has a lead time of 4 to 8 days to activate the planned early actions and deploy its teams in the field.
+Planned interventions include the activation of regional crisis committees, strengthened inter-agency coordination, community-based vulnerability assessments, door-to-door and radio-based awareness campaigns, distribution of WASH and health items, provision of empty sandbags for dike reinforcement, construction of emergency shelters, protection of critical infrastructure, and continuous monitoring of the evolving situation.
+These measures were defined through national dialogue platforms, community consultations, and simulation exercises (“dry tests”) conducted in 2019 and 2020, and were subsequently refined following the real activation of the EAP in September 2022. They were selected based on their effectiveness in reducing priority risks, their operational feasibility within short lead times, and their acceptance by at-risk communities.
+The Mali Red Cross has strong institutional and operational capacity to implement the EAP, including a nationwide network of trained volunteers, experienced technical teams across sectors, pre-positioned stocks in multiple regions, framework agreements with local suppliers, and close collaboration with government technical services—particularly the General Directorate of Civil Protection (DGPC). These capacities ensure a timely, efficient, and well-coordinated response, even in hard-to-reach areas.
+Beyond immediate response, the EAP contributes to strengthening long-term preparedness and community resilience to flooding, including in situations where anticipated events do not fully materialize. This is achieved through sustained awareness-raising, reinforcement of protective infrastructure, and improvements in early warning systems
