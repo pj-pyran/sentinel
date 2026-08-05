@@ -1,16 +1,23 @@
 Crisis / situation: India
 
---- Report 1: HAI (2026-07-28) ---
+--- Report 1: HAI (2026-08-05) ---
 CURRENT SITUATION
 
-LOCAL has verified 26,400 families in urgent need (21,000 families in Sivasagar, 2,400 families in Jorhat and 3,000 families across Golaghat and Charaideo districts)
-The death toll has risen to 68. Over 5.24 lakh people remain affected across Charaideo, Golaghat, Jorhat, Nagaon and Sivasagar. Sivasagar is now the worstaffected district with nearly 1.9 lakh people impacted. 354 relief camps and distribution centres are operational across four districts, sheltering 37,724 people.
-Floodwaters are gradually receding across Upper Assam. The focus has shifted to relief distribution, power restoration and medical deployment, with air-drops continuing in inaccessible areas. However, breached embankments and shallow waters are hampering both boat and vehicle access in several villages.
-As waters recede, a public health crisis is emerging in areas like Dergaon, with stagnant water, waste, snake infestations and disease risk. Residents are urgently calling for disinfectants, bleaching powder and health camps.
+A week after the floods, thousands of families remain unable to return to normal life. Homes are buried under silt and debris, livelihoods have been destroyed, access to safe water and sanitation remains limited, and many households continue to live in temporary shelters with little means to recover.
+The disaster has created a prolonged recovery crisis beyond immediate relief. Many affected communities, particularly those NOT traditionally flood-prone, lost homes, agricultural land, livestock, and essential household assets built over years, with local communities estimating that full recovery may take 5-10 years without sustained support.
+The response is now shifting to early recovery and rehabilitation. Immediate priorities include shelter repair, debris and silt clearance, restoration of livelihoods, WASH and public health support, psychosocial care, and rebuilding community resilience, requiring coordinated support from government, humanitarian organisations, donors, and the private sector.
 
---- Report 2: Sphere India (2026-07-27) ---
-SITUATION UPDATE
-A. Situation Overview:
-India is experiencing multi-state monsoon emergencies across Assam, Jammu &amp; Kashmir, Himachal Pradesh, Gujarat and Maharashtra (Palghar District). Among all affected regions, Assam remains the worst-hit, with widespread flooding, massive displacement, and extensive crop and livestock losses.
-1. Assam Flood - Severe Flooding Across 12 Districts
-Assam is facing one of its most severe flood waves in recent years, with 12 districts, 856 villages, and over 7 lakh people affected. Sivasagar, Jorhat, Charaideo and Golaghat are the worst-hit. Human casualties have reached 14, and livestock losses exceed 3.34 lakh, with massive crop damage across 56,600 hectares. Relief camps are sheltering 115,205 people, while another 2 lakh depend on external relief. The humanitarian, agricultural, and infrastructure impacts are extensive and escalating.
+--- Report 2: HAI (2026-08-05) ---
+ASSAM (19 JULY - PRESENT)
+
+A total of 87 deaths have been confirmed, and more than 705,000 people have been affected, with Sivasagar being the worst-hit district. Thousands of people remain displaced, many still living in roadside shelters or unable to return home after losing their houses, livestock, and belongings.
+A total of 56,606 hectares of agricultural land has been affected, with large areas covered by sand and silt, making cultivation difficult for the coming seasons. Many homes remain filled with debris that families are unable to clear on their own, while limited access to safe drinking water is increasing the risk of disease.
+Many people remain missing, with concerns some may still be buried under debris and silt. This has increased the need for drone assessments to support search efforts.
+Response is now shifting from immediate relief to early recovery, focusing on shelter repair, essential household items, debris clearance, livelihood support, WASH, health and psychosocial care. The scale of the crisis continues to stretch existing response capacity.
+
+--- Report 3: Sphere India (2026-08-03) ---
+A. Situation Overview :
+India is facing multi-state monsoon emergencies across Assam, Odisha, Gujarat, Maharashtra and Kerala, with Assam and Odisha the worst-affected due to severe flooding, large-scale displacement, and extensive crop and livestock losses.
+1. Assam Flood - Severe Flooding Across 5 Districts
+Impact on Humans
+Heavy monsoon rains and rising river levels have caused widespread flooding across Assam, affecting 7 districts, 20 revenue circles, and 349 villages. As per ASDMA’s DRIMS report, 1,78,837 people have been impacted, and 15,060 hectares of crop area remain submerged. Floodwaters from the Dikhou (Sivasagar) and Dhansiri (South), Numaligarh have inundated major population clusters in Golaghat, Sivasagar, Charaideo, Bajali, Dhemaji, Sonitpur and Jorhat. The affected population comprises 75,388 males, 76,104 females, and 27,345 children, with the highest caseloads in Charaideo (75,199), Sivasagar (58,824), Jorhat (28,846) and Golaghat (14,545). No human deaths or missing persons have been reported as of 1 August 2026.
