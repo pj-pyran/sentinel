@@ -1,12 +1,18 @@
 Crisis / situation: Lebanon
 
---- Report 1: DFS (2026-08-04) ---
+--- Report 1: DFS (2026-08-06) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/lebanon
 
---- Report 2: OCHA (2026-08-04) ---
+--- Report 2: DFS (2026-08-04) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/lebanon
+
+--- Report 3: OCHA (2026-08-04) ---
 HIGHLIGHTS
 
 At least 4,333 deaths and 12,250 injuries recorded due to hostilities since 2 March, with 353 people killed and 249 injured since the 19 June ceasefire announcement, according to the Ministry of Public Health.
@@ -24,7 +30,7 @@ Conflict-related damage to water and electricity infrastructure severely limits 
 Protection needs remain acute in Lebanon, with ongoing risks affecting communities in prolonged displacement, those returning to conflict-affected areas, and host communities. Protection risks remain high, particularly for conflict-affected women, children, older persons, and persons with disabilities. Among those who remain displaced, especially in collective shelters and vulnerable informal settlements, overcrowding, damaged housing, lack of privacy, gender-based violence risks, restricted access to essential services, documentation challenges, and financial constraints are increasing vulnerability and weakening community coping capacities. In areas of return, insecurity, the presence of unexploded ordnance, limited access to health care, WASH, mental health and psychosocial support, and sexual and reproductive health services, disrupted livelihoods, and housing, land, and property (HLP) issues undermine safe and sustainable return conditions and heighten protection risks.
 Funding constraints remain a major challenge to sustained humanitarian assistance. The 2026 Lebanon Flash Appeal, a six-month emergency response entering its final month, has received less than half of the $639.9 million required as of 3 August, or $289.3 million (45.2 per cent).
 
---- Report 3: Health Cluster (2026-08-04) ---
+--- Report 4: Health Cluster (2026-08-04) ---
 Situation Update
 Lebanon's health response continues to operate in a fragile environment shaped by insecurity, access constraints, population movements, damaged infrastructure, and limited resources. During the reporting period, newly reported attacks on healthcare and ongoing service delivery challenges continued to affect access to essential health services, particularly in conflict-affected, border, displacement, and return areas.
 Since 13 July, two new incidents were reported through the Surveillance System for Attacks on Health Care, resulting in four injuries and no deaths. Since the ceasefire announcement on 17 April, 67 attacks on healthcare have been documented, resulting in 39 deaths and 179 injuries. Overall, since 2 March, 213 incidents have been recorded, causing 135 deaths and 410 injuries, underscoring the continued need for monitoring and protection of healthcare.
