@@ -1,6 +1,14 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: ChildFund International (2026-08-05) ---
+--- Report 1: UNICEF (2026-08-05) ---
+Highlights
+
+UNICEF continued to scale up its humanitarian response across earthquake-affected areas, supporting the continuity of essential health, nutrition, WASH, child protection, and education services for children and families in temporary camps and affected communities.
+To date, UNICEF has reached 25,483 people with primary health care, 22,424 children, adults, and pregnant women with routine and catch-up vaccinations, 9,412 people with critical WASH supplies, 5,804 children and caregivers with nutrition services, and 6,134 children, adolescents, and caregivers with child protection services, including MHPSS.
+UNICEF is supporting the Post-Disaster Needs Assessment (PDNA), leading the WASH and education sectors. The PDNA will inform recovery priorities and help accelerate the restoration of essential services.
+In addition to its US$137.6 million 2026 HAC appeal, UNICEF requires US$65.7 million to sustain critical interventions and support the implementation of the 2026 Humanitarian Response Plan Addendum.
+
+--- Report 2: ChildFund International (2026-08-05) ---
 Context
 Five weeks after the June 24 earthquakes in Venezuela, the death toll and affected population continue increasing. OCHA has formalized the national response into a six-month Humanitarian Response Plan Addendum (July–Dec. 2026).
 
@@ -12,7 +20,7 @@ Economic effects and reconstruction costs: June inflation hit 13.8%, more than d
 Humanitarian funding request: OCHA's Humanitarian Response Plan Addendum requests USD 298 million to reach 1.3 million people over six months (JulyDecember 2026). This is in addition to the USD 930 million humanitarian funding required for 6.2 million people in Venezuela prior to the earthquake.
 Priority needs as per the OCHA Rapid Needs Assessment: health (53%), safe water (52%), food security (50%), psychosocial support (27%), sanitation/hygiene (22%), protection/safety/dignity (18%), shelter (17%).
 
---- Report 2: ETC (2026-08-04) ---
+--- Report 3: ETC (2026-08-04) ---
 This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
 Summary Points
 • Since 05 July, an inter-agency LTC Telecoms Coordinator has been deployed in Caracas to strengthen in-country coordination and lead efforts to identify connectivity gaps and operational requirements for targeted humanitarian response support. A new inter-agency LTC Telecoms Coordinator will assume the role on 03 August and continue supporting the response.
