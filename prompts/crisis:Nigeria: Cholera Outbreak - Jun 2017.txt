@@ -1,35 +1,19 @@
 Crisis / situation: Nigeria: Cholera Outbreak - Jun 2017
 
---- Report 1: ETC (2026-07-08) ---
+--- Report 1: IFRC (2026-08-06) ---
+Description of the Event
+Date when the trigger was met
+15-07-2026
+What happened, where and when?
+The Nigeria Centre for Disease Control and Prevention (NCDC) and the Borno State Ministry of Health have been responding to the outbreak since the first cases were reported on 1 May 2026. The outbreak escalated rapidly from Epidemiological Weeks 21–22, with cases increasing significantly during the onset of the rainy season. By Epidemiological Week 29, national cumulative suspected cases had increased to 44,129, with Borno State remaining the epicentre of the outbreak with more than 97 per cent of all reported cases and more than 99 per cent of weekly reported cases. 20 LGAs affected out of 27 withing the state.
+The Nigeria Centre for Disease Control and Prevention (NCDC), the Borno State Ministry of Health and humanitarian actors like Nigeria Red Cross have been responding to this outbreak in Borno since May 2026, but significant response gaps remain in several affected communities due to limited funding and insufficient partner presence. With the trend of the outbreak just at the onset of the worst transmission period, there is an urge to scale-up interventions.
+On 15 July 2026, acknowledging the support from NRCS in Maiduguri and Jere LGAs, the Borno State Primary Health Care Development Board formally requested the NRCS to sustain and expand its response to underserved cholera-affected LGAs through strengthened Risk Communication and Community Engagement (RCCE), Oral Rehydration Point (ORP) services, active case finding, referral mechanisms, hygiene promotion and community-based surveillance. The outbreak remains ongoing, with NCDC reporting increasing trends in key hotspot LGAs, particularly Monguno and Kukawa.
+Sustained and scaled-up interventions are therefore required to reduce transmission, improve early treatment- health seeking behaviour, prevent cholera-related morbidity and mortalities and support the government's efforts to contain the outbreak before the peak of the rainy season.
+
+--- Report 2: ETC (2026-08-05) ---
 Led by the World Food Programme (WFP), the Logistics &amp; Telecommunications Sector (LTS) was activated in North-East Nigeria in November 2016 in response to the protection crisis. LTS (telecoms area) Nigeria Situation Reports are issued monthly. All references to ‘LTS’ in this report refer to the telecoms area of the sector.
 Summary Points
 
-LTS Telecoms is expanding connectivity support for the cholera response, including planned deployment of a CrisisNet kit at Gwange 3 Primary Health Care Centre in Maiduguri and assessments for additional services in Gubio and Ngala.
-LTS connectivity and security communications services continue to enable humanitarian operations across north-east Nigeria, supporting 1,046 users from 140 organizations in high-risk locations including Damasak, Monguno, Banki, and Dikwa.
-LTS Telecoms strengthened partner communications capacity by providing VHF radio programming support to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) and advanced training plans with the United Nations Development Programme (UNDP) to enhance interoperability, coordination, and staff safety.
-
---- Report 2: IMC (2026-07-06) ---
-FAST FACTS
-
-As of July 5, the State Ministry of Health had reported 28,082 suspected cases and 143 deaths.
-The Borno State Ambulance service has coordinated more than 2,100 referrals to oral rehydration points (ORPs) and cholera treatment centers (CTCs).
-
-OUR FOOTPRINT
-
-International Medical Corps has worked in Nigeria since 2014, delivering lifesaving services such as primary and secondary healthcare, surveillance and response to infectious diseases, health system strengthening, nutrition and food security, prevention and response to violence against women and girls, and water, sanitation and hygiene.
-
-OUR RESPONSE
-
-International Medical Corps supports four pillars of the state's Public Health Emergency Operations Center: case management, risk communication and community engagement (RCCE), surveillance and coordination.
-We support case managenent in the infectious disease wing of the Damboa General Hospital and have provided successful treatment for 13 patients.
-International Medical Corps supported the deployment of 468 cholera kits to support the case-area targeted interventions team in Damboa local government area (LGA).
-We have donated 6,000 copies of informational materials to support RCCE.
-We have deployed additional 90 trained outbreak response volunteers to support active case search in six LGAs and have referred 196 cases to ORPs/CTCs for case management.
-Volunteer community mobilizers have reached 54,185 people with key messages about cholera.
-
-International Medical Corps, which is supporting awareness for the OCV campaign through Core Group Polio Project (CGPP), continues to actively participate in daily multi-sectoral meetings led by the Director of Public Health/Incident Manager at the Public Health Emergency Operations Center. A summary of our activities is below.
-Surveillance. International Medical Corps, in collaboration with CGPP, has strengthened cholera surveillance by deploying 90 trained outbreak volunteers across six affected LGAs—Damboa, Jere, Konduga, Mafa, MMC and Monguno—to conduct active case searches over a three-week period, enhancing early detection at community level. Volunteers have so far identified 196 suspected cases meeting the community case definition and facilitated timely referrals to ORPs and CTCs while linking critical cases to emergency ambulance services for prompt management. CGPP has simultaneously mobilized its network of volunteer community mobilizers (VCMs) across nine LGAs—Damboa, Gwoza, Jere, Konduga, Mafa, MMC, Mobbar, Monguno and Ngala—to sustain risk communication, promote positive health-seeking behaviors and support active case-finding for cholera and other vaccine-preventable diseases.
-Risk Communication and Community Engagement (RCCE). To complement surveillance efforts, VCMs are conducting intensive house-to-house sensitization campaigns in hotspot areas and surrounding communities, reaching 54,185 people as of July 5. Key messages focus on early recognition of cholera symptoms, prompt healthcare-seeking behaviors, clear referral pathways and improved hygiene practices. About 6,000 copies of cholera-related informational materials were deployed through our partner Royal Heritage Health Foundation to help frontline mobilizers respond to the outbreak across the supported LGAs.
-To reinforce behavior change, VCMs also demonstrate proper hand-hygiene techniques, including handwashing with soap and ash, to reduce transmission risks and strengthen community-level prevention. VCMs also will help provide information to affected communities about the upcoming OCV campaign.
-Support to Case Management. International Medical Corps is supporting the management of cholera patients in the infectious-disease wing of Damboa General Hospital, pending the official activation of a designated cholera treatment unit there, to ensure the continuity of lifesaving care and adherence to standard case-management protocols. To date, 13 patients who met the cholera case definition have been successfully treated and discharged from the facility. This approach underscores International Medical Corps’ commitment to maintaining uninterrupted service delivery while supporting the transition toward a fully operational and dedicated cholera treatment facility.
-Water Access, Sanitation and Hygiene (WASH). We have prepositioned 468 cholera kits to strengthen and sustain the ongoing outbreak response, with about 85% strategically deployed across our primary operational areas in Damboa LGA to enable rapid and effective response interventions. The deployed supplies have been critical in supporting case-area targeted intervention (CATI) teams, which are being deployed in close collaboration with local government rapid-response teams to promptly interrupt transmission at community level.
+On 14 July, following a needs assessment and a International Rescue Committee (IRC) and the World Food Programme (WFP) Memorandum of Understanding (MoU), LTS Telecoms deployed a CrisisNet Connectivity Kit at Gwange 3 Primary Health Care Centre (PHCC) in Maiduguri to support the cholera response with reliable internet for responders, health partners, and facility staff. Watch the video to learn more about the impact of this support.
+The LTS team maintained the Damasak Humanitarian Hub’s telecommunications infrastructure, resolving connectivity and technical issues to ensure reliable services for humanitarian responders. Watch the video to learn more about LTS support to humanitarian operations in Damasak.
+On 21 July, LTS opened applications for the 2026 LTS Advanced Radio Training programme, which builds advanced radio communication skills to help participants deploy, manage, and maintain field communications infrastructure. Apply for the training here.

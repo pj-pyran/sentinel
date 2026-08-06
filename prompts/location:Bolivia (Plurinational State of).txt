@@ -2,6 +2,33 @@ Crisis / situation: Bolivia (Plurinational State of)
 
 --- Report 1: IOM (2026-08-05) ---
 CONTEXT
+• Road blockades across the country continue to limit mobility, restrict access to food and livelihoods, and drive an increase in protection risks and humanitarian needs. The situation is particularly deteriorating in El Alto/La Paz and Cochabamba due to the intensification of these blockades.
+•Blockades are forcing the use of high-risk alternative routes, increasing travel times from around 3 hours to up to 24 hours, with some journeys lasting between 12 and 14 days. Families have been stranded along routes, with rising reports of accidents and a significant increase in transportation costs. Harsh weather conditions, including temperatures as low as -10°C, are further aggravating the vulnerability of people on the move.
+•In Desaguadero, closures of the border with Peru have been reported, including the suspension of crossings via both the international bridge and boats. Access is still partial and irregular, with limited night-time crossings via the lake under strict controls, restricting both movement and access to food and essential goods.
+•Push factors from Chile are also influencing current movements, including restrictions on access to employment, tighter documentation controls, and measures involving the detention and transfer of individuals.
+•Oruro has become a key convergence point for flows from Pisiga and alternative routes, with a steady arrival of people who are either stranded or forced to reorganize their onward movement.
+•Protection risks are increasing, including gender-based violence, exploitation—particularly in blockade contexts—and violence between groups over access to resources and space.
+• Response capacity is still severely constrained due to limited availability of goods and food in local markets, in the context of supply chain disruptions, rising prices, and restrictions imposed by suppliers
+
+--- Report 2: IOM (2026-08-05) ---
+CONTEXT
+•Road blockages continue to disrupt mobility nationwide, limiting access to food and services and increasing protection risks. The use of high-risk alternative routes persists, alongside a shift toward more fragmented and unsafe mobility patterns, with people travelling in segments on foot or relying on informal transport. This results in longer travel times, higher costs, and, in many cases, no guarantee of reaching their destination, further compounded by extreme low temperatures.
+• In Desaguadero, intermittent restrictions at the border crossing with Peru continue, with reduced movement of people and goods, shortages of basic items, and reliance on costly lake routes as alternatives. In Pisiga, movement remains low and concentrated at night. Oruro continues to serve as a key convergence point, with ongoing arrivals and a mixed population of new arrivals and people experiencing prolonged stays.
+• As resources become increasingly scarce and travel times lengthen, more people are moving toward La Paz under precarious conditions. In La Paz and El Alto, daily arrivals remain steady, placing pressure on services, with reports of people stranded in bus terminals for extended periods. Patacamaya is emerging as a secondary transit hub, where people remain stranded or move intermittently between Oruro and La Paz, in a context of limited local response capacity and a lack of sustainable shelter solutions.
+• Protection risks are increasing, including gender-based violence, exploitation, and cases of individuals being left without support following medical discharge. Low temperatures are further increasing exposure during transit and prolonged stays. At the same time, reduced operational presence of humanitarian staff in some locations—particularly in Desaguadero—is limiting direct response capacity, amid ongoing logistical constraints and supply challenges.
+
+--- Report 3: IOM (2026-08-05) ---
+CONTEXT
+• The blockade situation is beginning to gradually ease after more than 50 days, with partial reactivation of transit and supply along several routes across the country.
+•In Desaguadero, population flows have been significantly reduced, with no current reports of stranded populations and with progressive normalization of transport, though constraints persist due to fuel shortages.
+•In Oruro and La Paz, the number of people in transit has declined, with individuals gradually continuing toward their destinations.
+•Mobility continues among people with limited resources, who remain dependent on different movement strategies and transport support.
+•Operational challenges remain, particularly associated with fuel availability, which continues to drive fluctuations in transport costs and restrict regular mobility.
+•At the regional level, reinforced restrictions are identified at the border with Chile, including increased control and security measures that may affect cross-border flows.
+• While the overall situation is stabilizing, needs persist due to accumulated impacts, especially in health, protection and livelihoods.
+
+--- Report 4: IOM (2026-08-05) ---
+CONTEXT
 • Since the beginning of May Bolivia has been facing sustained road blockades associated with multi-sector protests, with direct impact on regular transit routes for the refugee and migrant population.
 • This has increased the number of stranded persons at various points across the country, in a context of increased complexity in mobility dynamics, including the use of alternative routes, travel on foot, and returns to border crossing points.Access is limited or nonexistent to temporary shelter, food, water, health care, warm clothing, and protection measures. Requests for assistance frompersons living in Santa Cruz de la Sierra and Cochabamba has started to arise.The ongoing roadblocks are worsening the supply of food and other essential goods to the general population in various cities, mainly along the Andean corridor.
 • Children and adolescents, pregnant women, and persons with disabilities who are part of the stranded population groups are in situations of particular vulnerability.
@@ -9,7 +36,7 @@ CONTEXT
 • Sustained coordination with the Ombudsman’s Office and humanitarian actors continues to be key in preserving the protection space for persons in transit.
 • Several countries have expressed support for democratic institutions, and neighboring countries have sent humanitarian aid.
 
---- Report 2: IOM (2026-08-05) ---
+--- Report 5: IOM (2026-08-05) ---
 CONTEXT
 • The second month of blockades affecting the main transit routes for refugee and migrant populations begins, leading to an increase in stranded persons, the extended use of alternative routes —including on-foot stretches and informal transport—, as well as limited availability and higher travel costs, with no guarantees of arrival.
 • The reopening of the Pisiga-Oruro route has increased arrivals to this city; however, the Oruro–La Paz route remains blocked limiting displacement options and contributing to the prolonged stay of populations at intermediate points.
