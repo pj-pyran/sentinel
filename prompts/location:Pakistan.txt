@@ -1,6 +1,13 @@
 Crisis / situation: Pakistan
 
---- Report 1: Islamic Relief (2026-08-06) ---
+--- Report 1: UNHCR (2026-08-07) ---
+Context
+Large-scale returns of Afghans from Pakistan continue to add pressure on Afghanistan’s already fragile humanitarian and protection environment.
+Nearly two years since the initial announcement of the Illegal Foreigners Repatriation Plan, the impact of these measures continues to be felt. In 2025 alone, 1 million Afghans returned in adverse circumstances or were deported from Pakistan. This trend has continued in 2026 with 654,100 returns so far despite border closures earlier this year.
+These movements are unfolding amid escalating hostilities between Afghanistan and Pakistan, further compounding an already deteriorating humanitarian and human rights situation, particularly for women and girls. The Torkham border point – the largest crossing between Afghanistan and Pakistan, accounting for some 80% of all returns prior to the crisis – was partially re-opened on 31 March.
+Ensuring that returns are safe, voluntary and dignified, while sustaining critical assistance for those arriving and host communities, remains essential.
+
+--- Report 2: Islamic Relief (2026-08-06) ---
 Location: KP, AJK, GB, Punjab, Balochistan and Sindh
 BACKGROUND
 Pakistan continues to face severe and compounding risks from both economic fragility and climate-induced disasters. The country remains among the most disaster-prone globally, ranking 18th out of 191 countries in the INFORM Risk Index, reflecting high exposure to hazards, vulnerability, and limited coping capacity. Over the past decade, disaster related damages have exceeded USD 18 billion, significantly constraining economic growth and development progress. More recent climate assessments also indicate that Pakistan is among the top 10 most climate vulnerable countries globally, despite contributing less than 1% of global greenhouse gas emissions.
@@ -8,6 +15,6 @@ Pakistan's 2026 monsoon began on 26 June and is forecast by the National Disaste
 Recent cloudburst incidents in the upper northern regions of Pakistan have resulted in significant losses to lives, property, livelihoods, and public infrastructure. The most severely affected areas include Astore, Diamer, Ghanche, Chitral, Buner, Shangla, and parts of Swat, where heavy rainfall and flash flooding have caused widespread damage to roads, bridges, irrigation systems, and residential structures. Additionally, Neelum Valley in Azad Jammu and Kashmir has been among the hardest-hit areas, facing severe disruptions due to flooding and landslides.
 In KP, District Peshawar has experienced significant urban flooding over the last five days following continuous monsoon rains. Water accumulation in low-lying areas, damage to urban infrastructure, disruption of transportation networks, and inundation of residential areas have increased the vulnerability of affected populations. The ongoing situation continues to pose challenges for local authorities and communities, particularly those residing in flood-prone locations.
 
---- Report 2: WFP (2026-08-05) ---
+--- Report 3: WFP (2026-08-05) ---
 Using remote sensing techniques, the seven-day forecast of total rainfall for the country is analyzed against the long-term average rainfall to highlight the areas which are expected to receive above normal, normal and below normal rainfall. The satellite data for a period of thirty years from 1993-2023 is extracted from CHIRPS (Climate Hazards Group InfraRed Precipitation with Station data) and analyzed to estimate deviation from normal rainfall. For the forecast of total precipitation for next seven days, the data is sourced from global model of ECMWF (European Centre for Medium-Range Weather Forecasts).
 The satellite-based national rainfall forecasts analysis for 04 - 10 August indicate above normal rainfall across most of the northern, northeastern and central parts of the country, while below normal rainfall is expected in the southern and southwestern parts of the country. Given the ongoing flood conditions in parts of north and central areas, additional rainfall may exacerbate the risk of flooding, GLOF and landslides, particularly in vulnerable locations across Khyber Pakhtunkhwa, Gilgit-Baltistan, Azad Jammu &amp; Kashmir, and northern Punjab.
