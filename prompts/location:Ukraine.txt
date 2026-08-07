@@ -1,40 +1,90 @@
 Crisis / situation: Ukraine
 
---- Report 1: UNHCR (2026-08-03) ---
-UNHCR’s Emergency Shelter and Housing Programme in Ukraine: The programme aims to ensure that the most vulnerable among people affected by the war, whether displaced, remaining at home or having returned from displacement, have access to housing. In the seventh round of UNHCR’s Intention Survey, refugees and internally displaced people raised access to housing along with livelihoods opportunities as key enablers of sustainable and dignified return. UNHCR adopts approaches taking the local contexts into account and includes support that contributes to recovery and durable solutions.
-Overview: The war in Ukraine has damaged or destroyed more than 14% of Ukraine’s total housing stock according to the fifth Rapid Damage and Needs Assessment, and consequently left millions of Ukrainians in need of various forms of housing support. Through its shelter and housing assistance, UNHCR supports:
-▪ People in areas that continue to be directly affected by hostilities and need emergency support to cover damaged housing
-▪ People who have either remained in or returned to damaged housing in war-affected areas and who need support with house repairs.
-▪ People in situations of protracted internal displacement who need accommodation for the medium to longer-term.
+--- Report 1: Health Cluster (2026-08-07) ---
+I. Rationale
+Now in the fifth year of the full-scale war, the humanitarian
+health response in Ukraine has evolved considerably, and
+so have the expectations around collective reporting,
+accountability, and evidence-based coordination. The
+2026 Humanitarian Needs and Response Plan (HNRP)
+introduced an issue-based approach around four strategic
+priorities, new geographic targeting, and a joint reporting
+platform managed by UN OCHA. Health partners must
+now report against these four priorities while maintaining
+focus on the most severely affected areas (severity levels
+4 and 5).
+Over five years, variations in how partners collect data, count
+beneficiaries, and calculate results have accumulated,
+making it harder for the Cluster to reflect the response
+accurately. This prompted the Health Cluster to convene
+75 partner representatives and reporting and MEAL
+specialists for a one-day hybrid workshop to strengthen
+shared understanding of reporting expectations, logic, and
+beneficiary calculation.
+The aim was not to impose uniformity, but to build enough
+common ground for the collective humanitarian health
+response to be reported coherently and credibly - to the
+humanitarian community, donors, and the people the
+response seeks to serve. As of June 2026, the Health
+Cluster counts 154 partners delivering health activities
+across priority war-affected oblasts. The Cluster looks
+forward to continuing to guide these partners toward
+alignment as part of this process.
+Objectives
+General Objective: To strengthen the capacity of Health
+Cluster partners to collect, calculate, and report data in
+line with HNRP requirements and Health Cluster reporting
+standards — improving the coordination and visibility of
+health interventions in Ukraine.
+Specific Objectives:
+1. Explain the rationale for accurate reporting and
+alignment with Cluster requirements, alongside
+bilateral donor interests and the funding partners
+receive.
+2. Identify and discuss the challenges partners face in
+the reporting process in Ukraine.
+3. Guide partners through an organization-specific
+reflection on designing a counting method that fits
+their reporting needs across emergency response and
+early recovery.
+4. Raise awareness of data sensitivity and the responsible
+management of health-related data.
+5. Surface the tensions in reporting under the OCHA-led
+framework — regional targets versus the four strategic
+priorities of the response.
+6. Build a clear understanding of how reporting quality
+shapes the Cluster’s visibility to donors, the wider
+humanitarian community, and decision-makers
+through its external products.
 
---- Report 2: UNHCR (2026-08-03) ---
-KEY FIGURES
-2.45 million IDPs, returnees and war-affected people reached with cash assistance since March 2022, disbursing $740 million
-72% of those assisted since 2022 are women and children
-86,820 people supported with cash assistance so far in 2026 disbursing $23 million
+--- Report 2: ACLED (2026-08-05) ---
+Ukraine continued its campaign on energy infrastructure in occupied territories, while its strikes on oil tankers briefly suspended work at the CPC terminal.
+Author
+Olha Polishchuk
 
---- Report 3: World Vision (2026-08-03) ---
-As of June 2026, World Vision Ukraine Crisis Response has reached 2,413,068 people across Ukraine, Romania, Moldova and Georgia with essential humanitarian support.
-Children are at the centre of our work: 44% of those reached, 1,061,542 children, have received aid designed to protect their well-being, restore learning, and process trauma.
-Our response provides holistic support tailored to immediate and long-term needs:
+1913 conflict events
+2% decrease compared to last week
+200 incidents of violence targeting civilians
+18% decrease compared to last week
+At least 124 civilians killed by targeted violence
+9% decrease compared to last week
+1105 air- and drone strikes
+6% decrease compared to last week
+288 shelling events
+20% increase compared to last week
+507 armed clashes
+12% decrease compared to last week
+246 Russian attacks on civilian infrastructure
+7% increase compared to last week
+Most frequent target type: Residential
+Change compared to last week (per target):
+Education: 5% increase
+Healthcare: 20% increase
+Energy: 8% decrease
+Residential: 8% increase
+Key trends
 
-Basic Needs: Food assistance, essential household items, and direct cash aid.
-Child Well-Being: Safe education spaces and dedicated protection services.
-Mental Health: Psychosocial support (MHPSS) to help families heal from trauma.
-Livelihoods: Income-generating support to help families regain independence.
+Ukraine has been attacking warehouses of Russia’s largest online retailer across at least nine regions in Russia and in occupied Crimea since 17 July. While primarily a civilian store, the retailer sells dual-use products, including unarmed drones, drone payload-release components, and military clothing. Ukraine is targeting these warehouses in an attempt to affect Russia’s military logistics, but also to generally further worsen Russia’s economy. It is also likely in retaliation against Russia's long history of strikes on the Ukrainian postal service and shopping centers.
+Russia launched a massive wave of missile strikes targeting Kyiv city on 19 July. It deployed 41 ballistic and Zircon hypersonic missiles in the attack, the largest number deployed in a single wave of attacks to date. Russia has been increasingly using ballistic and Zircon missiles to attack Ukraine’s population centers, mainly Kyiv city and the eponymous region, exploiting Ukraine’s shortage of Patriot missiles required for their interception. Between 1 and 19 July, Russia reportedly used more ballistic missiles than it produces in a month, as well as two-thirds of its planned annual Zircon missile production.
 
-Where our aid reaches:
-
-Ukraine: 1,509,734 people (662,740 children)
-Moldova: 510,323 people (215,854 children)
-Romania: 352,027 people (159,871 children)
-Georgia: 40,984 people (23,077 children)
-
-Together with local partners, World Vision remains committed to supporting displaced families and building a safer future for every child affected by this war crisis.
-Download the full June Factsheet to learn more.
-
---- Report 4: ETC (2026-08-03) ---
-Summary Points
-• LTC Telecoms maintained critical security communications across 10 high-risk locations in Ukraine, restored VHF coverage at the Shakhtarske (ex. Pershotravensk) in Dnipropetrovsk region and the Sumy UN remote sites responding to conflict-related damage to communications infrastructure.
-• LTC Telecoms supported maintenance activities at the UNDSS remote site in Lviv in line with recommendations from the recent {TESS+} mission.
-• LTC Telecoms is relocating communications equipment from the Dnipro warehouse following a second incident of conflict-related damage to the facility, to ensure the security of telecommunications assets and continuity of services.
+[...]
