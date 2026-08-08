@@ -1,6 +1,26 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: IMC (2026-08-07) ---
+--- Report 1: OCHA (2026-08-07) ---
+Situation Report No. 32
+Earthquakes in Venezuela
+07 August 2026
+Time: 2:00 pm
+Highlights
+
+Nearly 212,000 people affected by the earthquakes have accessed humanitarian assistance and essential services through a coordinated multi-sector response involving humanitarian organizations, United Nations agencies, communities, and national and local authorities.
+As of 03 August, authorities reported 6,125 deaths and 60,992 people that received care at hospitals, and 16,740 injuries as a result of the earthquakes.
+The United Nations system and its partner organizations continue scaling up the multisectoral response to the emergency to address the needs of 1.3 million people affected by the earthquakes over the next six months.
+
+Situation overview
+Venezuela continues to face the consequences of the two major earthquakes (magnitudes 7.2 and 7.5) that struck the north-central region of the country on 24 June at 18:00 local time, causing significant humanitarian impacts and damage to infrastructure. The first earthquake, measuring 7.2, was centered along the San Felipe–Yumare–Montalbán axis (Yaracuy/Carabobo). According to a recent update from the United States Geological Survey (USGS), the second earthquake, measuring 7.5, had its epicenter 17 kilometers west of Catia La Mar, off the coast of La Guaira State.
+As of 03 August, authorities reported 6,125 deaths and 16,740 injuries resulting from the earthquakes. They also reported that 60,992 people received care at hospitals and 43,679 homes were evaluated, out of which 6,433 are at high risk. According to national authorities, 16,51% of the total rubble has been cleared. A preliminary assessment by the United Nations Office for Disaster Risk Reduction (UNDRR) estimates direct damage to housing and infrastructure at approximately US$37 billion, while preliminary estimates from UNDP place direct physical damages at US$6.7 billion, equivalent to 6 per cent of GDP.
+The government response continues to focus on assisting affected populations and managing temporary displacement sites. According to the latest report given by authorities on 26 July, 107 temporary camps remain operational, with a capacity for 28,223 people and a current occupancy of 24,477 people. Of those accommodated, 12,752 people are in La Guaira, 9,092 in the Distrito Capital, 1,958 in Miranda, and 675 in Aragua.
+More than one month after the earthquakes, the humanitarian response continues to expand across the affected states. As of 06 August, nearly 212,000 people had access to essential services and humanitarian assistance through the joint efforts of communities, humanitarian organizations, United Nations entities, donor partners, and national and local authorities.
+Note
+
+The report will be published on a weekly basis. We thank partner organizations, United Nations entities and donors for their valuable contributions, and encourage them to continue reporting their earthquake response activities through the 345W platform. For more information on reporting and the use of the tool, please refer to the presentation: 345W Preparedness and Response
+
+--- Report 2: IMC (2026-08-07) ---
 FAST FACTS
 
 On June 24, two earthquakes of magnitude 7.2 and 7.5 hit northern Venezuela consecutively, impacting at least seven states—including the capital city of Caracas and the neighboring city of La Guaira.
@@ -16,23 +36,3 @@ Our teams have so far provided 463 mental health consultations.
 
 Our team is continuing to provide services to about 130 patients per day at the EMT. As patient loads have grown, we have been able to keep up with the demand by training and hiring locally recruited staff who are now managing EMT operations as we rotate out international personnel. The integration of local staff has helped to ensure we have the human resources necessary to scale up our response in La Guaira as needs evolve, and to transition our response programming responsibly and sustainably.
 International Medical Corps is also delivering medical and mental health and psychosocial support (MHPSS) services through three mobile medical units (MMUs) in La Guaira that have provided 3,336 patient consultations to date. As needs within affected communities evolve, International Medical Corps will continue to coordinate closely with national and international partners to ensure that services are targeted to areas where they will have the greatest impact.
-
---- Report 2: UNICEF (2026-08-05) ---
-Highlights
-
-UNICEF continued to scale up its humanitarian response across earthquake-affected areas, supporting the continuity of essential health, nutrition, WASH, child protection, and education services for children and families in temporary camps and affected communities.
-To date, UNICEF has reached 25,483 people with primary health care, 22,424 children, adults, and pregnant women with routine and catch-up vaccinations, 9,412 people with critical WASH supplies, 5,804 children and caregivers with nutrition services, and 6,134 children, adolescents, and caregivers with child protection services, including MHPSS.
-UNICEF is supporting the Post-Disaster Needs Assessment (PDNA), leading the WASH and education sectors. The PDNA will inform recovery priorities and help accelerate the restoration of essential services.
-In addition to its US$137.6 million 2026 HAC appeal, UNICEF requires US$65.7 million to sustain critical interventions and support the implementation of the 2026 Humanitarian Response Plan Addendum.
-
---- Report 3: ChildFund International (2026-08-05) ---
-Context
-Five weeks after the June 24 earthquakes in Venezuela, the death toll and affected population continue increasing. OCHA has formalized the national response into a six-month Humanitarian Response Plan Addendum (July–Dec. 2026).
-
-Toll: 5,546 dead, 16,740 injured, 6,462 rescued alive. Rescuers describe no longer searching for survivors, and international search and rescue missions are scaling back. There are critical information gaps related to missing persons.
-Children: CECODAP estimates that over 1,400 children and adolescents remain at significant risk of harm due to the earthquake.
-Displacement: As of July 26, 107 transitional camps for affected populations are housing 24,477 people (87% capacity). Most displaced people remain concentrated in Caracas and La Guaira.
-Education: According to civil society organizations, over 900 schools have been affected, including 18 school facilities that have totally collapsed and 40 that have severe structural damage. 120 teachers have been reported dead.
-Economic effects and reconstruction costs: June inflation hit 13.8%, more than double May's rate. National reconstruction cost estimates now range from USD 12–15 billion. Government and private sector banking institutions are exploring credit programs for housing repair and replacement.
-Humanitarian funding request: OCHA's Humanitarian Response Plan Addendum requests USD 298 million to reach 1.3 million people over six months (JulyDecember 2026). This is in addition to the USD 930 million humanitarian funding required for 6.2 million people in Venezuela prior to the earthquake.
-Priority needs as per the OCHA Rapid Needs Assessment: health (53%), safe water (52%), food security (50%), psychosocial support (27%), sanitation/hygiene (22%), protection/safety/dignity (18%), shelter (17%).
