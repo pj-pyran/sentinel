@@ -1,38 +1,58 @@
 Crisis / situation: Ethiopia
 
---- Report 1: UNHCR (2026-06-24) ---
-UNHCR, in collaboration with FDRE Refugee Returnee Service (RRS) and partners, is supporting refugees, asylum seekers, and host communities to access safe, dignified, habitable shelter—addressing urgent humanitarian needs while advancing integrated, climate-resilient settlements aligned with the GCR, and Ethiopia’s human settlement pledge inline with Makatet Roadmap.
-Multi-Year Priorities
-◦ Protection sensitive shelter &amp; housing: Enhance protection outcomes, support self reliance, and integrate GBV risk mitigation.
-◦ Integrated, area-based shelter/housing &amp; settlements: Expand climate resilient planning and basic infrastructure to meet immediate and long term needs.
-◦ Community led approaches: Scale community driven and cash based delivery to reinforce ownership and social cohesion.
-◦ Information management: Strengthen shelter data and analysis to improve planning, targeting, and advocacy
+--- Report 1: Protection Cluster (2026-08-10) ---
+Attacks on Civilians
+Amhara: Debark-Gondar road remains unsafe for travel.
+Benishangul: Due to ongoing armed conflict, 1,112 individuals displaced from Kura Woreda to Almahal Kebele in Guba Woreda. 4,000+ individuals displaced from Jawi Woreda to Mandura Woreda in Metekel Zone.
+Somali: Inter-ethnic clashes on 21–22 December along the Dekasuftu–Negele Borena border and in Dungoye village reportedly caused fatalities, injuries, displacement, and temporary road closure, later reopened. Reported clashes between clans and renewed fighting on 23 January in Fafan Zone caused further casualties, heightening tensions and worsening security.
+Southern Ethiopia: Armed groups seized civilian crops and livestock and extorted merchants while local authorities remain inactive.
+New Displacements
+Amhara: New arrivals reported in North Shewa, Debre Birhane IDP sites, numbers not yet confirmed by IDP committee.
+Returns, Relocations and Durable Solutions
+Somali: Final relocation from Qoloji camp to Gorywil site in Awbare woreda planned for completion by mid-year for 376 households, with durable housing, WASH, and livelihood support underway, alongside construction of communal latrines. Fayda national ID registration now reaching 31,405 people - distribution of 9,927 IDs.
+Southern Ethiopia: Previously displaced continue to live with host communities and require humanitarian support, including 47 households (458 individuals, 76 children) from Kurbo Kebele in Konso Zone after local conflicts. In Melegadugaya, 501 households (78 female-headed), totaling 2,934 people (1,403 females), remain in makeshift plastic shelters with restricted movement and no rehabilitation programs have started.
 
---- Report 2: UNHCR (2026-06-24) ---
-▪ In partnership with the Government of Ethiopia (GoE) and other partners, access to education services for the (2025/2026) academic year enrolled a total of 193,885 (85,398 girls) refugee students in pre-primary (52,858), primary (118,870), and secondary (22,157) levels of education. Moreover, 3,757 refugee youth are enrolled in different public and private universities and colleges across Ethiopia, including DAFI scholarship (1,229), other programme supports (13),  TVET (1,478), and the remaining (1,037) without support.
-▪ Gross Enrolment (GER) for pre-primary education stands at 87.4% compared to the national average of 84.9% for 2024/2025 academic year. GER for primary and secondary education stands at 47% and 19.3% compared to the national average of 98.1% and 30.4% respectively.
-▪ With the support from the World Bank under the project- Additional Financing to the General Education Quality Improvement Programme for Equity (GEQIP-E), which has been operational since 2023, a total of five secondary school, four in the Somali Region and one in the Benishangul-Gumuz Region were successfully integrated in 2025. This achievement completes the planned integration of eleven secondary schools across three regions: Gambella (5), Somali (4), and Benishangul-Gumuz (2).
-▪ Similarly, refugee learners continued their education in the host communities in Bokh, Somali Region, Aftit, Amhara Region, and Ura in Benishangul-Gumuz Region under the initiative of solutions from the start. A total of 34,942 (13,672 girls) have benefitted from inclusion into the national system through both approaches, World Bank-supported inclusion of secondary schools and inclusion from the start following the Somalia and Sudanese emergencies.
-▪ Ethiopia has a positive policy environment for refugee education, principally the 2019 Refugee Proclamation, which provides refugees with access to educational opportunities at par with nationals. Furthermore, the sixth Education Sector Development Plan (ESDP VI, 2020 - 2025) includes refugee education for the first time, paving the way for inclusion of refugee education in national systems.
-▪ Ethiopia also made a commitment at the first Global Refugee Forum (GRF) in 2019, to provide quality and accredited skills training that is linked to the labor market to 20,000 refugees and Ethiopians by 2024. The country has reported 11,949 (60%) achievements of this pledge during the second GRF in December 2023 during which it has made additional pledges. During the 2nd GRF, Ethiopia has made six pledges, the third pledge area is ‘inclusion of refugees into existing national system’. This has served as a basis for the current government led initiative of preparation of Makatet/Inclusion Roadmap that envisions inclusion of refugees into national systems.
+--- Report 2: Protection Cluster (2026-08-10) ---
+Attacks on Civilians
+Somali: Inter-clan violence in Gololcha and Welgo kebeles resulted in a reported two fatalities. Inter-ethnic clashes in Babile district reportedly caused seven deaths, driven by resource competition, boundary disputes, and weak conflict resolution mechanisms.
+Southern Ethiopia: Reported attacks in West Guji Zone, including in Killenso Mokonisa (Bule Hora), with civilians targeted, daily activities disrupted, and several families temporarily displaced. In Birbirsa Kojowa District, violence by armed actors led to the displacement of approx. 367 HHs.Increased armed group presence and movement restrictions, including a motorcycle ban, further limit civilians’ mobility, access to services, and humanitarian assistance.
+Socio-economic Developments
+Tigray: Reported further decline in the fuel supply, and a shortage of physical cash in the banks resulting in long queues daily at the banks. It is reported that the banks only provide a maximum of 1,000 ETB or less daily and often no cash at all, impacting overall humanitarian interventions.
+Southern Ethiopia: Deepening socioeconomic crisis driven by inflation, fuel shortages, and ongoing insecurity. Rising prices of essential goods sharply reduce household purchasing power, leaving vulnerable families unable to meet basic needs. Fuel scarcity and high fuel costs disrupt transportation, markets, and public services, limiting farmers’ and traders’ ability to move goods. .
+Drought, Floods and Other Hazards
+Somali: Heavy rains and strong winds on 19 March caused flooding and widespread damage in Afder Zone’s Hargele District, especially in Dirindir Kebele, affecting shelters, infrastructure, salt mining areas, and livestock. Similar flooding in Siti Zone led to reported fatalities, livestock losses, and damaged farmland and shelters, with ongoing rainfall increasing risks and requiring continued monitoring.
+Southern Ethiopia: Flooding and landslides displaced households and destroyed shelters, farmland, and livelihoods, with significant impacts reported in Galana, Kercha, and Bule Hora woredas, with 1,452 HHs displaced.
 
---- Report 3: UNHCR (2026-06-24) ---
-UNHCR Ethiopia’s Cash-Based Interventions (CBI) strategy aims to strengthen protection, enhance resilience, and promote economic and social inclusion of refugees, IDPs, returnees, and vulnerable host communities. The strategy aligns with UNHCR CBI Policy (2022–2026), Ethiopia Multi-Year Strategy (MYS) 2025–2029, the Cash Working Group Strategy, and Global Refugee Forum commitments.
-Strategic Objectives
-▪ Deliver timely, dignified, and effective cash assistance to meet basic needs and emergencies
-▪ Promote economic inclusion and self-reliance through livelihoods and market access
-▪ Strengthen protection outcomes through vulnerability-based targeting and biometric verification
-▪ Support inclusion in national systems (PSNP, NIDP, financial services)
-▪ Enhance data, accountability, and efficiency through proGres V4, BIMS, GDT, CashAssist
-▪ Expand monetization, replacing in-kind assistance
+--- Report 3: Protection Cluster (2026-08-10) ---
+Attacks on Civilians
+Amhara: On 27–28 May, two humanitarian vehicles reportedly taken by UAGs in Waghimira Zone.
+Amhara: Displacements from Abargele zone to Sekota Town due to continued conflict; estimated total of 13,206 individuals so far displaced, comprising 6,845 males and 6,361 females.
+Sidama: Recent violent clashes along the border of Eastern Sidama (Chire woreda) and neighboring Oromia triggered by an incident at a local market, escalating into conflict reportedly involving armed groups, resulting in civilian deaths, including women and children, and significant destruction of property, including burned homes.
+Somali: Inter-ethnic and communal conflict in Muli district, Dobo Kebelle over the use and ownership of agricultural land caused reported two deaths and one sustained injury.
+Southern Ethiopia: Gedeo Zone facing a worsening security crisis in its border areas, marked by reported kidnappings, UAGs and restricted civilian movement, which is disrupting livelihoods and limiting humanitarian access. In contrast, while no recent attacks were reported in Konso Zone, persistent insecurity concerns, especially in remote border areas, and damaged infrastructure continue to hinder safe movement and access to basic services.
+New Displacements (specify the reason for displacement)
+Southern Ethiopia: Gedeo Zone experienced new displacements during the reporting period, particularly in Kochore and Yirgachefe districts, due to insecurity caused by UAGs, which has created fear, restricted movement, and forced residents to flee, thereby increasing humanitarian needs and limiting access to services and farmlands.
+Sidama: Localized displacement has occurred in border areas of Sidama and Oromia due to recent violence and destruction of homes.
+Oromia: During the reporting period, significant new displacement recorded across West Guji Zone, including in Bule Hora, Kercha, and Dugda Dawa woredas. The main drivers were internal conflict and climate-related factors, particularly affecting communities in Dugda Dawa.
+Returns, Relocations &amp; Durable Solutions
+Somali: DRMB/DSWG confirmed final relocation of 376 HHs from Qoloji to Goroyawil to be carried out in two phases.
+Southern Ethiopia: In Konso Zone, some returnees have gone back to their areas of origin, while others remain with host communities. Many still face challenges such as inadequate shelter, limited livelihoods, poor water access, and food insecurity, with recovery efforts constrained by limited resources and damaged infrastructure.
 
---- Report 4: UNHCR (2026-06-24) ---
-▪ UNHCR, in collaboration with various partners, provides primary healthcare services to refugees and the neighboring host communities in Ethiopia, while also facilitating referrals to secondary and tertiary hospitals for refugees and asylum seekers. To promote effective access to healthcare and support integration into national health systems, UNHCR backs 26 health centers, 2 health posts, and 2 mobile health posts (at emergency refugee site) within refugee camps and settlements. This initiative ensures the delivery of essential primary healthcare services to both refugees and local host populations.
-▪ UNHCR’s public health operations, working together with partners, cover several regions: Afar, South Omo, Amhara, Benishangul-Gumuz, Somali, and Gambella. These efforts include deploying healthcare staff to the field, keeping a steady supply of important medicines and medical materials, and providing healthcare services to refugees living in Addis Ababa.
-▪ UNHCR, in collaboration with DPO, GOAL, and CUAMM, is supporting the emergency refugee response at Tomorok and Muon points of entry, as well as the new refugee site at Luakdong. Since January 2026, mobile clinic services have provided 12,628 outpatient consultations, with malaria accounting for 24% of reported morbidity cases. In addition, 74 emergency medical cases were referred to secondary health facilities, and 94% of deliveries were attended by skilled health workers.
-
---- Report 5: UNHCR (2026-06-24) ---
-◦ Define the WASH pathways for transition in accordance with the 50 by 35 and Makatet Road Map ◦ Ensure that WASH services in woredas and areas hosting forcibly displaced and stateless population are improved and included in facilities managed by regional water bureau and local water development Offices.
-◦ Continue to strengthen fundraising efforts to complement targeted humanitarian assistance, while actively advocating for resource mobilization in collaboration with operating partners and other key stakeholders.
-◦ Establish reliable, sustainable and energy efficient water supply systems in refugee hosting areas.
-◦ Define area based planning with critical milestones and pillars for water system transition to be operationalized.
+--- Report 4: Protection Cluster (2026-08-10) ---
+Attacks on Civilians
+Amhara: Security situation remained tense and volatile across the region, significantly impacting humanitarian access. A total of 55 security incidents were reported, including abductions, shootings, and illegal taxation affecting commuters and humanitarian workers. Armed crimes outnumbered other incidents in Gondar AoR, indicating heightened risks for humanitarian movement.
+Oromia: Continued security challenges in western Oromia, reportedly including incidents of armed violence, reported civilian casualties, and protection concerns involving different conflict actors.
+Somali: A road traffic accident in Jigjiga on 23 July killed 8 people and injured 6 others. Multiple violent incidents across Fafan, Sitti, and Dollo Zones reportedly resulted in deaths, injuries, and temporary displacement. At least 10 individuals reportedly killed in major incidents in Fafan and Dollo Zones. An attack in Sitti Zone left one person dead and two others injured.
+Tigray: Allegations of forced conscription reported.
+New Displacements
+Amhara: A total of 60 HHs displaced from Abergele to Sekota during the reporting period.
+Somali: At least 30 HHs displaced from Chinaksen district due to conflict-related violence and insecurity.
+Returns, Relocations and Durable Solutions
+Amhara: Spontaneous returns from Sekota Town to Abergele reported; however, number of returnees remains unknown.
+Somali: Consultations were conducted with victims and survivors in Jigjiga to contribute recommendations for Ethiopia's national reparations and transitional justice framework.
+Socio-economic Developments
+Oromia: Prolonged drought and declining agricultural production continue to affect livelihoods.
+Tigray: Continued fuel and cash shortages affecting humanitarian operations. Non-payment of salaries, including teachers, continues to disrupt service delivery.
+Drought, Floods and Other Hazards
+Amhara: North Gondar Zone reported highly uneven rainfall distribution across 181 kebeles. 54 kebeles experienced complete rainfall failure. 43 kebeles received only 40-50% of expected rainfall. Kinfaz-Begela and East Belessa woredas severely affected by drought conditions. Beyeda, Janamora, and Telemit experienced lowest rainfall levels since the onset of the rainy season. Households in Telemit and Debark began migrating to urban areas due to worsening drought conditions.
+Oromia: Three consecutive below-average rainfall seasons have resulted in prolonged drought conditions. Reduced agricultural production, livestock losses, and worsening food insecurity reported across Hararge zones. Continued risk of drought in coming seasons.
