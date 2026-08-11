@@ -1,13 +1,21 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: WFP (2026-08-10) ---
+--- Report 1: UNICEF (2026-08-11) ---
+Highlights
+
+The ceasefire has not brought safety for Gaza’s children. Since 10 October 2025, 277 children have been reported killed, while nearly nine in ten children consulted said they need psychosocial support.
+Despite severe access restrictions and critical supply shortages, UNICEF provided safe water to 1 million people in Gaza, including 470,000 children, while sustaining essential health, nutrition, education and protection services.
+UNICEF reached over 265,000 children through 173 Learning Centres across Gaza, supporting learning, psychosocial wellbeing and referrals to specialized services for children with disabilities.
+In the West Bank, escalating violence, demolitions and movement restrictions continued to displace families and strain essential public services. UNICEF’s Rapid Response Mechanism reached 1,620 people, including 844 children. UNICEF and partners admitted 19,425 children (6-59 months) for treatment of acute malnutrition, including severe and moderate wasting.
+
+--- Report 2: WFP (2026-08-10) ---
 HIGHLIGHTS
 
 Gaza’s humanitarian situation remains critical and fragile. While the latest IPC analysis shows modest improvement, 1.4 million people – two thirds of the population, remain acutely food insecure. Improvements since the last IPC are driven by sustained humanitarian assistance rather than durable recovery of livelihoods, markets or food systems, and could quickly reverse if aid declines.
 Access and funding constraints put these gains at risk. Kerem Shalom remains the sole entry point for humanitarian and commercial cargo, limiting the scale and efficiency of operations. At the same time, WFP faces a USD 565 million funding gap over the next sixth months. Cash transfers have already been reduced, and further cuts to in-kind assistance will be unavoidable as of October without urgent funding.
 Humanitarian assistance remains a critical lifeline. WFP has reached 1.5 – 2 million people each month since the October 2025 ceasefire with food, cash and nutrition assistance, while supporting recovery and market-based approaches where feasible.
 
---- Report 2: OCHA (2026-08-10) ---
+--- Report 3: OCHA (2026-08-10) ---
 Highlights
 
 In the West Bank, demolitions displaced 22 people and affected over 100 others in one week. Since 2024, the monthly average of structures demolished in Area C and East Jerusalem has been at least twice the average recorded over the preceding 15 years.
@@ -94,6 +102,6 @@ Ashdod remained the primary route for UN and partners’ humanitarian cargo ente
 On the commercial front, data from the Gaza Chamber of Commerce, shared with the Cash Working Group, indicates that the private sector collected 824 truckloads into Gaza between 27 July and 2 August. Overall, the number of commercial truckloads reported as entering Gaza has remained stable in recent weeks, with only minor variations. This remains insufficient to sustain the demand. Moreover, of all private sector trucks, 234 (28 per cent) still carried non-essential items, at the expense of more critical supplies as shelter and WASH materials.
 The UN is only able to confirm the entry of supplies tracked by UN 2720. For breakdowns of those, see the online UN 2720 Mechanism Dashboard.
 
---- Report 3: Health Cluster (2026-08-09) ---
+--- Report 4: Health Cluster (2026-08-09) ---
 Summary
 As of 27 June 2026, 173 480 people have been injured in Gaza since 7 October 2023. 43 370 (25%) of these people are estimated to have potentially life-changing injuries including amputations, spinal cord, and brain injuries. Approximately 2% of the Gaza Strip’s pre-conflict population is now living with severe conflict-related injury. Around 3400 people have been injured since the ceasefire. The importation of rehabilitation equipment, supplies and assistive products continues to face significant constraints. No rehabilitation equipment for rehabilitation facilities entered Gaza from May 2024 to 14 April 2026. The average waiting time for pending shipments containing assistive products is 136 days (as of 14 April 2026). Available services remain insufficient to meet ongoing needs. Critical gaps remain in specialized rehabilitation services, including inpatient rehabilitation, prosthetics and orthotics provision, and long-term follow-up for people with permanent disability. Overstretched rehabilitation services, combined with shortages of essential equipment, assistive products and consumables, are contributing to preventable secondary complications and further increasing pressure on already limited rehabilitation capacity. This is particularly evident in Gaza’s remaining specialist rehabilitation services, where around 30% of inpatient beds are reportedly occupied by patients with advanced pressure sores. Limited bed availability is also contributing to early discharge, increasing the risk of further deterioration, loss of function, and avoidable readmission.
