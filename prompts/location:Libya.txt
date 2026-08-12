@@ -1,30 +1,13 @@
 Crisis / situation: Libya
 
---- Report 1: WFP (2026-06-03) ---
-Key Highlights:
+--- Report 1: UNHCR (2026-08-12) ---
+Overview
+It is estimated that over 559,920 Sudanese refugees have arrived in Libya since April 2023. This includes 76,904 individuals who were registered post-conflict, bringing the total number of Sudanese registered by UNHCR at its registration centre in Tripoli to 93,159. Increased border monitoring by Libyan authorities has led refugees to take longer routes, and arrivals via Chad have decreased to an average of 70 per day. Due to the irregular nature of entry, the ad hoc data shared by authorities, and the vast remote land border with Chad, Egypt, and Sudan, combined with movements towards cities along the coast, it remains challenging to provide an accurate number of Sudanese refugees.
 
-National prices increase at a slower pace as regional trends diverge: The national Full Minimum Expenditure Basket (MEB) increased by +0.5 percent in March 2026 to LYD 1,134.00, marking a slowdown compared to February (+5.0 percent). The moderate rise was driven by a sharp increase in the East (+8.2 percent), while the West (−0.4 percent) and South (−5.1 percent) recorded declines. This reflects continued exchangerate pass-through, partly offset by easing in western and southern markets.
-Western region records easing but remains elevated: The West recorded a slight decrease of −0.4 percent to LYD 1,125.14, with declines observed in key markets including Tripoli (−4.4 percent to LYD 1,064.44) and Zwara (−5.6 percent to LYD 1,060.34). Despite this easing, prices remain elevated, reflecting strong urban demand
-and sensitivity to import costs.
-Eastern region drives national increase amid continued price pressures: The East recorded a sharp increase of +8.2 percent to LYD 1,225.04, remaining the highest-cost region. Significant increases were observed in Ejdabia (+16.0 percent to LYD 1,198.56) and Tobruk (+12.2 percent to LYD 1,071.61), reflecting continued exchange-rate passthrough and supply constraints.
-Southern region records notable decline following earlier increases: The South decreased by −5.1 percent to LYD 1,066.10, with declines across markets including Sebha (−7.4 percent to LYD 875.43) and Ghat (−8.7 percent to LYD 954.00). The decline suggests easing supply pressures following the Ramadan peak, though structural
-constraints persist including long supply chains and high transport costs.
-Macroeconomic pressures continue to shape market dynamics: Exchange-rate pressures and import costs remain the primary drivers of prices, while recent plans by the Central Bank of Libya to inject US dollar liquidity have yet to ease retail prices in the short term. Additional pressures, including fuel shortages, logistics constraints, and localized disruptions, continue to contribute to market volatility.
+--- Report 2: UNHCR (2026-08-12) ---
+Overview
+It is estimated that over 564,358 Sudanese refugees have arrived in Libya since April 2023. This includes 78,067 individuals who were registered post-conflict, bringing the total number of Sudanese registered by UNHCR at its registration centre in Tripoli to 93,919. Increased border monitoring by Libyan authorities has led refugees to take longer routes, and arrivals via Chad have decreased to an average of 70 per day. Due to the irregular nature of entry, the ad hoc data shared by authorities, and the vast remote land border with Chad, Egypt, and Sudan, combined with movements towards cities along the coast, it remains challenging to provide an accurate number of Sudanese refugees.
 
---- Report 2: WFP (2026-06-03) ---
-Key Highlights:
-
-
-National MEB increases sharply following March stabilization: The national Full Minimum Expenditure Basket (MEB) increased by +10.3 percent in April 2026 to LYD 1,250.90, following relative stabilization in March (+0.5 percent). The increase was driven primarily by a sharp rise in the West (+19.9 percent), while the South also recorded a substantial increase (+10.0 percent). In contrast, the East stabilized, decreasing slightly by −1.1 percent.
-
-
-Western region drives the national increase: The West recorded the largest regional increase, rising by +19.9 percent to LYD 1,349.35, becoming the highest-cost region in April. Significant increases were observed in Tripoli (+35.9 percent to LYD 1,446.29), Zwara (+22.1 percent to LYD 1,369.42), Azzawya (+21.1 percent to LYD 1,357.56), and Alkhums (+18.2 percent to LYD 1,360.88).
-
-
-Eastern region stabilizes following earlier increases: The East decreased slightly by −1.1 percent to LYD 1,211.41, following sharp increases in February and March. Declines were recorded in Ejdabia (−13.5 percent), Benghazi (−3.5 percent), and Al Bayda (−0.8 percent), partially offset by increases in Tobruk (+5.5 percent), Al Kufra (+5.1 percent), and Derna (+2.7 percent).
-
-
-Southern region records renewed increases after March decline: The South increased by +10.0 percent to LYD 1,172.24, reversing the decline recorded in March. Increases were widespread, including Wadi Alshati (+16.3 percent), Sebha (+15.2percent), Ghat (+12.5 percent), Al Jufra (+9.5 percent), and Ubari (+9.2 percent).
-
-
-Macroeconomic pressures continue to shape market dynamics: Exchange-rate pressures and import costs remain the primary drivers of prices, while recent plans by the Central Bank of Libya to inject US dollar liquidity have yet to ease retail prices in the short term. Additional pressures, including fuel shortages, logistics constraints, and  localized market disruptions, particularly in the south, continue to contribute to market volatility.
+--- Report 3: UNHCR (2026-08-12) ---
+Overview
+It is estimated that over 566,043 Sudanese refugees have arrived in Libya since April 2023. This includes 78,079 individuals who were registered post-conflict, bringing the total number of Sudanese registered by UNHCR at its registration centre in Tripoli to 93,831. Increased border monitoring by Libyan authorities has led refugees to take longer routes, and arrivals via land borders have reached an average of 80 per day including entries from Egypt, Chad, and Niger. Due to the irregular nature of entry, the ad hoc data shared by authorities, and the vast remote land border with Chad, Egypt, and Sudan, combined with movements towards cities along the coast, it remains challenging to provide an accurate number of Sudanese refugees.
