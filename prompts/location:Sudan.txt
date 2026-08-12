@@ -1,12 +1,17 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-08-11) ---
+--- Report 1: Insecurity Insight (2026-08-12) ---
+Using data collected by Insecurity Insight, the Safeguarding Health in Conflict Coalition (SHCC) identified 134 incidents of violence against or obstruction of health care in Sudan in 2025.
+Drone strikes impacting health care surged in 2025, increasing from three incidents in 2024 to 24 in 2025. Over 75% of armed drone strikes that impacted health care were linked to the RSF, with high incident numbers reported in North Darfur and North Kordofan states.
+Several other incidents were recorded of air strikes and shelling near or in the vicinity of hospitals, killing and injuring civilians in the area, and often forcing health care providers to suspend medical services. In turn, this impeded patients’ access to health care. Explosive weapons were most often used indiscriminately, with their wide-area effects causing widespread deaths, injuries or damage in populated areas.
+
+--- Report 2: DFS (2026-08-11) ---
 Executive Summary
 The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/sudan
 
---- Report 2: UNICEF (2026-08-11) ---
+--- Report 3: UNICEF (2026-08-11) ---
 Highlights
 
 As Sudan's conflict entered its fourth year, humanitarian needs remained immense, with 33.7 million people requiring assistance amid displacement, disease outbreaks, food insecurity and disrupted services.
