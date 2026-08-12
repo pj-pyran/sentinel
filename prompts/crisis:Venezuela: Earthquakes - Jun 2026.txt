@@ -1,38 +1,20 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: OCHA (2026-08-07) ---
-Situation Report No. 32
-Earthquakes in Venezuela
-07 August 2026
-Time: 2:00 pm
-Highlights
+--- Report 1: UNFPA (2026-08-12) ---
+Venezuela continues to face significant humanitarian needs following the earthquakes of 24 June 2026. The most urgent needs among affected populations include healthcare, including sexual and reproductive health (SRH); food and safe water; mental health and psychosocial support; shelter; sanitation and hygiene; and specialized protection services, particularly for gender-based violence (GBV).
+The loss of livelihoods, disruptions to health and protection services, and precarious living conditions—particularly for people residing in temporary shelters—are increasing the risk of GBV and harmful coping strategies. Currently, 24,477 people are residing in 107 transitional shelters, where overcrowding, limited privacy in sleeping and bathroom facilities, and inadequate lighting are heightening protection risks, particularly for women, girls, and adolescents.
+Numerous health facilities in affected areas have sustained structural damage, while others are facing shortages of medicines, equipment, and health personnel, placing additional strain on an already overstretched health system. UNFPA is supporting the continuity of life-saving maternal, newborn, and obstetric care through its support to maternity wards in 16 hospitals across La Guaira, Caracas, and Miranda. UNFPA is also providing on-the-job training for health personnel and delivering critical medical equipment and supplies, including 62 Inter-Agency Reproductive Health Kits, which will support the needs of approximately 2,250 people.
+UNFPA and its implementing partners are also delivering SRH and GBV services across four transitional shelters. To date, 4,327 people have received prenatal care, family planning services, psychosocial support, GBV case management, and dignity kits. In addition, 4,186 people have been reached through SRH and GBV awareness-raising and information sessions.
+UNFPA is appealing for US$10 million to support the emergency response to the earthquakes in Venezuela. To date, US$4 million has been mobilized, leaving a 60 per cent funding gap. Additional support is urgently needed to sustain the delivery of life-saving SRH and GBV services to affected populations.
 
-Nearly 212,000 people affected by the earthquakes have accessed humanitarian assistance and essential services through a coordinated multi-sector response involving humanitarian organizations, United Nations agencies, communities, and national and local authorities.
-As of 03 August, authorities reported 6,125 deaths and 60,992 people that received care at hospitals, and 16,740 injuries as a result of the earthquakes.
-The United Nations system and its partner organizations continue scaling up the multisectoral response to the emergency to address the needs of 1.3 million people affected by the earthquakes over the next six months.
+--- Report 2: WFP (2026-08-11) ---
+HIGHLIGHTS
+One month after the earthquakes in Venezuela, access to food remains one of the top concerns for families across the affected areas.
+WFP has reached more than 120,000 people with food assistance through four modalities, since no two families are living through this period the same way. Assistance include hot meals in shelters, ready-to-eat rations for those still on the move, food baskets for households that can still cook and in communities who lost their sources of income, and prepaid electronic vouchers in areas where markets are functioning, giving families the power to prioritize their own needs.
+The agency is also serving as the logistics backbone of the humanitarian response, moving relief supplies into hard-to-reach communities. WFP's logistics services have supported NGOs and UN agencies with the transport and storage of supplies spanning shelter, health, protection, and WASH.
+To date, WFP has secured one third of the USD 80 million required to sustain and scale the response. Efforts continue to close the gap and safeguard the support for 500,000 people in 3 months.
+Situation Update
 
-Situation overview
-Venezuela continues to face the consequences of the two major earthquakes (magnitudes 7.2 and 7.5) that struck the north-central region of the country on 24 June at 18:00 local time, causing significant humanitarian impacts and damage to infrastructure. The first earthquake, measuring 7.2, was centered along the San Felipe–Yumare–Montalbán axis (Yaracuy/Carabobo). According to a recent update from the United States Geological Survey (USGS), the second earthquake, measuring 7.5, had its epicenter 17 kilometers west of Catia La Mar, off the coast of La Guaira State.
-As of 03 August, authorities reported 6,125 deaths and 16,740 injuries resulting from the earthquakes. They also reported that 60,992 people received care at hospitals and 43,679 homes were evaluated, out of which 6,433 are at high risk. According to national authorities, 16,51% of the total rubble has been cleared. A preliminary assessment by the United Nations Office for Disaster Risk Reduction (UNDRR) estimates direct damage to housing and infrastructure at approximately US$37 billion, while preliminary estimates from UNDP place direct physical damages at US$6.7 billion, equivalent to 6 per cent of GDP.
-The government response continues to focus on assisting affected populations and managing temporary displacement sites. According to the latest report given by authorities on 26 July, 107 temporary camps remain operational, with a capacity for 28,223 people and a current occupancy of 24,477 people. Of those accommodated, 12,752 people are in La Guaira, 9,092 in the Distrito Capital, 1,958 in Miranda, and 675 in Aragua.
-More than one month after the earthquakes, the humanitarian response continues to expand across the affected states. As of 06 August, nearly 212,000 people had access to essential services and humanitarian assistance through the joint efforts of communities, humanitarian organizations, United Nations entities, donor partners, and national and local authorities.
-Note
-
-The report will be published on a weekly basis. We thank partner organizations, United Nations entities and donors for their valuable contributions, and encourage them to continue reporting their earthquake response activities through the 345W platform. For more information on reporting and the use of the tool, please refer to the presentation: 345W Preparedness and Response
-
---- Report 2: IMC (2026-08-07) ---
-FAST FACTS
-
-On June 24, two earthquakes of magnitude 7.2 and 7.5 hit northern Venezuela consecutively, impacting at least seven states—including the capital city of Caracas and the neighboring city of La Guaira.
-Official figures have confirmed 6,125 fatalities, 16,740 injuries and 17,907 people who have lost their homes.
-The earthquakes have compounded pre-existing humanitarian vulnerabilities, leaving millions of people with limited access to healthcare services, clean water, food and other basic services.
-
-Our Response
-
-International Medical Corps has deployed three mobile medical units, which have provided 3,336 consultations since beginning operations on July 1.
-On July 11, International Medical Corps opened an Emergency Medical Team (EMT) Type 1 Fixed facility to provide free medical services to affected communities. To date, we have provided 3,109 consultations through the EMT.
-Our teams have delivered 290,000 liters of safe water across displacement sites, benefitting some 3,820 people.
-Our teams have so far provided 463 mental health consultations.
-
-Our team is continuing to provide services to about 130 patients per day at the EMT. As patient loads have grown, we have been able to keep up with the demand by training and hiring locally recruited staff who are now managing EMT operations as we rotate out international personnel. The integration of local staff has helped to ensure we have the human resources necessary to scale up our response in La Guaira as needs evolve, and to transition our response programming responsibly and sustainably.
-International Medical Corps is also delivering medical and mental health and psychosocial support (MHPSS) services through three mobile medical units (MMUs) in La Guaira that have provided 3,336 patient consultations to date. As needs within affected communities evolve, International Medical Corps will continue to coordinate closely with national and international partners to ensure that services are targeted to areas where they will have the greatest impact.
+A month after two powerful earthquakes struck north-central Venezuela, the World Food Programme (WFP) continues to provide food assistance to communities impacted by the devastation. This unprecedented response, tailored to different needs in each affected area, has already reached more than 120,000 people and, with proper funding, hopes to reach a total of half a million over the next two months.
+Following needs assessments, WFP has expanded the scope of its assistance from assistance in temporary shelters, community kitchens and communities in the most populated cities, to remote communities in La Guaira, where residents have retained cooking capacities, but whose livelihoods have been severely affected.
+WFP's response extends well beyond La Guaira. The operation plan spans seven states, considering both families directly displaced or affected in their homes, and those whose livelihoods were disrupted by the earthquake — people whose sources of income collapsed overnight.
