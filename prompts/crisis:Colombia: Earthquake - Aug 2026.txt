@@ -1,6 +1,13 @@
 Crisis / situation: Colombia: Earthquake - Aug 2026
 
---- Report 1: Fundación Abba Colombia (2026-08-13) ---
+--- Report 1: HOPE (2026-08-13) ---
+Project HOPE's Emergency Response Team is on the ground in the Valle del Cauca and Risaralda departments of Colombia, rapidly assessing needs after a 7.4-magnitude earthquake struck 150 miles west of Bogotá and caused widespread damage, landslides, and impacted critical infrastructure across a large geographic area.
+Situational Context
+There have been over 29 aftershocks since a 7.4-magnitude earthquake struck near San Jose del Palmar, Colombia, and caused extensive damage across a wide geographic area that includes rural, urban, hard-to-reach, and low-income communities hundreds of miles from the epicenter. More than 357 municipalities across western Colombia have been impacted, with the full extent of the damage unknown due to internet connectivity issues.
+The earthquake has damaged or destroyed more than 9,400 homes, killed at least 254 people, and injured at least 2,595 more — thousands of people are likely missing, and these numbers are expected to increase in the coming days and weeks.
+Across the impacted region, 84 health facilities sustained damage and many have been forced to reduce or suspend services. In El Águila, San Rafael Hospital suffered near-complete destruction and, in Cali, Hospital Universitario del Valle Evaristo García suffered damage that forced it to move patients outside and reduce services, despite being one of the department's primary tertiary hospitals. Public officials have declared a “red alert” for hospitals in Cali as facilities are fully at capacity due to both the damage caused by the disaster and the subsequent surge of patient needs. Departments have established shelters across the region as impacted individuals attempt to avoid residing in damaged buildings. Shelters have noted the need for increased support for hygiene supplies and larger provisions of potable water. Damage to municipal water systems has left some communities without running water until assessments and repairs can be completed. Information remains limited on health, water, and medical needs in more rural areas — especially in Chocó Department — due to limited road access and connectivity issues.
+
+--- Report 2: Fundación Abba Colombia (2026-08-13) ---
 Executive Summary
 On August 10, 2026, Colombia was affected by a major earthquake with a magnitude of 7.4, occurring at approximately 7:34 a.m., with its epicenter in the department of Chocó, near San José del Palmar. The earthquake was widely felt across the country and caused significant damage, particularly in Chocó and several areas of the Coffee Region.
 The department of Chocó is facing a particularly complex situation due to the combination of earthquake-related damage, existing infrastructure limitations, historical access challenges, and limited local capacity to respond to an emergency of this magnitude.
@@ -8,13 +15,13 @@ According to reports available as of August 11, approximately 500 homes had been
 The situation remains dynamic, and figures will need to be updated as access is gained to rural and hard-toreach communities.
 In response, Fundación ABBACOL is coordinating a humanitarian response with the support of local communities and stakeholders, initially prioritizing psychosocial support and needs assessments while seeking national and international cooperation to expand the response and mobilize humanitarian assistance to affected communities.
 
---- Report 2: EHP Colombia (2026-08-13) ---
+--- Report 3: EHP Colombia (2026-08-13) ---
 This Flash Update is produced by OCHA Colombia in collaboration with humanitarian partners, based on official reports (as of 12 August, 18:30 local time)
 The emergency continues to escalate and has exceeded the local response capacity, with at least 49,214 people affected, 30,324 families impacted, 3,771 injured people, and 241 fatalities across 13 departments of the country. The damage to housing, social infrastructure, and essential services highlights a large-scale humanitarian crisis that requires a sustained and coordinated response.
 Humanitarian needs are multisectoral, and significant response gaps remain, particularly in Risaralda, Valle del Cauca, Chocó, and Caldas. Damage to more than 54,900 homes (destroyed and damaged), educational institutions, health facilities, water supply systems, and roads is limiting access for thousands of people to basic services, protection, healthcare, safe water, and livelihoods.
 The national and international response is underway and continues to expand to save lives and complement institutional capacity. While search and rescue operations, humanitarian assistance, and rapid needs assessments continue, the USD 5 million CERF allocation represents a critical boost to scale up the emergency response and support the populations most affected by the earthquake in Colombia.
 
---- Report 3: WFP (2026-08-12) ---
+--- Report 4: WFP (2026-08-12) ---
 KEY HIGHLIGHTS
 • A 7.4-magnitude earthquake struck western Colombia on 10 August, prompting the Government to declare a National Disaster Situation and activate a national response through the National Unit for Disaster Risk Management (UNGRD) and the Unified Command Post (PMU).
 • OCHA reports impacts across 16 departments and 357 municipalities, including areas already affected by conflict, displacement and recurrent climaterelated shocks, raising concerns over increased humanitarian needs and access constraints.
@@ -33,7 +40,7 @@ Situation Update
 • According to the National Route Institute (INVÍAS), the earthquake affected at least 13 locations across the national road network. The most significant access constraints include the total closure of the Cali-Loboguerrero corridor in Dagua (Valle del Cauca), the Cartago-Alcalá corridor, the Manizales-Fresno corridor in Caldas, and the Santa Cecilia-Asia corridor in Pueblo Rico (Risaralda). Multiple landslides have also affected strategic transport routes in Quindío, including the Calarcá-Cajamarca and Armenia-Montenegro-Alcalá corridors.
 • Access assessments remain ongoing, particularly in earthquake-affected areas of Chocó, where access limitations continue to constrain damage assessments and the identification of humanitarian needs. Official estimates of the total number of affected people are not yet available.
 
---- Report 4: EHP Colombia (2026-08-12) ---
+--- Report 5: EHP Colombia (2026-08-12) ---
 SP
 Este Flash update es producido por OCHA Colombia en colaboración con los socios humanitarios y reportes oficiales. Corte a 11 agosto (17:30 horas)
 La magnitud e impacto de la emergencia supera lo esperado. El terremoto de magnitud 7,4 registrado el 10 de agosto en San José del Palmar (Chocó), junto con 29 réplicas significativas, ha generado una emergencia humanitaria de gran escala en Colombia. Hasta el momento, 13 departamentos y 357 municipios reportan afectaciones, con un saldo preliminar de 224 personas fallecidas, 2.595 heridas y severos daños en viviendas e infraestructura esencial, siendo Risaralda, Valle del Cauca, Chocó y Caldas los departamentos más impactados.
@@ -45,21 +52,21 @@ The scale and impact of the emergency exceed initial expectations. The 7.4-magni
 Response efforts are being implemented and coordinated despite operational challenges. The National Government, through the National System for Disaster Risk Management (SNGRD), is leading response operations, including search and rescue efforts and the provision of initial assistance, with complementary support from the United Nations and national and international humanitarian partners. However, continued disruptions to essential services, including electricity, water, health care and telecommunications, together with access constraints resulting from damage to at least 73 roads, pose critical challenges to humanitarian assistance and early recovery efforts in affected communities.
 Humanitarian needs and information gaps persist. Priority needs identified to date include search and rescue, temporary shelter, health care, food security, education and protection. However, significant information gaps remain regarding the total number of affected people, the location and conditions of shelters, and specific needs at the municipal level, limiting a fully targeted and evidence-based response.
 
---- Report 5: EHP Colombia (2026-08-11) ---
+--- Report 6: EHP Colombia (2026-08-11) ---
 Este Flash update es producido por OCHA Colombia en colaboración con los socios humanitarios y reportes oficiales. Corte a 10 agosto (20:30 horas)
 Actualización de la emergencia:
 El terremoto de magnitud 7,4 registrado en Chocó ha dejado afectaciones en 12 departamentos y 335 municipios del país. Las autoridades continúan evaluando daños y coordinando la respuesta para atender a las comunidades más impactadas.
 Aumentan las necesidades humanitarias: Se reportan 1.495 personas heridas, 126 fallecidas, miles de viviendas afectadas y daños en infraestructura esencial, incluyendo centros de salud, instituciones educativas, vías y servicios básicos como energía, agua y conectividad.
 Respuesta en marcha: Equipos de emergencia, voluntariado y autoridades nacionales y locales mantienen operaciones de asistencia, mientras se han activado Puestos de Mando Unificado en Bogotá, Quibdó, Armenia y Cali para coordinar la atención de las personas y zonas afectadas. La coordinación se realiza a través de los espacios de coordinación institucional y del Equipo Humanitario País.
 
---- Report 6: HOPE (2026-08-11) ---
+--- Report 7: HOPE (2026-08-11) ---
 Key Updates
 • Project HOPE is assessing health facilities and deploying an additional team to identify needs in Pereira, Cali, and other affected communities in Colombia following today’s 7.4-magnitude earthquake.
 • Early reporting indicates over 60 buildings collapsed, 1,500 homes damaged, 111 people killed, and 87 injured, with those numbers expected to rise in the coming days.
 • Just hours after the earthquake, Project HOPE staff began assessments at Hospital Universitario del Valle Evaristo García in Cali, Colombia, which has partially collapsed.
 • Public officials declared a “red alert” for hospitals in Cali and health facilities are setting up tents outside to treat injured survivors. • Displaced families are setting up temporary shelters outside homes that have been damaged and destroyed.
 
---- Report 7: Cruz Roja Colombiana (2026-08-11) ---
+--- Report 8: Cruz Roja Colombiana (2026-08-11) ---
 Description
 According to information from the Colombian Geological Service (SGC), an earthquake with a preliminary magnitude of 7.4 was recorded on Monday, August 10, 2026, in the morning, with its epicenter in the town of San José del Palmar, in the department of Chocó, located on the Colombian Pacific coast, at a depth of 82 kilometers.
 Although the epicenter was in the department of Chocó, direct impacts were also felt in the departments of Caldas, Risaralda, and Valle del Cauca. Preliminary reports from media outlets and municipal governments indicate damage in the capitals and other municipalities of these departments: in Valle de Cauca, 3 people were injured in El Cairo and 2 died in El Zarzal, in addition to the collapse of 20 buildings and minor structural damage to 2 hospitals; in Risaralda, 18 people died; and in Chocó, 10 people were injured and 3 are missing. The number of people affected in the area continues to rise, and the President of the Republic has established a Unified Command Post.
