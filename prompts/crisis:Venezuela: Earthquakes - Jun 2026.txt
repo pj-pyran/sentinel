@@ -1,13 +1,36 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: UNFPA (2026-08-12) ---
+--- Report 1: IMC (2026-08-13) ---
+FAST FACTS
+
+On June 24, two earthquakes of magnitude 7.2 and 7.5 hit northern Venezuela in rapid succession, impacting at least seven states—including the capital city of Caracas and the neighboring city of La Guaira.
+Official figures have so far confirmed 6,125 fatalities, 16,740 injuries and 24,477 people currently displaced.
+Priority needs include healthcare services, clean water, food, mental health and psychosocial support (MHPSS) services, adequate sanitation and hygiene facilities, protection support and shelter.
+
+Our Response
+
+International Medical Corps has deployed three mobile medical units, which have provided 3,819 consultations since July 1.
+On July 11, International Medical Corps opened an Emergency Medical Team (EMT) Type 1 Fixed facility to provide free medical services to impacted communities. To date, we have provided 3,263 consultations through the EMT.
+Our teams have delivered 390,000 liters of safe water across displacement sites, benefitting an estimated 4,000 people.
+Our teams have provided 759 MHPSS consultations.
+
+--- Report 2: PAHO (2026-08-12) ---
+HIGHLIGHTS
+• Seven weeks after the two earthquakes that struck Venezuela on 24 June 2026, the response continues to sustain emergency operations while transitioning toward early recovery. Current efforts are focused on maintaining essential health services, rehabilitating affected facilities, supporting transitional camps, and delivering health services through a comprehensive approach, while mitigating public health risks and ensuring a continuous, needs-based supply of medicines and essential equipment.
+• Health service recovery and critical care capacity are advancing, with rehabilitation planning progressing in priority facilities and intensive care and maternity capacity being restored at Hospital Dr. José Gregorio Hernández, while assessments in Caracas and Miranda continue to identify critical gaps in equipment and human resources.
+• Public health surveillance and immunization systems are being reinforced, with expanded epidemiological analysis and digital reporting, enhanced laboratory diagnostic capacity, and more than 31,000 vaccine doses administered; national vaccine supply security was further supported through a USD 18 million Revolving Fund credit line.
+• Efforts advanced toward the provision of comprehensive care, focusing on mental health, sexual and reproductive health, noncommunicable diseases, and rehabilitation. This included dissemination of the national mental health protocol, training of transitional camp focal points, continuity of oncology care through three designated centers, and attention to emerging needs such as assessing rehabilitation center capacities and training on amputee management and wound care.
+• PAHO/WHO continued supporting the response with critical medicines and equipment, most recently delivering targeted emergency medical supplies – including specialized kits, medicines, and high-complexity surgical instruments – to the Maternal and Child Hospital Leopoldo Aguerrevere in Petare, Sucre.
+• PAHO/WHO continues to support the health response through its Regional Response Team, covering key areas such as emergency coordination, logistics, information management, epidemiology, laboratory services, WASH, immunization, risk communication, and Emergency Medical Teams (EMT) coordination. Additional experts in entomology and infection prevention and control are being deployed.
+
+--- Report 3: UNFPA (2026-08-12) ---
 Venezuela continues to face significant humanitarian needs following the earthquakes of 24 June 2026. The most urgent needs among affected populations include healthcare, including sexual and reproductive health (SRH); food and safe water; mental health and psychosocial support; shelter; sanitation and hygiene; and specialized protection services, particularly for gender-based violence (GBV).
 The loss of livelihoods, disruptions to health and protection services, and precarious living conditions—particularly for people residing in temporary shelters—are increasing the risk of GBV and harmful coping strategies. Currently, 24,477 people are residing in 107 transitional shelters, where overcrowding, limited privacy in sleeping and bathroom facilities, and inadequate lighting are heightening protection risks, particularly for women, girls, and adolescents.
 Numerous health facilities in affected areas have sustained structural damage, while others are facing shortages of medicines, equipment, and health personnel, placing additional strain on an already overstretched health system. UNFPA is supporting the continuity of life-saving maternal, newborn, and obstetric care through its support to maternity wards in 16 hospitals across La Guaira, Caracas, and Miranda. UNFPA is also providing on-the-job training for health personnel and delivering critical medical equipment and supplies, including 62 Inter-Agency Reproductive Health Kits, which will support the needs of approximately 2,250 people.
 UNFPA and its implementing partners are also delivering SRH and GBV services across four transitional shelters. To date, 4,327 people have received prenatal care, family planning services, psychosocial support, GBV case management, and dignity kits. In addition, 4,186 people have been reached through SRH and GBV awareness-raising and information sessions.
 UNFPA is appealing for US$10 million to support the emergency response to the earthquakes in Venezuela. To date, US$4 million has been mobilized, leaving a 60 per cent funding gap. Additional support is urgently needed to sustain the delivery of life-saving SRH and GBV services to affected populations.
 
---- Report 2: IOM (2026-08-11) ---
+--- Report 4: IOM (2026-08-11) ---
 Situation Report No. 21 provides an update on IOM's response to the 24 June earthquakes in the Bolivarian Republic of Venezuela, covering the period from 7 to 10 August 2026.
 Highlights
 
@@ -32,7 +55,7 @@ Complete household verification in prioritized communities and expand needs asse
 Maintain updated information on available services, operating schedules and referral mechanisms in temporary accommodation sites.
 Strengthen accessible community information and feedback mechanisms.
 
---- Report 3: WFP (2026-08-11) ---
+--- Report 5: WFP (2026-08-11) ---
 HIGHLIGHTS
 One month after the earthquakes in Venezuela, access to food remains one of the top concerns for families across the affected areas.
 WFP has reached more than 120,000 people with food assistance through four modalities, since no two families are living through this period the same way. Assistance include hot meals in shelters, ready-to-eat rations for those still on the move, food baskets for households that can still cook and in communities who lost their sources of income, and prepaid electronic vouchers in areas where markets are functioning, giving families the power to prioritize their own needs.
