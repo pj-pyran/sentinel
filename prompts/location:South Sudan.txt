@@ -1,16 +1,15 @@
 Crisis / situation: South Sudan
 
---- Report 1: WFP (2026-08-04) ---
-WFP provided food assistance to 1.94 million people through 9,688 mt of food and USD 17.3 million in cash-based transfers across diverse programmes. The number of people reached represents 69 percent of the target for the month.
-As of 30 June, WFP had assisted 1 million people through the lean season response, representing 63 percent of 1.6 million people targeted.
-The lean season response in Akobo East reached three distinct beneficiary groups: 49,000 people received full general food assistance rations, 57,000 received fortified biscuits, and 21,000 received specialized nutrition assistance.
+--- Report 1: Logistics Cluster (2026-08-14) ---
+Background
+South Sudan continues to face a complex humanitarian crisis driven by conflict, climate-related shocks, disease outbreaks, displacement, food insecurity and economic deterioration. Access to affected communities remains constrained by poor road conditions, seasonal flooding, and limited transport infrastructure. In this context, the WFP-led Logistics Cluster continues to enable humanitarian operations through logistics coordination, information management, capacity strengthening and common transport services, including air, river and road transport to hard-to-reach and priority locations.
+Operational Highlights
+• During the reporting period, the Logistics Cluster facilitated the transportation of 3,077 MT of humanitarian cargo, supporting 43 organizations and reaching 37 destinations across South Sudan.
+• Road transport accounted for 46 percent of the cargo moved, followed by river transport at 39 percent and air transport at 15 percent.
+• The Cluster coordinated eight humanitarian road convoys delivered approximately 1,417 MT of multisectoral supplies.
+• The Logistics cluster completed 31 service requests, enabling partners to deliver critical assistance to priority and hard-to-reach locations.
+• The Logistics Cluster supported the Unity State cholera response in Leer, Mayendit and Mayom by facilitating the transport of 30.2 MT of emergency relief cargo.
 
---- Report 2: Concern (2026-08-03) ---
-The Concern Worldwide Accountability to Affected Populations project, supported by WFP, aims at creating a bottom-up feedback and communication mechanism between responders and people we serve, that is community-based, easily accessible, and built on mutual understanding and genuine information-sharing.
-Through local responders and community correspondents, Concern Worldwide, Community Engagement Network (hereafter: CEN), and the Radio Community (hereafter: TRC) work together to set up a complete community feedback mechanism that is accessible to all participants regardless of their literacy levels and access to assets and internet. Using TRCs and CEN’s longstanding experience in radio broadcasting, the project ensures a wide outreach beyond people with access to written updates.
-Together, and alongside WFP, the project partners respond to information and feedback gaps. This way, and by consolidating and sharing the feedback received, the project increases accountability to affected populations in the targeted areas.
-
---- Report 3: Concern (2026-08-03) ---
-The Concern Worldwide Accountability to Affected Populations project, supported by WFP, aims at creating a bottom-up feedback and communication mechanism between responders and people we serve, that is community-based, easily accessible, and built on mutual understanding and genuine information-sharing.
-Through local responders and community correspondents, Concern Worldwide, Community Engagement Network (hereafter: CEN), and the Radio Community (hereafter: TRC) work together to set up a complete community feedback mechanism that is accessible to all participants regardless of their literacy levels and access to assets and internet. Using TRCs and CEN’s longstanding experience in radio broadcasting, the project ensures a wide outreach beyond people with access to written updates.
-Together, and alongside WFP, the project partners respond to information and feedback gaps. This way, and by consolidating and sharing the feedback received, the project increases accountability to affected populations in the targeted areas.
+--- Report 2: WFP (2026-08-13) ---
+KEY MESSAGES
+• The average cost of the food basket declined slightlyweek-on-week, driven by a sharp drop in prices in Eastern Equatoria due to improved cereal supply, particularly in Kapoeta, where reduced rainfall-related access constraints enabled higher imports through the Ikotos corridor.
