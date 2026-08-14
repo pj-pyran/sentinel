@@ -1,10 +1,13 @@
 Crisis / situation: Pakistan
 
---- Report 1: WFP (2026-08-13) ---
+--- Report 1: Govt. Pakistan (2026-08-13) ---
+No summary available.
+
+--- Report 2: WFP (2026-08-13) ---
 Using remote sensing techniques, the seven-day forecast of total rainfall for the country is analyzed against the long-term average rainfall to highlight the areas which are expected to receive above normal, normal and below normal rainfall. The satellite data for a period of thirty years from 1993-2023 is extracted from CHIRPS (Climate Hazards Group InfraRed Precipitation with Station data) and analyzed to estimate deviation from normal rainfall. For the forecast of total precipitation for next seven days, the data is sourced from global model of ECMWF (European Centre for Medium-Range Weather Forecasts).
 The satellite-based national rainfall forecast analysis for 11-18 August indicates below rainfall across most parts of the country with the exception of northern parts of GB, northern and central KP and northeastern districts of Punjab, Given the ongoing flood conditions in parts of north and central areas, additional rainfall may exacerbate the risk of flooding, GLOF and landslides, particularly in vulnerable locations across Khyber Pakhtunkhwa, Gilgit-Baltistan, Azad Jammu &amp; Kashmir, and northeastern Punjab.
 
---- Report 2: UNHCR (2026-08-13) ---
+--- Report 3: UNHCR (2026-08-13) ---
 Introduction
 Prior to 2023, there was no data collected on the arrest and detention of ACC holders or undocumented Afghan nationals. Since January 2023, IOM has started to collect this data. The figures, particularly of undocumented Afghan nationals, should be considered underreported.
 • During the reporting period (2 – 8 August) a total of 1,407 Afghan nationals were arrested and detained, representing a 40% decrease compared to the previous week (26 July – 1 August).
