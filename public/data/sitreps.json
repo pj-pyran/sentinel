@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4225754",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Colombia: Flash Update 006 - Update on the Impact of the Earthquake in Colombia - August 14, 2026",
+    "source": "EHP Colombia",
+    "crisis": "Colombia: Earthquake - Aug 2026",
+    "location": "Colombia",
+    "scope": "single",
+    "date": "2026-08-15",
+    "content": "<p><em>This Flash Update is produced by OCHA Colombia in collaboration with humanitarian partners, based on official reports (as of 14 August, 18:30 local time). <strong>The next update to this document will be issued on Monday, 17 August 2026.</strong></em></p>\n<p><strong>Humanitarian impact and multisectoral effects.</strong> Five days after the magnitude 7.4 earthquake struck San José del Palmar in Chocó Department, 183 aftershocks have been reported, along with impacts across 15 departments and 437 municipalities. At least 135,179 people have been affected, including Afro-Colombian and Indigenous communities, while significant damage to housing, critical infrastructure and essential services persists.</p>\n<p><strong>Priority needs and scaling up of the response.</strong> The most pressing needs remain in health, temporary shelter, water, sanitation and hygiene (WASH), food security, energy and communications, particularly in Risaralda, Valle del Cauca, Chocó and Caldas departments. Rapid and intersectoral assessments are ongoing to identify gaps, prioritize interventions and complement the Government's response in the most affected areas.</p>\n<p><strong>International support mobilization and humanitarian coordination.</strong> The international response continues to scale up, with an initial allocation of US$5 million from the Central Emergency Response Fund (CERF), additional donor contributions and the operational deployment of national and international humanitarian partners. Efforts are focused on strengthening immediate response capacity, restoring essential services and supporting early recovery in coordination with the National Unit for Disaster Risk Management (UNGRD) and territorial authorities.</p>\n",
+    "url": "https://reliefweb.int/report/colombia/colombia-flash-update-006-update-impact-earthquake-colombia-august-14-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4225754",
+    "file_url": "https://reliefweb.int/attachments/1b1c8688-4046-4ce0-a4ae-fc7fedb32d6c/Flash%20Update%20Colombia%20No.006%20Earthquake%20impacts%20in%2015%20departments_ENG_14082026.pdf"
+  },
+  {
     "id": "rw-4225749",
     "provider": "reliefweb",
     "type": "original",
