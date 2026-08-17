@@ -1,6 +1,14 @@
 Crisis / situation: Colombia: Earthquake - Aug 2026
 
---- Report 1: IFRC (2026-08-17) ---
+--- Report 1: HOPE (2026-08-17) ---
+Project HOPE's Emergency Response Team is on the ground in the Valle del Cauca and Risaralda departments of Colombia, distributing hygiene supplies and rapidly assessing needs after a 7.4-magnitude earthquake struck 150 miles west of Bogotá causing widespread damage, landslides, and impacted critical infrastructure across a large geographic area.
+Situational Context
+The full scale of the impact continues to be assessed since a 7.4-magnitude earthquake struck near San Jose del Palmar, Colombia, on Monday August 10, continued to be assessed. Damage extends across a wide geographic area, including urban and rural areas across a range of socio-economic levels. More than 395 municipalities across western Colombia were affected and connectivity and access issues continue to limit a full assessment.
+As of this morning, August 13, Colombia’s national disaster management agency (UNGRD) reports 273 dead, 3,824 injured, and 377 missing nationwide. Other sources state the number of missing at nearly 500. Approximately 75% of fatalities are concentrated in Quibdó, Pereira, and Valle del Cauca.
+Over 12,500 homes have been destroyed and nearly 75,000 homes have been damaged, and 172 structures collapsed. Search and rescue operations, led by the National Risk and Disaster Management System, are transitioning from active rescue to recovery in the hardest hit areas. Chocó’s SAR phase was formally closed yesterday after a family of four was located alive. In Pereira and Cali, teams report shifting to recovery of bodies as the window for finding and rescuing survivors narrows, though efforts continue.
+With 216 health centers sustaining damage, the need for hygiene, water, and medical support is significant. Access to more rural areas, especially Chocó, continues to be difficult. Chocó also sustained a 4.2 magnitude aftershock this morning, and officials stated the aftershock hindered utility restoration efforts.
+
+--- Report 2: IFRC (2026-08-17) ---
 Description of the Event
 Date of event
 10-08-2026
@@ -14,7 +22,7 @@ operations, emergency assistance, initial damage and needs assessments, and the 
 Given the magnitude of the earthquake, its geographical reach and the severity of the reported impacts, the National Government declared a national disaster situation on the same day. This declaration enables the administrative, budgetary and coordination mechanisms required to mobilise resources, support affected territorial authorities and facilitate the immediate response and subsequent recovery.
 The situation remains fluid. Assessments by the Colombian Red Cross Society and the competent government authorities are ongoing, including in remote and hard-to-reach areas. Consequently, the situation overview, geographical scope, identified needs and reported figures are expected to evolve as further information is verified and consolidated.
 
---- Report 2: EHP Colombia (2026-08-15) ---
+--- Report 3: EHP Colombia (2026-08-15) ---
 This Flash Update is produced by OCHA Colombia in collaboration with humanitarian partners, based on official reports (as of 14 August, 18:30 local time). The next update to this document will be issued on Monday, 17 August 2026.
 Humanitarian impact and multisectoral effects. Five days after the magnitude 7.4 earthquake struck San José del Palmar in Chocó Department, 183 aftershocks have been reported, along with impacts across 15 departments and 437 municipalities. At least 135,179 people have been affected, including Afro-Colombian and Indigenous communities, while significant damage to housing, critical infrastructure and essential services persists.
 Priority needs and scaling up of the response. The most pressing needs remain in health, temporary shelter, water, sanitation and hygiene (WASH), food security, energy and communications, particularly in Risaralda, Valle del Cauca, Chocó and Caldas departments. Rapid and intersectoral assessments are ongoing to identify gaps, prioritize interventions and complement the Government's response in the most affected areas.
