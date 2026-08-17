@@ -1,6 +1,31 @@
 Crisis / situation: Indonesia
 
---- Report 1: IFRC (2026-08-17) ---
+--- Report 1: Human Initiative (2026-08-17) ---
+EARTHQUAKE INFORMATION
+Time of Incident: Saturday, 15 August 2026, at 04:58:24 WIB (05:58:24 WITA).
+Magnitude: M 7.7 (BMKG / USGS). The earthquake was triggered by an upthrust fault mechanism (Flores Back Arc Thrust) at a shallow depth of 10–15 km. USGS estimates that up to 1.5 million people experienced strong shaking at intensity IV–V MMI across Flores Island to Sumbawa.
+Tsunami Potential &amp; Detection: A tsunami early warning was temporarily activated by BMKG after sea-level rises were detected at 10 observation stations. The highest rise was recorded in Maurole, Ende, at 0.94 metres at 05:27 WIB. The tsunami early warning was officially lifted by BMKG at 07:30 WIB.
+Aftershocks: BMKG recorded at least 54 aftershocks up to 07:30 WIB, with the strongest reaching M 6.1.
+Earthquake Epicentre: Offshore at coordinates 8.41° S – 121.39° E, approximately 30 km northeast of Mbay, Nagekeo Regency, East Nusa Tenggara.
+
+--- Report 2: Human Initiative (2026-08-17) ---
+SITUATION REPORT #2 NAGEKEO EARTHQUAKE, EAST NUSA TENGGARA
+Update: Sunday, 16 August 2026, 07:30 WIB / 08:30 WITA
+
+Time of Main Earthquake: Saturday, 15 August 2026, at 04:58:24 WIB (05:58:24 WITA).
+Magnitude &amp; Depth: Magnitude (M) 7.7 | Depth: 15 km. The earthquake was caused by a thrust-fault mechanism along the Flores Back-Arc Thrust.
+Tsunami Potential &amp; Aftershocks: The tsunami early warning has been officially lifted. Aftershock activity has begun to subside, although monitoring for secondary hazards remains ongoing.
+Epicentre: Located offshore at coordinates 8.42° S – 121.39° E, approximately 30 km northeast of Mbay, Nagekeo Regency, East Nusa Tenggara.
+Geographical Extent of Impact: 10 regencies and 1 city in East Nusa Tenggara (NTT), 2 areas in West Nusa Tenggara (NTB), and 2 regencies in South Sulawesi.
+
+UPDATE ON EMERGENCY STATUS AND RESPONSE (AS OF SUNDAY MORNING)
+Based on the latest multi-stakeholder disaster-response coordination as of Sunday morning, 16 August 2026:
+• Provincial Level: The decree establishing a 14-day Provincial Disaster Emergency Response Status for East Nusa Tenggara has been officially finalised to accelerate the delivery of ground and air logistics assistance to the 10 affected regencies.
+• Manggarai Regency: A Regent’s Decree establishes a Disaster Emergency Response Status, effective from 15 August to 13 November 2026.
+• East Manggarai Regency: A Regent’s Decree establishes a Disaster Emergency Preparedness Status, effective from 15 August to 4 September 2026.
+• Ngada Regency: A Regent’s Decree establishes a 30-day Earthquake Disaster Emergency Response Status, effective from 15 August to 15 September 2026.
+
+--- Report 3: IFRC (2026-08-17) ---
 Description
 An earthquake with a magnitude of 7.7 struck the Nagekeo Regency, East Nusa Tenggara (NTT) Province, on Saturday (15/08) at 04:58 WIB. The earthquake occurred at a depth of 15 km, with coordinates located at 8.41 S – 121.39 E, approximately 30 km Northeast of Mbay, Nagekeo Regency.
 The earthquake triggered a tsunami warning. According to BMKG (Meteorology, Climatology, and Geophysics Agency) monitoring, tsunami waves were detected in several areas with sea level heights reaching 0.94 meters in Maurole–Ende, 0.36 meters in Labuan Bajo, 0.38 meters at Kewapante Port–Sikka, and 0.25 meters in East Flores. The tsunami warning was officially lifted at 07:30 WIB.
@@ -46,7 +71,7 @@ The government is currently conducting continuous monitoring, rapid assessments,
 Planned International Response
 DREF: Planned
 
---- Report 2: IFRC (2026-08-17) ---
+--- Report 4: IFRC (2026-08-17) ---
 Description
 A magnitude 7.7 earthquake struck offshore Nagekeo Regency, East Nusa Tenggara Province, on 15 August 2026 at 04:58 WIB. The earthquake occurred at a depth of 15 km, approximately 38 km northeast of Mbay. The tsunami warning issued for several coastal areas was officially lifted by BMKG at 07:31 WIB.
 As of 16 August 2026 at 00:00 WIB, BNPB reported 47 fatalities and 101 injuries. More than 5,000 people remain displaced, including 3,356 people in Sikka, 2,078 in Manggarai, and 500 in Nagekeo. Additional displacement was reported in Bima and the Selayar Islands.
@@ -76,7 +101,7 @@ BNPB, BPBD, Basarnas, the Indonesian Armed Forces, the National Police, local go
 Planned International Response
 DREF: Planned
 
---- Report 3: MPBI (2026-08-17) ---
+--- Report 5: MPBI (2026-08-17) ---
 The NTT Provincial Government has set an emergency response status for 14 days, effective August 15-28, 2026 based on the Decree of the Governor of NTT Number 305/KEP/HK/2026. This status is the basis for resource mobilization and APBD financing for search, health services, IDPs, basic needs, and access and infrastructure recovery. Three districts have also imposed an emergency response period, namely in Manggara, Ngada, and East Manggarai.
 The number of IDPs increased to 9,290 people, based on the BNPB update at 00.00 WIB. The details include 3,356 Sikka people—1,356 in the Samador GOR and 2,000 spread independently in 10 points—Manggarai 2,078 people, and Nagekeo 500 people. The rest are in other regions including Bima City and the Selayar Islands, but details have not been made public
 The earthquake shock was followed by 341 aftershock activities. The number of fatalities recorded to date is 47 people, with the highest death toll in Manggarai Regency with 23 people and East Manggarai with 17 people. Meanwhile, other fatalities were spread across Sikka Regency with 4 people, West Manggarai with 1 person, Ende with 1 person, and Nagekeo with 1 person. At least 101 residents were reported injured with varying degrees of severity.
