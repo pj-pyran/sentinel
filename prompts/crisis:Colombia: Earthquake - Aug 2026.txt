@@ -1,6 +1,12 @@
 Crisis / situation: Colombia: Earthquake - Aug 2026
 
---- Report 1: HOPE (2026-08-17) ---
+--- Report 1: EHP Colombia (2026-08-18) ---
+This Flash Update is produced by OCHA Colombia in collaboration with humanitarian partners, based on official reports (as of 17 August, 20:00 local time)
+More than 186,000 people have been affected across 15 departments and 472 municipalities nationwide. The emergency continues to evolve and figures may increase as assessments progress in the most affected areas.
+The Government continues to implement a comprehensive and sustained response across affected areas through the activation of the National Disaster Risk Management System, humanitarian assistance, restoration of essential services and support measures for affected families.
+The response is further strengthened by complementary support from the international community, the United Nations, humanitarian organizations and the private sector, with a focus on saving lives, addressing urgent needs and supporting the recovery of affected communities.
+
+--- Report 2: HOPE (2026-08-17) ---
 Project HOPE's Emergency Response Team is on the ground in the Valle del Cauca and Risaralda departments of Colombia, distributing hygiene supplies and rapidly assessing needs after a 7.4-magnitude earthquake struck 150 miles west of Bogotá causing widespread damage, landslides, and impacted critical infrastructure across a large geographic area.
 Situational Context
 The full scale of the impact continues to be assessed since a 7.4-magnitude earthquake struck near San Jose del Palmar, Colombia, on Monday August 10, continued to be assessed. Damage extends across a wide geographic area, including urban and rural areas across a range of socio-economic levels. More than 395 municipalities across western Colombia were affected and connectivity and access issues continue to limit a full assessment.
@@ -8,7 +14,7 @@ As of this morning, August 13, Colombia’s national disaster management agency 
 Over 12,500 homes have been destroyed and nearly 75,000 homes have been damaged, and 172 structures collapsed. Search and rescue operations, led by the National Risk and Disaster Management System, are transitioning from active rescue to recovery in the hardest hit areas. Chocó’s SAR phase was formally closed yesterday after a family of four was located alive. In Pereira and Cali, teams report shifting to recovery of bodies as the window for finding and rescuing survivors narrows, though efforts continue.
 With 216 health centers sustaining damage, the need for hygiene, water, and medical support is significant. Access to more rural areas, especially Chocó, continues to be difficult. Chocó also sustained a 4.2 magnitude aftershock this morning, and officials stated the aftershock hindered utility restoration efforts.
 
---- Report 2: IFRC (2026-08-17) ---
+--- Report 3: IFRC (2026-08-17) ---
 Description of the Event
 Date of event
 10-08-2026
