@@ -1,10 +1,75 @@
 Crisis / situation: World
 
---- Report 1: Insecurity Insight (2026-07-31) ---
-In the 26 months since the adoption of UN 2730 resolution, Insecurity Insight recorded 1,281 attacks and acts of violence against aid workers from the UN, humanitarian and civil society, resulting in 771 aid workers killed, 721 injured, 381 kidnapped and 580 arrested. These acts of violence underscore the urgent need for strengthened collective action and the promotion of collaborative security risk mitigation strategies to enhance aid worker safety and security and to provide crisis and post-incident support to affected individuals and their families.
-In total, 381 aid workers were kidnapped in 158 incidents across 23 countries: 295 were national aid workers, representing 75% of total kidnappings, while 19 were international aid workers. These figures underscore how aid workers closest to affected communities - often working with the least protection and visibility - bear the greatest risk.
+--- Report 1: Insecurity Insight (2026-08-18) ---
+This News Brief bears testimony to the brave survivors who speak about sexual violence by state bodies or conflict actors. Most events of violence are never reported. This compilation is neither complete nor representative of the extent or nature of sexual violence in general. It brings together dispersed accounts about survivors from around the world who broke the silence.
+Developments in July 2026
+Central African Republic: In July 2026, reported incidents in Ouham-Fafa and Vakaga highlight the exposure of women and girls to sexual violence amid insecurity and armed-group activity, particularly in remote and rural communities. The incidents, involving unidentified armed men and LRA fighters, reflect recurring trends of sexual violence by multiple armed actors, heightened risks for women and girls while carrying out everyday livelihood activities, and limited access to protection and essential services in isolated, conflict-affected areas. See the Central African Republic section for more details.
+Democratic Republic of the Congo: In July 2026, reported incidents in Kwilu and South Kivu provinces highlight the continued risk of sexual violence faced by women amid insecurity and armed activity, including attacks by both state forces and unidentified armed men. The incidents reflect recurring trends of sexual violence occurring in the context of everyday activities, armed attacks and insecurity along key transport routes. See Democratic Republic of the Congo section for more details.
 
---- Report 2: WHO (2026-07-29) ---
-This is the tenth global public WHO situation report on the escalation in the Middle East. It covers the health situation and WHO operational updates from affected countries in the WHO Eastern Mediterranean and European regions, as well as WHO's global response activities and priorities.
-On 17 June 2026, the United States of America and the Islamic Republic of Iran signed an agreement on a Memorandum of Understanding (MoU) concerning the cessation of hostilities. Since the announcement of the MoU and subsequent ceasefire, there has been a decline in the overall intensity of hostilities. However, military activities continue, impacting civilian infrastructure and access to care.
-On 8 July 2026, media reports circulated that the MoU has been rendered ineffective, and a further intensification of hostilities has continued, with airstrikes reported daily. In Lebanon, the security situation remains fragile despite reduced hostilities following a ceasefire announcement, with daily localized military activity reported. Acute health threats include trauma and mass casualty risks, communicable disease risks linked to displacement and overcrowded shelters, rising measles and leishmaniasis in Syria, measles transmission in Jordan, and persistent fuel, power and supply-chain constraints affecting continuity of essential health services.
+--- Report 2: Insecurity Insight (2026-08-17) ---
+Attacks on health care were relentless in 2025. Using data collected by Insecurity Insight, the Safeguarding Health in Conflict Coalition (SHCC) recorded 2,546 incidents in 33 countries in which damage to or the destruction of health care facilities was reported on at least 790 occasions, 455 health workers were killed, 218 kidnapped and 263 arrested.
+In 2025, violence by state actors was reported in 26 countries and territories, an increase of nine compared to 2024. Over 80% of these incidents involved state actors attacking health care outside their own territory, including through cross-border operations or attacks in contested areas. The vast majority of such incidents were attributed to the Israel Defense Forces (IDF) in Iran, Lebanon, the oPt, Syria, and Yemen and to Russian forces in Ukraine. Other state actors linked to attacks on health care outside their own territories included the Bolivarian National Intelligence Service (in Venezuela), the Burundi National Defence Force (in the DRC), the Indian Armed Forces (in Pakistan), Iran’s Islamic Revolutionary Guard Corps (in Israel), the Turkish Armed Forces (in Syria), the US Armed Forces (in Yemen), and the Ukrainian Armed Forces (in Russia).
+The report includes detailed profiles of 21 countries and territories where many acts of violence against health care by state parties and non-state armed groups, including organized criminal groups, took place. These include:
+
+Africa: Burkina Faso, Cameroon, the CAR, the DRC, Ethiopia, Mali, Nigeria, Somalia, South Sudan and Sudan
+Asia: Myanmar and Pakistan
+Middle East and Europe: Lebanon, Iran, the occupied Palestinian territory; Syria, Ukraine and Yemen
+The Americas: Colombia, Haiti and Mexico
+Year in Review: 2025; 2024; 2023
+
+HCC Attacks on Health Care
+This section aligns with the definition of attacks on health care used by the Safeguarding Health in Conflict Coalition (SHCC).
+Africa
+Democratic Republic of the Congo
+23-24 July 2026: In Masisi rural commune, Masisi territory, North Kivu province, pharmacies were forced to close due to clashes between AFC/M23 and Wazalendo fighters. They reopened on 25 July 2026 after security conditions improved. Source: Actualite
+02 August 2026: In Buleusa rural locality, Ikobo groupment, Walikale territory, North Kivu province, an unspecified number of pharmacies were looted of medicines by Wazalendo fighters during a raid on the area around 2300hrs. Actualite
+Publicly reported incidents affecting Ebola response measures in the DRC
+25 July 2026: In Bunia city, Ituri province, doctors, nurses, and security staff at Elikya Ebola Treatment Centre went on strike over two months of unpaid performance bonuses, bringing operations at the facility to a standstill and disrupting Ebola patient care. At around 100 health workers demonstrated outside the treatment centre and suspended work until concrete solutions were provided to resolve the payment dispute. Sources: CBC and Sky News
+27 July 2026: In Bulengera commune, Butembo city, North Kivu province, Zawadi Mapendo Health Post was set on fire by unidentified men following rumours that a health worker was deliberately infecting patients or falsely diagnosing them with Ebola before transferring them to Katwa Ebola Treatment Centre. Sources: Actualite, Radio Okapi and The Telegraph
+28-29 July 2026: In Kavikene locality, Congo ya Sika district, Butembo city, North Kivu province, Crinovic Hospital Centre was set on fire and destroyed by unidentified perpetrators overnight after its director was accused by local residents of killing patients under the pretext of Ebola. Sources: Actualite, Moto TV UAC and The Telegraph
+31 July 2026: In Kyaghala neighbourhood, Butembo city, North Kivu province, a team conducting a safe Ebola burial was obstructed by residents, who demanded that the coffin be opened to verify the identity of the deceased. Several young people subsequently handled the body, disrupting established Ebola safe burial procedures. Source: Congo Quotidien
+01 August 2026: In Cité Belge neighbourhood, Bungulu commune, Beni city, North Kivu province, an ambulance sent to evacuate an Ebola patient was stoned by demonstrators, who broke its windshield. Police fired warning shots to disperse the demonstrators. Sources: Congo Quotidien, MSN and Reuters
+03–04 August 2026: In Bunia city, Ituri province, Ebola response workers staged a protest outside an Ebola treatment centre, calling for the government to pay salaries and allowances that they said were nearly three months overdue. Source: US News
+03–04 August 2026: In Rwampara locality, Irumu territory, Ituri province, Ebola response workers staged a protest outside an Ebola treatment centre, calling for the government to pay salaries and allowances that they said were nearly three months overdue. Source: US News
+03–04 August 2026: In Mongbwalu town, Djugu territory, Ituri province, Ebola response workers staged a protest outside an Ebola treatment centre, calling for the government to pay salaries and allowances that they said were nearly three months overdue. On 04 August, police dispersed the demonstrators after they disrupted activities outside a hospital. Source: US News
+04 August 2026: In Nia Nia village, Mambasa territory, Ituri province, an Ebola treatment centre was pelted with projectiles by a group of young men, prompting police to fire warning shots. Source: Reuters
+Data from Insecurity Insight shows that since the outbreak on 21 May and 04 August 2026, 35 attacks on Ebola response measures have been reported in the DRC. Ebola treatment centres have been attacked and damaged 11 times, including five cases of facilities being deliberately set on fire. In addition, nine response workers have been injured and another 12 kidnapped. Data available on HDX (see dataset Ebola Bundibugyo Virus Disease Crisis Attacks on Health Incident Data).
+SHCC Chapters: EN: 2025; 2024; 2023; 2022; 2021. FR: 2025; 2024; 2023; 2022; 2021
+Ethiopia
+Between 21-25 July 2026: In Lijengus woreda, Dega Damot woreda, West Gojjam zone, Amhara region, an unspecified number of medical clinics were looted by ENDF members. Source: Amhara War Updates
+Mali
+28 July 2026: In Ansongo commune, Gao region, Bara Health Centre was raided by unidentified armed men at around 1900hrs. A nurse was injured during the attack and a tricycle used as an ambulance was stolen. Source: Studio Tamani
+29 July 2026: In Talhandak town, Kidal region, a medical clinic was struck by Shahed suicide drones reportedly operated by the Malian military and the Russian Africa Corps at approximately 0300hrs. One person was killed and another was seriously injured. Source: Personal Communication
+Sudan
+Incident briefs: 22 July-04 August; 08-21 July; 24 June-07 July; 10-23 June; 27 May-09 June; 13-26 May; 29 April-12 May; 15-28 April; 01-14 April; 18-31 March; 04-17 March; 18 February-03 March; 04-17 February; All
+SHCC Chapters: EN: 2025; 2024; 2023; 2022; 2021. AR: 2025; 2024; 2023; 2022; 2021
+Asia
+Myanmar
+Incident briefs: 22 July-04 August; 08-21 July; 24 June-07 July; 10-23 June; 27 May-09 June; 13-26 May; 29 April-12 May; 15-28 April; 01-14 April; 18-31 March; 04-17 March; 18 February-03 March; 04-17 February; All
+SHCC Chapters: EN: 2025; 2024; 2023: 2022; 2021. MY: 2025; 2024; 2023
+Europe
+Ukraine
+22 July 2026: In Oleshky city and urban hromada, Kherson raion and oblast, two ambulances were blown up by a landmine near the central market. The driver of one of the cars was seriously injured in the explosion. He was taken to the Oleshkivska Central District Hospital in extremely serious condition. He later died. Source: Most
+30 July 2026: In Khotimlia village, Chuhuiv raion, Kharkiv oblast, an ambulance was damaged by a Russian drone. Sources: Gwara Media and UA Varta
+03 August 2026: In Kherson oblast, a medical facility and residential buildings were damaged by Russian shelling. Source: Shelter
+04 August 2026: In Zaporizhzhia city, raion and oblast, Zaporizhzhia Regional Children's Clinical Hospital was struck and damaged by Russian aerial bombs. The facade and windows were damaged. Source: RBC
+Using data collected by Insecurity Insight, the Safeguarding Health in Conflict Coalition (SHCC) identified 613 incidents of violence against or obstruction of health care in Ukraine in 2025. Hospitals, including maternity and children’s facilities, pharmacies, and warehouses, were damaged or destroyed by explosive weapons use on 382 separate occasions in 2025. There is strong evidence of cluster munitions having damaged hospitals in at least two cases in Sumska oblast in May and June 2025.4 For example, on May 12, at around 2 a.m., four Russian Tornado missiles armed with cluster munitions struck and damaged a paramedic and obstetrics center, a school, a cultural center, a gas pipeline, and power lines in Mykolaiv settlement.
+SHCC Chapters: EN: 2025; 2024; 2023; 2022. UK: 2025; 2024; 2023
+Middle East and North Africa
+Lebanon
+21 July 2026: In Zawtar al-Sharqiyah municipality, Nabatieh governorate, four members of the Lebanese Red Cross were injured when a landmine from previous conflicts detonated while their convoy was traveling on the Maifdoun-Zawtar road. Source: Big News Network
+25 July 2026: In Al-Awaini neighbourhood, Bint Jbeil city and district, Nabatieh governorate, the Social Affairs Centre, which includes a nursery and a medical clinic, was destroyed by Israeli forces in the morning. Sources: Al Manar and Dearborn
+Occupied Palestinian territory
+Incident briefs: 22 July-04 August; 08-21 July; 24 June-07 July; 10-23 June; 27 May-09 June; 13-26 May; 29 April-12 May; 15-28 April; 01-14 April; 18-31 March; 04-17 March; 18 February-03 March; 04-17 February; All
+SHCC Chapters: AR: 2025; 2024; 2023; 2022; 2021. EN: 2025; 2024; 2023; 2022; 2021
+Yemen
+As reported on 31 July 2026: In Houthi-controlled areas, Houthi authorities obstructed the delivery, transport and distribution of vaccines and immunisation services, disrupting the National Programme on Immunization (NEPI), vaccination campaigns, the movement of health teams, and the activities of humanitarian organisations, thereby restricting children's access to essential vaccines. Sources: Al Jazeera, Erem News and Khabar Agency
+The Americas
+Colombia
+01 August 2026: In San Vicente del Caguán city, Caquetá department, an ambulance belonging to San Rafael Hospital, heading to support the transfer of a pregnant patient, was damaged after it was attacked with stones and set on fire by protestors during riots following the eviction of the Nueva Colombia settlement. Sources: Lente Regional and San Rafael Hospital
+01 August 2026: In Supía town, Caldas department, a doctor was shot and killed at his office by an unidentified armed man at around 0745hrs. The doctor was also a former candidate for the Caldas Assembly for the New Liberal party. Source: Info Bae
+Haiti
+25 July 2026: In Port-au-Prince city and arrondissement, West department, in front of the Peace Hospital, heavily armed gang members intercepted a vehicle and opened sustained live fire in an attempt to abduct a businessman and his father. Sources: CNW and Haiti Libre
+As reported on 27 July 2026: In Port-au-Prince city and arrondissement, West department, as of late July, only 26% of medical facilities in Port-au-Prince were operational due to transit blockades. Moving a patient securely by ambulance between districts has become virtually impossible, forcing families to rely on dangerous commercial motorbike transport. Source: MSF South Asia
+Mexico
+25 July 2026: In Lomas del Country neighbourhood, Guadalajara city, Jalisco state, a private hospital security guard was killed by a group of armed men with knives while working. Source: Imagen Televisión Guadalajara
