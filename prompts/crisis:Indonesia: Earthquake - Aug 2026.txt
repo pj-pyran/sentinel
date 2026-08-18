@@ -1,13 +1,53 @@
 Crisis / situation: Indonesia: Earthquake - Aug 2026
 
---- Report 1: MPBI (2026-08-18) ---
+--- Report 1: IFRC (2026-08-18) ---
+Sources for data marked as Other
+PMI Assessment Team, BNPB
+Description
+A magnitude 7.7 earthquake struck offshore Nagekeo Regency, East Nusa Tenggara Province, on 15 August 2026 at 04:58 WIB. The epicentre was located approximately 30 kilometres northeast of Mbay at a depth of 15 kilometres. The earthquake triggered a tsunami warning, which was lifted at 07:31 WIB after sea-level changes were detected in several coastal areas.
+The earthquake affected seven regencies in East Nusa Tenggara: Manggarai, East Manggarai, West Manggarai, Sikka, Ende, Nagekeo and Ngada. Impacts and displacement were also reported in West Nusa Tenggara and South Sulawesi.
+As of 18 August 2026, 69 people were reported dead and 1,199 injured, including 115 people with serious injuries and 1,084 with minor injuries. A total of 46,252 people remain displaced, including 46,181 people across the seven affected regencies in East Nusa Tenggara and 71 people in Bima Regency, West Nusa Tenggara. Assessment and verification remain ongoing.
+Preliminary damage includes 5,713 houses severely damaged, 2,098 moderately damaged and 3,402 slightly damaged. A further 283 educational facilities, 211 health facilities, 97 government buildings, 96 places of worship and 106 business premises or offices were affected.
+As of 18 August 2026 at 05:00 WIB, BMKG had recorded 2,119 aftershocks ranging from magnitude 1.3 to 6.2. The Larantuka-Maumere road is accessible, while the Ende-Nagekeo road remains cut off by landslides and rock debris. Damaged roads, electricity outages and communication disruptions continue to affect assessments and humanitarian operations.
+Request For Assistance
+Government Requests International Assistance
+No
+NS Requests International Assistance
+No
+Information Bulletin Published
+No
+Actions taken by National Society
+General
+Search &amp; Rescue
+Water &amp; Sanitation
+Food aid
+Health
+Shelter
+Psychosocial support services
+RFL
+Evacuation
+First Aid
+Relief/Supply distribution
+Summary
+The Indonesian Red Cross (PMI) has mobilised 84 personnel, seven operational vehicles, seven ambulances and one water truck to support the response. PMI activities include rapid assessments, evacuation, first aid and health services, establishment of emergency tents, psychosocial support, distribution of relief items, provision of clean water and coordination with local authorities. PMI has distributed 60 food packages, 10 boxes of drinking water, five boxes of instant noodles and five trays of eggs. A total of 5,000 litres of clean water has been distributed, while psychosocial support has reached 147 people. In Ende Regency, PMI also distributed 15 tarpaulins to 72 households or approximately 350 people, provided health services to 70 people and established emergency tents supporting 35 people. PMI National Headquarters allocated an initial operational fund of IDR 146,690,000 and mobilised relief supplies from warehouses in East Nusa Tenggara, West Nusa Tenggara and Serang. The supplies include hygiene kits, blankets, sarongs, mattresses, tarpaulins, mosquito nets, boots, baby kits, kitchen kits, vests and sleeping mats.
+Actions taken by Federation
+General
+Damage/Needs assessment
+Summary
+IFRC has provided initial support through a CHF 100,000 DREF Emergency Advance. IFRC CCD is monitoring and coordinating closely with PMI NHQ for further update from the field and for further support if required.
+Actions taken by others
+The Government of Indonesia, through BNPB, BPBD, Basarnas, the Indonesian Armed Forces, the National Police and local authorities, continues to conduct search and rescue, evacuation, damage and needs assessments, emergency health services, management of displacement sites and relief distribution. Emergency command posts have been activated in several affected regencies. A field hospital has been established in Reok Sub-District, while efforts continue to reopen affected roads and restore electricity and communication networks.
+Planned International Response
+DREF
+
+--- Report 2: MPBI (2026-08-18) ---
 Situation Report
 • Telecommunications services have been restored to 86.02 per cent. According to monitoring by the Ministry of Communications and Digital Affairs as of 16 August at 18:00 WIB, 683 of 794 base transceiver station (BTS) sites across 11 regencies/cities were operational; 111 sites remained out of service. Disruptions included power outages affecting 701 sites and transmission problems affecting 93 sites. Services in Alor, Lembata, and North Central Timor have been fully restored.
 • Manggarai Regional Hospital sustained damage that affected clinical and administrative services. Patients are being treated temporarily in the hospital grounds. BNPB and the Ministry of Health will establish a field hospital at Golo Dukal Stadium in Ruteng. The facility is still being prepared and has not yet been declared operational.
 • MDMC reported that many residents have chosen to remain outside their homes or in open areas because of trauma and concern about continuing aftershocks. Some displaced people are staying in public facilities, including sports halls and open fields, while others have erected emergency tents in the yards around their homes.
 • The Larantuka–Maumere road is open and passable by logistics vehicles. The Ende– Nagekeo road remains completely cut off by landslide debris, and work to clear alternative routes is ongoing. Sections of the Ruteng–Km 210 and Aegela–Ende City roads have been affected by severe landslides. The Government is prioritising the deployment of heavy equipment to these areas.
 
---- Report 2: Human Initiative (2026-08-17) ---
+--- Report 3: Human Initiative (2026-08-17) ---
 EARTHQUAKE INFORMATION
 Time of Incident: Saturday, 15 August 2026, at 04:58:24 WIB (05:58:24 WITA).
 Magnitude: M 7.7 (BMKG / USGS). The earthquake was triggered by an upthrust fault mechanism (Flores Back Arc Thrust) at a shallow depth of 10–15 km. USGS estimates that up to 1.5 million people experienced strong shaking at intensity IV–V MMI across Flores Island to Sumbawa.
@@ -15,7 +55,7 @@ Tsunami Potential &amp; Detection: A tsunami early warning was temporarily activ
 Aftershocks: BMKG recorded at least 54 aftershocks up to 07:30 WIB, with the strongest reaching M 6.1.
 Earthquake Epicentre: Offshore at coordinates 8.41° S – 121.39° E, approximately 30 km northeast of Mbay, Nagekeo Regency, East Nusa Tenggara.
 
---- Report 3: Human Initiative (2026-08-17) ---
+--- Report 4: Human Initiative (2026-08-17) ---
 SITUATION REPORT #2 NAGEKEO EARTHQUAKE, EAST NUSA TENGGARA
 Update: Sunday, 16 August 2026, 07:30 WIB / 08:30 WITA
 
@@ -32,7 +72,7 @@ Based on the latest multi-stakeholder disaster-response coordination as of Sunda
 • East Manggarai Regency: A Regent’s Decree establishes a Disaster Emergency Preparedness Status, effective from 15 August to 4 September 2026.
 • Ngada Regency: A Regent’s Decree establishes a 30-day Earthquake Disaster Emergency Response Status, effective from 15 August to 15 September 2026.
 
---- Report 4: IFRC (2026-08-17) ---
+--- Report 5: IFRC (2026-08-17) ---
 Description
 An earthquake with a magnitude of 7.7 struck the Nagekeo Regency, East Nusa Tenggara (NTT) Province, on Saturday (15/08) at 04:58 WIB. The earthquake occurred at a depth of 15 km, with coordinates located at 8.41 S – 121.39 E, approximately 30 km Northeast of Mbay, Nagekeo Regency.
 The earthquake triggered a tsunami warning. According to BMKG (Meteorology, Climatology, and Geophysics Agency) monitoring, tsunami waves were detected in several areas with sea level heights reaching 0.94 meters in Maurole–Ende, 0.36 meters in Labuan Bajo, 0.38 meters at Kewapante Port–Sikka, and 0.25 meters in East Flores. The tsunami warning was officially lifted at 07:30 WIB.
@@ -78,7 +118,7 @@ The government is currently conducting continuous monitoring, rapid assessments,
 Planned International Response
 DREF: Planned
 
---- Report 5: IFRC (2026-08-17) ---
+--- Report 6: IFRC (2026-08-17) ---
 Description
 A magnitude 7.7 earthquake struck offshore Nagekeo Regency, East Nusa Tenggara Province, on 15 August 2026 at 04:58 WIB. The earthquake occurred at a depth of 15 km, approximately 38 km northeast of Mbay. The tsunami warning issued for several coastal areas was officially lifted by BMKG at 07:31 WIB.
 As of 16 August 2026 at 00:00 WIB, BNPB reported 47 fatalities and 101 injuries. More than 5,000 people remain displaced, including 3,356 people in Sikka, 2,078 in Manggarai, and 500 in Nagekeo. Additional displacement was reported in Bima and the Selayar Islands.
@@ -108,7 +148,7 @@ BNPB, BPBD, Basarnas, the Indonesian Armed Forces, the National Police, local go
 Planned International Response
 DREF: Planned
 
---- Report 6: MPBI (2026-08-17) ---
+--- Report 7: MPBI (2026-08-17) ---
 The NTT Provincial Government has set an emergency response status for 14 days, effective August 15-28, 2026 based on the Decree of the Governor of NTT Number 305/KEP/HK/2026. This status is the basis for resource mobilization and APBD financing for search, health services, IDPs, basic needs, and access and infrastructure recovery. Three districts have also imposed an emergency response period, namely in Manggara, Ngada, and East Manggarai.
 The number of IDPs increased to 9,290 people, based on the BNPB update at 00.00 WIB. The details include 3,356 Sikka people—1,356 in the Samador GOR and 2,000 spread independently in 10 points—Manggarai 2,078 people, and Nagekeo 500 people. The rest are in other regions including Bima City and the Selayar Islands, but details have not been made public
 The earthquake shock was followed by 341 aftershock activities. The number of fatalities recorded to date is 47 people, with the highest death toll in Manggarai Regency with 23 people and East Manggarai with 17 people. Meanwhile, other fatalities were spread across Sikka Regency with 4 people, West Manggarai with 1 person, Ende with 1 person, and Nagekeo with 1 person. At least 101 residents were reported injured with varying degrees of severity.
