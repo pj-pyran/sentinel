@@ -1,15 +1,23 @@
 Crisis / situation: Pakistan
 
---- Report 1: WFP (2026-08-19) ---
+--- Report 1: IOM (2026-08-19) ---
+About Flow Monitoring
+The International Organization for Migration (IOM) Pakistan’s FM provides key insights into cross-border migration trends, returning Afghan nationals to Afghanistan, including their profiles, mobility patterns, routes, vulnerabilities, demographics and other social characteristics. Between 16 and 31 July 2026, DTM border monitors (BMs) interviewed 3,585 heads of households through a Flow Monitoring Registry (FMR) form, while a total of 52,975 Afghan returnees were identified through the five border crossing points (BCPs). For more information on FM methodology, see page 5.
+Highlights
+• Cumulatively, from 15 September 2023 to 31 July 2026, 2,652,720 individuals have returned.
+• During the reporting period, the number of returns and deportations did not change significantly compared to the previous reporting period (1–15 July 2026). Returns decreased by 1 per cent and deportations increased by 16 per cent. • Since 1 April 2025, 1,798,687 Afghan nationals returned, of which 224,335 (12%) were deported.
+• Fear of arrest (96%) remained the most important reason among respondents to return to Afghanistan.
+
+--- Report 2: WFP (2026-08-19) ---
 The national average prices of staple foods (wheat flour, edible oils, and pulses) have gradually increased in recent weeks and were 12 percent higher during the week ended on 13 August compared with pre-Middle East crisis levels.
 Wheat flour prices remained unchanged during the week ended on 13 August compared with the previous week - indicating short-term price stability in local markets.
 The cost of the basic food basket stands at PKR 16,965 per month (USD 61), equivalent to PKR 4,241 per week (USD 15) nationwide, excluding lower cost items such as vegetables or spices.
 Fuel prices decreased during the reporting week, with petrol prices decreased by 2 percent while HSD decreased by 0.3 percent. Despite this reduction,fuel prices remain significantly above pre-crisis levels, with petrol prices 26 percent higher and HSD prices 39 percent higher than before the Middle East crisis.
 
---- Report 2: Govt. Pakistan (2026-08-19) ---
+--- Report 3: Govt. Pakistan (2026-08-19) ---
 No summary available.
 
---- Report 3: WFP (2026-08-18) ---
+--- Report 4: WFP (2026-08-18) ---
 505,000 people assisted in July 2026 (66% female)
 2,287 mt of food distributed USD 243,000 cash transferred
 USD 35.9M (August 2026 – January 2027) net funding requirements
