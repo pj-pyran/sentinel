@@ -1,9 +1,15 @@
 Crisis / situation: Pakistan
 
---- Report 1: Govt. Pakistan (2026-08-19) ---
+--- Report 1: WFP (2026-08-19) ---
+The national average prices of staple foods (wheat flour, edible oils, and pulses) have gradually increased in recent weeks and were 12 percent higher during the week ended on 13 August compared with pre-Middle East crisis levels.
+Wheat flour prices remained unchanged during the week ended on 13 August compared with the previous week - indicating short-term price stability in local markets.
+The cost of the basic food basket stands at PKR 16,965 per month (USD 61), equivalent to PKR 4,241 per week (USD 15) nationwide, excluding lower cost items such as vegetables or spices.
+Fuel prices decreased during the reporting week, with petrol prices decreased by 2 percent while HSD decreased by 0.3 percent. Despite this reduction,fuel prices remain significantly above pre-crisis levels, with petrol prices 26 percent higher and HSD prices 39 percent higher than before the Middle East crisis.
+
+--- Report 2: Govt. Pakistan (2026-08-19) ---
 No summary available.
 
---- Report 2: WFP (2026-08-18) ---
+--- Report 3: WFP (2026-08-18) ---
 505,000 people assisted in July 2026 (66% female)
 2,287 mt of food distributed USD 243,000 cash transferred
 USD 35.9M (August 2026 – January 2027) net funding requirements
