@@ -1,6 +1,13 @@
 Crisis / situation: Nigeria
 
---- Report 1: IFRC (2026-08-18) ---
+--- Report 1: IFRC (2026-08-19) ---
+Description
+On Thursday, 13th August 2026, Anambra State experienced prolonged and heavy rainfall that commenced at approximately 3:30am and continued through the evening. The sustained intensity and duration of the rainfall caused severe flooding across several parts of the state, with Obosi Community among the most significantly affected locations.
+The accumulated floodwater in Obosi Community eventually triggered a major landslide, cutting off an affected road and severely disrupting movement within the area. Houses in close proximity to the landslide and flooded zones sustained partial damage, and road access was completely severed at the point of the landslide. The Nigerian Red Cross Society Anambra State Branch deployed its Disaster Management team to conduct a rapid assessment of the affected community immediately following the incident.
+Although no deaths or injuries were recorded at the time of assessment, the situation poses a significant ongoing safety risk to residents, road users and surrounding structures, particularly in the event of further rainfall. The landslide area remains unstable, with continued risk of further ground movement, possible damage to additional structures and restricted access threatening the safety of the affected population. Approximately 350 persons are affected and approximately 15 houses have been partially damaged.
+Anambra State is identified in the NIHSA 2026 Annual Flood Outlook among the high-risk states for the current rainy season, with communities along river corridors and low-lying areas at particular risk. The combination of flash flooding and landslide activity in Obosi reflects the compounded hazard profile of communities in the state during the July to September peak flood period.
+
+--- Report 2: IFRC (2026-08-18) ---
 Description
 Sustained and heavy rainfall across Ondo State beginning in early August 2026 has triggered widespread riverine and urban flooding across at least seven Local Government Areas in the state, inundating homes, submerging roads and bridges, destroying property and displacing large numbers of residents. The flooding is ongoing and worsening, with multiple communities in the riverine south of the state particularly severely affected as water levels continue to rise.
 The situation in Ilaje Local Government Area is the most critical. Igbokoda community in Ilaje LGA, including the Naval Base in Igbokoda and the council headquarters, has been submerged. Displaced residents have been observed sleeping under improvised shelters by the roadside, while others have sought refuge with friends and relatives in other LGAs. The Nigerian Red Cross Society Ondo State Branch has formally recommended to the Ondo State Government that an urgent IDP camp be established in a safe LGA to accommodate the displaced population. In Okitipupa LGA, communities including Ayeka, Ikoya, Igbodigo, Igbotako, Erinje, Kuneyin and Apata have been severely affected, with homes and commercial premises submerged, bridges destroyed and movement restricted. Properties worth millions of naira have been lost.
@@ -29,7 +36,7 @@ Planned International Response
 DREF: Planned
 Emergency Appeal: Planned
 
---- Report 2: IFRC (2026-08-17) ---
+--- Report 3: IFRC (2026-08-17) ---
 Description
 In the early hours of Wednesday, 13 August 2026, between approximately 4:42am and 8:39am, a heavy downpour struck Lafia, the capital of Nasarawa State, triggering severe urban flooding across four communities in Lafia Local Government Area: Bukansidi, Millionaires Quarters, Sadaji Junction/Police B Division and the Makurdi Road/Local Government Secretariat area. The intense and sustained rainfall overwhelmed the area’s inadequate drainage infrastructure, causing floodwaters to inundate residential buildings, damage essential public facilities and disrupt livelihoods.
 In total, 37 houses were destroyed across the four affected communities, with further damage reported to household property, non-food items and furniture workshops in the affected areas. Many furniture workshops and businesses along the flooded streets sustained significant losses. Floodwaters also caused heavy traffic disruption across Lafia metropolis. A total of 307 persons were displaced by the flooding and are currently sheltering in host communities within Lafia LGA.

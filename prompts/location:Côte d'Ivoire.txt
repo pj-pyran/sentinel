@@ -1,18 +1,14 @@
 Crisis / situation: Côte d'Ivoire
 
---- Report 1: WFP (2026-06-24) ---
+--- Report 1: WFP (2026-08-18) ---
 SITUATION OVERVIEW
-• According to the October 2025 Cadre Harmonisé projections, over 1.3 million people will face acute food insecurity (Phases 3-4) between June and August 2026, with an additional 3.9 million in Phase 2 —representing a 43 percent increase compared to 2025. In Tchologo and Bounkani regions, over 150,000 people (13 percent of total population) are acutely food insecure, a 36 percent increase from 2025.
-• As of April 2026, the country hosts 82,789 forcibly displaced people, primarily from Burkina Faso, Mali and Ghana. This includes 74,623 refugees, 2,608 asylum seekers and 5,558 people not yet registered. Women and children represent 79 percent of this population. Around 82 percent of refugees live in host communities and 18 percent reside in two transit sites.
+• Despite strong economic growth, with GDP projected to grow by around 6 percent in 2026, Côte d’Ivoire continues to face food security and nutrition challenges, with over 1.3 million acutely food insecure people and an additional 3.9 million at risk. Among children under five, 21.4 percent are stunted, while anaemia affects 68 percent of children. Despite a relatively low national global acute malnutrition (GAM) rate of 3.7 percent, significant regional disparities persist, with higher rates recorded in the Savanes (6.7 percent), Abidjan (6.3 percent) and Vallée du Bandama (4 percent) districts. The country hosts nearly 83,000 refugees and asylum seekers who have fled insecurity in Burkina Faso and Mali.
+• WFP supports national efforts to address food insecurity, malnutrition and humanitarian needs, particularly in northern regions hosting refugees and vulnerable communities.
+• Beyond direct implementation, WFP strengthens national systems and capacities to advance sustainable, government-led solutions.
 
---- Report 2: WFP (2026-06-23) ---
-KEY HIGHLIGHTS
-• WFP trained staff of its cooperating partner CIAUD on socio‑economic data collection and needs‑based targeting, with data collection initiated for newly arrived refugees in northern regions.
-• WFP conducted participatory planning for Food for Assets (FFA) activities, enabling communities to develop locally driven action plans for early recovery.
+--- Report 2: WFP (2026-08-18) ---
 SITUATION OVERVIEW
-• Côte d’Ivoire achieved rapid economic growth over the past decade; however, poverty, food insecurity and malnutrition remain widespread.
-• As per the October 2025 Cadre Harmonisé, over 1 million people faced acute food insecurity (Phases 3–4) between Oct-Dec 2025, with 3.3 million more in Phase 2—a 49 percent increase from the same period in 2024. This deterioration reflects market volatility, climate variability, and localized insecurity, particularly in border areas. In Tchologo and Bounkani regions, 121,957 people were acutely food insecure in late 2025 (10 percent of total population), projected to reach 150,228 people by mid‑2026 (47 percent increase from 2024).
-• 21.4 percent of children under five suffer from chronic malnutrition (SMART 2025), and about 70 percent suffer from anemia.
-• As of February 2026, the country hosts 82,786 forcibly displaced people, primarily from Burkina Faso, Mali and Ghana. This includes 74,620 refugees, 2,608 asylum seekers and 5,558 people not yet registered. Women and children represent 79 percent of this population, including 46 percent of school‑age children. Most refugees (82 percent) live in host communities, while 18 percent reside in the Niornigué and Timala transit sites in the north.
-• The 2025 Emergency Food Security Assessment found that 41 percent of refugee households and 29 percent of host community households are moderately to severely insecure.
-• WFP supports the Government in strengthening food systems, improving nutrition outcomes and expanding access to school meals.
+• Despite strong economic growth (GDP projected to grow by around 6 percent in 2026), Côte d’Ivoire continues to face food security and nutrition challenges.
+• According to the October 2025 Cadre Harmonisé projections, over 1.3 million people face acute food insecurity (Phases 3-4) between June and August 2026, with an additional 3.9 million at risk (Phase 2), representing a 43 percent increase compared to 2025. In Tchologo and Bounkani regions, over 150,000 people (13 percent of the population) are acutely food insecure, a 36 percent increase from 2025.
+• Among children under five, 21.4 percent are stunted and 68 percent suffer from anaemia. Despite a low national Global Acute Malnutrition (GAM) rate of 3.7 percent, significant regional disparities persist, particularly in the Savanes (6.7 percent), Abidjan (6.3 percent) and Vallée du Bandama (4 percent) districts.
+• According to UNHCR’s June 2026 statistics, the country hosts 93,266 forcibly displaced people, primarily from Burkina Faso, Mali and other neighbouring countries with 82 percent of refugees living in host communities and 18 percent residing in two transit sites. This includes 80,162 refugees, 3,443 asylum seekers and 9,661 people not yet registered. Women and children represent 79 percent of this population.

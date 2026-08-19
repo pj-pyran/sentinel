@@ -1,15 +1,14 @@
 Crisis / situation: South Sudan
 
---- Report 1: Logistics Cluster (2026-08-14) ---
-Background
-South Sudan continues to face a complex humanitarian crisis driven by conflict, climate-related shocks, disease outbreaks, displacement, food insecurity and economic deterioration. Access to affected communities remains constrained by poor road conditions, seasonal flooding, and limited transport infrastructure. In this context, the WFP-led Logistics Cluster continues to enable humanitarian operations through logistics coordination, information management, capacity strengthening and common transport services, including air, river and road transport to hard-to-reach and priority locations.
-Operational Highlights
-• During the reporting period, the Logistics Cluster facilitated the transportation of 3,077 MT of humanitarian cargo, supporting 43 organizations and reaching 37 destinations across South Sudan.
-• Road transport accounted for 46 percent of the cargo moved, followed by river transport at 39 percent and air transport at 15 percent.
-• The Cluster coordinated eight humanitarian road convoys delivered approximately 1,417 MT of multisectoral supplies.
-• The Logistics cluster completed 31 service requests, enabling partners to deliver critical assistance to priority and hard-to-reach locations.
-• The Logistics Cluster supported the Unity State cholera response in Leer, Mayendit and Mayom by facilitating the transport of 30.2 MT of emergency relief cargo.
+--- Report 1: IOM (2026-08-19) ---
+South Sudan is currently facing a severe humanitarian crisis characterised by extensive internal displacement. The underlying causes of these displacement dynamics are varied and include communal clashes, land disputes, insecurity, violence, and disasters. The situation is further complicated by the ongoing conflict in neighbouring Sudan, which has led to increased cross-border movements, and an influx of refugees and returnees, straining already limited resources.
 
---- Report 2: WFP (2026-08-13) ---
-KEY MESSAGES
-• The average cost of the food basket declined slightlyweek-on-week, driven by a sharp drop in prices in Eastern Equatoria due to improved cereal supply, particularly in Kapoeta, where reduced rainfall-related access constraints enabled higher imports through the Ikotos corridor.
+--- Report 2: OCHA (2026-08-17) ---
+HIGHLIGHTS
+
+Humanitarian response expands in Jonglei State after local authorities provide access assurances.
+An Inter-Cluster Coordination Group mission to Akobo West Payam finds more than 35,000 conflict-affected people in critical need of humanitarian assistance.
+Critical funding shortfalls threaten life-saving food, nutrition and other assistance for more than 650,000 refugees and asylum seekers in South Sudan.
+The Humanitarian Coordinator visits Yambio town to assess Ebola preparedness measures, health services and the humanitarian response.
+At least 60 people killed and dozens injured during intercommunal violence in Tonj North County, Warrap State, on 9 August.
+Humanitarian partners begin preparations for the 2027 Humanitarian Programme Cycle.
