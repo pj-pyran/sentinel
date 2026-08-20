@@ -1,9 +1,12 @@
 Crisis / situation: Pakistan
 
---- Report 1: Govt. Pakistan (2026-08-20) ---
+--- Report 1: UNHCR (2026-08-20) ---
 No summary available.
 
---- Report 2: Islamic Relief (2026-08-20) ---
+--- Report 2: Govt. Pakistan (2026-08-20) ---
+No summary available.
+
+--- Report 3: Islamic Relief (2026-08-20) ---
 BACKGROUND
 Pakistan continues to face significant and interconnected challenges arising from economic instability and climate-related disasters. The country is recognized as one of the world's most vulnerable nations to disasters, ranking 18th out of 191 countries in the INFORM Risk Index due to its high exposure to hazards, underlying vulnerabilities, and limited capacity to respond and recover. Over the last decade, disasters have caused losses exceeding USD 18 billion, placing considerable pressure on the economy and hindering sustainable development and growth.
 Pakistan's 2026 monsoon season commenced on 26 June 2026 and is expected to continue until mid-September 2026. According to the National Disaster Management Authority (NDMA), seasonal rainfall is projected to be 22–26% higher than last year, with risks further intensified by accelerated melting of the country's more than 7,000 glaciers. While the latest NDMA situation reports indicate a cumulative death toll of 161, considerably lower than at the same stage of the devastating 2022 and 2025 monsoon seasons, the situation has worsened significantly over the past 12 days. In response to rising water levels, NDMA and Provincial Disaster Management Authorities (PDMAs) have upgraded their warnings from advisories to active flood alerts. Evacuation measures have already been initiated in vulnerable riverine and low-lying communities. Current casualty and impact figures should therefore be viewed as preliminary, reflecting an ongoing and increasingly severe monsoon season rather than its final outcome.
@@ -13,7 +16,7 @@ Balochistan: Northeastern and eastern districts of Balochistan are experiencing 
 Sindh: Most districts of Sindh are experiencing hot and humid conditions with occasional cloudy periods. Isolated windstorms and thunderstorms may occur in eastern areas and coastal districts, posing localized risks. Our teams remain active and prepared in Karachi, Thatta, Sujawal, Mirpurkhas, Larkana, and Dadu districts, closely monitoring the situation and ready to provide timely support and assistance as needed.
 AJK &amp; Gilgit-Baltistan: Mountainous areas of AJK and GB are experiencing cloudy conditions with intermittent rainfall, thunderstorms, and gusty winds at isolated locations. Steep slopes and vulnerable hilly routes remain exposed to localized landslides, mudslides, and rapid surface runoff. Our teams are closely monitoring the situation and maintaining coordination with local authorities to support emergency response efforts if required.
 
---- Report 3: IOM (2026-08-19) ---
+--- Report 4: IOM (2026-08-19) ---
 About Flow Monitoring
 The International Organization for Migration (IOM) Pakistan’s FM provides key insights into cross-border migration trends, returning Afghan nationals to Afghanistan, including their profiles, mobility patterns, routes, vulnerabilities, demographics and other social characteristics. Between 16 and 31 July 2026, DTM border monitors (BMs) interviewed 3,585 heads of households through a Flow Monitoring Registry (FMR) form, while a total of 52,975 Afghan returnees were identified through the five border crossing points (BCPs). For more information on FM methodology, see page 5.
 Highlights
@@ -21,19 +24,19 @@ Highlights
 • During the reporting period, the number of returns and deportations did not change significantly compared to the previous reporting period (1–15 July 2026). Returns decreased by 1 per cent and deportations increased by 16 per cent. • Since 1 April 2025, 1,798,687 Afghan nationals returned, of which 224,335 (12%) were deported.
 • Fear of arrest (96%) remained the most important reason among respondents to return to Afghanistan.
 
---- Report 4: WFP (2026-08-19) ---
+--- Report 5: WFP (2026-08-19) ---
 The national average prices of staple foods (wheat flour, edible oils, and pulses) have gradually increased in recent weeks and were 12 percent higher during the week ended on 13 August compared with pre-Middle East crisis levels.
 Wheat flour prices remained unchanged during the week ended on 13 August compared with the previous week - indicating short-term price stability in local markets.
 The cost of the basic food basket stands at PKR 16,965 per month (USD 61), equivalent to PKR 4,241 per week (USD 15) nationwide, excluding lower cost items such as vegetables or spices.
 Fuel prices decreased during the reporting week, with petrol prices decreased by 2 percent while HSD decreased by 0.3 percent. Despite this reduction,fuel prices remain significantly above pre-crisis levels, with petrol prices 26 percent higher and HSD prices 39 percent higher than before the Middle East crisis.
 
---- Report 5: Govt. Pakistan (2026-08-19) ---
+--- Report 6: Govt. Pakistan (2026-08-19) ---
 No summary available.
 
---- Report 6: Govt. Pakistan (2026-08-18) ---
+--- Report 7: Govt. Pakistan (2026-08-18) ---
 No summary available.
 
---- Report 7: WFP (2026-08-18) ---
+--- Report 8: WFP (2026-08-18) ---
 505,000 people assisted in July 2026 (66% female)
 2,287 mt of food distributed USD 243,000 cash transferred
 USD 35.9M (August 2026 – January 2027) net funding requirements
