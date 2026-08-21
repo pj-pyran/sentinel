@@ -1,30 +1,23 @@
 Crisis / situation: Sierra Leone
 
---- Report 1: WFP (2026-05-24) ---
+--- Report 1: WFP (2026-08-20) ---
 KEY HIGHLIGHTS
-
-African Day of School Feeding celebrations highlighted the importance of school meals for nutrition, clean water, hygiene, and supporting vulnerable communities.
-WFP strengthened community-led environmental governance and livelihoods through new Community Based Organizations under the EU Nature Nourishes project.
-Through assessments, WFP identified communities to implement nutrition and agriculture support.
-
+• WFP completed 207 school kitchens and stores, improving safe meal preparation and storage, with fuel-efficient stove installation planned across five districts.
+• WFP formalized a Technical Service Agreement with Sierra Leone Agricultural Research Institute (SLARI) to support soil testing, technical assistance and improved seed supply for sustainable crop and vegetable production.
 SITUATION OVERVIEW
+• Sierra Leone’s humanitarian needs remain driven by chronic poverty, economic fragility, high food insecurity and climate-related shocks. Although inflation has eased from previous peaks, rising fuel costs and food prices continue to strain household purchasing power.
+• The July 2025 Food Security Monitoring System survey reported a decline in the proportion of severely food insecure households by more than half—from 28 percent in 2023 to 13 percent in July 2025—representing a 15-percentage point reduction.
+• Since late February 2026, there has been a 40 percent increase in diesel and 23 percent increase in petrol, driven by external factors.
+• WFP’s new Country Strategic Plan 2026-2030 reflects a sharpened strategic focus on food systems, home-grown school feeding, nutrition, resilient livelihoods, women’s economic empowerment and youth opportunities. WFP’s response is increasingly centered on strengthening nationally led systems, while retaining the capacity to respond to shocks, including climate-related disasters, public health emergencies and seasonal food insecurity.
 
-Sierra Leone’s humanitarian needs are driven by chronic poverty (54–56 percent poor), economic fragility, and high food prices amid persistent inflation.
-Climate shocks affecting rain-fed agriculture deepen vulnerability, especially in rural areas.
-Despite political stability, limited fiscal space constrains response. As a result, 78 percent of people are food insecure, 13 percent severely, while malnutrition persists with 26 percent of children under 5 suffering from stunting, disproportionately affecting poor households.
-However, the July 2025 Food Security Monitoring System survey reported a decline in the proportion of severely food insecure households by more than half—from 28 percent in 2023 to 13 percent in July 2025—representing a 15 percentage point reduction.
-Women, girls, children, persons with disabilities, and rural households in Sierra Leone face heightened risks from gender-based violence, child marriage, poverty, food insecurity, limited services, climate shocks, and unequal access to education, health, and livelihoods.
-
---- Report 2: WFP (2026-05-24) ---
-KEY HIGHLIGHTS
-
-Technical inception meeting convened for the EU-funded Strengthened Agricultural Value Chain through Infant Nutrition for Growth project.
-Term three food was dispatched to more than 1,200 schools across five districts while construction of 264 school kitchens was completed ahead of installation of energy efficient stoves.
-Three Forest-Edge Development Organizations formed for biodiversity conservation.
-
-SITUATION OVERVIEW
-
-Sierra Leone’s humanitarian needs are driven by chronic poverty (54–56 percent poor), economic fragility, and high food prices amid persistent inflation. Climate shocks affecting rain-fed agriculture deepen vulnerability, especially in rural areas.
-Despite political stability, limited fiscal space constrains response. As a result, 78 percent of people are food insecure, 13 percent severely, while malnutrition persists with 26 percent of children under 5 suffering from stunting, disproportionately affecting poor households.
-However, the July 2025 Food Security Monitoring System survey reported a decline in the proportion of severely food insecure households by more than half—from 28 percent in 2023 to 13 percent in July 2025—representing a 15-percentage point reduction.
-During the first quarter of 2026, the price of the staple rice in Sierra Leone showed mixed trends. The price of local rice increased in several districts, especially in Kailahun, due to seasonal supply constraints and higher fuel prices. Whereas the price of Imported rice recorded slight increases (5 percent) in March 2026 compared to February 2026 because of external market pressures.
+--- Report 2: IFRC (2026-08-19) ---
+Description of the Event
+Date of event 08-03-2026
+What happened, where and when?
+On the night of 3 August 2026, Freetown experienced approximately six consecutive hours of exceptionally heavy rainfall, triggering widespread flash flooding, severe soil erosion, and multiple slope and structural failures across several densely populated urban and peri-urban communities. The most severely affected areas included Portor Community (Juba Hills), Metchem Community, 44 Femi Turner Drive (Goderich), Regent Road-Lumley, Bonga Town, and settlements along the Cain Water Stream, where floodwaters rapidly inundated homes, businesses, and critical community infrastructure.
+The intensity and duration of the rainfall overwhelmed drainage systems and exceeded the absorption capacity of flood-prone low-lying areas and hillside settlements. The resulting flash floods caused extensive destruction of homes, public infrastructure, and community assets, while saturated soils triggered erosion, retaining wall failures, and structural collapses in several locations. As the event occurred overnight, many residents had little time to evacuate or protect their belongings, contributing to fatalities, injuries, displacement, and significant losses of household assets and livelihoods.
+While flooding is a recurrent seasonal hazard in Sierra Leone, the August 2026 floods were exceptional in both scale and impact and exceeded the level of localized flooding typically experienced during the rainy season. Freetown has not experienced a flood emergency of this magnitude since 2022, largely due to sustained investments in drainage improvements, environmental management initiatives, and other flood mitigation measures implemented by the Government and its partners. However, the intensity of the rainfall on 3 August 2026 exceeded the capacity of existing mitigation measures and generated humanitarian impacts far beyond normal seasonal flooding patterns.
+The severity of the event was amplified by its impact on densely populated urban and hillside communities, where high population concentrations, vulnerable housing conditions, and proximity to waterways significantly increased exposure to flood hazards. Unlike the localized flooding commonly experienced during the rainy season, this event affected 1,763 families (8,915 people), damaged or flooded more than 700 houses, including over 300 houses in Portor Community alone, caused four fatalities, displaced thousands of people, contaminated 18 community boreholes, damaged a community school, and disrupted livelihoods and access to essential services. The scale and concentration of impacts demonstrate that this event exceeded normal seasonal flooding patterns and overwhelmed the coping capacities of affected households and communities.
+Rapid assessments conducted by the National Disaster Management Agency (NDMA), the Sierra Leone Red Cross Society (SLRCS), and partners confirmed extensive humanitarian impacts across the affected communities, including loss of life, displacement, damage to critical infrastructure, livelihood disruption, and heightened public health risks arising from contaminated water sources and deteriorating environmental conditions.
+The crisis has been further compounded by continuous rainfall across Freetown and other parts of Sierra Leone from 4 to 7 August 2026, which has caused additional flooding in other communities and continues to increase pressure on drainage systems, waterways, and unstable slopes. Persistent rainfall has maintained high levels of soil saturation, increasing the risk of further flash flooding, erosion, and localized landslides. As a result, communities already affected remain highly vulnerable, while additional communities across Freetown and other districts face an elevated likelihood of flooding as the rainy season continues.
+As of the time of the DREF request, affected households continue to face urgent humanitarian needs, including safe water, sanitation services, shelter support, essential household items, health services, protection assistance, and livelihood recovery. With 8,915 people affected, more than 700 homes damaged or flooded, four confirmed fatalities, contamination of critical water sources, and continued heavy rainfall across the country, the scale of humanitarian needs exceeds the coping capacities of affected communities and available local response resources. Immediate humanitarian assistance is required to save lives, alleviate suffering, prevent further deterioration of living conditions, and reduce the risk of additional losses during the remainder of the rainy season.

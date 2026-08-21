@@ -1,12 +1,19 @@
 Crisis / situation: Colombia: Earthquake - Aug 2026
 
---- Report 1: CESVI (2026-08-20) ---
+--- Report 1: EHP Colombia (2026-08-21) ---
+This Flash Update is produced by OCHA Colombia based on inputs from humanitarian partners and official reports. Information is current as of 20 August, 8 p.m.
+
+The earthquake has affected more than 282,700 people and 153,300 households, resulting in 319 fatalities and the destruction of more than 31,400 homes. The emergency has also damaged critical infrastructure, including educational facilities, health centres, water supply systems and community spaces, further exacerbating humanitarian needs.
+The national Government, local authorities and humanitarian partners continue to deliver a sectoral response that includes search and rescue operations, physical and mental health services, access to water, humanitarian assistance and the operation of temporary shelters, with particular attention to the most affected departments.
+Given the scale of the crisis, a State of Emergency was declared in 15 departments, and humanitarian planning was strengthened through the 2026 Humanitarian Needs and Response Plan (HNRP) Addendum. In addition, more than US$40 million has been mobilized to complement response and recovery efforts for affected communities.
+
+--- Report 2: CESVI (2026-08-20) ---
 OPERATIONAL CONTEXT
 378 Missing persons 13,077 Homes destroyed Colombia is facing a large-scale humanitarian emergency following the 7.4 magnitude earthquake that struck San José del Palmar, Chocó, on 10 August. The earthquake and subsequent aftershocks have affected hundreds of municipalities across western Colombia. Damage to infrastructure is extensive, as 2,486 educational facilities, 238 health centres and 16 water systems have been affected.ii
 The most severe impacts are concentrated in Valle del Cauca, Chocó, Risaralda and Caldas, although damage extends across a much wider area of the country. Thousands of homes have been damaged or destroyed, leaving affected households in need of shelter and basic assistance. Disruptions to electricity, water supply, healthcare and connectivity are restricting access to essential services, while damage to transport infrastructure is compounding the isolation of remote communities and complicating the delivery of assistance.
 The full scale of humanitarian needs is still emerging, particularly in harder-to-reach communities, as significant information gaps persist.iii CESVI’s ongoing rapid needs assessment is providing an increasingly comprehensive picture of the scale and severity of needs across the communities assessed,iv with findings highlighting significant and overlapping impacts on housing, livelihoods, protection and psychosocial wellbeing:
 
---- Report 2: WFP (2026-08-19) ---
+--- Report 3: WFP (2026-08-19) ---
 KEY HIGHLIGHTS
 • 7.4-magnitude earthquake struck western Colombia on 10 August, prompting the Government to declare a National Disaster Situation and activate a national response through the National Unit for Disaster Risk Management (UNGRD) and the Unified Command Post (PMU).
 • As of 17 August, authorities reported 292,043 people affected, 304 fatalities, 4,548 injured people and 426 missing people across 472 municipalities in 15 departments, with the most severe impacts in Valle del Cauca, Risaralda, Chocó and Caldas.
