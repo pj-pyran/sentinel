@@ -1,6 +1,20 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: ETC (2026-08-19) ---
+--- Report 1: IMC (2026-08-20) ---
+FAST FACTS
+
+On June 24, two earthquakes of magnitude 7.2 and 7.5 hit northern Venezuela less than one minute apart, impacting at least seven states—including the capital Caracas and the neighboring city of La Guaira.
+Official figures have confirmed 6,301 fatalities, 6,462 people rescued and 73,356 people who have received hospital care following the quakes.
+Priority needs include healthcare services, clean water, food, mental health and psychosocial support (MHPSS), adequate sanitation and hygiene facilities, protection support and shelter.
+
+OUR RESPONSE
+
+International Medical Corps has deployed three mobile medical units (MMUs), which have provided 4,217 consultations since July 1.
+On July 11, International Medical Corps opened an Emergency Medical Team (EMT) Type 1 Fixed facility to provide free medical services to impacted communities. To date, we have provided 4,645 consultations through the EMT.
+Our teams have delivered 530,000 liters of safe water across displacement sites.
+Our teams have provided 808 MHPSS consultations.
+
+--- Report 2: ETC (2026-08-19) ---
 This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
 Summary Points
 
@@ -8,29 +22,3 @@ LTC Telecoms continues to support the earthquake response through coordinated in
 At the request of the Ministry of Health, a joint assessment of 15 health centres in La Guaira began on 13 August to identify infrastructure, electricity and connectivity constraints and inform recovery priorities.
 As Venezuela transitions from emergency response to recovery and reconstruction, LTC Telecoms and partners are gradually scaling down activities, and planning for transition of functions to national
 institutions while reviewing future support requirements.
-
---- Report 2: IOM (2026-08-18) ---
-Situation Report No. 23 provides an update on IOM’s response to the 24 June 2026 earthquakes in the Bolivarian Republic of Venezuela, covering the period from 14 to 17 August 2026.
-Highlights
-
-Heavy rainfall affected infrastructure and services in the César Nieves, Mare Abajo, Campo de Golf and José María Vargas temporary accommodation sites, generating additional needs related to drainage, site rehabilitation and flood mitigation.
-IOM strengthened camp coordination and camp management across the four temporary accommodation sites under its management, including beneficiary registration updates, needs assessments and planning for household-level surveys to strengthen evidence-based response activities.
-Humanitarian operations continued adapting to changes in camp management and service delivery, including adjustments in food assistance, protection, health and community support activities to maintain operational continuity.
-
-IOM Activities
-IOM continued camp coordination and camp management activities in Mare Abajo, Campo de Golf, José María Vargas and César Nieves, including beneficiary registration updates, infrastructure assessments and coordination of mitigation measures following heavy rainfall. IOM also maintained information management activities and population verification exercises to support operational planning and service delivery.
-Through its shelter and essential item response, IOM has delivered 5,887 kitchen sets, 8,907 plastic tarpaulins, 4,500 collapsible jerrycans, 3,612 hygiene items, 5,000 buckets, 2,802 mosquito nets and 4,217 emergency shelter kits, reaching more than 15,500 people affected by the earthquakes.
-In WASH, IOM continued ensuring access to safe drinking water in Campo de Golf through the site's water treatment plant and coordinated with sector partners on water supply, sanitation improvements, water-quality monitoring and hygiene promotion activities. Following rainfall impacts, assessments and mitigation measures were undertaken to address drainage and sanitation challenges in affected sites.
-In health, IOM and implementing partner Ven Da Tu Mano continued providing primary health care and mental health services through mobile teams in temporary accommodation sites. Activities included medical consultations, referrals for specialized care, follow-up of chronic conditions and monitoring of communicable diseases.
-IOM also continued protection activities through case management, referrals and coordination with specialized actors, while maintaining community information activities and follow-up of protection concerns in temporary accommodation sites.
-IOM Planned Response
-
-Continue monitoring rainfall-related impacts and support rehabilitation, site improvement and risk mitigation measures in temporary accommodation sites.
-Maintain beneficiary registration updates, household-level assessments and information management activities to support evidence-based response planning.
-Continue coordinating water supply, sanitation, hygiene promotion and infrastructure improvements in collaboration with WASH partners.
-Maintain mobile health and mental health services and strengthen referral pathways for specialized care, diagnostic services and chronic disease management.
-Strengthen protection case management, referral mechanisms and technical coordination platforms in temporary accommodation sites.
-Continue integrating Prevention of Sexual Exploitation and Abuse (PSEA) measures into humanitarian activities and coordination mechanisms while promoting safe reporting channels.
-
---- Report 3: Good Neighbors International (2026-08-18) ---
-Following the devastating 7.2 and 7.5 magnitude earthquakes that struck Venezuela on June 24, 2026, affecting 6.76 million people, Good Neighbors in partnership with The Wayuu Taya Foundation and Prepara Familia has completed its initial emergency response phase. Over one month, GN and its implementing partners has reached 34,455 families (123,306 individuals) with food packs, hygiene kits, shelter materials, and psychosocial support services. The organization is now transitioning to early recovery efforts, including WASH projects, medical supplies distribution, and ongoing mental health interventions for affected communities.
