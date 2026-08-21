@@ -1,53 +1,27 @@
 Crisis / situation: Central African Republic
 
---- Report 1: OCHA (2026-07-30) ---
+--- Report 1: OCHA (2026-08-21) ---
 HIGHLIGHTS
 
-Suspension of movements along road corridors around Kabo
-Markounda: The host community receives one month of food assistance
+In Zémio, insecurity is driving population movements towards Zapaï in DRC.
+More than 4,000 people affected by torrential rains are receiving cash assistance in Bangassou.
+In Am-Dafock, access to safe drinking water has improved for more than 11,500 internally displaced persons.
 
 GENERAL CONTEXT
-Vakaga Prefecture – North-East
+Haut-Mbomou Prefecture, South-East
 
-On 22 July, a team from an NGO was robbed by armed men approximately 35 km from Birao, along the road to Tiringoulou. After departing Birao in the morning, the team was intercepted, taken into the bush and subjected to physical violence. The vehicle was subsequently searched and personal belongings were stolen. The assailants left the area before the team was able to resume its journey to the village of Delembé, located about 50 km from Birao. The NGO implements a food security program in the area aimed at strengthening community resilience. Birao remains the second most affected location by incidents impacting humanitarian actors, after Zemio.
-
-Ouham-Fafa Prefecture – Center
-
-Local authorities have suspended, until further notice, movements along the main road corridors around Kabo, including for humanitarian actors, to mitigate risks to civilians during ongoing security operations. On 27 July, reports of a possible attack on Kabo, as well as the alleged presence of armed elements in surrounding localities, triggered precautionary population movements, including arrivals from neighbouring villages. In response, the Central African Armed Forces (FACA) conducted security operations and increased patrols in and around Kabo. Movement restrictions are limiting humanitarian access to communities outside Kabo, preventing or delaying field missions, assessments, the delivery of humanitarian assistance and the provision of essential services until road access is restored.
+From 11 to 14 August, population movements were reported from Komboni, located about 5 km from Zémio, to Zapaï in the Democratic Republic of Congo (DRC). The movements followed military operations conducted against armed elements in the area. Persistent insecurity continues to affect livelihoods by restricting access to farmland and disrupting harvesting activities. As food security conditions deteriorate, some households have been forced to sell part of the essential household items received through humanitarian assistance to meet their immediate food needs.
 
 HUMANITARIAN NEEDS AND RESPONSE
 Multi-sector
-Mbomou Prefecture – South-East
+Ouham-Fafa Prefecture, North-West
 
-A humanitarian coordination mission was conducted from 20 to 23 July in the localities of Dembia and Rafaï. Discussions with affected communities indicated that approximately 450 displaced households from Guinikoumba (located about 15 km from Dembia, across the Ouara River in Haut-Mbomou Prefecture) intend to remain in Dembia, while continuing to monitor the security situation in their areas of origin for a possible return. Humanitarian needs remain significant across multiple sectors, including emergency shelter, essential household items, food assistance, health services, and water, sanitation and hygiene (WASH). ACTED conducted a follow-up multisectoral assessment on 21 July to assess potential assistance. On 22 July, World Vision started collecting supplementary household data to facilitate the provision of essential household items and shelter assistance. In addition, the International Organization for Migration (IOM) plans to provide shelter assistance to address any remaining unmet needs.
+From 15 to 20 August, COOPADEM strengthened the livelihoods of 45 members of local associations from both host communities and displaced populations at the Gbazara site in Batangafo. Beneficiaries received a community micro-grant and training on management and sustainable monitoring of income-generating activities to enhance their economic self-reliance. The initiative also aims to strengthen beneficiaries’ participation in youth-led community mobilization and awareness-raising activities, particularly on social cohesion and protection of internally displaced persons (IDPs), thereby contributing to more inclusive governance of displacement sites and host communities. In parallel, soap-making activities enabled women to develop livelihood opportunities while improving the living conditions of vulnerable households. These activities were implemented with financial support from the Central African Republic Humanitarian Fund (CAR HF).
 
-Nutrition
-Ouham Prefecture – North-West
+Food Security
+Vakaga Prefecture, North-East
 
-On 24 July, the WFP distributed 1.164 tons of ready-to-use supplementary food to eight health facilities in Bossangoa. This assistance will support the nutritional treatment of more than 1,600 children aged 6 to 59 months suffering from moderate acute malnutrition (MAM). The intervention aims to improve the nutritional status of affected children, reduce the risk of malnutrition-related complications, and strengthen access to nutrition services in supported health facilities.
+From 11 to 14 August, Triangle Génération Humanitaire (TGH) provided cash assistance to 22 agricultural groups in Birao. The intervention benefited 1,000 households from host communities and returnee populations. Beneficiaries also received training on fodder crop production techniques to strengthen their livelihoods and enhance their agricultural production capacity.
 
---- Report 2: IMC (2026-07-28) ---
-FAST FACTS
-
-Am Dafock, in Vakaga prefecture, is experiencing a mass displacement crisis triggered by armed attacks in and around the city since the beginning of June.
-More than 19,000 internally displaced people have sought refuge at the MINUSCA base in Am Dafock.
-The local health system has collapsed—the health facility at the base has been looted and medical personnel have fled for their safety.
-Am Dafock remains inaccessible via road, limiting the supplies and assistance that can reach the area.
-
-OUR FOOTPRINT
-
-International Medical Corps has worked in the Central African Republic since 2007, delivering lifesaving services such as primary and secondary healthcare, surveillance and response to infectious diseases, health system strengthening, nutrition and food security, prevention and response to violence against women and girls, and water, sanitation and hygiene.
-
-OUR RESPONSE
-
-International Medical Corps has deployed an emergency response team, as well as lifesaving health and nutrition supplies, in the affected area.
-We have delivered 1,294 kilograms of medical supplies, essential medicines and ready-to-use therapeutic foods, as well as infection-prevention and control supplies.
-We have provided 1,778 curative consultations and 290 antenatal consultations, and registered 26 home deliveries, providing connections to further health services at the clinic.
-
-Despite the challenges, International Medical Corps is committed to scaling up lifesaving interventions. Additional staff—including one mental health nurse, one nutrition nurse and one case manager providing services to survivors of violence against women and girls—will be deployed soon, which will enhance the mobile clinic's capacity to deliver integrated health, nutrition and protection services. Additional nutrition supplies, dignity kits and IPC materials are being prepared for deployment.
-Though the response continues to face significant operational challenges that are delaying the deployment of additional humanitarian assistance and critical supplies, continued and increased funding support is essential to address growing health, nutrition, protection, food security and livelihood, and water, sanitation and hygiene needs.
-
---- Report 3: UNFPA (2026-07-28) ---
-In June 2026, the Central African Republic (CAR) faced a convergence of health and security crises, beginning with the government’s validation of an Ebola contingency plan to prevent the virus's introduction and the subsequent declaration of a cholera outbreak in Bimbo and Mbaïki that resulted in hundreds of suspected cases and dozens of deaths. The humanitarian landscape was further destabilized by armed attacks in the Vakaga prefecture, which forced thousands to flee and left the town of Am-Dafock deserted, and by rising security incidents in Haut-Mbomou that targeted humanitarian actors and forced a temporary suspension of UNFPA and other operations in the south-east. These crises severely restricted humanitarian access, increased protection risks such as conflict-related sexual violence and child mortality, and exacerbated existing vulnerabilities across the region.
-In response, UNFPA provided critical sexual and reproductive health (SRH) and gender-based violence (GBV) support to vulnerable populations, particularly women and girls, across crisis-affected areas. By deploying an integrated approach that combined mobile clinics with support for reference health facilities, UNFPA achieved significant results, including hundreds of assisted births, antenatal and postnatal care visits, and emergency Caesarean sections, alongside extensive family planning and gynaecological services. UNFPA also prioritized protection through targeted GBV awareness sessions, support to safe spaces, and the distribution of dignity kits, while actively working to increase SRH awareness and improve clinical outcomes for sexual assault survivors through comprehensive medical care and community outreach.
-In 2026, UNFPA requires US $13.2 million to deliver essential SRH and protection services in the CAR. As of the end of June 2026, UNFPA has mobilized US $2.2 million of funding. A significant 83% funding gap remains, which is hindering UNFPA’s ability to provide life-saving services to women and girls in need.
+--- Report 2: UNHCR (2026-08-19) ---
+UNHCR's operations in the Central African Republic (CAR) are based on protection through presence, a central pillar of the humanitarian response. In a context marked by security volatility and the repercussions of the Sudanese crisis, particular attention is also being paid to emergency response. At the same time, the search for durable solutions is a major priority, by supporting the voluntary, safe and dignified return of Central African refugees, while ensuring their sustainable reintegration and their contribution to national development. The Central African Government, UNHCR and partners are providing protection and multi-sectoral assistance to internally displaced persons (IDPs) and refugees, including Chadians and Sudanese, while promoting durable solutions for Central African returnees. UNHCR aligns its interventions with national priorities, including the National Development Programme, the National Strategy for Durable Solutions and the Platform to Support Solutions from the 2022 Yaoundé Declaration.

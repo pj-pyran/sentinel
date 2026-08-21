@@ -1,90 +1,11 @@
 Crisis / situation: Ukraine
 
---- Report 1: Health Cluster (2026-08-07) ---
-I. Rationale
-Now in the fifth year of the full-scale war, the humanitarian
-health response in Ukraine has evolved considerably, and
-so have the expectations around collective reporting,
-accountability, and evidence-based coordination. The
-2026 Humanitarian Needs and Response Plan (HNRP)
-introduced an issue-based approach around four strategic
-priorities, new geographic targeting, and a joint reporting
-platform managed by UN OCHA. Health partners must
-now report against these four priorities while maintaining
-focus on the most severely affected areas (severity levels
-4 and 5).
-Over five years, variations in how partners collect data, count
-beneficiaries, and calculate results have accumulated,
-making it harder for the Cluster to reflect the response
-accurately. This prompted the Health Cluster to convene
-75 partner representatives and reporting and MEAL
-specialists for a one-day hybrid workshop to strengthen
-shared understanding of reporting expectations, logic, and
-beneficiary calculation.
-The aim was not to impose uniformity, but to build enough
-common ground for the collective humanitarian health
-response to be reported coherently and credibly - to the
-humanitarian community, donors, and the people the
-response seeks to serve. As of June 2026, the Health
-Cluster counts 154 partners delivering health activities
-across priority war-affected oblasts. The Cluster looks
-forward to continuing to guide these partners toward
-alignment as part of this process.
-Objectives
-General Objective: To strengthen the capacity of Health
-Cluster partners to collect, calculate, and report data in
-line with HNRP requirements and Health Cluster reporting
-standards — improving the coordination and visibility of
-health interventions in Ukraine.
-Specific Objectives:
-1. Explain the rationale for accurate reporting and
-alignment with Cluster requirements, alongside
-bilateral donor interests and the funding partners
-receive.
-2. Identify and discuss the challenges partners face in
-the reporting process in Ukraine.
-3. Guide partners through an organization-specific
-reflection on designing a counting method that fits
-their reporting needs across emergency response and
-early recovery.
-4. Raise awareness of data sensitivity and the responsible
-management of health-related data.
-5. Surface the tensions in reporting under the OCHA-led
-framework — regional targets versus the four strategic
-priorities of the response.
-6. Build a clear understanding of how reporting quality
-shapes the Cluster’s visibility to donors, the wider
-humanitarian community, and decision-makers
-through its external products.
+--- Report 1: UNHCR (2026-08-21) ---
+No summary available.
 
---- Report 2: ACLED (2026-08-05) ---
-Ukraine continued its campaign on energy infrastructure in occupied territories, while its strikes on oil tankers briefly suspended work at the CPC terminal.
-Author
-Olha Polishchuk
-
-1913 conflict events
-2% decrease compared to last week
-200 incidents of violence targeting civilians
-18% decrease compared to last week
-At least 124 civilians killed by targeted violence
-9% decrease compared to last week
-1105 air- and drone strikes
-6% decrease compared to last week
-288 shelling events
-20% increase compared to last week
-507 armed clashes
-12% decrease compared to last week
-246 Russian attacks on civilian infrastructure
-7% increase compared to last week
-Most frequent target type: Residential
-Change compared to last week (per target):
-Education: 5% increase
-Healthcare: 20% increase
-Energy: 8% decrease
-Residential: 8% increase
-Key trends
-
-Ukraine has been attacking warehouses of Russia’s largest online retailer across at least nine regions in Russia and in occupied Crimea since 17 July. While primarily a civilian store, the retailer sells dual-use products, including unarmed drones, drone payload-release components, and military clothing. Ukraine is targeting these warehouses in an attempt to affect Russia’s military logistics, but also to generally further worsen Russia’s economy. It is also likely in retaliation against Russia's long history of strikes on the Ukrainian postal service and shopping centers.
-Russia launched a massive wave of missile strikes targeting Kyiv city on 19 July. It deployed 41 ballistic and Zircon hypersonic missiles in the attack, the largest number deployed in a single wave of attacks to date. Russia has been increasingly using ballistic and Zircon missiles to attack Ukraine’s population centers, mainly Kyiv city and the eponymous region, exploiting Ukraine’s shortage of Patriot missiles required for their interception. Between 1 and 19 July, Russia reportedly used more ballistic missiles than it produces in a month, as well as two-thirds of its planned annual Zircon missile production.
-
-[...]
+--- Report 2: UNHCR (2026-08-19) ---
+OPERATIONAL CONTEXT &amp; HIGHLIGHTS:
+• The Russian Federation has continued to carry out massive attacks across Ukraine, including repeated large-scale attacks on Kyiv. The increasing use of ballistic missiles and other long-range weapons in populated areas is contributing to rising civilian casualties and widespread damage to civilian homes and infrastructure. According to the UN HRMMU , at least 437 civilians were killed and 2,610 injured in Ukraine in July 2026, a 30% increase compared to June 2026, and a 70% increase compared to July 2025. The number of those killed and injured is the highest recorded since March 2022, while the number of those killed is the highest since May 2022. August 2026 has already started with more Russian attacks which have killed and injured civilians.
+• Overnight on 31 July-1 August, a Russian attack destroyed the warehouse and office of UNHCR’s local NGO partner Proliska in Pavlohrad, Dnipropetrovska oblast, impacting stocks of humanitarian supplies and emergency shelter materials. Fortunately, no staff members were injured.
+• The humanitarian community launched the inter-agency 2026-2027 Winter Response Plan in July. As part of the inter-agency response, and as millions of people in Ukraine brace themselves for the fifth winter since the Russian fullscale invasion, UNHCR plans to deliver critical assistance to help war-affected people stay safe and warm in their homes. UNHCR’s winter assistance will complement the response by the Government of Ukraine and will be delivered in close coordination with partners, prioritizing war-affected people with specific vulnerabilities. See UNHCR’s winter response plan here .
+• In the fifth year since the start of the Russian full-scale invasion of Ukraine, and more than 12 years since the war began, UNHCR’s programme in Ukraine increasingly aims to help war-affected people and communities to recover, and displaced people to find durable solutions, particularly through housing and strategic protection advocacy.
