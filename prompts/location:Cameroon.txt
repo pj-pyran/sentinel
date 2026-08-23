@@ -1,6 +1,15 @@
 Crisis / situation: Cameroon
 
---- Report 1: IFRC (2026-08-21) ---
+--- Report 1: OCHA (2026-08-23) ---
+National Humanitarian Forum seeks strategic alignment as Cameroon’s humanitarian transition advances
+The National Humanitarian Forum took place in Yaounde on 26 May 2026, bringing together more than 140 participants from government, national and international NGOs, the United Nations, donors, technical and financial partners, and the media. The forum aimed to foster strategic alignment among humanitarian, development and government actors on the humanitarian situation, the ongoing humanitarian transition, the localization of aid, and financing and accountability issues.
+Opening the forum, the UN Resident Coordinator and Humanitarian Coordinator (RC/HC), Issa Sanogo said collaboration between national and local authorities, humanitarian partners and donors delivered life-saving assistance to one million people in 2025. He noted a persistent gap: only half of the 2.1 million people targeted were reached, leaving 1.1 million people without support. He linked the forum to the Humanitarian Reset, the global reform under which Cameroon is one of eight countries selected by the Inter-Agency Standing Committee (IASC) to shift toward a more localized, nationally led coordination model.
+The Director of Civil Protection (DPC) at the Ministry of Territorial Administration (MINAT), Angele Ndzie Ntsama, welcomed continued partner support and committed the Government to strengthening coordination, consultation and response mechanism. She called for collective reflection on the role of national and local actors, accountability to affected populations, and stronger links between humanitarian action, development and peacebuilding.
+Panel discussions confirmed that Area-Based Coordination (ABC) is now operational in the Far North, North-West and South-West regions at a regional level and in some divisions. Under the Civil Protection Law of 23 December 2024, MINAT/DPC holds legal responsibility for coordinating the humanitarian response. Hundreds of national NGOs are still active in the Far North, North-West and South-West coordination platforms, and the Lake Chad Basin Nexus Facility Fund, which reserves 30 per cent of its financing for local actors, has already supported two consortia in Cameroon and Chad.
+Recommendations from the forum called for international financing and government contributions to be presented jointly for a transparent view of resources, for responsibilities to transfer together with corresponding human, logistical and budgetary means, and for a dedicated donor meeting to align financing mechanisms behind the transition.
+Closing the forum, the RC/HC reiterated that the transition is not a disengagement but an accompanied, responsible transfer of responsibility, and reaffirmed the commitment of the United Nations and humanitarian partners to mobilize funding so that no vulnerable community is left without support. The Directorate of Civil Protection reaffirmed the Government’s commitment to strengthened national coordination and accountability.
+
+--- Report 2: IFRC (2026-08-21) ---
 Date of event 05-08-2026
 What happened, where and when?
 In the early hours of Wednesday, August 5, 2026, after more than a month of continuous rains, torrential downpours fell on the coastal city of Limbe, in the department of Fako, South-West region of Cameroon. At around 6:30 a.m., the waterlogged hillside overlooking the Mbende and Gardens neighborhoods gave way. The landslide swept away an inhabited house, burying its four sleeping occupants. Three adult women died, including a pregnant woman who lost her unborn child. The fourth occupant, an adult male, was pulled alive from the rubble by Cameroon Red Cross volunteers and community members. He is currently hospitalized in intensive care at the regional hospital of Limbe. The lives of many people are threatened and the search continues.
@@ -8,18 +17,3 @@ These same rains saturated the drainage systems of Limbe and Jenguele. Runoff fr
 As of August 8, 2026, several neighborhoods remain under water. More than 1,500 households, or about 12,000 people, are affected, and nearly 2,000 people (250 households) whose homes were completely flooded are now homeless and in an emergency situation. The fairly large number of people with special needs remains very worrying, with nearly 700 people concerned.
 Stagnant water, contaminated with faeces, accumulates in low-lying and densely populated neighbourhoods, where shallow wells are the main source of drinking water, in a region which has repeatedly been the epicenter of national cholera outbreaks.
 The Fako Departmental Committee in Limbe, in collaboration with the prefect of Fako, the mayor and the security forces, continues to assess the situation as it evolves. The departmental committee, which does not have a contingency stock, is almost powerless in the face of the situation, which continues to grow. If nothing is done in the coming days, the humanitarian situation in the city of Limbe could spiral out of control.
-
---- Report 2: IMC (2026-08-20) ---
-FAST FACTS
-
-Eighty-three suspected cholera cases, including 18 confirmed by rapid diagnostic test, were reported in Minawao Refugee Camp on August 16.
-Minawao Camp hosts some 81,000 refugees and is operating at 324% of intended capacity.
-The wider national cholera outbreak has reported 1,252 cases and 31 deaths across 11 health districts as of August 12.
-Multiple transmission chains are suspected within the camp, increasing the risk of rapid spread among vulnerable populations.
-
-OUR RESPONSE
-
-International Medical Corps is coordinating with health authorities, UN agencies, camp management and humanitarian partners to support a harmonized response.
-We are implementing cholera prevention and response activities focused on outbreak containment, case management and community activities, and strengthening treatment capacity through additional staff, essential medicines and cholera supplies.
-We also are strengthening surveillance, community alert systems and risk communication to support early detection and treatment, while scaling up risk communication, hygiene promotion, infection prevention, disinfection and emergency activities involving water, sanitation and hygiene.
-Since the beginning of the outbreak, our team has managed 83 patients, resulting in 73 recoveries, nine cases currently under observation and one recorded death, with 509 contacts identified and followed. Rapid field investigations, line listing, contact tracing, active case finding, household disinfection and patient referrals remain ongoing, under the leadership of the Mokolo Health District.
