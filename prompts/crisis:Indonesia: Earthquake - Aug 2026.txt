@@ -1,32 +1,55 @@
 Crisis / situation: Indonesia: Earthquake - Aug 2026
 
---- Report 1: MPBI (2026-08-19) ---
-Key Information
-Provisional data from BNPB as of August 19, 2026 at 09:00 WIB
-71 Deaths
-1,182 Injured
-40,145 Displaced
-11,950 Houses damaged
-- 5,518 severely damaged
-- 1,924 moderately damaged
-- 4,508 slightly damaged
-Urgent Needs
-• The urgent needs of displaced people (IDPs) identified by BNPB remain similar to those listed in IHCP Situation Report No. 2 (August 18, 2026), available at https://bit.ly/Sitrep_2_IHCP.
-• Based on an assessment by ASB, an IHCP member, the following are the estimated requirements for inclusive shelter and WASH (drinking water and environmental sanitation):
-Situation Report
-• According to the BNPB dashboard, as of August 19 at 09:00 WIB the number of displaced people was reported as follows:
-• NTT BPBD reported on August 18 that, based on a rapid assessment, more than 30% of people in centralised evacuation sites are women, children, children under five, and pregnant women who require specific protection interventions, not only general logistics assistance.
-• As of August 19, reported damage included 217 education facilities, 96 health facilities, 46 government offices, and 77 places of worship.
-• BMKG's weather forecast issued on August 19 at 09:26 WIB for the period August 19-21 indicated the potential for strong winds across East Nusa Tenggara.
-• Using BNPB data, the ASB Emergency Response (ER) Team analysed and projected estimated disaggregated data and requirements for the WASH (drinking water and environmental sanitation) and shelter sectors by affected regency/city; some figures are cumulative across affected areas:
-• ASB also reported that basic household items and shelter facilities remain a priority, particularly for people whose homes have been damaged and who remain anxious because aftershocks are still occurring frequently. Gaps remain in meeting the specific needs of groups at heightened risk, including persons with disabilities, older people, children, and women. These needs should be prioritised across WASH, food and nutrition, household items, mobility support in temporary shelters, and access to health-facility services.
-• The earthquake triggered tidal surges and sea-level recession at several coastal locations. Assessment is needed to determine possible damage to coral reefs from the strong earthquake and to coastal ecosystems affected by the tsunami, even though the tsunami was relatively small, with heights of up to 1 metre. Dry-season climate risks in Flores, compounded by El Nino conditions, may prolong drought and reduce supplies of safe water and water for agriculture. These risks may be further aggravated by infrastructure damage and possible earthquake impacts on springs and other water sources. Areas with a high potential for landslides should also be mapped and assessed, particularly because continued aftershocks may increase landslide risk in already susceptible locations.
-• The earthquake also triggered landslides that blocked river channels and disrupted drinkingwater supply systems. As a result, water supplied through the SPAM system became turbid because soil material entered the system.
-• Wahana Visi Indonesia reported on August 19 that preliminary assessment findings indicate that children continue to experience psychological distress due to repeated aftershocks, prolonged displacement, and uncertainty about their future housing. Assessments in Ende, Ngada, and Manggarai also identified limited or unavailable active Infant and Young Child Feeding (PMBA/IYCF) services in affected areas.
+--- Report 1: IFRC (2026-08-25) ---
+Description of the Event
+Date of event
+15-08-2026
+What happened, where and when?
+Magnitude 7.7 earthquake struck Flores Island in East Nusa Tenggara Province. According to the Meteorology, Climatology and Geophysics Agency (BMKG), the earthquake was centred offshore at 8.41°S and 121.39°E, approximately 30 kilometres north-east of Mbay, Nagekeo District, at a depth of 15 kilometres. The earthquake was associated with activity along the Flores Back-Arc Thrust.
+Following the earthquake, BMKG issued a tsunami warning for several coastal areas. Sea-level changes were observed at several monitoring locations, including approximately 0.94 metres at Maurole in Ende District. The tsunami warning was lifted at approximately 07:30 WIB after BMKG confirmed that the threat had ended. However, frequent aftershocks continued to affect the area. As of 16 August 2026 at 15:00 WIB, BMKG had recorded 995 aftershocks ranging from magnitude 1.9 to 6.2, of which 46 were felt by communities.
+The earthquake affected seven districts across Flores Island: West Manggarai, Manggarai, East Manggarai, Ngada, Nagekeo, Ende and Sikka. Earthquake impacts and population evacuations were also reported in Bima, West Nusa Tenggara Province, and the Selayar Islands, South Sulawesi Province.
+Landslides, damaged roads and debris continued to restrict access to several affected communities. The Larantuka–Maumere route had reopened, while the Ende–Nagekeo route remained reportedly cut off. Efforts to clear affected roads and establish alternative access routes were ongoing. Electricity and telecommunications services had largely begun to recover, although repairs were still required in several locations. Continued aftershocks were also affecting assessment, evacuation and emergency service delivery.
 
---- Report 2: MPBI (2026-08-19) ---
-Situation Report
-• BMKG noted that on Monday (August 17) there had been 1,576 aftershocks. BMKG appeals to people on Flores Island and its surroundings to remain calm, evacuate independently away from the beach area to the gathering point.
-• Damage occurred to 264 educational facilities, 83 health facilities, 1 warehouse of the Logictics Affairs Agency (BULOG), 116 public facilities, 1 market, 157 houses of worship, 171 office units, 7 irrigation facilities, 34 road points, and 5 bridges.
-• The Ministry of Health reported on August 17 at 07:30 WIB of the impact on 21 hospitals and 190 health centers. Most hospitals and health centers are still operating even though many services are carried out outside the building.
-• The Coordination Meeting of the Reproductive Health Subcluster (Kespro) on August 17, 2026 in Flores, NTT, discussed the implementation of the Minimum Initial Service Package (PPAM) of Kespro as part of the earthquake emergency response. This package includes nine main components, ranging from the appointment of coordinators, prevention of sexual violence, handling HIV and STIs, to efforts to reduce maternal and neonatal mortality rates. In addition, PPAM also highlights the prevention of unwanted pregnancies, adolescent health, minimum services for toddlers and the elderly, and the integration of reproductive health services into basic services.
+--- Report 2: IFRC (2026-08-25) ---
+Description
+On 15 August 2026 at 04:58 WIB, a magnitude 7.7 earthquake struck Flores Island, East Nusa Tenggara Province. The epicentre was located offshore, approximately 30 kilometres northeast of Mbay, Nagekeo District, at a depth of 15 kilometres. The earthquake affected seven districts: Manggarai Barat, Manggarai, Manggarai Timur, Ngada, Nagekeo, Ende and Sikka. Thousands of aftershocks have continued, increasing anxiety among communities and discouraging many families from returning to damaged homes.
+As of 24 August 2026 at 09:00 WIB, the National Disaster Management Agency (BNPB) reported 100 deaths, 1,603 people injured or ill, and 180,327 people displaced. A total of 73,818 houses were damaged, together with 1,378 educational facilities, 118 health facilities, 504 government offices, and 396 places of worship. The figures remain preliminary and may change as assessment and verification continue.
+Displaced people are staying in communal sites, temporary shelters, open areas, with relatives or in small self-established sites near their homes. Many independently displaced families remain difficult to identify and reach, particularly in remote, mountainous and island communities. Priority concerns include emergency shelter, safe water and sanitation, healthcare, essential household items, protection and psychosocial support. Children, pregnant and breastfeeding women, older people, persons with disabilities, people with chronic health conditions and families whose homes were severely damaged face increased risks. Although access along major routes has improved, several remote villages and island communities continue to experience logistical constraints. Existing water shortages linked to the dry season and El Niño, together with ongoing volcanic activity in parts of Flores, are further increasing humanitarian needs.
+Request For Assistance
+Government Requests International Assistance: No
+NS Requests International Assistance: No
+Information Bulletin Published
+No
+Actions taken by National Society
+General
+Damage/Needs assessment
+Search &amp; Rescue
+Water &amp; Sanitation
+Food aid
+Health
+Shelter
+Psychosocial support services
+RFL
+Evacuation
+First Aid
+Relief/Supply distribution
+Summary
+As of 24 August 2026, Palang Merah Indonesia (PMI) had recorded 76 response activities across the seven affected districts, reaching 16,192 people. These included evacuation and first aid services for 2,493 people, health services for 735 people, emergency shelter support for 9,570 people, water and sanitation services for 2,248 people, relief distribution support for 997 people, and psychosocial support for 149 people. PMI has mobilised 55 personnel and continues to conduct rapid assessments, operate mobile health services, support displacement sites, distribute safe water and essential relief items, and establish emergency tents for health facilities and displaced families. Two operational coordination hubs have been established in Nagekeo and Manggarai to support coordination, information management and the delivery of assistance across the affected districts. PMI is working in coordination with government authorities, IFRC and other humanitarian partners.
+Actions taken by RCRC
+General
+Damage/Needs assessment
+RFL
+Relief/Supply distribution
+Other
+Summary
+The American Red Cross is providing technical support to PMI for the multisectoral needs assessment and analysis of humanitarian priorities. The Australian Red Cross is supporting the procurement of essential relief items to strengthen PMI’s response and replenishment capacity. The International Committee of the Red Cross (ICRC) is supporting PMI’s Restoring Family Links (RFL) services for people affected by the earthquake. Coordination among PMI, IFRC and Movement partners continues to ensure that technical and material support is aligned with assessed needs and the planned DREF operation.
+Actions taken by Federation
+General
+Damage/Needs assessment
+Other
+Summary
+IFRC is supporting PMI with needs assessment, information management, and the development of a DREF application targeting 20,000 people across the seven affected districts. IFRC has provided an Emergency Advance DREF allocation of CHF 100,000 to support the initial response while the full DREF application is being finalised. Technical coordination between PMI and IFRC continues to refine the operational strategy, targeting, sectoral priorities and budget based on updated assessment findings.
+Actions taken by others
+The Government of Indonesia, through BNPB, BPBD, Basarnas, the Indonesian Armed Forces, the National Police and local authorities, continues to conduct search and rescue, evacuation, damage and needs assessments, emergency health services, management of displacement sites and relief distribution. Emergency command posts have been activated in several affected regencies. A field hospital has been established in Reok Sub-District, while efforts continue to reopen affected roads and restore electricity and communication networks.
+Planned International Response
+DREF: Requested
