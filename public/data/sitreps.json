@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4227025",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Colombia: Flash Update 009 - Update on the Impact of the Earthquake in Colombia - August 24, 2026",
+    "source": "EHP Colombia",
+    "crisis": "Colombia: Earthquake - Aug 2026",
+    "location": "Colombia",
+    "scope": "single",
+    "date": "2026-08-25",
+    "content": "<p><strong>SITUATION OVERVIEW</strong></p>\n<p>Following up on the magnitude 7.4 earthquake that struck at 7:34 a.m. on 10 August 2026 in the municipality of San José del Palmar, Chocó, the event caused impacts across 15 departments and 494 municipalities. Since its occurrence, 332 aftershocks have been recorded, of which 21 had a magnitude greater than 3.0 and 2 exceeded magnitude 4.0.<br />\nAccording to official figures, at least 324,157 people (159,924 households) have been affected by the disaster, including members of ethnic communities (Afro-Colombian and Indigenous peoples). The most severe impacts have been concentrated in the departments of Risaralda, Valle del Cauca, Chocó, Caldas, and Quindío, due to the high number of affected households and the significant sectoral needs identified. Other departments, including Antioquia, Cundinamarca, Huila, Tolima, Cauca, Putumayo, Norte de Santander, Bolívar, Sucre, and Nariño, as well as their capital cities, have also reported damage.</p>\n<p>According to official reports, a significant number of people lost their lives across several departments, in addition to those who were injured or remain missing. Likewise, 3,726 educational facilities were affected, leaving more than 400,000 children and adolescents without access to education (Flash update No006). The earthquake also caused the destruction of and damage to homes, community centers (4,140), health facilities (378), collapsed buildings (591), and water supply systems (115), with varying levels of severity.</p>\n<p>Following the national government's declaration of a State of Economic, Social and Ecological Emergency in 15 departments through Decree 1261, valid for 30 days, resources are being mobilized to support the disaster response. At the same time, national and local authorities continue to respond across multiple sectors, prioritizing physical and mental health care, water supply, and humanitarian assistance based on the needs of the affected population, while also supporting people accommodated in temporary shelters and ensuring that these facilities are adequately equipped and managed.<br />\nAccording to reports from at least 16 humanitarian partners, including consortia, nearly 50,000 people (7,800 households) in 25 municipalities across the departments of Valle del Cauca, Chocó, Risaralda and Caldas have received assistance to date, complementing the efforts of local and national authorities. The main interventions have focused on food assistance, water, sanitation and hygiene (WASH) support, including hygiene kits and menstrual hygiene management supplies, non-food items, and water storage solutions. These activities have been complemented by health services, psychosocial support, protection interventions, education in emergencies, legal assistance, and cash transfers, benefiting thousands of affected individuals and families.</p>\n<p>The published Addendum to the Humanitarian Needs and Response Plan (HNRP 2026) is seeking funding to address the sectoral humanitarian needs of people affected by the earthquake through the end of this year. In addition, various donors have mobilized more than US$35 million to support the response, alongside the US$5 million allocation from the Central Emergency Response Fund (CERF) for life-saving intervention.</p>\n",
+    "url": "https://reliefweb.int/report/colombia/colombia-flash-update-009-update-impact-earthquake-colombia-august-24-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4227025",
+    "file_url": "https://reliefweb.int/attachments/d2226298-0b80-4331-a801-feb3c4d09f83/Flash%20Update%20Colombia%20No.009%20Earthquake%20impact_ENG_24082026.pdf"
+  },
+  {
     "id": "rw-4226940",
     "provider": "reliefweb",
     "type": "original",
@@ -60,7 +77,7 @@
     "location": "Yemen",
     "scope": "single",
     "date": "2026-08-25",
-    "content": "<h2><strong>Highlights</strong></h2>\n<p>• 9 civilians reportedly killed and 54 injured due to reported escalation across Marib, Ta’iz and west coast areas.</p>\n<p>• 162 households displaced across Ta’iz, Al Hodeidah, Lahj and Marib.</p>\n<p>• Al Makha Port suspended operations; shelter damage reported in Marib.</p>\n<p>• Pressure on health services affected referrals • Telecommunications disruptions and affected humanitarian operations.</p>\n<p>• Humanitarian response is ongoing, gaps remain in protection, shelter, cash assistance and emergency preparedness.</p>\n",
+    "content": "<h2><strong>Highlights</strong></h2>\n<ul>\n<li>9 civilians reportedly killed and 54 injured due to reported escalation across Marib, Ta’iz and west coast areas.</li>\n<li>162 households displaced across Ta’iz, Al Hodeidah, Lahj and Marib.</li>\n<li>Al Makha Port suspended operations; shelter damage reported in Marib.</li>\n<li>Pressure on health services affected referrals</li>\n<li>Telecommunications disruptions affected humanitarian operations.</li>\n<li>Humanitarian response is ongoing, gaps remain in protection, shelter, cash assistance and emergency preparedness.</li>\n</ul>\n",
     "url": "https://reliefweb.int/report/yemen/yemen-situation-update-marib-al-makha-and-taiz-areas",
     "region": "Asia",
     "subregion": "Western Asia",
