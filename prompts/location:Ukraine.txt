@@ -1,11 +1,59 @@
 Crisis / situation: Ukraine
 
---- Report 1: UNHCR (2026-08-21) ---
-No summary available.
+--- Report 1: ACLED (2026-08-26) ---
+Russia refuses Ukraine’s proposal for a ceasefire in the Black Sea amid a surge in food prices.
+1,933 conflict events
+2% decrease compared to last week
+227 incidents of violence targeting civilians
+7% decrease compared to last week
+At least 92 civilians killed by targeted violence
+21% decrease compared to last week
+1,138 air- and drone strikes
+5% decrease compared to last week
+280 shelling events
+20% increase compared to last week
+478 armed clashes
+10% decrease compared to last week
+252 Russian attacks on civilian infrastructure
+3% decrease compared to last week
+Number of events and change compared to last week (per target):
+Education: 14 events
+Healthcare: 10 events
+Energy: 39 events
+Residential: 217 events
 
---- Report 2: UNHCR (2026-08-19) ---
-OPERATIONAL CONTEXT &amp; HIGHLIGHTS:
-• The Russian Federation has continued to carry out massive attacks across Ukraine, including repeated large-scale attacks on Kyiv. The increasing use of ballistic missiles and other long-range weapons in populated areas is contributing to rising civilian casualties and widespread damage to civilian homes and infrastructure. According to the UN HRMMU , at least 437 civilians were killed and 2,610 injured in Ukraine in July 2026, a 30% increase compared to June 2026, and a 70% increase compared to July 2025. The number of those killed and injured is the highest recorded since March 2022, while the number of those killed is the highest since May 2022. August 2026 has already started with more Russian attacks which have killed and injured civilians.
-• Overnight on 31 July-1 August, a Russian attack destroyed the warehouse and office of UNHCR’s local NGO partner Proliska in Pavlohrad, Dnipropetrovska oblast, impacting stocks of humanitarian supplies and emergency shelter materials. Fortunately, no staff members were injured.
-• The humanitarian community launched the inter-agency 2026-2027 Winter Response Plan in July. As part of the inter-agency response, and as millions of people in Ukraine brace themselves for the fifth winter since the Russian fullscale invasion, UNHCR plans to deliver critical assistance to help war-affected people stay safe and warm in their homes. UNHCR’s winter assistance will complement the response by the Government of Ukraine and will be delivered in close coordination with partners, prioritizing war-affected people with specific vulnerabilities. See UNHCR’s winter response plan here .
-• In the fifth year since the start of the Russian full-scale invasion of Ukraine, and more than 12 years since the war began, UNHCR’s programme in Ukraine increasingly aims to help war-affected people and communities to recover, and displaced people to find durable solutions, particularly through housing and strategic protection advocacy.
+Russia dismissed Ukraine’s proposal for a ceasefire on military operations in the Black Sea last week. While many shipowners had stopped using Ukraine’s Black Sea ports due to nearly daily Russian strikes on ports and vessels, Russia had continued operating its Black Sea grain terminals. It stopped doing so when Ukrainian forces launched a complex aerial attack and naval drones hit warships and the Russian port city of Novorossiysk on 10 August, which forced the closure of the city’s major grain terminal. Given Russia’s ceasefire refusal, the current barrage of Black Sea targets by both sides is likely to continue. This will continue to prevent the resumption of grain and other food exports through the Black Sea, exacerbating the already severe global food price crisis.
+According to Ukrainian President Volodymyr Zelenskyy, Ukraine has cleared 745 square kilometers and around 26 settlements of Russian troops at the intersection of the Donetsk-Dnipropetrovsk-Zaporizhia regions since January 2026. While this is a morale boost, the counteroffensive is unlikely to ease the pressure on the fortress belt of Donbas, where Russian advances, particularly on the Kostiantynivka-Kramatorsk-Slovyansk agglomeration, are slowly mounting.
+
+
+
+10 Aug.
+Tatarstan, Russia — A Ukrainian drone strike on an oil refinery in Nizhnekamsk kills 13 civilians
+
+
+10 Aug.
+Tyumen, Russia — A Ukrainian drone strike coordinated with the Black Spark insurgent group damages a petrochemical plant in Tobolsk
+
+
+11 Aug.
+Zaporizhia — A Russian strike kills seven civilians and injures 24 others in Zaporizhia city
+
+--- Report 2: WFP (2026-08-24) ---
+IN NUMBERS
+290,364 people assisted in July1 (59% female)
+1,613 mt food distributed
+USD 7.7 M cash transferred
+USD 218 M six months net funding requirements (Aug 2026 – Jan 2027)
+KEY HIGHLIGHTS
+
+
+In July, WFP Acting ED accompanied the EU Deputy Secretary General for Political Affairs Olof Skoog on a field mission to Ukraine to witness frontline operations.
+
+
+In Dnipro, WFP-contracted warehouse was hit by multiple drone strikes and evacuated.
+
+
+Since 23 July, Ukrainian maritime logistics has been completely blocked, following intensification of attacks on the ports and commercial vessels.
+
+
+Key logistics and supply chain infrastructure continue to be heavily targeted countrywide affecting national supply chains and humanitarian operations.
