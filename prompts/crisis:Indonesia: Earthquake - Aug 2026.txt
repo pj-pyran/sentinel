@@ -1,6 +1,15 @@
 Crisis / situation: Indonesia: Earthquake - Aug 2026
 
---- Report 1: IFRC (2026-08-25) ---
+--- Report 1: MPBI (2026-08-26) ---
+Situation Report
+• BNPB reported the following IDP figures as of August 24 at 09:00 WIB:
+• Damage was recorded to 502 educational facilities, 396 houses of worship, 504 office buildings, one Bulog warehouse, 10 irrigation facilities, 39 public facilities, 78 road locations, one market, and 13 bridges.
+• The Ministry of Health's situation report as of August 24 at 07:30 WIB recorded 5,931 cases of acute respiratory infection (ARI/ISPA) across Manggarai, Sikka, Nagekeo, West Manggarai and East Manggarai, as well as 27 cases of rabies-risk animal bites in Nagekeo, Ngada and East Manggarai. The report also noted that stocks of medicines and medical consumables (BMHP) in East Manggarai were beginning to run low.
+• At its first coordination meeting on August 22, the Sub-Cluster for the Protection of Older People, Persons with Disabilities and Other At-Risk Groups (LDR) discussed accessibility gaps at centralized displacement sites. These barriers had led many persons with disabilities to stay in self-managed tents near their homes or with host families. The LDR Sub-Cluster also emphasized the importance of rapid inclusion assessments led by organizations of persons with disabilities (OPDs) to identify specific needs, including assistive devices and adapted hygiene items.
+• The LDR Sub-Cluster also highlighted reports of deaths in Nagekeo that were not directly caused by earthquake injuries but were associated with shock and acute diarrhoea, underscoring the importance of post-disaster health management. It also raised concern that some people may have acquired disabilities as a result of earthquake-related injuries but remain unrecorded because of limited road access or because injured people have not yet reached health services.
+• The Health Services Sub-Cluster in Sikka Regency reported on August 24 a need for weighing scales, thermometers, privacy screens (sampiran), and nebulizers.
+
+--- Report 2: IFRC (2026-08-25) ---
 Description of the Event
 Date of event
 15-08-2026
@@ -10,7 +19,7 @@ Following the earthquake, BMKG issued a tsunami warning for several coastal area
 The earthquake affected seven districts across Flores Island: West Manggarai, Manggarai, East Manggarai, Ngada, Nagekeo, Ende and Sikka. Earthquake impacts and population evacuations were also reported in Bima, West Nusa Tenggara Province, and the Selayar Islands, South Sulawesi Province.
 Landslides, damaged roads and debris continued to restrict access to several affected communities. The Larantuka–Maumere route had reopened, while the Ende–Nagekeo route remained reportedly cut off. Efforts to clear affected roads and establish alternative access routes were ongoing. Electricity and telecommunications services had largely begun to recover, although repairs were still required in several locations. Continued aftershocks were also affecting assessment, evacuation and emergency service delivery.
 
---- Report 2: IFRC (2026-08-25) ---
+--- Report 3: IFRC (2026-08-25) ---
 Description
 On 15 August 2026 at 04:58 WIB, a magnitude 7.7 earthquake struck Flores Island, East Nusa Tenggara Province. The epicentre was located offshore, approximately 30 kilometres northeast of Mbay, Nagekeo District, at a depth of 15 kilometres. The earthquake affected seven districts: Manggarai Barat, Manggarai, Manggarai Timur, Ngada, Nagekeo, Ende and Sikka. Thousands of aftershocks have continued, increasing anxiety among communities and discouraging many families from returning to damaged homes.
 As of 24 August 2026 at 09:00 WIB, the National Disaster Management Agency (BNPB) reported 100 deaths, 1,603 people injured or ill, and 180,327 people displaced. A total of 73,818 houses were damaged, together with 1,378 educational facilities, 118 health facilities, 504 government offices, and 396 places of worship. The figures remain preliminary and may change as assessment and verification continue.
