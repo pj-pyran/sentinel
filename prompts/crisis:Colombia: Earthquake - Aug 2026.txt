@@ -1,30 +1,40 @@
 Crisis / situation: Colombia: Earthquake - Aug 2026
 
---- Report 1: IOM (2026-08-26) ---
+--- Report 1: WFP (2026-08-28) ---
+IN NUMBERS
+
+6,400 earthquake-affected people reached.
+66 metric tonnes of emergency food assistance distributed.
+USD 28.5M required for earthquake and wildfires response.
+
+KEY HIGHLIGHTS
+• Under the earthquake emergency response, WFP is now transitioning from a rapid emergency assistance to a more targeted support, using field assessments and updating response plans to prioritize the most vulnerable households and expand cash-based assistance where markets are functioning.
+• Concurrent wildfire are increasing operational complexity, particularly in Tolima, where agricultural losses and food security impacts may require complementary emergency response alongside earthquake assistance.
+• Despite confirmed contributions of approximately USD 6.7 million, WFP faces significant funding gaps against its USD 23 million required for the earthquake response and USD 5.5 million needed to support wildfire-affected people.
+
+--- Report 2: EHP Colombia (2026-08-28) ---
+The emergency continues to have a large-scale, multisectoral humanitarian impact. More than 406,000 people (193,011 families) have been affected by the earthquake, with the highest concentrations in Risaralda, Valle del Cauca, Chocó, Quindío and Caldas. In addition to the loss of life, significant damage has been reported to community, health and education infrastructure, water systems and access roads, further increasing humanitarian assistance and recovery needs.
+The national and local response continues to scale up to address critical needs. National and local authorities continue to prioritize physical and mental health services, water and sanitation, humanitarian assistance and the management of temporary shelters. These efforts are complemented by financial relief measures for affected families and technical support for the assessment and recovery of damaged infrastructure.
+The humanitarian community and donors are strengthening the response, although significant funding gaps remain. At least 25 humanitarian organizations have provided assistance to nearly 72,000 people across 36 affected municipalities, while donors have mobilized more than US$40 million and the Central Emergency Response Fund (CERF) has allocated US$5 million for life-saving activities. However, the 2026 Humanitarian Response Plan Addendum requires additional funding to address humanitarian needs through the end of the year.
+
+This Flash Update is produced by OCHA Colombia with inputs from humanitarian partners and official reports. Information as of 27 August, 20:00.
+
+--- Report 3: PAHO (2026-08-27) ---
+Summary of the Situation
+Between epidemiological week (EW) 1 and EW 31 of 2026 (which ended on August 8, 2026), the Region of the
+Americas reported 48,690 confirmed cases of measles in 17 countries and territories, representing an
+approximately fourfold increase compared with the same period in 2025. Guatemala (31,140), Mexico
+(12,479), the United States (2,465), and Canada (1,114) accounted for the vast majority (97%) of confirmed
+cases (Map 1). In addition, 51 deaths have been reported (1). The increase in the regional cumulative total
+compared with Situation Report No. 8 is primarily due to the 695 additional cases reported in Guatemala,
+199 in United States, 118 in Mexico —all three with community transmission— and 5 five in Canada as
+well as five additional cases in Bolivia, where transmission is limited.
+During epidemiological weeks (EW) 29 and 30 of 2026, the Region of the Americas reported 695 new confirmed
+cases of measles in five countries and territories, representing a 59% decrease compared with the previous
+two-week period (EW 27–28; 1,697 new cases)4 (Figure 1). However, the decrease is primarily attributable to
+reporting delays among countries with ongoing transmission.
+Although the risk of measles introduction and spread persists in Colombia, following the earthquake on 10
+August 2026, no confirmed cases associated with the event have been reported in the country to date.
+
+--- Report 4: IOM (2026-08-26) ---
 On 10 August 2026, at 7:34 a.m., a magnitude 7.4 earthquake struck, with its epicenter in San José del Palmar, Chocó Department. The National Government declared a national disaster through Presidential Decree 1171 of 2026 and, on 19 August, issued Decree 1261 declaring an Economic, Social and Ecological Emergency to initiate the recovery and reconstruction phase. Fourteen days after the earthquake, reported impacts continued to increase, with Risaralda, Valle del Cauca, Chocó and Caldas remaining priority departments due to severity and scale of the damage observed.
-
---- Report 2: Health Cluster (2026-08-25) ---
-Resumen en español
-El 10 de agosto de 2026 se registró un terremoto de magnitud 7,4 Mw con epicentro en San José del Palmar, Chocó. Según el Reporte de Situación No. 38 de la UNGRD, se reportaron 319 personas fallecidas, 4.506 heridas, 260 desaparecidas y 282.709 afectadas en 476 municipios de 15 departamentos. Valle del Cauca, Risaralda, Chocó y Caldas fueron priorizados para la asistencia humanitaria. El terremoto agravó un contexto ya marcado por el conflicto, el desplazamiento, las restricciones de acceso y la reducción de la capacidad de respuesta humanitaria.
-El sector Salud reportó afectaciones en 348 establecimientos de salud, principalmente en Valle del Cauca, Chocó y Risaralda. Las principales preocupaciones son la continuidad de los servicios esenciales, la atención de urgencias y trauma, la referencia de pacientes, el acceso a agua segura y saneamiento, los medicamentos e insumos, la energía, la logística, la vigilancia epidemiológica y la salud mental y el apoyo psicosocial. Cinco brotes se encontraban bajo investigación y se mantenía el seguimiento de seis casos de accidente ofídico en Chocó, sin fallecimientos asociados.
-El Clúster de Salud Colombia activó su mecanismo de coordinación con las autoridades nacionales y territoriales. Diez socios estaban respondiendo en las zonas más afectadas y otros tres permanecían en alistamiento. El PiN post-terremoto del sector Salud se estimó en 898.000 personas, de las cuales 263.000 fueron priorizadas como población meta. El requerimiento sectorial se estimó en USD 22,26 millones, incluidos USD 14,36 millones priorizados para la respuesta al terremoto. Las acciones inmediatas incluyen actualizar el mapeo de necesidades y respuesta, validar las brechas con las autoridades, mantener los servicios de salud, fortalecer la atención móvil y temporal, y movilizar recursos adicionales sin debilitar la respuesta humanitaria preexistente.
-English summary
-On 10 August 2026, a magnitude 7.4 Mw earthquake struck near San José del Palmar, Chocó. According to UNGRD Situation Report No. 38, 319 people were reported dead, 4,506 injured, 260 missing and 282,709 affected across 476 municipalities in 15 departments. Valle del Cauca, Risaralda, Chocó and Caldas were prioritized for humanitarian assistance. The earthquake compounded an already severe humanitarian situation marked by conflict, displacement, access constraints and declining response capacity.
-The health sector reported damage to 348 health facilities, particularly in Valle del Cauca, Chocó and Risaralda. Major concerns include maintaining essential health services, emergency and trauma care, patient referrals, safe water and sanitation, medical supplies, power, logistics, epidemiological surveillance and mental health and psychosocial support. Five disease outbreaks were under investigation, while six snakebite cases in Chocó remained under follow-up, with no related deaths reported.
-The Colombia Health Cluster activated its emergency coordination mechanism with national and territorial health authorities. Ten partners were responding in the most affected areas, with three additional partners on standby. The post-earthquake Health Sector PiN was estimated at 898,000 people, with 263,000 prioritized as the response target. The sectoral funding requirement was estimated at US$22.26 million, including US$14.36 million prioritized for the earthquake response. Immediate priorities include updating needs and response mapping, validating gaps with authorities, sustaining health services, strengthening field and mobile care capacity, and mobilizing additional resources without weakening the pre-existing humanitarian response.
-
---- Report 3: EHP Colombia (2026-08-25) ---
-SITUATION OVERVIEW
-Following up on the magnitude 7.4 earthquake that struck at 7:34 a.m. on 10 August 2026 in the municipality of San José del Palmar, Chocó, the event caused impacts across 15 departments and 494 municipalities. Since its occurrence, 332 aftershocks have been recorded, of which 21 had a magnitude greater than 3.0 and 2 exceeded magnitude 4.0.
-According to official figures, at least 324,157 people (159,924 households) have been affected by the disaster, including members of ethnic communities (Afro-Colombian and Indigenous peoples). The most severe impacts have been concentrated in the departments of Risaralda, Valle del Cauca, Chocó, Caldas, and Quindío, due to the high number of affected households and the significant sectoral needs identified. Other departments, including Antioquia, Cundinamarca, Huila, Tolima, Cauca, Putumayo, Norte de Santander, Bolívar, Sucre, and Nariño, as well as their capital cities, have also reported damage.
-According to official reports, a significant number of people lost their lives across several departments, in addition to those who were injured or remain missing. Likewise, 3,726 educational facilities were affected, leaving more than 400,000 children and adolescents without access to education (Flash update No006). The earthquake also caused the destruction of and damage to homes, community centers (4,140), health facilities (378), collapsed buildings (591), and water supply systems (115), with varying levels of severity.
-Following the national government's declaration of a State of Economic, Social and Ecological Emergency in 15 departments through Decree 1261, valid for 30 days, resources are being mobilized to support the disaster response. At the same time, national and local authorities continue to respond across multiple sectors, prioritizing physical and mental health care, water supply, and humanitarian assistance based on the needs of the affected population, while also supporting people accommodated in temporary shelters and ensuring that these facilities are adequately equipped and managed.
-According to reports from at least 16 humanitarian partners, including consortia, nearly 50,000 people (7,800 households) in 25 municipalities across the departments of Valle del Cauca, Chocó, Risaralda and Caldas have received assistance to date, complementing the efforts of local and national authorities. The main interventions have focused on food assistance, water, sanitation and hygiene (WASH) support, including hygiene kits and menstrual hygiene management supplies, non-food items, and water storage solutions. These activities have been complemented by health services, psychosocial support, protection interventions, education in emergencies, legal assistance, and cash transfers, benefiting thousands of affected individuals and families.
-The published Addendum to the Humanitarian Needs and Response Plan (HNRP 2026) is seeking funding to address the sectoral humanitarian needs of people affected by the earthquake through the end of this year. In addition, various donors have mobilized more than US$35 million to support the response, alongside the US$5 million allocation from the Central Emergency Response Fund (CERF) for life-saving intervention.
-
---- Report 4: ETC (2026-08-25) ---
-This Situation Report provides an overview of the magnitude 7.4 earthquake that struck Colombia on 10 August 2026 and its impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC) 1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is not formally activated for this emergency but is providing coordination and technical support to humanitarian partners as required.
-Summary Points
-• On 10 August, a magnitude 7.4 earthquake struck western Colombia, affecting more than 250,000 people and disrupting telecommunications and other critical infrastructure across multiple departments.
-• The earthquake caused internet and mobile connectivity outages in Pereira, Cali, Quibdó, Armenia, Manizales, and surrounding municipalities, driven by power failures at telecommunications sites, network congestion, and localized infrastructure damage.
-• On 23 August, LTC Telecoms deployed a coordinator to support the humanitarian response, working with partners to assess connectivity gaps, inform response planning, and mobilize emergency telecommunications and information access support where required.
