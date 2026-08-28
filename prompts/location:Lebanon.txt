@@ -1,10 +1,13 @@
 Crisis / situation: Lebanon
 
---- Report 1: IOM (2026-08-27) ---
+--- Report 1: UNHCR (2026-08-28) ---
+No summary available.
+
+--- Report 2: IOM (2026-08-27) ---
 CONTEXT
 The humanitarian situation in Lebanon continues to be shaped by ongoing displacement, population movements and persistent insecurity in conflict-affected areas. As of 26 August, IOM's Displacement Tracking Matrix (DTM) identified 334,353 internally displaced persons (IDPs), including 19,543 individuals residing in 196 collective sites. A further 823,337 individuals were reported as residing in their areas of origin or habitual residence after previous displacement. During the reporting period, renewed hostilities highlighted the fragility of the security environment despite the ceasefire announced on 19 June. On 15 August, intensified airstrikes in Nabatieh Governorate reportedly prompted significant temporary population movements, with available reporting indicating that many of those who moved returned within a short period. Further strikes were reported on 26 and 27 August, underscoring the continued volatility of the security environment, although their implications for population movements were not yet fully reflected in the latest available displacement figures. Attacks affecting healthcare personnel and civilian infrastructure were also reported, further disrupting access to essential services and increasing protection concerns in conflict-affected areas. While large-scale displacement has continued to decline, many conflict-affected households continue to face significant challenges in rebuilding their lives and accessing essential services. Extensive damage to housing, water systems, electricity networks, health facilities, schools and agricultural land continues to constrain recovery efforts, particularly in South Lebanon. Many families remain unable to return to their homes and continue to rely on temporary accommodation arrangements while awaiting rehabilitation works and the restoration of basic infrastructure and services. Against this backdrop, humanitarian and recovery needs remain closely intertwined. Continued humanitarian assistance, alongside investments in shelter rehabilitation, restoration of basic services, livelihoods recovery, protection, and mental health and psychosocial support, will be critical to support safe, voluntary and sustainable solutions for displacement-affected populations and help conflictaffected communities recover from the impacts of continued hostilities.
 
---- Report 2: OCHA (2026-08-27) ---
+--- Report 3: OCHA (2026-08-27) ---
 HIGHLIGHTS
 
 World Humanitarian Day was marked by the Humanitarian Coordinator visiting Tebnine (18 August) and a Town Hall with humanitarian partners (19 August). Discussions highlighted the continued challenges facing frontline responders and essential service providers operating in conflict-affected areas.
