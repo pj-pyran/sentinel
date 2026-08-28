@@ -1,24 +1,25 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: IMC (2026-08-20) ---
-FAST FACTS
+--- Report 1: OCHA (2026-08-28) ---
+Situation Report No. 34
+Earthquakes in Venezuela
+27 August 2026
+Time: 5:00 pm
+Highlights
 
-On June 24, two earthquakes of magnitude 7.2 and 7.5 hit northern Venezuela less than one minute apart, impacting at least seven states—including the capital Caracas and the neighboring city of La Guaira.
-Official figures have confirmed 6,301 fatalities, 6,462 people rescued and 73,356 people who have received hospital care following the quakes.
-Priority needs include healthcare services, clean water, food, mental health and psychosocial support (MHPSS), adequate sanitation and hygiene facilities, protection support and shelter.
+Nearly 364,000 people affected by the earthquakes have accessed humanitarian assistance and essential services through a coordinated multi-sector response involving humanitarian organizations, United Nations agencies, communities, and national and local authorities.
+As of 24 August, authorities reported 6,509 deaths.
+The United Nations system and its partner organizations continue scaling up the multisectoral response to the emergency to address the needs of 1.3 million people affected by the earthquakes over the next six months.
 
-OUR RESPONSE
+Situation overview
+Venezuela continues to face the consequences of the two major earthquakes (magnitudes 7.2 and 7.5) that struck the north-central region of the country on 24 June at 18:00 local time, causing significant humanitarian impacts and damage to infrastructure. The first earthquake, measuring 7.2, was centered along the San Felipe–Yumare–Montalbán axis (Yaracuy/Carabobo). According to a recent update from the United States Geological Survey (USGS), the second earthquake, measuring 7.5, had its epicenter 17 kilometers west of Catia La Mar, off the coast of La Guaira state.
+As of 24 August, authorities reported 6,509 deaths from the earthquakes. They also reported that 60,785 homes were evaluated, out of which 11,001 are at high risk. According to national authorities, 28.61 per cent of the total rubble has been cleared. A preliminary assessment by the United Nations Office for Disaster Risk Reduction (UNDRR) estimates direct damage to housing and infrastructure at approximately US$37 billion, while preliminary estimates from UNDP place direct physical damages at US$6.7 billion, equivalent to 6 per cent of GDP.
+Two months after the earthquakes, the humanitarian response continues to expand across the affected states. As of 26 August, nearly 364,000 people (54 per cent women and girls) had access to essential services and humanitarian assistance through the joint efforts of communities, humanitarian organizations, United Nations entities, donor partners, and national and local authorities.
 
-International Medical Corps has deployed three mobile medical units (MMUs), which have provided 4,217 consultations since July 1.
-On July 11, International Medical Corps opened an Emergency Medical Team (EMT) Type 1 Fixed facility to provide free medical services to impacted communities. To date, we have provided 4,645 consultations through the EMT.
-Our teams have delivered 530,000 liters of safe water across displacement sites.
-Our teams have provided 808 MHPSS consultations.
+--- Report 2: UNICEF (2026-08-27) ---
+Highlights
 
---- Report 2: ETC (2026-08-19) ---
-This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
-Summary Points
-
-LTC Telecoms continues to support the earthquake response through coordinated internet connectivity and renewable power solutions, working with government authorities, telecommunications providers and humanitarian partners to sustain critical services for affected communities and responders.
-At the request of the Ministry of Health, a joint assessment of 15 health centres in La Guaira began on 13 August to identify infrastructure, electricity and connectivity constraints and inform recovery priorities.
-As Venezuela transitions from emergency response to recovery and reconstruction, LTC Telecoms and partners are gradually scaling down activities, and planning for transition of functions to national
-institutions while reviewing future support requirements.
+Venezuela continues to face a complex humanitarian situation marked by socioeconomic vulnerabilities, pressure on essential services, and the impact of a water emergency in Sucre state and two severe earthquakes on 24 June.
+By 30 June, UNICEF and partners had reached over 244,000 children under five with primary healthcare services and screened 146,534 children aged 6–59 months for wasting. WASH interventions expanded access to safe water for drinking and domestic use to 134,961 people.
+More than 72,000 children, adolescents and caregivers received community-based mental health and psychosocial support, while 6,580 children accessed formal and non-formal education opportunities.
+This Situation Report covers results under the original 2026 Humanitarian Action for Children appeal up to 30 June 2026, prior to the HAC revision following the earthquakes, which increased the funding requirement from US$137.6 million to US$203.3 million.
