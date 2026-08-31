@@ -1,24 +1,21 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: PDC (2026-08-28) ---
-Snapshot of Key Concerns
-Severity: A glacial collapse on the Tibet side of the border of Nepal sent a catastrophic surge down the Lhende Khola into the Bhote Koshi River. The collapse was large enough to register seismically with USGS and trigger a massive flood downstream in Rasuwa, Nuwakot, Dhading, and Chitwan districts.
-Timing: Morning of August 26, 2026, floodwaters traveled down the Trishuli River as far as Mugling before beginning to recede. Damage spans the corridor from Timure through Syabrubesi, Betrawati, and Trishuli Bazaar.
-Key Concerns: Impacted communities are in extremely remote, difficult-to-access areas. Numerous roads and bridges have been washed out, and other critical infrastructure including communications and hydropower have been severly damaged according to PDC’s AI for Humanity. This has constrained search and rescue efforts. Helicopters are the primary means of access, and adverse weather intermittently grounded flights.
-
---- Report 2: HOPE (2026-08-28) ---
-Project HOPE's Emergency Response Team is in Nepal, mobilizing a response to devastating landslides and flash floods caused by a massive glacier avalanche.
-Situational Context
-On the morning of August 26, 2026, a glacier avalanche near the border between Nepal and China sent tons of rock, mud, and ice into nearby rivers. This disaster triggered massive floods, powerful landslides, and registered a force equal to a 5.2-magnitude earthquake, according to the U.S. Geological Survey. As a result, entire villages have been wiped out and there have been significant impacts to critical infrastructure, including major roads, bridges, and electricity systems.
-Initial reports put the death toll over 360, with figures expected to rise as search and rescue efforts continue. At least 1,400 people are reported missing, including tourists from as many as 27 different countries, including the United States. Many visitors in the affected area were there for the Nepali festival of Janai Purnima on Friday or on pilgrimage to Tibet’s Mount Kailash, a sacred site for Hindus.
-Conditions remain dangerous in Nepal, with weather forecasts predicting three days of heavy rain and this disaster making the ongoing monsoon season even more of a threat to affected communities. Additionally, yesterday’s landslides formed a new lake, which now poses a significant risk as new bodies of water are at an increased risk of further landslides, mudslides, and flash floods.
-
---- Report 3: IRDR (2026-08-28) ---
-Overview
-On 26 August 2026, a catastrophic flash flood and debris flow event struck the Nepal-China border region, triggered by an ice-rock avalanche that temporarily dammed the Lhende/Bhotekoshi River system before breaching and unleashing a massive surge of water, mud, and debris. In immediate response to this disaster, two major Chinese scientific data centers, which are IRDR’s partners, activated emergency protocols and rapidly mobilized satellite and scientific datasets to support emergency response, damage assessment, and relief operations. This brief summarizes the satellite and scientific data resources made available by these two centers.
-
---- Report 4: IOM (2026-08-28) ---
+--- Report 1: WFP (2026-08-30) ---
+KEY HIGHLIGHTS
+• WFP has dispatched 31.8 mt of food assistance to date and previously delivered 2.8 mt of BP-5 for immediate relief. This includes 27 mt dispatched to Dhading for approximately 750 households (3,225 people) and 6 mt to Rasuwa for approximately 170 households (730 people) for 15 days.
+• WFP continues to support the Government-led response by transporting relief supplies and operating the Kathmandu Humanitarian Staging Area, which remains open 24/7 to enable storage, coordination and onward dispatch of emergency assistance.
+• WFP has deployed field teams to monitor food distributions and gather operational information, while preparations are underway to strengthen post-distribution monitoring through beneficiary mapping, enumerator training and surge monitoring capacity.
 Situation Overview
-On the morning of 26 August 2026, a sudden and powerful flash flood swept through the Bhote Koshi and Trishuli river systems in central Nepal, affecting settlements across Rasuwa, Nuwakot and Dhading districts, including the Rasuwagadhi border crossing area. Officials suspect that the flooding may have been triggered by an upstream ice or rock avalanche, or by a glacial lake outburst, rather than by local rainfall. The exact cause remains under investigation.
-At least 165 people have been confirmed dead, while search and rescue operations remain ongoing. A further, 826 people have been reported missing, including 579 tourists. Communication and physical access remain severely constrained, with telephone towers and electricity infrastructure damaged and roads into Rasuwa cut off, delaying assessments and the delivery of humanitarian assistance.
-Significant damage to critical infrastructure has been reported, including approximately 40 km of road, as well as damage to schools, markets, health facilities, private houses, police posts, weather stations and the Timure customs office. Nepal’s National Disaster Risk Reduction and Management Authority (NDRRMA) estimates that approximately 10,000 households require immediate relief. The full extent of humanitarian needs and damage remains unclear pending completion of inter-agency assessments.
+• Northern Nepal continues to face the severe impacts of the 26 August flash flood event affecting Rasuwa, Nuwakot and Dhading districts. The disaster has caused extensive loss of life and widespread destruction of transport, energy and communications infrastructure.
+• The death toll has risen to approximately 734 people, with around 242 injured and 2,448 people still reported missing in Nepal as search and recovery operations continue. More than 8,198 people have been rescued to date.
+• Extensive damage to infrastructure continues to hamper access, including approximately 40 km of roads, more than 80 bridges, and at least 14 hydropower and energy facilities along the Bhote Koshi-Trishuli corridor
+
+--- Report 2: WFP (2026-08-29) ---
+KEY HIGHLIGHTS
+• WFP has dispatched 31.8 mt of food assistance to date and previously delivered 2.8 mt of BP-5 for immediate relief. This includes 27 mt dispatched to Dhading for approximately 750 households (3,225 people) and 6 mt to Rasuwa for approximately 170 households (730 people) for 15 days.
+• WFP continues to support the Government-led response by transporting relief supplies and operating the Kathmandu Humanitarian Staging Area, which remains open 24/7 to enable storage, coordination and onward dispatch of emergency assistance.
+• WFP has deployed field teams to monitor food distributions and gather operational information, while preparations are underway to strengthen post-distribution monitoring through beneficiary mapping, enumerator training and surge monitoring capacity.
+Situation Overview
+• Northern Nepal continues to face the severe impacts of the 26 August flash flood event affecting Rasuwa, Nuwakot and Dhading districts. The disaster has caused extensive loss of life and widespread destruction of transport, energy and communications infrastructure.
+• The death toll has risen to approximately 734 people, with around 242 injured and 2,448 people still reported missing in Nepal as search and recovery operations continue. More than 8,198 people have been rescued to date.
+• Extensive damage to infrastructure continues to hamper access, including approximately 40 km of roads, more than 80 bridges, and at least 14 hydropower and energy facilities along the Bhote Koshi-Trishuli corridor.
