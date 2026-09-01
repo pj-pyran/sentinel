@@ -1,15 +1,15 @@
 Crisis / situation: Pacific: Dengue Outbreak - 2025-2026
 
---- Report 1: WHO (2026-08-11) ---
-No summary available.
-
---- Report 2: SPC (2026-08-10) ---
+--- Report 1: SPC (2026-09-01) ---
 Key highlights:
 
-Nine new laboratory-confirmed dengue cases were reported in EW32, bringing the cumulative total to 76 confirmed cases.
-Weekly case counts have remained above the outbreak threshold since EW24, indicating ongoing community transmission.
-A total of 12 dengue-related hospitalisations (16%) have been reported; all patients have recovered and been discharged.
-No severe dengue cases or dengue-related deaths have been reported to date.
-DENV-1 remains the confirmed circulating serotype.
-Cases continue to be reported across multiple Area Councils on Efate, with the highest proportions in Erakor, Pango, Eratap, and Port Vila.
-Response activities, including enhanced surveillance, case investigations, vector control, risk communication, and community engagement, are ongoing
+A cumulative total of 112 confirmed dengue cases have been reported since the start of the outbreak, including 19 new cases identified between 17 and 30 August 2026 (EW33-EW34).
+The outbreak remains active, with ongoing local transmission in affected communities across South-West Efate, Shefa Province.
+Weekly case counts have remained above the outbreak threshold since EW24 and peaked at 15 cases in EW33.
+Dengue Virus Type 1 (DENV-1) has been confirmed as the circulating serotype.
+A total of 14 dengue-related hospitalisations have been reported. All patients have recovered and been discharged, and no severe dengue cases or deaths have been recorded to date.
+The most affected areas continue to be Erakor (31%), Port Vila (22%), Eratap (21%), and Pango (16%).
+Most cases (72%) are among individuals aged under 26 years, with the highest burden observed among children aged 5-15 years.
+
+--- Report 2: WHO (2026-09-01) ---
+No summary available.
