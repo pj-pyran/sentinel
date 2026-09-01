@@ -1,16 +1,18 @@
 Crisis / situation: Lebanon
 
---- Report 1: Islamic Relief (2026-08-31) ---
+--- Report 1: UNFPA (2026-08-31) ---
+Persistent humanitarian and protection challenges continue to affect communities across Lebanon. Displacement and returns remain volatile, particularly following the 5 August escalations and the subsequent evacuation warning issued for al-Mansouri.
+As of 6 August 2026, a total of 25,503 people—53 per cent of them women and girls—remain displaced across 242 collective shelters. Displaced people report receiving limited information or inadequate notice about shelter closures and available alternative accommodation. This increases the risk of involuntary or secondary displacement, disrupts access to essential services, and contributes to further psychological distress.
+Protection concerns remain acute among people experiencing prolonged displacement and those returning to conflict-affected areas. Women and girls, adolescents, older people and persons with disabilities face heightened risks associated with overcrowding, damaged housing, limited privacy, gender-based violence, financial hardship, and barriers to essential services.
+UNFPA estimates that approximately 390,000 women of reproductive age are among the displaced and returnee population, including around 16,000 pregnant women, with an estimated 1,800 expected to give birth each month. Many pregnant women are returning to areas where health infrastructure has sustained significant damage. Three hospitals and 27 primary health centres remain closed, the continued need for life-saving sexual and reproductive health supplies and services, particularly maternal healthcare and emergency obstetric care.
+Since the onset of the crisis in the beginning of March, UNFPA has reached 43,445 displaced people with sexual and reproductive health services and 47,126 people with gender-based violence prevention and response activities. This support has been delivered through 55 health facilities, nine mobile medical units, 24 mobile GBV teams and 19 women and girls’ safe spaces, serving people in collective shelters and host communities.
+However, access constraints and funding shortfalls continue to limit UNFPA’s ability to reach people in need. UNFPA has been appealing for US$25 million to address the urgent needs of 450,000 people. To date, only 16 per cent of the required funding has been secured, leaving a significant gap in the resources needed to sustain critical humanitarian and protection services.
+
+--- Report 2: Islamic Relief (2026-08-31) ---
 Conflict and protection: Attacks have continued in Lebanon since the ceasefire in March 2026, causing 16,585 casualties, further displacement, delayed returns, and ongoing violations of international law (see page 2).
 Humanitarian funding: Funding shortfalls continue to undermine humanitarian efforts, with only 52% of the 2026 UN Lebanon Flash Appeal funded.
 Our response: Despite access constraints and funding cuts, Islamic Relief Lebanon has expanded its emergency response and adapted programmes to reach those most affected as displacement patterns evolved (see page 6).
 Advocacy: Islamic Relief advocates for a permanent ceasefire, protection of civilians and civilian infrastructure, safe and dignified returns, accountability for violations, respect for international humanitarian law, and increased humanitarian assistance (see page 5).
-
---- Report 2: DFS (2026-08-31) ---
-Executive Summary
-This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/lebanon
 
 --- Report 3: DFS (2026-08-31) ---
 Executive Summary
@@ -18,7 +20,13 @@ This Lebanon SituationHub report provides comprehensive situational analysis and
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/lebanon
 
---- Report 4: Anera (2026-08-31) ---
+--- Report 4: DFS (2026-08-31) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/lebanon
+
+--- Report 5: Anera (2026-08-31) ---
 WAR HAS ACCELERTED DECLINING PROSPECTS
 This report captures a critical inflection point for Palestinian refugees in Lebanon, where long-standing structural vulnerabilities have converged with the impact of the 2026 war. The conflict has not created these inequalities, but it has sharply exposed and intensified them, revealing how fragile existing systems had already become.
 Even before the latest escalation, years of economic collapse and declining international funding had pushed many families into survival mode, as access to healthcare, education and livelihoods steadily eroded, while humanitarian institutions were forced to scale back services due to sustained funding shortfalls.
