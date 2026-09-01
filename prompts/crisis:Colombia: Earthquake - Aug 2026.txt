@@ -1,20 +1,14 @@
 Crisis / situation: Colombia: Earthquake - Aug 2026
 
---- Report 1: WFP (2026-08-28) ---
-IN NUMBERS
+--- Report 1: ETC (2026-09-01) ---
+This Situation Report provides an overview of the magnitude 7.4 earthquake that struck Colombia on 10 August 2026 and its impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC) 1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is not formally activated for this emergency but is providing coordination and technical support to humanitarian partners as required.
+Summary Points
+• LTC Telecoms continued engagement with government authorities and humanitarian partners to assess telecommunications needs, identify connectivity gaps and determine priority support requirements for the earthquake response.
+• On 25 August, humanitarian agencies agreed to reactivate the UN ICT Working Group and identified priority requirements for satellite connectivity, resilient power solutions, radio communications, ICT equipment and technical support.
+• On 29 August, an Ericsson Response telecommunications specialist deployed to Colombia to assess infrastructure damage, identify connectivity gaps and support planning for potential inter-agency telecommunications services.
 
-6,400 earthquake-affected people reached.
-66 metric tonnes of emergency food assistance distributed.
-USD 28.5M required for earthquake and wildfires response.
-
-KEY HIGHLIGHTS
-• Under the earthquake emergency response, WFP is now transitioning from a rapid emergency assistance to a more targeted support, using field assessments and updating response plans to prioritize the most vulnerable households and expand cash-based assistance where markets are functioning.
-• Concurrent wildfire are increasing operational complexity, particularly in Tolima, where agricultural losses and food security impacts may require complementary emergency response alongside earthquake assistance.
-• Despite confirmed contributions of approximately USD 6.7 million, WFP faces significant funding gaps against its USD 23 million required for the earthquake response and USD 5.5 million needed to support wildfire-affected people.
-
---- Report 2: EHP Colombia (2026-08-28) ---
-The emergency continues to have a large-scale, multisectoral humanitarian impact. More than 406,000 people (193,011 families) have been affected by the earthquake, with the highest concentrations in Risaralda, Valle del Cauca, Chocó, Quindío and Caldas. In addition to the loss of life, significant damage has been reported to community, health and education infrastructure, water systems and access roads, further increasing humanitarian assistance and recovery needs.
-The national and local response continues to scale up to address critical needs. National and local authorities continue to prioritize physical and mental health services, water and sanitation, humanitarian assistance and the management of temporary shelters. These efforts are complemented by financial relief measures for affected families and technical support for the assessment and recovery of damaged infrastructure.
-The humanitarian community and donors are strengthening the response, although significant funding gaps remain. At least 25 humanitarian organizations have provided assistance to nearly 72,000 people across 36 affected municipalities, while donors have mobilized more than US$40 million and the Central Emergency Response Fund (CERF) has allocated US$5 million for life-saving activities. However, the 2026 Humanitarian Response Plan Addendum requires additional funding to address humanitarian needs through the end of the year.
-
-This Flash Update is produced by OCHA Colombia with inputs from humanitarian partners and official reports. Information as of 27 August, 20:00.
+--- Report 2: IOM (2026-08-30) ---
+SITUATION OVERVIEW
+On 10 August 2026, at 7:34 a.m., a magnitude 7.4 earthquake struck, with its epicenter in San José del Palmar, Chocó Department. Given the scale of the emergency, the National Government declared a national disaster and an Economic, Social and Ecological Emergency. Since then, Chocó, Valle del Cauca, Risaralda and Caldas have remained priority departments due to the extent of the impact.
+In Colombia, emergency response is led by the National Government, within the framework of the National System for Disaster Risk Management (SNGRD) and under the coordination of the National Unit for Disaster Risk Management (UNGRD). At the territorial level, departmental and municipal authorities, together with UNGRD local staff, guide the identification of needs and response priorities.
+The international humanitarian community complements the Government-led response by aligning its capacities with the priorities identified by the authorities. Coordination takes place at the national level through the Humanitarian Country Team (EHP) and, at the departmental level, through the Local Coordination Teams (ELCs), in coordination with territorial authorities.
