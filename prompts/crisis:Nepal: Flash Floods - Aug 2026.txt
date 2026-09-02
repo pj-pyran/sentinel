@@ -1,6 +1,15 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: WFP (2026-09-01) ---
+--- Report 1: IFRC (2026-09-02) ---
+Description of the Event
+Date of event 26-08-2026
+What happened, where and when?
+A major flash flood struck Nepal's Rasuwa district on 26 August 2026, sending a powerful surge of water, sediment and boulders through the Bhote Koshi and Trishuli river systems. The flood breached riverbanks and travelled downstream through the Bhote Koshi into the Trishuli River, with extensive impacts into Nuwakot and Dhading Districts. (ICIMOD, 26 August 2026). The flooding was so massive that there are reports that the water level at the Trishuli River rose to 9 meters above the normal level, engulfing towns, bridges, schools, hydropower, etc. on the way downstream. (ICIMOD, 26 August 2026)
+The disaster caused severe damage to settlements, markets, police stations, roads, and hydropower facilities, with Timure border market heavily impacted and villages along riverbanks in Rasuwa, Nuwakot, and Dhading reporting destruction. Authorities have reported severe damage in Timure market, customs office, multiple hydropower projects, etc. The National Disaster Risk Reduction and Management Authority (NDRRMA) has issued a red alert for downstream districts including Rasuwa, Nuwakot, Dhading, Gorkha, and Chitwan, while the Government convenes an Emergency Disaster Council meeting chaired by the Prime Minister to coordinate search and rescue, preliminary damage assessment, and humanitarian standby operations, with relief dispatches mobilised from the Kathmandu Humanitarian Staging Area and health logistics coordinated through Health Emergency Operation Center, Ministry of Health and Food Safety, and WHO.
+Travel has been discouraged on Prithvi Highway, the Galchi-Nuwakot-Rasuwa-Syabrubesi road, Muglin-Narayangadh road. Kathmandu Valley Traffic Police has reportedly halted vehicles heading toward Rasuwa and other affected districts. People working, fishing, or conducting activities near the Trisuli River have been restricted from going into the river corridor.
+A DREF of approximately CHF 1 million was launched on 26 August to kickstart the response and CHF 100,000 Emergency Advance Payment was provided as immediate support to the Nepal Red Cross Society (NRCS) to start lifesaving activities. On 27 August, the IFRC launched an Emergency Appeal with a Federation-wide funding requirement of CHF 25 million (18 million IFRC Secretariat) as part of the support to NRCS for conducting response and recovery activities in the affected districts.
+
+--- Report 2: WFP (2026-09-01) ---
 KEY HIGHLIGHTS
 • WFP dispatched 70.6 mt of food rations, including 2.8 mt of BP-5 to Rasuwa, Dhading and Nuwakot, reaching nearly 8,000 people with 15 days of assistance.
 • WFP continues to support the Governmentled response through emergency food assistance and common logistics services. The Kathmandu Humanitarian Staging Area remains operational 24/7 to facilitate the receipt, storage and onward dispatch of relief supplies.
@@ -11,7 +20,7 @@ Situation Overview
 • Relief operations are expanding, but major road and bridge damage continue to restrict access to Rasuwa, where restoration is expected to take weeks.
 • The risk of further flooding remains high, with authorities maintaining alerts across Rasuwa, Nuwakot, Dhading and Chitwan due to renewed river level rises and continued monitoring of upstream flood hazards.
 
---- Report 2: HOPE (2026-09-01) ---
+--- Report 3: HOPE (2026-09-01) ---
 Project HOPE's Emergency Response Team is in Nepal, mobilizing mobile medical teams that will provide urgently needed care to communities devastated by the flash floods and landslides caused by last week’s massive glacier avalanche.
 Situational Context
 Entire villages, roads, bridges, electricity systems, and health facilities were wiped out after a glacier avalanche near the Nepal-China border triggered massive floods, apocalyptic landslides, and registered a force equal to a 5.2-magnitude earthquake.
@@ -21,13 +30,13 @@ This disaster left a roughly 40-mile path of destruction, but the flow of debris
 As access improves along the Trishuli River, the scale of humanitarian need is becoming clear. Affected communities will need support to meet nearly every basic need across the health; water, sanitation, and hygiene (WASH); mental health and psychosocial (MHPSS); food; essential non-food (NFI) item; and other sectors.
 Monsoon season and the threat of secondary disasters are making recovery efforts more difficult as conditions remain dangerous. Heavy rains over the last few days have swelled the Trishuli River and increased threats to already affected communities. Nepali authorities are also encouraging communities and first responders to remain on high alert as the Bhotekoshi River has continued to rise.
 
---- Report 3: Tzu Chi Foundation (2026-09-01) ---
+--- Report 4: Tzu Chi Foundation (2026-09-01) ---
 1. SITUATION UPDATE
 Access constraints continue to affect response operations in Dhading District. Landslides along sections of the Prithvi Highway have restricted traffic to single-lane movement, delaying the transport of heavy equipment and bulk relief supplies.
 Coordination with road authorities is ongoing to facilitate the movement of humanitarian personnel and cargo.
 To reduce flood exposure and support safer distributions, the relief site in Galchhi, Galchhi Rural Municipality, Dhading District, was relocated from a river-adjacent location to higher ground near the municipality office.
 
---- Report 4: EC (2026-08-31) ---
+--- Report 5: EC (2026-08-31) ---
 Civil Protection
 European assistance is coordinated through the ERCC under the EU Civil Protection Mechanism.
 National capacities are reinforced by rescEU strategic reserves and Copernicus emergency mapping.
@@ -43,12 +52,12 @@ Colombia: tents, water filters, kitchen sets, satellite mapping and €2.35 mill
 Middle East: More than 13,000 people were brought back home to Europe, following the beginning of hostilities in Iran, in March 2026.
 Ukraine: Over 5,000 patients evacuated to European hospitals through medevac operations.
 
---- Report 5: UNFPA (2026-08-31) ---
+--- Report 6: UNFPA (2026-08-31) ---
 On 26 August 2026, severe flash floods affected the Bhote Koshi and Trishuli river corridors, initially impacting Rasuwa and subsequently downstream areas of Nuwakot, Dhading and towards Chitwan. The floods have caused significant loss of life and extensive damage to critical infrastructure. Approximately 10,000 households have been affected, 626 people are currently reported to have died and more than 2,400 people are missing.
 Based on available population data, 310,076 people live in the affected areas, including approximately 86,820 women of reproductive age and 4,430 pregnant women. Damage to health facilities, roads, bridges and electricity infrastructure is disrupting access to life-saving sexual and reproductive health services, including emergency obstetric referrals, as well as complicating the delivery of essential humanitarian assistance.
 UNFPA has mobilized 2,000 dignity kits for affected women and girls, with delivery to affected communities facilitated through the Government of Nepal and the Nepal Red Cross Society. The response also includes the deployment of two mobile health units, alongside reproductive health supplies, to help maintain life-saving reproductive and maternal health services in affected areas. Remote psychosocial support services have also been activated to provide immediate remote assistance to affected populations, with a standby roster of trained personnel available for rapid deployment as psychosocial needs emerge.
 
---- Report 6: OCHA (2026-08-31) ---
+--- Report 7: OCHA (2026-08-31) ---
 This report is produced by the Office of the United Nations Resident Coordinator in Nepal, in collaboration with humanitarian partners and the Office for the Coordination of Humanitarian Affairs (OCHA). It covers the period from 27 to 31 August 2026.
 HIGHLIGHTS
 
@@ -74,7 +83,7 @@ The Government has officially declared a flood emergency in 15 municipalities an
 The Government created 15 Task Teams to streamline response actions: Emergency Communication Restoration Team, Electricity Restoration and Backup Power Team, Search, Rescue and Evacuation Team, Emergency Health and Medical Response Team, Dead Body Management Team, International Assistance and Donor Coordination Team, Transport and Road Connectivity Team, Rapid Damage and Needs Assessment Team, Missing Persons and Family Assistance Team, Relief (Food, Water and Essential Supplies), Airport Coordination Team, a team to make public the names of the rescued, disappeared and the dead, Camp Management Team, and Social Media Regulation/Management.
 International assistance has been robust and continues to grow, reflecting strong global solidarity and support for the response effort.
 
---- Report 7: UNICEF (2026-08-31) ---
+--- Report 8: UNICEF (2026-08-31) ---
 Highlights
 
 Nepal flash floods have affected an estimated 65,000 people, including 22,100 children, across Rasuwa, Nuwakot, Dhading, Gorkha and Tanahun districts. An estimated 903 people have been reported dead, while approximately 4,247 remain missing. The death toll continues to rise.
@@ -84,7 +93,7 @@ UNICEF delivers life-saving support across water sanitation and hygiene (WASH), 
 Critical UNICEF supplies for about 19,000 people have been provided to Rasuwa and Nuwakot districts. These include hygiene kits, buckets, soap, disinfectant, collapsible jerrycans, water purification products and risk communication materials.
 UNICEF urgently requires US$17.2 million to support immediate humanitarian response for affected children and families. Internal resources have been mobilized to kick-start the response, but additional funding is urgently needed.
 
---- Report 8: HAI (2026-08-31) ---
+--- Report 9: HAI (2026-08-31) ---
 CURRENT SITUATION
 
 The flash flood and debris flow that struck Nepal’s Bhote Koshi–Trishuli river system on 26 August has evolved into a large-scale humanitarian emergency, with rapidly rising casualties, hundreds of people still unaccounted for, widespread infrastructure damage and a continuing risk of secondary flooding along downstream river corridors.
@@ -94,7 +103,7 @@ At least 93,000 people are estimated to have been affected and require urgent hu
 Electricity, telecommunications, drinking-water and hydropower infrastructure remain disrupted or damaged, while the destruction of roads and bridges is continuing to constrain humanitarian access.
 Secondary flood risk remains high following the reported breach of a debris-created barrier lake near the Chhochen Khola–Purepu Tsangpo confluence, upstream of the Bhotekoshi. Nepalese authorities have been conducting aerial reconnaissance and monitoring water levels as communities downstream remain at risk of another surge.
 
---- Report 9: Tzu Chi Foundation (2026-08-31) ---
+--- Report 10: Tzu Chi Foundation (2026-08-31) ---
 Locations: Galchi Rural Municipality, Dhading District; Chitwan District; Kathmandu, Nepal
 Situation Overview
 Flash floods have affected Rasuwa, Nuwakot and Dhading districts in northern and central Nepal. Damaged infrastructure and restricted access continue to hamper relief efforts. In Galchi Rural Municipality, Dhading District, flooding destroyed a suspension bridge and damaged local infrastructure.
@@ -102,18 +111,3 @@ Operational Response
 Medical Outreach and Dignified Management of the Deceased
 On 28 August, a team from Tzu Chi Malaysia did an assessment visit to a hospital in Chitwan District that is receiving and managing bodies recovered from upstream flood-affected areas. The hospital reported acute shortages of mortuary capacity, body bags and Personal Protective Equipment (clothing). There was also a lack of protective supplies for security personnel, health workers and other responders handling bodies. Tzu Chi immediately procured 120 sets of Personal Protective Equipment (clothing) together with masks and gloves in Kathmandu. The supplies are being prepared for air transport to the hospital in Chitwan District.
 On 29 August, Tzu Chi Singapore prepared 300 body bags for delivery to Singapore Changi Airport. The items are planned for air shipment to Kathmandu to support a dignified management of the deceased, subject to transport arrangements and coordination.
-
---- Report 10: UN Women (2026-08-30) ---
-On 26 August 2026, severe flooding along the Bhotekoshi and Trishuli rivers affected communities across Rasuwa, Nuwakot, Dhading, Gorkha and Chitwan districts, causing loss of life, displacement and damage to homes, infrastructure, agricultural land and livelihoods. An estimated 157,050 women and girls living in Rasuwa and Nuwakot districts have been impacted directly and indirectly.
-The differentiated impacts on women and girls are not yet fully known. Initial information points to heightened risks associated with displacement and protection, access to safe WASH and essential health services, food and nutrition insecurity, loss of livelihoods and increased unpaid care responsibilities, and barriers to accessing humanitarian assistance and participating in recovery.
-This Gender Alert draws on available emergency information, initial reporting from women’s rights organizations, pre-crisis gender data and evidence from previous disasters in Nepal to identify emerging gender risks and priority actions for the humanitarian response.
-
---- Report 11: WFP (2026-08-30) ---
-KEY HIGHLIGHTS
-• WFP has dispatched 31.8 mt of food assistance to date and previously delivered 2.8 mt of BP-5 for immediate relief. This includes 27 mt dispatched to Dhading for approximately 750 households (3,225 people) and 6 mt to Rasuwa for approximately 170 households (730 people) for 15 days.
-• WFP continues to support the Government-led response by transporting relief supplies and operating the Kathmandu Humanitarian Staging Area, which remains open 24/7 to enable storage, coordination and onward dispatch of emergency assistance.
-• WFP has deployed field teams to monitor food distributions and gather operational information, while preparations are underway to strengthen post-distribution monitoring through beneficiary mapping, enumerator training and surge monitoring capacity.
-Situation Overview
-• Northern Nepal continues to face the severe impacts of the 26 August flash flood event affecting Rasuwa, Nuwakot and Dhading districts. The disaster has caused extensive loss of life and widespread destruction of transport, energy and communications infrastructure.
-• The death toll has risen to approximately 734 people, with around 242 injured and 2,448 people still reported missing in Nepal as search and recovery operations continue. More than 8,198 people have been rescued to date.
-• Extensive damage to infrastructure continues to hamper access, including approximately 40 km of roads, more than 80 bridges, and at least 14 hydropower and energy facilities along the Bhote Koshi-Trishuli corridor
