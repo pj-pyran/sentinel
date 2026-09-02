@@ -1,10 +1,14 @@
 Crisis / situation: Pakistan
 
---- Report 1: Govt. Pakistan (2026-09-02) ---
+--- Report 1: WFP (2026-09-02) ---
+Using remote sensing techniques, the seven-day forecast of total rainfall for the country is analyzed against the long-term average rainfall to highlight the areas which are expected to receive above normal, normal and below normal rainfall. The satellite data for a period of thirty years from 1993-2023 is extracted from CHIRPS (Climate Hazards Group InfraRed Precipitation with Station data) and analyzed to estimate deviation from normal rainfall. For the forecast of total precipitation for next seven days, the data is sourced from global model of ECMWF (European Centre for Medium-Range Weather Forecasts).
+Satellite-based rainfall forecast analysis for 1-7 September indicates above normal rainfall across central and northern Pakistan, while below normal rainfall is expected in Sindh, southern Punjab and Balochistan. Additional rainfall over already affected northern and central areas may exacerbate the risk of flooding, GLOF and landslides, particularly in vulnerable locations across Khyber Pakhtunkhwa, Gilgit-Baltistan, Azad Jammu &amp; Kashmir, and northeastern Punjab.
+
+--- Report 2: Govt. Pakistan (2026-09-02) ---
 NDMA Monsoon 2026 Daily Situation Report No 68, covering period from 1300 hours 31 August to 1300 hours 1 September 2026 along with following data as per Annexures as shown against each is enclosed:-
 
---- Report 2: Govt. Pakistan (2026-09-01) ---
+--- Report 3: Govt. Pakistan (2026-09-01) ---
 NDMA Monsoon 2026 Daily Situation Report No 67, covering period from 1300 hours 30 August to 1300 hours 31 August 2026 along with following data as per Annexures as shown against each is enclosed.
 
---- Report 3: Govt. Pakistan (2026-08-31) ---
+--- Report 4: Govt. Pakistan (2026-08-31) ---
 NDMA Monsoon 2026 Daily Situation Report No 66, covering period from 1300 hours 29 August to 1300 hours 30 August 2026 alongwith following data as per Annexures as shown against each is enclosed:-

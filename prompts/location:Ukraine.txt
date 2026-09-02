@@ -1,6 +1,25 @@
 Crisis / situation: Ukraine
 
---- Report 1: Ukraine CWG (2026-09-02) ---
+--- Report 1: Protection Cluster (2026-09-02) ---
+Background and Rationale
+Since the beginning of the full-scale invasion by Russian Federation on Ukraine, protection risks faced by affected populations have evolved in scale, severity, and complexity. Ensuring a coherent, evidence-based, and community-centered understanding of these risks is essential for effective protection response, advocacy, and strategic decision-making.
+In 2022, the Global Protection Cluster (GPC) developed the Protection Analytical Framework (PAF) as a qualitative, risk-focused analytical approach to strengthen protection analysis across humanitarian contexts. Building on this, in 2023 the GPC, together with Protection Clusters globally, initiated the consolidation of Protection Monitoring Tools (PMT) and PAF into a unified Protection Risk Monitoring System (PRMS). This system is currently implemented in several operations (including Syria, oPt, Sudan, South Sudan, Haiti, and West Africa) and is now being introduced in Ukraine.
+The PRMS transformation responds to the need to:
+▪ Align protection monitoring with the 15 GPC Protection Risks, while ensuring alignment with Ukrainian context and focus on priority protection risks identified by partners.
+▪ Harmonize protection analysis across protection actors including Child Protection and GBV areas of specialization, partners, and data providers.
+▪ Strengthen the translation of protection risks into People in Need (PiN) and Severity estimates.
+▪ Ensure more inclusive and consultative protection information collection and analysis, enabling participating organizations meaningful contributions, visibility and application of collected data as per established protocols
+▪ Ensure that protection analysis systematically informs humanitarian planning, advocacy, and programming – both at operational and strategic level, including the HNRP and Protection Analysis Updates (PAUs), and linking up with humanitarian coordination system and wider information landscape in Ukraine, namely the HCT, ICCG, IMWG HOCGs, ABCs, national and sub-national clusters and partners, Data Coordination Group. This includes complementarity with UNHCR’s Protection Survey.
+▪ Build in flexibility to provide protection analysis on specific thematic issues or for specific locations where protection risks are seen to become more acute.
+▪ Enhance skill-building among protection partners in Ukraine to collect and analyze protection information for improved protection outcomes for IDPs and other war-affected populations.
+
+--- Report 2: FAO (2026-09-02) ---
+Ukraine Food Security and Livelihoods Cluster (FSLC) Winter Response 2026-2027 Strategic Plan
+EXECUTIVE SUMMARY
+The FSLC 2026-2027 Winter Response combines life-saving food assistance with emergency livelihoods support to address immediate food needs while protecting critical productive assets during the winter period.
+The response will reach 136,888 people and requires an estimated USD 8.55 million, covering Ready-to-Eat Kits, hot meals, and emergency livestock and animal health assistance. Food assistance will support conflict-affected populations facing disruptions to food access and essential services, while livelihoods assistance will focus on livestock-owning households at risk of losing productive assets due to conflict, winter conditions, market disruption, and limited access to essential inputs.
+
+--- Report 3: Ukraine CWG (2026-09-02) ---
 Cash Working Group coordinated a complex
 but critical transition from MPCA to a
 harmonized approach of four Strategic
@@ -11,7 +30,7 @@ communities, CWG built the policy, systems and
 partnership foundations needed to launch UCTs
 nationwide on 1 April 2026.
 
---- Report 2: UNHCR (2026-09-01) ---
+--- Report 4: UNHCR (2026-09-01) ---
 UNHCR’s Protection Response
 ▪ The protection response by UNHCR and our partners provides tailored support to those most in need, aims to strengthen inclusive national systems and services, and encourages the participation of internally displaced people (IDPs) and returnees in decisions that affect them.
 ▪ Our protection response complements, reinforces and strengthens the capacity of national protection services to serve the growing population in need, in line with the Memoranda of Understanding with relevant Ministries and Oblast authorities.
@@ -20,19 +39,19 @@ UNHCR’s Protection Response
 ▪ Community-based protection was central to the protection response in the first half of the year, while 37 per cent centred on service provision, including legal, social and psycho-social services.
 ▪ UNHCR and partners promoted legal and policy developments through 54 advocacy and judicial interventions aimed at improving access to rights and services for forcibly displaced and stateless people.
 
---- Report 3: Protection Cluster (2026-09-01) ---
+--- Report 5: Protection Cluster (2026-09-01) ---
 The Protection Cluster’s Legal Aid Working Group identified the following legal issues and updates in April 2026 based on an analysis of information provided by its members1 and gathered from open sources.
 
---- Report 4: Protection Cluster (2026-09-01) ---
+--- Report 6: Protection Cluster (2026-09-01) ---
 The Protection Cluster’s Legal Aid Working Group identified the following legal issues and updates in February-March 2026 based on an analysis of information provided by its members and gathered from open sources
 
---- Report 5: Protection Cluster (2026-09-01) ---
+--- Report 7: Protection Cluster (2026-09-01) ---
 *The Protection Cluster’s Legal Aid Working Group identified the following legal issues and updates in January 2026 based on an analysis of information provided by its members1 and gathered from open sources.*
 
---- Report 6: Protection Cluster (2026-09-01) ---
+--- Report 8: Protection Cluster (2026-09-01) ---
 The Protection Cluster’s Legal Aid Working Group identified the following legal issues and updates in May 2026 based on an analysis of information provided by its members1 and gathered from open sources.
 
---- Report 7: ETC (2026-09-01) ---
+--- Report 9: ETC (2026-09-01) ---
 The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 03 March 2022 in response to the crisis in Ukraine. This Situation Report provides a monthly update on LTC telecoms activities. All references to the LTC in this report relate specifically to the telecommunications area of the cluster.
 Summary Points
 

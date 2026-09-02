@@ -1,20 +1,29 @@
 Crisis / situation: Vanuatu
 
---- Report 1: Govt. Vanuatu (2026-06-03) ---
-Key Highlights:
+--- Report 1: Govt. Vanuatu (2026-09-02) ---
+Key highlights:
 
-16 new cases of ciguatera fish poisoning (CFP) reported between EpiWeek 19–21, bringing the cumulative total to 188 cases.
-Cases have significantly declined, but remained above the alert threshold in EpiWeek 19 and 21; only 3 cases were reported in EpiWeek 20.
-Males account for 61% of cases, while females account for 39%.
-Highest number of cases among individuals aged 15–34 years; fewer cases in those 35+, and lowest in children ≤14 years.
-Majority of cases linked to unspecified “other” fish (103 cases) and reef fish (71 cases), with smaller numbers linked to other fish types.
-Cases reported across 10 islands, with Efate accounting for 47% of reported cases.
-The Surveillance Team will continue close monitoring and provide updates as needed
+Rotavirus has been laboratory confirmed as the cause of the acute watery diarrhoea outbreak on Tanna Island.
+A cumulative 260 cases have been reported between EW30 and EW35, with 153 cases reported in EW35 alone, representing the highest weekly case count recorded to date.
+Transmission remains ongoing across Tanna Island, with cases reported from all surveillance sentinel sites.
+Children under five years account for 87% of reported cases, with children under two years most affected.
+One death has been reported in a one-year-old child with severe dehydration and underlying malnutrition.
+Response activities continue, including enhanced surveillance, case management, health promotion, and community engagement.
 
---- Report 2: SPC (2026-06-03) ---
-Key Highlights:
+--- Report 2: Govt. Vanuatu (2026-08-31) ---
+Overview
 
-From EW19–EW21, 7 RSV cases and 1 influenza case were reported in EW21, bringing totals to 33 RSV and 9 influenza cases in 2026. ILI activity increased (489, 478, 565) but remained below the alert threshold, while SARI decreased (10, 9, 8).
-Most cases (84%) were in children aged 0–4 years. RSV accounted for the largest burden, and cases were slightly higher among females overall, though males accounted for most meningitis and influenza cases.
-Efate reported the majority of cases, including all RSV, influenza, and SARS-CoV-2 cases. Pentecost and Tanna each reported one meningitis case.
-No outbreak has been declared; however, respiratory virus circulation continues to be closely monitored
+From 10 August to 25 August 2026, a total of 81 cases of watery diarrhoea were reported through Lenakel Hospital.
+The weekly number of reported cases exceeded the outbreak alert threshold of 34 cases, resulting in the declaration of a watery diarrhoea outbreak in Tanna Island.
+Most cases were reported through Lenakel Hospital.
+Hotspot communities include Lounuloul, Imai, Isla, Lamtavekel, Loueiau, and lmarap.
+Case definition: Three or more loose or watery stools within a 24-hour period.
+
+Key highlights:
+
+81 cases reported between 10 and 25 August 2026.
+Cases exceeded the outbreak alert threshold, resulting in the declaration of an outbreak.
+Most cases are among children under 5 years of age.
+Seven cases have been hospitalised, with one severe case reported and no deaths to date.
+Stool samples have been collected and are awaiting laboratory results to identify the causative agent.
+Community awareness, enhanced surveillance, and case management activities are ongoing.
