@@ -1,25 +1,17 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: OCHA (2026-08-28) ---
-Situation Report No. 34
-Earthquakes in Venezuela
-27 August 2026
-Time: 5:00 pm
+--- Report 1: UNICEF (2026-09-02) ---
 Highlights
 
-Nearly 364,000 people affected by the earthquakes have accessed humanitarian assistance and essential services through a coordinated multi-sector response involving humanitarian organizations, United Nations agencies, communities, and national and local authorities.
-As of 24 August, authorities reported 6,509 deaths.
-The United Nations system and its partner organizations continue scaling up the multisectoral response to the emergency to address the needs of 1.3 million people affected by the earthquakes over the next six months.
+UNICEF continued supporting the transition from emergency response to early recovery, sustaining access to essential health, nutrition, WASH, child protection and education services for children and families affected by the earthquakes.
+To date, UNICEF has reached 37,901 people with primary health care services, including 27,963 people through emergency vaccination activities; 16,661 people with safe drinking water; 9,298 children, adolescents and caregivers with mental health and psychosocial support services; and 6,872 children screened for wasting.
+UNICEF supported learning continuity and school readiness by reaching 2,075 children and adolescents with educational supplies and training 568 teachers and education personnel in Education in Emergencies and psychosocial support.
+UNICEF has mobilized US$25.7 million against the US$65.7 million required under the Venezuela Earthquake Response Addendum, leaving a funding gap of US$40 million. With the addendum, UNICEF’s revised 2026 HAC requirements now total US$203.3 million.
 
-Situation overview
-Venezuela continues to face the consequences of the two major earthquakes (magnitudes 7.2 and 7.5) that struck the north-central region of the country on 24 June at 18:00 local time, causing significant humanitarian impacts and damage to infrastructure. The first earthquake, measuring 7.2, was centered along the San Felipe–Yumare–Montalbán axis (Yaracuy/Carabobo). According to a recent update from the United States Geological Survey (USGS), the second earthquake, measuring 7.5, had its epicenter 17 kilometers west of Catia La Mar, off the coast of La Guaira state.
-As of 24 August, authorities reported 6,509 deaths from the earthquakes. They also reported that 60,785 homes were evaluated, out of which 11,001 are at high risk. According to national authorities, 28.61 per cent of the total rubble has been cleared. A preliminary assessment by the United Nations Office for Disaster Risk Reduction (UNDRR) estimates direct damage to housing and infrastructure at approximately US$37 billion, while preliminary estimates from UNDP place direct physical damages at US$6.7 billion, equivalent to 6 per cent of GDP.
-Two months after the earthquakes, the humanitarian response continues to expand across the affected states. As of 26 August, nearly 364,000 people (54 per cent women and girls) had access to essential services and humanitarian assistance through the joint efforts of communities, humanitarian organizations, United Nations entities, donor partners, and national and local authorities.
+--- Report 2: ETC (2026-09-01) ---
+This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
+Summary Points
 
---- Report 2: UNICEF (2026-08-27) ---
-Highlights
-
-Venezuela continues to face a complex humanitarian situation marked by socioeconomic vulnerabilities, pressure on essential services, and the impact of a water emergency in Sucre state and two severe earthquakes on 24 June.
-By 30 June, UNICEF and partners had reached over 244,000 children under five with primary healthcare services and screened 146,534 children aged 6–59 months for wasting. WASH interventions expanded access to safe water for drinking and domestic use to 134,961 people.
-More than 72,000 children, adolescents and caregivers received community-based mental health and psychosocial support, while 6,580 children accessed formal and non-formal education opportunities.
-This Situation Report covers results under the original 2026 Humanitarian Action for Children appeal up to 30 June 2026, prior to the HAC revision following the earthquakes, which increased the funding requirement from US$137.6 million to US$203.3 million.
+Nine weeks after the earthquakes, the Venezuela response is transitioning from emergency life-saving operations to recovery.
+The inter-agency LTC Telecoms Coordinator is supporting preparations for the phased closure of temporary operational shelter camps where inter-agency telecommunications services continue to be provided, ensuring service wind-down is aligned with camp closure timelines and humanitarian operational needs.
+To ensure continuity of telecommunications coordination during the transition, the inter-agency LTC Telecoms Coordinator will formally hand over responsibilities to the WFP Country Office (CO) as LTC lead agency, before his current mission ends on 06 September.

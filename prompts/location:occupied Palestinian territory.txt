@@ -1,20 +1,31 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: DFS (2026-08-31) ---
+--- Report 1: ETC (2026-09-02) ---
+The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 31 October 2023 in response to the crisis in Gaza. This Situation Report provides a monthly update on LTC telecoms activities. All references to the LTC in this report relate specifically to the telecommunications area of the cluster.
+Summary Points
+• LTC Telecoms continued to strengthen coordination with humanitarian partners, UNDSS, telecommunications stakeholders, and local ICT actors to support security communications, telecommunications planning, and operational preparedness across Gaza.
+• Inter-agency Security Communications Systems (SCS) were reinforced through progress on the Unified Radio Configuration Project, the programming of 24 VHF radios for UN agencies, security communications training, and efforts to sustain inter-agency tracking services.
+• Telecommunications infrastructure in Gaza remained critically degraded, with approximately 75 percent damaged or destroyed since October 2023, while restrictions on repairs and equipment imports continued to limit connectivity restoration efforts.
+
+--- Report 2: ETC (2026-09-02) ---
+Operation overview
+Armed conflict between Palestinian militant groups and Israeli military forces began on 07 October 2023. The conflict has resulted in a severe humanitarian crisis and significant disruption to communications networks, impeding humanitarian operations. The WFP-led Logistics and Telecommunications Cluster (LTC Telecoms) was activated on 31 October 2023 to meet the urgent need to support access to reliable shared communications services for humanitarian organizations operating in Gaza.
+
+--- Report 3: DFS (2026-08-31) ---
 Executive Summary
 The Occupied Palestinian Territories face a catastrophic humanitarian crisis marked by severe food insecurity, mass displacement, and the near-collapse of essential services. In Gaza, the majority of the population relies entirely on humanitarian assistance, with widespread destruction of housing, health facilities, water infrastructure, and educational institutions compounding the challenges faced by displaced families. Harsh winter conditions, repeated evacuation orders, and constrained humanitarian access continue to threaten the safety and well-being of civilians, with children, pregnant women, and other vulnerable groups bearing a disproportionate burden.
 In the West Bank, escalating military operations, settler violence, and movement restrictions have driven significant displacement and disrupted access to livelihoods, healthcare, and education. Economic contraction and rising unemployment have eroded household resilience, while demolitions and settlement expansion threaten further territorial fragmentation. Across both territories, humanitarian organizations are working to scale up food assistance, shelter support, health services, and protection programming, yet persistent access barriers, funding shortfalls, and ongoing hostilities continue to outpace the response, leaving Palestinians in urgent need of sustained international support and durable solutions.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the oPt crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/opt
 
---- Report 2: DFS (2026-08-31) ---
+--- Report 4: DFS (2026-08-31) ---
 Executive Summary
 The Occupied Palestinian Territories face a catastrophic humanitarian crisis marked by severe food insecurity, mass displacement, and the near-collapse of essential services. In Gaza, the majority of the population relies entirely on humanitarian assistance, with widespread destruction of housing, health facilities, water infrastructure, and educational institutions compounding the challenges faced by displaced families. Harsh winter conditions, repeated evacuation orders, and constrained humanitarian access continue to threaten the safety and well-being of civilians, with children, pregnant women, and other vulnerable groups bearing a disproportionate burden.
 In the West Bank, escalating military operations, settler violence, and movement restrictions have driven significant displacement and disrupted access to livelihoods, healthcare, and education. Economic contraction and rising unemployment have eroded household resilience, while demolitions and settlement expansion threaten further territorial fragmentation. Across both territories, humanitarian organizations are working to scale up food assistance, shelter support, health services, and protection programming, yet persistent access barriers, funding shortfalls, and ongoing hostilities continue to outpace the response, leaving Palestinians in urgent need of sustained international support and durable solutions.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the oPt crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/opt
 
---- Report 3: OCHA (2026-08-31) ---
+--- Report 5: OCHA (2026-08-31) ---
 Highlights
 
 Since the beginning of 2026, more than 1,040 Palestinians have been injured in settler attacks, with 80 settler incidents resulting in casualties or property damage in the second and third weeks of August.
@@ -68,7 +79,7 @@ According to data collected by the Logistics Cluster, the UN and partners’ aid
 The UN is only able to confirm the entry of supplies tracked by UN 2720. For breakdowns of those, see the online UN 2720 Mechanism Dashboard.
 For a detailed account of the latest humanitarian operations in Gaza, see Annex 1 below.
 
---- Report 4: UNRWA (2026-08-31) ---
+--- Report 6: UNRWA (2026-08-31) ---
 All information updated for 12 - 25 August 2026 [1]
 Days 1039 - 1052 since the start of the war in the Gaza Strip
 Highlights
