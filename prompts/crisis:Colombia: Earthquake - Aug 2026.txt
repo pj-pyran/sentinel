@@ -1,14 +1,16 @@
 Crisis / situation: Colombia: Earthquake - Aug 2026
 
---- Report 1: ETC (2026-09-01) ---
+--- Report 1: EHP Colombia (2026-09-02) ---
+The earthquake has triggered a large-scale humanitarian emergency. More than 466,600 people have been affected, including 331 fatalities, thousands of people injured or missing, and more than 36,000 homes destroyed. The emergency continues to affect entire communities, with severe damage to basic infrastructure, education facilities and access to essential services.
+Urgent needs persist, alongside risks of compounded impacts. In addition to the damage caused by the earthquake, many communities are facing compounded impacts from other emergencies and risks associated with armed conflict. The Government response is prioritizing health, water, temporary shelter and humanitarian assistance; however, humanitarian needs remain significant.
+Humanitarian action and international support remain essential. At least 29 humanitarian organizations have provided assistance to nearly 123,000 people across 49 municipalities, complementing the response led by national and local authorities. The international community has mobilized more than US$40 million, while the 2026 Humanitarian Response Plan Addendum continues to seek funding to address the needs of affected populations through the end of the year.
+Coordination among authorities, humanitarian organizations, the private sector and international partners remains critical to saving lives, restoring essential services and supporting the recovery of affected communities.
+
+This Flash Update is produced by OCHA Colombia, based on inputs from humanitarian partners and official reports. Information as of 2 September 2026, 17:00 hrs.
+
+--- Report 2: ETC (2026-09-01) ---
 This Situation Report provides an overview of the magnitude 7.4 earthquake that struck Colombia on 10 August 2026 and its impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC) 1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is not formally activated for this emergency but is providing coordination and technical support to humanitarian partners as required.
 Summary Points
 • LTC Telecoms continued engagement with government authorities and humanitarian partners to assess telecommunications needs, identify connectivity gaps and determine priority support requirements for the earthquake response.
 • On 25 August, humanitarian agencies agreed to reactivate the UN ICT Working Group and identified priority requirements for satellite connectivity, resilient power solutions, radio communications, ICT equipment and technical support.
 • On 29 August, an Ericsson Response telecommunications specialist deployed to Colombia to assess infrastructure damage, identify connectivity gaps and support planning for potential inter-agency telecommunications services.
-
---- Report 2: IOM (2026-08-30) ---
-SITUATION OVERVIEW
-On 10 August 2026, at 7:34 a.m., a magnitude 7.4 earthquake struck, with its epicenter in San José del Palmar, Chocó Department. Given the scale of the emergency, the National Government declared a national disaster and an Economic, Social and Ecological Emergency. Since then, Chocó, Valle del Cauca, Risaralda and Caldas have remained priority departments due to the extent of the impact.
-In Colombia, emergency response is led by the National Government, within the framework of the National System for Disaster Risk Management (SNGRD) and under the coordination of the National Unit for Disaster Risk Management (UNGRD). At the territorial level, departmental and municipal authorities, together with UNGRD local staff, guide the identification of needs and response priorities.
-The international humanitarian community complements the Government-led response by aligning its capacities with the priorities identified by the authorities. Coordination takes place at the national level through the Humanitarian Country Team (EHP) and, at the departmental level, through the Local Coordination Teams (ELCs), in coordination with territorial authorities.

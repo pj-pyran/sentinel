@@ -1,9 +1,9 @@
 Crisis / situation: Guatemala: Measles Outbreak - Jan 2026
 
---- Report 1: PAHO (2026-07-03) ---
-Between epidemiological week (EW) 1 and EW 25 of 2026(ending on 27June 2026), the Region of the Americas reported 22,974 confirmed measles cases from 17 countries and territories, representing an 181% increase compared to the same period in 2025. Mexico (11,820), Guatemala (7,067), the United States (2,134) and Canada (1,079) accounted for the majority (96%) of confirmed cases (Map 1). Additionally, 39 deaths have been reported (1).
-During EW 23 and EW 24 of 2026, the Region of the Americas reported 479 new confirmed measles cases across seven countries and territories, representing a 51.1% decrease compared with the previous two-week period (EW 21-22; 980 new cases) (Figure 1). This decline was driven primarily by continued decreases in Mexico, Peru, and the United States. In Canada, case numbers have remained low and appear to be plateauing, with only a small number of cases reported each week. Trends in Guatemala should be interpreted with caution, given possible reporting delays or updates in recent weeks2.
-In the context of the recent earthquakes in Venezuela, the risk of measles transmission remains a concern due to suboptimal vaccination coverage, surveillance gaps, and increased population movement related to emergency response operations. Available information indicates low coverage for both first and second doses of measles-containing vaccine, as well as the presence of silent municipalities. Given the risk of possible imported cases, particularly in areas receiving humanitarian personnel, supplies, or population movements, strengthening early detection, laboratory confirmation capacity, active case finding, and vaccination of susceptible populations remains a priority to reduce the risk of importation and onward transmission.
-
---- Report 2: PAHO (2026-07-02) ---
+--- Report 1: PAHO (2026-09-02) ---
 No summary available.
+
+--- Report 2: PAHO (2026-09-02) ---
+Summary of the Situation
+Between epidemiological week (EW) 1 and EW 33 of 2026 (which ended on August 22, 2026), the Region of the Americas reported 51,027 confirmed cases of measles in 17 countries and territories, representing a 4.6-fold increase compared with the same period in 2025. Guatemala (32,566), Mexico (12,607), the United States (2,777), and Canada (1,117) account for the vast majority (96%) of confirmed cases (Map 1). A total of 55 deaths have been reported, including 36 in Guatemala, 18 in Mexico, and one in Bolivia (1).
+During EW 31 and 32 of 2026, the Region of the Americas reported 1,162 new confirmed cases of measles in seven countries and territories, representing a 28.1% decrease compared with the previous two-week period (EW 29–30; 1616 new cases, of which 921 were retrospectively accounted for since the last situation report was published) (Figure 1). Of the 1,162 new confirmed cases reported during EW 31–32, Guatemala accounted for 611, followed by the United States with 239, Peru with 211, and Mexico with 96 while Bolivia reported three cases and Canada and Honduras one each.
