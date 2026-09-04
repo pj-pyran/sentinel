@@ -1,6 +1,27 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: OCHA (2026-09-02) ---
+--- Report 1: WFP (2026-09-04) ---
+KEY HIGHLIGHTS
+• WFP has dispatched 85.8mt of food rations sufficient for 15 days to Dhading, Nuwakot and Rasuwa, along with 2.8 mt of BP-5 and 40 boxes (0.45 mt) of fortified biscuits, reaching 8,000 people.
+• WFP has facilitated 101 transport movements to date, including 57 services supporting Government-led relief operations and 44 WFP dispatches delivering assistance to flood-affected communities.
+• The Logistics Cluster has been activated and is consolidating partner requirements to determine common logistics services.
+Situation Overview
+• Relief efforts continue across flood-affected districts following the 26 August floods, as search efforts, access constraints and major needs persist. Reported fatalities have risen to 1,259, with 5,083 people still missing.
+• Floods severely damaged settlements, transport infrastructure and key economic assets along the Bhotekoshi–Trishuli corridor, with major disruptions continuing on the Rasuwagadhi and Betrawati–Rasuwagadhi routes and at several critical road and bridge crossings.
+• Access to affected communities remains a major operational challenge, particularly in Rasuwa, where three local governments across the Trishuli River are still cut off by road.
+• Damaged transport links, unstable terrain, compound by monsoon rains and ongoing flood risks continue to constrain relief operations, and restoration of key infrastructure may take several months.
+
+--- Report 2: HOPE (2026-09-04) ---
+Project HOPE has established three mobile medical units in Nepal, in coordination with Volunteer Corps Nepal. Located in hard-to-reach communities along the Trishuli River, health providers with VCN began providing care this week, improving access to essential, lifesaving care for flood survivors and those impacted by last week’s massive glacier avalanche, flash floods, and landslides.
+Situational Context
+The scale of devastation in Nepal and the enormity of the future recovery process is beginning to set in for affected communities in Nepal. Humanitarian responders and community members are navigating villages where entire stories of buildings are buried under mud. Infrastructure has been deeply impacted, health facilities have been wiped out, and access to essential services is limited. Health threats loom large and the mental health impacts of living through the disaster are becoming more and more apparent as time goes on.
+Current reporting varies between local sources and connectivity remains strained, limiting the flow of information. At the time of this report, estimates show at least 1,250 dead and 1,800 missing in Nepal. Chinese authorities have also reported 21 fatalities and 541 people missing in Tibet. These numbers include tourists from dozens of countries and local community members. The affected area is a popular tourist area for hiking, trekking, and religious pilgrimage as Tibet’s Mount Kailash is a sacred site for Hindus, Buddhists, Jains, and other religious groups.
+Nepali authorities continue to proceed with mass burials as the number of deceased washing ashore is exceeding morgue capacity in some locations. This disaster left a roughly 40-mile path of destruction, but the flow of debris traveled as far as 62 miles and there are reports of bodies washing ashore up to 250 miles downstream in Nepal and 100 miles downstream in neighboring India.
+An estimated 3,458 displaced people are living across 27 displacement sites in Nuwakot and Rasuwa, primarily in schools, according to OCHA reporting**.** Significant access gaps remain in hard-to-reach locations. Parts of Tarkeshwar report receiving no assistance, all wards in Aamachhodingmo remain inaccessible by road, and four rural municipalities in Dhading lack safe drinking water. UNICEF estimates that 22,000 children are without access to safe water.
+Damaged infrastructure, including 41 destroyed bridges and blocked highways, is limiting the delivery of available relief supplies to remote communities. The scale of reconstruction needs is also significant as approximately 20,000 homes will need to be rebuilt, including 7,500 that were destroyed, according to Nepal’s National Disaster Risk Reduction and Management Authority.
+Access varies across the affected communities, as continued rainfall is exacerbating muddy roads and other disrupted infrastructure. In the coming months, affected communities will need support to meet nearly every basic need across the health; water, sanitation, and hygiene (WASH); mental health and psychosocial (MHPSS); food; essential non-food (NFI) item; and other humanitarian sectors.
+
+--- Report 3: OCHA (2026-09-02) ---
 HIGHLIGHTS
 
 The Rasuwa floods have claimed 1,003 lives, with 3,916 people still out of contact and 11,814 rescued (NDRRMA, 1 September, 13:00). Six days on, urgent needs include dignified management of the dead, family tracing, and psychosocial support.
@@ -11,7 +32,7 @@ Overcrowded camps, unsafe water, damaged health facilities, and disrupted referr
 The Government is leading the response through centralized relief operations and is prioritizing cash assistance, employment support, and nationally led recovery efforts.
 Following a joint Resident Coordination Office, OCHA, and WFP mission to Nuwakot on 31 August, partners are establishing a coordination hub in Bidur to strengthen operational coordination and address response gaps.
 
---- Report 2: IFRC (2026-09-02) ---
+--- Report 4: IFRC (2026-09-02) ---
 Description of the Event
 Date of event 26-08-2026
 What happened, where and when?
