@@ -10,10 +10,3 @@ Humanitarian action and international support remain essential. At least 29 huma
 Coordination among authorities, humanitarian organizations, the private sector and international partners remains critical to saving lives, restoring essential services and supporting the recovery of affected communities.
 
 This Flash Update is produced by OCHA Colombia, based on inputs from humanitarian partners and official reports. Information as of 2 September 2026, 17:00 hrs.
-
---- Report 3: ETC (2026-09-01) ---
-This Situation Report provides an overview of the magnitude 7.4 earthquake that struck Colombia on 10 August 2026 and its impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC) 1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is not formally activated for this emergency but is providing coordination and technical support to humanitarian partners as required.
-Summary Points
-• LTC Telecoms continued engagement with government authorities and humanitarian partners to assess telecommunications needs, identify connectivity gaps and determine priority support requirements for the earthquake response.
-• On 25 August, humanitarian agencies agreed to reactivate the UN ICT Working Group and identified priority requirements for satellite connectivity, resilient power solutions, radio communications, ICT equipment and technical support.
-• On 29 August, an Ericsson Response telecommunications specialist deployed to Colombia to assess infrastructure damage, identify connectivity gaps and support planning for potential inter-agency telecommunications services.
