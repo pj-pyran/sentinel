@@ -1,17 +1,44 @@
 Crisis / situation: Venezuela: Earthquakes - Jun 2026
 
---- Report 1: UNICEF (2026-09-02) ---
+--- Report 1: IMC (2026-09-03) ---
+FAST FACTS
+
+On June 24, two earthquakes of magnitude 7.2 and 7.5 hit northern Venezuela less than one minute apart, impacting at least seven states—including the capital Caracas and the neighboring city of La Guaira.
+Official figures have confirmed 6,509 fatalities, 6,462 people rescued and 226,696 people who have received hospital care following the quakes.
+Priority needs include healthcare services, clean water, food, mental health and psychosocial support (MHPSS), adequate sanitation and hygiene facilities, protection support and shelter.
+
+Our Response
+
+International Medical Corps has deployed three mobile medical units, which have provided 5,914 consultations since July 1.
+On July 11, International Medical Corps opened an Emergency Medical Team Type 1 Fixed facility that has so far provided 5,617 consultations.
+Our teams have delivered 900,000 liters of safe water across displacement sites.
+Our teams have provided 1,157 MHPSS services.
+
+--- Report 2: IOM (2026-09-03) ---
+Situation Report No. 27 provides an update on IOM’s response to the 24 June earthquakes in the Bolivarian Republic of Venezuela, covering the period from 28 August to 2 September 2026.
+Highlights
+Between 28 August and 2 September, IOM continued its multisectoral response in planned camps and affected communities through interventions in camp coordination and camp management (CCCM), shelter, health, mental health, protection, Water, Sanitation and Hygiene (WASH), information management, and Prevention of Sexual Exploitation and Abuse (PSEA). IOM maintained management of four planned camps in La Guaira, strengthened inter-agency coordination and continued supporting return and potential relocation processes for earthquake-affected populations.
+During the reporting period, IOM supported the update and verification of population records in Campo de Golf, confirming the presence of 330 people accommodated in 118 tents, including 111 women, 121 men and 98 girls and boys. The updated information will support service planning and discussions related to potential relocation options.
+IOM coordinated improvements to WASH infrastructure in Mare Abajo II, including greywater drainage works and installation of the structure for a new community laundry facility to improve access to basic services for camp residents.
+IOM continued providing health and mental health services in temporary accommodation sites, delivering 216 consultations during the reporting period, including 142 consultations in Cesar Nieves and 74 consultations in Jose Maria Vargas Sports Complex.
+IOM Activities
+IOM maintained coordination and management of the planned camps at Jose Maria Vargas Sports Complex and Campo de Golf and continued co-management of Cesar Nieves, Campo de Golf and Mare Abajo II together with the Norwegian Refugee Council (NRC). Activities focused on population registration, service coordination, community monitoring and support for return and relocation processes.
+Population registration and information management activities continued across the planned camps. In Campo de Golf, validation exercises conducted by IOM’s Displacement Tracking Matrix (DTM) team, together with Equilibrium and community representatives, identified 330 people accommodated in 118 tents. In Cesar Nieves and Mare Abajo II, updated records and needs assessments supported targeting and planning for future interventions.
+IOM continued distributing essential household items in camps and affected communities. During the reporting period, IOM provided 550 collapsible jerry cans, 521 plastic tarpaulins, 352 hygiene items, 340 tool kits, 224 solar lamps and 205 ropes. In addition, 320 families in Carabobo received integrated shelter and basic needs kits.
+In WASH, IOM continued coordinating water supply, sanitation and hygiene services across planned camps while monitoring water access, safe storage, drainage and sanitation infrastructure. In Mare Abajo II, IOM coordinated drainage improvements, greywater management works and installation of a community laundry facility. In Campo de Golf and Cesar Nieves, IOM monitored sanitation conditions and supported actions to improve access to WASH services.
+IOM continued delivering health, mental health and psychological support services through mobile teams and fixed service points. During the reporting period, 216 consultations were conducted, including services in general medicine, internal medicine, paediatrics, gynaecology and psychology. IOM also led the third Health Technical Working Group meeting in Campo de Golf and supported the introduction of a unified epidemiological data collection tool.
+In protection, IOM continued providing legal counselling, case management, referrals and coordination of protection services. Through its implementing organization HIAS, IOM provided services to 74 unique individuals in La Guaira and the Capital District. Activities also included strengthening protection mechanisms for children and adolescents, supporting women and girls at risk, and facilitating referrals to specialized services.
+IOM continued coordinating sectoral and inter-agency meetings with authorities, humanitarian organizations and community representatives. Coordination efforts supported ongoing discussions on relocation, return processes, infrastructure improvements, education, livelihoods and community participation across the planned camps.
+In PSEA, IOM continued integrating Prevention of Sexual Exploitation and Abuse principles into camp management and community activities. In Cesar Nieves, IOM and NRC implemented an entry protocol for external organizations and volunteers, including guidance on safeguarding, child protection and standards of conduct prior to carrying out activities in the camp.
+IOM Planned Response
+IOM will continue supporting return, relocation and temporary accommodation processes while maintaining updated population records to guide service planning and decision-making. IOM will also continue strengthening camp infrastructure, shelter conditions and service delivery in planned camps.
+In WASH, IOM will complete drainage and greywater works and operationalize the community laundry facility in Mare Abajo II, while strengthening hygiene promotion, safe water storage and sanitation activities across camps.
+IOM will continue providing health, mental health, psychological support and protection services, including referrals, case management and support for people with specific needs. In addition, IOM will maintain DTM registration and mobility monitoring activities, complete pending assessments and continue coordinating with authorities and implementing organizations to support evidence-based response planning, returns and potential relocations.
+
+--- Report 3: UNICEF (2026-09-02) ---
 Highlights
 
 UNICEF continued supporting the transition from emergency response to early recovery, sustaining access to essential health, nutrition, WASH, child protection and education services for children and families affected by the earthquakes.
 To date, UNICEF has reached 37,901 people with primary health care services, including 27,963 people through emergency vaccination activities; 16,661 people with safe drinking water; 9,298 children, adolescents and caregivers with mental health and psychosocial support services; and 6,872 children screened for wasting.
 UNICEF supported learning continuity and school readiness by reaching 2,075 children and adolescents with educational supplies and training 568 teachers and education personnel in Education in Emergencies and psychosocial support.
 UNICEF has mobilized US$25.7 million against the US$65.7 million required under the Venezuela Earthquake Response Addendum, leaving a funding gap of US$40 million. With the addendum, UNICEF’s revised 2026 HAC requirements now total US$203.3 million.
-
---- Report 2: ETC (2026-09-01) ---
-This Situation Report provides an overview of the twin earthquakes that struck Venezuela on 24 June 2026 (magnitudes 7.2 and 7.5), and their impact on telecommunications. It outlines the activities of the WFP-led Logistics and Telecommunications Cluster (LTC)1 Telecoms Area in supporting emergency communications for the humanitarian response. The Cluster is currently not formally activated for this emergency.
-Summary Points
-
-Nine weeks after the earthquakes, the Venezuela response is transitioning from emergency life-saving operations to recovery.
-The inter-agency LTC Telecoms Coordinator is supporting preparations for the phased closure of temporary operational shelter camps where inter-agency telecommunications services continue to be provided, ensuring service wind-down is aligned with camp closure timelines and humanitarian operational needs.
-To ensure continuity of telecommunications coordination during the transition, the inter-agency LTC Telecoms Coordinator will formally hand over responsibilities to the WFP Country Office (CO) as LTC lead agency, before his current mission ends on 06 September.
