@@ -1,6 +1,18 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: IOM (2026-09-04) ---
+--- Report 1: OCHA (2026-09-05) ---
+SITUATION OVERVIEW
+More than a week after the 26 August flood, search and rescue has largely given way to relief operations. NDRRMA reports 1,259 deaths, 5,083 people out of contact and 12,038 rescued. Access remains the principal constraint, with damaged roads and bridges slowing the movement of relief supplies into upper Rasuwa, and several locations reachable only on foot.
+Alongside the Government of Nepal, the Humanitarian Country Team launched a Flash Appeal in support of the Government-led response. The appeal seeks US$49.6 million to provide life-saving assistance to 84,270 people (19,284 households) in 17 municipalities across six districts: Rasuwa, Nuwakot, Dhading, Chitwan, Gorkha and Tanahu. All identified affected people are targeted, of whom nearly 40 per cent are children.
+Requirements cover ten sectors through the end of 2026, with roughly three quarters concentrated in five: food security (US$7.94 million), WASH (US$7.9 million), health (US$7.6 million), logistics and emergency telecommunications (US$7.33 million) and shelter (US$7.1 million). The appeal complements the Government's Official Disaster Relief Appeal of 27 August and the NDRRMA-led operation. It is a time-bound humanitarian response, not a recovery plan; recovery and reconstruction needs will be addressed through the Post-Disaster Needs Assessment.
+To sustain the immediate response ahead of the appeal, the CERF allocation has been recalibrated to US$2.5 million, prioritizing life-saving assistance in the worst-affected districts.
+The Logistics Cluster has been activated to support partners with logistics coordination, information management and common services, working with the Ministry of Home Affairs to identify and address transport bottlenecks. With WFP's support, a coordination base for the UN and partners is being established in Bidur, Nuwakot, providing shared operational and office space for agencies and cluster coordinators working closer to affected communities.
+HUMANITARIAN NEEDS AND RESPONSE
+Food and non-food items are in sufficient supply in the market areas in Bidur - Nuwakot. Relief supplies continue to build up in Nuwakot, as access challenges hinder the delivery of assistance to many of the most severely affected communities in Rasuwa.
+Protection remains a key concern, as women, men, and children continue to share common spaces in displacement centres, raising potential protection risks and limiting privacy for vulnerable groups. Psychological counselling and social and behaviour change (SBC) interventions on personal and menstrual hygiene are needed.
+Additional priorities include addressing WASH needs, improving displacement site management and tracking, establishing safe spaces for children, and providing specialized nutritious food to pregnant and breastfeeding mothers and children under five.
+
+--- Report 2: IOM (2026-09-04) ---
 SITUATION OVERVIEW
 The 26 August flash floods in central Nepal have caused significant loss of life, displacement and damage to homes, roads, bridges and essential services. Government-led response operations are ongoing, while access constraints and incomplete verification of displacement and housing impacts remain key challenges.
 As of 3 September 2026, authorities reported 1,259 bodies recovered and 5,053 people missing. A total of 12,038 people have been rescued, including 583 foreign nationals, with more than 21,402 security personnel mobilized.
@@ -10,7 +22,7 @@ Priority needs include temporary shelter and essential household items, safe wat
 Damaged roads and bridges, unstable riverbanks and disrupted telecommunications and electricity continue to constrain assessments, logistics and delivery of assistance to hard-to-reach communities.
 IOM is supporting the Government-led response through surge support, site assessments, coordination, health, protection, MHPSS, non-food items (NFI), early recovery and Displacement Tracking Matrix (DTM) activities to help inform targeted assistance to affected and displaced communities.
 
---- Report 2: WFP (2026-09-04) ---
+--- Report 3: WFP (2026-09-04) ---
 KEY HIGHLIGHTS
 • WFP has dispatched 85.8mt of food rations sufficient for 15 days to Dhading, Nuwakot and Rasuwa, along with 2.8 mt of BP-5 and 40 boxes (0.45 mt) of fortified biscuits, reaching 8,000 people.
 • WFP has facilitated 101 transport movements to date, including 57 services supporting Government-led relief operations and 44 WFP dispatches delivering assistance to flood-affected communities.
@@ -21,7 +33,7 @@ Situation Overview
 • Access to affected communities remains a major operational challenge, particularly in Rasuwa, where three local governments across the Trishuli River are still cut off by road.
 • Damaged transport links, unstable terrain, compound by monsoon rains and ongoing flood risks continue to constrain relief operations, and restoration of key infrastructure may take several months.
 
---- Report 3: HOPE (2026-09-04) ---
+--- Report 4: HOPE (2026-09-04) ---
 Project HOPE has established three mobile medical units in Nepal, in coordination with Volunteer Corps Nepal. Located in hard-to-reach communities along the Trishuli River, health providers with VCN began providing care this week, improving access to essential, lifesaving care for flood survivors and those impacted by last week’s massive glacier avalanche, flash floods, and landslides.
 Situational Context
 The scale of devastation in Nepal and the enormity of the future recovery process is beginning to set in for affected communities in Nepal. Humanitarian responders and community members are navigating villages where entire stories of buildings are buried under mud. Infrastructure has been deeply impacted, health facilities have been wiped out, and access to essential services is limited. Health threats loom large and the mental health impacts of living through the disaster are becoming more and more apparent as time goes on.
