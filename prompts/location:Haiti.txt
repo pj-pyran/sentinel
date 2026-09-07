@@ -1,11 +1,22 @@
 Crisis / situation: Haiti
 
---- Report 1: WFP (2026-06-23) ---
-The analysis highlights a generaly satisfactory availability of staple food commodities such as wheat flour, rice, maize, sugar, vegetable oil, and black beans, with traders reporting only minor proportions of unavailability. In contrast, red beans stand out for their pronounced scarcity: more than half of traders (52%) reported absence or limited availability, underscoring their vulnerability within market equilibrium and their critical role in household diets. At the state level, staple food availability remains broadly stable, but red beans concentrate the most acute tensions. The Nippes (87.5%), North-East (84.6%), South-East (64.7%), North (60%), as well as Artibonite and West (over 40%) display critical levels of unavailability. This pattern contrasts sharply with black beans, which remain widely accessible across most departments, except in the Centre and Grand’Anse where occasional limitations were observed. Beyond beans, certain commodities reveal specific regional fragilities. Salt shows high unavailability in Artibonite (36.1%) and Nippes (31.25%), while eggs are constrained in Nippes (25%) and South-East (17.65%). Processed imports such as spaghetti also face localized shortages, notably in the Centre (8.3%) and North-East (7.7%).
+--- Report 1: WFP (2026-09-07) ---
+597,304 people assisted in July 2026
+1,185 mt food distributed
+USD 7.9 M cash transferred
+USD 92 M required in the next six months (July – December 2026)
 
---- Report 2: WFP (2026-06-23) ---
-HIGHLIGHTS
-• Strong Hydrological Recovery: Haiti experienced a rapid transition from drought to widespread wet conditions in March 2026, with intense rainfall surpluses (&gt;130–200%) fully restoring soil moisture and water resources and driving a peak in hydrological conditions.
-• April Stabilization and Early Drying: In April 2026, rainfall remained above normal but weakened and became more spatially variable, marking a transition from peak wet conditions to post-peak stabilization and the onset of drying, particularly by late month.
-• Coupled Rainfall–Temperature Dynamics: The decline in rainfall from March to April led to increasing land surface temperatures (+1°C or more), reflecting a strong rainfall–temperature coupling, with enhanced evapotranspiration and emerging heat stress conditions.
-• Vegetation Recovery and Emerging Risks: NDVI indicates a strong and sustained vegetation recovery, supported by March moisture surpluses; however, forecasts for May–July suggest below-normal rainfall and continued warming, pointing to increasing risks of soil moisture depletion, crop stress, and pressure on water resources in vulnerable regions.
+KEY HIGHLIGHTS
+• The final court-ordered extension of Temporary Protected Status for Haiti expired on 27 July, creating legal uncertainty for up to 350,000 Haitian nationals residing in the US and responsible for critical remittances supporting vulnerable households. WFP continues to monitor potential return movements and related preparedness requirements.
+• With preparations underway for the 2026/27 school year, as many as 280,000 children (one third of children targeted) are at risk of not receiving school meals as a result of gaps in available resources.
+• Elections will take place on 13 December, subject to funding and security. Political party registration began in July, noting challenges in the Ouest – the department most affected by violence, and the most populous.
+
+--- Report 2: WFP (2026-09-07) ---
+720,409 people assisted in June 2026
+1,118 mt food distributed
+USD 5.3 M cash transferred
+USD 74.2 M required in the next six months (July – December 2026)
+
+KEY HIGHLIGHTS
+• With the 2026 Atlantic hurricane season underway, WFP is strengthening national preparedness efforts in collaboration with the Directorate of Civil Protection through coordination support, prepositioning of contingency stocks, the establishment of anticipatory action mechanisms and early warning initiatives. Facing stressed commodity pipelines, WFP began to constitute locally sourced contingency food stocks sufficient to support up to 75,000 people during the immediate aftermath of a storm.
+• Haiti is progressing with the implementation of the UN80 Integrated Supply Chain pilot initiative. In June, UN agencies finalized governance arrangements, validated a Single-Entry Point approach and confirmed operational readiness for priority logistics services.
