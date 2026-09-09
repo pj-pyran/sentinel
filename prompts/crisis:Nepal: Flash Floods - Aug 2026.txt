@@ -1,6 +1,12 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: OCHA (2026-09-09) ---
+--- Report 1: HOPE (2026-09-09) ---
+Project HOPE has established five mobile medical units (MMUs) in Nepal, in coordination with local partners Volunteer Corps Nepal and Partnership for Sustainable Development Nepal. Access to healthcare continues to be strained along the Trishuli River, but Project HOPE’s teams have reached increasingly remote locations as roads are cleared, including at least one community where Project HOPE and our partners were the first to reach families since the disaster.
+Situational Context
+Health needs remain high in affected communities and Nepal’s health system is under significant strain as access to communities is still challenging and families are trying desperately to begin recovery while search-and-rescue efforts continue. Damaged infrastructure — including 41 destroyed bridges and blocked highways — is limiting the delivery of available relief supplies in remote communities. Rain in the region has also made passage along some roadways difficult. Tens of thousands have been displaced, affected families require consistent access to healthcare, and
+At the time of this report, estimates show at least 1,331 dead and 4,996 missing in Nepal. Chinese authorities report at least 40 fatalities and 541 missing people missing in Tibet. In the coming months, those displaced, recovering families, and affected communities will need support to meet nearly every basic need across the health; water, sanitation, and hygiene (WASH); mental health and psychosocial (MHPSS); food; essential non-food (NFI) item; and other humanitarian sectors.
+
+--- Report 2: OCHA (2026-09-09) ---
 HIGHLIGHTS
 
 The floods have claimed 1,356 lives. 4,894 people are still missing and 13,396 people have been rescued (NDRRMA, 7 September, 19:00)
@@ -15,20 +21,20 @@ On 6 September, the Disaster Risk Reduction and Management Executive Committee a
 At the UN Member States briefing on Nepal’s Flash Appeal, UN Resident Coordinator Lila Pieters Yahia said the Government is leading the response, supported by humanitarian partners addressing agreed gaps. The appeal seeks US$49.6 million to assist 84,270 people through 31 December. A US$2.5 million CERF allocation funded the initial response, but remaining needs are unfunded. She stressed that the appeal covers targeted humanitarian action—not longer-term recovery or reconstruction—and that access, logistics, coordination, protection, PSEA, and accountability must remain adequately funded.
 On 5 September, WFP launched cargo drones to deliver food across difficult last-mile access barriers to flood-isolated communities. With Nepal Red Cross support, Bidur Municipality plans multipurpose cash assistance for 1,500 flood-affected households and NPR 10,000 per month in temporary rent support for households whose homes are uninhabitable.
 
---- Report 2: IOM (2026-09-08) ---
+--- Report 3: IOM (2026-09-08) ---
 SITUATION OVERVIEW
 The 26 August flash floods in central Nepal have caused significant loss of life, displacement and widespread damage to homes, infrastructure and essential services. Government-led search and rescue operations are on their twelfth day, while access constraints and ongoing verification of displacement and housing impacts remain key challenges.
 As of 7 September, the Government of Nepal reports 1,355 bodies recovered, 4,996 people missing and 13,396 people rescued following the 26 August floods, with figures expected to change as access improves. A total of 3,533 people are currently staying across 39 holding centres in Rasuwa, Nuwakot and Dhading. Preliminary humanitarian analysis estimates 84,270 people affected across 17 municipalities in six districts.
 The Government-led Rapid Damage and Needs Assessment (RDNA) indicates approximately 7,570 houses affected, impacting around 32,933 people, alongside damage to roads, bridges, agricultural land and critical infrastructure. Priority needs include shelter and essential household items, WASH, food, health and MHPSS services, protection and access to affected communities. Damaged infrastructure and disrupted electricity and telecommunications continue to constrain humanitarian access and delivery. A comprehensive Post Disaster Needs Assessment (PDNA) is underway.
 IOM is supporting the Government-led response through site assessments, coordination, health, protection, MHPSS, non-food items (NFI), recovery and Displacement Tracking Matrix (DTM).
 
---- Report 3: UN Women (2026-09-07) ---
+--- Report 4: UN Women (2026-09-07) ---
 The Alert identifies significant protection and inclusion concerns in holding centres and temporary shelters, including overcrowding, lack of privacy and safe spaces, GBV and exploitation risks, inadequate WASH facilities, caste-based discrimination and barriers for persons with disabilities. It also highlights gaps in maternal and reproductive health services, food and nutrition, livelihoods and the growing burden of unpaid care work on women.
 A central message is the critical role of women’s rights organizations (WROs) as frontline humanitarian actors. The Alert calls for WROs and organizations representing marginalized groups to be meaningfully involved in assessments, decision-making, targeting, monitoring and recovery, with direct and flexible funding to sustain their response capacity.
 Key recommendations include ensuring safe and accessible shelters and WASH facilities, strengthening GBV and MHPSS services and referral pathways, maintaining maternal and newborn care, ensuring women’s equitable access to food, cash and livelihoods, systematically collecting sex-, age- and disability-disaggregated data, and establishing accessible feedback and complaints mechanisms.
 UN Women is supporting the Government-led response through humanitarian coordination, advocacy and partnerships with WROs, organizations of persons with disabilities, youth-led and other community organizations. It is also mobilizing resources for its women-led Community Kitchen initiative, which provides emergency food assistance while supporting women’s leadership, livelihoods and longer-term recovery.
 
---- Report 4: Tzu Chi Foundation (2026-09-07) ---
+--- Report 5: Tzu Chi Foundation (2026-09-07) ---
 SITUATION UPDATE
 Heavy monsoon flooding across Dhading District, Bagmati Province, has severely damaged critical public health, educational, and transportation infrastructure in Galchhi Rural Municipality.
 Thick silt and mud deposits, averaging up to 60cm deep, blocked primary access roads and disabled essential utility systems, disrupting healthcare delivery and isolating local student populations.
@@ -39,14 +45,14 @@ Bhagawati Secondary School in Dhading District was heavily impacted by mud and w
 To restore water supply, the cleanup team inspected the school's 168-meter-deep well and installed large-capacity water-storage tanks to secure sanitary water for campus cleaning and long-term student needs.
 A critical bottleneck remains: the collapse of a key connecting bridge has severely disrupted student commutes. Students who previously took a short 20-minute walk must now take a hazardous 1-hour detour. Tzu Chi and local authorities are currently evaluating safe alternative pedestrian routes
 
---- Report 5: ETC (2026-09-07) ---
+--- Report 6: ETC (2026-09-07) ---
 This Situation Report provides an update on the humanitarian situation following the flash floods that struck Nepal on 26 August 2026. Since the activation of the Logistics &amp; Telecommunications Cluster (LTC) 1 on 02 September, the LTC Telecoms Area has supported humanitarian partners through telecommunications coordination, assessments, connectivity services and information management. The report highlights the latest situation, telecommunications impacts and LTC Telecoms activities.
 Summary Points
 • The 26 August flash floods have caused widespread humanitarian impacts across northern Nepal, with more than 1,250 fatalities, thousands of people still missing and over 84,000 people requiring humanitarian assistance as response efforts transition from search and rescue to sustained humanitarian support.
 • Telecommunications services have been restored on an emergency basis across the affected areas, with priority mobile network sites returned to service through temporary power solutions. Some locations remain dependent on generators until electricity and fibre connectivity are fully restored.
 • Following the activation of the LTC on 02 September, the LTC Telecoms Area is supporting the response through telecommunications coordination, assessments, connectivity planning, information management and the deployment of an LTC Telecoms Coordinator to Nepal.
 
---- Report 6: UNICEF (2026-09-07) ---
+--- Report 7: UNICEF (2026-09-07) ---
 Highlights
 • Nepal flash flood has affected an estimated 84,270 people, including 32,021 children and 1,854 persons with disabilities across 17 municipalities in six districts.
 • Essential services for children and families are severely disrupted. Fifty water supply systems and 20 schools have been damaged, while four health facilities have been destroyed and two partially damaged.
@@ -57,7 +63,7 @@ Highlights
 • Learning materials have been dispatched to support continuity of education, including 2,694 student kits, 148 teacher kits and 43 early childhood development kits.
 • US$17.2 million is required to meet the immediate needs of children and families affected by the flash floods, with additional resources needed to support recovery and rehabilitation efforts.
 
---- Report 7: CORUS (2026-09-07) ---
+--- Report 8: CORUS (2026-09-07) ---
 Key figures
 ● 4,521 people in shelters across Rasuwa, Nuwakot and Dhading
 ● 5,053 people missing
@@ -72,7 +78,7 @@ On August 26, 2026, an ice-and-rock avalanche in the upper Bhote Koshi watershed
 Search, rescue and relief operations continue. Some communities remain isolated because roads and bridges have been damaged or washed away. An alternate road route to Rasuwa has opened, but conditions remain rough and slippery, particularly with continued rainfall. Air transport remains important for reaching communities that cannot be accessed by road and delivering relief supplies.
 Authorities continue to monitor upstream water accumulations and debris blockages. Further flooding, landslides and debris movement remain possible.
 
---- Report 8: Plan International (2026-09-07) ---
+--- Report 9: Plan International (2026-09-07) ---
 A major flash flood entered Nepal through the Bhote Koshi River at approximately 9:00 AM on 26 August 2026, causing significant loss and damage across Rasuwa, Nuwakot and Dhading districts. Timure, Rasuwagadhi and Syabrubesi are among the worst affected areas, with impacts reported on communities, markets, roads, bridges and hydropower infrastructure.
 The cause of the flood remains under investigation, with authorities assessing the possibility of a glacial lake outburst flood (GLOF) or another upstream hydrological event. The Government of Nepal has mobilised security forces for search, rescue and relief operations and issued alerts for communities downstream along the Trishuli River corridor.
 Our humanitarian response
@@ -87,7 +93,7 @@ Response and achievements
 ● Three generator sets and power supplies were provided through the Ministry of Home Affairs to support holding centres and help restore essential communications in Rasuwa.
 ● Procurement is underway for 1,500 additional food packs through Plan International’s partner DEPROSC Nepal, coordinated with WFP to address identified food gaps and minimise duplication.
 
---- Report 9: IFRC (2026-09-07) ---
+--- Report 10: IFRC (2026-09-07) ---
 TIMELINE
 26 August 2026: A massive surge of water enters the Bhote Koshi River bordering China. Floodwaters rapidly impact Timure, Rasuwaghadi, and Syafrubeshi towns in Rasuwa District and other towns further downstream in Nuwakot and Dhading Districts. The Government of Nepal issues evacuation orders and mobilises security forces. The Prime Minister’s Office convenes a high-level emergency meeting to assess the evolving situation and coordinate response measures. Additionally, the government holds a second emergency meeting and declares three districts and 15 municipalities as crisis-affected areas for three months while expediting relief and rescue operations.
 26 August 2026: The NRCS activates its EOC on 26 August 2026. The NRCS is supporting the response through the mobilisation of staff and volunteers, search and rescue support, first aid and health assistance, emergency relief distributions, shelter and household items, WASH support, and dead body management, including the recovery, safe handling, identification, and dignified management of deceased persons. Other humanitarian partners are supporting complementary food, shelter, health, WASH, and protection activities, while international assistance and funding continue to be mobilised.

@@ -1,70 +1,14 @@
 Crisis / situation: Ukraine
 
---- Report 1: ACLED (2026-09-03) ---
-Ukraine Conflict Monitor  Update
-Ukraine continues to expand its campaign against Russia’s economy and Crimea’s energy infrastructure.
-1,922 conflict events
-1% decrease compared to last week
-196 incidents of violence targeting civilians
-16% decrease compared to last week
-At least 118 civilians killed by targeted violence
-27% increase compared to last week
-1,135 air- and drone strikes
-1% decrease compared to last week
-260 shelling events
-7% decrease compared to last week
-514 armed clashes
-7% increase compared to last week
-206 Russian attacks on civilian infrastructure
-19% decrease compared to last week
-Number of events and change compared to last week (per target):
-Education: 20 events
-Healthcare: 6 events
-Energy: 32 events
-Residential: 174 events
+--- Report 1: WHO (2026-09-09) ---
+Overview
+The Health Resources and Services Availability Monitoring System (HeRAMS) aims to provide decision-makers and health stakeholders with vital, up-to-date information. This system is dedicated to monitoring the availability of critical health resources and services, thus playing a crucial role in identifying existing gaps and establishing intervention priorities.
+HeRAMS has been operational in Ukraine since November 2022. This report provides an oblast-level overview of health services across government-controlled areas, focusing on 2087 legal entities, based on data reported as of 01 August 2026. For a comprehensive overview of health services across all 11 099 health facilities monitored by HeRAMS, see HeRAMS Ukraine health services across oblasts August 2026 - all divisions.
+Of the 2087 legal entities reporting, 4% were non-operational due to damage, non-functioning status, or inaccessibility, with the highest concentrations in Donetska and Kharkivska oblasts. Key infrastructure gaps include 3% of facilities lacking sufficient water, 2% lacking sufficient electricity, and 5% of inpatient facilities reporting insufficient bed capacity. Health service availability ranges from 53% for communicable disease services to 31% for non-communicable disease and mental health services.
+While this HeRAMS deployment remains ongoing and data verification and validation are continuing, the analysis presented here is not final and has been produced solely to inform operations.
 
-Ukraine conducted at least 35 attacks against energy infrastructure in occupied regions last week, close to the monthly average between January and May, and over half of them in Crimea. The strikes have targeted electrical substations, gas networks, and power plants, and have been on the rise since June. They have led to power outages, water supply issues, and price surges on the peninsula. As Ukraine aims to sever Russian communication lines with Crimea and complicate military operations there, the strikes are likely to continue to further affect the local population as temperatures start to drop in the coming months.
-In Russia proper, Ukraine expanded its campaign against Russia’s economy. Since 21 August, Ukrainian forces have targeted the warehouses of Russia’s second-largest online retailer. Russia vowed to retaliate and not only attacked civilian warehouses across Ukraine, but also grain export facilities, steel plants, and shopping malls, including the deadly strike on a mall in Kryvyi Rih on 21 August. While framed as retaliation, Russian strikes on a broad range of civilian targets are not new and are set to continue regardless of the Ukrainian campaign, unless the struggling economy forces Russia to accept a limited ceasefire.
-
-
-
-20 Aug.
-Volyn — About 30 civilians attack Ukrainian draft officers during a document check in Lutsk
-
-
-20 Aug.
-Kyiv — Russian drones and ballistic missiles kill 17 civilians and wound over 40 others in Kyiv city
-
-
-21 Aug.
-Dnipropetrovsk — Russian drones strike a mall in Kryvyi Rih, killing 16 civilians and injuring at least 140 others
-
---- Report 2: Protection Cluster (2026-09-02) ---
-Background and Rationale
-Since the beginning of the full-scale invasion by Russian Federation on Ukraine, protection risks faced by affected populations have evolved in scale, severity, and complexity. Ensuring a coherent, evidence-based, and community-centered understanding of these risks is essential for effective protection response, advocacy, and strategic decision-making.
-In 2022, the Global Protection Cluster (GPC) developed the Protection Analytical Framework (PAF) as a qualitative, risk-focused analytical approach to strengthen protection analysis across humanitarian contexts. Building on this, in 2023 the GPC, together with Protection Clusters globally, initiated the consolidation of Protection Monitoring Tools (PMT) and PAF into a unified Protection Risk Monitoring System (PRMS). This system is currently implemented in several operations (including Syria, oPt, Sudan, South Sudan, Haiti, and West Africa) and is now being introduced in Ukraine.
-The PRMS transformation responds to the need to:
-▪ Align protection monitoring with the 15 GPC Protection Risks, while ensuring alignment with Ukrainian context and focus on priority protection risks identified by partners.
-▪ Harmonize protection analysis across protection actors including Child Protection and GBV areas of specialization, partners, and data providers.
-▪ Strengthen the translation of protection risks into People in Need (PiN) and Severity estimates.
-▪ Ensure more inclusive and consultative protection information collection and analysis, enabling participating organizations meaningful contributions, visibility and application of collected data as per established protocols
-▪ Ensure that protection analysis systematically informs humanitarian planning, advocacy, and programming – both at operational and strategic level, including the HNRP and Protection Analysis Updates (PAUs), and linking up with humanitarian coordination system and wider information landscape in Ukraine, namely the HCT, ICCG, IMWG HOCGs, ABCs, national and sub-national clusters and partners, Data Coordination Group. This includes complementarity with UNHCR’s Protection Survey.
-▪ Build in flexibility to provide protection analysis on specific thematic issues or for specific locations where protection risks are seen to become more acute.
-▪ Enhance skill-building among protection partners in Ukraine to collect and analyze protection information for improved protection outcomes for IDPs and other war-affected populations.
-
---- Report 3: FAO (2026-09-02) ---
-Ukraine Food Security and Livelihoods Cluster (FSLC) Winter Response 2026-2027 Strategic Plan
-EXECUTIVE SUMMARY
-The FSLC 2026-2027 Winter Response combines life-saving food assistance with emergency livelihoods support to address immediate food needs while protecting critical productive assets during the winter period.
-The response will reach 136,888 people and requires an estimated USD 8.55 million, covering Ready-to-Eat Kits, hot meals, and emergency livestock and animal health assistance. Food assistance will support conflict-affected populations facing disruptions to food access and essential services, while livelihoods assistance will focus on livestock-owning households at risk of losing productive assets due to conflict, winter conditions, market disruption, and limited access to essential inputs.
-
---- Report 4: Ukraine CWG (2026-09-02) ---
-Cash Working Group coordinated a complex
-but critical transition from MPCA to a
-harmonized approach of four Strategic
-Unified Cash Transfers.
-Through close collaboration with partners,
-clusters, government counterparts and
-communities, CWG built the policy, systems and
-partnership foundations needed to launch UCTs
-nationwide on 1 April 2026.
+--- Report 2: WHO (2026-09-09) ---
+Overview
+The Health Resources and Services Availability Monitoring System (HeRAMS) aims to provide decision-makers and health stakeholders with vital, up-to-date information. This system is dedicated to monitoring the availability of critical health resources and services, thus playing a crucial role in identifying existing gaps and establishing intervention priorities.
+HeRAMS has been operational in Ukraine since November 2022. This report provides an oblast-level analysis of health services across government-controlled areas based on data reported as of 01 August 2026. Of the 11 099 reporting health facilities, 6% were reported as non-operational due to damage, non-functionality, or inaccessibility, with the highest concentrations in Donetska, Kharkivska, Sumska, Zaporizka, and Poltavska oblasts. Key infrastructure gaps include 7% of facilities having sufficient water, 2% lacking sufficient electricity, and 8.4% of inpatient facilities reporting insufficient bed capacity, while health service availability ranges from 53% for nutrition and child health services to 22% for non-communicable disease and mental health services.
+While this HeRAMS deployment remains ongoing and data verification and validation are continuing, the analysis presented here is not final and has been produced solely to inform operations.
