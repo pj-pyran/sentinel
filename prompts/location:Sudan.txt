@@ -1,6 +1,13 @@
 Crisis / situation: Sudan
 
---- Report 1: UNICEF (2026-09-08) ---
+--- Report 1: UNFPA (2026-09-08) ---
+Ongoing hostilities and heavy rains and flooding have intensified humanitarian needs across Sudan. The deteriorating security situation in Kordofan, Blue Nile and Darfur continues to drive repeated displacement while severely restricting access to humanitarian assistance.
+In late July, heavy rains in White Nile State damaged a UNFPA-supported maternity clinic and 1,104 shelters. Flooding also affected more than 1,200 displaced and host-community households in Khor Ajwal and Rabak localities.
+In July, UNFPA-supported partners delivered essential sexual and reproductive health services across 52 localities in 17 states in Sudan. Skilled birth attendance was provided for 6,762 deliveries and 14,335 antenatal care and 4,018 postnatal care visits were conducted.
+UNFPA and its partners also reached more than 90,000 people across Sudan with essential gender-based violence prevention, risk mitigation and response services, with women and girls accounting for 96 per cent of those reached.
+To continue addressing the urgent and life-saving sexual and reproductive health and protection needs in Sudan, UNFPA requires US$129.2 million. As of July, the appeal was only 34 per cent funded, leaving an $86 million shortfall and putting critical services for women and girls at risk.
+
+--- Report 2: UNICEF (2026-09-08) ---
 Highlights
 
 UNICEF-supported health services reached 214,700 people across Sudan in July. Over three million vaccine doses were delivered through cross-border operations to hard-to-reach areas of Darfur and Kordofan. UNICEF-supported nutrition programmes screened 1.43 million children for acute malnutrition, admitted 82,300 children with SAM for treatment.
@@ -8,13 +15,13 @@ UNICEF and partners provided access to safe water for 183,900 people, reached 26
 Child protection services reached 167,300 children, adolescents and caregivers with mental health and psychosocial support and 118,700 with gender-based violence prevention and risk mitigation interventions.
 As of 31 July 2026, UNICEF had mobilized US$352.2 million against its US$962.9 million HAC appeal, leaving a 63 per cent funding gap that continues to constrain life-saving assistance.
 
---- Report 2: DFS (2026-09-07) ---
+--- Report 3: DFS (2026-09-07) ---
 Executive Summary
 The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/sudan
 
---- Report 3: Insecurity Insight (2026-09-07) ---
+--- Report 4: Insecurity Insight (2026-09-07) ---
 Using data collected by Insecurity Insight, the Safeguarding Health in Conflict Coalition (SHCC) identified at least 14 incidents of violence against or obstruction of health care linked to the SAF in 2025. These included four instances between February and August in Nyala city in which SAF aircraft and drone strikes damaged health facilities. SAF armed drone strikes also damaged a hospital in North Darfur and were used close to another facility in North Kordofan, endangering patients’ access to the facility.
 In other hospital attacks, the SAF occupied three hospitals in Khartoum in late March: the Ear, Nose and Throat Hospital; Khartoum Teaching Hospital; and Zaytouna Hospital. Between January and August 2025, the SAF reportedly arrested six health workers in four incidents, often accusing staff of links to opposing conflict parties. In one reported arrest, the SAF tortured and interrogated a doctor detained in Gezira on accusations of being an RSF fighter. The fates of all six arrested health workers were not recorded.
 Documented incidents
