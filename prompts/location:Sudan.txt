@@ -80,18 +80,3 @@ UNICEF-supported health services reached 214,700 people across Sudan in July. Ov
 UNICEF and partners provided access to safe water for 183,900 people, reached 26,300 people with hygiene promotion activities, and supported over 10,600 children and adolescents to access formal and non-formal education opportunities.
 Child protection services reached 167,300 children, adolescents and caregivers with mental health and psychosocial support and 118,700 with gender-based violence prevention and risk mitigation interventions.
 As of 31 July 2026, UNICEF had mobilized US$352.2 million against its US$962.9 million HAC appeal, leaving a 63 per cent funding gap that continues to constrain life-saving assistance.
-
---- Report 14: DFS (2026-09-07) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
-
---- Report 15: Insecurity Insight (2026-09-07) ---
-Using data collected by Insecurity Insight, the Safeguarding Health in Conflict Coalition (SHCC) identified at least 14 incidents of violence against or obstruction of health care linked to the SAF in 2025. These included four instances between February and August in Nyala city in which SAF aircraft and drone strikes damaged health facilities. SAF armed drone strikes also damaged a hospital in North Darfur and were used close to another facility in North Kordofan, endangering patients’ access to the facility.
-In other hospital attacks, the SAF occupied three hospitals in Khartoum in late March: the Ear, Nose and Throat Hospital; Khartoum Teaching Hospital; and Zaytouna Hospital. Between January and August 2025, the SAF reportedly arrested six health workers in four incidents, often accusing staff of links to opposing conflict parties. In one reported arrest, the SAF tortured and interrogated a doctor detained in Gezira on accusations of being an RSF fighter. The fates of all six arrested health workers were not recorded.
-Documented incidents
-19-31 August 2026
-The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care between 19-31 August 2026. The incidents below have not been verified through ground investigations. There is a delay in reporting incidents due to our open source verification protocol.
-Early August 2026: In Gedaref state, a doctor and head of the Preliminary Committee of the Sudan Doctors’ Trade Union was detained by Sudanese Military Intelligence while conducting infectious disease fieldwork and transferred to Khartoum. Military authorities did not disclose the charges or reasons for his detention. Source: Sudan Tribune
-As reported on 23 August 2026: In Al-Kurmuk locality, Blue Nile state, Al-Kurmuk Hospital was destroyed by the RSF and allied SPLM forces, rendering the facility completely out of service. Source: Al Jazeera
