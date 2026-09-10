@@ -1,13 +1,52 @@
 Crisis / situation: Ukraine
 
---- Report 1: WHO (2026-09-09) ---
+--- Report 1: ACLED (2026-09-10) ---
+Ukraine Conflict Monitor  Update
+Russia strains Ukraine’s air defenses with jet-powered drones, while European support for Ukraine strengthens.
+1,821 conflict events
+5% decrease compared to last week
+203 incidents of violence targeting civilians
+3% increase compared to last week
+At least 113 civilians killed by targeted violence
+4% decrease compared to last week
+1,155 air- and drone strikes
+2% increase compared to last week
+199 shelling events
+23% decrease compared to last week
+453 armed clashes
+12% decrease compared to last week
+211 Russian attacks on civilian infrastructure
+7% increase compared to last week
+Number of events and change compared to last week (per target):
+Education: 15 events
+Healthcare: 11 events
+Energy: 37 events
+Residential: 186 events
+
+After Russia scaled up its production of jet-powered drones, Ukraine is now facing a fivefold increase in the use of drones that are faster and harder to intercept. On 28 August, a jet-powered Geran-4 drone hit a Ukrainian ammunition depot near residential areas in the village of Myla in the Kyiv region, killing 38 civilians, including all residents of a retirement home, and damaging residential infrastructure through secondary detonations. The event highlights the vulnerabilities that arise from placing military infrastructure in proximity to civilians. Moreover, it reiterates Ukraine’s constant struggle to adapt its air defenses to defend against Russia’s scalable drone and missile production and its concentrated attacks aimed at Kyiv city and region, and the Odesa region.
+As Russian-linked sabotage attempts across Europe increase, and Russia refuses a ceasefire in Ukraine, European Union member states are revising the political and financial outlook of their support for Ukraine. At least four member states called on the EU to resume talks of using Russia’s frozen assets for much-needed financial support for Ukraine after previous proposals were resisted by Belgium on the grounds of insufficient legal guarantees. Even governments that were previously wary of heightening tensions, such as Germany, appear more willing to raise the costs for Russia’s continuation of the war in Ukraine and its increasingly daring attacks on military and critical infrastructure in Europe.
+
+
+
+24 Aug.
+Chernihiv — A Russian drone strike on critical and residential infrastructure injures 26 civilians in Chernihiv city
+
+
+25 Aug.
+Krasnodar, Russia — A Ukrainian drone attack on a Turkish dry cargo ship in the Tuapse port injures five crew members
+
+
+28 Aug.
+Kyiv — A Russian drone strike on a Ukrainian ammunition depot near residential areas kills 38 civilians and injures at least 52 in Myla
+
+--- Report 2: WHO (2026-09-09) ---
 Overview
 The Health Resources and Services Availability Monitoring System (HeRAMS) aims to provide decision-makers and health stakeholders with vital, up-to-date information. This system is dedicated to monitoring the availability of critical health resources and services, thus playing a crucial role in identifying existing gaps and establishing intervention priorities.
 HeRAMS has been operational in Ukraine since November 2022. This report provides an oblast-level overview of health services across government-controlled areas, focusing on 2087 legal entities, based on data reported as of 01 August 2026. For a comprehensive overview of health services across all 11 099 health facilities monitored by HeRAMS, see HeRAMS Ukraine health services across oblasts August 2026 - all divisions.
 Of the 2087 legal entities reporting, 4% were non-operational due to damage, non-functioning status, or inaccessibility, with the highest concentrations in Donetska and Kharkivska oblasts. Key infrastructure gaps include 3% of facilities lacking sufficient water, 2% lacking sufficient electricity, and 5% of inpatient facilities reporting insufficient bed capacity. Health service availability ranges from 53% for communicable disease services to 31% for non-communicable disease and mental health services.
 While this HeRAMS deployment remains ongoing and data verification and validation are continuing, the analysis presented here is not final and has been produced solely to inform operations.
 
---- Report 2: WHO (2026-09-09) ---
+--- Report 3: WHO (2026-09-09) ---
 Overview
 The Health Resources and Services Availability Monitoring System (HeRAMS) aims to provide decision-makers and health stakeholders with vital, up-to-date information. This system is dedicated to monitoring the availability of critical health resources and services, thus playing a crucial role in identifying existing gaps and establishing intervention priorities.
 HeRAMS has been operational in Ukraine since November 2022. This report provides an oblast-level analysis of health services across government-controlled areas based on data reported as of 01 August 2026. Of the 11 099 reporting health facilities, 6% were reported as non-operational due to damage, non-functionality, or inaccessibility, with the highest concentrations in Donetska, Kharkivska, Sumska, Zaporizka, and Poltavska oblasts. Key infrastructure gaps include 7% of facilities having sufficient water, 2% lacking sufficient electricity, and 8.4% of inpatient facilities reporting insufficient bed capacity, while health service availability ranges from 53% for nutrition and child health services to 22% for non-communicable disease and mental health services.
