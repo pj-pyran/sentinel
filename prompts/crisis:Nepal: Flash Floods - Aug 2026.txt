@@ -1,12 +1,24 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: HOPE (2026-09-09) ---
+--- Report 1: WFP (2026-09-10) ---
+KEY HIGHLIGHTS
+• WFP has dispatched 114.8 mt of food rations, sufficient for 15 days, to Dhading, Nuwakot and Rasuwa, including 13.3 mt via heli operations.
+• Innovative delivery modalities, including humanitarian cargo drones, are being used to reach affected populations.
+• The Logistics and Telecommunications Cluster has activated free common services to humanitarian partners.
+• The UN system-wide Nepal Rasuwa Flood Flash Appeal seeks USD 49.6 million to assist 84,000 people across six districts for four months.
+Situation Overview
+• Relief efforts continue across flood-affected districts following the 26 August floods, as search efforts, access constraints and major needs persist. Reported fatalities have risen to 1,369, with 5,132 people still missing.
+• Some 3,500 displaced people are sheltering in Government displacement centres across Nuwakot, Rasuwa, Dhading and Kathmandu, many in school buildings.
+• In Gosaikunda and Amachhodingmo, in upper Rasuwa, nearly 14,500 people remain disconnected without road access, electricity or phone signal since the flood.
+• Access to affected communities remains a major operational challenge while transport links, unstable terrain, compound by monsoon rains and ongoing flood risks continue to constrain relief operations.
+
+--- Report 2: HOPE (2026-09-09) ---
 Project HOPE has established five mobile medical units (MMUs) in Nepal, in coordination with local partners Volunteer Corps Nepal and Partnership for Sustainable Development Nepal. Access to healthcare continues to be strained along the Trishuli River, but Project HOPE’s teams have reached increasingly remote locations as roads are cleared, including at least one community where Project HOPE and our partners were the first to reach families since the disaster.
 Situational Context
 Health needs remain high in affected communities and Nepal’s health system is under significant strain as access to communities is still challenging and families are trying desperately to begin recovery while search-and-rescue efforts continue. Damaged infrastructure — including 41 destroyed bridges and blocked highways — is limiting the delivery of available relief supplies in remote communities. Rain in the region has also made passage along some roadways difficult. Tens of thousands have been displaced, affected families require consistent access to healthcare, and
 At the time of this report, estimates show at least 1,331 dead and 4,996 missing in Nepal. Chinese authorities report at least 40 fatalities and 541 missing people missing in Tibet. In the coming months, those displaced, recovering families, and affected communities will need support to meet nearly every basic need across the health; water, sanitation, and hygiene (WASH); mental health and psychosocial (MHPSS); food; essential non-food (NFI) item; and other humanitarian sectors.
 
---- Report 2: OCHA (2026-09-09) ---
+--- Report 3: OCHA (2026-09-09) ---
 HIGHLIGHTS
 
 The floods have claimed 1,356 lives. 4,894 people are still missing and 13,396 people have been rescued (NDRRMA, 7 September, 19:00)
@@ -20,10 +32,3 @@ Nearly two weeks after the 26 August floods, operations are shifting from search
 On 6 September, the Disaster Risk Reduction and Management Executive Committee amended emergency warehouse procedures, allowing stocks to be released to UN agencies, the Nepal Red Cross Society, and community hospitals during disasters. Recipients must coordinate distribution with district and local disaster committees and report to authorities. The change should speed NDRRMA-led consignment and distribution of relief supplies.
 At the UN Member States briefing on Nepal’s Flash Appeal, UN Resident Coordinator Lila Pieters Yahia said the Government is leading the response, supported by humanitarian partners addressing agreed gaps. The appeal seeks US$49.6 million to assist 84,270 people through 31 December. A US$2.5 million CERF allocation funded the initial response, but remaining needs are unfunded. She stressed that the appeal covers targeted humanitarian action—not longer-term recovery or reconstruction—and that access, logistics, coordination, protection, PSEA, and accountability must remain adequately funded.
 On 5 September, WFP launched cargo drones to deliver food across difficult last-mile access barriers to flood-isolated communities. With Nepal Red Cross support, Bidur Municipality plans multipurpose cash assistance for 1,500 flood-affected households and NPR 10,000 per month in temporary rent support for households whose homes are uninhabitable.
-
---- Report 3: IOM (2026-09-08) ---
-SITUATION OVERVIEW
-The 26 August flash floods in central Nepal have caused significant loss of life, displacement and widespread damage to homes, infrastructure and essential services. Government-led search and rescue operations are on their twelfth day, while access constraints and ongoing verification of displacement and housing impacts remain key challenges.
-As of 7 September, the Government of Nepal reports 1,355 bodies recovered, 4,996 people missing and 13,396 people rescued following the 26 August floods, with figures expected to change as access improves. A total of 3,533 people are currently staying across 39 holding centres in Rasuwa, Nuwakot and Dhading. Preliminary humanitarian analysis estimates 84,270 people affected across 17 municipalities in six districts.
-The Government-led Rapid Damage and Needs Assessment (RDNA) indicates approximately 7,570 houses affected, impacting around 32,933 people, alongside damage to roads, bridges, agricultural land and critical infrastructure. Priority needs include shelter and essential household items, WASH, food, health and MHPSS services, protection and access to affected communities. Damaged infrastructure and disrupted electricity and telecommunications continue to constrain humanitarian access and delivery. A comprehensive Post Disaster Needs Assessment (PDNA) is underway.
-IOM is supporting the Government-led response through site assessments, coordination, health, protection, MHPSS, non-food items (NFI), recovery and Displacement Tracking Matrix (DTM).
