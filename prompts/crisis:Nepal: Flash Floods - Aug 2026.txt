@@ -1,6 +1,13 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: UNICEF (2026-09-11) ---
+--- Report 1: ETC (2026-09-11) ---
+This Situation Report provides an update on the humanitarian situation following the flash floods that struck Nepal on 26 August 2026. Since the activation of the Logistics &amp; Telecommunications Cluster (LTC) 1 on 02 September, the LTC Telecoms Area has supported humanitarian partners through telecommunications coordination, assessments, connectivity services and information management. The report highlights the latest situation, telecommunications impacts and LTC Telecoms activities.
+Summary Points
+• Following the activation of the Logistics and Telecommunications Cluster (LTC) on 02 September, a Telecoms Coordinator arrived in Kathmandu on 05 September for an initial two-week mission. The deployment is supporting the identification and prioritization of telecommunications requirements at common humanitarian operational locations, strengthening coordination with government and response partners.
+• The Government has requested support to deploy sustainable backup-power solutions for telecommunications towers, prioritizing inaccessible sites where disrupted fuel supply routes had rendered generator-dependent operations unsustainable and placed continuity of critical connectivity at risk.
+• The LTC Telecoms Coordinator is developing a twomonth response plan outlining priority telecommunications requirements, coordination actions and potential support activities.
+
+--- Report 2: UNICEF (2026-09-11) ---
 Highlights
 
 An estimated 84,270 people, including 32,021 children and 1,854 persons with disabilities, are affected across 17 municipalities in six districts. As of 7 September, 3,630 displaced people are staying in 37 holding centres across three districts.
@@ -13,7 +20,7 @@ Education supplies including student, school and early childhood development kit
 Lifesaving information reached an estimated 1.67 million people through seven radio stations, alongside digital emergency information.
 US$17.2 million is required to meet the immediate needs of children and families affected by the flash floods.
 
---- Report 2: WFP (2026-09-10) ---
+--- Report 3: WFP (2026-09-10) ---
 KEY HIGHLIGHTS
 • WFP has dispatched 114.8 mt of food rations, sufficient for 15 days, to Dhading, Nuwakot and Rasuwa, including 13.3 mt via heli operations.
 • Innovative delivery modalities, including humanitarian cargo drones, are being used to reach affected populations.
@@ -25,13 +32,13 @@ Situation Overview
 • In Gosaikunda and Amachhodingmo, in upper Rasuwa, nearly 14,500 people remain disconnected without road access, electricity or phone signal since the flood.
 • Access to affected communities remains a major operational challenge while transport links, unstable terrain, compound by monsoon rains and ongoing flood risks continue to constrain relief operations.
 
---- Report 3: HOPE (2026-09-09) ---
+--- Report 4: HOPE (2026-09-09) ---
 Project HOPE has established five mobile medical units (MMUs) in Nepal, in coordination with local partners Volunteer Corps Nepal and Partnership for Sustainable Development Nepal. Access to healthcare continues to be strained along the Trishuli River, but Project HOPE’s teams have reached increasingly remote locations as roads are cleared, including at least one community where Project HOPE and our partners were the first to reach families since the disaster.
 Situational Context
 Health needs remain high in affected communities and Nepal’s health system is under significant strain as access to communities is still challenging and families are trying desperately to begin recovery while search-and-rescue efforts continue. Damaged infrastructure — including 41 destroyed bridges and blocked highways — is limiting the delivery of available relief supplies in remote communities. Rain in the region has also made passage along some roadways difficult. Tens of thousands have been displaced, affected families require consistent access to healthcare, and
 At the time of this report, estimates show at least 1,331 dead and 4,996 missing in Nepal. Chinese authorities report at least 40 fatalities and 541 missing people missing in Tibet. In the coming months, those displaced, recovering families, and affected communities will need support to meet nearly every basic need across the health; water, sanitation, and hygiene (WASH); mental health and psychosocial (MHPSS); food; essential non-food (NFI) item; and other humanitarian sectors.
 
---- Report 4: OCHA (2026-09-09) ---
+--- Report 5: OCHA (2026-09-09) ---
 HIGHLIGHTS
 
 The floods have claimed 1,356 lives. 4,894 people are still missing and 13,396 people have been rescued (NDRRMA, 7 September, 19:00)

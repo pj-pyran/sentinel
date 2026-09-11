@@ -1,6 +1,12 @@
 Crisis / situation: Sudan
 
---- Report 1: WHO (2026-09-11) ---
+--- Report 1: DFS (2026-09-11) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
+
+--- Report 2: WHO (2026-09-11) ---
 Monthly highlights
 • WHO continued to support the delivery of life-saving health services during this reporting period, including secondary and primary health care (PHC), referrals, immunisation, nutrition services, health education and capacity-building activities. More than 102 544 consultations were supported through WHO-supported hospitals and PHC facilities.
 • It also distributed 10.32 MT medical supplies to health facilities to prevent stockouts and maintain uninterrupted access to life-saving services.
@@ -8,67 +14,67 @@ Monthly highlights
 • WHO strengthened laboratory capacities for timely outbreak confirmation for priority states, including deployment of a Mobile Public Health Laboratory to Blue Nile state to support detection and confirmation of dengue, hepatitis E and other epidemic-prone diseases.
 • The cholera outbreak continued to affect multiple localities, despite intensified prevention and control measures by health authorities and partners. WHO supported oral cholera vaccine (OCV) campaigns in high-risk states, and over 675 351 people aged 1 year and older have received the cholera vaccine.
 
---- Report 2: SI (2026-09-09) ---
+--- Report 3: SI (2026-09-09) ---
 Date of Report 2026-09-01
 Consortium Partner (CP) submitting: Solidarites International
 Alert no. SUD_FaSER_WK_ADI_15
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 3: SI (2026-09-09) ---
+--- Report 4: SI (2026-09-09) ---
 Date of Report 24/08/2026
 Consortium Partner (CP) submitting: DRC
 Alert no. Alert_SUD_FaSER_SK_KAD_14
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 4: SI (2026-09-09) ---
+--- Report 5: SI (2026-09-09) ---
 Date of Report 20/08/2026
 Consortium Partner (CP) submitting: SI, NRC
 Alert no. SUD_FaSER_ERM_ND_TWL_13
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First- and Second-Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 5: SI (2026-09-09) ---
+--- Report 6: SI (2026-09-09) ---
 Date of Report 15/07/2026
 Consortium Partner (CP) submitting: TGH
 Alert no. Alert_SUD_FaSER_2_ERM_SD_NYN_9
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHOfunded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 6: SI (2026-09-09) ---
+--- Report 7: SI (2026-09-09) ---
 Date of Report 01/06/2026
 Consortium Partner (CP) submitting: NRC
 Alert no. SUD_FaSER_ERM_NK_EOB_01
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHOfunded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 7: SI (2026-09-09) ---
+--- Report 8: SI (2026-09-09) ---
 Date of Report 01/06/2026
 Consortium Partner (CP) submitting: Solidarités International
 Alert no. SUD_FaSER_ERM_ND_ELF_02
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHOfunded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 8: SI (2026-09-09) ---
+--- Report 9: SI (2026-09-09) ---
 Date of Report 11/06/2026
 Consortium Partner (CP) submitting: Solidarités International
 Alert no. SUD_FaSER_ERM_CD_MKJ_03
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHOfunded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 9: SI (2026-09-09) ---
+--- Report 10: SI (2026-09-09) ---
 Date of Report 22/06/2026
 Consortium Partner (CP) submitting: NRC
 Alert no. SUD_FaSER_ERM_ND_ELF_04
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 10: SI (2026-09-09) ---
+--- Report 11: SI (2026-09-09) ---
 Date of Report 06/07/2026
 Consortium Partner (CP) submitting: NRC
 Alert no. SUD_FASER_2_ERM_SK_HBN_05
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 11: SI (2026-09-09) ---
+--- Report 12: SI (2026-09-09) ---
 Date of Report 07/07/2026
 Consortium Partner (CP) submitting: Solidarités international
 Alert no. SUD_FaSER_ERM_WK_GHY_06
 This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 12: SI (2026-09-09) ---
+--- Report 13: SI (2026-09-09) ---
 Date of Report 14/07/2026
 Consortium Partner (CP) submitting: Solidarités International
 Alert no. SUD_FaSER_ERM_ND_ELF_08
