@@ -1,6 +1,13 @@
 Crisis / situation: Ukraine
 
---- Report 1: ACLED (2026-09-10) ---
+--- Report 1: Health Cluster (2026-09-11) ---
+Ukraine recorded its deadliest month for civilians since May 2022, and most severe overall since March 2022. According to UN HRMMU, 437 people were killed and 2,610 injured, up 30 per cent from June and 70 per cent compared to the same period in 2025. Long-range missiles and drones remained the leading cause of civilian casualties.
+Kyiv was among the hardest-hit cities, including a 2 July attack with 74 missiles and nearly 500 drones that killed 30 people, and a further strike on 6 July, killed 19 and injured 60. On 19 July, 41 ballistic and hypersonic missiles were launched at Kyiv, marking the largest single wave to date, according to ACLED. Other urban centers, like Zaporizhzhia, Kharkiv, and Kherson, were also heavily affected. Health partners continue to provide support to first responders, reaching 1,067 people and prepositioning to health facilities for the treatment of 2,495 people, as of 31 July.
+Attacks affecting warehouses, medical supplies, and health logistics have become an increased concern, with incidents intensifying through July into the publication period. Between January and July 2026, UN OCHA recorded 20 humanitarian warehouses damaged or destroyed, while WHO SSA verified 9 attacks on health care impacting warehouses, both humanitarian ones and those used by regional health authorities. This damage, combined with disruptions to partner operations, is having a considerable impact on health service delivery in frontline areas.
+Increased use of glide bombs in areas closer to the frontline, combined with short-range drones, is intensifying risks for civilians and for the delivery of health services; UN OCHA recorded 210 humanitarian access incidents in 2026. Shelling, attacks, and disruptions to essential services such as water and gas continue to drive displacement. Across transit centers where health partners operate, 21,482 people were registered in July; a 35 per cent more than in June. For the first time, Dnipropetrovska oblast was the leading area of origin with more than 8,000 evacuees, followed closely by Donetska oblast. Health partners provided 4,471 health consultations in July 2026.
+Health Cluster participated to the inter-sectoral preparedness plans to protect water supply to health facilities across Odesa, following attacks on Chornomorsk’s pipeline that cut water access for over 100,000 people. The Health Cluster also monitored the public health consequences of damaged water supply affecting health facilities and communities in Kharkivska and Dnipropetrovska oblast.
+
+--- Report 2: ACLED (2026-09-10) ---
 Ukraine Conflict Monitor  Update
 Russia strains Ukraine’s air defenses with jet-powered drones, while European support for Ukraine strengthens.
 1,821 conflict events
@@ -39,14 +46,14 @@ Krasnodar, Russia — A Ukrainian drone attack on a Turkish dry cargo ship in th
 28 Aug.
 Kyiv — A Russian drone strike on a Ukrainian ammunition depot near residential areas kills 38 civilians and injures at least 52 in Myla
 
---- Report 2: WHO (2026-09-09) ---
+--- Report 3: WHO (2026-09-09) ---
 Overview
 The Health Resources and Services Availability Monitoring System (HeRAMS) aims to provide decision-makers and health stakeholders with vital, up-to-date information. This system is dedicated to monitoring the availability of critical health resources and services, thus playing a crucial role in identifying existing gaps and establishing intervention priorities.
 HeRAMS has been operational in Ukraine since November 2022. This report provides an oblast-level overview of health services across government-controlled areas, focusing on 2087 legal entities, based on data reported as of 01 August 2026. For a comprehensive overview of health services across all 11 099 health facilities monitored by HeRAMS, see HeRAMS Ukraine health services across oblasts August 2026 - all divisions.
 Of the 2087 legal entities reporting, 4% were non-operational due to damage, non-functioning status, or inaccessibility, with the highest concentrations in Donetska and Kharkivska oblasts. Key infrastructure gaps include 3% of facilities lacking sufficient water, 2% lacking sufficient electricity, and 5% of inpatient facilities reporting insufficient bed capacity. Health service availability ranges from 53% for communicable disease services to 31% for non-communicable disease and mental health services.
 While this HeRAMS deployment remains ongoing and data verification and validation are continuing, the analysis presented here is not final and has been produced solely to inform operations.
 
---- Report 3: WHO (2026-09-09) ---
+--- Report 4: WHO (2026-09-09) ---
 Overview
 The Health Resources and Services Availability Monitoring System (HeRAMS) aims to provide decision-makers and health stakeholders with vital, up-to-date information. This system is dedicated to monitoring the availability of critical health resources and services, thus playing a crucial role in identifying existing gaps and establishing intervention priorities.
 HeRAMS has been operational in Ukraine since November 2022. This report provides an oblast-level analysis of health services across government-controlled areas based on data reported as of 01 August 2026. Of the 11 099 reporting health facilities, 6% were reported as non-operational due to damage, non-functionality, or inaccessibility, with the highest concentrations in Donetska, Kharkivska, Sumska, Zaporizka, and Poltavska oblasts. Key infrastructure gaps include 7% of facilities having sufficient water, 2% lacking sufficient electricity, and 8.4% of inpatient facilities reporting insufficient bed capacity, while health service availability ranges from 53% for nutrition and child health services to 22% for non-communicable disease and mental health services.
