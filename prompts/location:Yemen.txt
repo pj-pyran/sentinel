@@ -1,18 +1,25 @@
 Crisis / situation: Yemen
 
---- Report 1: OCHA (2026-09-04) ---
+--- Report 1: OCHA (2026-09-13) ---
 KEY HIGHLIGHTS
 
-Hostilities escalated along the Ta'iz frontlines in the early hours of Thursday, 3 September, with intense shelling and clashes in Maqbanah and Jabal Habashi districts.
-An estimated 1,790 households have been displaced since 3 September, with movements continuing at the time of reporting.
-Most displaced families are moving within Maqbanah and Jabal Habashi; others are arriving in Al Ma'afer, Ash Shamayatayn, Mawza and Dubab. Entire IDP sites, including Al-Hajab, Al-Rajehi and Hajjat Gabeh, have reportedly emptied, generating large-scale secondary displacement.
-Ongoing shelling is restricting the ability of families to move to safer areas, and some households remain stranded in frontline locations.
-Telecommunications disruptions are hampering information collection, verification and coordination, and emergency stocks are severely depleted, particularly Shelter/NFI and food assistance.
+Some 11,442 households have been newly displaced countrywide since hostilities escalated on 3 September: 10,310 households across 15 districts in the Ta’iz hub (8,628 in Ta’iz and 1,682 in southern Al Hodeidah), 1,037 in the Aden hub (Lahj 462, Aden 299, Abyan 180 and Ad Dale’ 96) and 95 in Al Bayda, Marib and Sana’a. figures are preliminary and may include some double counting. Fighting continues along the western Ta’iz frontlines (Maqbanah, Jabal Habashi and Mawza’) and in southern Al Hodeidah, while airstrikes and military activity have also been reported along the Marib–Al Jawf axis and in Al Bayda.
+Displacement remained highly fluid on 8–9 September, with new arrivals reported in Jabal Habashi, Al Ma’afir, Ash Shamayytayn, Al Mudhaffar, Al Misrakh, Al Makha and Al Khukhah. The latest movements indicate a particularly rapid increase in displacement towards Hays and Al Makha, which have emerged as key reception areas for families fleeing the expanding hostilities along the west coast. Continued fighting and shifting frontlines are likely to trigger further displacement and secondary movements.
+Several existing IDP sites are overwhelmed. At least 908 households are families who were already displaced and have fled IDP sites.
+West coast access deteriorated on 9 September. Movement was temporarily suspended between Al Makha, Al Khukhah and Hays, and between Aden and Al Makha. Movement within the affected towns was highly restricted, no movement permits were issued and partner staff worked from home.
+Displacement has also extended southwards into the Aden hub, with more than 1,000 households reported arriving in Lahj, Aden, Abyan and Ad Dale’, with Lahj receiving the largest share. Many newly displaced families are staying with host communities or in self-settled locations outside routine site monitoring, which may limit the completeness of available figures.
+Rapid Response Mechanism (RRM) partners have verified 4,116 households and assisted 2,723 since 2 September; 2,127 verified households are awaiting assistance.
+Response coverage remains low. Food Security and Agriculture Cluster (FSAC) partners have reached 1,554 of 6,144 households identified for emergency food assistance, leaving 4,390 households without confirmed response coverage, after accounting for planned assistance.; Cash and Markets Working Group (CMWG) partners have reached 1,381 households with emergency multi-purpose cash assistance (MPCA); and Shelter partners have reached 147 households against a planning caseload of 11,000 households. No WASH deliveries have yet been verified.
+Civilian casualties: Between 1 and 9 September, OHCHR verified 14 civilian casualties across eight incidents in Ta’iz and Al Hodeidah, including two children killed, with women and children among those injured. Four additional incidents in Ta’iz, Lahj, Marib and Al Jawf remain under verification and are not included in the verified figures.
 
---- Report 2: OCHA (2026-09-03) ---
-Highlights
+--- Report 2: OCHA (2026-09-13) ---
+KEY HIGHLIGHTS
 
-Food insecurity and malnutrition risks deepen as funding falls short
-Director of OCHA’s Crisis Response Division visits Yemen as needs grow and operating space narrows
-Cash and voucher assistance: delivering choice, dignity and more effective humanitarian response
-Returning to Somalia: A new beginning for Warda and her children
+At least 5,688 households have been reported displaced across Ta'iz and southern Al Hodeidah between 3 and 7 September, following the escalation along the Maqbanah–Jabal Habashi frontlines and their extension to the west coast. Figures remain preliminary and subject to verification and overlap checks.
+Fighting continues across frontlines. The most volatile areas remain Maqbanah, Jabal Habashi, Hays, Mawza' and Al Wazi'iyah, with frontlines continuing to shift in Ta'iz. Displacement is fluid, secondary movements are already being observed and further displacement remains likely while hostilities persist.
+OHCHR verified data indicates that civilian harm increased markedly in August, documenting 11 incidents that resulted in 54 civilian casualties, including 12 deaths and 42 injuries; since the escalation of hostilities in early September, OHCHR has verified a further 11 civilian casualties across five incidents in Ta’iz and Al Hodeidah — two children killed and nine civilians injured — while four additional incidents in Ta’iz, Lahj, Marib and Al Jawf remain under verification and are not included in these figures.
+Rapid Response Mechanism (RRM) partners have assisted 2,340 households as of 6 September: 1,887 in Ta'iz, 269 on the west coast, 9 in Marib, and 175 households displaced from Marib to Abyan, while 2,636 households have been verified and registered for response in the Ta'iz hub.
+Around three in four newly displaced households lack adequate shelter, and families are sheltering in open and informal sites without site management coverage.
+Humanitarian access remains a major operational constraint. Maqbanah is inaccessible, due to road conditions. Distributions in Mawza', Al Wazi'iyah and Hays were suspended between 5 and 7 September.
+Stocks need replenishment to support an urgent scale-up. Shelter/non-food items (NFIs) partners report a combined funding gap of some US$3.0 million with no contingency stock, the RRM requires US$7.07 million to bridge urgent gaps, and 1,087 households — around 23 per cent of the identified emergency food caseload — have no confirmed response.
+Al Makha seaport has sustained significant damage and activities are suspended, with implications for markets and supply that have yet to be assessed.
