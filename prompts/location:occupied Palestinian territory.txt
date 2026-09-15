@@ -1,6 +1,13 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: OCHA (2026-09-14) ---
+--- Report 1: DFS (2026-09-15) ---
+Executive Summary
+The Occupied Palestinian Territories face a catastrophic humanitarian crisis marked by severe food insecurity, mass displacement, and the near-collapse of essential services. In Gaza, the majority of the population relies entirely on humanitarian assistance, with widespread destruction of housing, health facilities, water infrastructure, and educational institutions compounding the challenges faced by displaced families. Harsh winter conditions, repeated evacuation orders, and constrained humanitarian access continue to threaten the safety and well-being of civilians, with children, pregnant women, and other vulnerable groups bearing a disproportionate burden.
+In the West Bank, escalating military operations, settler violence, and movement restrictions have driven significant displacement and disrupted access to livelihoods, healthcare, and education. Economic contraction and rising unemployment have eroded household resilience, while demolitions and settlement expansion threaten further territorial fragmentation. Across both territories, humanitarian organizations are working to scale up food assistance, shelter support, health services, and protection programming, yet persistent access barriers, funding shortfalls, and ongoing hostilities continue to outpace the response, leaving Palestinians in urgent need of sustained international support and durable solutions.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the oPt crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/opt
+
+--- Report 2: OCHA (2026-09-14) ---
 Highlights
 
 Between January and August 2026, more than 1,600 settler attacks resulting in Palestinian casualties or property damage were documented across 275 communities, averaging 6.7 attacks per day, up from five per day in 2025.
@@ -38,5 +45,5 @@ During the reporting period, 32 attacks by Israeli settlers were reported that r
 Settler attacks also affected agricultural livelihoods and essential infrastructure across several communities. In Khallet al Louza (Bethlehem), settlers damaged seasonal crops planted on six dunums (1.5 acres) belonging to three families, while in Silwad (Ramallah), they uprooted and destroyed at least four mature olive trees. In Beita (Nablus), settlers attacked livestock facilities and damaged electricity and other infrastructure, while four Palestinians were injured. In Al Masudiya (Nablus), damage to electricity infrastructure resulted in a three-day power outage affecting about 12 families. In Khirbet Abu Falah (Ramallah), settlers dismantled parts of an agricultural structure and took metal sheets from land that the affected Palestinians have reportedly been prevented from accessing since May, following the establishment of a nearby settlement outpost.
 These incidents occurred amid a continued increase in both the frequency and geographic spread of settler attacks across the West Bank. Between January and August 2026, more than 1,600 settler attacks resulting in Palestinian casualties and/or property damage were documented, an average of 6.7 attacks per day, compared with five per day in 2025 and 1.5 per day in 2021. During the first eight months of 2026, attacks affected 275 Palestinian communities, nearly as many as the 279 communities affected during all of 2025 and more than double the 116 communities affected in 2020 (see graph below).
 
---- Report 2: WHO (2026-09-14) ---
+--- Report 3: WHO (2026-09-14) ---
 No summary available.
