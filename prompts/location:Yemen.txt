@@ -1,11 +1,21 @@
 Crisis / situation: Yemen
 
---- Report 1: CCCM Cluster (2026-09-13) ---
+--- Report 1: Health Cluster (2026-09-15) ---
+Key Highlights
+• The conflict has entered a multi-front, mass-casualty phase. Since Sitrep #2 the Marib front has re-ignited alongside the West Coast and Taiz. Marib City recorded 469 casualties on 9 September, the largest single-day toll of the emergency, followed by 177 on 10 September and 219 on 11 September. Casualties reported in the seven days of this period (1,746) exceed the entire cumulative toll at the last report.
+• Casualty burden has more than doubled in one week. Cumulative casualties rose from 1,137 (register re-issued 9 September) to 2,883 as of 12 September: 2,379 injuries and 504 deaths. The case-fatality ratio remains at 17%, consistent with blast and shelling injuries reaching hospitals late. Marib now carries 49% of the cumulative burden and Taiz/West Coast 43%; Lahj has emerged as a third recurrent source (149 casualties, 126 of them this period).
+• DFA forces seized the Bab el Mandeb coast on 10–11 September. Mocha, Dhubab and Perim (Mayyun) Island are under DFA control. Al-Mokha, the casualty collection point for the West Coast and the head of the ambulance corridor to Aden, is no longer accessible to the IRG-side health system; Taiz city has lost its western approaches and must plan for isolation.
+• Displacement has become a mass movement across six governorates. Exec. Unit for IDPs reports through 11 September, 11,096 displaced families (~77,789 people) verified across Taiz, Lahj, Al-Hodeidah, Aden, Abyan and Shabwah, up sharply from 1,790 households on 4 September and IOM’s 46,000 estimate on 10 September. Taiz accounts for the largest share (6,436 families), followed by Lahj (2,338) and Al-Hodeidah (1,471). Displacement continues, with villages emptied in Maqbanah, Jabal Habashi and Al Ma’afer, overnight departures from Mokha, and reported movement north towards Ibb. Many families have been displaced for a second or third time. In Taiz, an estimated 2,685 women and girls of reproductive age, including 240 pregnant women, are among those registered. IOM suspended operational movements on 11 September due to the deteriorating security environment.
+• Attacks on health care and civilians in camps. Seven health facilities or assets have been damaged, put out of service or directly hit in Taiz, Lahj and Al-Hodeidah. Asdas IDP camp in Raghwan (Marib) was shelled on 7 September, killing two children and injuring eight.
+• MoPHP has issued a 72-hour operational package and a formal support request to WHO (9 September): ten ambulances deployed from Aden to Al-Mokha, blood to 22 May Surgical and Aboud hospitals, two supply trucks to Taiz and the West Coast, a unified casualty line list, and nine prioritised requests to WHO led by trauma/anaesthesia supplies, blood-bank consumables and fuel.
+• WHO's third dispatch is under way. In line with the MoPHP request, surgical supplies, commodities and antibiotics are being dispatched to four hospitals: 22 May Hospital and Al-Gamhoriah Teaching Hospital in Aden, and Marib General Hospital Authority and Kara Hospital in Marib governorate. The Aden consignments are being dispatched on 13 September; the Marib consignments are ready. WHO is also procuring 17,000 single blood bags (450 ml) and 3,000 paediatric blood bags (250 ml), at an estimated cost of US$ 32,000, in response to the MoPHP blood-bank request. The Aden warehouse remains at stock-out for normal saline, sterile surgical gloves, atropine and potassium chloride, and without TESK/trauma kits and anaesthetic drugs.
+
+--- Report 2: CCCM Cluster (2026-09-13) ---
 Situation at a Glance:
 Hostilities escalating on 3 September across Taiz, the West Coast, Aden Hubs including Hays, Al Khukha, Al Mukha, Mawza, Alwazyah, Maqbanah, Jabal Habashi, Almaafer and Almadharibah, triggering one of the sharpest spikes in new and secondary displacement there and placeing additional pressure on receiving sites. Access is severely constrained: the Taiz–AlMakha road has been disrupted, the main road to Maqbanah is blocked, currently clashes are in the road between AlMakha and Aden. Telecommunications disruptions hamper verification and real-time tracking.
 The Cluster tracked around 15,400 newly displaced households. Numbers keep changing from day to day.
 
---- Report 2: OCHA (2026-09-13) ---
+--- Report 3: OCHA (2026-09-13) ---
 KEY HIGHLIGHTS
 
 Some 11,442 households have been newly displaced countrywide since hostilities escalated on 3 September: 10,310 households across 15 districts in the Ta’iz hub (8,628 in Ta’iz and 1,682 in southern Al Hodeidah), 1,037 in the Aden hub (Lahj 462, Aden 299, Abyan 180 and Ad Dale’ 96) and 95 in Al Bayda, Marib and Sana’a. figures are preliminary and may include some double counting. Fighting continues along the western Ta’iz frontlines (Maqbanah, Jabal Habashi and Mawza’) and in southern Al Hodeidah, while airstrikes and military activity have also been reported along the Marib–Al Jawf axis and in Al Bayda.
@@ -17,7 +27,7 @@ Rapid Response Mechanism (RRM) partners have verified 4,116 households and assis
 Response coverage remains low. Food Security and Agriculture Cluster (FSAC) partners have reached 1,554 of 6,144 households identified for emergency food assistance, leaving 4,390 households without confirmed response coverage, after accounting for planned assistance.; Cash and Markets Working Group (CMWG) partners have reached 1,381 households with emergency multi-purpose cash assistance (MPCA); and Shelter partners have reached 147 households against a planning caseload of 11,000 households. No WASH deliveries have yet been verified.
 Civilian casualties: Between 1 and 9 September, OHCHR verified 14 civilian casualties across eight incidents in Ta’iz and Al Hodeidah, including two children killed, with women and children among those injured. Four additional incidents in Ta’iz, Lahj, Marib and Al Jawf remain under verification and are not included in the verified figures.
 
---- Report 3: OCHA (2026-09-13) ---
+--- Report 4: OCHA (2026-09-13) ---
 KEY HIGHLIGHTS
 
 At least 5,688 households have been reported displaced across Ta'iz and southern Al Hodeidah between 3 and 7 September, following the escalation along the Maqbanah–Jabal Habashi frontlines and their extension to the west coast. Figures remain preliminary and subject to verification and overlap checks.
