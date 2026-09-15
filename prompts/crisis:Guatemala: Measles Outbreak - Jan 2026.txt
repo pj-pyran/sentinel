@@ -1,9 +1,9 @@
 Crisis / situation: Guatemala: Measles Outbreak - Jan 2026
 
---- Report 1: PAHO (2026-09-02) ---
-No summary available.
-
---- Report 2: PAHO (2026-09-02) ---
+--- Report 1: PAHO (2026-09-14) ---
 Summary of the Situation
-Between epidemiological week (EW) 1 and EW 33 of 2026 (which ended on August 22, 2026), the Region of the Americas reported 51,027 confirmed cases of measles in 17 countries and territories, representing a 4.6-fold increase compared with the same period in 2025. Guatemala (32,566), Mexico (12,607), the United States (2,777), and Canada (1,117) account for the vast majority (96%) of confirmed cases (Map 1). A total of 55 deaths have been reported, including 36 in Guatemala, 18 in Mexico, and one in Bolivia (1).
-During EW 31 and 32 of 2026, the Region of the Americas reported 1,162 new confirmed cases of measles in seven countries and territories, representing a 28.1% decrease compared with the previous two-week period (EW 29–30; 1616 new cases, of which 921 were retrospectively accounted for since the last situation report was published) (Figure 1). Of the 1,162 new confirmed cases reported during EW 31–32, Guatemala accounted for 611, followed by the United States with 239, Peru with 211, and Mexico with 96 while Bolivia reported three cases and Canada and Honduras one each.
+Between epidemiological week (EW) 1 and EW 35 of 2026 (which ended on 5 September 2026), the Region of the Americas reported 52,676 confirmed cases of measles in 17 countries and territories, representing a 3.8-fold increase compared with the same period in 2025. Guatemala (33,334), Mexico (12,848), the United States (3,134), Peru (1,997), and Canada (1,119) account for the vast majority (99.5%) of confirmed cases (Map 1). A total of 61 deaths have been reported, including 41 in Guatemala, 19 in Mexico, and one in Bolivia (1).
+During EW 33 and EW 34 of 2026, the Region of the Americas reported 911 new confirmed cases of measles in six countries and territories, representing a 36.6% decrease compared with the previous two-week period (EW 31–32; 1,436 new cases, of which 274 were retrospectively accounted for since the last regional situation report was published) (Figure 1). Of the 911 new confirmed cases reported during EW 33–34, Guatemala accounted for 350, followed by the United States with 303, Peru with 171, and Mexico with 83 while Bolivia and Canada reported two cases each2.
+
+--- Report 2: PAHO (2026-09-14) ---
+No summary available.
