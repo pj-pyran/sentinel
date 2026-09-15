@@ -1,15 +1,13 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-09-11) ---
+--- Report 1: DFS (2026-09-15) ---
 Executive Summary
 The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/sudan
 
---- Report 2: WHO (2026-09-11) ---
-Monthly highlights
-• WHO continued to support the delivery of life-saving health services during this reporting period, including secondary and primary health care (PHC), referrals, immunisation, nutrition services, health education and capacity-building activities. More than 102 544 consultations were supported through WHO-supported hospitals and PHC facilities.
-• It also distributed 10.32 MT medical supplies to health facilities to prevent stockouts and maintain uninterrupted access to life-saving services.
-• WHO’s 2026 emergency appeal remains critically underfunded, with 19.3% of the required US$ 97.7 million received, constraining the scale-up of life-saving health interventions in conflict-, displacement-, outbreak-affected and hard-to-reach areas.
-• WHO strengthened laboratory capacities for timely outbreak confirmation for priority states, including deployment of a Mobile Public Health Laboratory to Blue Nile state to support detection and confirmation of dengue, hepatitis E and other epidemic-prone diseases.
-• The cholera outbreak continued to affect multiple localities, despite intensified prevention and control measures by health authorities and partners. WHO supported oral cholera vaccine (OCV) campaigns in high-risk states, and over 675 351 people aged 1 year and older have received the cholera vaccine.
+--- Report 2: GBV AoR (2026-09-14) ---
+The Gender-Based Violence (GBV) Safety Audit for Tawila locality, North Darfur, was conducted in June 2026 under the technical guidance of UNFPA and in collaboration with GBV Area of Responsibility (AoR) partners. The assessment aimed to identify GBV and protection risks affecting displaced populations, particularly women, adolescent girls, female-headed households, children and persons with disabilities, and to inform safer and more gender-responsive humanitarian programming.
+The audit identified significant protection concerns, including inadequate night lighting, overcrowded and unsafe shelters, risks during humanitarian distributions, insufficient and unsafe WASH facilities, limited access to health services, lack of safe spaces, and gaps in confidential GBV and PSEA reporting mechanisms. These challenges continue to affect the safety, dignity and access to essential services of women and girls in Tawila.
+The report calls for coordinated, gender-responsive and multi-sectoral action across GBV, Protection, WASH, Health, Shelter/NFI and other relevant sectors. Key recommendations include strengthening confidential reporting and referral mechanisms, expanding women- and child-friendly spaces, improving lighting and shelter conditions, ensuring safer and gender-sensitive distributions, improving access to health and WASH services, and strengthening the meaningful participation of women and girls in humanitarian planning and decision-making.
+The Safety Audit provides an evidence base to support coordinated follow-up, protection mainstreaming and implementation of GBV risk-mitigation measures across the humanitarian response in Tawila, North Darfur.
