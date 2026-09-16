@@ -1,18 +1,16 @@
 Crisis / situation: South Sudan
 
---- Report 1: FAO (2026-09-08) ---
-Support to the vulnerable livelihoods of agropastoralists in South Sudan
-Objective
-To safeguard the livestock assets of agropastoral and pastoral households affected by floods.
-Activities implemented
-• Trained 62 community animal health workers (CAHWs) in disease surveillance and equipped them with animal health kits comprised of essential supplies (antibiotics, vaccines and dewormers).
-• Built one multipurpose solar-powered borehole in Tonj South.
-• Distributed vegetable seeds and tools to 25 people (women and youth) and provided training on good vegetable production practices.
-• Constructed a milk bar in Juba County and trained 30 people, including 28 women, in milk production, processing and marketing and financial management.
-Results
-• Enhanced CAHWs’ capacities to actively carry out livestock interventions, accurately recognize and identify diseases, report animal health issues and administer vaccines effectively, leading to a reduction in disease incidents and livestock mortality.
-• Protected livestock assets of 17 661 households through the treatment of over 605 000 animals by trained CAHWs.
+--- Report 1: UNHCR (2026-09-16) ---
+ANALYSIS &amp; TRENDS
+Conflicts across Jonglei and Upper Nile have internally displaced more than 323,000 people since 2025. The latest escalation in Akobo has led to large-scale population movements, with more than 100,000 people fleeing from Akobo and surrounding areas into Ethiopia.
+As security conditions have improved in some areas, returns have gradually increased. By 1 July, IOM's Displacement Tracking Matrix (DTM) had recorded more than 61,000 returnees in Akobo County. However, ongoing insecurity, seasonal flooding, and the limited availability of basic services mean that many families are returning to highly precarious conditions. Akobo remains a critical humanitarian hub and a key cross-border corridor between South Sudan and Ethiopia, making developments in the area highly consequential for both internal displacement and regional population movements.
+Separately, in July UNHCR and its partners observed, 8,292 individuals arriving in South Sudan through the Akobo Boat Dock and Dibole entry points from the Tiekidi, Kule, Nguenyiel and Jewi refugee camps in Ethiopia. This represents a 10 per cent decrease from the 9,250 arrivals recorded in June. Children accounted for 60 per cent of arrivals, while 70 per cent of returning households were female-headed and 5 per cent of returnees were aged 60 or above. Many families are returning with few belongings and are rebuilding their lives in areas where services, shelter and livelihood opportunities remain extremely limited.
+Improved security and family reunification are encouraging returns. However, returnees also cited reduced humanitarian assistance and limited access to food, healthcare, education, water and sanitation in Ethiopia as factors motivating their return.
+The journey remains difficult. With heavy rains rendering many roads impassable, the Matar–Akobo boat route is often the only viable option, while the high cost and limited availability of commercial boats have slowed arrivals. Families report journeys of up to seven days from Gambella, sometimes waiting for days for transport without adequate food, shelter or basic services.
 
---- Report 2: UNICEF (2026-09-07) ---
-Overview:
-UNICEF and partners completed Rapid Response Mechanism (RRM) missions to Wiechjol in Akobo County and Waat in Nyirol County, Jonglei State, restoring immediate access to life-saving health, nutrition and water, sanitation and hygiene (WASH) services for conflict-affected, displaced and returnee communities. After months of disrupted humanitarian access, the missions delivered approximately 8.3 metric tons of critical supplies and provided nutrition screening, primary healthcare, household water-treatment support, hygiene promotion and referrals for children and pregnant and lactating women requiring further care. The intervention provided a critical humanitarian lifeline for communities that had been largely cut off from assistance following months of conflict, population displacement, and disrupted service delivery. Through an integrated package of health, nutrition and WASH interventions, UNICEF and partners delivered immediate life-saving support to conflict-affected, displaced and returnee populations. The missions screened 1,666 children for acute malnutrition, provided 1,241 primary health care consultations, reached 2,075 people with hygiene-promotion messages, and distributed essential hygiene supplies, including soap to 3,250 households and buckets to 948 households. Teams also identified and referred vulnerable children and women requiring additional care, including 146 children with severe acute malnutrition (SAM) and 58 pregnant and lactating women at nutritional risk. As the first humanitarian assistance delivered in several months to these locations, the missions also generated critical information on humanitarian needs and service gaps, helping inform follow-up actions and the gradual restoration of essential services in hard-to-reach areas of northern Jonglei.
+--- Report 2: WFP (2026-09-15) ---
+KEY MESSAGES
+• At SSP 133,524 per person per month, average food basket costs were marginally lower than the previous week, while remaining 3 percent above the level recorded four weeks earlier.
+• Livestock price dynamics, such as the 25 percent drop in the price for a goat in Aweil, reflected the current severe water deficit, which drives increased livestock sales to cope with high cereal prices. This compromises households’ terms of trade.
+• The informal exchange rate held steady at SSP 7,312 per USD on average, while the official rate was SSP 5,627 per USD. This maintained a persistent 30 percent premium to the official exchange rate.
+• Fuel prices remained elevated and virtually unchanged from the previous week on both formal and informal markets.
