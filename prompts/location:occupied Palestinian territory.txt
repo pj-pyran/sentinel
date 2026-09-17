@@ -1,6 +1,16 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: UNRWA (2026-09-16) ---
+--- Report 1: WeWorld (2026-09-17) ---
+Across Gaza, civilians continue to face protection risks as military operations, displacement, and insecurity persist. Between 12 and 26 August, 47 Palestinians were reported killed and 176 injured.
+Since the October 2025 ceasefire, 1,303 fatalities and 4,336 injuries have been reported. Access and funding constraints continue to limit the scale and continuity of humanitarian assistance.
+Living conditions remain critical. Around 1.98 million people require shelter and non-food assistance, while overcrowded displacement sites face poor sanitation, accumulated waste and pest risks. Around 70% of WASH infrastructure is damaged. On 24 August, damage to a water well and desalination facility in Deir Al Balah disrupted safe water access for more than 4,000 people, including around 2,000 children.
+Health services remain under severe pressure, while conflict-related injuries continue to generate significant rehabilitation needs. Food insecurity and poor diets further affect children’s health.
+TheAugust Gaza SMARTSurvey found chronic malnutrition among 12.2% of children under five in accessible areas, while 37.1% had experienced diarrhea in the previous two weeks.
+Children continue to face the combined effects of violence, displacement, disrupted education, and psychosocial distress. As Gaza prepares for the 2026/27 school year, 613 Temporary Learning Spaces (TLSs) were serving 432,701 learners, while an estimated 337,721 children remain underserved.
+The Education Cluster identified 546 IDP sites outside the 300-meter catchment area of existing TLSs, highlighting significant gaps in access to safe and inclusive learning opportunities.
+WeWorld continues to operate across multiple governorates in the Gaza Strip, delivering integrated WASH and education emergency interventions, prioritizing populations with limited or no access to basic services, especially children, women, and persons with disabilities, while working to restore essential services, strengthen resilience, and reduce protection and public health risks.
+
+--- Report 2: UNRWA (2026-09-16) ---
 Highlights
 The Gaza Strip
 
@@ -14,7 +24,7 @@ Following the forced entry into Kalandia Training Centre on 25 August 2026, Isra
 Approximately 48,000 Palestine Refugee students started the new academic year at 90 UNRWA schools across the occupied West Bank on 7 September, amid challenges to their right to education, including movement and access restrictions, security operations in and around schools, and high levels of occupation-related violence.
 Three Palestinians were killed in incidents linked to Israeli settler violence, as the occupied West Bank continues to experience heightened levels of violence and harassment perpetrated by Israeli settlers. Settlement expansion – contrary to international law – also continued, with a new settlement established near Qabatiya on 31 August.
 
---- Report 2: DFS (2026-09-15) ---
+--- Report 3: DFS (2026-09-15) ---
 Executive Summary
 The Occupied Palestinian Territories face a catastrophic humanitarian crisis marked by severe food insecurity, mass displacement, and the near-collapse of essential services. In Gaza, the majority of the population relies entirely on humanitarian assistance, with widespread destruction of housing, health facilities, water infrastructure, and educational institutions compounding the challenges faced by displaced families. Harsh winter conditions, repeated evacuation orders, and constrained humanitarian access continue to threaten the safety and well-being of civilians, with children, pregnant women, and other vulnerable groups bearing a disproportionate burden.
 In the West Bank, escalating military operations, settler violence, and movement restrictions have driven significant displacement and disrupted access to livelihoods, healthcare, and education. Economic contraction and rising unemployment have eroded household resilience, while demolitions and settlement expansion threaten further territorial fragmentation. Across both territories, humanitarian organizations are working to scale up food assistance, shelter support, health services, and protection programming, yet persistent access barriers, funding shortfalls, and ongoing hostilities continue to outpace the response, leaving Palestinians in urgent need of sustained international support and durable solutions.
