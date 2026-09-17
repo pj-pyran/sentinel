@@ -19,16 +19,3 @@ Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/lebanon
-
---- Report 4: WFP (2026-09-14) ---
-IN NUMBERS
-715,910 people assisted in August (52% female)
-543 mt food distributed in August
-USD 17.5 M cash transferred in August
-USD 186.3 M required in the next six months (September 2026 – February 2027)
-KEY HIGHLIGHTS
-
-Since the escalation in March, WFP has reached 1.1 million conflict-affected people across Lebanon through cash, food, and emergency assistance.
-WFP continued strengthening national systems, supporting MoSA's Integrated Beneficiary Registry, which now consolidates seven assistance datasets covering 1.54 million people.
-WFP sustained emergency food assistance through community kitchens serving 4,500 hot meals daily in 31 shelters and delivered 460,000 meals to 14,700 newly displaced Syrians.
-Since the conflict escalation, the WFP-led Logistics Cluster has facilitated 41 humanitarian convoys, supporting the delivery of assistance to almost 126,000 people in hard-to-reach areas.
