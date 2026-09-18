@@ -1,6 +1,15 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: WFP (2026-09-17) ---
+--- Report 1: OCHA (2026-09-18) ---
+HIGHLIGHTS
+
+The floods have claimed 1,399 lives; 5,179 people remain missing and 13,742 have been rescued (NDRRMA, 15 September, 19:00).
+Assistance has reached 46,829 people in the 17 affected municipalities. This includes 28,925 people with food, 26,550 with restored water supply, 17,543 with emergency shelter and relief items, and 9,118 with psychosocial support.
+Authorities report that initial relief needs in Nuwakot are being met. In Rasuwa, many communities remain cut off by damaged roads and bridges and rely on air deliveries, which heavy rain is disrupting.
+With 7,570 buildings damaged, 2,155 people remain in 30 displacement centres, while others have moved on to Kathmandu and elsewhere.
+The national Cash Working Group agreed on NPR 15,000 per household every 15 days, for up to three months, as the reference value for multipurpose cash. It also called for stronger coordination to avoid overlap.
+
+--- Report 2: WFP (2026-09-17) ---
 KEY HIGHLIGHTS
 • WFP has dispatched 160 mt of food rations, sufficient for 15 days, to Dhading, Nuwakot and Rasuwa, including 56 mt via air operations reaching 15,700 people.
 • The Logistics and Telecommunications Cluster continues to support partners by facilitating the receipt, storage and onward transport of humanitarian cargo to affected areas through road and air operations.
@@ -9,7 +18,7 @@ Situation Overview
 • The humanitarian impact of the floods and landslides continues to deepen, with widespread displacement, extensive infrastructure damage and significant recovery needs across affected districts. Reported fatalities have risen to 1,403, with 6,150 people still missing and 13,742 rescued, while the floods have caused extensive damage to settlements. Over 2,000 displaced people are staying in 29 holding centers in Dhading, Nuwakot and Rasuwa.
 • The Government's Rapid Damage and Needs Assessment estimates USD 5.3 billion in recovery and reconstruction needs, with infrastructure accounting for three-quarters of total requirements. Approximately 1.6 million people are affected, 7,570 homes damaged and 783 MW of energy infrastructure has been impacted.
 
---- Report 2: IOM (2026-09-16) ---
+--- Report 3: IOM (2026-09-16) ---
 SITUATION OVERVIEW
 The 26 August flash floods in central Nepal have caused significant loss of life, displacement and widespread damage to homes, infrastructure and essential services. Government-led search and rescue operations are on their twelfth day, while access constraints and ongoing verification of displacement and housing impacts remain key challenges.
 As of 14 September, the Government of Nepal reports 1,395 bodies recovered, 5,130 people missing and 13,737 people rescued following the 26 August floods, with figures expected to change as access improves. Preliminary humanitarian analysis estimates 84,270 people affected across 17 municipalities in six districts.
