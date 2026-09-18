@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4230513",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Colombia: Flash Update 013 - Update on the Impact of the Earthquake in Colombia - September 18, 2026",
+    "source": "EHP Colombia",
+    "crisis": "Colombia: Earthquake - Aug 2026",
+    "location": "Colombia",
+    "scope": "single",
+    "date": "2026-09-18",
+    "content": "<p><em>This Flash Update is produced by OCHA Colombia based on inputs from humanitarian partners and official reports. Information is current as of 17 September (14:00 local time). This document will continue to be issued on a weekly basis until the end of September.</em></p>\n<ul>\n<li><strong>Current reports indicate that at least 486,917 people and 303,934</strong> households have been affected by the earthquake, while urgent humanitarian needs persist in the most heavily impacted areas (Chocó, Valle del Cauca, Risaralda, Caldas and Quindío).</li>\n<li><strong>The impact on housing and infrastructure remains critical, with 36,478 homes destroyed</strong> and thousands of sector-specific impacts reported in educational and health facilities, water supply systems and community spaces/shelters.</li>\n<li><strong>The crisis is being exacerbated by concurrent hazards</strong>, including flooding, wildfires, ongoing seismic activity, a volcanic alert and dynamics related to the armed conflict, all of which increase community vulnerability.</li>\n<li><strong>The response continues through coordination with local and national authorities</strong>, with support from the international humanitarian community: more than 137,000 people have received humanitarian assistance, while recovery efforts continue and significant funding and response gaps persist.</li>\n<li><strong>Funding remains critical to save lives, restore essential services and support the recovery of affected communities.</strong></li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/colombia/colombia-flash-update-013-update-impact-earthquake-colombia-september-18-2026",
+    "region": "Americas",
+    "subregion": "South America",
+    "rw_id": "4230513",
+    "file_url": "https://reliefweb.int/attachments/b32e16d7-8757-44e5-bfee-60ec96effe8c/Flash%20Update%20Colombia%20No%2013%20Earthquake%20impact_ENG_20260917.pdf"
+  },
+  {
     "id": "rw-4230406",
     "provider": "reliefweb",
     "type": "original",
