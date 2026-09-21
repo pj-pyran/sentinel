@@ -1,13 +1,24 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-09-15) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
+--- Report 1: Insecurity Insight (2026-09-21) ---
+Data by Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 31 August 2026 at least 786 incidents of violence against or obstruction of access to health care took place across Sudan:
 
---- Report 2: GBV AoR (2026-09-14) ---
-The Gender-Based Violence (GBV) Safety Audit for Tawila locality, North Darfur, was conducted in June 2026 under the technical guidance of UNFPA and in collaboration with GBV Area of Responsibility (AoR) partners. The assessment aimed to identify GBV and protection risks affecting displaced populations, particularly women, adolescent girls, female-headed households, children and persons with disabilities, and to inform safer and more gender-responsive humanitarian programming.
-The audit identified significant protection concerns, including inadequate night lighting, overcrowded and unsafe shelters, risks during humanitarian distributions, insufficient and unsafe WASH facilities, limited access to health services, lack of safe spaces, and gaps in confidential GBV and PSEA reporting mechanisms. These challenges continue to affect the safety, dignity and access to essential services of women and girls in Tawila.
-The report calls for coordinated, gender-responsive and multi-sectoral action across GBV, Protection, WASH, Health, Shelter/NFI and other relevant sectors. Key recommendations include strengthening confidential reporting and referral mechanisms, expanding women- and child-friendly spaces, improving lighting and shelter conditions, ensuring safer and gender-sensitive distributions, improving access to health and WASH services, and strengthening the meaningful participation of women and girls in humanitarian planning and decision-making.
-The Safety Audit provides an evidence base to support coordinated follow-up, protection mainstreaming and implementation of GBV risk-mitigation measures across the humanitarian response in Tawila, North Darfur.
+health facilities were damaged 224 times
+219 health workers were killed, 16 kidnapped and 133 arrested
+70 attacks reported armed drones impacting health care
+53 attacks on maternal health care services
+
+View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available.
+
+--- Report 2: WFP (2026-09-21) ---
+Highlights
+The following section provides an overview of the monthly and annual percentage changes in the prices of selected commodities and the WFP Local Food Basket (LFB):
+➢ WFP Local Food Basket: SDG 3,831 /1unit (13%MoM, 94%YoY)
+➢ Sorghum: SDG2,465/kg (19%MoM, 94%YoY)
+➢ WheatFlour:SDG5,030/kg( 1%MoM, 68%YoY)
+➢Goat: SDG373,894/head (7%MoM, 68%YoY)
+➢Groundnuts:SDG207,583/kantar( 5%MoM, 69%YoY)
+SudanesePound:
+➢SDG 6,150/USD in Parallel Market (depreciationof10% month-on-month, 89% year-on-year)
+➢SDG 5,500/USD in Commercial Banks (depreciation of 4% month-on-month,129% year-on-year)
+Key Drivers:Currency depreciation,supply chain disruptions, and rising cost of production.
