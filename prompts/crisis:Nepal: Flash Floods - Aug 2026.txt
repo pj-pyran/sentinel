@@ -1,19 +1,23 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: ETC (2026-09-21) ---
+--- Report 1: Plan International (2026-09-22) ---
+A major flash flood entered Nepal through the Bhote Koshi River at approximately 9:00 AM on 26 August 2026, causing significant loss and damage across Rasuwa, Nuwakot and Dhading districts. Timure, Rasuwagadhi and Syabrubesi are among the worst affected areas, with impacts reported on communities, markets, roads, bridges and hydropower infrastructure.
+The cause of the flood remains under investigation, with authorities assessing the possibility of a glacial lake outburst flood (GLOF) or another upstream hydrological event. The Government of Nepal has mobilised security forces for search, rescue and relief operations and issued alerts for communities downstream along the Trishuli River corridor.
+
+--- Report 2: ETC (2026-09-21) ---
 This Situation Report provides an update on the humanitarian situation following the flash floods that struck Nepal on 26 August 2026. Since the activation of the Logistics &amp;amp; Telecommunications Cluster (LTC) 1 on 02 September, the LTC Telecoms Area has supported humanitarian partners through telecommunications coordination, assessments, connectivity services and information management.
 Summary Points
 • Three weeks after the 26 August flash floods, the National Disaster Risk Reduction and Management Authority (NDRRMA), under the Ministry of Home Affairs, continues to lead the government-coordinated response in collaboration with humanitarian partners, including LTC Telecoms.
 • LTC Telecoms has established shared connectivity at the WFP-managed humanitarian staging area near Kathmandu airport, which serves cooperating partners and humanitarian organizations receiving relief cargo and assistance.
 • During his mission the LTC Telecoms Coordinator developed a two-month response plan outlining priority telecommunications requirements, coordination actions, potential support activities and budget estimate across three locations.
 
---- Report 2: UNFPA (2026-09-21) ---
+--- Report 3: UNFPA (2026-09-21) ---
 Two weeks after the 26 August 2026 flash floods along the Bhotekoshi and Trishuli rivers, the confirmed death toll stands at 1,367, with 5,326 people still unaccounted for. An estimated 352,000 people are affected, including 98,560 women of reproductive age and 5,030 pregnant women, of whom approximately 750 are projected to need emergency obstetric care in the coming three months.
 Displacement continues to rise, with 37 sites now hosting 3,629 people in overcrowded conditions offering little privacy for women and girls. Protection monitoring points to ongoing risks of gender-based violence, compounded by loss of livelihoods and disrupted community protection networks. Isolated communities, loss of civil documentation, and heightened risk of child marriage among adolescent girls remain key concerns, alongside rising fears of waterborne disease outbreaks.
 UNFPA has expanded mobile health services to Bidur and Kispang municipalities, reaching 472 people with antenatal, postnatal and family planning services, and 145 people with psychological first aid. On protection, 2,800 dignity and adolescent kits and 300 tarpaulins have been dispatched, and four women-friendly spaces established across the affected districts.
 UNFPA requires US$3.5 million for an integrated six-month response. An initial US$300,000 has been allocated from UNFPA's Humanitarian Thematic Fund and core resources, and an additional US$892,000 has been pledged through the Multi-Partner Trust Fund by the United Kingdom and Australia, which would reduce the outstanding gap to approximately US$2.3 million once confirmed.
 
---- Report 3: UNICEF (2026-09-21) ---
+--- Report 4: UNICEF (2026-09-21) ---
 Highlights
 
 An estimated 84,270 people, including 32,021 children and 1,854 persons with disabilities, are affected across 17 municipalities in six districts by the flash floods which struck Nepal on 26 August. As of 16 September, 2,096 displaced people remain in 29 holding centres across three districts.
