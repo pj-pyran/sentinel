@@ -1,6 +1,22 @@
 Crisis / situation: Sudan
 
---- Report 1: Insecurity Insight (2026-09-21) ---
+--- Report 1: IOM (2026-09-22) ---
+The Sudan Displacement and Return Snapshot includes information on internally displaced persons (IDPs) and returnees, based on data from over 13,000 locations, 185 localities, and all 18 states in Sudan.
+Main Findings
+
+An estimated 8,583,274 internally displaced persons (IDPs) were recorded across 185 localities in all 18 states.
+An estimated 5,145,165 returned individuals were recorded across 77 localities in nine states.
+Eighty-two per cent of returnees moved back from internal displacement, while 18 per cent returned from abroad.
+Approximately half of IDPs (55%) and returnees (50%) were children under 18 years old.
+
+Key Trends
+
+The number of IDPs decreased by 26 per cent compared to the highest-recorded displaced population and by approximately one per cent compared to the previous month.
+The number of returnees increased by four per cent compared to the previous month.
+
+For further information, see the DTM Methodological Note and the DTM Sudan Interactive Dashboard.
+
+--- Report 2: Insecurity Insight (2026-09-21) ---
 Data by Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 31 August 2026 at least 786 incidents of violence against or obstruction of access to health care took place across Sudan:
 
 health facilities were damaged 224 times
@@ -10,7 +26,7 @@ health facilities were damaged 224 times
 
 View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available.
 
---- Report 2: WFP (2026-09-21) ---
+--- Report 3: WFP (2026-09-21) ---
 Highlights
 The following section provides an overview of the monthly and annual percentage changes in the prices of selected commodities and the WFP Local Food Basket (LFB):
 ➢ WFP Local Food Basket: SDG 3,831 /1unit (13%MoM, 94%YoY)
