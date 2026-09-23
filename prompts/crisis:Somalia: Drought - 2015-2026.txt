@@ -1,15 +1,11 @@
 Crisis / situation: Somalia: Drought - 2015-2026
 
---- Report 1: WFP (2026-08-20) ---
-Somalia is entering a critical new phase of hunger, where drought, conflict, displacement, sharply reduced humanitarian assistance, and rising food and fuel prices are converging faster than families can recover.
-One third of Somalia’s population – six million people – is facing acute hunger or worse, including nearly two million people in emergency levels of hunger. These are not abstract numbers; they are families exhausting every last option to survive.
-Somalia remains one of the world’s worst malnutrition crises in the world, with an estimated 1.88 million children under five projected to suffer acute malnutrition in 2026, including nearly 493,000 requiring treatment for severe acute malnutrition.
-WFP’s lifesaving nutrition services are extremely limited. Preventive programmes have been cut across the country, increasing risks for vulnerable women and children.
-WFP launched its new Somalia Country Strategic Plan (2026-2030), providing a strategic framework to save lives, strengthen self-reliance, enable government-led solutions and support humanitarian partners. Aligned with national priorities, the plan advances food security, resilience and sustainable pathways to reduce hunger.
+--- Report 1: FSNAU (2026-09-23) ---
+No summary available.
 
---- Report 2: OCHA (2026-08-18) ---
-Severe drought and dwindling assistance have taken a heavy toll on livelihoods, particularly in northern and central regions; 1.9 million people in Sool, Sanaag, Bari, Nugaal and Mudug regions are acutely food insecure.
-Humanitarian response in drought-affected areas is critically low. An analysis in 12 districts found that only four achieved 25 to 50 per cent reach, seven were below 25 per cent, and one recorded no response at all.
-Humanitarian partners in close collaboration with authorities have stepped up flood preparedness measures including risk analysis, contingency planning, mapping of resources, early warning messages in identified hotspots.
-More than 216,900 people were displaced across the country during the second quarter of 2026 (April to June), nearly three times the number recorded during the same period in 2025.
-Access constraints remain significant in several regions, disrupting humanitarian operations, restricting population movement, and delaying the delivery of life-saving assistance.
+--- Report 2: OCHA (2026-09-22) ---
+Somalia is bracing for widespread flooding as El-nino-induced heavy expected from October to December, with impacts potentially extending into 2027.
+Flood-risk analysis projects significant El Niñoimpacts, with 3.4 million people at risk in 16 regions, particularly Hiraan, Middle Juba and Lower Juba.
+Partners have stepped up preparedness, risk analysis, contingency planning, anticipatory action, community awareness and pre-positioning of supplies.
+Displacement and eviction risks remain a major humanitarian concern, as conflict, climatic shocks and tenure insecurity heighten protection risks.
+From January to June, 380 health facilities have either closed or operated at reduced capacity due to funding shortfalls; 115 mobile health units have closed.
