@@ -1,10 +1,27 @@
 Crisis / situation: World
 
---- Report 1: UNICEF (2026-09-22) ---
+--- Report 1: WHO (2026-09-22) ---
+ACUTE HEALTH THREATS
+Following a period of relative calm since late July, hostilities began to re-intensify on 30 August in Iran, with
+additional reported impacts in military bases in Jordan and the United Arab Emirates. Additional sanctions
+announced on 24 August on Iran have had significant effects on the economy, including on health. Currency
+depreciation and access restrictions to international financial systems are adding additional complexities to
+humanitarian imports, including medicines. WHO offices are reporting frequent power cuts impacting power
+continuity in hospitals. In Lebanon, despite the June ceasefire, hostilities continue to be reported around
+Nabatieh with people unable to return home in the affected areas. In Syria, hostilities reported in southern Syria
+and along the Israel-Lebanon border raise concerns of localized escalation and potential spillover effects. In
+Yemen, the current escalation has greatly increased trauma needs and resulting in increased displacement and
+additional pressure on an overstretched health system, with conflict occurring in areas affected by diseases such
+as measles, cholera, dengue, food insecurity, and malnutrition. The security situation in Iraq has also
+deteriorated, with several airstrikes reported across multiple governorates since late July. Across the Middle
+East, attacks impacting oil infrastructure and shipping raise additional concerns on the continued effects of the
+current escalation on oil supplies and prices in addition to the potential environmental health consequences
+
+--- Report 2: UNICEF (2026-09-22) ---
 Introduction
 Global progress on WASH in schools
 The World Health Organization (WHO) and the United Nations Children’s Fund (UNICEF) Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) produces internationally comparable estimates of progress on drinking water, sanitation and hygiene (WASH) and is responsible for global monitoring of the Sustainable Development Goal (SDG) targets related to WASH. The JMP releases updated estimates for WASH in households in odd years and updated estimates for WASH in schools and health care facilities in even years. This report presents updated country,1 regional and global estimates for WASH in schools up to the year 2025. It includes examples of national data on additional indicators that could potentially be used for advanced monitoring of WASH in schools post-2030. It supersedes all previous JMP progress updates on WASH in schools.
 
---- Report 2: FAO (2026-09-21) ---
+--- Report 3: FAO (2026-09-21) ---
 The dynamical models indicate above-normal rainfall across most of northern and eastern Africa and the Middle East from October through December, consistent with previous strong El Niño episodes. Within this region, drier-than-normal conditions are expected to emerge across North Africa by December, but elsewhere the wet pattern is likely to persist through winter. The only notable change in the forecasts this month is that the predicted wet anomaly is somewhat less pronounced in East Africa, and the forecast has also turned drier for Yemen and Oman, because the positive phase of the Indian Ocean Dipole is struggling to become established, and a less positive IOD favors relatively drier conditions around the northwestern Indian Ocean during El Niño. Nevertheless, the pronounced El Niño forcing will remain the dominant (wet) influence. These rainfall patterns can support breeding in the northern Sahel through late summer breeding season. Small-scale breeding may begin in October along the Red Sea and Gulf of Aden coasts.
 Precipitation
