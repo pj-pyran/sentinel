@@ -1,6 +1,21 @@
 Crisis / situation: World
 
---- Report 1: WHO (2026-09-22) ---
+--- Report 1: Protection Cluster (2026-09-24) ---
+Haiti has been experiencing a deepening political, security, and humanitarian protection crisis since the 2021 assassination of President Jovenel Moïse, with escalating armed violence and civil unrest, particularly in the West, Artibonite, and Centre departments. Weak rule of law institutions, constrained resources, and endemic corruption hinder the State’s ability to protect and promote human rights. Armed violence exacerbates pre-existing humanitarian needs and vulnerabilities stemming from socio-economic inequalities and frequent natural disasters.
+The Haitian population faces serious protection risks arising from the actions of armed groups, self-defence groups, and security forces. From 1 January to 31 July 2026, the Human Rights Service (HRS) of the United Nations Integrated Office in Haiti (BINUH) and the United Nations High Commissioner for Human Rights (OHCHR) documented 3,373 killings and 1,494 injuries. During the same period, 176 people were kidnapped for ransom by armed groups, compared with 433 in 2025.
+These patterns of violence intersect with other protection risks and disproportionately affect people facing heightened vulnerabilities. Gender-based violence (GBV) remains alarmingly high and underreported, with 6,337 incidents, primarily affecting women and girls, reported between January and 31 July 2026. Children are exposed to violence, family separation and trafficking, including recruitment by armed groups, increasing their vulnerability to abuse and exploitation. Restrictions on freedom of movement further compound these risks, limiting access to food, safe drinking water, healthcare and education, disrupting the transportation of goods and constraining humanitarian access.
+Continued violence and restrictions on movement have also contributed to more than 1.47 million people being internally displaced since 2022. Many live in increasingly overstretched host communities, while others remain in overcrowded and unsafe displacement sites with limited access to basic services. Repeated displacement has disrupted family and community networks, education, livelihoods and access to social protection, eroding existing coping capacities.
+These internal displacement dynamics are compounded by forced returns of Haitians from countries of destination. Haitians returning from the Dominican Republic and other countries may face return without adequate safeguards or due process, often into areas where insecurity, limited services and weak institutional capacity constrain opportunities for safe and sustainable reintegration. The termination of U.S. Temporary Protected Status (TPS) for Haitians on 27 July 2026, which had protected 350,000 Haitian nationals and the arrival of the first deportation flight in Cap-Haïtien on 20 August, further underscore the potential for increased return-related protection pressures.
+Mass displacement forced returns and weakened State presence in areas affected by violence are aggravating barriers to legal identity and access to justice. Loss of documentation limited civil registration services and restricted access to legal assistance and remedies particularly affect internally displaced persons and forcibly returned Haitians. These barriers undermine fundamental rights and compound risks, including restrictions on freedom of movement, exposure to violence and exclusion from essential services.
+Against this backdrop, the Humanitarian Reset provides an opportunity to move beyond responding to incidents and delivering assistance to address the underlying drivers of protection risks – by reducing threats, mitigating vulnerabilities and strengthening the capacities of affected populations, through prevention, community-based protection and multisectoral interventions. Such an approach is critical to strengthening community leadership and resilience, preserving social cohesion and ensuring that humanitarian interventions contribute measurably to reducing protection risks.
+The priority protection risks requiring immediate attention in the period covered by this analysis are:
+1. Attacks on members of the population and other unlawful killings, and attacks on public and private objects
+2. Unlawful impediments or restrictions to freedom of movement, and forced displacement
+3. Gender-based violence
+4. Forced recruitment and association of children in armed forces and groups
+5. Impediments and/or restrictions to access to legal identity, remedies and justice
+
+--- Report 2: WHO (2026-09-22) ---
 ACUTE HEALTH THREATS
 Following a period of relative calm since late July, hostilities began to re-intensify on 30 August in Iran, with
 additional reported impacts in military bases in Jordan and the United Arab Emirates. Additional sanctions
@@ -17,7 +32,7 @@ deteriorated, with several airstrikes reported across multiple governorates sinc
 East, attacks impacting oil infrastructure and shipping raise additional concerns on the continued effects of the
 current escalation on oil supplies and prices in addition to the potential environmental health consequences
 
---- Report 2: UNICEF (2026-09-22) ---
+--- Report 3: UNICEF (2026-09-22) ---
 Introduction
 Global progress on WASH in schools
 The World Health Organization (WHO) and the United Nations Children’s Fund (UNICEF) Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) produces internationally comparable estimates of progress on drinking water, sanitation and hygiene (WASH) and is responsible for global monitoring of the Sustainable Development Goal (SDG) targets related to WASH. The JMP releases updated estimates for WASH in households in odd years and updated estimates for WASH in schools and health care facilities in even years. This report presents updated country,1 regional and global estimates for WASH in schools up to the year 2025. It includes examples of national data on additional indicators that could potentially be used for advanced monitoring of WASH in schools post-2030. It supersedes all previous JMP progress updates on WASH in schools.
