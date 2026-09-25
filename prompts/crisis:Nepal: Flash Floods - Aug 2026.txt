@@ -1,13 +1,28 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: OCHA (2026-09-24) ---
+--- Report 1: UNICEF (2026-09-25) ---
+Highlights
+· The floods which struck Nepal on 26 August affected 84,270 people, including 32,021 children and 1,854 persons with disabilities. 64 water systems, 10,000 toilets, 7 health facilities and 23 schools were destroyed or damaged.
+· Population movements remain dynamic as affected families relocate from holding centres to temporary shelters, rented accommodation supported by the Government, and host communities.
+· Mental health and psychosocial support services have reached 9,711 people through community-based psychosocial support (5,136 people), specialized mental health services (4,147 people), and psychological first aid in schools (428 children).
+· 20 child-friendly spaces reached 887 children with structured play, recreational activities.
+· UNICEF constructed 70 temporary toilets and restored four water systems in temporary shelters, providing safe water for 2,300 people.
+· 66,950 people were vaccinated against cholera in Nuwakot and Rasuwa districts.
+· 1,702 children were screened for acute malnutrition, with 39 receiving treatment for acute malnutrition.
+· 24 children were reunified with their families, 29 placed in temporary protection centres and 238 are undergoing profiling and verification.
+· 48 temporary learning centres with WASH facilities were established for more than 1,400 children, with education supplies reaching over 2,700 children.
+· 120 households received emergency cash transfers (NPR 15,000).
+· Nearly 3.14 million people were reached through radio, SMS, digital and community channels.
+· UNICEF requires US$17.2 million to support flood-affected children and families. With US$9.7 million available, including a US$ 2.5 million loan, the response faces a US$10 million funding gap.
+
+--- Report 2: OCHA (2026-09-24) ---
 HIGHLIGHTS
 
 The floods have claimed 1,453 lives; 5,644 people remain missing and 13,795 have been rescued (NDRRMA, 23 September, 19:00)
 1,112 people remain in 21 displacement centres.
 World Food Programme recently completed a Rapid Market Functionality and Price Monitoring Assessment, which found that while many local markets have reopened, supply chains remain under strain. Traders continue to face difficulties replenishing stocks and prolonged transport disruptions could further constrain their ability to meet demand.
 
---- Report 2: WFP (2026-09-24) ---
+--- Report 3: WFP (2026-09-24) ---
 KEY HIGHLIGHTS
 • The Logistics and Telecommunications Cluster facilitated the receipt, storage and onward transport of 188.9 mt of humanitarian cargo to flood-affected areas, including 65.5 mt delivered through helicopter operations.
 • The cluster continued to expand common logistics services, increasing storage capacity and enabling partners to sustain humanitarian response operations across affected areas.
