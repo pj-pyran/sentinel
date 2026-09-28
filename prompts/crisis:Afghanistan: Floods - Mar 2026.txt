@@ -1,48 +1,24 @@
 Crisis / situation: Afghanistan: Floods - Mar 2026
 
---- Report 1: ARCS (2026-05-26) ---
-Description
-Following heavy and sustained rainfall, flash floods occurred in May 2026 across the country, affecting communities in Helmand, Herat, Uruzgan, Kunduz, Samangan, Parwan, Kapisa, Kabul, Takhar, Daikundi, Ghor, Baghlan, Sar-e-pul, Kandahar, Badakhshan, Maidan Wardak and Daikundi provinces. Low-lying areas and settlements located along riverbeds were particularly impacted. The floods resulted in loss of life, injuries, and widespread damage to shelters, livelihoods and agricultural land, reflecting the broader pattern of seasonal flooding currently affecting several parts of the country.
-According to preliminary information compiled by the Afghan Red Crescent Society (ARCS), more than 1,587 families were affected. The floods caused 37 deaths and 27 injuries, with 4 cases of missing people reported. Shelter damage was significant, with 15,87 houses completely and partially damaged, particularly in several provinces of Helmand, Kunduz, Herat, Uruzgan, Samangan, Parwan, Kapisa, Kabul, Takhar, Daikundi, Ghor, Baghlan, Sar-e-pul, Badakhshan, Kandahar, Maidan Wardak and Daikundi. In addition, the floods had a severe impact on livelihoods, resulting in the loss of 767 livestock and damage to approximately 2,754 jeribs of agricultural land, further increasing vulnerabilities among farming and pastoral households.
-ARCS, through its provincial branches and volunteers, is monitoring the evolving situation and conducting initial assessments in coordination with local authorities and Movement partners. Priority humanitarian needs identified include emergency shelter and essential household items for families whose homes were destroyed or damaged, food assistance and multipurpose cash support, as well as livelihood and agricultural recovery assistance, including livestock support. With possibility of further rainfall, affected communities remain at risk of additional flooding, underscoring the need for timely humanitarian support.
-Request For Assistance
-Government Requests International Assistance
--
-NS Requests International Assistance: Yes
-Information Bulletin Published
-No
-Actions taken by National Society
-General
-Search &amp; Rescue
-Damage/Needs assessment
-Summary
-Planned International Response
-DREF: Planned
+--- Report 1: UNICEF (2026-09-28) ---
+Highlights
 
---- Report 2: IFRC (2026-05-25) ---
-Description of the Event
-Date of event
-30-03-2026
-What happened, where and when?
-The flash flooding event began on 26 March 2026, when heavy and sustained rainfall struck multiple regions of Afghanistan, coinciding with the spring thaw and snowmelt from mountainous catchments. The DREF was triggered on 30 March 2026 based on ARCS field reports of a sharp rise in affected families, ARCS's formal request for international support, and meteorological forecasts confirming that continued rainfall and snowmelt would further compound flood risks. The initial allocation under MDRAF021 was released against 2,634 affected families (18,438 people).
-Rainfall did not stabilize after activation. Successive precipitation episodes through early and mid-April produced repeated waves of flash flooding, progressively extending the disaster's footprint. On 14 April 2026, ARCS field assessments recorded 11,067 households (approximately 77,462 people) affected, a substantial increase from the initial caseload, and on 24 April, ARCS shared the consolidated field report on the IFRC GO platform and requested the support to upscale the operation, which was considered the trigger date for the second allocation request.
-OCHA's Flash Update #3 (17–26 April 2026) reports a lower figure of 73,300 people initially identified as affected and 56,900 confirmed in need, with joint inter-agency assessments still ongoing in 34 districts. The variance between ARCS and OCHA figures reflects differences in methodology and coverage rather than contradiction: ARCS data is drawn from its 34 provincial branch network with direct community level access, including areas not yet reached by inter-agency missions, while OCHA figures are based on verified joint assessments completed at the time of reporting and exclude districts where assessments remain in progress. ARCS figures are therefore used as the operational planning basis for this second allocation, with OCHA data referenced for inter-agency corroboration of the overall trajectory.
-FEWS NET's April–September 2026 Outlook similarly confirms flash flooding countrywide, affecting nearly 74,000 people through destruction of homes, infrastructure, and agricultural land.
 
---- Report 3: ARCS (2026-05-25) ---
-Description
-Following heavy and sustained rainfall, flash floods occurred in May 2026 across the country, affecting communities in Helmand, Herat, Uruzgan, Samangan, Parwan,Kapisa,Kabul,Takhar,Diakundi,Ghor , Baghlan, Sar-e-pul,Kandahar,Badakhsan,Maidan Wardak and Daikundi provinces. Low-lying areas and settlements located along riverbeds were particularly impacted. The floods resulted in loss of life, injuries, and widespread damage to shelters, livelihoods and agricultural land, reflecting the broader pattern of seasonal flooding currently affecting several parts of the country.
-According to preliminary information compiled by the Afghan Red Crescent Society (ARCS), more than 1401 families were affected. The floods caused 28 deaths and 23 injuries, with 4 cases of missing people reported. Shelter damage was significant, with 1401 houses completely and partially damaged, particularly in several provinces of Helmand, Herat, Uruzgan, Samangan, Parwan,Kapisa,Kabul,Takhar,Diakundi,Ghor , Baghlan, Sar-e-pul,Badakhsan,Kandahar,Maidan Wardak and Daikundi. In addition, the floods had a severe impact on livelihoods, resulting in the loss of 660 livestock and damage to approximately 1,754 jeribs of agricultural land, further increasing vulnerabilities among farming and pastoral households.
-ARCS, through its provincial branches and volunteers, is monitoring the evolving situation and conducting initial assessments in coordination with local authorities and Movement partners. Priority humanitarian needs identified include emergency shelter and essential household items for families whose homes were destroyed or damaged, food assistance and multipurpose cash support, as well as livelihood and agricultural recovery assistance, including livestock support. With possibility of further rainfall, affected communities remain at risk of additional flooding, underscoring the need for timely humanitarian support.
-Request For Assistance
-Government Requests International Assistance
--
-NS Requests International Assistance
--
-Information Bulletin Published
-No
-Actions taken by National Society
-General
-Search &amp; Rescue
-Damage/Needs assessment
-Summary: -
+Afghanistan’s nutrition crisis continued to worsen, with 3.7 million children suffering from wasting, including around one million with severe acute malnutrition.
+
+
+Flash floods continued to affect communities in August, damaging homes, infrastructure, agricultural land, water systems and schools.
+
+
+UNICEF supported essential health services for 6.6 million people across all 34 provinces through 2,390 static and 16 mobile health facilities.
+
+
+UNICEF supported 149,476 people with safe drinking water and 135,164 people with basic sanitation services.
+
+
+UNICEF reached 433,568 people with lifesaving information on nutrition, immunization, disease prevention, mental well-being, hygiene and AWD prevention.
+
+--- Report 2: WHO (2026-09-27) ---
+Highlights
+All major infectious diseases showed a downward trend in August compared to July: AWD decreased by 23.6%, ARI pneumonia by 17.4%, suspected measles by 44.5%, suspected dengue by 41.0%, CCHF by 36.8% and COVID-19 by 9.2%.
+WHO-supported facilities provided 88 305 outpatient consultations, distributed 212 medical kits for 559,000 beneficiaries and trained 750 health workers across multiple specialized disciplines.

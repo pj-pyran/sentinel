@@ -1,28 +1,27 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: UNICEF (2026-09-25) ---
-Highlights
-· The floods which struck Nepal on 26 August affected 84,270 people, including 32,021 children and 1,854 persons with disabilities. 64 water systems, 10,000 toilets, 7 health facilities and 23 schools were destroyed or damaged.
-· Population movements remain dynamic as affected families relocate from holding centres to temporary shelters, rented accommodation supported by the Government, and host communities.
-· Mental health and psychosocial support services have reached 9,711 people through community-based psychosocial support (5,136 people), specialized mental health services (4,147 people), and psychological first aid in schools (428 children).
-· 20 child-friendly spaces reached 887 children with structured play, recreational activities.
-· UNICEF constructed 70 temporary toilets and restored four water systems in temporary shelters, providing safe water for 2,300 people.
-· 66,950 people were vaccinated against cholera in Nuwakot and Rasuwa districts.
-· 1,702 children were screened for acute malnutrition, with 39 receiving treatment for acute malnutrition.
-· 24 children were reunified with their families, 29 placed in temporary protection centres and 238 are undergoing profiling and verification.
-· 48 temporary learning centres with WASH facilities were established for more than 1,400 children, with education supplies reaching over 2,700 children.
-· 120 households received emergency cash transfers (NPR 15,000).
-· Nearly 3.14 million people were reached through radio, SMS, digital and community channels.
-· UNICEF requires US$17.2 million to support flood-affected children and families. With US$9.7 million available, including a US$ 2.5 million loan, the response faces a US$10 million funding gap.
+--- Report 1: World Vision (2026-09-28) ---
+Devastating flash floods triggered by a glacier-related ice-rock avalanche on 26 August have left communities across Rasuwa, Nuwakot, Gorkha and Dhading facing immense loss and destruction. At least 1,415 people have lost their lives, while 5,786 remain missing or unaccounted for. The disaster has affected around 20,000 households, with 84,000 people, including 22,000 children, now in need of humanitarian assistance.
+Homes, markets, roads, bridges and other critical infrastructure have been damaged or destroyed, disrupting access to essential services and livelihoods. Around 20,000 households require food assistance, while 65,000 people need emergency water, sanitation and hygiene assistance. Some 22,000 children urgently need safe drinking water, sanitation and hygiene support. Families also need safe shelter, livelihood support and psychosocial care as they begin their journey towards recovery.
+World Vision’s response
+World Vision International Nepal, together with local partners KIRDARC Nepal and Good Neighbors Nepal (GNN), is supporting children and families affected by the floods. As of 23 September, the response has reached 8,684 people, including 3,521 children and 258 people with disabilities.
+The response so far includes:
 
---- Report 2: OCHA (2026-09-24) ---
-HIGHLIGHTS
+3,750 people supported with emergency food packages
+2,325 people, including 930 children, provided with hygiene kits
+455 people, including 182 children, supported with shelter kits
+860 people supported with bedding sets
+559 women and girls supported with dignity kits
+116 children supported through two Child Friendly Spaces
+Water purification supplies, water tanks and other support provided to improve access to safe drinking water
+Equipment provided to four local institutions to help restart essential services
 
-The floods have claimed 1,453 lives; 5,644 people remain missing and 13,795 have been rescued (NDRRMA, 23 September, 19:00)
-1,112 people remain in 21 displacement centres.
-World Food Programme recently completed a Rapid Market Functionality and Price Monitoring Assessment, which found that while many local markets have reopened, supply chains remain under strain. Traders continue to face difficulties replenishing stocks and prolonged transport disruptions could further constrain their ability to meet demand.
-
---- Report 3: WFP (2026-09-24) ---
-KEY HIGHLIGHTS
-• The Logistics and Telecommunications Cluster facilitated the receipt, storage and onward transport of 188.9 mt of humanitarian cargo to flood-affected areas, including 65.5 mt delivered through helicopter operations.
-• The cluster continued to expand common logistics services, increasing storage capacity and enabling partners to sustain humanitarian response operations across affected areas.
+--- Report 2: IFRC (2026-09-28) ---
+As of 18 September 2026, CHF 5.682 million in confirmed multilateral hard pledges recorded against the CHF 18 million IFRC Secretariat Emergency Appeal (approximately 32 per cent). Continued funding is required to sustain the response and scale up early recovery interventions.
+A. SITUATION ANALYSIS
+Description of the crisis
+On 26 August, a major avalanche occurred in the upper Bhote Koshi watershed near the China–Nepal border triggered a highly destructive debris flow and flash flood along the Bhote Koshi–Trishuli river corridor. The event caused extensive damage across Rasuwa, Nuwakot and Dhading, affecting settlements, roads, bridges, schools, health facilities, water systems, telecommunications, markets and hydropower infrastructure. About 41 bridges along the Bhote Koshi–Trishuli river system was damaged, significantly constraining access to affected communities and disrupting essential services and livelihoods. The flood devastated infrastructure eroding the main road to Rasuwa district, rendering many communities inaccessible for territorial access.
+According to the updated data from the National Disaster Risk Reduction and Management Authority (NDRRMA)1 dated 21 September 2026, 1,411 people have lost their lives, 5,875 remain missing, and 13,784 have been rescued. To date, authorities have identified and handed over bodies to their families. NDRRMA cautioned that the number of people reported missing was still being verified and could include unidentified deceased persons or individuals who had subsequently been rescued. Search and recovery operations remained ongoing, particularly around affected hydropower facilities and along the river corridor.
+Displacement remains a major humanitarian concern. As of 14 September, 2,418 people were staying in 33 government holding centres, including 1,499 people in Nuwakot, 825 in Rasuwa, and 94 in Dhading. The movement of people from holding centres to alternative places like host families or their own abandoned homes continues. As of 21 September, 1,342 people are taking shelter in holding centers across Rasuwa, Nuwakot, and Dhading districts2. Assessments of potential sites for temporary shelter were completed in several locations, while food, household items, and other relief supplies continued to be transported by road and helicopter to affected and difficult-to-reach areas. The Government has also initiated arrangements for temporary accommodation, including cash support for households opting for self-arranged accommodation.
+The response is progressively shifting from immediate search, rescue and lifesaving relief towards restoration of essential services, temporary and transitional shelter, and early recovery. Significant needs remain in shelter, safe water and sanitation, health and MHPSS, protection, cash assistance and livelihood recovery, while damaged transport and communication infrastructure continues to affect humanitarian access and information flows. The situation also remains dynamic due to continued exposure to flooding, landslides and unstable terrain, requiring ongoing assessment, monitoring and adjustment of the response as access improves and more detailed information becomes available.
+International assistance is supporting Nepal’s response through specialized search-and-rescue, forensic identification, health and humanitarian assistance. Teams from India, China, the Republic of Korea, United Arab Emirates, Malaysia, and Australia are supporting rescue operations, while forensic teams from India, China, Japan, Singapore and the Republic of Korea are assisting with DNA collection and identification of deceased persons. Nepal continues to request additional specialized equipment, including drones, LiDAR systems, Bailey bridges, DNA testing kits, underwater drones, pumps and tunnel-rescue equipment.
