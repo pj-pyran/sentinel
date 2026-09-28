@@ -1,23 +1,62 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: Health Cluster (2026-09-01) ---
-SITUATION OVERVIEW
-• Hospital reconstruction accelerating: Syria signed an agreement with InterHealth Canada to rehabilitate and modernize 14 major public hospitals nationwide. The program covers buildings, medical equipment and hospital operating systems and is planned over approximately two years.
-• Eastern Syria receiving new investment: More than $10 million was allocated to health services in Raqqa, including rehabilitation of Raqqa National Hospital. In Deir-ez-Zoir a new cardiac catheterization, prosthetics, emergency, pediatric and neonatal services opened, while construction of a specialized oncology hospital was launched.
-• Additional facilities reopened or expanded across several governorates. Five health facilities opened in rural Idlib, including two dialysis centers; Homs opened a pediatric cardiology unit and upgraded dialysis services; Tadmor National Hospital received a $1 million grant and opened dialysis capacity; Douma National Hospital also reopened following rehabilitation supported by Japan and WHO.
-• Measles, polio, Hepatitis A and other communicable diseases (AWD, cutaneous leishmaniasis, scabies, etc.) remain active public-health concerns, especially where vaccination, safe water and routine health services are suboptimal.
-• Nutrition has become a stronger national priority. The MoH and UNICEF are moving nutrition programming from fragmented humanitarian projects toward a nationally led system. The Ministry says nutrition services operate through 929 primary health centers, and a new national nutrition survey and updated strategy are being prepared. UNICEF's August assessment estimates 587,000 children need treatment for wasting, including around 96,000 with severe wasting. New international funding targets child health and malnutrition. On 24 August, South Korea and the UN launched a $18.95 million humanitarian/early-recovery package. UNICEF's $7.95 million component will support health, nutrition and education for at least 400,000 vulnerable children and women, while WFP plans treatment for moderate acute malnutrition for 28,000 children under five and pregnant or breastfeeding women and girls.
-• MoH is expanding specialist campaigns and diaspora participation. Syrian expatriate physicians have now reportedly carried out around 2,000 operations through more than 20 specialist medical campaigns, alongside local staff training. The MoH Telegram channel also announced “Recovery Bridges – SAMS 15” for September with SAMS and Global Medical Foundation Australia, covering multiple medical and surgical specialties across eastern, central, Damascus-area and Aleppo facilities.
-• Syrian diaspora doctors expanding specialist care: Syrian authorities reported that expatriate medical teams have conducted roughly 2,000 surgeries through more than 20 specialized campaigns, while also training local health workers and introducing newer medical technologies.
-• World Bank $75 million health project moves into implementation - the official World Bank procurement plan on 10 August.
-• Health financing reform is moving forward. Authorities want a redesigned public-sector health insurance system completed before the end of 2026, including a larger provider network, digital administration and stronger oversight. This is important because out-of-pocket spending remains one of the main barriers to care.
-• The Health Minister met Norwegian Foreign Minister on 24 August (health-sector priorities, potential new projects, health investment and expanding successful experience with digital automation).
-• The Health Minister met Germany's chargé d'affaires in Damascus to discuss cooperation, coordination and future health-sector partnership.
-• The Health Minister met Norwegian Foreign Minister to discuss health-sector priorities, possible new projects, investment and the expansion of digital health-service automation.
-• The World Humanitarian Day, the Global Health Cluster, joins all humanitarians in honouring health workers who continue to provide life-saving care in the most dangerous conditions and the families who live with these risks and losses alongside them. The statement reflects on what is lost when health workers are attacked: lives, expertise, trust, relationships and vital care that communities depend on. It also calls for stronger protection of health workers and health care, respect for International Humanitarian Law, and accountability when those protections are violated. The full statement: https://healthcluster.who.int/newsroom/news/item/19-08-2026someone-is-waiting-for-them-to-come-home.
+--- Report 1: Protection Cluster (2026-09-28) ---
+Syria Protection Sector Mid-Year Report
+January - June 2026
 
---- Report 2: UNHCR (2026-08-31) ---
-Syria has entered a new phase marked by large-scale returns and persistent humanitarian vulnerability.
-While around 1.7 million refugees and 1.9 million internally displaced persons (IDPs) have returned since December 2024, 15.6 million people still require humanitarian assistance.
-As return movements continue, ensuring sustainable reintegration through access to housing, services, documentation, livelihoods and community support is central for Syria’s recovery.
-In line with Syria’s National Recovery Priorities and the Government’s “No Tents, No Camps” vision, UNHCR supports this transition while maintaining protection and humanitarian assistance for vulnerable populations.
+Humanitarian Reset initiated: The Sector initiated implementation of the consolidation of the Sector, beginning with a streamlined chapter in the 2026 HNRP. The Sector also began mapping and reviewing existing working groups, coordination mechanisms, tools and information products as part of the humanitarian reset. The process aims to streamline and consolidate the coordination architecture, reduce duplication, improve efficiency, and strengthen the leadership and participation of national and local NGOs. Additionally, and as part of the humanitarian coordination reset, the Protection Sector launched calls for expressions of interest from national NGOs to support sub-national co-coordination and participate in the consolidated Strategic Advisory Group. These calls initiated the process of strengthening national NGO leadership and ensuring more inclusive representation within the revised coordination structure.
+Strengthened engagement and coordination with MoSAL: In February 2026, the Protection Sector consulted with MoSAL on the 2026 Humanitarian Needs and Response Plan, presenting its proposed response strategy, priorities, activity portfolio and financial requirements. The discussion covered 2025 achievements and operational challenges and the planned focus for 2026, including specialized protection services, safe and dignified returns, community-based protection, protection monitoring, national capacity strengthening and protection risk mitigation across sectors.
+Mine Action formally recognized within the NGO registration framework: MoSAL introduced Mine Action as a distinct activity category within the NGO registration framework, providing greater administrative clarity and recognition for organizations implementing mine-action activities in Syria.
+Country-wide protection response maintained: Between January and June 2026, Protection Sector partners reported reaching approximately 1.4 million people across 253 sub-districts in all 14 governorates, demonstrating sustained country-wide coverage despite a challenging and evolving operational environment.
+Harmonized 5Ws reporting strengthened: The Sector completed the development of the unified country-wide consolidated response framework and dashboard by end of Q1. An online orientation on harmonized 5Ws reporting was delivered to partners on 15 April 2026, supporting more consistent data collection, reporting and analysis across the unified response.
+Inter-Agency Referral mechanisms strengthened: On 19–20 May 2026, the Sector conducted a Training of Trainers on the Inter-Agency Referral SOPs, preparing partners to pilot the referral mechanism at sub-national level and promoting safer information sharing, more consistent referral practices and stronger linkages between protection services.
+Engagement with the Transitional Justice Commission: Initial engagement with the Transitional Justice Commission progressed to explore opportunities for coordination and information-sharing, as well as potential linkages between transitional justice processes, protection actors and relevant services.
+Donor engagement informed through partner consultation: In June, the Sector convened an ECHO consultation with approximately 25 protection partners to discuss access to people facing heightened protection risks, geographic and thematic prioritization, returns, the no-camp approach and social cohesion. The consultation helped consolidate operational perspectives and inform key protection messages for subsequent donor engagement.
+
+--- Report 2: UNRWA (2026-09-27) ---
+Executive Summary – Mid-Year 2026 Protection Case Trends, UNRWA Syria
+During the first half of 2026, UNRWA recorded 587 protection cases affecting Palestine refugees across Syria. Reported cases increased from 266 in Q1 to 321 in Q2, reflecting strengthened case identification and referral pathways, expanded implementation of the Protection Case Referral SOP, and continued engagement of frontline personnel across programmes. As with previous reporting periods, reported case numbers should be interpreted in the context of reporting capacity, programme access and referral mechanisms, and not as a direct measure of the prevalence of protection risks.
+Key Protection Trends
+
+Gender-Based Violence (GBV) accounted for the largest share of reported cases (381 cases; 65%), with psychological and emotional abuse remaining the most frequently reported GBV concern (149 cases).
+General Protection (GP) represented 164 cases (28%), with psychological/emotional abuse and neglect continuing to dominate reporting. Increases were also observed in barriers to services, civil documentation concerns and physical violence, reflecting evolving protection risks affecting vulnerable households and returnees.
+Child Protection (CP) accounted for 42 cases (7%) of reported cases. Child abuse and neglect remained the principal concern, while reduced reporting during Q2 may partly reflect fewer identification opportunities during school closures and holiday periods rather than reduced protection risks.
+
+Geographical Concentration of Needs
+Protection concerns remained concentrated in a limited number of locations:
+
+Rural Damascus accounted for 289 cases (49.2%), representing nearly half of all reported protection cases.
+The North Area recorded 92 cases (15.7%), followed by the Central Area with 87 cases (14.8%) and the South Area with 74 cases (12.6%).
+Increasing return movements are generating additional protection concerns related to housing, civil documentation, access to services and psychosocial wellbeing, particularly in areas of return.
+
+Emerging and High-Risk Protection Patterns
+
+Psychological and emotional abuse remained the most prominent protection concern across both GBV and GP categories, highlighting persistent psychosocial distress among Palestine refugees.
+Civil documentation and barriers to services increased during the reporting period, raising concerns regarding access to rights, assistance and reintegration support.
+Complex cases requiring coordinated responses across multiple programmes continue to highlight the importance of integrated protection interventions and strengthened referral mechanisms. During H1 2026, 119 cases required multi-service referrals within UNRWA.
+
+Programme Contributions and Service Response
+
+The Health Programme remained the primary entry point for case identification (81% of reported cases), reflecting the critical role of health and MHPSS personnel in detecting and responding to protection concerns.
+UNRWA continued to provide a range of protection-related services, with health and hospitalization services (40%) and PSS/MHPSS support (34%) accounting for the largest share of responses.
+
+Why Support Remains Critical
+Protection risks affecting Palestine refugees in Syria remain acute and increasingly complex. Sustained support is needed to:
+
+Strengthen PSS/MHPSS and GBV prevention and response services, given the continued predominance of psychological and emotional harm.
+Support integrated responses for complex and high-risk cases, including survivors of GBV, children at risk and vulnerable returnee households.
+Expand legal assistance and civil documentation support to address growing administrative and access-related barriers.
+Strengthen community-based protection mechanisms and referral systems to improve early identification and response.
+Maintain emergency protection assistance and multi-programme service delivery for individuals and families facing heightened protection vulnerabilities.
+
+Overall, H1 2026 demonstrates both the continued protection needs facing Palestine refugees in Syria and the importance of sustained investment in integrated protection systems, referral pathways and frontline services to ensure timely identification, referral and response to those most at risk.
+
+--- Report 3: OCHA (2026-09-27) ---
+HIGHLIGHTS
+
+Camp departures accelerated during July and August, with 38,836 IDPs leaving displacement sites, including 19,600 people supported through facilitated return mechanisms. During the same period, 130 IDP sites were inactivated.
+More than 60,000 IDPs have been supported to return from displacement sites since January 2026, reflecting continued progress under Syria’s No Camps Vision while increasing pressure on services and infrastructure in communities of return.
+Humanitarian needs are increasingly shifting from camps to communities of return, where inadequate housing, damaged infrastructure, limited services and constrained livelihoods continue to undermine sustainable reintegration and increase the risk of secondary displacement.
+Infrastructure and service restoration are helping create conditions for return and recovery across Syria, including through rehabilitation of bakeries, water and electricity networks, hospitals, schools, roads, bridges and housing in return-affected communities.
+Humanitarian partners reached an average of 2.53 million people per month between January and July 2026, with 314 organizations delivering assistance across 4,765 communities. More than US$123 million was provided through cash and voucher assistance.
+Ar-Raqqa continues to show some of the strongest signs of recovery in north-east Syria, with improvements in water, electricity and protection conditions; however, economic vulnerability remains a major obstacle to sustainable recovery and durable solutions.
