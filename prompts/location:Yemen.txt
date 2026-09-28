@@ -1,33 +1,39 @@
 Crisis / situation: Yemen
 
---- Report 1: IOM (2026-09-24) ---
-IOM Yemen DTM continues to record the displacement caused by escalation in the west coast. On 22 September 2026, IOM Yemen DTM recorded the increase of 2,220 individual IDPs compared to the previous report, making the displacement between 1 August to 22 September reach an approximate of 133,494 individuals (approximately 22,249 households).
-This brings the cumulative number recorded to 134,550 individuals (22,425 households) since the escalation began in June 2026. The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 75,180 individuals (56%), followed by Lahj Governorate, with 34,446 individuals (26%) and Aden Governorate, with 10,920 individuals (8%). Additional displacement was recorded in Al Hodeidah, with 8,244 individuals (6%); Abyan, with 3,888 individuals (3%); Hadramawt, with 1,254 individuals (less than 1%); and Ma’rib, with 618 individuals (less than 1%).
+--- Report 1: IOM (2026-09-28) ---
+IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
+From 1 January to 26 September 2026, IOM Yemen DTM tracked 26,240 households (HH) (157,440 Individuals) who experienced displacement at least once.
+Between 20 and 26 September 2026, IOM Yemen DTM tracked 1,927 households (11,562 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
 
---- Report 2: WFP (2026-09-23) ---
-HIGHLIGHTS
+Taiz-(1450 HHs) – Al Maafer (630 HHs), Al Misrakh (250 HHs), Ash Shamayatayn (222 HHs) districts. Most displacements in the governorate were internal.
+Lahj-(176 HHs) – Tuban (162 HHs), Al Maqatirah (5 HHs), Al Madaribah Wa Al Aarah (4 HHs) districts. Most displacements in the governorate originated from Taiz and Al Hodeidah.
+Aden-(120 HHs) – Al Burayqah (81 HHs), At Tawahi (12 HHs), Dar Sad (10 HHs) districts. Most displacements in the governorate originated from Taiz.
 
-The food security situation continues to deteriorate in GoY controlled areas, with 37 percent of the population facing severe food deprivation in August. Escalating hostilities are likely to deepen food insecurity in affected areas, eroding household access to food.
-Amid heightened insecurity, WFP has activated its emergency response reaching more than 76,000 displaced people, through the Rapid Response Mechanism and cooperating partners.
-WFP completed dispatches of the fifth targeted emergency food assistance (TEFA) cycle in GoY controlled areas in mid-September, targeting 1.7 million people.
+The majority of people moved from the following governorates and districts:
 
-IN NUMBERS
-1.3 m people assisted in August 2026
-9,149 mtfood distributed
-US$ 6 mcash transferred
-US$ 158.5 m6-month net funding requirements (October 2026 – March 2027)
+Taiz- (1754 HHs) – Jabal Habashi (440 HHs), Al Maafer (315 HHs), Al Waziyah (257 HHs) districts.
+Al Hodeidah- (121 HHs) – Al Khukhah (80 HHs), Hays (37 HHs), Bayt Al Faqih (2 HHs) districts.
+Marib (15 HHs) – Harib (9 HHs), Raghwan (4 HHs), Al Jubah (2 HHs) districts.
 
---- Report 3: OCHA (2026-09-23) ---
-KEY HIGHLIGHTS
+IOM identified 901 additional households displaced in earlier reporting periods in the following governorates of Aden (674 HHs), Taiz (119 HHs), Hadramawt (59 HHs), Al Maharah (24 HHs), Marib (13 HHs), Ad Dali (6 HHs), and Lahj (6 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
 
-A total of 128,382 people (21,397 households) were displaced between 1 August and 20 September 2026. The Displacement Tracking Matrix (DTM) figures, which also serve as the alert baseline for the Rapid Response Mechanism (RRM), show that 98 per cent of this displacement was recorded from 31 August onwards, following the intensification of hostilities on 3 September. Ta’iz governorate hosts 57 per cent of the displaced, followed by Lahj (26%), Aden (7%) and Al Hodeidah (6%) governorates. The increase compared with earlier updates reflects both continued new arrivals and the consolidation and verification of earlier reports.
-New arrivals continue. DTM recorded 31,482 newly displaced people in the week of 14–20 September. Around 68 per cent of displaced people remain within their own governorate, while 32 per cent (40,692 people) have crossed into another governorate, mainly from Ta’iz and Al Hodeidah into Lahj and Aden.
-Civilian casualties continue to be verified across affected governorates. Between 1 August and 22 September, OHCHR verified 128 civilian casualties across 37 incidents, including 32 civilians killed and 96 injured; of these, 73 were verified in September alone. Women and children account for more than half of the verified casualties. In Marib, hits on Asdas settlement (Raghwan) and Al-Hamma hosting site destroyed or damaged at least 19 shelters, causing temporary secondary displacement.
-A total of 90,600 IDPs (12,956 households) have been assisted. The implemented response, covering ompleted and under way assistance, is highest for WASH and RRM and lower for cash and shelter, while food security partners assisted 6,882 households. RRM stocks are critically low. Access constraints continue to impede the response. Humanitarian movements into several west coast locations have been suspended since 10 September, leaving 533 RRM kits inaccessible. Telecommunications outages in Ta’iz are delaying verification, assistance delivery and cash distributions. DTM has had no access to Al Hodeidah since 9 September, therefore, displacement in this area is likely under-reported.
-Food assistance faces critical pipeline pressures. WFP has pre-positioned emergency food assistance for 20,000 households in Ta’iz, Aden and Lahj using stocks diverted from the regular pipeline, which must be replenished urgently to avoid gaps for existing IPC Phase 4 caseloads.
-
-This update consolidates information from IOM DTM, the RRM, clusters and partners. All figures are provisional and subject to verification, reconciliation and deduplication. Individual figures from DTM are estimated at six persons per household. Because the same households may receive assistance from more than one sector, figures cannot be added across sectors or sources.
-
---- Report 4: IOM (2026-09-23) ---
-IOM Yemen DTM continues to record the displacement caused by escalation in the west coast. On 21 September 2026, IOM Yemen DTM recorded the increase of 2,892 individual IDPs compared to the previous report, making the displacement between 1 August to 20 September reach an approximate of 131,274 individuals (approximately 21,879 households).
-This brings the cumulative number recorded to 132,330 individuals (22,055 households) since the escalation began in June 2026. The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 74,790 individuals (57%), followed by Lahj Governorate, with 34,428 individuals (26%) and Aden Governorate, with 9,942 individuals (8%). Additional displacement was recorded in Al Hodeidah, with 8,244 individuals (6%); Abyan, with 3,324 individuals (3%); Hadramawt, with 1,008 individuals (less than 1%); and Ma’rib, with 594 individuals (less than 1%).
+--- Report 2: IFRC (2026-09-28) ---
+Yemen is experiencing a renewed escalation of conflict, with a significant deterioration in humanitarian
+conditions since early September 2026. Intensified hostilities have resulted in civilian casualties, large-scale
+internal displacement and increased pressure on essential services and communities hosting displaced
+families. The most significant displacement has been recorded in Ta’iz and Lahj, with additional
+displacement reported in Aden, Al Hodeidah, Abyan, Hadramawt and Ma’rib, with many families
+experiencing secondary or repeated displacement, further increasing protection risks and reducing
+household coping capacity.
+As of 23 September 2026, IOM Yemen’s Displacement Tracking Matrix (DTM) had recorded 134,550 internally
+displaced people, representing 22,425 households, cumulatively since the escalation began in June 2026.
+The largest concentration was reported in Ta’iz Governorate, hosting 75,180 people (56%), followed by Lahj
+with 34,446 (26%) and Aden with 10,920 (8%). Additional displacement was recorded in Al Hodeidah (8,244),
+Abyan (3,888), Hadramawt (1,254) and Ma’rib (618). IOM notes that its monitoring has partial geographic
+coverage and therefore represents recorded displacement rather than a comprehensive estimate of all
+displacement associated with the escalation.
+The escalation is compounding long-standing humanitarian vulnerabilities in Yemen, including high levels
+of food insecurity, weakened basic services, protracted displacement and constrained household coping
+capacity. The Yemen Red Crescent Society (YRCS) has activated its Emergency Operations Centre and is
+responding through its branches, volunteers and emergency medical services, supporting first aid, casualty
+transport and referrals, rapid assessments and relief assistance in affected areas.

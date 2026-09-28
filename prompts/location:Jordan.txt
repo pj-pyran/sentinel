@@ -1,28 +1,35 @@
 Crisis / situation: Jordan
 
---- Report 1: WFP (2026-06-24) ---
-IN NUMBERS
-610,000 people assisted in May 2026 (50% female) - estimate
-USD 1.3M cash transferred in May 2026
-USD 22M required in the next six months (June – November 2026)
-197,000 Syrian refugees returned from Jordan to Syria (December 2024 – June 2026)
-KEY HIGHLIGHTS
+--- Report 1: UNHCR (2026-09-28) ---
+Introduction
+The Health Information System (HIS) has been actively implemented in Azraq camp since April
+2014. This comprehensive report covers the first quarter of 2026, spanning from 27 December
+2025 to 26 June 2026 (Weeks 1 to 26).
+Data is compiled on a weekly basis from all operational health facilities within the camp,
+ensuring full surveillance coverage.
+Reporting entities include:
+• International Medical Corps (IMC): IMC Hospital, IMC Comprehensive Health Facility,
+and IMC Clinic in Village 5.
+• Arab Medical Relief (AMR): Comprehensive AMR Health Facility in Village 3, AMR Clinic
+in Village 5, and AMR Clinic in Village 2.
+• Institute for Family Health (IFH): Reproductive health services provided in Village 5 and
+the Comprehensive Health Facility.
+The baseline population figure utilized for calculating all health indicators in this report is the
+median average for the reporting period: 33,639 individuals.
 
-WFP provided food assistance to 83,000 refugees in camps only, at a reduced transfer value barely covering their food needs.
-The National School Feeding Programme was concluded in May, with the beginning of summer break. Overall, 520,000 vulnerable students received fortified date bars and healthy meals in communities and camps.
-WFP launched the second training cohort in Zaatari and Azraq camps, engaging 123 participants across eight vocational tracks, building skills for their futures.
-
---- Report 2: UNHCR (2026-06-24) ---
-No summary available.
-
---- Report 3: UNHCR (2026-06-24) ---
-The Health Information System (HIS) has been actively implemented in Za'atari camp since the end of 2012.
-This comprehensive report covers the reporting period from 27 December 2025 to 27 March 2026 (Weeks 1 to 13). Data is compiled on a weekly basis from all operational health facilities within the camp, guaranteeing complete health surveillance and monitoring.
-The reporting framework includes a total of seven clinics, one emergency room, and one maternity emergency center:
-• IMC Emergency Room.
-• IRC Clinic.
-• SAMS Clinic.
-• JHASi Maternity Emergency Center.
-• AMR Qatari Clinic.
-• Health Appeal Saudi Clinic • Qatari Clinic.
-The baseline population figure used for calculating all health indicators and metrics throughout this reporting period is the median average of 50,506 individuals.
+--- Report 2: UNHCR (2026-09-28) ---
+I. Introduction
+The Health Information System (HIS) has been actively implemented in Azraq camp since April 2014.
+This comprehensive report covers the first quarter of 2026, spanning from 28 March 2025 to 26 June
+2026 (Weeks 14 to 26).
+Data is compiled on a weekly basis from all operational health facilities within the camp, ensuring full
+surveillance coverage.
+Reporting entities include:
+• International Medical Corps (IMC): IMC Hospital, IMC Comprehensive Health Facility, and
+IMC Clinic in Village 5.
+• Arab Medical Relief (AMR): Comprehensive AMR Health Facility in Village 3, AMR Clinic in
+Village 5, and AMR Clinic in Village 2.
+• Institute for Family Health (IFH): Reproductive health services provided in Village 5 and the
+Comprehensive Health Facility.
+The baseline population figure utilized for calculating all health indicators in this report is the median
+average for the reporting period: 33,323 individuals.
