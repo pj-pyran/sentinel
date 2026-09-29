@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4231835",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Syria Operational update, August 2026",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Syrian Arab Republic",
+    "scope": "single",
+    "date": "2026-09-29",
+    "content": "<p>August 2026</p>\n<p>Syria has entered a phase marked by large-scale refugee and IDP returns alongside persistent humanitarian vulnerability and reintegration needs. While around 1.8 million refugees and over 2 million internally displaced persons (IDPs) have returned since December 2024, 15.6 million people still require humanitarian assistance. As return movements continue, ensuring sustainable reintegration through access to documentation, housing, essential services, livelihoods and community support is critical to helping returnees rebuild their lives and is central to Syria’s recovery. In line with Syria’s National Recovery Priorities and the Government’s “No Tents, No Camps” vision, UNHCR supports this transition while maintaining protection and humanitarian assistance for vulnerable populations.</p>\n",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syria-operational-update-august-2026",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "rw_id": "4231835",
+    "file_url": "https://reliefweb.int/attachments/c2089c25-e359-51a2-a8ed-26fdff9eb260/Syria-Operational-update-August%202026.pdf"
+  },
+  {
     "id": "rw-4231764",
     "provider": "reliefweb",
     "type": "original",

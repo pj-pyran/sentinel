@@ -1,6 +1,10 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: Protection Cluster (2026-09-28) ---
+--- Report 1: UNHCR (2026-09-29) ---
+August 2026
+Syria has entered a phase marked by large-scale refugee and IDP returns alongside persistent humanitarian vulnerability and reintegration needs. While around 1.8 million refugees and over 2 million internally displaced persons (IDPs) have returned since December 2024, 15.6 million people still require humanitarian assistance. As return movements continue, ensuring sustainable reintegration through access to documentation, housing, essential services, livelihoods and community support is critical to helping returnees rebuild their lives and is central to Syria’s recovery. In line with Syria’s National Recovery Priorities and the Government’s “No Tents, No Camps” vision, UNHCR supports this transition while maintaining protection and humanitarian assistance for vulnerable populations.
+
+--- Report 2: Protection Cluster (2026-09-28) ---
 Syria Protection Sector Mid-Year Report
 January - June 2026
 
@@ -13,7 +17,7 @@ Inter-Agency Referral mechanisms strengthened: On 19–20 May 2026, the Sector c
 Engagement with the Transitional Justice Commission: Initial engagement with the Transitional Justice Commission progressed to explore opportunities for coordination and information-sharing, as well as potential linkages between transitional justice processes, protection actors and relevant services.
 Donor engagement informed through partner consultation: In June, the Sector convened an ECHO consultation with approximately 25 protection partners to discuss access to people facing heightened protection risks, geographic and thematic prioritization, returns, the no-camp approach and social cohesion. The consultation helped consolidate operational perspectives and inform key protection messages for subsequent donor engagement.
 
---- Report 2: UNRWA (2026-09-27) ---
+--- Report 3: UNRWA (2026-09-27) ---
 Executive Summary – Mid-Year 2026 Protection Case Trends, UNRWA Syria
 During the first half of 2026, UNRWA recorded 587 protection cases affecting Palestine refugees across Syria. Reported cases increased from 266 in Q1 to 321 in Q2, reflecting strengthened case identification and referral pathways, expanded implementation of the Protection Case Referral SOP, and continued engagement of frontline personnel across programmes. As with previous reporting periods, reported case numbers should be interpreted in the context of reporting capacity, programme access and referral mechanisms, and not as a direct measure of the prevalence of protection risks.
 Key Protection Trends
@@ -51,7 +55,7 @@ Maintain emergency protection assistance and multi-programme service delivery fo
 
 Overall, H1 2026 demonstrates both the continued protection needs facing Palestine refugees in Syria and the importance of sustained investment in integrated protection systems, referral pathways and frontline services to ensure timely identification, referral and response to those most at risk.
 
---- Report 3: OCHA (2026-09-27) ---
+--- Report 4: OCHA (2026-09-27) ---
 HIGHLIGHTS
 
 Camp departures accelerated during July and August, with 38,836 IDPs leaving displacement sites, including 19,600 people supported through facilitated return mechanisms. During the same period, 130 IDP sites were inactivated.
