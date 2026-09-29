@@ -1,22 +1,15 @@
 Crisis / situation: Iraq
 
---- Report 1: WFP (2026-09-03) ---
+--- Report 1: UNHCR (2026-09-29) ---
+CONTEXT
+As of the end of August 2026, Iraq generously hosts over 343,000 refugees and asylum-seekers, the majority (88%) of whom are Syrians. Close to 80% of this population resides in the Kurdistan Region of Iraq. While most refugees and asylumseekers live in urban and peri-urban settings, 30% remain in nine refugee camps across the country. Additionally, around 97,000 Internally Displaced People (IDPs) live in 18 IDP camps.1 UNHCR works with the Government of Iraq and partners to support refugee and asylumseeker access to protection and inclusion in public services, such as education and healthcare, as well as access to economic opportunities and in advancing solutions.
+
+--- Report 2: WFP (2026-09-28) ---
 IN NUMBERS
-12,662 people assisted in June 2026 (59% female)
-11,967 people assisted in July 2026 (59% female)
-USD 946,964 cash transferred between June 2026 – July 2026
-USD 6.1 M required in the next six months (August 2026 – January 2027)
+10,808 people assisted in August 2026 (73% female)
+USD 377,069cash transferred between August 2026
+USD 6.5 M required in the next six months (September – February 2027)
 KEY HIGHLIGHTS
 
-WFP Iraq, in partnership with the Ministry of Education, launched the &quot;Healthy Kitchen&quot; pilot to enhance the National School Feeding Programme. Financed by the Ministry and supported by WFP technical assistance, centrally managed kitchens will distribute nutritious, locally sourced meals to school clusters. supporting local agriculture and vulnerable livelihoods and generating evidence for a sustainable, government-led scale-up of school feeding in Iraq.
-Humanitarian funding shortfalls are impacting WFP’s ability to maintain assistance. Continued donor engagement is critical to safeguard support for displaced populations and sustain resilience‑building initiatives.
-
---- Report 2: IFRC (2026-09-02) ---
-Event development
-Events impact
-The escalation of regional hostilities during February 2026 had significant humanitarian repercussions across Iraq. A series of airstrikes, missile incidents, and drone attacks occurred within Iraqi territory, including strikes in Jurf Al-Sakhar south of Baghdad and repeated attacks targeting strategic locations in the Kurdistan Region. These incidents heightened insecurity among civilians and increased concerns over the potential expansion of hostilities into populated areas.
-The impact on communities extended beyond the immediate effects of the attacks. Fear of further escalation, coupled with uncertainty regarding the security situation, prompted precautionary movements among families residing near locations perceived to be at risk.
-Households in Baghdad, Erbil, Sulaymaniyah, Diyala, Wasit, Maysan, and Basra reported concerns over personal safety, disruptions to transportation routes, and potential interruptions to essential services. Many families temporarily relocated to stay with relatives or within host communities, while others restricted their movements and adopted precautionary measures to reduce exposure to potential risks.
-According to the International Organization for Migration (IOM), at least 90 households had been identified as displaced in relation to the crisis by the end of March 2026. In addition, increased cross-border mobility was observed as the conflict affected movement patterns throughout the region. By the end of March, IOM recorded 843 arrivals from Iran, 551 departures to Iran by Iraqi citizens, and 181 returnees from Iran.
-The humanitarian consequences extended beyond displacement. Airspace restrictions, security measures, and concerns over the safety of critical infrastructure disrupted livelihoods, access to services, and freedom of movement. Vulnerable groups, including women, children, older persons, persons with disabilities, and those already displaced by previous crises, faced heightened protection concerns and increased barriers to accessing essential services. The escalation also placed additional pressure on host communities and local service providers, particularly in areas already supporting internally displaced persons, returnees, and refugee populations.
-While the scale of displacement remained localized compared to previous crises in Iraq, the events demonstrated the vulnerability of communities to regional instability and underscored the importance of preparedness, protection, and humanitarian assistance for populations affected by sudden security shocks.
+WFP is scaling climate-smart agriculture and water resilience across southern Iraq, supporting 120 smallholder farmers with drip irrigation and pastureland rehabilitation in Najaf and Anbar, and advancing an 80-farmer aquaponics initiative with the Basra Gas Company, demonstrating tangible progress in helping drought-affected communities adapt their livelihoods.
+Green-skills and livelihood diversification programmes are reaching growing numbers of rural women, with 1,500 women engaged in green-skills training across Basra and Thi-Qar, complemented by mangrove restoration, wetland rehabilitation and market showcases such as the Baghdad Agricultural Week Fair, reflecting sustainability of WFP-supported livelihoods.
