@@ -1,9 +1,15 @@
 Crisis / situation: Sudan
 
---- Report 1: Protection Cluster (2026-09-30) ---
+--- Report 1: SI (2026-09-30) ---
+This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
+
+--- Report 2: SI (2026-09-30) ---
+This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
+
+--- Report 3: Protection Cluster (2026-09-30) ---
 The alert was issued following the drone strikes of 25 September 2026, which reportedly affected several civilian locations in El Obeid, including a shelter hosting displaced families, a fuel station, a civilian passenger bus and a residential house. At least two civilians were reportedly killed and around 20 others injured. The incident forms part of a wider escalation across North Kordofan and a recurring pattern of drone attacks affecting civilians, displaced populations and essential civilian infrastructure in and around El Obeid.
 
---- Report 2: WFP (2026-09-29) ---
+--- Report 4: WFP (2026-09-29) ---
 4.1 million people assisted in August 2026
 18,200 mt food distributed in August 2026
 USD 7.7 million cash transferred in August 2026
@@ -16,7 +22,7 @@ Cash-based assistance reached 1.6 million people, the highest monthly reach supp
 School feeding activities reached 218,000 schoolchildren, contributing to the recovery of essential education support services and helping children remain engaged in learning.
 Combined, Darfur and Kordofan remained the centre of WFP's operational response, accounting for nearly three-quarters of all beneficiaries reached across Sudan during the month.
 
---- Report 3: DFS (2026-09-29) ---
+--- Report 5: DFS (2026-09-29) ---
 Executive Summary
 The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
