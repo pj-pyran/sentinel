@@ -1,10 +1,28 @@
 Crisis / situation: Lebanon
 
---- Report 1: UNHCR (2026-09-29) ---
+--- Report 1: Health Cluster (2026-09-30) ---
+Situation Overview
+Continued insecurity, access restrictions, damage to health infrastructure and limited resources are constraining the health system’s capacity to sustain essential
+services across aected areas. No new attacks on healthcare have been reported through the Surveillance System for Attacks on Health Care (SSA) since 14 September.
+Since 2 March 2026, 215 attacks have been recorded, resulting in 135 deaths and 416 injuries. Continued adherence to International Humanitarian Law is critical to
+safeguarding healthcare workers, facilities, ambulances and patients.
+While most health facilities are maintaining services through permanent or temporary arrangements, insecurity and access constraints continue to delay rehabilitation
+of some conict-aected facilities in South Lebanon and strain referral pathways. Primary Health Care Satellite Unit (PSU) operations and healthcare access, particularly
+in Nabatieh, remain vulnerable to security-related disruptions, requiring ongoing adjustments to service delivery. Funding constraints, transportation barriers, population
+movements, and referral challenges also risk disrupting outreach services and continuity of care, especially for patients requiring specialized maternal health,
+Mental health and psychosocial support (MHPSS), rehabilitation services.
+The dispersal of displaced families across collective shelters and private households continues to complicate outreach, needs identication and coordinated service
+coverage. Inconsistent arrangements for covering the PHC costs of returnees are also creating uncertainty, particularly in southern areas. Clearer guidance is needed on
+eligibility, geographic vulnerability and socioeconomic assessment.
+Population movements and changing demand are further contributing to uneven availability of psychotropic and chronic disease medications. Redistribution of
+psychotropic medicines between PHCCs is ongoing, while increased demand from newly registered patients and returnees is placing additional pressure on chronic
+disease medication supplies, particularly in Nabatieh.
+
+--- Report 2: UNHCR (2026-09-29) ---
 2026 Lebanon Response Plan Addendum – September to December 2026
 The LRP 2026 Addendum was developed jointly by the Government, UN and NGOs, to provide a prioritized and evidence-based response to needs emerging from the recent escalation and its aftermath, following the conclusion of the Flash Appeal period. The Addendum complements the 2026 LRP and provides an operational bridge for the remainder of 2026, bringing together priority humanitarian and stabilization interventions for vulnerable people affected by the escalation and were not accounted for in the LRP 2026. For the September–December period, the Addendum seeks US$385.88 million to support approximately 732,000 people, reflecting a focused prioritization of the most critical needs and interventions across sectors. The 2026 LRP Addendum is available here.
 
---- Report 2: DFS (2026-09-29) ---
+--- Report 3: DFS (2026-09-29) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
