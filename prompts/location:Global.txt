@@ -1,35 +1,23 @@
 Crisis / situation: Global
 
---- Report 1: FEWS NET (2026-07-08) ---
-Global Overview: El Niño is present. Dry and hot conditions persist in parts of Eastern Africa, northeastern Central Asia, Central America, Hispaniola and Northern South America.
+--- Report 1: FEWS NET (2026-09-30) ---
+Global Overview: El Niño is strengthening. Abnormal heat continues to threaten parts of northern and eastern Africa, Hispaniola, and northern South America. Previously dry parts of Central America received heavy rain. Southern Africa sees flooding.
 Africa Weather Hazards
-Flooding continues along the Gulf of Guinea Coast. Hot and abnormally dry conditions have persisted for weeks across much of East Africa.
-1) Inundation continues in the Sudd wetlands of South Sudan.
-2) Over the last 30 days or more, poor rainfall caused significant deficits and abnormal dryness in portions of northern, central, and southwestern Ethiopia, northern Eritrea, South Sudan, eastern CAR, northeastern DR Congo, Uganda, and western Kenya. Longer-term rainfall deficits, lasting at least 8 weeks, result in drought in southern South Sudan.
-3) Below-average rainfall since the beginning of the rainfall season has led to negative SPI values and abnormal dryness in dryness in the southern parts of Mali, Guinea, and Sierra Leone, and much of Liberia.
-4) Observed and forecasted above-average rainfall is likely to lead to flooding along West Africa’s Gulf of Guinea coast, including southern Guinea, southern Sierra Leone, Liberia, Cote d’Ivoire, Ghana, Togo, and Nigeria, and southwestern Cameroon.
-5) Forecasted much above-average temperatures greater than 35°C will lead to abnormal heat in parts of Western Sahara, western Mauritania, central Chad, western and eastern parts of Sudan, northeastern DR Congo, Uganda, western Kenya, southeastern South Sudan, northern Eritrea, and Ethiopia’s western, northern, and eastern regions during the outlook period.
-6) Heavy rain last week, continuing into this week, is causing high runoff and a threat of flash floods in parts of western Ethiopia.
+Abnormal heat is forecast over northwestern Africa, the eastern Sahel, and much of Eastern Africa, while high flood risk persists in far western West Africa and parts of Southern Africa.
+1) Inundation in the Sudd wetlands of South Sudan persists.
+2) Following 90 days of severe rainfall deficits across Chad and East Africa, abnormal dryness has intensified into drought over western Sudan, southern and southeastern South Sudan, northern Uganda, and portions of northern, eastern, and central Ethiopia.
+3) Abnormal dryness persists over southeastern Mali and central and eastern Liberia due to consistently below-average rainfall.
+4) Recent heavy rainfall has triggered flooding across Nigeria's Anambra and Delta States, Ghana's North East Gonja District, and northern Libya.
+5) Forecast heavy rainfall during the next week raises flood risk across parts of West Africa (southern Senegal, Guinea-Bissau, Guinea-Conakry, Sierra Leone, and western Liberia) and Southern Africa (central Angola, southern Zambia, much of Zimbabwe, southern Mozambique, South Africa’s northern, eastern, and southern regions, and southern Madagascar).
+6) In the coming week, abnormal heat is expected in southern Morocco, Western Sahara, eastern Chad, Sudan, South Sudan, northern Uganda, northwestern Kenya, and northeastern Ethiopia.
 
---- Report 2: Logistics Cluster (2026-07-07) ---
-Summary
-By committing to halve its emissions by 2030, DRC aims to ensure its own operations do not worsen environmental degradation or contribute to the displacement of people of concern. The roadmap provides overall clear actions to lower emissions through renewable energy, responsible procurement, sustainable transport, and improved waste management, ensuring that humanitarian assistance supports, rather than harms, communities facing climate risks.
-Content
-Building on DRC’s endorsement of the Climate and Environment Charter for Humanitarian Organizations, the Global Decarbonization Roadmap charts a structured path for reducing the organisation’s global carbon footprint. This roadmap is part of DRC’s wider “Go Green” initiative and brings together, for the first time, all of DRC’s climate mitigation efforts into one strategic coordinated framework.
-Based on a comprehensive global carbon footprint for 2023, the roadmap identifies emissions hotspots across procurement, energy use, fleet, commuting, business travel, and freight. With 89% of emissions falling under Scope 3, the strategy places strong emphasis on sustainable procurement, circularity, renewable energy, and improved data systems.
-This global initiative strengthens DRC’s contribution to the growing recognition that climate action is an essential part of humanitarian response. By reducing emissions and resource use where DRC works, the roadmap directly contributes to protecting people affected by displacement and preventing further climate-induced vulnerabilities.
-Turning ambition into action: a roadmap built for every country operation
-The roadmap sets the overall target of 50% emissions reduction by 2030 and guides every DRC country operation to develop a localized version adapted to its context. It translates climate commitments into concrete operational measures, including:
+--- Report 2: FEWS NET (2026-09-30) ---
+Key Messages
 
-Transitioning to renewable energy
-Improving fleet efficiency and mobility systems
-Strengthening sustainable procurement
-Reducing waste and enhancing circularity
-Expanding low-carbon travel and commuting solutions
-
-Alongside carbon reduction, the roadmap highlights key co-benefits: cost savings, reduced pollution, better supply chain resilience, and improved working conditions for staff.
-Collaboration, innovation, and sector-wide influence
-DRC’s decarbonization efforts build on strong partnerships such as the WREC coalition, Fleet Forum, CHORD, and others, which support the development of green procurement tools, clean fleet frameworks, and circularity approaches. These collaborations are essential to scaling solutions and accelerating sustainable practices across the humanitarian sector.
-The publication of the Global Roadmap sends a clear signal: climate change mitigation is not optional, it is essential to protecting people, safeguarding resources, and ensuring future ready humanitarian operations.
-A blueprint for a more sustainable humanitarian future
-Through this roadmap, DRC demonstrates that meaningful emissions reductions are both achievable and critical to humanitarian impact. By aligning operations with the do no harm principle and addressing the environmental drivers of displacement, DRC strengthens its responsibility toward the people it serves.
+In West Africa, cereal prices were below last year and the five-year average across the Sahel and coastal countries, except for conflict-affected and refugee-hosting areas. In Nigeria, local cereal prices were mostly declining or stable, while rice and cowpea prices remained high. Prices in Cameroon were mixed, with atypical declines in the north, and elevated prices for imported rice in urban areas. In the Central African Republic (CAR), fuel shortages and supply constraints kept prices high. Regional livestock prices broadly remained above the average (Page 3).
+In East Africa, staple food prices remained elevated but broadly stable. Prices declined seasonally in Somalia with increasing gu harvest availability, while stronger increases persisted in Sudan, South Sudan, and parts of Uganda amid tight supplies, high transport costs, currency depreciation, and conflict-related disruptions. In Kenya and Tanzania, domestic and cross-border supplies continued to moderate maize prices despite below-average production in some areas. Livestock prices generally remained stable at above-average levels (Page 5).
+In Southern Africa, August maize prices were mixed. Prices continued to decline in Zambia and Lesotho and were stable or decreasing across most of Tanzania and Mozambique. Malawi and South Africa recorded increasing prices due to concerns over El Niño-related weather risks. Prices trended upward in Madagascar and Angola, driven by an early lean season and production constraints. Maize prices were lower than last year in Zambia, Mozambique, and South Africa, but remained under upward pressure in several deficit markets across the region (Page 7).
+In Central America, staple prices remained stable across the region with the start of the primera harvest but showed mixed trends compared to average levels. Black bean prices were below average in Guatemala, driven by expanded import quotas, and above average in Honduras due to tighter domestic supply and low imports. In Haiti, local food prices were stable due to post-harvest supply. In Venezuela, monthly inflation eased, and food prices increased in USD and VED. In Colombia, staple food supply was near average, and cereal prices remained stable (Page 9).
+In the Middle East and Europe, staple price trends remained mixed. In Lebanon, wheat flour prices were stable, and prices increased for animal-source foods and produce. In Syria, staple prices remained high, while high fuel costs and shortages disrupted milling and bakeries. In Gaza, markets remained functional with continued inflows; in the West Bank, staple prices were broadly stable, but higher fuel, gas, egg, and chicken prices increased the CPI. In Yemen, staples were mostly stable, but intensified conflict, LPG shortages, and liquidity constraints continued to affect market functioning. In Ukraine, bread prices declined, but conflict and input costs continued to shape markets (Page 11).
+In Asia, staple food prices were mixed but largely stable. Stable wheat and rice prices in Afghanistan and Sri Lanka reflected adequate domestic and imported supplies, while wheat flour remained elevated in Pakistan despite little monthly change. Stronger pressures were concentrated in Burma, where palm oil and diesel prices rose amid fuel and foreign exchange constraints, and Kathmandu, where coarse rice and black bean prices increased sharply due to monsoon-related road disruptions and higher transport costs (Page 13).
+International markets: Maize prices rose 5.3 percent driven by decreased U.S. yields and the smallest EU crop since 2007/08. Wheat prices increased 4.6 percent, and Black Sea shipping remained at a standstill. Rice prices were mixed. Brent averaged 91 USD/bbl with 6.7 million barrels per day of Middle East production shut in, and the fertilizer index fell 1.9 percent as nitrogen eased while phosphate rose. No grain faces a global shortfall, but importers face grain freight costs 18.5 percent above a year ago (Page 2).
