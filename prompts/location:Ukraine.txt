@@ -1,13 +1,18 @@
 Crisis / situation: Ukraine
 
---- Report 1: ETC (2026-10-01) ---
+--- Report 1: World Vision (2026-10-01) ---
+World Vision started working in Ukraine in March 2022 through 6 and now 3 active offices in Ukraine (Kyiv, Dnipro, Mykolaiv), which currently support aid efforts reaching conflict-affected people. While also supported Ukrainian refugees and host communities in Moldova, Romania, and Georgia. WV UCR in Moldova concluded its operations in June 2025 and transitioned to WV Romania registered Moldova Foundation.
+World Vision’s Ukraine Crisis Response and its local partners have reached over 2.4 million people, including more than 1 million children, providing essential support through food, non-food items, cash assistance, protection and education interventions, livelihood, and mental health &amp; psychosocial support programming.
+In 2025, World Vision intentionally incorporated early recovery and economic development into its programming, expanding livelihood opportunities for affected families and creating new jobs. Its microfinance arm, VisionFund, is operating in Ukraine in the field of medium- to long-term recovery and development via financing small and medium-sized businesses for further growth, opportunities to generate income and create new jobs.
+
+--- Report 2: ETC (2026-10-01) ---
 The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 03 March 2022 in response to the crisis in Ukraine. This Situation Report provides a monthly update on LTC Telecoms activities.
 Summary Points
 • Despite intensified attacks on civilian, energy and telecommunications infrastructure across Ukraine, communications services remained largely operational due to redundancy measures, backup systems and strengthened national telecommunications resilience mechanisms.
 • LTC Telecoms strengthened security communications across frontline and high-risk areas through maintenance missions in Zaporizhzhia and Dnipropetrovsk regions, deployment of communications systems on armoured vehicles, reprogramming of 55 VHF radios and training for 29 humanitarian personnel.
 • LTC Telecoms strengthened the resilience of critical telecommunications services in eastern Ukraine by providing telecommunications and power equipment to the Broadcasting, Radiocommunications and Television Concern (BRT), helping the partner maintain communications capabilities and continuity of services amid ongoing attacks on telecommunications infrastructure.
 
---- Report 2: ACLED (2026-09-30) ---
+--- Report 3: ACLED (2026-09-30) ---
 Ukraine’s strikes knock out refining capacity at Moscow refinery, while Russia targets Ukrainian communications
 Author Tetiana Gaviuk
 Key trends
@@ -17,7 +22,7 @@ Despite United States President Donald Trump’s claims that Russia and Ukraine 
 
 [...]
 
---- Report 3: Health Cluster (2026-09-30) ---
+--- Report 4: Health Cluster (2026-09-30) ---
 Key Highlights
 • In August, the number of civilian casualties remained at near record levels, and most of them
 occurred far from the frontline. The UN HRMMU verified at least 373 civilians killed and 2,349 injured,
