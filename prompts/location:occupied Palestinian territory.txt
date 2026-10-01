@@ -1,6 +1,12 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: UNRWA (2026-10-01) ---
+--- Report 1: ETC (2026-10-01) ---
+Summary Points
+• Telecommunications services across Gaza remained severely constrained, with approximately 75 percent of infrastructure damaged or destroyed since October 2023. Ongoing equipment shortages, fuel constraints and access restrictions continued to limit network reliability, maintenance activities and infrastructure recovery efforts.
+• As humanitarian needs remained high and operational constraints persisted, LTC Telecoms enhanced coordination with humanitarian partners, telecommunications operators and key stakeholders to support telecommunications planning, service continuity, and Humanitarian Reset transition arrangements across Gaza.
+• LTC Telecoms strengthened inter-agency security communications across Gaza through UN VHF radio standardization, expansion of agency participation in the shared network, and training for 17 humanitarian personnel, improving interoperability and emergency communications preparedness.
+
+--- Report 2: UNRWA (2026-10-01) ---
 Highlights
 The Gaza Strip
 
@@ -40,7 +46,7 @@ Around 10,500 Palestinian UNRWA personnel continue to provide services and assis
 All UNRWA international staff are prevented from entering the Occupied Palestinian Territory - the Gaza Strip and the occupied West Bank, including East Jerusalem. This follows the implementation of laws passed by the Israeli parliament on 28 October 2024[3] that purport to prohibit UNRWA’s operations in areas that Israel considers its sovereign territory, including occupied East Jerusalem, and seek to bar any contact between Israeli officials and UNRWA. Israeli authorities have not granted the Agency’s international staff visas or permits to enter the Occupied Palestinian Territory, including the Gaza Strip, since the end of January 2025.
 Since March 2025, the Israeli authorities have been blocking UNRWA from directly bringing humanitarian personnel and aid into the Gaza Strip. Despite the huge needs on the ground, UNRWA was therefore unable to distribute the aid it had pre-positioned outside Gaza, which included enough food parcels, flour, and shelter supplies for hundreds of thousands of people.
 
---- Report 2: OCHA (2026-09-29) ---
+--- Report 3: OCHA (2026-09-29) ---
 Highlights
 
 Demolitions displaced 147 Palestinians across the West Bank in one week, more than three times the 2026 weekly average, including 58 people in South ‘Anata Bedouins, near the area designated for the E1 settlement expansion plan.
