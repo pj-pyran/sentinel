@@ -1,6 +1,46 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: OCHA (2026-09-29) ---
+--- Report 1: UNRWA (2026-10-01) ---
+Highlights
+The Gaza Strip
+
+UNRWA started the 2026/2027 school year on 19 September across the Gaza Strip through a combination of in-person and distance learning. A launch event was held in Nuseirat Camp at an UNRWA school that has fully returned to education use, after having been used previously as an emergency shelter. During the first week of the school year, nearly 97,000 students attended UNRWA learning spaces across the Gaza Strip.
+Students also returned to in-person learning at both campuses of the UNRWA Rehabilitation Centre for the Visually Impaired (RCVI), with classes resuming in Deir El Balah on 19 September and in Gaza City on 20 September.
+UNRWA opened two additional carpentry workshops, bringing the total to three facilities operating in Khan Younis, Deir El Balah and Gaza City. Together, the workshops can produce approximately 450 school desks and chairs per week to support the expansion of learning spaces.
+Multiple war-damaged residential buildings collapsed in the Gaza Strip during the reporting period, highlighting the risks faced by families sheltering in unsafe structures. UN Humanitarian Coordinator Ramiz Alakbarov warned that people live in “hundreds of damaged structures assessed as unsafe, for lack of better options”. These include some families sheltering in non-operational UNRWA installations, which are no longer managed by UNRWA, for safety reasons. With winter approaching, risks are expected to increase as rainfall further weakens already compromised structures. UNRWA remains engaged in inter-agency efforts to address the issue and encourage families to relocate to safer shelter options where available.
+Over the reporting period, Israeli authorities issued multiple evacuation orders and shelter-in-place alerts affecting UNRWA installations across the Gaza Strip. Separately, hostilities in the vicinity of UNRWA facilities resulted in injuries to six displaced persons sheltering at UNRWA schools, including four children. One cash-for-work beneficiary supporting UNRWA operations was killed and one UNRWA staff member seriously injured in separate incidents linked to strikes by Israeli forces in their vicinity.
+
+Key points
+The Gaza Strip
+Fatalities and injuries
+
+Between 7 October 2023 and 20 September 2026, according to the Ministry of Health, as reported by the Health Cluster, 73,914 Palestinians were killed in the Gaza Strip and another 174,952 were injured. This includes 1,394 fatalities and 4,991 injuries between the announcement of a ceasefire agreement on 10 October 2025 and 20 September 2026.
+UNRWA has recorded 394 colleagues killed in the Gaza Strip since the start of the war (311 UNRWA personnel and 83 persons who were supporting UNRWA[2], as of 22 September.
+
+Health crisis
+
+The worsening fuel and engine oil shortage is increasingly disrupting health services across the Gaza Strip. The UN warned that reduced fuel support to hospitals, driven by funding shortfalls and high procurement costs, could affect most hospitals and lead to cuts in primary and secondary healthcare services.
+Over the reporting period, several UNRWA health centres also experienced temporary disruptions due to generator overload, highlighting the growing operational impact of the shortage of fuel, lubricant oil and spare parts on the delivery of healthcare.
+
+Water, sanitation and hygiene (WASH) needs
+
+According to the WASH Cluster’s Light Touch Monitoring Survey, completed in early July 2026, 90 per cent of the population are experiencing frequent, unpredictable disruptions in access to safe, clean, and reliable water for daily drinking, cooking, and hygiene – an increase from 84 per cent the previous month.
+
+Shelter needs
+
+According to the Shelter Cluster’s classification, based on surveys conducted between 14 and 28 June 2026, an estimated 1.98 million people, representing 94 per cent of the population of the Gaza Strip, require shelter and non-food item assistance (NFI). The assessment also suggests that 58 per cent of the population is facing critical or catastrophic shelter needs, meaning severe deficiencies in shelter conditions or lack of access to essential services and NFIs that expose them to serious health, safety, and dignity risks.
+
+Protection needs
+
+According to UN Women, the number of women-headed households in the Gaza Strip has doubled since October 2023, reaching about 86,000 households – or almost one in every four families. This includes widows and women whose husbands are missing, detained, severely injured, or forcibly disappeared, or whose fate simply remains unknown.
+
+Operational implications and humanitarian response
+
+Around 10,500 Palestinian UNRWA personnel continue to provide services and assistance to people in the Gaza Strip. In the occupied West Bank, UNRWA also plays a central role with over 4,000 of the Agency’s Palestinian personnel providing education, health, and other services to Palestine Refugees.
+All UNRWA international staff are prevented from entering the Occupied Palestinian Territory - the Gaza Strip and the occupied West Bank, including East Jerusalem. This follows the implementation of laws passed by the Israeli parliament on 28 October 2024[3] that purport to prohibit UNRWA’s operations in areas that Israel considers its sovereign territory, including occupied East Jerusalem, and seek to bar any contact between Israeli officials and UNRWA. Israeli authorities have not granted the Agency’s international staff visas or permits to enter the Occupied Palestinian Territory, including the Gaza Strip, since the end of January 2025.
+Since March 2025, the Israeli authorities have been blocking UNRWA from directly bringing humanitarian personnel and aid into the Gaza Strip. Despite the huge needs on the ground, UNRWA was therefore unable to distribute the aid it had pre-positioned outside Gaza, which included enough food parcels, flour, and shelter supplies for hundreds of thousands of people.
+
+--- Report 2: OCHA (2026-09-29) ---
 Highlights
 
 Demolitions displaced 147 Palestinians across the West Bank in one week, more than three times the 2026 weekly average, including 58 people in South ‘Anata Bedouins, near the area designated for the E1 settlement expansion plan.
@@ -15,17 +55,3 @@ Overview
 Violence and restrictions continue to drive humanitarian needs in the Gaza Strip and the West Bank, while shortfalls in humanitarian funding are further holding back relief efforts. Addressing Member States as part of the General Assembly High-level Week, the United Nations Secretary-General António Guterres said that &quot;we must not lose sight of the devastating situation in the Occupied Palestinian Territory.&quot;
 Regarding Gaza, he said that “the resumption of assistance since the ceasefire was announced last October has brough some relief – but conditions remain intolerable... International law, including international humanitarian law, is brazenly violated. Humanitarian access remains severely restricted, and the level of human suffering is still off the charts.” He reiterated the need to allow the UN to perform its mandates in Gaza and for UN and humanitarian personnel to be protected, stressing that all parties must comply with international law and the orders of the International Court of Justice.
 Regarding the West Bank, he said that &quot;record levels of settler attacks and relentless efforts to expand settlements are pushing Palestinian communities to the breaking point. Such actions are unlawful and unjust.&quot; The Secretary-General further said that violence, displacement and settlement expansion by Israel &quot;are bulldozing the path to peace and raising the spectre of ethnic cleansing.&quot;
-
---- Report 2: NRC (2026-09-28) ---
-SITUATION OVERVIEW
-GAZA
-• Shelter Cluster partners continued delivering life-saving Shelter and NFI assistance across the Gaza Strip throughout July and August, responding to urgent needs among affected households through in-kind assistance and voucher modalities.
-• In July, partners reached 52,940 households with emergency Shelter/NFI assistance, including 32,666 kitchen sets, 7,073 tarpaulins, 4,611 bedding kits, 3,790 blankets, 11,547 mattresses, 1,087 tents, 4,429 solar lights and 1,178 clothing kits. In addition, 405 households received clothing assistance through vouchers.
-• The response remained predominantly NFI-focused, particularly kitchen sets, while the provision of core emergency shelter items remained limited due to shortages and constrained availability of shelter materials.
-• Shelter Cluster partners completed sealing-off works for 2,860 housing units across Gaza governorates, improving protection from exposure and living conditions for affected households.
-• In August, partners supported 28,631 households with in-kind Shelter/NFI assistance, representing a reduction of approximately 46 per cent compared with July. Distributions included 6,071 tents, 4,897 tarpaulins, 3,676 sealing-off kits, 1,436 tool kits, 74 RHUs, 21,305 mattresses, 18,049 blankets, 18,130 kitchen sets, 12,843 bedding kits, 10,718 clothing kits, 4,376 sleeping mats and 5,173 solar lights.
-• Separately, in August, partners improved 4,226 makeshift shelters and completed emergency repairs to 627 partially damaged housing units.
-• The Shelter Severity and Household Needs Across Accessible Areas of Gaza assessment was published by the Shelter Cluster and widely amplified. It received strong feedback and visibility, including through presentations to the HCT, NICCG, ECHO consultation, GHD donors and other humanitarian policymakers. Findings were also shared with Palestinian authorities and NGAC, referenced in UN Security Council discussions and presented at the UN Palestinian Rights Committee, and reflected in OCHA reporting. The assessment was also picked up by media outlets, including Haaretz, Ahram Online, Al Jazeera English, The Brussels Times, Common Dreams and DevelopmentAid.
-• The SSC found that 1.98 million people—94 per cent of Gaza’s population—require shelter or household assistance. Around two thirds of households are living in tents, makeshift shelters or damaged housing, while 54 per cent of assessed shelters were in poor or very poor condition. More than half of households had been using the same emergency tent for over one year, underlining the urgent need to facilitate the entry of shelter materials and enable more durable improvements ahead of winter.
-• Shelter partners continue to face significant access, supply-chain and funding constraints. Most core Shelter/NFI items—including tents, tarpaulins, kitchen sets, solar items, ropes and tapes, timber, tools and other essential shelter materials—remain classified as dual-use.
-[...]

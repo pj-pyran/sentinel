@@ -1,40 +1,49 @@
 Crisis / situation: Ukraine
 
---- Report 1: ACLED (2026-09-23) ---
-Russia increasingly targets border crossings in Ukraine, while Ukraine doubles down on striking Russian oil infrastructure.
-Author
-Tetiana Gaviuk
-1863 conflict events
-225 incidents of violence targeting civilians: 9% increase compared to last week
-At least 92 civilians killed by targeted violence:19% increase compared to last week
-1132 air- and drone strikes: 4% decrease compared to last week
-276 shelling events: 48% increase compared to last week
-444 armed clashe: 9% decrease compared to last week
-221 Russian attacks on civilian infrastructure: 9% decrease compared to last week
-Number of events and change compared to last week (per target):
-Education: 15 events (21% decrease)
-Healthcare: 12 events (9% increase)
-Energy: 41 events (5% decrease)
-Residential: 186 events (8% decrease)
+--- Report 1: ETC (2026-10-01) ---
+The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 03 March 2022 in response to the crisis in Ukraine. This Situation Report provides a monthly update on LTC Telecoms activities.
+Summary Points
+• Despite intensified attacks on civilian, energy and telecommunications infrastructure across Ukraine, communications services remained largely operational due to redundancy measures, backup systems and strengthened national telecommunications resilience mechanisms.
+• LTC Telecoms strengthened security communications across frontline and high-risk areas through maintenance missions in Zaporizhzhia and Dnipropetrovsk regions, deployment of communications systems on armoured vehicles, reprogramming of 55 VHF radios and training for 29 humanitarian personnel.
+• LTC Telecoms strengthened the resilience of critical telecommunications services in eastern Ukraine by providing telecommunications and power equipment to the Broadcasting, Radiocommunications and Television Concern (BRT), helping the partner maintain communications capabilities and continuity of services amid ongoing attacks on telecommunications infrastructure.
+
+--- Report 2: ACLED (2026-09-30) ---
+Ukraine’s strikes knock out refining capacity at Moscow refinery, while Russia targets Ukrainian communications
+Author Tetiana Gaviuk
 Key trends
 
-Russia has expanded its targeting of Ukraine’s transport infrastructure beyond passenger trains and railway hubs to drone attacks on or near border crossings in an attempt to further degrade Ukraine's connection to the outside world. Following a series of disruptive strikes on three Ukraine-Moldova border crossings in August and a ferry crossing to Romania on 6 September, Russia launched a drone strike on the Starokozache border crossing on 8 September. This is significant as the border crossing connects Ukraine with Moldova and wider Europe. These kinds of attacks on border crossings risk hindering the movement of goods such as grain and military supplies and putting additional pressure on Ukraine’s economy.
-In an attempt to further reduce Russia’s revenue sources and hinder its military production, Ukraine carried out its deepest strike inside Russia to date against two Arctic gas facilities on 9 September. Ukrainian Unmanned Systems Forces also resumed attacks on Russia’s shadow fleet in the Black Sea, targeting 13 vessels on 8 September alone, including the Malta-flagged Seaviolet tanker at the Caspian Pipeline Consortium’s mooring point near Novorossiysk while it was loading Kazakh oil. Despite United States President Donald Trump’s claim on 14 September that Kyiv and Moscow agreed to halt strikes on energy infrastructure, Ukraine is likely to maintain such strikes until a formal ceasefire is reached and Russia halts its attacks on Ukrainian energy infrastructure in turn
+Russia has expanded its front line campaign of disabling Ukrainian logistics and transport infrastructure to key logistical routes linking the Ukrainian capital with the west of the country. It has done so using jet-powered drones that are remotely controlled using mesh networks in Belarus. Between 10 and 17 September, Russian drone strikes affected at least 10 gas stations and transport infrastructure, including locomotives, in Kyiv, as well as in communities in the Zhytomyr, Rivne, Volyn, and Odesa regions. While the 13 September strike on the Kyiv-Warsaw passenger train raised concerns due to its proximity to Poland, strikes on gas stations in the northwest and a key pontoon crossing on the Dniester River in the southwest suggest a broader effort to disrupt road traffic to Ukraine’s western borders. In doing so, Russia is likely aiming to hinder the movement of civilian goods and people in and out of the country and between key economic centers, increasing pressure on Ukraine’s economy.
+Despite United States President Donald Trump’s claims that Russia and Ukraine agreed to a ceasefire on striking each other’s oil facilities, Ukraine continued striking key oil refineries and depots in at least five regions. After at least 12 strikes in the past year, a 16 September strike on a major oil refinery in Yaroslavl prompted its operator to suspend crude processing due to damage and fires slowing down repairs on previously hit units. Once sustained, Kyiv’s drone campaign on Russian oil has gradually reduced oil and gas budget revenues, strained Russia’s internal consumer market for oil products, caused queues at gas stations beyond the front line regions, and forced fuel imports. After talks between Trump and Ukrainian President Volodymyr Zelenskyy on 22 September ended with no sign of a unilateral ceasefire of Ukrainian attacks, only unlikely negotiations between Moscow and Kyiv on a reciprocal ban on strikes targeting all energy infrastructure, including Ukraine’s heating and electricity plants, could halt sustained damage to Russia’s oil refining.
 
-Key events
-8 Sep.
-Kyiv – A Russian drone and missile attack on Kyiv and the surrounding region kills seven civilians and injures at least 35 others
-8 Sep.
-Odesa – A Russian drone strikes the Ukraine-Moldova international border crossing in Starokozache, killing two civilians and injuring three others
-9 Sep.
-Yamalo-Nenets, Russia – Ukrainian drones strike the Novy Urengoy Gas Condensate Processing Plant in Russia’s far north
-Footnotes
-1 Note: Some events may contain notes covering damage of multiple types of infrastructure, so individual events can be counted multiple times for various categories of infrastructure.
+[...]
 
---- Report 2: UNHCR (2026-09-23) ---
-OPERATIONAL CONTEXT &amp; HIGHLIGHTS:
-• Since late August, the Russian Federation (RF) has significantly intensified frequency of attacks, damaging infrastructure and civilian sites, disrupting daily life and causing growing casualties. One of the deadliest attacks occurred on 28 August in Kyiv region, where a Russian strike triggered explosions that killed at least 37 people. According to the UN HRMMU, at least 372 civilians were killed and 2,349 injured in Ukraine in August 2026 - the second highest monthly figure in 2026, after July, with 448 killed and 2,675 injured.
-• Strikes on Kherson on 27 August damaged the city’s combined heat and power plant, prompting the authorities to urge residents to evacuate. The situation reflects a broader trend across frontline areas, where escalating insecurity and damage to energy and water systems are driving new displacement, mostly within affected regions but also towards western Ukraine.
-• Humanitarian operations faced growing security risks. RF strikes repeatedly hit warehouses contracted by various UN entities, including UNHCR’s, damaging stocks of critical relief supplies. The increased frequency of attacks also made emergency response efforts more complex and dangerous.
-• Given security challenges, to ensure continuity of assistance, UNHCR is adapting its operational modalities, including through decentralizing humanitarian stock and exploring additional protective measures such as mobile bomb shelters for war-affected communities.
-• In the fifth year since the start of the Russian full-scale invasion of Ukraine, and more than 12 years since the war began, UNHCR’s programme in Ukraine increasingly aims to help war-affected people and communities to recover, and displaced people to find durable solutions, particularly through housing and strategic protection advocacy.
+--- Report 3: Health Cluster (2026-09-30) ---
+Key Highlights
+• In August, the number of civilian casualties remained at near record levels, and most of them
+occurred far from the frontline. The UN HRMMU verified at least 373 civilians killed and 2,349 injured,
+second only to the number of casualties recorded in July. Long-range weapons caused 47 per cent
+of casualties, mostly in densely populated urban centers.
+• Attacks on Kyiv and its surrounding region escalated in July, continuing throughout August, with
+deadly attacks on 1, 5, 20, and 28 August. Kherson, Kryvyi Rih, and Zaporizhzhia recorded the nexthighest
+casualty numbers. Among the deadliest incidents was a double-tap attack on a shopping
+mall in Kryvyi Rih that killed at least 16 people, with more than 150 civilian casualties overall. By
+August 2026, Health Cluster partners provided 1,305 post-strike primary health care and mental
+health and psychosocial support (MHPSS) consultations, prepositioned supplies to receiving health
+facilities to cover for the treatment of 3,599 people.
+• The pace of displacement nearly doubled in the second half of August, rising by 85 per cent
+compared to the first half (from 11,150 to 20,620 people, according to IOM DTM Frontline Flow
+Monitoring). As hostilities intensified, drone attacks and shelling on civilian areas and infrastructure
+continued, and mandatory evacuations expanded to additional settlements. According to the
+Ukraine Protection Cluster, 18,088 people were registered at transit centers in August. Health Cluster
+partners provided partners provided 4,390 consultations at seven Transit centers across Ukraine.
+• As frontline communities rely on humanitarian support for access to health care, timely evidence
+on service gaps is critical to guide the response. In August, the Health Cluster led a pilot Rapid
+Health Analysis in frontline communities in Kherson, under the oversight and guidance of the
+Kherson oblast health authorities and 14 health partners to analyze where service gaps are most
+acute, strengthen coordination of the response and prioritize assistance for the most affected and
+underserved populations.
+• The growing number of attacks on warehouses is threatening the continuity of emergency health
+operations by damaging essential medical supplies. WHO SSA verified 15 attacks on health care
+affecting warehouses in 2026, and more warehouses were hit in August alone than in the entire first
+quarter. A Health Cluster survey revealed that at least 8 partners were impacted by these attacks
+this year, most of them in July and August. Frontline service delivery has been the hardest hit.
