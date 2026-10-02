@@ -1,19 +1,22 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: ETC (2026-10-01) ---
+--- Report 1: WFP (2026-10-01) ---
+KEY HIGHLIGHTS
+• WFP resumed a second round of food assistance in Rasuwa, delivering 14.3 mt of food to 1,367 people, while 0.19 mt of specialized nutritious foods supported 883 students in Nuwakot for emergency school meals.
+• 2,208 households have been supported so far with multi-purpose cash transfers in Dhading, Nuwakot and Rasuwa, with a total target of 38,000.
+• The Logistics and Telecommunications (LTC) Cluster moved 260 mt humanitarian cargo, received, stored and dispatched 359.5 mt of partner relief items through logistics hubs in Kathmandu and Nuwakot.
+Situation Overview
+• Reported fatalities stand at 1,453, with 5,285 people still missing and 13,784 people rescued. The floods have caused extensive damage to settlements, infrastructure and livelihoods.
+• Continued heavy rainfall triggered renewed flooding, landslides and road blockages across affected districts, constraining humanitarian access and delaying relief operations, particularly in Rasuwa where poor road conditions and weather-related disruptions continue to hamper the delivery of assistance.
+
+--- Report 2: ETC (2026-10-01) ---
 This consolidated Situation Report summarizes the telecommunications impacts of the flash floods that struck Nepal on 26 August 2026 and the resulting response. Following activation of the Logistics &amp; Telecommunications Cluster (LTC) on 02 September, LTC Telecoms supported humanitarian partners through telecommunications coordination, assessments, connectivity services and information management. The report highlights the evolving operational context, telecommunications recovery, response activities and transition to longer-term recovery and preparedness efforts.
 Summary Points
 • One month after the flash floods of 26 August, government-led response efforts under the National Disaster Risk Reduction and Management Authority (NDRRMA) had begun transitioning from life-saving activities towards rehabilitation, early recovery and longer-term support.
 • Telecommunications services were largely restored across the most affected districts through operatorled repairs, temporary microwave backhaul, adjacenttower coverage and backup power solutions. However, sustaining reliable services in remote and difficult-to-access locations remained a challenge.
 • Following activation of the LTC on 02 September, LTC Telecoms supported humanitarian partners through coordination, assessments, shared connectivity services and information management. The LTC Telecoms Coordinator completed a two-week mission from 05 to 18 September before handing over responsibilities to the Inter-Agency IT Operations Officer to support continuity and recovery.
 
---- Report 2: World Vision (2026-10-01) ---
+--- Report 3: World Vision (2026-10-01) ---
 More than a month after devastating flash floods struck Nepal on 26 August, the humanitarian needs remain significant. 1,453 people have lost their lives, 13,795 remain missing or unaccounted for, and around 84,000 people need humanitarian assistance, including 22,000 children.
 As of 1 October, World Vision International Nepal has reached 35,773 people, including 11,948 children and 822 people with disabilities, with essential food, shelter, water and sanitation, protection, health and nutrition support. The response is also helping restore safe drinking water, support children through Child Friendly Spaces, and enable local institutions to resume essential services.
 World Vision continues to work with government authorities, local partners and humanitarian actors to support affected children and families as they recover and rebuild.
-
---- Report 3: OCHA (2026-09-29) ---
-HIGHLIGHTS
-
-The floods have claimed 1,453 lives; 5,285 people remain missing and 13,795 have been rescued (NDRRMA, 26 September, 19:00).
-1,109 people remain in 21 displacement centres in Rasuwa, Nuwakot, and Dhading.

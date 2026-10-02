@@ -14,22 +14,3 @@ This alert report provides basic, initial information in relation to an alert ra
 
 --- Report 4: Protection Cluster (2026-09-30) ---
 The alert was issued following the drone strikes of 25 September 2026, which reportedly affected several civilian locations in El Obeid, including a shelter hosting displaced families, a fuel station, a civilian passenger bus and a residential house. At least two civilians were reportedly killed and around 20 others injured. The incident forms part of a wider escalation across North Kordofan and a recurring pattern of drone attacks affecting civilians, displaced populations and essential civilian infrastructure in and around El Obeid.
-
---- Report 5: WFP (2026-09-29) ---
-4.1 million people assisted in August 2026
-18,200 mt food distributed in August 2026
-USD 7.7 million cash transferred in August 2026
-USD 591 million required in the next six months (September 2026-February 2027)
-KEY HIGHLIGHTS
-
-In August, WFP reached a record 4.1 million people across Sudan, including 1 million people in areas classified as at Risk of Famine (RoF), underscoring the scale and reach of the operation in the country's most vulnerable locations.
-August was the third consecutive month of record-breaking reach in 2026, reflecting sustained progress in overcoming access and operational challenges.
-Cash-based assistance reached 1.6 million people, the highest monthly reach supported through cash transfers since the conflict began.
-School feeding activities reached 218,000 schoolchildren, contributing to the recovery of essential education support services and helping children remain engaged in learning.
-Combined, Darfur and Kordofan remained the centre of WFP's operational response, accounting for nearly three-quarters of all beneficiaries reached across Sudan during the month.
-
---- Report 6: DFS (2026-09-29) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
