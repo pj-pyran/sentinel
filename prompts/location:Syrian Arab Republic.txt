@@ -1,19 +1,35 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: WFP (2026-09-30) ---
-IN NUMBERS
-619,338 people assisted in August
-3,550 mt food dispatched in August
-USD 4.62 M cash transferred in August
-USD 201.7 M required (September 2026 – February 2027)
-3.65 M returnees have arrived in Syria since December 2024 (UNHCR, 2025)
-KEY HIGHLIGHTS
+--- Report 1: Health Cluster (2026-10-04) ---
+SITUATION OVERVIEW
+Core monthly subjects:
+Service continuity became the central operational issue: the transition of health services from fragmented humanitarian and NGO arrangements toward national management, particularly in the northeast and in areas where NGO support was ending. Fuel costs, transport, staffing, medicine supply, equipment maintenance and referral access had become the clearest sources of operational pressure. Northeast transition risk centered on staffing, authority, referral pathways, ambulance movement, supplies and road access rather than a complete breakdown of services. Fuel pressure affected generators, ambulances, staff transport, water pumping and trucking, cold chain, medical logistics and household access to care. Essential medicines, dialysis consumables, diagnostics, oxygen, oncology and equipment maintenance remained high-priority continuity risks.
+Trauma, EMS and referral readiness remained critical: Explosive ordnance and ammunition incidents, serious road crashes, localized violence and referral constraints repeatedly kept trauma readiness at or near the top of the priority lists. There is a need for facility-level surge readiness rather than an assumption that national capacity can absorb localized shocks. Maintain ambulance, blood, surgical, burn, ICU and alternate referral capacity in exposed areas. Referral networks are particularly vulnerable where insecurity, road restrictions, fuel costs and limited receiving capacity overlap. Explosive-risk management remains a health-sector issue because casualty events can rapidly overwhelm individual facilities.
+Public-health surveillance stayed in a high-vigilance posture: Vaccination, measles and polio surveillance were critical and shifted toward campaign verification, missed-child identification and catch-up activity. Later updates continued to prioritize measles case finding and vaccination, while waterborne disease, acute watery diarrhoea, foodborne illness and hepatitis A remained medium-high vulnerabilities requiring investigation if local clusters appeared. Key VPD triggers: rash-fever clusters, missed or zero-dose child pockets, cold-chain interruption, AFP alerts and school or returnee-community clustering. Key WASH triggers: linked severe diarrhoeal cases, unsafe shared water, interrupted pumping or chlorination, or a localized jaundice/hepatitis cluster. Malnutrition remained a chronic high-pressure issue, especially where food costs, diarrhoeal disease and nutrition-supply interruptions overlap.
 
-Syria remains at a critical juncture, with 7.1 million people facing acute food insecurity, including 700,000 experiencing severe food insecurity.
-Rising return movements are placing additional strain on basic services, livelihoods, and social protection systems, highlighting the urgent need for sustained investment in nationally led systems to preserve social cohesion, and facilitate a stable transition.
-Funding shortfalls have already forced a reduction in food assistance from 1.3 million to 650,000 people, limiting assistance to those with the greatest needs.
-WFP urgently requires USD 201.7 million over the next six months to restore vital food assistance to 1.3 million vulnerable people affected by food insecurity, displacement, and economic hardship. These funds would also be critical to sustain nutrition programmes, protect livelihoods and continue supporting national social protection interventions.
-
---- Report 2: UNHCR (2026-09-29) ---
-August 2026
-Syria has entered a phase marked by large-scale refugee and IDP returns alongside persistent humanitarian vulnerability and reintegration needs. While around 1.8 million refugees and over 2 million internally displaced persons (IDPs) have returned since December 2024, 15.6 million people still require humanitarian assistance. As return movements continue, ensuring sustainable reintegration through access to documentation, housing, essential services, livelihoods and community support is critical to helping returnees rebuild their lives and is central to Syria’s recovery. In line with Syria’s National Recovery Priorities and the Government’s “No Tents, No Camps” vision, UNHCR supports this transition while maintaining protection and humanitarian assistance for vulnerable populations.
+--- Report 2: Health Cluster (2026-10-04) ---
+National health sector coordination, including South Hub (Damascus, Rural Damascus, Dar’a, Quneitra, Sweida)
+• Remained in a daily communication with the ICD MoH.
+• Developed two Weekly Health Sector Outlooks, 20 and 27 September 2026.
+• Developed the Health Sector Syria Winterization Plan.
+• Developed the Health Sector Profile of Sweida governorate.
+• Produced a monthly overview of key MoH Syria activities and events as per the social media, August 2026.
+• Developed a draft of the Health Sector Guidance on a process for responsible prioritization of geographic areas and health facilities.
+• Participated in the preliminary discussions of the SHF – Third Reserve Allocation (II US Tranche).
+• Developed an overview of the Trauma/Disability Sector Coordination.
+• Participated in the national disease surveillance and response working group meeting led by the MoH.
+• Requested the sector partners to update the current level of funding in OCHA FTS.
+• Followed up on the expected Global Health Cluster meeting on the HNRP 2027 menu of objectives, activities and indicators.
+• Disseminated a few operational updates (22 September); materials of Hassakeh and Deir-ez-Zoir sub-national health sector coordination meetings; the MoH Epidemiological Bulletin; the Nutrition Sector Call to Action.
+• Provided feedback to OCHA on sector capacity support.
+• Participated in the regular national ISCG meeting (21 September), Global level webinar on Attacks on Health Care and 2nd Briefing Session on the IASC Humanitarian Complementarity Framework – Scorecard; side events on health and Syria as part of UN GA in New York.
+• Ensured the sector participation at OCHA organized 2026 HNRP session for Quneitra governorate.
+• Followed up on the upcoming IA mission to Sweida.
+• Followed up on facilitation of medical referral of a few individual cases.
+• Held separate meetings/discussions or provided advice to the following organizations: GFA Consulting Group, Solinfo.
+• Jointly with the WHO HIS team, worked on:
+• Follow up on the improved reporting of operational presence in the south.
+• Follow up on the improved reporting of health sector referral pathway.
+• Follow up on the improved reporting of monthly 4W (especially around the indicator on “number of static health facilities supported by HS partners (equipment and rehabilitation).
+• Follow up on the inter-sector Stockpile Tool training.
+• Follow up on the 2027 MSNA process.
