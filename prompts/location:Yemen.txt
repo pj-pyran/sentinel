@@ -1,35 +1,21 @@
 Crisis / situation: Yemen
 
---- Report 1: UNFPA (2026-10-02) ---
-Rapidly escalating hostilities along Yemen’s western coast and the southern Taiz frontlines have continued since early September, resulting in the displacement of more than 145,000 people, with numbers doubling over the past two weeks.
-Displaced women and girls are among the most vulnerable and face serious health and protection risks. UNFPA estimates that approximately 35,000 women of childbearing age and more than 3,200 pregnant women are among those displaced. UNFPA partners have reported several instances of pregnant women giving birth on the roadside while fleeing hostilities, without skilled assistance and amid life-threatening delays in reaching comprehensive emergency obstetric and newborn care.
-The intensifying violence has disrupted reproductive health services in affected governorates. Nine health facilities have reportedly been destroyed or rendered non-functional, while eight have suspended services. The reduced access to antenatal care and safe delivery services is increasing the risks of miscarriage, premature and obstructed labour, and hypertensive complications for pregnant women.
-Repeated displacement is also increasing the exposure of women and girls to gender-based violence. Whilst three UNFPA-supported women and girls’ shelters remain operational, other UNFPA-supported gender-based violence services are being disrupted by intensifying hostilities along the West Coast. Women and girls’ safe spaces in Al Mukha, Hays and Al Khukhah remained closed, and the displacement of over 20 key technical and service-delivery personnel due to ongoing hostilities is further affecting service continuity.
-UNFPA continues to lead the coordination of reproductive health and women’s protection services within the humanitarian response. The UNFPA-led UN Inter-Agency Rapid Response Mechanism remains a first-line humanitarian response, delivering emergency relief to nearly 92,000 individuals as of 28 September.
-However, funding constraints are severely limiting UNFPA’s ability to respond. UNFPA requires US$22.7 million to support its humanitarian response in Yemen through December 2026, yet only 6 per cent of the required funding has been received to date.
+--- Report 1: ETC (2026-10-06) ---
+The World Food Programme (WFP)-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) in April 2015 in response to the conflict in Yemen. This Situation Report provides a monthly update on LTC Telecoms activities.
+Summary Points
+• Escalating hostilities displaced more than 132,000 people and forced the suspension of humanitarian activities at the Al Makha hub in mid-September, further constraining operations amid rising humanitarian needs and deteriorating access conditions.
+• Despite the suspension of activities in Al Makha, LTC Telecoms helped maintain operational continuity for humanitarian responders through remote ICT support, connectivity services and the relocation of telecommunications solutions to support affected locations.
+• From August to September, LTC Telecoms sustained critical communications services for the humanitarian community, supporting security communications for 805 responders and internet connectivity for 245 personnel operating in a complex and rapidly evolving environment.
 
---- Report 2: IOM (2026-10-01) ---
-IOM Yemen DTM continues to record the displacement caused by the escalation in the west coast. On 29 September 2026, IOM Yemen DTM recorded an increase of 18,306 individual IDPs compared to the previous report, making the displacement between 1 August to 29 September reach an approximate of 151,794 individuals (approximately 25,299 households1). This brings the cumulative number recorded to 152,856 individuals (25,476 households) since the escalation began in June 2026.
-The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 83,082 individuals (54%), followed by Lahj Governorate, with 36,348 individuals (24%) and Aden Governorate, with 15,570 individuals (10%). Additional displacement was recorded in Al Hodeidah, with 8,244 individuals (5%)2; Abyan, with 5,568 individuals (4%); Hadramawt, with 2,226 individuals (1%); Ma’rib, with 858 individuals (less than 1%), and Al Maharah, Ad Dali’, and Shabwah, with 552, 282, and 126 individuals, respectively, each accounting for (less than 1%).
-
---- Report 3: UNHCR (2026-10-01) ---
-Highlights
-▪ Around 142,000 people have been newly displaced inside Yemen since 1 August, while almost 3,793 refugees have crossed by sea to Djibouti and some 150 people, including Yemeni refugees, Ethiopian nationals and Somali returnees, have arrived in Somaliland and Puntland. Arrivals to Somalia remain low but are expected to increase from mid-October, when sea conditions improve.
-▪ In Yemen, UNHCR is part of the inter-agency response under the Yemen Humanitarian Needs and Response Plan (HNRP). In light of the recent escalation, UNHCR requires US$ 25 million to support an estimated 231,000 people with protection services, including monitoring, legal assistance and support for people at heightened risk, cash assistance, shelter and core relief items (CRIs).
-▪ In addition, UNHCR requires some US$ 7.4 million to lead and scale up the refugee response in Djibouti and strengthen preparedness for new population movements towards Somalia.
-
---- Report 4: IMC (2026-10-01) ---
-FAST FACTS
-
-180,513 individuals from 27,413 households have been displaced.
-Eighteen of 19 International Medical Corps-supported health facilities are now functional across the west coast, up from 15 in the last two weeks.
-
-OUR FOOTPRINT
-
-Across Yemen, International Medical Corps supports 63 health facilities with an estimated coverage of 3.3 million people across seven governorates: Aden, Al Dhale’e, Al Hodeidah, Ibb, Lahj, Sana’a and Taiz.
-Our lifesaving multi-sectoral assistance prioritizes active conflict zones and high-risk environments. In 2025, we reached more than 400,000 people with integrated humanitarian programming.
-
-OUR RESPONSE
-
-International Medical Corps-supported mobile medical teams provided 271 medical consultations, screened 54 children under 5 and 28 pregnant and lactating women for acute malnutrition, provided immunization services to 31 women and 20 children, and conducted 32 antenatal care consultations.
-We provided 5 metric tons of essential medicines and medical supplies to Al Thawra Hospital, a key referral facility serving cases from the west coast and displaced families in Taiz. This will help sustain critical health services for approximately two months, amid increasing needs and ongoing supply constraints. Continued availability of medicines and medical supplies remains essential to ensuring uninterrupted access to lifesaving care for displaced populations and vulnerable host communities.
+--- Report 2: IOM (2026-10-05) ---
+IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
+From 1 January to 3 October 2026, IOM Yemen DTM tracked 31,844 households (HH) (191,064 Individuals) who experienced displacement at least once.
+Between 27 September and 3 October 2026, IOM Yemen DTM tracked 3633 households (21798 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
+• Taiz-(2838 HHs) – Ash Shamayatayn (1350 HHs), Jabal Habashi (650 HHs), Al Maafer (534 HHs) districts.-Most displacements in the governorate were internal.
+• Lahj-(491 HHs) – Al Madaribah Wa Al Aarah (306 HHs), Tuban (159 HHs), Al Maqatirah (14 HHs) districts.Most displacements in the governorate originated from Taiz and Lahj.
+• Aden-(159 HHs) – Al Burayqah (123 HHs), Dar Sad (31 HHs), Khur Maksar (5 HHs) districts.-Most displacements in the governorate originated from Taiz and Al Hodeidah.
+The majority of people moved from the following governorates and districts: -
+• Taiz- (3269 HHs) – Al Waziyah (1049 HHs), Jabal Habashi (901 HHs), Ash Shamayatayn (801 HHs) districts.
+• Lahj- (182 HHs) – Al Madaribah Wa Al Aarah (181 HHs), Al Had (1 HHs) districts.
+• Al Hodeidah- (135 HHs) – Al Khukhah (81 HHs), Hays (40 HHs), Al Jarrahi (6 HHs) districts.
+IOM identified 842 additional households displaced in earlier reporting periods, based on Kobo submissions received during the current reporting period in the following governorates in Aden (378 HHs), Taiz (295 HHs), Lahj (141 HHs), Al Maharah (13 HHs), Hadramawt (9 HHs), and Ad Dali (6 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
