@@ -1,16 +1,12 @@
 Crisis / situation: Chad
 
---- Report 1: FAO (2026-09-08) ---
-Improving food security and nutrition and women’s empowerment in communities of eastern Chad province of Wadi Fira affected by the Sudan crisis
-Objective
-To protect and strengthen agricultural and pastoral livelihoods, improve the food security and nutrition of vulnerable households, promote the empowerment of women and contribute to social cohesion among refugee, returnee and host communities in the department of Dar-Tama, province of Wadi Fira.
-Activities implemented
-• Distributed a total of 20 125 kg of rainfed seeds, including 4 375 kg of millet, 1 750 kg of cowpea and 14 000 kg of groundnut to 350 farming households (12.5 kg of millet, 5 kg of cowpea and 40 kg of groundnut per household).
-• Distributed an additional 1 050 vegetable seed packages (52.5 kg in total) to the 350 households, including 350 tomato, 350 okra and 350 onion seed packages (one 50-g package of each seed type per household) and tools (one shovel, one daba hoe, one local hoe, one watering can, one rake and one pickaxe).
-• Trained 20 household representatives on gender, nutrition and agricultural techniques, including food groups and hygiene, technical guidelines for vegetable crops, soil fertilization techniques and integrated pest management.
-• Distributed 49 tonnes of cotton seed cake and 40 tonnes of nutritional blocks (140 kg of cotton seed cake and five 20-kg cartons of licking blocks per household) to 350 pastoral households.
-• Organized a livestock vaccination campaign, vaccinating 97 880 animals and deworming an additional 4 763.
-• Rehabilitated three pastoral wells in the canton of Koursigué.
+--- Report 1: WFP (2026-10-06) ---
+KEY HIGHLIGHTS
+• A joint mission to Bol and Bagasola in Lac Province found that displacement, drought, and limited access to productive land continue to drive acute humanitarian needs, underscoring the need for strengthened food assistance and expanded resilience-building activities to support both displaced and host communities.
+• Conducted jointly by WFP and UNHCR in coordination with the National Commission for Refugees and Returnees (CNARR), the vulnerabilitybased targeting assessment was completed and preparations for the transition to vulnerabilitybased assistance are underway, with rollout now expected in October 2026.
+• Under the anticipatory action framework, 29,568 people received cash-based assistance in Lac Province.
+SITUATION OVERVIEW
+• From 10 to 15 August, the Food Security Cluster, the Cash Working Group, and the Ministry of Social Action, Solidarity and Humanitarian Affairs conducted a joint mission to Bol and Bagasola in Lac Province to assess humanitarian needs, response gaps, and market conditions for newly displaced people. The mission confirmed that the humanitarian situation remains critical, with continued population displacement and a high dependence on humanitarian assistance among both displaced and host communities. Stakeholders highlighted the increasing pressure on host households, which are simultaneously coping with the effects of drought and declining incomes. The mission also found that belowaverage rainfall is threatening agricultural production, the main livelihood source for many households, while limited access to productive land remains a major constraint for displaced populations.
 
---- Report 2: UNHCR (2026-09-07) ---
-This dashboard summarizes the views of Sudanese refugees, on the situation and protection risks in Chad. The perceptions of these households, interviewed either at the entry points or at the transit sites, a few days after their arrival in Chad, reflect the trauma of fleeing and the relief of having crossed the border.
+--- Report 2: UNHCR (2026-10-04) ---
+A comparative analysis of border monitoring results from August to September 2026 highlights notable changes in arrival patterns, reasons for travel, and protection risks. Security factors remain predominant, despite their declining share among the stated reasons. The data also show a redistribution of flows among provinces, a diversification of reasons for displacement, and a decrease in reported exposure to violations.

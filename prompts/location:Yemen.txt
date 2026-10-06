@@ -1,13 +1,22 @@
 Crisis / situation: Yemen
 
---- Report 1: ETC (2026-10-06) ---
+--- Report 1: OCHA (2026-10-06) ---
+KEY HIGHLIGHTS
+
+A total of 180,312 people (30,052 households) were displaced between 1 August and 3 October 2026 due to conflict. The Displacement Tracking Matrix (DTM) figures, which also serve as the alert baseline for the Rapid Response Mechanism (RRM), show that 96 per cent of this displacement was recorded from 31 August onwards, following the intensification of hostilities. Ta’iz governorate hosts 56 per cent of the displaced, followed by Lahj (22%), Aden (11%) and Al Hodeidah (3%) governorates.
+New displacement continues. DTM recorded 47,010 newly displaced people (7,835 households) between 21 September and 3 October, including 31,560 people in the week of 27 September – 3 October alone, and RRM continues to receive alerts for approximately 400–700 newly displaced households every day. Around 64 per cent of displaced people remain within their own governorate, while 36 per cent (64,020 people) have crossed into another governorate, mainly from Ta’iz and Al Hodeidah into Lahj and Aden. Fighting near existing displacement sites in Ta’iz is forcing already displaced families to move again.
+Civilian casualties continue to rise, with children among the most affected. According to the UN Human Rights Office (OHCHR), at least 46 civilians have been killed since the start of August, 24 of them children. More than 130 others have been injured, including 84 women and children.
+A total of 120,232 IDPs (17,176 households) have been reached with assistance, equivalent to 57 per cent of displaced households. Multi-purpose cash partners have reached 10,466 households and food security partners have reached 15,697 households, mostly with only the first of three planned cycles.
+Access constraints continue to impede the response. The eastern corridor into Ta’iz City is closed, with blocked roads between Aden and Ta’iz disrupting the main supply route from the Aden warehouses, and telecommunications outages continue to delay verification and cash distributions.
+
+--- Report 2: ETC (2026-10-06) ---
 The World Food Programme (WFP)-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) in April 2015 in response to the conflict in Yemen. This Situation Report provides a monthly update on LTC Telecoms activities.
 Summary Points
 • Escalating hostilities displaced more than 132,000 people and forced the suspension of humanitarian activities at the Al Makha hub in mid-September, further constraining operations amid rising humanitarian needs and deteriorating access conditions.
 • Despite the suspension of activities in Al Makha, LTC Telecoms helped maintain operational continuity for humanitarian responders through remote ICT support, connectivity services and the relocation of telecommunications solutions to support affected locations.
 • From August to September, LTC Telecoms sustained critical communications services for the humanitarian community, supporting security communications for 805 responders and internet connectivity for 245 personnel operating in a complex and rapidly evolving environment.
 
---- Report 2: IOM (2026-10-05) ---
+--- Report 3: IOM (2026-10-05) ---
 IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
 From 1 January to 3 October 2026, IOM Yemen DTM tracked 31,844 households (HH) (191,064 Individuals) who experienced displacement at least once.
 Between 27 September and 3 October 2026, IOM Yemen DTM tracked 3633 households (21798 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
