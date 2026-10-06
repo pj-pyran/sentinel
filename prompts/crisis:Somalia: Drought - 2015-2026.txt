@@ -1,34 +1,25 @@
 Crisis / situation: Somalia: Drought - 2015-2026
 
---- Report 1: WFP (2026-09-29) ---
-671,000 people assisted in August (55% female)
-668 mt food distributed in August
-USD 4.6 million cash transferred in August
-USD 196 million required in the next six months (October 2026 – March 2027)
-KEY HIGHLIGHTS
+--- Report 1: WFP (2026-10-06) ---
+KEY FINDINGS
 
-One-third of Somalia’s population (5.4 million people) is acutely food insecure, including nearly 1.5 million facing emergency-level hunger (IPC4) from October to December 2026.
-Malnutrition remains alarmingly high, with nearly 2 million children projected to suffer acute malnutrition in 2026, including 433,000 children facing severe acute malnutrition and requiring urgent treatment.
-Nearly 40 percent of children under five in Burhakaba are acutely malnourished, and the district faces a risk of famine. During a recent visit, WFP Acting Executive Director Carl Skau witnessed firsthand the scale of humanitarian needs, reinforcing the urgency of sustained nutrition and food assistance.
-Funding shortfalls are sharply reducing WFP’s reach, amid a worsening humanitarian situation driven by drought and raising climate risks. From reaching over 4 million people per month during the 2022–2023 drought response, current resources allow WFP to support less than five percent of people facing emergency levels of hunger from October, with nutrition treatment running out of resources after September.
+The national total food and non-food basket costs US$211, up 6.4 percent year-on-year, and has held above $200 since October 2025. Prices eased 1.3 percent month-on-month, led by sorghum and cowpeas as guharvest supplies reached markets.
+The southern guharvest was the largest since 2018, an estimated 32 percent above average, while the northwest gu/karancrop is estimated 76 percent below average [IPC]. Sorghum prices fell 4 percent on average (Puntland −10.4%) as cereal reached deficit areas [FEWSNET], butremains 30 to 35 percent above last year in Banadir, Hirshabelleand Southwest.
+Terms of trade improved month-on-month but remain well below last year: a goat now buys 96 kg of sorghum, up from 89 kg in August but below 109 kg a year ago (−11%), and a day's wage 7.7 kg against 10.1 kg (−24%). Goat prices rose 5.6 percent, led by Somaliland (+17%), Puntland (+14%, recovering from July/August lows) and Southwest (+12%, where grazing has improved [FEWSNET]); wages were flat, 10.6 percent below last year.
+Diesel eased 2.3 percent to US$1.17 per litrebut remains 19.4 percent higher than a year agoand 26 percent above pre-Middle East crisis levels, keeping transport and water-trucking costs high, with renewed piracy expected to add pressure [FEWSNET]. In Mogadishu, cooking gas cylinders that sold for around US$16 reportedly reached up to US$30 in parts of the city in early September (+88 percent), which traders link to supply shortages.
 
---- Report 2: NRC (2026-09-27) ---
-Highlights
+--- Report 2: OCHA (2026-10-05) ---
+HIGHLIGHTS
 
+Hunger and malnutrition are persisting in Somalia, driven by climatic shocks, conflict, disease outbreaks, displacement and reduced assistance, according to new findings.
+The analysis projects that 5.4 million people will face crisis levels of hunger or worse in October to December, including 1.5 million facing emergency levels of hunger or worse.
+An estimated 1.92 million under-five children will require treatment for acute malnutrition between July 2026 and June 2027, including 433,000 with severe acute malnutrition.
+Humanitarian partners, authorities and local actors are accelerating preparedness measures as forecasts indicate significant flooding in October to December.
+An estimated 3.4 million people could be exposed to flood risks during October to December, especially in Hiraan, Middle Juba and Lower Juba regions.
 
-Somalia shifted towards a compound emergency driven by drought, hunger, conflict, displacement and imminent El-Nino flood risk.
-
-
-PSMN recorded 774,923 displacements between January and 11 September, including 17,800 in August—42% caused by conflict and 36% by drought. Children represented 71% of those displaced and women and children nearly 87%.
-
-
-About 6.5 million people faced acute food insecurity, while 1.9 million children were projected to suffer acute malnutrition, including nearly 500,000 severe cases. The national basket cost USD 213, up 8% annually, while wages fell 28% and livestock prices 16%.
-
-
-Protection risks intensified, including fighting in Baidoa and the eviction of 310 households—1,860 people—from 10 Kismayo sites. Only 26% of specialized protection services remained operational; 54 facilities closed or scaled down and 295 staff were laid off.
-
-
-Only 25% of health requirements were funded, leaving more than 380 facilities operating at reduced capacity. With risk of AWD/cholera outbreak due to Elnino projected.
-
-
-NRC is implementing El Niño Anticipatory Action (AA) and preparedness initiatives through community-led Group Cash Transfers (GCTs), with 41 communities across five districts—Kismayo, Jowhar, Galkacyo, Dhusamareeb and Adado—submitting GCT applications totaling USD 258,000 following community engagement and contingency planning. Proposed actions reflect locally identified priorities, including drainage and flood-channel clearing, reinforcement of flood protection structures, rehabilitation of access routes, protection of communal infrastructure and preparation of evacuation areas, linked to localized early warning and contingency planning.
+--- Report 3: FAO (2026-10-05) ---
+Forecast Highlight:
+• Moderate to locally heavy rainfall is forecast over parts of Somaliland and Hiraan, with significant rainfall also expected over the Ethiopian headwaters of the Shabelle and Juba, sustaining rising river levels.
+• Flood risk remains low this week, with all monitored stations expected to remain below moderate flood-risk levels; however, risk is expected to increase from mid-October as the MJO becomes more favourable for East African rainfall within an already wetter-than-normal Deyr outlook.
+• Central Somalia will receive mostly patchy rainfall, while much of the Juba valley and interior Lower Shabelle will remain largely dry, providing little immediate drought relief.
+• Very high daytime temperatures of 35–40°C will persist across much of the southern and central lowlands, further increasing heat and water stress in dry areas.
