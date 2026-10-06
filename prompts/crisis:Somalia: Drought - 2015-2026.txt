@@ -1,6 +1,21 @@
 Crisis / situation: Somalia: Drought - 2015-2026
 
---- Report 1: WFP (2026-10-06) ---
+--- Report 1: UNHCR (2026-10-06) ---
+Background
+Between 12 and 20 September 2026, drought and insecurity triggered new displacement across Gedo, Lower Juba and Middle Juba. Consecutive failed rainy seasons have further intensified drought conditions, severely limiting access to food, safe water and agricultural livelihoods. Meanwhile, renewed fighting in Baidoa, Bay Region, has compounded existing humanitarian needs. The combined impact of these shocks has further eroded household coping capacities and heightened exposure to protection risks among both displaced and host communities.
+In Lower Juba, Drought displaced more than 230 households, comprising approximately 1,380 individuals, who have sought refuge in Guryosamo village, north of Kismayo. While the host community has welcomed the newly displaced families, its capacity to provide support with timely and adequate assistance, increasing competition over scarce resources, particularly water, food and other essential resources could heighten tensions between displaced households and the host community.
+In Gedo, renewed clashes between the Somali National Army and non-state armed actors in Baidoa in recent weeks have resulted approximately 120 households, comprising an estimated 720 individuals, to Dollow and villages surrounding Luuq, including Yurkud and Bashira. Humanitarian funding cuts have already significantly constrained the delivery of essential services in Dollow and Luuq, limiting the capacity of service providers and host communities to respond to the additional needs of newly displaced families.
+Combined, the two emergencies have displaced approximately 350 households, comprising 2,100 individuals, including approximately 50% children. The displaced population includes six persons with disabilities—two girls, two boys, one woman and one man—and 28 older persons, including 19 women and 9 men. More than 200 school-age children have also experienced disruption to their education and currently lack access to learning opportunities. The displacement has resulted in significant protection, and assistance needs, with children, persons with disabilities and older persons particularly affected by disruptions to essential services, humanitarian assistance and access to education.
+
+--- Report 2: UNHCR (2026-10-06) ---
+Background
+On 28 September 2026, armed clashes were reported in Baidoa following repeated tensions between forces associated with the former Southwest State administration and the Somali National Army over control of the town. Clashes and related security incidents continued through 3 October 2026. Security incidents were reported in Howlwadag, Isha, Afar Irdoodka, Mursal, Luga Baxsi, Bonkay, Towfiq, Xanano 2, Bakin, the Livestock Market, and surrounding areas. The situation disrupted electricity and communication services, limiting civilians’ movement and access to information and essential services.
+The clashes and reported airstrikes resulted in civilian casualties, damage to residential areas, IDP settlements, farmland, public and institutional buildings, and disrupted access to shelter and essential services. Bay Regional Hospital and Bayhaw Hospital reportedly recorded 11 deaths and 86 injuries, including eight deaths reportedly caused by stray bullets near RP Hotel. Southwest University, RP Hotel, two mosques, and three primary and secondary schools also reportedly sustained significant damage. Damage to community structures and shelters has further reduced access to safe and adequate housing, exacerbating the vulnerability of families already affected by displacement and limited access to essential services. Amid fears of continued fighting, approximately 934 households, comprising an estimated 5,604 individuals, reportedly fled their homes and displacement sites in the Wadajir and Berdale neighbourhoods, while others fled to Diinsoor, Qansaxdhere, Burhakaba, Hudur, and Wajid.
+Displaced families sought refuge in Berdale, Isha, and Wadajir villages within Baidoa, indicating that the displacement remained within the town. This marked the second major outbreak of violence in Baidoa in less than two weeks. The recurring clashes disrupted livelihoods and essential services, restricted civilian movement, and increased concerns about further insecurity and displacement. Amid the ongoing uncertainty, some households are reportedly considering relocating to other areas in Bay Region, Banadir and Lower Shabelle.
+PSMN monitoring indicates that the displaced population comprised 2,348 males and 3,256 females. Of the 5,604 displaced individuals, 699 were children, and women and children accounting for approximately 81 percent of those affected. Seven persons with disabilities (two women and five men) were also identified, some of whom required family assistance to reach safer areas. Older persons and other individuals with mobility limitations or other support needs also faced additional challenges during displacement.
+The displacement disrupted children’s access to education. Of the 699 displaced children, 319 were enrolled in school before the clashes and experienced interruptions to their attendance and learning, while 380 were already out of school. Damage to three schools, coupled with continued insecurity, may further constrain children’s safe access to education. The security situation in Baidoa remains fragile, and further clashes could continue to affect civilian safety, freedom of movement, and access to essential services.
+
+--- Report 3: WFP (2026-10-06) ---
 KEY FINDINGS
 
 The national total food and non-food basket costs US$211, up 6.4 percent year-on-year, and has held above $200 since October 2025. Prices eased 1.3 percent month-on-month, led by sorghum and cowpeas as guharvest supplies reached markets.
@@ -8,7 +23,7 @@ The southern guharvest was the largest since 2018, an estimated 32 percent above
 Terms of trade improved month-on-month but remain well below last year: a goat now buys 96 kg of sorghum, up from 89 kg in August but below 109 kg a year ago (−11%), and a day's wage 7.7 kg against 10.1 kg (−24%). Goat prices rose 5.6 percent, led by Somaliland (+17%), Puntland (+14%, recovering from July/August lows) and Southwest (+12%, where grazing has improved [FEWSNET]); wages were flat, 10.6 percent below last year.
 Diesel eased 2.3 percent to US$1.17 per litrebut remains 19.4 percent higher than a year agoand 26 percent above pre-Middle East crisis levels, keeping transport and water-trucking costs high, with renewed piracy expected to add pressure [FEWSNET]. In Mogadishu, cooking gas cylinders that sold for around US$16 reportedly reached up to US$30 in parts of the city in early September (+88 percent), which traders link to supply shortages.
 
---- Report 2: OCHA (2026-10-05) ---
+--- Report 4: OCHA (2026-10-05) ---
 HIGHLIGHTS
 
 Hunger and malnutrition are persisting in Somalia, driven by climatic shocks, conflict, disease outbreaks, displacement and reduced assistance, according to new findings.
@@ -17,7 +32,7 @@ An estimated 1.92 million under-five children will require treatment for acute m
 Humanitarian partners, authorities and local actors are accelerating preparedness measures as forecasts indicate significant flooding in October to December.
 An estimated 3.4 million people could be exposed to flood risks during October to December, especially in Hiraan, Middle Juba and Lower Juba regions.
 
---- Report 3: FAO (2026-10-05) ---
+--- Report 5: FAO (2026-10-05) ---
 Forecast Highlight:
 • Moderate to locally heavy rainfall is forecast over parts of Somaliland and Hiraan, with significant rainfall also expected over the Ethiopian headwaters of the Shabelle and Juba, sustaining rising river levels.
 • Flood risk remains low this week, with all monitored stations expected to remain below moderate flood-risk levels; however, risk is expected to increase from mid-October as the MJO becomes more favourable for East African rainfall within an already wetter-than-normal Deyr outlook.
