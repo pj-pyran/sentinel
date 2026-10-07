@@ -1,11 +1,17 @@
 Crisis / situation: Yemen
 
---- Report 1: UNHCR (2026-10-06) ---
+--- Report 1: UNHCR (2026-10-07) ---
+Yemen: Escalating Protection Risks
+Displacement, access constraints and mounting pressure on internally displaced people, refugees and host communities
+Situation at a glance
+The latest military escalation in Yemen has displaced growing numbers of people at an alarming rate, worsening an already severe humanitarian crisis and intensifying existing protection concerns. Families uprooted from the West Coast, Taiz, Lahj and Marib are fleeing their homes carrying limited belongings while facing insecurity, high transportation costs, and shortages of food, water and medicines. Host communities continue to provide support; however, reduced assistance, increasing pressure on already overstretched services, and competition over limited resources risk weakening social cohesion. Many of the newly displaced families have already experienced multiple waves of displacement, further exhausting their coping capacities, depleting their resources, and increasing their exposure to protection risks. As the conflict and insecurity intensify, displacement patterns are expanding beyond traditional hotspots, with growing movements from Taiz towards Lahj, Aden and Abyan, placing additional pressure on host communities, public services and humanitarian response capacities.
+
+--- Report 2: UNHCR (2026-10-06) ---
 Highlights
 ▪ In Yemen, UNHCR is part of the inter-agency response under the Yemen Humanitarian Needs and Response Plan (HNRP). In light of the recent escalation, UNHCR requires US$ 25 million to support an estimated 231,000 people with protection services, including monitoring, legal assistance and support for people at heightened risk, cash assistance, shelter and core relief items (CRIs). A 115 tonne shipment of essential relief items is en route to Yemen to help meet the immediate needs of around 30,000 people affected by the recent escalation.
 ▪ More than 174,000 people have been newly displaced inside Yemen since 1 August, while 3,986 people have arrived in Eastern Africa, including 3,799 refugees in Obock, Djibouti, and 187 Somali refugees who voluntarily returned from Yemen to Somalia through UNHCR’s Assisted Spontaneous Return programme. Women and children account for 75% of new arrivals. The average family size is 3.8 persons, down from six among displaced families in Yemen, indicating that many individuals have been forced to leave family members behind.
 
---- Report 2: OCHA (2026-10-06) ---
+--- Report 3: OCHA (2026-10-06) ---
 KEY HIGHLIGHTS
 
 A total of 180,312 people (30,052 households) were displaced between 1 August and 3 October 2026 due to conflict. The Displacement Tracking Matrix (DTM) figures, which also serve as the alert baseline for the Rapid Response Mechanism (RRM), show that 96 per cent of this displacement was recorded from 31 August onwards, following the intensification of hostilities. Ta’iz governorate hosts 56 per cent of the displaced, followed by Lahj (22%), Aden (11%) and Al Hodeidah (3%) governorates.
@@ -14,14 +20,14 @@ Civilian casualties continue to rise, with children among the most affected. Acc
 A total of 120,232 IDPs (17,176 households) have been reached with assistance, equivalent to 57 per cent of displaced households. Multi-purpose cash partners have reached 10,466 households and food security partners have reached 15,697 households, mostly with only the first of three planned cycles.
 Access constraints continue to impede the response. The eastern corridor into Ta’iz City is closed, with blocked roads between Aden and Ta’iz disrupting the main supply route from the Aden warehouses, and telecommunications outages continue to delay verification and cash distributions.
 
---- Report 3: ETC (2026-10-06) ---
+--- Report 4: ETC (2026-10-06) ---
 The World Food Programme (WFP)-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) in April 2015 in response to the conflict in Yemen. This Situation Report provides a monthly update on LTC Telecoms activities.
 Summary Points
 • Escalating hostilities displaced more than 132,000 people and forced the suspension of humanitarian activities at the Al Makha hub in mid-September, further constraining operations amid rising humanitarian needs and deteriorating access conditions.
 • Despite the suspension of activities in Al Makha, LTC Telecoms helped maintain operational continuity for humanitarian responders through remote ICT support, connectivity services and the relocation of telecommunications solutions to support affected locations.
 • From August to September, LTC Telecoms sustained critical communications services for the humanitarian community, supporting security communications for 805 responders and internet connectivity for 245 personnel operating in a complex and rapidly evolving environment.
 
---- Report 4: IOM (2026-10-05) ---
+--- Report 5: IOM (2026-10-05) ---
 IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
 From 1 January to 3 October 2026, IOM Yemen DTM tracked 31,844 households (HH) (191,064 Individuals) who experienced displacement at least once.
 Between 27 September and 3 October 2026, IOM Yemen DTM tracked 3633 households (21798 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:

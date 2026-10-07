@@ -1,16 +1,21 @@
 Crisis / situation: Sudan
 
---- Report 1: ETC (2026-10-01) ---
-Summary Points
-• Despite funding shortfalls and operational constraints, LTC Telecoms maintained internet connectivity services for approximately 1,700 users across 70 humanitarian locations, enabling critical communications, coordination, and response activities across Sudan.
-• LTC Telecoms continued expanding telecommunications support in key operational areas, including preparations for new connectivity hubs in Khartoum, Wad Madani, and Darfur to support the gradual return and expansion of humanitarian operations.
-• The Security Communications System (SCS) continued to support safe humanitarian operations through five operational Security Operations Centres (SOCs), while LTC Telecoms progressed preparations for expanded security communications services in Khartoum and Omdurman.
+--- Report 1: DFS (2026-10-07) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
 
---- Report 2: SI (2026-09-30) ---
-This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
+--- Report 2: DFS (2026-10-07) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
 
---- Report 3: SI (2026-09-30) ---
-This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
+--- Report 3: Insecurity Insight (2026-10-07) ---
+Data by Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 30 September 2026 at least 794 incidents of violence against or obstruction of access to health care took place across Sudan:
 
---- Report 4: Protection Cluster (2026-09-30) ---
-The alert was issued following the drone strikes of 25 September 2026, which reportedly affected several civilian locations in El Obeid, including a shelter hosting displaced families, a fuel station, a civilian passenger bus and a residential house. At least two civilians were reportedly killed and around 20 others injured. The incident forms part of a wider escalation across North Kordofan and a recurring pattern of drone attacks affecting civilians, displaced populations and essential civilian infrastructure in and around El Obeid.
+health facilities were damaged 224 times
+221 health workers were killed, 16 kidnapped and 142 arrested
+
+Drone strikes damaging health facilities surged by 88% in the first eight months of 2026, rising from 16 such cases in 2025 to 30 between January and September 2026. Two-thirds of these incidents were attributed to the RSF, with health facilities in Kordofan particularly affected. SAF drone strikes also increasingly damaged health facilities between January and April, mostly in Darfur and Kordofan.
