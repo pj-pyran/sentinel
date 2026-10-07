@@ -1,47 +1,25 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: ETC (2026-10-01) ---
-Summary Points
-• Telecommunications services across Gaza remained severely constrained, with approximately 75 percent of infrastructure damaged or destroyed since October 2023. Ongoing equipment shortages, fuel constraints and access restrictions continued to limit network reliability, maintenance activities and infrastructure recovery efforts.
-• As humanitarian needs remained high and operational constraints persisted, LTC Telecoms enhanced coordination with humanitarian partners, telecommunications operators and key stakeholders to support telecommunications planning, service continuity, and Humanitarian Reset transition arrangements across Gaza.
-• LTC Telecoms strengthened inter-agency security communications across Gaza through UN VHF radio standardization, expansion of agency participation in the shared network, and training for 17 humanitarian personnel, improving interoperability and emergency communications preparedness.
+--- Report 1: Islamic Relief (2026-10-06) ---
+HIGHLIGHTS
 
---- Report 2: UNRWA (2026-10-01) ---
+This is not a ceasefire: One year since the ceasefire was announced, Palestinians continue to face daily violence and forced displacement.
+The humanitarian crisis is enormous: Most of Gaza’s 2.1 million people are displaced and approaching the rainy season in overcrowded sites, without adequate shelter and at risk of flooding and disease, while the Israeli blockade continues to restrict entry of vital supplies (See page 2).
+Israeli annexation in the West Bank is accelerating: The humanitarian situation is deteriorating sharply due to state-backed settler attacks, land grabs, and restrictions on movement (See page 8).
+The Yellow Line: Around two-thirds of Gaza is now inaccessible to Palestinians or subject to severe access restrictions, leaving civilians confined to overcrowded and insecure areas (See page 7).
+
+--- Report 2: OCHA (2026-10-06) ---
 Highlights
-The Gaza Strip
 
-UNRWA started the 2026/2027 school year on 19 September across the Gaza Strip through a combination of in-person and distance learning. A launch event was held in Nuseirat Camp at an UNRWA school that has fully returned to education use, after having been used previously as an emergency shelter. During the first week of the school year, nearly 97,000 students attended UNRWA learning spaces across the Gaza Strip.
-Students also returned to in-person learning at both campuses of the UNRWA Rehabilitation Centre for the Visually Impaired (RCVI), with classes resuming in Deir El Balah on 19 September and in Gaza City on 20 September.
-UNRWA opened two additional carpentry workshops, bringing the total to three facilities operating in Khan Younis, Deir El Balah and Gaza City. Together, the workshops can produce approximately 450 school desks and chairs per week to support the expansion of learning spaces.
-Multiple war-damaged residential buildings collapsed in the Gaza Strip during the reporting period, highlighting the risks faced by families sheltering in unsafe structures. UN Humanitarian Coordinator Ramiz Alakbarov warned that people live in “hundreds of damaged structures assessed as unsafe, for lack of better options”. These include some families sheltering in non-operational UNRWA installations, which are no longer managed by UNRWA, for safety reasons. With winter approaching, risks are expected to increase as rainfall further weakens already compromised structures. UNRWA remains engaged in inter-agency efforts to address the issue and encourage families to relocate to safer shelter options where available.
-Over the reporting period, Israeli authorities issued multiple evacuation orders and shelter-in-place alerts affecting UNRWA installations across the Gaza Strip. Separately, hostilities in the vicinity of UNRWA facilities resulted in injuries to six displaced persons sheltering at UNRWA schools, including four children. One cash-for-work beneficiary supporting UNRWA operations was killed and one UNRWA staff member seriously injured in separate incidents linked to strikes by Israeli forces in their vicinity.
+In Gaza, daily hot meal production and monthly household-level parcel distributions will shrink significantly from October onwards due to funding shortfalls, the Food Security Sector warns.
+Over 13 per cent of Gaza’s population lives in flood-prone displacement sites or unsafe buildings; about 279,000 people are sheltering in 400 flood-prone displacement sites and over 2,300 in unsafe buildings requiring demolition.
+Funding shortfalls and restrictions on the entry of engine oil, spare parts and equipment continue to pose challenges, reducing desalination in southern Gaza and forcing reliance on donkey carts and UN trucks for solid waste collection.
+In the West Bank, demolitions displaced 55 Palestinians, including 32 children, in Jinba on 23 September. In September, homes and other structures in three other Masafer Yatta communities were almost entirely demolished.
+More than 100 Israeli settlers damaged properties in Jalud (Nablus), thwarting an attempt by Israeli forces to bring a Palestinian family back home under a court order; the family remained displaced.
+Settler violence and access restrictions disrupted education in Hebron and Tubas, leading seven children to relocate and two to drop out in Qawawis, while seven children in Khirbet ar Ras al Ahmar remained without access to in-person education.
 
-Key points
-The Gaza Strip
-Fatalities and injuries
-
-Between 7 October 2023 and 20 September 2026, according to the Ministry of Health, as reported by the Health Cluster, 73,914 Palestinians were killed in the Gaza Strip and another 174,952 were injured. This includes 1,394 fatalities and 4,991 injuries between the announcement of a ceasefire agreement on 10 October 2025 and 20 September 2026.
-UNRWA has recorded 394 colleagues killed in the Gaza Strip since the start of the war (311 UNRWA personnel and 83 persons who were supporting UNRWA[2], as of 22 September.
-
-Health crisis
-
-The worsening fuel and engine oil shortage is increasingly disrupting health services across the Gaza Strip. The UN warned that reduced fuel support to hospitals, driven by funding shortfalls and high procurement costs, could affect most hospitals and lead to cuts in primary and secondary healthcare services.
-Over the reporting period, several UNRWA health centres also experienced temporary disruptions due to generator overload, highlighting the growing operational impact of the shortage of fuel, lubricant oil and spare parts on the delivery of healthcare.
-
-Water, sanitation and hygiene (WASH) needs
-
-According to the WASH Cluster’s Light Touch Monitoring Survey, completed in early July 2026, 90 per cent of the population are experiencing frequent, unpredictable disruptions in access to safe, clean, and reliable water for daily drinking, cooking, and hygiene – an increase from 84 per cent the previous month.
-
-Shelter needs
-
-According to the Shelter Cluster’s classification, based on surveys conducted between 14 and 28 June 2026, an estimated 1.98 million people, representing 94 per cent of the population of the Gaza Strip, require shelter and non-food item assistance (NFI). The assessment also suggests that 58 per cent of the population is facing critical or catastrophic shelter needs, meaning severe deficiencies in shelter conditions or lack of access to essential services and NFIs that expose them to serious health, safety, and dignity risks.
-
-Protection needs
-
-According to UN Women, the number of women-headed households in the Gaza Strip has doubled since October 2023, reaching about 86,000 households – or almost one in every four families. This includes widows and women whose husbands are missing, detained, severely injured, or forcibly disappeared, or whose fate simply remains unknown.
-
-Operational implications and humanitarian response
-
-Around 10,500 Palestinian UNRWA personnel continue to provide services and assistance to people in the Gaza Strip. In the occupied West Bank, UNRWA also plays a central role with over 4,000 of the Agency’s Palestinian personnel providing education, health, and other services to Palestine Refugees.
-All UNRWA international staff are prevented from entering the Occupied Palestinian Territory - the Gaza Strip and the occupied West Bank, including East Jerusalem. This follows the implementation of laws passed by the Israeli parliament on 28 October 2024[3] that purport to prohibit UNRWA’s operations in areas that Israel considers its sovereign territory, including occupied East Jerusalem, and seek to bar any contact between Israeli officials and UNRWA. Israeli authorities have not granted the Agency’s international staff visas or permits to enter the Occupied Palestinian Territory, including the Gaza Strip, since the end of January 2025.
-Since March 2025, the Israeli authorities have been blocking UNRWA from directly bringing humanitarian personnel and aid into the Gaza Strip. Despite the huge needs on the ground, UNRWA was therefore unable to distribute the aid it had pre-positioned outside Gaza, which included enough food parcels, flour, and shelter supplies for hundreds of thousands of people.
+Overview
+Briefing the Security Council on 28 September, the Acting Special Coordinator for the Middle East Peace Process, Deputy Special Coordinator, UN Resident Coordinator and Humanitarian Coordinator Ramiz Alakbarov described the situation in the West Bank and the Gaza Strip.
+Dr. Alakbarov said that the Israeli authorities continued to withhold from the Palestinian authorities some US$6 billion in clearance revenues. “The Palestinian Authority is unable to deliver basic services, sustain social protection, or pay full salaries to civil servants and security personnel,” he said.
+In the Gaza Strip, he noted daily airstrikes in densely populated areas. Despite increased supplies of food and sanitary items in recent months, he warned that “the health situation remains critical,” adding that “infectious diseases remain widespread amid overcrowded displacement sites and inadequate water, sanitation and hygiene conditions, while shortages of medical supplies, fuel and the overall humanitarian response are compounded by funding shortfalls.” Dr. Alakbarov said that “restrictions on the entry of critical humanitarian items continue to impede the scale-up of the humanitarian response,” including preparations for the rainy season.
+Regarding the West Bank, he spoke about people being exposed to unprecedented levels of settler violence and to continued demolitions and home evictions. He highlighted concerns that Palestinians in some areas are being encircled, resulting in restrictions on their access to farmland and open space. In particular, he highlighted the recent full depopulation of three Palestinian communities following sustained settler violence and the case of three families in Qusra who “have been effectively confined to their homes without adequate supplies and systematically harassed and intimidated since 9 August amid continued presence of Israeli settlers and Israeli forces.” He acknowledged measures by Israeli officials to prosecute several perpetrators but said the vast majority had not been held accountable.
