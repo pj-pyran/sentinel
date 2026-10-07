@@ -1,28 +1,20 @@
 Crisis / situation: Lebanon
 
---- Report 1: Health Cluster (2026-09-30) ---
-Situation Overview
-Continued insecurity, access restrictions, damage to health infrastructure and limited resources are constraining the health system’s capacity to sustain essential
-services across aected areas. No new attacks on healthcare have been reported through the Surveillance System for Attacks on Health Care (SSA) since 14 September.
-Since 2 March 2026, 215 attacks have been recorded, resulting in 135 deaths and 416 injuries. Continued adherence to International Humanitarian Law is critical to
-safeguarding healthcare workers, facilities, ambulances and patients.
-While most health facilities are maintaining services through permanent or temporary arrangements, insecurity and access constraints continue to delay rehabilitation
-of some conict-aected facilities in South Lebanon and strain referral pathways. Primary Health Care Satellite Unit (PSU) operations and healthcare access, particularly
-in Nabatieh, remain vulnerable to security-related disruptions, requiring ongoing adjustments to service delivery. Funding constraints, transportation barriers, population
-movements, and referral challenges also risk disrupting outreach services and continuity of care, especially for patients requiring specialized maternal health,
-Mental health and psychosocial support (MHPSS), rehabilitation services.
-The dispersal of displaced families across collective shelters and private households continues to complicate outreach, needs identication and coordinated service
-coverage. Inconsistent arrangements for covering the PHC costs of returnees are also creating uncertainty, particularly in southern areas. Clearer guidance is needed on
-eligibility, geographic vulnerability and socioeconomic assessment.
-Population movements and changing demand are further contributing to uneven availability of psychotropic and chronic disease medications. Redistribution of
-psychotropic medicines between PHCCs is ongoing, while increased demand from newly registered patients and returnees is placing additional pressure on chronic
-disease medication supplies, particularly in Nabatieh.
+--- Report 1: Oxfam (2026-10-07) ---
+During July 2026, the protection environment across monitored collective shelters in South Lebanon and the Bekaa remained characterized by protracted displacement, shelter consolidation measures, barriers to safe and dignified return, deteriorating socioeconomic conditions, and persistent gaps in access to essential services. While displacement trends differed between the two regions, monitoring findings indicate that the households remaining displaced increasingly represent some of the most vulnerable caseloads, facing complex and overlapping protection risks linked to insecurity, housing destruction, loss of livelihoods, financial hardship, and inadequate living conditions.
+In South Lebanon, shelter closures emerged as major protection concerns throughout the reporting period. The closure of Lebanese University Faculty of Arts and continued shelter consolidation measures generated significant anxiety among displaced households, many of whom reported having limited accommodation alternatives. Families expressed concerns regarding overcrowding in receiving shelters, unaffordable rental costs, damaged homes in areas of origin, and the risk of repeated displacement.
+In the Bekaa, the majority of displaced households had already returned following the ceasefire, leaving only a residual caseload residing in the remaining active collective shelters.
+However, monitoring findings indicate that the remaining households in both areas face substantial barriers to return, including insecurity, extensive destruction of housing, loss of livelihoods, and the inability to secure alternative accommodation. These households continue to experience heightened protection risks associated with poverty, inadequate shelter and WASH services, healthcare barriers, and increasing reliance on negative coping mechanisms.
+Across both operational areas, protection concerns extended beyond immediate displacement-related needs. Households consistently reported challenges accessing healthcare, food, safe water, and other essential services. Psychosocial distress remained widespread, while accountability concerns, unequal perceptions of assistance distribution, community tensions, and gaps affecting women, children, persons with disabilities, older persons, and female-headed households continued to undermine safety, dignity, well-being, and social cohesion.
+Overall, findings indicate that despite localized improvements and humanitarian interventions, the remaining displaced population continues to face interconnected protection risks requiring sustained protection monitoring, accountability mechanisms, referrals, advocacy, and coordinated multi-sectoral support.
 
---- Report 2: UNHCR (2026-09-29) ---
-2026 Lebanon Response Plan Addendum – September to December 2026
-The LRP 2026 Addendum was developed jointly by the Government, UN and NGOs, to provide a prioritized and evidence-based response to needs emerging from the recent escalation and its aftermath, following the conclusion of the Flash Appeal period. The Addendum complements the 2026 LRP and provides an operational bridge for the remainder of 2026, bringing together priority humanitarian and stabilization interventions for vulnerable people affected by the escalation and were not accounted for in the LRP 2026. For the September–December period, the Addendum seeks US$385.88 million to support approximately 732,000 people, reflecting a focused prioritization of the most critical needs and interventions across sectors. The 2026 LRP Addendum is available here.
+--- Report 2: DFS (2026-10-07) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/lebanon
 
---- Report 3: DFS (2026-09-29) ---
+--- Report 3: DFS (2026-10-07) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
