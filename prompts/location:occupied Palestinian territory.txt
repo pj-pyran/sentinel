@@ -1,11 +1,34 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: DFS (2026-10-07) ---
-Executive Summary
-The Occupied Palestinian Territories face a catastrophic humanitarian crisis marked by severe food insecurity, mass displacement, and the near-collapse of essential services. In Gaza, the majority of the population relies entirely on humanitarian assistance, with widespread destruction of housing, health facilities, water infrastructure, and educational institutions compounding the challenges faced by displaced families. Harsh winter conditions, repeated evacuation orders, and constrained humanitarian access continue to threaten the safety and well-being of civilians, with children, pregnant women, and other vulnerable groups bearing a disproportionate burden.
-In the West Bank, escalating military operations, settler violence, and movement restrictions have driven significant displacement and disrupted access to livelihoods, healthcare, and education. Economic contraction and rising unemployment have eroded household resilience, while demolitions and settlement expansion threaten further territorial fragmentation. Across both territories, humanitarian organizations are working to scale up food assistance, shelter support, health services, and protection programming, yet persistent access barriers, funding shortfalls, and ongoing hostilities continue to outpace the response, leaving Palestinians in urgent need of sustained international support and durable solutions.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the oPt crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/opt
+--- Report 1: Insecurity Insight (2026-10-08) ---
+Data collected by Insecurity Insight shows that between 07 October 2023 and 15 September 2026, at least 3,486 incidents of violence against or obstruction of access to health care took place across the occupied Palestinian territory. 94% of all incidents were attributed to Israeli forces.
+In the West Bank, where 1,020 attacks on health care were recorded, 13 health workers were killed and 198 arrested while ambulances and health workers were prevented from providing vital medical care to people in need over over 600 times.
+Attacks on health care in the West Bank increased between September 2025 and August 2026, rising from an average of around 14 incidents per month during the first six months of the reporting period to around 35 in July. Many incidents involved disruption of health care delivery, including delays or obstruction of ambulances. These incidents occurred alongside checkpoint closures, roadblocks and other movement restrictions, further limiting patients’ ability to reach health facilities.
+View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
+Documented incidents
+16-30 September 2026
+The publicly reported incidents below are not a complete nor a representative list of all incidents that affected the provision of health care between 16-30 September 2026. The incidents below have not been verified through ground investigations. There is a delay in reporting incidents due to our open source verification protocol.
+Gaza
+20 September 2026: In Al Mawasi area, Khan Yunis governorate, Kuwait Specialty Hospital suspended all departments except the emergency department due to the halt of fuel supplies. Source: Quds News Network
+21 September 2026: In Gaza city and governorate, Al-Wafa Hospital for Medical Rehabilitation and Specialised Surgery reduced and temporarily suspended several services due to severe shortages of fuel and maintenance supplies amid the ongoing Israeli blockade. Suspended services included outpatient clinics, surgeries, external physiotherapy, occupational therapy, and speech and swallowing services. The hospital redirected its remaining resources towards inpatients and essential medical services. Source: Quds News Network
+27 September 2026: In Jabalia Refugee Camp, North Gaza governorate, an unspecified number of ambulances were fired upon by Israeli forces. Source: Quds News Network
+28 September 2026: In Beit Lahia city, North Gaza governorate, Kamal Adwan Hospital suspended its operations and evacuated its health workers after Israeli forces advanced around the hospital. Source: Quds News Network
+West Bank
+19 September 2026: In Al-Mughayyir village, Ramallah governorate, an ambulance was prevented from entering the area to transport an emergency case by Israeli forces. Sources: Quds News Network and Quds News Network I
+19 September 2026: Between Al-Mughayyir and Abu Falah villages, Ramallah governorate, an ambulance was attacked and damaged by Israeli settlers while it was on its way to treat injured people. Sources: Quds News Network and WAFA
+20 September 2026: In Tekoa town, Bethlehem governorate, an ambulance was prevented from reaching an injured man after Israeli settlers attacked his vehicle with stones and injured him. Source: WAFA
+20 September 2026: In Al-Masayef neighbourhood, Ramallah city and governorate, H Clinic Specialized Hospital was raided by Israeli forces, who assaulted medical staff, searched the hospital, and arrested an injured person. Sources: Quds News Network, Quds News Network I, WAFA and WAFA I
+20 September 2026: Near Haddad village, Jenin city and governorate, Palestinian Red Crescent health workers were prevented from reaching the site to treat an injured person after Israeli forces fired at a vehicle, killing one person and injuring another. Source: WAFA
+24 September 2026: In Salfit city and governorate, the headquarters of the Palestine Red Crescent Society was stormed by Israeli forces, who searched surveillance cameras and detained an unspecified number of health workers. Sources: Quds News Network and WAFA
+26 September 2026: In Al-Mughayyir village, Ramallah governorate, an ambulance was attacked and damaged by Israeli settlers in the evening. Source: WAFA
+27 September 2026: In Kafr Dan town, Jenin governorate, a pharmacist was arrested by Israeli forces, who raided her relatives' home and tampered with its contents. Source: WAFA
+27 September 2026: In Silwad town, Ramallah governorate, an ambulance vehicle was attacked by Israeli settlers. Source: Quds News Network
+28 September 2026: At the Atara checkpoint, Ramallah governorate, an ambulance was prevented from accessing the checkpoint by Israeli forces. Source: Quds News Network
+28 September 2026: In Qabatiya town, Jenin governorate, an ambulance was prevented from reaching an injured person for several minutes by Israeli forces. Sources: Quds News Network and WAFA
+Past briefs: 01-15 September; 19-31 August; 05-18 August; 22 July-04 August; 08-21 July; 24 June-07 July; 10-23 June; 27 May-09 June; 13-26 May; 29 April-12 May; 15-28 April; 01-14 April; 18-31 March; 04-17 March; All
+SHCC Chapters (EN): 2025; 2024; 2023; 2022; 2021. (AR): 2025; 2024; 2023; 2022; 2021.
+Help support the protection of health care by sharing this resource. Please copy and paste this link: https://bit.ly/16-30Sept2026OPTHealth
+Insecurity Insight. 2026. 16-30 September 2026 Attacks on Health Care in the occupied Palestinian territory. Switzerland: Insecurity Insight. https://bit.ly/16-30Sept2026OPTHealth
 
 --- Report 2: DFS (2026-10-07) ---
 Executive Summary
@@ -21,7 +44,14 @@ In the West Bank, escalating military operations, settler violence, and movement
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the oPt crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/opt
 
---- Report 4: Islamic Relief (2026-10-06) ---
+--- Report 4: DFS (2026-10-07) ---
+Executive Summary
+The Occupied Palestinian Territories face a catastrophic humanitarian crisis marked by severe food insecurity, mass displacement, and the near-collapse of essential services. In Gaza, the majority of the population relies entirely on humanitarian assistance, with widespread destruction of housing, health facilities, water infrastructure, and educational institutions compounding the challenges faced by displaced families. Harsh winter conditions, repeated evacuation orders, and constrained humanitarian access continue to threaten the safety and well-being of civilians, with children, pregnant women, and other vulnerable groups bearing a disproportionate burden.
+In the West Bank, escalating military operations, settler violence, and movement restrictions have driven significant displacement and disrupted access to livelihoods, healthcare, and education. Economic contraction and rising unemployment have eroded household resilience, while demolitions and settlement expansion threaten further territorial fragmentation. Across both territories, humanitarian organizations are working to scale up food assistance, shelter support, health services, and protection programming, yet persistent access barriers, funding shortfalls, and ongoing hostilities continue to outpace the response, leaving Palestinians in urgent need of sustained international support and durable solutions.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the oPt crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/opt
+
+--- Report 5: Islamic Relief (2026-10-06) ---
 HIGHLIGHTS
 
 This is not a ceasefire: One year since the ceasefire was announced, Palestinians continue to face daily violence and forced displacement.
@@ -29,7 +59,7 @@ The humanitarian crisis is enormous: Most of Gaza’s 2.1 million people are dis
 Israeli annexation in the West Bank is accelerating: The humanitarian situation is deteriorating sharply due to state-backed settler attacks, land grabs, and restrictions on movement (See page 8).
 The Yellow Line: Around two-thirds of Gaza is now inaccessible to Palestinians or subject to severe access restrictions, leaving civilians confined to overcrowded and insecure areas (See page 7).
 
---- Report 5: OCHA (2026-10-06) ---
+--- Report 6: OCHA (2026-10-06) ---
 Highlights
 
 In Gaza, daily hot meal production and monthly household-level parcel distributions will shrink significantly from October onwards due to funding shortfalls, the Food Security Sector warns.
