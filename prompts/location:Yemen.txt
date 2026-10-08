@@ -26,16 +26,3 @@ Summary Points
 • Escalating hostilities displaced more than 132,000 people and forced the suspension of humanitarian activities at the Al Makha hub in mid-September, further constraining operations amid rising humanitarian needs and deteriorating access conditions.
 • Despite the suspension of activities in Al Makha, LTC Telecoms helped maintain operational continuity for humanitarian responders through remote ICT support, connectivity services and the relocation of telecommunications solutions to support affected locations.
 • From August to September, LTC Telecoms sustained critical communications services for the humanitarian community, supporting security communications for 805 responders and internet connectivity for 245 personnel operating in a complex and rapidly evolving environment.
-
---- Report 5: IOM (2026-10-05) ---
-IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
-From 1 January to 3 October 2026, IOM Yemen DTM tracked 31,844 households (HH) (191,064 Individuals) who experienced displacement at least once.
-Between 27 September and 3 October 2026, IOM Yemen DTM tracked 3633 households (21798 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
-• Taiz-(2838 HHs) – Ash Shamayatayn (1350 HHs), Jabal Habashi (650 HHs), Al Maafer (534 HHs) districts.-Most displacements in the governorate were internal.
-• Lahj-(491 HHs) – Al Madaribah Wa Al Aarah (306 HHs), Tuban (159 HHs), Al Maqatirah (14 HHs) districts.Most displacements in the governorate originated from Taiz and Lahj.
-• Aden-(159 HHs) – Al Burayqah (123 HHs), Dar Sad (31 HHs), Khur Maksar (5 HHs) districts.-Most displacements in the governorate originated from Taiz and Al Hodeidah.
-The majority of people moved from the following governorates and districts: -
-• Taiz- (3269 HHs) – Al Waziyah (1049 HHs), Jabal Habashi (901 HHs), Ash Shamayatayn (801 HHs) districts.
-• Lahj- (182 HHs) – Al Madaribah Wa Al Aarah (181 HHs), Al Had (1 HHs) districts.
-• Al Hodeidah- (135 HHs) – Al Khukhah (81 HHs), Hays (40 HHs), Al Jarrahi (6 HHs) districts.
-IOM identified 842 additional households displaced in earlier reporting periods, based on Kobo submissions received during the current reporting period in the following governorates in Aden (378 HHs), Taiz (295 HHs), Lahj (141 HHs), Al Maharah (13 HHs), Hadramawt (9 HHs), and Ad Dali (6 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
