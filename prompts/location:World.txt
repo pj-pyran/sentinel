@@ -1,13 +1,20 @@
 Crisis / situation: World
 
---- Report 1: WHO (2026-10-06) ---
+--- Report 1: WHO (2026-10-08) ---
+This Weekly Bulletin focuses on public health emergencies occurring in the WHO African Region. This week’s articles cover:
+
+Diphtheria, Niger
+Yellow fever, Ghana
+Humanitarian situation, Burkina Faso
+
+--- Report 2: WHO (2026-10-06) ---
 This Weekly Bulletin focuses on public health emergencies occurring in the WHO African Region. This week’s articles cover:
 
 Measles in Ethiopia
 Measles in Namibia
 Humanitarian situation in Central African Republic
 
---- Report 2: WHO (2026-10-06) ---
+--- Report 3: WHO (2026-10-06) ---
 This Weekly Bulletin focuses on public health emergencies occurring in the WHO African Region. This week’s articles cover:
 
 Poliomyelitis, The Democratic Republic of the Congo
