@@ -1,6 +1,15 @@
 Crisis / situation: Lebanon
 
---- Report 1: Oxfam (2026-10-07) ---
+--- Report 1: UNHCR (2026-10-09) ---
+1. Opening Remarks
+Dr. Ola Boutros, LRP General Supervisor (MoSA)
+Stephanie Laba, ISCG Co-Chair (UNHCR)
+Kiri Ginnerup, ISCG Co-Chair OIC (UNDP)
+Rana El Khawand, ISCG Co-Chair OIC (OCHA)
+The Inter-Sector Coordination Group (ISCG) Co-Chairs welcomed participants to the October ISCG meeting and noted the shift of the ISCG meetings to an in-person modality, with limited exceptions for colleagues unable to attend in person, including those outside Lebanon and Operational Coordination Group (OCG) Co-Chairs. The shift is intended to facilitate more meaningful discussion and interaction among members. New colleagues were invited to introduce themselves, including Rana El Khawand, representing OCHA as ISCG Co-Chair; Kiri Ginnerup, representing UNDP as ISCG Co-Chair; and Farah Ismail, Protection Sector NGO Co-Coordinator from OXFAM. The ISCG Co-Chairs also presented the action points and the meeting agenda.
+Dr. Ola Boutros acknowledged the considerable workload associated with this year’s two Flash Appeals and the LRP Addendum, as well as partners’ continued efforts to address related operational challenges. She welcomed the presentation of the Consolidation Plan by the Ministry of Education and Higher Education (MEHE) as an important step in moving the process forward. She noted that the Ministry of Social Affairs (MoSA) continues to closely monitor the situation in Tyre in coordination with the Disaster Risk Management (DRM) unit and is working to facilitate cash-for-rent assistance for vulnerable families in the Bekaa. She concluded by encouraging active engagement in the upcoming Lebanon Response Plan (LRP) 2027 Planning and Needs Analysis Workshop on 16 October.
+
+--- Report 2: Oxfam (2026-10-07) ---
 During July 2026, the protection environment across monitored collective shelters in South Lebanon and the Bekaa remained characterized by protracted displacement, shelter consolidation measures, barriers to safe and dignified return, deteriorating socioeconomic conditions, and persistent gaps in access to essential services. While displacement trends differed between the two regions, monitoring findings indicate that the households remaining displaced increasingly represent some of the most vulnerable caseloads, facing complex and overlapping protection risks linked to insecurity, housing destruction, loss of livelihoods, financial hardship, and inadequate living conditions.
 In South Lebanon, shelter closures emerged as major protection concerns throughout the reporting period. The closure of Lebanese University Faculty of Arts and continued shelter consolidation measures generated significant anxiety among displaced households, many of whom reported having limited accommodation alternatives. Families expressed concerns regarding overcrowding in receiving shelters, unaffordable rental costs, damaged homes in areas of origin, and the risk of repeated displacement.
 In the Bekaa, the majority of displaced households had already returned following the ceasefire, leaving only a residual caseload residing in the remaining active collective shelters.
@@ -8,13 +17,13 @@ However, monitoring findings indicate that the remaining households in both area
 Across both operational areas, protection concerns extended beyond immediate displacement-related needs. Households consistently reported challenges accessing healthcare, food, safe water, and other essential services. Psychosocial distress remained widespread, while accountability concerns, unequal perceptions of assistance distribution, community tensions, and gaps affecting women, children, persons with disabilities, older persons, and female-headed households continued to undermine safety, dignity, well-being, and social cohesion.
 Overall, findings indicate that despite localized improvements and humanitarian interventions, the remaining displaced population continues to face interconnected protection risks requiring sustained protection monitoring, accountability mechanisms, referrals, advocacy, and coordinated multi-sectoral support.
 
---- Report 2: DFS (2026-10-07) ---
+--- Report 3: DFS (2026-10-07) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
 SituationHub: https://analysis.gannet.ai/lebanon
 
---- Report 3: DFS (2026-10-07) ---
+--- Report 4: DFS (2026-10-07) ---
 Executive Summary
 This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
 This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
