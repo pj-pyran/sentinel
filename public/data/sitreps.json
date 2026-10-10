@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4233443",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 01 (as of 10 October 2026, 13:15)",
+    "source": "OCHA",
+    "crisis": "Earthquake",
+    "location": "Panama",
+    "scope": "single",
+    "date": "2026-10-10",
+    "content": "<p><strong>KEY POINTS</strong></p>\n<ul>\n<li>On 9 October at 12:56 p.m., a <strong>magnitude 7.2 earthquake</strong> struck 39 km north-west of Tonosí, in the south-central province of Los Santos, at a depth of 4 km, according to the University of Panama’s Institute of Geosciences (IGC-UP). <strong>Aftershocks are ongoing</strong>, with 56 aftershocks recorded up to 8:11 p.m. No deaths or missing people have been reported.</li>\n<li>On 10 October, the Cabinet Council, convened by the President of Panama, declared a state of emergency following the earthquake.</li>\n<li>The National Civil Protection System (SINAPROC) reported <strong>at least 134 damaged homes, 27 people injured and 188 damaged schools</strong> nationwide as of 8:00 p.m.</li>\n<li><strong>Veraguas, Coclé, Los Santos and Herrera provinces</strong> account for most of the damage. In Veraguas, the townships (<em>corregimientos</em>) of Arena, Cacao and Quebro remain <strong>cut off</strong>, with power, water and Internet outages.</li>\n<li>Some <strong>300 people were evacuated</strong> from Isla Cañas (Los Santos) due to rising sea levels, and <strong>eight families</strong> are staying in a shelter set up in Penonomé (Coclé).</li>\n<li>The Ministry of Health (MINSA) reported non-structural damage to 17 health facilities: 6 hospitals, 8 health centres and 3 MINSA-CAPSI (Innovative Primary Health Care Centres). Hospitals in Los Santos, Chiriquí and Herrera provinces and the Panama City metropolitan area were evacuated, and the Hospital del Oriente Chiricano was fully evacuated (209 people).</li>\n<li>The Ministry of Education (MEDUCA) suspended classes nationwide and reported 188 affected schools. Those with infrastructure damage include 22 in the Ngäbe-Buglé Indigenous <em>comarca</em> (a semi-autonomous territory), 15 in Chiriquí, 5 in Panamá Centro, 4 in Los Santos and 3 in Panamá Este. At the Alberto Zúñiga School (Coclé), 15 students suffered minor injuries.</li>\n<li>The National Institute of Aqueducts and Sewers (IDAAN) reported that the Chilibre water treatment plant is operating at full capacity and that supply is gradually recovering.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/panama/panama-earthquake-azuero-veraguas-situation-report-no-01-10-october-2026-1315",
+    "region": "Americas",
+    "subregion": "Central America",
+    "rw_id": "4233443",
+    "file_url": "https://reliefweb.int/attachments/49009d07-23de-4dec-bb9f-94848d61e10d/2026-10-10%20PA%20Earthquake%20Flash%20Update%202%20%28ENG%29%20v2.pdf"
+  },
+  {
     "id": "rw-4233318",
     "provider": "reliefweb",
     "type": "original",
