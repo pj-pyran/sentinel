@@ -1,26 +1,33 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: Plan International (2026-10-02) ---
-A major flash flood entered Nepal through the Bhote Koshi River at approximately 9:00 AM on 26 August 2026, causing significant loss and damage across Rasuwa, Nuwakot and Dhading districts. Timure, Rasuwagadhi and Syabrubesi are among the worst affected areas, with impacts reported on communities, markets, roads, bridges and hydropower infrastructure.
-The cause of the flood remains under investigation, with authorities assessing the possibility of a glacial lake outburst flood (GLOF) or another upstream hydrological event. The Government of Nepal has mobilised security forces for search, rescue and relief operations and issued alerts for communities downstream along the Trishuli River corridor.
+--- Report 1: Govt. Nepal (2026-10-12) ---
+EXECUTIVE SUMMARY
+On 26 August 2026 (10 Bhadra 2083), a severe flash flood travelled through the Lhende Khola–Bhotekoshi–Trishuli–Narayani river system. It was caused by an ice and rock avalanche, rather than monsoon rainfall. A hanging glacier and rocky mass covering approximately 2.0 km2 broke away at an altitude of about 5,200 metres on the northern side of Langtang Lirung in Rasuwa district and struck the Lhende Glacier at 3,800 metres. The resulting avalanche and subsequent flow down the Lhende Khola generated the flood. The impact produced a strong seismic signal of magnitude 5.2, recorded at 08:37.
+Travelling at approximately 188 km/h from its source, the flood covered 20 km within seven to eight minutes and reached the Nepal–China border at Rasuwagadhi at 08:45. It destroyed the hydrological stations at Syafrubesi at 08:50 and Betrawati at 09:20.
 
---- Report 2: WFP (2026-10-01) ---
-KEY HIGHLIGHTS
-• WFP resumed a second round of food assistance in Rasuwa, delivering 14.3 mt of food to 1,367 people, while 0.19 mt of specialized nutritious foods supported 883 students in Nuwakot for emergency school meals.
-• 2,208 households have been supported so far with multi-purpose cash transfers in Dhading, Nuwakot and Rasuwa, with a total target of 38,000.
-• The Logistics and Telecommunications (LTC) Cluster moved 260 mt humanitarian cargo, received, stored and dispatched 359.5 mt of partner relief items through logistics hubs in Kathmandu and Nuwakot.
-Situation Overview
-• Reported fatalities stand at 1,453, with 5,285 people still missing and 13,784 people rescued. The floods have caused extensive damage to settlements, infrastructure and livelihoods.
-• Continued heavy rainfall triggered renewed flooding, landslides and road blockages across affected districts, constraining humanitarian access and delaying relief operations, particularly in Rasuwa where poor road conditions and weather-related disruptions continue to hamper the delivery of assistance.
+--- Report 2: Govt. Nepal (2026-10-12) ---
+Highlights
+• The Government of Nepal has decided to provide immediate cash relief for temporary accommodation and livelihoods to families with completely destroyed and uninhabitable homes across 15 local levels in Rasuwa, Nuwakot, Dhading,
+Tanahun, and Gorkha, with NPR 15,000 per month for families of up to four members and an additional NPR 2,000 per additional member, for up to six months, exclusively for those opting for self-arranged temporary accommodation instead of holding centers.
+• Similarly, if any family opts not to avail of the aforementioned cash relief facility, an alternative option has been provided wherein the government itself will arrange temporary housing until permanent housing is constructed; to collect the necessary details regarding this, forms have already been dispatched to all concerned local levels.
+• The government has completed the preliminary damage and loss assessment, while the Post- Disaster Needs Assessment (PDNA) process is currently underway, based on which necessary resources will be secured to accelerate reconstruction and rehabilitation efforts.
+• A total of 339 patients received treatment across 19 health facilities, of whom 271 have been discharged, 32 remain under treatment, 32 were referred to other hospitals, and 4 individuals passed away during treatment.
+• According to respective districts information, 825 affected persons are currently taking shelter in 9 holding centers in Rasuwa District, 1,613 in 22 holding centers in Nuwakot District, and 94 in 2 holding centers in Dhading District. In total, 2,532 affected persons are currently taking shelter across 33 holding centers.
+• Three Shelter Cluster partner meetings have been successfully conducted, finalizing both the ‘Rehabilitation and Shelter Management Action Plan 2083’ and the Detailed Damage Assessment (DDA) Action Plan.
+• In collaboration with the Department of Urban Development and Building Construction (DUDBC) and partner organizations, various prototype options for 1-room, 2-room, and 3/4-room emergency transitional shelters have been prepared and discussed.
+• For the first time in Nepal following the Bhote Koshi floods, live monitoring of river conditions has been initiated under the leadership of the Center for Hydrology and Water Resources Research (CHWRR) by installing a CCTV camera in Timure, approximately 70 meters above the river level. Its live feed is connected to CHWRR’s 24/7 operated flood forecasting service.
 
---- Report 3: ETC (2026-10-01) ---
-This consolidated Situation Report summarizes the telecommunications impacts of the flash floods that struck Nepal on 26 August 2026 and the resulting response. Following activation of the Logistics &amp; Telecommunications Cluster (LTC) on 02 September, LTC Telecoms supported humanitarian partners through telecommunications coordination, assessments, connectivity services and information management. The report highlights the evolving operational context, telecommunications recovery, response activities and transition to longer-term recovery and preparedness efforts.
-Summary Points
-• One month after the flash floods of 26 August, government-led response efforts under the National Disaster Risk Reduction and Management Authority (NDRRMA) had begun transitioning from life-saving activities towards rehabilitation, early recovery and longer-term support.
-• Telecommunications services were largely restored across the most affected districts through operatorled repairs, temporary microwave backhaul, adjacenttower coverage and backup power solutions. However, sustaining reliable services in remote and difficult-to-access locations remained a challenge.
-• Following activation of the LTC on 02 September, LTC Telecoms supported humanitarian partners through coordination, assessments, shared connectivity services and information management. The LTC Telecoms Coordinator completed a two-week mission from 05 to 18 September before handing over responsibilities to the Inter-Agency IT Operations Officer to support continuity and recovery.
-
---- Report 4: World Vision (2026-10-01) ---
-More than a month after devastating flash floods struck Nepal on 26 August, the humanitarian needs remain significant. 1,453 people have lost their lives, 5,785 remain missing or unaccounted for, and around 84,000 people need humanitarian assistance, including 22,000 children.
-As of 1 October, World Vision International Nepal has reached 35,773 people, including 11,948 children and 822 people with disabilities, with essential food, shelter, water and sanitation, protection, health and nutrition support. The response is also helping restore safe drinking water, support children through Child Friendly Spaces, and enable local institutions to resume essential services.
-World Vision continues to work with government authorities, local partners and humanitarian actors to support affected children and families as they recover and rebuild.
+--- Report 3: Govt. Nepal (2026-10-12) ---
+Highlights
+• Key findings from the ‘Rapid Damage and Needs Assessment (RDNA)’ report prepared by the Rapid Damage and Needs Assessment Team under the National Disaster Risk Reduction and Management Authority (NDRRMA):
+ Total Disaster Effects: Total physical damage and economic loss is estimated at NPR 40,828.91 crore (USD 2,695.33 million).
+ Total Recovery Needs: A total budget of NPR 72,331.52 crore (USD 4,774.99 million) is estimated for sustainable reconstruction and recovery.
+ Sectoral Breakdown of Damage and Recovery Needs:
+ Infrastructure Sector: Total damage and losses stand at NPR 19,004.39 crore (USD 1,254.58 million), with recovery needs estimated at NPR 47,357.19 crore (USD 3,126.30 million) (most severely affected sector in terms of both damage and needs).
+ Productive Sector: Total damage and losses stand at NPR 15,037.42 crore (USD 992.70 million), with recovery needs estimated at NPR 5,077.49 crore (USD 335.19 million).
+ Social Sector: Total damage and losses stand at NPR 6,787.10 crore (USD 448.05 million), with recovery needs estimated at NPR 10,354.99 crore (USD 683.59 million).
+ Cross-Cutting Sector: Recovery needs are estimated at NPR 5,187.34 crore (USD 342.44 million).
+ Most Affected Sub-Sector: The Infrastructure Sector specifically the Hydropower and Energy Sector emerged as the most impacted, incurring NPR 15,104.45 crore (USD 997.13 million) in damage and loss, and requiring NPR 39,062.30 crore (USD 2,578.71 million) for reconstruction.
+• A total of 339 patients received treatment across 19 health facilities, of whom 269 have been discharged, 34 remain under treatment, 32 were referred to other hospitals, and 4 individuals passed away during treatment.
+• According to respective districts information, 839 affected persons are currently taking shelter in 9 holding centers in Rasuwa District, 2,502 in 25 holding centers in Nuwakot District, and 93 in 2 holding centers in Dhading District. In total, 3,434 affected persons are currently taking shelter across 36 holding centers.
+• Nepal Police deployed a medical team from Nepal Police Hospital, Maharajgunj, to Nuwakot and established a Level 1 hospital at the Chamber of Commerce and Industry building in Bidur, Nuwakot. To date, essential health services have been provided to a total of 1,382 flood-affected individuals, comprising 226 patients (117 males, 49 females) treated directly at the Level 1 hospital, 805 individuals reached across various holding centers, and 351 individuals across various holding centers in Rasuwa. [...]
