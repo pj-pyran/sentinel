@@ -3,6 +3,21 @@ Crisis / situation: Panama: Earthquake - Oct 2026
 --- Report 1: UNICEF (2026-10-12) ---
 Highlights
 
+
+The 7.5-magnitude earthquake on 9 October damaged homes, educational facilities, health facilities, and water and transport infrastructure. Damage and needs assessments are ongoing, with significant impacts confirmed in Veraguas, Los Santos and Herrera provinces. No fatalities have been reported.
+
+
+Children’s access to education has been significantly affected, with 419 educational facilities reported damaged nationwide and classes suspended on 12 October while safety inspections continue.
+
+
+UNICEF deployed emergency personnel together with implementing partners to Coclé, Veraguas, Herrera and Los Santos provinces to conduct initial needs assessments. Initial field reports identify needs related to access to safe water, shelter, health and psychosocial support, as well as visible infrastructure damage.
+
+
+UNICEF is supporting the response led by national authorities and coordinating with other United Nations agencies. Work is focused on assessing children’s needs in water, sanitation and hygiene, education, health and protection, and on preparing operational support and emergency supplies based on verified needs.
+
+--- Report 2: UNICEF (2026-10-12) ---
+Highlights
+
 On 9 October 2026, a magnitude 7.5 earthquake struck Panama, causing damage to homes, schools, health facilities, roads, bridges, and water supply infrastructure, particularly in Veraguas, Coclé, Los Santos and Herrera provinces. On 10 October, the government declared a state of emergency following the earthquake.
 According to the National Emergency Operations Centre (COE), 27 people sustained minor injuries, with no fatalities or missing persons reported as of 10 October. The number of affected children and families remains unknown.
 The Ministry of Education (MEDUCA) reported 419 affected educational facilities nationwide, raising concerns about school safety, access to water and sanitation, and continuity of learning.
@@ -10,7 +25,7 @@ The Ministry of Health (MINSA) reported 20 affected health facilities. Evacuatio
 Damage to roads and bridges restricted access to several rural communities. Although water production has reportedly been restored at major treatment facilities, the situation in affected rural areas remains under assessment. Approximately 300 people were preventively evacuated from Isla Caña, while eight families were accommodated in a temporary shelter in Penonomé.
 UNICEF is supporting the Government-led response and assessing priority needs affecting children and families. Initial efforts are focused on WASH, education, health and child protection, including assessing water and sanitation services in affected communities, schools, health facilities and temporary shelters. UNICEF is preparing to provide emergency supplies and support the rapid restoration of essential services, prioritizing isolated and displaced communities as needs are confirmed.
 
---- Report 2: OCHA (2026-10-11) ---
+--- Report 3: OCHA (2026-10-11) ---
 KEY POINTS
 
 The University of Panama’s Institute of Geosciences (IGC-UP) has revised the magnitude of the 9 October earthquake to 7.6. The epicentre was 39 km north-west of Tonosí, at a depth of 4 km. The institute has since recorded more than 200 earthquakes, five of them magnitude 6.0 or above.
@@ -19,7 +34,7 @@ Some 255 people are staying in two shelters in Mariato (Veraguas) and 12 in one 
 Tonosí has no water or electricity. The Pedasí–Tonosí road remains closed and the Ministry of Public Works (MOP) has shut the bridge over the Oria River, so only light vehicles can reach the town, via Macaracas and Llano de Piedra. Six communities in Los Santos and Herrera are still cut off.
 MEDUCA has cancelled classes at all public and private schools on Monday 12 October. SINAPROC has called off the third national emergency drill, and a rain warning is in effect until 1:00 p.m. that day.
 
---- Report 3: OCHA (2026-10-10) ---
+--- Report 4: OCHA (2026-10-10) ---
 KEY POINTS
 
 On 9 October at 12:56 p.m., a magnitude 7.2 earthquake struck 39 km north-west of Tonosí, in the south-central province of Los Santos, at a depth of 4 km, according to the University of Panama’s Institute of Geosciences (IGC-UP). Aftershocks are ongoing, with 56 aftershocks recorded up to 8:11 p.m. No deaths or missing people have been reported.

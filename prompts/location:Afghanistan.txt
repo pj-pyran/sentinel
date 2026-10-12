@@ -1,23 +1,24 @@
 Crisis / situation: Afghanistan
 
---- Report 1: UNAMA (2026-10-01) ---
-KABUL - UNAMA has confirmed that at least 10 civilians were killed, most of them children, and nine people injured in airstrikes carried out in Afghanistan’s Kunar and Helmand provinces earlier today.
-Civilians continue to be affected by cross-border hostilities. Just a week ago, on September 21, UNAMA confirmed the killing of at least three civilians with four others injured in another airstrike in Kunar province.
-So far in 2026, UNAMA has documented over 1,100 civilian deaths and injuries in Afghanistan from cross-border armed violence.
-UNAMA reiterates its call for de-escalation, dialogue, respect for international law and prevention of further civilian harm.
-Read more on civilian casualties and other human rights updates and reports
+--- Report 1: WFP (2026-10-12) ---
+KEY HIGHLIGHTS
+• Rising food prices, weak incomes, and persistent malnutrition continue to leave vulnerable Afghan families struggling to meet their basic needs.
+• Ahead of winter, WFP is prepositioning assistance for 1 million people and expanding nutrition services nationwide temporarily thanks to an influx of commodities.
+• Despite ongoing border closures and regional security tensions, WFP maintained uninterrupted operations by establishing alternative supply corridors to Afghanistan.
 
---- Report 2: WFP (2026-10-01) ---
+--- Report 2: WFP (2026-10-12) ---
 Key Highlights
 Market Overview
-During the 4th week of September, prices show limited week-on-week volatility, although underlying pressures remained evident. The higher cost of imports through longer and alternate routes and the rise in fuel prices continue to increase transportation and supply-chain costs and exert upward pressure on market prices. Meanwhile, rice, wheat flour, cooking oil, sugar and salt prices remained elevated compared with last year, while weak labour availability and subdued purchasing power continued to constrain household food access.
-Food Categories: National average food prices recorded mixed but generally modest movements during the week, although provincial disparities persisted. While several commodities experienced minor price adjustments, the year-on-year comparison highlights a significant increase in rice, wheat flour, cooking oil, sugar, salt and potato prices.
-• Wheat and Wheat Flour: Wheat grain and flour prices recorded negligible weekly fluctuations, however compared to last year, wheat grain and low-price wheat flour remained 14% higher.
-• Rice: Rice prices edged down during the week, with Palawi declining by 0.4% and Sholae by 0.5%. Nevertheless, both varieties continued to register substantial annual increases of 20% and 35%, respectively, and both remained significantly above their three-year average levels.
-• Other Staples: Weekly price movements across cooking oil, sugar, pulses, salt and bread remained limited. Cooking oil, sugar and salt continued to trade above last year's levels, by 13%, 9% and 7%, respectively, whereas pulses and bread remained 12% and 3% below their corresponding annual levels.
-• Vegetables: Potato prices fell by 3.6% during the week, while tomato and onion prices declined only marginally by 1.2% and 0.4%, respectively. Despite the weekly decline, potato remained 30% above last year and 22% above its three-year average. Tomato and onion prices were 31% and 5% lower year-on-year, respectively.
-Non-Food Categories: Terms of Trade (ToT): The ToT, which reflects purchasing power, remained constraint for both labourdependent households and pastoralists, as declining income and higher prices limit their access to food.
-• Unskilled Labour ToT: The nominal casual labour ToT declined slightly to 9.9 kg of low-price wheat flour, representing a 16% decline from last year and 13% decline against the three-year average. The sustained decline in purchasing power reflects continued pressure on labour income relative to food prices.
-• Labour Availability and Wages: Unskilled labour availability remained at 2.0 days per week, 15% below last year and 19% below the three-year average. Consequently, the real unskilled labour ToT shows a 29% decline YoY.
-• Pastoralist ToT: A pastoralist could exchange a one-year-old female sheep for 260 kg of low-price wheat flour, which is 15% below last year and 8% below the three-year average. This indicates continued pressure on the purchasing power of livestock-dependent households.
-• Fertilizers and Agricultural Inputs: DAP and Urea prices recorded marginal weekly changes. Despite minor weekly fluctuations, annual prices remained elevated, with DAP 13% and urea 26% higher than last year. Meanwhile, improved seed and animal feed prices remained broadly stable due to low market demand and standing 7% and 6% below last year, respectively.
+During the 1st week of October, national average prices recorded generally modest week-on-week movements, while several key food commodities remained elevated compared with last year and their longer-term averages. Rice, wheat, cooking oil, sugar and salt prices remained above their corresponding annual levels, while elevated fuel and fertilizer prices continued to add pressure to transportation, production and supply-chain costs. Meanwhile weak labour availability and subdued purchasing power continued to constrain household access to food.
+Food Categories:
+National average food prices recorded limited week-on-week movements, although notable annual and longer-term price disparities persisted across commodities.
+• Wheat and Wheat Flour: Wheat grain prices increased marginally by 0.6% during the week, while high-price wheat flour remained unchanged and low-price wheat flour declined by 0.2%. Compared with last year, wheat grain and low-price wheat flour were both 10% higher, while high-price wheat flour was 6% higher.
+• Rice: Rice prices declined during the week, with Palawi and Sholae falling by 1.9% and 1.7%, respectively. Despite these weekly declines, Palawi remained 17% and Sholae 31% above last year's levels, while both varieties remained substantially above their three-year averages, by 19% and 20%, respectively.
+• Other Staples: Weekly movements in cooking oil, pulses, sugar, salt and bread remained limited. Cooking oil and sugar prices were 12% and 10% higher than last year, while salt was 4% higher. In contrast, pulses and bread remained 12% and 3% below their respective annual levels.
+• Vegetables: Potato prices declined by 4.1% during the week, while onion fell by 3.1% and tomato by 0.2%. Despite the weekly decline, potato remained 25% above last year's level and 23% above its three-year average. In contrast, tomato and onion prices were 55% and 6% lower year-on-year, respectively.
+Non-Food Categories:
+Terms of Trade (ToT): Purchasing power remained constraint for both labour-dependent households and pastoralists, as declining income and higher prices limit their access to food.
+• Unskilled Labour ToT: The nominal unskilled labour ToT stood at 9.9 kg of low-price wheat flour, representing a 13% decline from last year and 12% below the three-year average. The continued deterioration indicates sustained pressure on labour income relative to food prices.
+• Labour Availability and Wages: Unskilled labour availability remained at 2.0 days per week, 14% below last year and 21% below the three-year average. Unskilled labour wages also declined by 5% year-on-year, contributing to a 25% decline in the real unskilled labour ToT compared with last year and 30% below the three-year average.
+• Pastoralist ToT: A pastoralist could exchange a one-year-old female sheep for 260 kg of low-price wheat flour, 12% below last year's level and 7% below the three-year average, indicating continued pressure on the purchasing power of livestock-dependent households.
+• Fertilizers and Agricultural Inputs: DAP prices increased marginally by 0.3% during the week, while urea prices declined by 1.8%. Despite these limited weekly movements, DAP and urea remained 10% and 24% higher than last year, respectively. Improved seed and animal feed prices remained below last year, by 8% and 5%, respectively.
