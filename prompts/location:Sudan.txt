@@ -1,21 +1,14 @@
 Crisis / situation: Sudan
 
---- Report 1: DFS (2026-10-07) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
+--- Report 1: SI (2026-10-14) ---
+This alert report provides basic, initial information in relation to an alert raised by a member of the ECHOfunded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 2: DFS (2026-10-07) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
+--- Report 2: SI (2026-10-14) ---
+This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
 
---- Report 3: Insecurity Insight (2026-10-07) ---
-Data by Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 30 September 2026 at least 794 incidents of violence against or obstruction of access to health care took place across Sudan:
+--- Report 3: UNHCR (2026-10-13) ---
+Key developments
 
-health facilities were damaged 224 times
-221 health workers were killed, 16 kidnapped and 142 arrested
-
-Drone strikes damaging health facilities surged by 88% in the first eight months of 2026, rising from 16 such cases in 2025 to 30 between January and September 2026. Two-thirds of these incidents were attributed to the RSF, with health facilities in Kordofan particularly affected. SAF drone strikes also increasingly damaged health facilities between January and April, mostly in Darfur and Kordofan.
+During September, the operational environment in the conflict affected regions of Sudan was highly complex and volatile, marked by localized ground clashes, intensified military activity, drone strikes, and severe weather conditions that placed increased pressure on forcibly displaced and host communities. In Blue Nile State, an escalation of violence triggered renewed internal displacement, heightened protection risks, and UN personnel had to adopt alternate and remote working modalities in line with common UN security guidance. In parts of Kordofan and the Darfur States, persistent ground fighting, drone attacks, and intercommunal tensions are consistently affecting civilians, humanitarian service delivery and damaging basic civilian infrastructure. Despite growing access and security challenges, UNHCR continues to adapt operational models to sustain critical protection and assistance services.
+Attacks on humanitarian operations and civilians continued to pose severe challenges. On October 3, 2026, an airstrike struck two WFP-contracted aid trucks in South Kordofan, just one day after an explosive device incident occurred in Dilling. The WFP noted that these events significantly hindered the delivery of essential food assistance to vulnerable populations. Further compounding the violence, an attack on a displacement site in Blue Nile State on October 10 resulted in a reported 30 civilian casualties.
+Seasonal strong winds, heavy rainfall, and flooding caused extensive structural damage to shelter, sanitation, and educational facilities in Kassala and Gedaref States. In Northern State, adverse weather in Merowe resulted in localized structural damage and one fatality, while a fire at the Al-Afad internally displaced persons (IDP) gathering site some 100 family shelters.

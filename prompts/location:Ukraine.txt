@@ -1,13 +1,25 @@
 Crisis / situation: Ukraine
 
---- Report 1: World Vision (2026-10-01) ---
-World Vision started working in Ukraine in March 2022 through 6 and now 3 active offices in Ukraine (Kyiv, Dnipro, Mykolaiv), which currently support aid efforts reaching conflict-affected people. While also supported Ukrainian refugees and host communities in Moldova, Romania, and Georgia. WV UCR in Moldova concluded its operations in June 2025 and transitioned to WV Romania registered Moldova Foundation.
-World Vision’s Ukraine Crisis Response and its local partners have reached over 2.4 million people, including more than 1 million children, providing essential support through food, non-food items, cash assistance, protection and education interventions, livelihood, and mental health &amp; psychosocial support programming.
-In 2025, World Vision intentionally incorporated early recovery and economic development into its programming, expanding livelihood opportunities for affected families and creating new jobs. Its microfinance arm, VisionFund, is operating in Ukraine in the field of medium- to long-term recovery and development via financing small and medium-sized businesses for further growth, opportunities to generate income and create new jobs.
+--- Report 1: ACLED (2026-10-14) ---
+Ukraine Conflict Monitor  Update
+Key trends
+Russia intensified its strikes on civilians and critical infrastructure over the past week, with mass casualty incidents reported almost daily. Among the most deadly strikes, attacks in Kharkiv on 5 October, Pryluky on 7 October, and Kramatorsk on 8 October killed six, 22, and at least 32 civilians, respectively. Repeated mass casualty incidents point to a sustained threat to civilians and increase pressure on and danger to emergency responders across the country. Ukraine’s struggle to intercept faster, jet-powered Shahed drones compounds the threat as Russia has started intensifying strikes on civilian infrastructure ahead of winter. Although Russia has deployed fewer jet-powered drones on average per night so far in October than in September, it has increasingly dispersed them in smaller groups across the country, stretching Ukraine’s air defence and contributing to mass casualty incidents in multiple regions.
+In Russia, Ukraine has expanded its strike campaign against Yandex data centers that host services ranging from online searches to transportation, entertainment, cloud services, and AI. A drone strike on 8 October disabled the company’s data center in Sasovo, while a subsequent attack on its largest facility in Kaluga disrupted services. The strikes were likely intended to counter Russia’s attack on Ukrainian data centers, weaken Russia’s technological capabilities, and increase economic pressure on Russia. Yandex was forced to operate its cloud infrastructure in emergency mode, indicating the scale of the damage. The disruption could have long-term consequences, as replacing high-tech hardware and restoring full capacity may take months, if it’s even possible at all.
+Full update
 
---- Report 2: ETC (2026-10-01) ---
-The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency Telecommunications Cluster (ETC) on 03 March 2022 in response to the crisis in Ukraine. This Situation Report provides a monthly update on LTC Telecoms activities.
-Summary Points
-• Despite intensified attacks on civilian, energy and telecommunications infrastructure across Ukraine, communications services remained largely operational due to redundancy measures, backup systems and strengthened national telecommunications resilience mechanisms.
-• LTC Telecoms strengthened security communications across frontline and high-risk areas through maintenance missions in Zaporizhzhia and Dnipropetrovsk regions, deployment of communications systems on armoured vehicles, reprogramming of 55 VHF radios and training for 29 humanitarian personnel.
-• LTC Telecoms strengthened the resilience of critical telecommunications services in eastern Ukraine by providing telecommunications and power equipment to the Broadcasting, Radiocommunications and Television Concern (BRT), helping the partner maintain communications capabilities and continuity of services amid ongoing attacks on telecommunications infrastructure.
+--- Report 2: WFP (2026-10-13) ---
+HIGHLIGHTS
+
+WFP assisted 280,900 people through its emergency response programmes across seven frontline regions of Ukraine in August.
+WFP and FAO are supporting Ukraine’s procurement of grain sleeves to protect harvested crops and expand temporary storage.
+According to the Government of Ukraine, recent attacks have destroyed approximately 90 percent of national retail-chain storage facilities.
+In August, WFP recorded eight security incidents affecting WFP and cooperating partner assets or equipment.
+
+SITUATION OVERVIEW
+• In August, the aerial strike campaign against Ukraine evolved into combining a variety of weapon types in multi-phase attacks extending across day and night periods, disrupting transportation networks, rail operations, and civilian movement.
+• The list of potential targets expanded to border crossings, ports, energy, fuel, transport, metallurgy, and water systems in Ukraine, generating cascading humanitarian and supplychain disruptions and increasing operational constraints beyond the frontline. An increased use of higher speed jet-powered drones additionally reduces warning times and shelter response windows.
+• According to government reporting, recent attacks have destroyed approximately 90 percent of national retail-chain storage facilities. While national food availability remains sufficient, continued degradation of commercial storage and distribution capacity could increase humanitarian food assistance requirements, particularly in frontline areas and major population centres.
+Black Sea:
+• Since late July 2026, Black Sea grain exports have halted due to escalating attacks and war-risk insurance constraints. Rising transport costs and market volatility contributed to a 13 percent increase in global wheat prices since January 2026, with implications for WFP procurement costs.
+• In response, WFP, FAO, and INGO partners are supporting the Government of Ukraine in the procurement of grain sleeves to protect harvested crops and expand temporary storage.
+• WFP is leveraging its rapid procurement, and logistics capacities and has placed an initial order for 1,780 sleeves, expected to arrive in September. With export and storage capacity disrupted, up to 11 million mt of Ukraine’s harvest could remain stranded.

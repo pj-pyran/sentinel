@@ -1,56 +1,27 @@
 Crisis / situation: Myanmar: Floods - Jul 2026
 
---- Report 1: AHA Centre (2026-08-19) ---
-OVERVIEW: Heavy and continuous rainfall since 30 July 2026 triggered flooding in several areas in Myanmar. According to the Department of Disaster Management (DDM) Myanmar, severe weather resulted to flooding and riverbank erosion that caused a breach in the Ngawun River embankment in Laymyethna Township, Ayeyarwady Region, which resulted in flooding of five urban wards, major roads, and 150 surrounding villages. In Kayin State, DDM reported displaced households and a casualty due to overflowing of the Thanlwin River. Forecasts indicate that heavy rainfall may persist in the coming week (DMH).
-IMPACTS: The following impacts have been reported by DDM Myanmar:
+--- Report 1: CGIAR (2026-10-14) ---
+KEY HIGHLIGHTS:
 
-Ayeyarwady Region (as of 18 August 2026 at 1630 HRS UTC+7)
+Rice prices increased substantially in August 2026, with the national average rising by 5.2 percent monthon-month and 14.9 percent year-on-year. Regional price disparities persisted, reflecting differences in production conditions, market access, and transportation costs. The country-wide increase in retail rice prices was reportedly associated with flood-related concerns, supply disruptions, and transportation difficulties.
+Export crop prices showed mixed movements. Maize prices declined month-on-month but remained substantially above year-earlier levels, while black gram and pigeon pea prices also remained elevated year-on-year. Green gram prices declined while chickpea prices increased. Vegetable prices generally increased in August. Chili and onion prices rose sharply, supported by constrained supplies and continued export demand, while garlic prices increased following a seasonal pattern. Potato prices rose more moderately.
+Most animal-sourced food prices remained substantially above year-earlier levels. Chicken, eggs, mutton, beef, and fish prices increased year-on-year, with mutton prices remaining at record highs. In contrast, pig prices declined both month-on-month and year-on-year amid reports of swine disease and weaker pork demand in Yangon. Reports of livestock disease affecting poultry, pigs, and cattle also raised broader animal health concerns.
+The conflict in Iran has led to a partial closure of the Strait of Hormuz — a major transit route for global oil and fertilizer trade — while fighting has also escalated in the Red Sea, another key shipping corridor. Together, these disruptions are raising concerns for Myanmar's agrifood system, which depends heavily on fuel for transportation, irrigation, mechanization, and processing. Fertilizer prices also remain substantially above last year’s levels, possibly reducing the profitability of fertilizer use and leading to lower application rates and agricultural production.
+Flooding intensified during August, particularly in major rice-producing areas of Ayeyarwady and Sagaing. Flooding reportedly inundated approximately 97,000 acres in Ayeyarwady and affected more than 10,000 acres of paddy and other cropland in Sagaing. Meanwhile, strengthening El Niño conditions could bring additional risks from irregular rainfall, higher temperatures, and drought, potentially affecting agricultural production and food supply.
+The outlook for Myanmar food prices will remain influenced by export demand, border trade conditions, input costs, and weather-related risks. Concerns over pulses production in India could support demand for Myanmar’s black gram and pigeon pea, while softer Chinese demand for green gram remains a concern. Changes in Thailand’s maize import arrangements and continued volatility in border trade stations could also affect agricultural market flows and will be important to monitor in the coming months.
 
-Affected townships: Laymyethna, Hinthada, Yekyi, and Kyangin
-63K affected population
-15K displaced households
-1 dead
-45 evacuation centres
-47 affected schools
-66 affected roads
-97 religious buildings
+Permanent link to cite or share this item: https://hdl.handle.net/10568/185625
+Citation: Htar, May Thet; Minten, Bart; and Masias, Ian. 2026. Myanmar Monthly Food Price Report – August 2026. Myanmar Monthly Food Price Report August 2026. Washington, DC: International Food Policy Research Institute. https://hdl.handle.net/10568/185625
 
-
-Kayin State (as of 14 August 2026)
-
-1 dead
-2.4K affected population (538 households)
-
-212 households, (485 males and 520 females) were displaced to the Leytha School Temporary Flood Relief Camp and the Moe Leylon Temporary Flood Relief Camp.
-248 households, (523 males and 598 females) were relocated to Mya Kyi Hmun Temporary Flood Relief Camp, Shwe Yai Myaw Temporary Flood Relief Camp and Temporary Flood Relief Camp.
-
-
-
-
-Data collection and assessments are ongoing.
-
-HAZARDS &amp; ANTIPICATED RISKS:
-
-Heavy Rain Warning: According to DMH Myanmar, as of 07000H UTC+7, due to the strong monsoon winds in the Andaman Sea and the southern Bay of Bengal and the strong development of clusters of rain clouds, strong winds, flash floods and landslides may occur along with heavy rains. There may be scattered showers and thunderstorms in Nay Pyi Taw, Yangon Region, Mandalay Region, Bago Region, Magway Region, Sagaing Region, Ayeyarwady Region, Tanintharyi Region, Kachin State, Kayin State, Chin State, Mon State, Rakhine State and Shan State from this morning to 23 August 2026, while scattered heavy rains may occur in Nay Pyi Taw, Yangon Region, Mandalay Region, Bago Region, Upper Sagaing Region, Ayeyarwady Region, Tanintharyi Region, Kachin State, Kayin State, Mon State, Rakhine State and Shan State for this forecast period.
-
-PREPAREDNESS AND RESPONSE:
-
-DDM Myanmar, together with relevant ministries, technical experts, military personnel, firefighters, civil society organisations (CSOs), and charitable organisations, is working around the clock to repair the breached sections of the embankment and control the flooding.
-Search and rescue operations are also underway, alongside the provision of food, drinking water, and essential healthcare services to affected communities.
-The Government of Myanmar has provided approximately USD 85.2K in assistance to affected communities.
-DMH continues to monitor the prevailing weather systems and provides regular updates and advisories.
-
-The AHA Centre will continue to monitor for further developments and issue necessary updates. The AHA Centre stands ready to support DDM Myanmar should the need arises.
-DATA SOURCES
-ASEAN Disaster Monitoring &amp; Response System (DMRS), ASEAN Disaster Information Network (ADINet); ASEAN Specialised Meteorological Centre (ASMC);
-Myanmar: DDM, DMH;
-Verified news media agencies
-
---- Report 2: IFRC (2026-08-18) ---
+--- Report 2: IFRC (2026-10-12) ---
 Description of the Event
+Crisis Category Supporting Document 
 Date of event
-05-08-2026
+30-09-2026
 What happened, where and when?
-Heavy and continuous monsoon rainfall caused rising water levels and flooding across low-lying and flood-prone areas of Ayeyarwady Region. The situation escalated on 30 July 2026, when an embankment near Myit Kyo Village in Laymyatna Township breached, and floodwaters rapidly entered Laymyatna town and surrounding communities. The flooding has affected residential areas, agricultural land, roads, and public infrastructure, with communities along the Ngawun River being particularly affected. Water levels in the Ngawun River have exceeded the danger level and remain elevated, with further rainfall potentially worsening the situation.
-The Myanmar Red Cross Society (MRCS) Regional Branch started the response with its own resources on 1 August 2026, and the information indicates impacts across 5 wards, 23 village tracts, and 122 villages in Laymyatna Township; 2 wards, 16 village tracts, and 14 villages in Yegyi Township; and 10 village tracts and 33 villages in Hinthada Township. The most significant impacts are in Laymyethna, Yegyi, and Hinthada Townships, among other townships in Ayeyarwady, particularly communities located along the Ngawun River and other low-lying areas. In August 2026, the request was submitted to IFRC by MRCS Headquarters, following six days after the trigger date, as the situation had escalated and required more support from the Headquarters level.
-The same preliminary information estimated that approximately 8,907 households, representing 28,455 people, had been affected and displaced to 28 evacuation camps, including community centres, schools, temporary shelters, and monasteries. The situation remains ongoing, with water levels continuing to pose a risk to additional communities. Rescue and evacuation operations are underway, but access to affected areas is severely constrained by inundated roads, making motorboats the primary means of rescue and emergency transportation. The number of affected people and the overall extent of damage remain provisional and subject to further assessment, particularly as additional rainfall during the monsoon may further expand the impact.
+In late September 2026, a low-pressure system over the North Andaman Sea and Mon-Tanintharyi coastal areas intensified into a depression, resulting in strong monsoon conditions across southern Myanmar. The system brought heavy rainfall, strong winds, flooding and landslides, with significant impacts reported in Tanintharyi Region, particularly in Launglon, Dawei, Thayetchaung and Tanintharyi Townships.
+By 30 September, the system had moved north-northwestwards across Myanmar, bringing additional rainfall to areas already affected by several days of heavy precipitation and increasing the risk of flooding, landslides and damage to houses and infrastructure. On 6 October 2026, the Department of Meteorology and Hydrology (DMH) officially announced the withdrawal of the southwest monsoon from the entire country.
+The hazard is expected to continue affecting low-lying flood-prone communities, riverine areas, coastal settlements and landslide-prone hilly terrain, particularly across southern and western parts of Tanintharyi Region. Launglon Township remains the area of greatest concern due to the severity of flooding and landslide impacts. Given the saturated ground conditions and damaged infrastructure, there remains a risk of additional localized flooding, further slope instability and secondary landslides during the immediate response period.
+The humanitarian impact has increased significantly since the onset of the event. A Rapid Needs Assessment conducted by the Myanmar Red Cross Society (MRCS), in coordination with local authorities, indicates that approximately 49,371 people and 7,629 houses have been affected across four townships: Dawei, Launglon, Thayetchaung and Tanintharyi. An estimated 9,032 people were temporarily displaced and accommodated in 24 evacuation centres. The most severe impacts were reported in Launglon Township, where more than 400 households (approximately 2,560 people) were affected and over 400 houses were destroyed. A total of 25 deaths and 11 injuries were also reported.
+Floods and landslides have damaged roads, bridges, water sources and other critical infrastructure, limiting access to essential services and humanitarian assistance. Rapid assessments conducted by MRCS identified food, emergency shelter, essential household items, water-source rehabilitation, emergency sanitation support and access to healthcare as priority needs. While food and drinking water are currently available in many accessible locations through support from local authorities, community-based organizations and private donors, shortages persist in isolated villages where access remains restricted.
+According to weather forecasts issued by DMH, isolated heavy rainfall was forecast for Tanintharyi Region, with warnings issued for communities living in flood-prone and landslide-risk areas. Although DMH announced the withdrawal of the southwest monsoon from Myanmar on 6 October 2026, the combination of saturated soil conditions, damaged drainage systems and ongoing recovery challenges is expected to maintain an elevated risk of recurrent flooding and landslides throughout the immediate response period.
