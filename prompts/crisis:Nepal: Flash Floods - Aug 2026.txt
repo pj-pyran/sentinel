@@ -1,16 +1,23 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: Govt. Nepal (2026-10-14) ---
+--- Report 1: OCHA (2026-10-14) ---
+HIGHLIGHTS
+
+Recovery planning is accelerating as humanitarian partners and local authorities transition from emergency response towards early recovery.
+Road access to Rasuwa has significantly improved following the opening of the Acrow Bridge at Betrawati, restoring a key humanitarian and logistics corridor.
+A new humanitarian hub in Dhunche will strengthen coordination and support sustained operations in remote and hard-to-reach communities across Rasuwa.
+
+--- Report 2: Govt. Nepal (2026-10-14) ---
 NDRRMA prepared this report using information received from the District Administration Office and the District and National Emergency Operation Centres. It summarises search, rescue and relief operations following the Budhigandaki flood in Gorkha.
 SITUATION OVERVIEW
 At around 5:30 am on 11 October 2026 (25 Asoj 2083), a large landslide occurred between Lokpa and Chumling in Chumnubri Rural Municipality-6, Gorkha district, blocking the Budhigandaki River flowing through the same location. The resulting debris- aden flood caused physical damage. So far, 5 people (2 women and 3 men) from Ungilung, Chumchet, Chumnubri Rural Municipality-6 remain out of contact. To date, a total of 302 people have been rescued (289 by helicopter and 13 by ground), including 19 foreign nationals. Nepal Army helicopters have flown 156 sorties for search, rescue and relief management, with four Nepal Army helicopters in continuous use.
 
---- Report 2: Govt. Nepal (2026-10-13) ---
+--- Report 3: Govt. Nepal (2026-10-13) ---
 This report has been prepared by the National Disaster Risk Reduction and Management Authority (NDRRMA) on the basis of information received from the District Administration Office and the District and National Emergency Operation Centres. It covers the response actions taken in the course of search, rescue and relief management of the situation created by the Budhigandaki flood in Gorkha.
 SITUATION OVERVIEW
 At around 5:30 am on 11 October 2026 (25 Asoj, 2083), a major landslide occurred between Lokpa and Chumling in Chum Nubri Rural Municipality-6, Gorkha district. The landslide blocked the Budhigandaki River, triggering a large flash flash flood carrying debris and causing physical damage. So far, 5 people remain out of contact, comprising 2 women and 3 men from Ungilung, Chumchet, Chum Nubri Rural Municipality-6. The Nepal Army has rescued 95 people, including 9 foreign nationals, from various affected areas using 4 helicopters.
 
---- Report 3: WFP (2026-10-13) ---
+--- Report 4: WFP (2026-10-13) ---
 KEY HIGHLIGHTS
 • Following the 11 October floods, WFP dispatched 100 kg fortified biscuits and government relief items to Gorkha district.
 • During the second round of food assistance, WFP distributed 34.2 mt of food to 955 households (4,107 people), provided 0.52 mt of specialized nutritious foods to 634 students and reached 4,108 households so far with multi-purpose cash transfers in Dhading, Nuwakot and Rasuwa.
@@ -20,12 +27,12 @@ Situation Overview
 • NDRRMA reports that the floods swept away two motorable bridges and two suspension bridges, creating significant access challenges, damaged three hydropower projects and affected more than 550 households. Schools, homes and other critical infrastructure also sustained damage across the affected areas.
 • WFP will participate in a joint UN multi-sector needs assessment to inform the humanitarian response and identify priority needs following the Budhi Gandaki floods.
 
---- Report 4: Govt. Nepal (2026-10-12) ---
+--- Report 5: Govt. Nepal (2026-10-12) ---
 Brief Summary
 A low-pressure system originating over the Bay of Bengal resulted in heavy to very heavy rainfall across various parts of Nepal from 25 to 28 September 2026. The National Disaster Risk Reduction and Management Authority (NDRRMA) and the Center for Hydrology and Water Resources Research (CHWRR) initiated continuous monitoring and analysis of the development, movement, and potential impacts of the weather system from 23 September 2026 . Through the Flood Forecast Bulletin issued on 24 September 2026, advance information was disseminated regarding the potential risks of heavy rainfall, flooding, and landslides.
 On the same day, the Hon. Minister for Energy, Water Resources and Irrigation and the Hon. Minister for Home Affairs visited the Flood Forecasting Information Center and were briefed on the prevailing risk situation. To further strengthen preparedness and early warning measures, from 25 September 2026, the flood forecasting lead time for major rivers was extended from 3 days to 5 days, while the forecasting lead time for flash floods in smaller rivers and streams was increased from 24 hours to 48 hours.
 
---- Report 5: IFRC (2026-10-12) ---
+--- Report 6: IFRC (2026-10-12) ---
 As of 2 October 2026, CHF 13.04 million in confirmed multilateral hard pledges recorded against the CHF 18 million IFRC Secretariat Emergency Appeal (approximately 72% per cent). Continued funding is required to sustain the response and scale up early recovery interventions.
 On 26 August 2026, an ice-and-rock avalanche occurred in the upper Lhende Khola watershed, around 20 km upstream of the Rasuwagadhi border point. The avalanche triggered a debris flow and severe flooding downstream along the Bhotekoshi–Trishuli–Narayani river system. The flooding caused widespread erosion and sediment deposits and damaged settlements, agricultural land, productive assets and critical infrastructure. The most serious humanitarian impacts happened in Rasuwa, Nuwakot and Dhading, although impacts were also reported further downstream along the river corridor.
 The extent of infrastructure damage continues to affect access and recovery efforts. According to the Government-led Rapid Damage and Needs Assessment (RDNA)3, around 69 km of road was damaged, including 55 km classified as completely damaged. The assessment also identified damage to 37 motorable bridges and 68 trail-bridge spans. Of the motorable bridges assessed, 33 were reported washed away. Damage to roads and bridges, as well as electricity, water-supply and communication networks, has disrupted essential services, economic activities and access to affected communities. Access remains difficult in some locations, particularly in Rasuwa, where relief supplies continue to be airlifted to communities that cannot be reached by road because of damaged roads and bridges.
@@ -33,12 +40,12 @@ According to the latest Government statistics4, dated 1 October 2026, 1,453 peop
 According to the Nepal Red Cross Society (NRCS) Situation Report5, displacement has decreased as families continue to leave collective accommodation, but considerable temporary shelter and recovery needs remain. NRCS reported that 1,107 people were staying in 21 holding centres across Rasuwa, Nuwakot and Dhading as of its latest update. In the very beginning, there were around 33 holding centers, which are gradually decreasing, depicting movement of people to alternate places. Thus, the number of people staying in these centres does not represent the full displaced population. Some affected families are staying with relatives or host families, while others have moved to different forms of temporary accommodation. The Government has also announced monthly cash support for displaced families choosing to live outside holding centres, providing NPR 15,000 (CHF 82) per month for households of up to four members and an additional NPR 2,000 (CHF 10.75) for each additional household member, for up to six months or until alternative accommodation is arranged. As displacement becomes more dispersed, continued household-level verification remains important to understand which families can safely return home and which will require temporary accommodation, reconstruction support or possible relocation. IFRC-supported ongoing emergency response efforts have distributed shelter items, including NFI sets, mattresses, blankets, etc., to approximately 9,905 people and the operation plans to prioritize emergencies and transition shelter going forward. The IFRC shelter coordination surge supports coordination among humanitarian partners in affected areas. Collectively, 51 actors have provided shelter and essential household items to around 23,000 people (5,900 households), against 25,709 people initially targeted in holding centres. Most households have since moved to temporary sites. By 2 October, basic services and access had largely been restored, except in some hard-to-reach areas of Rasuwa District.
 More than a month after the disaster, the response is increasingly moving from immediate lifesaving assistance towards restoring essential services, temporary and transitional shelter and early recovery. This transition is already visible through household assessments, temporary site development and work to rehabilitate damaged water-supply systems, while emergency assistance continues in locations where access remains constrained. Humanitarian needs nevertheless remain, particularly among displaced families and communities that are difficult to reach. Unstable slopes, accumulated sediment, obstructed channels, continuing rainfall and the possibility of further flooding exacerbate the challenges for the affected people. Continuing rainfall is also affecting temporary shelter conditions and has already interrupted some shelter works, increasing the importance of adequate weather protection, sanitation, protection services and winterization as seasonal conditions change.
 
---- Report 6: Govt. Nepal (2026-10-12) ---
+--- Report 7: Govt. Nepal (2026-10-12) ---
 EXECUTIVE SUMMARY
 On 26 August 2026 (10 Bhadra 2083), a severe flash flood travelled through the Lhende Khola–Bhotekoshi–Trishuli–Narayani river system. It was caused by an ice and rock avalanche, rather than monsoon rainfall. A hanging glacier and rocky mass covering approximately 2.0 km2 broke away at an altitude of about 5,200 metres on the northern side of Langtang Lirung in Rasuwa district and struck the Lhende Glacier at 3,800 metres. The resulting avalanche and subsequent flow down the Lhende Khola generated the flood. The impact produced a strong seismic signal of magnitude 5.2, recorded at 08:37.
 Travelling at approximately 188 km/h from its source, the flood covered 20 km within seven to eight minutes and reached the Nepal–China border at Rasuwagadhi at 08:45. It destroyed the hydrological stations at Syafrubesi at 08:50 and Betrawati at 09:20.
 
---- Report 7: Govt. Nepal (2026-10-12) ---
+--- Report 8: Govt. Nepal (2026-10-12) ---
 Highlights
 • The Government of Nepal has decided to provide immediate cash relief for temporary accommodation and livelihoods to families with completely destroyed and uninhabitable homes across 15 local levels in Rasuwa, Nuwakot, Dhading,
 Tanahun, and Gorkha, with NPR 15,000 per month for families of up to four members and an additional NPR 2,000 per additional member, for up to six months, exclusively for those opting for self-arranged temporary accommodation instead of holding centers.
@@ -50,7 +57,7 @@ Tanahun, and Gorkha, with NPR 15,000 per month for families of up to four member
 • In collaboration with the Department of Urban Development and Building Construction (DUDBC) and partner organizations, various prototype options for 1-room, 2-room, and 3/4-room emergency transitional shelters have been prepared and discussed.
 • For the first time in Nepal following the Bhote Koshi floods, live monitoring of river conditions has been initiated under the leadership of the Center for Hydrology and Water Resources Research (CHWRR) by installing a CCTV camera in Timure, approximately 70 meters above the river level. Its live feed is connected to CHWRR’s 24/7 operated flood forecasting service.
 
---- Report 8: Govt. Nepal (2026-10-12) ---
+--- Report 9: Govt. Nepal (2026-10-12) ---
 Highlights
 • Key findings from the ‘Rapid Damage and Needs Assessment (RDNA)’ report prepared by the Rapid Damage and Needs Assessment Team under the National Disaster Risk Reduction and Management Authority (NDRRMA):
  Total Disaster Effects: Total physical damage and economic loss is estimated at NPR 40,828.91 crore (USD 2,695.33 million).
