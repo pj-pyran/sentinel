@@ -1,12 +1,15 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-10-12) ---
+--- Report 1: UNHCR (2026-10-14) ---
+This monthly protection update for Afghanistan provides a comprehensive overview of UNHCR’s different protection programs, aiming to prevent, mitigate and respond to protection risks faced by vulnerable populations in the context of the current humanitarian crisis and in the absence of durable solutions. The data and insights presented are derived from an extensive protection analysis, collected through a variety of robust tools and systems. The activities include protection monitoring, household assessments, voluntary repatriation, returns monitoring, specialized support for persons with specific needs, community engagement, complaints and feedback systems, mental health and psychosocial support (MHPSS), child protection, women protection, and civil documentation. This update aims to highlight key achievements, ongoing challenges, and the critical needs of the affected communities, ensuring a transparent and effective protection response.
+
+--- Report 2: WFP (2026-10-12) ---
 KEY HIGHLIGHTS
 • Rising food prices, weak incomes, and persistent malnutrition continue to leave vulnerable Afghan families struggling to meet their basic needs.
 • Ahead of winter, WFP is prepositioning assistance for 1 million people and expanding nutrition services nationwide temporarily thanks to an influx of commodities.
 • Despite ongoing border closures and regional security tensions, WFP maintained uninterrupted operations by establishing alternative supply corridors to Afghanistan.
 
---- Report 2: WFP (2026-10-12) ---
+--- Report 3: WFP (2026-10-12) ---
 Key Highlights
 Market Overview
 During the 1st week of October, national average prices recorded generally modest week-on-week movements, while several key food commodities remained elevated compared with last year and their longer-term averages. Rice, wheat, cooking oil, sugar and salt prices remained above their corresponding annual levels, while elevated fuel and fertilizer prices continued to add pressure to transportation, production and supply-chain costs. Meanwhile weak labour availability and subdued purchasing power continued to constrain household access to food.
