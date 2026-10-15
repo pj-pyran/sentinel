@@ -1,6 +1,21 @@
 Crisis / situation: Panama: Earthquake - Oct 2026
 
---- Report 1: OCHA (2026-10-13) ---
+--- Report 1: OCHA (2026-10-15) ---
+KEY POINTS
+• The 7.5-magnitude earthquake that struck on 9 October affected several provinces across the country, particularly Veraguas, Coclé, Herrera and Los Santos. The first death has been reported of a person who was hospitalised as a result of the earthquake.
+• The earthquake caused extensive damage to homes, educational centres, health facilities and essential drinking water and transportation infrastructure, affecting access to basic services.
+• The Government estimates more than 13,623 affected people. Several communities remain cut off due to the rains and landslides.
+• On 10 October, the Government declared a state of emergency and deployed personnel and equipment to access affected communities by land, air and river.
+• UN agencies are providing complementary support to the authority-led response. On 13 and 14 October, an interagency mission was conducted in Herrera and Los Santos.
+
+--- Report 2: UNHCR (2026-10-14) ---
+Situation
+On 9 October, Panama experienced one of the strongest earthquakes in its history. With a magnitude of 7.5, an epicentre on the Azuero Peninsula, and more than 400 aftershocks recorded to date, the earthquake affected several provinces, causing severe damage to homes and critical infrastructure in communities across Panama's countryside.
+As of 12 October, authorities reported over 3,000 affected homes, damage to more than 650 schools, at least 27 people injured, and hundreds displaced, evacuated, and nearly 600 staying in 14 temporary shelters. Among those affected are refugee families, as well as other vulnerable populations. The full extent of the losses has not yet been quantified, but the Government declared a state of emergency to mobilize up to USD 100 million for response efforts. President Mulino reported that more than 6,000 people have been affected and that the government is implementing recovery measures, including a housing reconstruction programme.
+Heavy rainfall, rising river levels and landslides in affected areas have hindered the delivery of humanitarian assistance and the assessment of the most urgent needs. Several communities remain inaccessible, with no access roads, safe drinking water or electricity.
+UNHCR joined the Government of Panama-led response and has mobilized over 33 metric tons of core relief items (CRIs) to date, including family tents, blankets, mosquito nets, kitchen sets, a rub hall and other essential supplies. The Agency remains in contact with authorities and community leaders, supporting efforts to address the most urgent needs, particularly for the most vulnerable.
+
+--- Report 3: OCHA (2026-10-13) ---
 KEY POINTS
 
 As of 12 October, authorities report some 1,250 affected homes, more than 800 people in shelters and 27 people injured following the magnitude 7.6 earthquake on 9 October. There are no reports of deaths or missing people.
@@ -14,27 +29,3 @@ On 9 October at 12:56 p.m., a magnitude 7.6 earthquake struck Panama, according 
 Impact: According to the Government’s preliminary count as of 12 October, some 1,250 homes are affected, mostly in Los Santos, Veraguas, Coclé and Herrera. Not all of them will need rebuilding, and the Ministry of Housing is assessing which ones need repairs. The earthquake also damaged 16 bridges, churches and public buildings, and affected 29 health facilities and 619 schools. Twenty-seven people are injured, and there are no reports of deaths or missing people.
 Some 478,000 people live in areas that felt very strong shaking or stronger, and around 41,000 live where moderate to heavy damage is expected, according to the Pan American Health Organization/World Health Organization (PAHO/WHO).
 More than 800 people remain in shelters, mostly in Veraguas, Colón and Los Santos. Many others are staying with relatives or friends or sleeping outdoors for fear of aftershocks. In Búcaro, Los Santos, residents have left their homes, many of which were destroyed, and are staying at the entrance to the village. Rain has already disrupted care in tents outside Anita Moreno Hospital, and swollen rivers and landslides are delaying access to some communities.
-
---- Report 2: UNFPA (2026-10-12) ---
-On 9 October 2026, a magnitude 7.6 earthquake struck Panama, prompting the Government to declare a National State of Emergency on 10 October. Preliminary reports indicate that 27 people sustained minor injuries, while at least 820 homes and 29 health facilities have been affected.
-Aftershocks are continuing, with 200 already recorded, posing a risk of further damage to already weakened structures, including health facilities. Health service delivery has been disrupted by damage to several health centres and hospitals. In response, the Ministry of Health has established six field hospitals to help maintain the continuity of essential healthcare services.
-Women and girls face heightened risks due to displacement and barriers to accessing healthcare, water and sanitation, and protection services.
-UNFPA is actively engaged in the United Nations Emergency Response Group and is coordinating with national authorities and government counterparts through the Office of the United Nations Resident Coordinator. These efforts aim to support a coordinated response to the earthquake and ensure that sexual and reproductive health as well as protection needs of women and girls are adequately addressed within the humanitarian response.
-
---- Report 3: UNICEF (2026-10-12) ---
-Highlights
-
-The 7.5-magnitude earthquake on 9 October damaged homes, educational facilities, health facilities, and water and transport infrastructure. Damage and needs assessments are ongoing, with significant impacts confirmed in Veraguas, Los Santos and Herrera provinces. No fatalities have been reported.
-Children’s access to education has been significantly affected, with 419 educational facilities reported damaged nationwide and classes suspended on 12 October while safety inspections continue.
-UNICEF deployed emergency personnel together with implementing partners to Coclé, Veraguas, Herrera and Los Santos provinces to conduct initial needs assessments. Initial field reports identify needs related to access to safe water, shelter, health and psychosocial support, as well as visible infrastructure damage.
-UNICEF is supporting the response led by national authorities and coordinating with other United Nations agencies. Work is focused on assessing children’s needs in water, sanitation and hygiene, education, health and protection, and on preparing operational support and emergency supplies based on verified needs.
-
---- Report 4: UNICEF (2026-10-12) ---
-Highlights
-
-On 9 October 2026, a magnitude 7.5 earthquake struck Panama, causing damage to homes, schools, health facilities, roads, bridges, and water supply infrastructure, particularly in Veraguas, Coclé, Los Santos and Herrera provinces. On 10 October, the government declared a state of emergency following the earthquake.
-According to the National Emergency Operations Centre (COE), 27 people sustained minor injuries, with no fatalities or missing persons reported as of 10 October. The number of affected children and families remains unknown.
-The Ministry of Education (MEDUCA) reported 419 affected educational facilities nationwide, raising concerns about school safety, access to water and sanitation, and continuity of learning.
-The Ministry of Health (MINSA) reported 20 affected health facilities. Evacuations and temporary adjustments to patient care were reported, potentially affecting access to essential health services for children and families.
-Damage to roads and bridges restricted access to several rural communities. Although water production has reportedly been restored at major treatment facilities, the situation in affected rural areas remains under assessment. Approximately 300 people were preventively evacuated from Isla Caña, while eight families were accommodated in a temporary shelter in Penonomé.
-UNICEF is supporting the Government-led response and assessing priority needs affecting children and families. Initial efforts are focused on WASH, education, health and child protection, including assessing water and sanitation services in affected communities, schools, health facilities and temporary shelters. UNICEF is preparing to provide emergency supplies and support the rapid restoration of essential services, prioritizing isolated and displaced communities as needs are confirmed.
