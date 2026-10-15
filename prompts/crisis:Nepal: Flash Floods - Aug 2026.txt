@@ -1,6 +1,10 @@
 Crisis / situation: Nepal: Flash Floods - Aug 2026
 
---- Report 1: Govt. Nepal (2026-10-15) ---
+--- Report 1: Plan International (2026-10-15) ---
+A major flash flood entered Nepal through the Bhote Koshi River at approximately 9:00 AM on 26 August 2026, causing significant loss and damage across Rasuwa, Nuwakot and Dhading districts. Timure, Rasuwagadhi and Syabrubesi are among the worst affected areas, with impacts reported on communities, markets, roads, bridges and hydropower infrastructure.
+The cause of the flood remains under investigation, with authorities assessing the possibility of a glacial lake outburst flood (GLOF) or another upstream hydrological event. The Government of Nepal has mobilised security forces for search, rescue and relief operations and issued alerts for communities downstream along the Trishuli River corridor.
+
+--- Report 2: Govt. Nepal (2026-10-15) ---
 NDRRMA prepared this report using information received from the District Administration Office and the District and National Emergency Operation Centers. It summarizes search, rescue and relief operations following the Budhigandaki flood in Gorkha and Dhading districts.
 SITUATION OVERVIEW (BASED ON TECHNICAL REPORT)
 At approximately 04:20 on 11 October 2026 (25 Asoj 2083), a snow avalanche at about 6,000 m elevation and a major landslide involving glacier ice and debris at approximately 5,500 m occurred in the upper reaches of Ungdilung Khola, Chumnubri Rural Municipality–6, between Chamar Himal and Syerang Himal. The area contains relatively weak rocks of the Tibetan Tethys Himalaya.
@@ -9,24 +13,24 @@ The unusually large volume of debris from Ungdilung Khola appears to have contri
 About one hour before the highest surge, the flow in Syar Khola had stopped. Field observations indicate that water had accumulated for approximately 1.5 km upstream. Smaller surges followed the main surge.
 Compared with typical floods, the flow carried an unusually high proportion of fine soil relative to sand and rocks, giving it the characteristics of a viscous mudflow. This is consistent with the soil-rich layered rocks and debris at the source area. A preliminary estimate by the Department of Mines and Geology indicated that the landslide released energy equivalent to that of a magnitude 3.5 earthquake.
 
---- Report 2: OCHA (2026-10-14) ---
+--- Report 3: OCHA (2026-10-14) ---
 HIGHLIGHTS
 
 Recovery planning is accelerating as humanitarian partners and local authorities transition from emergency response towards early recovery.
 Road access to Rasuwa has significantly improved following the opening of the Acrow Bridge at Betrawati, restoring a key humanitarian and logistics corridor.
 A new humanitarian hub in Dhunche will strengthen coordination and support sustained operations in remote and hard-to-reach communities across Rasuwa.
 
---- Report 3: Govt. Nepal (2026-10-14) ---
+--- Report 4: Govt. Nepal (2026-10-14) ---
 NDRRMA prepared this report using information received from the District Administration Office and the District and National Emergency Operation Centres. It summarises search, rescue and relief operations following the Budhigandaki flood in Gorkha.
 SITUATION OVERVIEW
 At around 5:30 am on 11 October 2026 (25 Asoj 2083), a large landslide occurred between Lokpa and Chumling in Chumnubri Rural Municipality-6, Gorkha district, blocking the Budhigandaki River flowing through the same location. The resulting debris- aden flood caused physical damage. So far, 5 people (2 women and 3 men) from Ungilung, Chumchet, Chumnubri Rural Municipality-6 remain out of contact. To date, a total of 302 people have been rescued (289 by helicopter and 13 by ground), including 19 foreign nationals. Nepal Army helicopters have flown 156 sorties for search, rescue and relief management, with four Nepal Army helicopters in continuous use.
 
---- Report 4: Govt. Nepal (2026-10-13) ---
+--- Report 5: Govt. Nepal (2026-10-13) ---
 This report has been prepared by the National Disaster Risk Reduction and Management Authority (NDRRMA) on the basis of information received from the District Administration Office and the District and National Emergency Operation Centres. It covers the response actions taken in the course of search, rescue and relief management of the situation created by the Budhigandaki flood in Gorkha.
 SITUATION OVERVIEW
 At around 5:30 am on 11 October 2026 (25 Asoj, 2083), a major landslide occurred between Lokpa and Chumling in Chum Nubri Rural Municipality-6, Gorkha district. The landslide blocked the Budhigandaki River, triggering a large flash flash flood carrying debris and causing physical damage. So far, 5 people remain out of contact, comprising 2 women and 3 men from Ungilung, Chumchet, Chum Nubri Rural Municipality-6. The Nepal Army has rescued 95 people, including 9 foreign nationals, from various affected areas using 4 helicopters.
 
---- Report 5: WFP (2026-10-13) ---
+--- Report 6: WFP (2026-10-13) ---
 KEY HIGHLIGHTS
 • Following the 11 October floods, WFP dispatched 100 kg fortified biscuits and government relief items to Gorkha district.
 • During the second round of food assistance, WFP distributed 34.2 mt of food to 955 households (4,107 people), provided 0.52 mt of specialized nutritious foods to 634 students and reached 4,108 households so far with multi-purpose cash transfers in Dhading, Nuwakot and Rasuwa.
