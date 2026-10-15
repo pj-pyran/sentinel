@@ -1,9 +1,14 @@
 Crisis / situation: South Sudan
 
---- Report 1: WFP (2026-10-13) ---
+--- Report 1: UNICEF (2026-10-14) ---
+Highlights
+
+Sustained humanitarian operations in Lankien (Nyirol County) and Buong (Akobo West County) have largely not been possible since January 2026, owing to conflict, displacement, extreme remoteness and severe access constraints. Both counties are classified in IPC Phase 4 (Emergency), with some households facing IPC Phase 5 (Catastrophe) conditions.
+Logistics support from the Logistics Cluster and UNHAS enabled the deployment of response teams and supplies to both locations, overcoming barriers that had limited humanitarian access for much of 2026.
+Nutrition: 9,807 children aged 6–59 months were screened for acute malnutrition; 1,350 children were admitted to treatment for severe acute malnutrition and 2,290 referred for moderate acute malnutrition; 3,640 children received ready-to-use therapeutic food.
+WASH: 12,956 people received critical WASH supplies and were reached with hygiene-promotion messaging, while 1,556 people gained access to safe emergency water supplies meeting the minimum standard of 7.5 litres per person per day.
+Health: 228 outpatient consultations and 296 antenatal care consultations were provided in Buong; 325 women of reproductive age were vaccinated against tetanus and 138 children under 15 against polio.
+
+--- Report 2: WFP (2026-10-13) ---
 KEY MESSAGES
 The average monthly foodbasketcost remained stable at SSP 133,602 per person. Despite overall price stability, Wedwil market recorded sharp increases in several commodities, including a 67 percent week-on-week rise in sukuma wiki prices driven by poor harvests due to drought conditions. In Rubkona, bean prices fell by 25 percent as traders cleared deteriorating old stocks.
-
---- Report 2: WHO (2026-10-12) ---
-Mental health is an essential component of health and well-being, influencing how people think, feel, and function throughout their lives. People affected by conflict and displacement, survivors of gender-based violence, people living with chronic disease such as HIV/TB, persons with epilepsy and other neurological conditions, people with substance use disorders, and people facing food insecurity and chronic poverty are some of the groups at a higher risk of developing mental health disease.
-Mental health conditions contribute to disability, reduced productivity, poor physical health outcomes, and increased demand for health and social services. Drawing on emerging findings from the South Sudan Annual Health Sector Performance Report 2024/25 and the 2025 Health Statistical Abstract, this knowledge product examines the status of mental health services in South Sudan and the implications of limited service availability, workforce capacity, and utilization for health system performance and universal health coverage.
