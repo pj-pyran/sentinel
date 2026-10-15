@@ -1,19 +1,27 @@
 Crisis / situation: Cameroon
 
---- Report 1: OCHA (2026-08-23) ---
-National Humanitarian Forum seeks strategic alignment as Cameroon’s humanitarian transition advances
-The National Humanitarian Forum took place in Yaounde on 26 May 2026, bringing together more than 140 participants from government, national and international NGOs, the United Nations, donors, technical and financial partners, and the media. The forum aimed to foster strategic alignment among humanitarian, development and government actors on the humanitarian situation, the ongoing humanitarian transition, the localization of aid, and financing and accountability issues.
-Opening the forum, the UN Resident Coordinator and Humanitarian Coordinator (RC/HC), Issa Sanogo said collaboration between national and local authorities, humanitarian partners and donors delivered life-saving assistance to one million people in 2025. He noted a persistent gap: only half of the 2.1 million people targeted were reached, leaving 1.1 million people without support. He linked the forum to the Humanitarian Reset, the global reform under which Cameroon is one of eight countries selected by the Inter-Agency Standing Committee (IASC) to shift toward a more localized, nationally led coordination model.
-The Director of Civil Protection (DPC) at the Ministry of Territorial Administration (MINAT), Angele Ndzie Ntsama, welcomed continued partner support and committed the Government to strengthening coordination, consultation and response mechanism. She called for collective reflection on the role of national and local actors, accountability to affected populations, and stronger links between humanitarian action, development and peacebuilding.
-Panel discussions confirmed that Area-Based Coordination (ABC) is now operational in the Far North, North-West and South-West regions at a regional level and in some divisions. Under the Civil Protection Law of 23 December 2024, MINAT/DPC holds legal responsibility for coordinating the humanitarian response. Hundreds of national NGOs are still active in the Far North, North-West and South-West coordination platforms, and the Lake Chad Basin Nexus Facility Fund, which reserves 30 per cent of its financing for local actors, has already supported two consortia in Cameroon and Chad.
-Recommendations from the forum called for international financing and government contributions to be presented jointly for a transparent view of resources, for responsibilities to transfer together with corresponding human, logistical and budgetary means, and for a dedicated donor meeting to align financing mechanisms behind the transition.
-Closing the forum, the RC/HC reiterated that the transition is not a disengagement but an accompanied, responsible transfer of responsibility, and reaffirmed the commitment of the United Nations and humanitarian partners to mobilize funding so that no vulnerable community is left without support. The Directorate of Civil Protection reaffirmed the Government’s commitment to strengthened national coordination and accountability.
+--- Report 1: UNHCR (2026-10-15) ---
+Overview, current situation and key developments
+The cholera outbreak in Minawao Refugee Camp remains active, although the number of new cases has
+declined from the peak recorded at the end of August. As of 11 October, 459 cumulative cases had been
+reported, of which 454 patients had recovered and one patient remained under observation, and four deaths
+had been recorded.
+• The response is showing encouraging signs of containment, with very few new cases reported. One
+new case was recorded on 5 October. The decline follows intensified measures, including the camp-
+wide oral cholera vaccination campaign, closure of contaminated open wells, disinfection of households
+and public facilities, contact tracing and community sensitisation
 
---- Report 2: IFRC (2026-08-21) ---
-Date of event 05-08-2026
-What happened, where and when?
-In the early hours of Wednesday, August 5, 2026, after more than a month of continuous rains, torrential downpours fell on the coastal city of Limbe, in the department of Fako, South-West region of Cameroon. At around 6:30 a.m., the waterlogged hillside overlooking the Mbende and Gardens neighborhoods gave way. The landslide swept away an inhabited house, burying its four sleeping occupants. Three adult women died, including a pregnant woman who lost her unborn child. The fourth occupant, an adult male, was pulled alive from the rubble by Cameroon Red Cross volunteers and community members. He is currently hospitalized in intensive care at the regional hospital of Limbe. The lives of many people are threatened and the search continues.
-These same rains saturated the drainage systems of Limbe and Jenguele. Runoff from the Mount Cameroon massif carried mud, rocks, vegetation and solid waste accumulated in the residential plain, flooding Down Beach, Church Street, Motowoh, Mawoh, Mabeta New Layout, Cité SIC, Isokolo, Manga Williams Avenue, Bonjo and the Mile 1, 2 and 4 districts. The fence of the Limbé Wildlife Centre has been breached. Water entered the offices of the Bank of Central African States (BEAC), an unprecedented event in the city's institutional memory. Roads have become impassable for pedestrians and vehicles. Cassava fields and markets have been flooded, with significant losses of goods.
-As of August 8, 2026, several neighborhoods remain under water. More than 1,500 households, or about 12,000 people, are affected, and nearly 2,000 people (250 households) whose homes were completely flooded are now homeless and in an emergency situation. The fairly large number of people with special needs remains very worrying, with nearly 700 people concerned.
-Stagnant water, contaminated with faeces, accumulates in low-lying and densely populated neighbourhoods, where shallow wells are the main source of drinking water, in a region which has repeatedly been the epicenter of national cholera outbreaks.
-The Fako Departmental Committee in Limbe, in collaboration with the prefect of Fako, the mayor and the security forces, continues to assess the situation as it evolves. The departmental committee, which does not have a contingency stock, is almost powerless in the face of the situation, which continues to grow. If nothing is done in the coming days, the humanitarian situation in the city of Limbe could spiral out of control.
+--- Report 2: UNHCR (2026-10-15) ---
+Cameroon’s Eastern Façade, covering the East,
+Adamawa and North regions, hosts most of the country’s Central African Republic refugees, many displaced for more than a decade.
+More than 80% live in host communities. Funding cuts and pressure on services are deepening vulnerabilities. At the same time, 87.3% of refugees say they wish to remain in Cameroon, making inclusion, access to national services and self-reliance urgent priorities.
+UNHCR is shifting from emergency assistance to durable solutions, prioritising refugee inclusion in national systems, local development and self-reliance.
+Peaceful coexistence largely prevails despite mounting pressure on basic services and a decline in humanitarian funding
+
+--- Report 3: UNHCR (2026-10-15) ---
+Cameroon has strong policies for refugee inclusion in education, but funding gaps are keeping children out of class. Less than one in four refugee children are enrolled; more than 152,000 remain out of school; and secondary education is almost out of reach in key refugee-hosting areas.
+Predictable donor financing is urgently needed to turn policy commitments into safe classrooms, trained teachers and real learning opportunities — especially for girls, children with disabilities and adolescents at risk of being left behind
+
+--- Report 4: UNHCR (2026-10-15) ---
+UNHCR Cameroon is supporting a gradual shift from direct health service delivery towards sustainable refugee inclusion in national health systems. This approach strengthens Government ownership, expands refugees’ access to public services and aligns with the Global Compact on Refugees, Cameroon’s National Health Sector Strategy 2016–2027, and the UN Sustainable Development Cooperation Framework.
+As national systems are increasingly taking the lead, targeted support remains critical to keep essential services for refugees with chronic and infectious diseases, pregnant women, malnourished children, referral patients and communities affected by public health emergencies.
