@@ -1,25 +1,26 @@
 Crisis / situation: Ukraine
 
---- Report 1: ACLED (2026-10-14) ---
+--- Report 1: WFP (2026-10-15) ---
+HIGHLIGHTS
+
+WFP assisted an estimated 531,900 people across its activities in Ukraine in September, including 356,500 people provided with emergency food and cash assistance in frontline areas.
+September saw a record-high number of high-speed jet powered drone attacks, dramatically reducing shelter warning and air defence reaction times.
+Russian forces conducted a massive, combined attack targeting Ukrainian energy infrastructure on 30 September.
+Two WFP-supported schools were hit in attacks in late September in Sumy and Odesa regions, with no casualties reported.
+
+SITUATION OVERVIEW
+Security Situation:
+• September saw an intensification of attacks targeting energy infrastructure across Ukraine, as well as an unprecedented increase in the intensity of attacks targeting Kyiv city.
+• This includes a record-high number of high-speed jet powered drone attacks, which has dramatically reduced shelter warning and air defence reaction times.
+• At least three schools were hit in September, including two supported by WFP’s school meals programme in Sumy and Odesa regions.
+• These attacks add itself to a pattern that increasingly targets civilian infrastructure, including medical centres, cultural and educational facilities, and humanitarian assets, including those of WFP.
+• Kyiv city and its infrastructure is increasingly being targeted. September saw 193 air alarms, a 60 percent increase from August, with the city remaining under air raid alerts 34 percent of the time. WFP Staff Safety &amp; Security:
+• The deteriorating security situation is posing increasing risks to WFP staff across Ukraine.
+• In Kyiv, attacks are now regularly impacting areas previously considered to be relatively safer, including the zone of central Kyiv where the WFP country office is located
+
+--- Report 2: ACLED (2026-10-14) ---
 Ukraine Conflict Monitor  Update
 Key trends
 Russia intensified its strikes on civilians and critical infrastructure over the past week, with mass casualty incidents reported almost daily. Among the most deadly strikes, attacks in Kharkiv on 5 October, Pryluky on 7 October, and Kramatorsk on 8 October killed six, 22, and at least 32 civilians, respectively. Repeated mass casualty incidents point to a sustained threat to civilians and increase pressure on and danger to emergency responders across the country. Ukraine’s struggle to intercept faster, jet-powered Shahed drones compounds the threat as Russia has started intensifying strikes on civilian infrastructure ahead of winter. Although Russia has deployed fewer jet-powered drones on average per night so far in October than in September, it has increasingly dispersed them in smaller groups across the country, stretching Ukraine’s air defence and contributing to mass casualty incidents in multiple regions.
 In Russia, Ukraine has expanded its strike campaign against Yandex data centers that host services ranging from online searches to transportation, entertainment, cloud services, and AI. A drone strike on 8 October disabled the company’s data center in Sasovo, while a subsequent attack on its largest facility in Kaluga disrupted services. The strikes were likely intended to counter Russia’s attack on Ukrainian data centers, weaken Russia’s technological capabilities, and increase economic pressure on Russia. Yandex was forced to operate its cloud infrastructure in emergency mode, indicating the scale of the damage. The disruption could have long-term consequences, as replacing high-tech hardware and restoring full capacity may take months, if it’s even possible at all.
 Full update
-
---- Report 2: WFP (2026-10-13) ---
-HIGHLIGHTS
-
-WFP assisted 280,900 people through its emergency response programmes across seven frontline regions of Ukraine in August.
-WFP and FAO are supporting Ukraine’s procurement of grain sleeves to protect harvested crops and expand temporary storage.
-According to the Government of Ukraine, recent attacks have destroyed approximately 90 percent of national retail-chain storage facilities.
-In August, WFP recorded eight security incidents affecting WFP and cooperating partner assets or equipment.
-
-SITUATION OVERVIEW
-• In August, the aerial strike campaign against Ukraine evolved into combining a variety of weapon types in multi-phase attacks extending across day and night periods, disrupting transportation networks, rail operations, and civilian movement.
-• The list of potential targets expanded to border crossings, ports, energy, fuel, transport, metallurgy, and water systems in Ukraine, generating cascading humanitarian and supplychain disruptions and increasing operational constraints beyond the frontline. An increased use of higher speed jet-powered drones additionally reduces warning times and shelter response windows.
-• According to government reporting, recent attacks have destroyed approximately 90 percent of national retail-chain storage facilities. While national food availability remains sufficient, continued degradation of commercial storage and distribution capacity could increase humanitarian food assistance requirements, particularly in frontline areas and major population centres.
-Black Sea:
-• Since late July 2026, Black Sea grain exports have halted due to escalating attacks and war-risk insurance constraints. Rising transport costs and market volatility contributed to a 13 percent increase in global wheat prices since January 2026, with implications for WFP procurement costs.
-• In response, WFP, FAO, and INGO partners are supporting the Government of Ukraine in the procurement of grain sleeves to protect harvested crops and expand temporary storage.
-• WFP is leveraging its rapid procurement, and logistics capacities and has placed an initial order for 1,780 sleeves, expected to arrive in September. With export and storage capacity disrupted, up to 11 million mt of Ukraine’s harvest could remain stranded.
