@@ -1,6 +1,15 @@
 Crisis / situation: Panama: Earthquake - Oct 2026
 
---- Report 1: UNICEF (2026-10-16) ---
+--- Report 1: OCHA (2026-10-16) ---
+KEY POINTS
+
+Following the magnitude 7.5 earthquake on 9 October, the National Civil Protection System (SINAPROC) reports 13,623 people affected, from 4,045 families. As of 16 October, it had assessed 5,807 homes, where 20,581 people live. Some 3,696 people remain in 46 shelters, mostly in Mariato (Veraguas), and many other families are staying with relatives or sleeping outdoors.
+The Government has assisted 15,139 people from 4,485 families. Crews have started building the first homes in Las Tablas, Soná and Penonomé, and the Government will rebuild Tonosí Hospital and five health centres.
+Classes remain suspended at public schools while the Ministry of Education (MEDUCA) inspects the 619 affected schools. Of these, 35 collapsed, affecting 3,031 students.
+The bridge over the Oria River has reopened, but rain and landslides still limit access to some communities, and the sites housing displaced families still have gaps in water, sanitation and protection.
+UN agencies and their partners have mobilized shelter items, mobile storage units and assistance with health, water and protection, among other areas, to back the Government-led response.
+
+--- Report 2: UNICEF (2026-10-16) ---
 Highlights
 
 According to the Ministry of Education (MEDUCA), 619 schools are affected, including 35 with severe damage. The government continues to assess the state of schools in the affected areas to determine conditions for safe reopening. UNICEF has offered its support to the Ministry of Education and coordinates with MEDUCA's Regional Directorates to support the response and implementation of emergency learning spaces.
@@ -8,17 +17,10 @@ According to assessments conducted on October 12 and 13, persistent gaps in wate
 UNICEF contributes to the government-led response, in coordination with UN agencies, funds and programmes, deploying efforts with donors and implementing partners to reach the most affected communities with psychosocial support, water, sanitation, health and learning spaces in the context of the emergency.
 UNICEF requires $2.57 million to meet the humanitarian needs of children affected by the earthquake. Funding gaps can limit critical and necessary interventions to save lives.
 
---- Report 2: OCHA (2026-10-15) ---
+--- Report 3: OCHA (2026-10-15) ---
 KEY POINTS
 • The 7.5-magnitude earthquake that struck on 9 October affected several provinces across the country, particularly Veraguas, Coclé, Herrera and Los Santos. The first death has been reported of a person who was hospitalised as a result of the earthquake.
 • The earthquake caused extensive damage to homes, educational centres, health facilities and essential drinking water and transportation infrastructure, affecting access to basic services.
 • The Government estimates more than 13,623 affected people. Several communities remain cut off due to the rains and landslides.
 • On 10 October, the Government declared a state of emergency and deployed personnel and equipment to access affected communities by land, air and river.
 • UN agencies are providing complementary support to the authority-led response. On 13 and 14 October, an interagency mission was conducted in Herrera and Los Santos.
-
---- Report 3: UNHCR (2026-10-14) ---
-Situation
-On 9 October, Panama experienced one of the strongest earthquakes in its history. With a magnitude of 7.5, an epicentre on the Azuero Peninsula, and more than 400 aftershocks recorded to date, the earthquake affected several provinces, causing severe damage to homes and critical infrastructure in communities across Panama's countryside.
-As of 12 October, authorities reported over 3,000 affected homes, damage to more than 650 schools, at least 27 people injured, and hundreds displaced, evacuated, and nearly 600 staying in 14 temporary shelters. Among those affected are refugee families, as well as other vulnerable populations. The full extent of the losses has not yet been quantified, but the Government declared a state of emergency to mobilize up to USD 100 million for response efforts. President Mulino reported that more than 6,000 people have been affected and that the government is implementing recovery measures, including a housing reconstruction programme.
-Heavy rainfall, rising river levels and landslides in affected areas have hindered the delivery of humanitarian assistance and the assessment of the most urgent needs. Several communities remain inaccessible, with no access roads, safe drinking water or electricity.
-UNHCR joined the Government of Panama-led response and has mobilized over 33 metric tons of core relief items (CRIs) to date, including family tents, blankets, mosquito nets, kitchen sets, a rub hall and other essential supplies. The Agency remains in contact with authorities and community leaders, supporting efforts to address the most urgent needs, particularly for the most vulnerable.
