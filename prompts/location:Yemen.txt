@@ -1,10 +1,13 @@
 Crisis / situation: Yemen
 
 --- Report 1: IOM (2026-10-19) ---
+No summary available.
+
+--- Report 2: IOM (2026-10-19) ---
 IOM Yemen DTM continues to record the displacement caused by the escalation in Western Yemen. On 13 October 2026, IOM Yemen DTM recorded an increase of 15,942 individual IDPs compared to the figure presented on the RDT report distributed on 11 October 2026, making the displacement between 1 August to 13 October reach an approximate of 227,683 individuals (approximately 37,946 households).
 This brings the cumulative number recorded to 228,739 individuals (38,122 households) since the escalation began in June 2026. The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 121,104 individuals (53%), followed by Lahj Governorate, with 51,984 individuals (23%), and Aden Governorate, with 27,348 individuals (12%). Additional displacement was recorded in Abyan, with 11,838 individuals (5%); Al Hodeidah, with 8,244 individuals (4%); Hadramawt, with 2,550 individuals (1%); Shabwah, with 1,788 individuals (less than 1%); Ma’rib, with 1,494 individuals (less than 1%); Al Maharah, with 1,200 individuals (less than 1%); and Ad Dali’, with 1,189 individuals (less than 1%)
 
---- Report 2: OCHA (2026-10-18) ---
+--- Report 3: OCHA (2026-10-18) ---
 KEY HIGHLIGHTS
 
 A total of 231,991 people (38,664 households) have been displaced by conflict between 1 August and 14 October 2026. DTM figures, which also serve as the alert baseline for the Rapid Response Mechanism (RRM), show that 99 per cent of this displacement was recorded from 31 August onwards, after hostilities intensified. Three quarters of the displaced fled from Ta’iz governorate. Ta’iz hosts 52 per cent of the displaced, followed by Lahj (23%), Aden (13%) and Abyan (5%).
