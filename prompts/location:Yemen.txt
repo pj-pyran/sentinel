@@ -1,24 +1,17 @@
 Crisis / situation: Yemen
 
---- Report 1: IMC (2026-10-08) ---
-FAST FACTS
+--- Report 1: IOM (2026-10-19) ---
+IOM Yemen DTM continues to record the displacement caused by the escalation in Western Yemen. On 13 October 2026, IOM Yemen DTM recorded an increase of 15,942 individual IDPs compared to the figure presented on the RDT report distributed on 11 October 2026, making the displacement between 1 August to 13 October reach an approximate of 227,683 individuals (approximately 37,946 households).
+This brings the cumulative number recorded to 228,739 individuals (38,122 households) since the escalation began in June 2026. The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 121,104 individuals (53%), followed by Lahj Governorate, with 51,984 individuals (23%), and Aden Governorate, with 27,348 individuals (12%). Additional displacement was recorded in Abyan, with 11,838 individuals (5%); Al Hodeidah, with 8,244 individuals (4%); Hadramawt, with 2,550 individuals (1%); Shabwah, with 1,788 individuals (less than 1%); Ma’rib, with 1,494 individuals (less than 1%); Al Maharah, with 1,200 individuals (less than 1%); and Ad Dali’, with 1,189 individuals (less than 1%)
 
-197,906 people from 29,519 families have been displaced across 10 governorates, approximately a 10% increase from the last report.
-Eighteen of 19 International Medical Corps-supported health facilities remain operational across the west coast despite continuing access constraints.
+--- Report 2: OCHA (2026-10-18) ---
+KEY HIGHLIGHTS
 
-OUR FOOTPRINT
-
-Across Yemen, International Medical Corps supports 63 health facilities, with an estimated coverage of 3.3 million people across seven governorates: Aden, Al Dhale’e, Al Hodeidah, Ibb, Lahj, Sana’a and Taiz.
-Our lifesaving multi-sectoral assistance prioritizes active conflict zones and high-risk environments. In 2025, we helped more than 400,000 people.
-
-OUR RESPONSE
-
-A mobile medical team that we support has provided 475 medical consultations, screened 106 children under 5 and 38 pregnant and lactating women for acute malnutrition, provided immunization services to 31 women and 36 children, and conducted 50 antenatal care consultations.
-Our supported facilities have provided 11,835 medical consultations to people on the west coast.
-We have provided 26 metric tons of essential medicines and medical supplies to six health facilities in Aden and Lahj that will help sustain critical health, emergency obstetric and referral services amid increasing needs and ongoing supply constraints.
-
---- Report 2: UNHCR (2026-10-07) ---
-Yemen: Escalating Protection Risks
-Displacement, access constraints and mounting pressure on internally displaced people, refugees and host communities
-Situation at a glance
-The latest military escalation in Yemen has displaced growing numbers of people at an alarming rate, worsening an already severe humanitarian crisis and intensifying existing protection concerns. Families uprooted from the West Coast, Taiz, Lahj and Marib are fleeing their homes carrying limited belongings while facing insecurity, high transportation costs, and shortages of food, water and medicines. Host communities continue to provide support; however, reduced assistance, increasing pressure on already overstretched services, and competition over limited resources risk weakening social cohesion. Many of the newly displaced families have already experienced multiple waves of displacement, further exhausting their coping capacities, depleting their resources, and increasing their exposure to protection risks. As the conflict and insecurity intensify, displacement patterns are expanding beyond traditional hotspots, with growing movements from Taiz towards Lahj, Aden and Abyan, placing additional pressure on host communities, public services and humanitarian response capacities.
+A total of 231,991 people (38,664 households) have been displaced by conflict between 1 August and 14 October 2026. DTM figures, which also serve as the alert baseline for the Rapid Response Mechanism (RRM), show that 99 per cent of this displacement was recorded from 31 August onwards, after hostilities intensified. Three quarters of the displaced fled from Ta’iz governorate. Ta’iz hosts 52 per cent of the displaced, followed by Lahj (23%), Aden (13%) and Abyan (5%).
+Displacement continues as fighting moves inland and towards Ta’iz City. In early October, fighting in the Al-Turba area of Ta’iz displaced about 4,500 households in three days, and DTM recorded a further 44,202 newly displaced people (7,367 households) between 4 and 14 October. Fighting near existing sites is forcing already displaced families to flee again. With main roads closed, fewer families are able to reach Lahj and Aden, and further displacement towards Ta’iz City is likely if fighting continues.
+Civilian casualties continue to rise, with children among the most affected. OHCHR verified 94 incidents during the reporting period that caused 233 civilian casualties: 55 people killed and 178 injured. Children account for more than a third of all casualties, with 27 children killed and 57 injured.
+152,222 IDPs (21,746 households) have been reached with first-line RRM assistance, equivalent to 56 per cent of displaced households. Partners have also provided emergency cash to 13,243 households, food assistance to 12,594 RRM-verified households and water, sanitation and hygiene support to 9,391 households. They have reached more than 38,500 IDPs with health services and screened 67,468 children and pregnant and breastfeeding women and girls for malnutrition.
+Assistance is not keeping pace with needs. Four in ten verified households have yet to receive emergency food assistance, and most of those reached have received only the first of three planned cycles. Fewer than one in ten households in need of shelter support have been reached, and about a quarter of those in need of WASH assistance. The displacement is deepening an already severe crisis: 84 per cent of verified displaced households are in districts classified in IPC Phase 4 (Emergency).
+Ta’iz City is increasingly cut off, and essential services are under severe strain. Since early October, road closures have disrupted humanitarian and commercial supplies. Water production in the city has fallen by about half, fuel and cooking gas are scarce, food prices have risen by about 50 per cent, and partners have no food baskets left inside the city. Hospitals report medicines, oxygen and fuel close to depletion. Supplies held in Aden and Al-Turba cannot reach the city.
+Displacement is raising the risk of disease spread, particularly cholera. Families are arriving in overcrowded sites amid an ongoing cholera outbreak, often in districts where water and sanitation services were already among the weakest in the country. Cholera alerts from displacement sites are increasing, and partners are expanding treatment centres, surveillance and safe water services.
+Safe and sustained humanitarian access is urgently needed. Since 8 October, humanitarian partners have been unable to move between Ta’iz City and the southern districts. Insecurity, road closures and telecommunications outages continue to delay assistance and the registration of newly displaced families. Partners remain present and ready to scale up, but their ability to do so depends on safe access for supplies, patients and aid workers.
