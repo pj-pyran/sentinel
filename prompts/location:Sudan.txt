@@ -1,14 +1,28 @@
 Crisis / situation: Sudan
 
---- Report 1: WHO (2026-10-16) ---
-Monthly highlights
-• Cholera cases continued to decline overall, but transmission remains a concern, with suspected cases still being reported in some localities. Since 15 May 2026, a cumulative 3131 cases and 264 deaths have been reported, corresponding to an overall CFR of 8.0%.
-• Oral cholera vaccination campaigns achieved high coverage in priority areas. The reactive campaign in Al Fula, An Nuhud and Wad Bandah vaccinated 675 295 people, while second-round campaigns reached 156 983 people in Kas and 83 100 people in Tawila. • WHO provided extended technical, operational and capacity-strengthening assistance to 17 stabilization centres across seven states, alongside treatment supplies, nutrition surveillance support and monitoring of services for displaced communities.
-• The first high-level technical mission to Darfur, led by Dr Abdinasir Abubakar, WHO Representative in Sudan, together with the Health Cluster Coordinator and technical teams, visited four states across the region. The mission identified critical health needs and service gaps, providing evidence to inform priorities and strengthen the health response.
-• Maintained effective early-warning surveillance and rapid outbreak-response capacities to enable timely detection and control of multiple disease outbreaks nationwide
+--- Report 1: Insecurity Insight (2026-10-20) ---
+Data by Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 30 September 2026, at least 802 attacks on health care took place across Sudan, with over 55% of attacks attributed to the RSF. Health facilities were damaged at least 229 times while 222 health workers were killed and 16 kidnapped.
+At least 142 health workers were arrested or detained in 74 incidents across 14 states during the reporting period. Both the RSF and SAF carried out arrests, often accusing health workers of supporting opposing conflict parties. Staff were often beaten or threatened, while five health workers arrested by the RSF were reportedly killed. Around 30% of incidents occurred while health workers were on duty in health facilities or ambulances; others took place during commutes, at home, or in one case, while shopping at a market.
+View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
 
---- Report 2: SI (2026-10-14) ---
-This alert report provides basic, initial information in relation to an alert raised by a member of the ECHOfunded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
+--- Report 2: DFS (2026-10-19) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
 
---- Report 3: SI (2026-10-14) ---
-This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these alerts, information may become outdated rapidly, and entities interested in responding to the alert should reach out via coordination mechanisms or to humanitarian partners active in the alert location for further, updated information.
+--- Report 3: IOM (2026-10-19) ---
+The Sudan Displacement and Return Snapshot includes information on internally displaced persons (IDPs) and returnees, based on data from over 13,000 locations, 185 localities, and all 18 states in Sudan.
+Main Findings
+
+An estimated 8,585,611 internally displaced persons (IDPs) were recorded across all 18 states.
+An estimated 5,273,334 returned individuals were recorded across nine states.
+Eighty-two per cent of returnees moved back from internal displacement, while 18 per cent returned from abroad.
+Approximately half of IDPs (56%) and returnees (50%) were children under 18 years old.
+
+Key Trends
+
+The number of IDPs decreased by 26 per cent compared to the highest-recorded displaced population, but increased slightly by one per cent compared to the previous month (&lt;1%).
+The number of returnees increased by two per cent compared to the previous month.
+
+For further information, see the DTM Methodological Note and the DTM Sudan Interactive Dashboard.
