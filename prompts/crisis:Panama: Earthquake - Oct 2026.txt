@@ -1,6 +1,12 @@
 Crisis / situation: Panama: Earthquake - Oct 2026
 
---- Report 1: UNICEF (2026-10-20) ---
+--- Report 1: UNHCR (2026-10-20) ---
+Situation
+Ten days after the 7.5-magnitude earthquake that struck Panama's Azuero Peninsula, authorities continue assessing its full impact. According to the National Civil Protection System (SINAPROC), 2,318 homes sustained total damage, 5,546 were partially damaged, and another 1,260 were affected to a lesser extent. Damage has also been reported to over 600 educational facilities and 120 health facilities. According to the Ministry of Social Development, 55 temporary shelters remain active and host 3,827 people. The number of injured remains at 27. However, media have also reported the subsequent death of a woman injured, as well as the death of an infant with pre-existing medical conditions, whose family had been staying in an informal shelter following the earthquake.
+As of 19 October, the Institute of Geosciences reports 917 aftershocks. While seismic activity continues, experts report it is becoming less frequent over time, despite some stronger isolated events. Preliminary assessments also indicate the earthquake triggered about 2,300 landslides, and in the Isla Cañas area, authorities have identiﬁed a signiﬁcant ground fracture, with additional assessments ongoing to evaluate changes to the national topography.
+Despite adverse weather conditions and a green alert issued in Veraguas and Los Santos Provinces, the government, local authorities, civil society organizations, and private sector actors have mobilized in solidarity, delivering donations and support to affected populations across the impacted areas.
+
+--- Report 2: UNICEF (2026-10-20) ---
 Highlights
 
 According to the National Civil Protection System (SINAPROC), as of October 15, 5,821 homes have been evaluated, corresponding to 19,309 people, of which 3,696 remain in temporary accommodation. Among the population identified by SINAPROC, 475 newborns, 2,174 children and 1,030 adolescents were reported. The authorities continue damage assessments and assistance to affected families.
@@ -14,7 +20,7 @@ The 7.5 magnitude earthquake that struck Panama on October 9 continues to have s
 Infrastructure damage and access limitations persist in several of the impacted areas. In the province of Herrera, one community is reported to be cut off from communication and 32 landslides, while in areas of Veraguas there are still interruptions in drinking water, electricity and connectivity services.³ These conditions may limit the timely access of affected communities to humanitarian assistance and essential services, in addition to delaying assessment, rehabilitation and recovery efforts.
 As government-led sectoral assessments progress, needs related to the restoration of water, sanitation and hygiene services, the recovery of safe learning spaces and the expansion of child protection services continue to be identified. The information remains subject to updating as authorities complete damage checks and early recovery and response efforts advance.
 
---- Report 2: IFRC (2026-10-19) ---
+--- Report 3: IFRC (2026-10-19) ---
 Description of the Event
 Date of event
 09-10-2026
