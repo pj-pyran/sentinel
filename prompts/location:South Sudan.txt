@@ -1,14 +1,28 @@
 Crisis / situation: South Sudan
 
---- Report 1: UNICEF (2026-10-14) ---
-Highlights
+--- Report 1: UNHCR (2026-10-20) ---
+Operational Context
+Between January and June 2026, Renk County remained a major entry point for people fleeing the conflict in Sudan (, with continued arrivals driven by insecurity, forced returns, deteriorating socioeconomic conditions, limited access to basic services, and declining humanitarian assistance.
+Between January and June 2026, border monitoring conducted by UNHCR, IOM, and ACTED recorded 59,615 new arrivals comprising 19,237 households, of whom 60% were South Sudanese and 40% were Sudanese nationals. Women and children represented the majority of arrivals (80%), including 42% adult women, 28% children aged 0-11 years, and 10% adolescents aged 12-17 years.
+To facilitate safe and organized movement from border entry points, 26,806 individuals (11,010 households) received Onward Transportation Assistance (OTA) from Joda to the Renk Transit Centre. Among them, 18,974 individuals (7,072 households) identified as Persons with Specific Needs (PSNs) were prioritized for transportation due to heightened vulnerabilities, while 7,832 individuals (3,938 households) received support as non-PSNs. In addition, 4,828 refugees and returnees were assisted with onward transportation from Renk through Malakal to their final destinations.
+The OTA assistance played a critical role in decongesting border reception center and the Renk Transit Centre, while ensuring timely access to registration, protection, health, nutrition, shelter, and other essential humanitarian services. The intervention contributed significantly to safeguarding the dignity, safety, and wellbeing of newly arrived refugees and returnees, while strengthening the overall humanitarian response and population management efforts in Renk County.
 
-Sustained humanitarian operations in Lankien (Nyirol County) and Buong (Akobo West County) have largely not been possible since January 2026, owing to conflict, displacement, extreme remoteness and severe access constraints. Both counties are classified in IPC Phase 4 (Emergency), with some households facing IPC Phase 5 (Catastrophe) conditions.
-Logistics support from the Logistics Cluster and UNHAS enabled the deployment of response teams and supplies to both locations, overcoming barriers that had limited humanitarian access for much of 2026.
-Nutrition: 9,807 children aged 6–59 months were screened for acute malnutrition; 1,350 children were admitted to treatment for severe acute malnutrition and 2,290 referred for moderate acute malnutrition; 3,640 children received ready-to-use therapeutic food.
-WASH: 12,956 people received critical WASH supplies and were reached with hygiene-promotion messaging, while 1,556 people gained access to safe emergency water supplies meeting the minimum standard of 7.5 litres per person per day.
-Health: 228 outpatient consultations and 296 antenatal care consultations were provided in Buong; 325 women of reproductive age were vaccinated against tetanus and 138 children under 15 against polio.
+--- Report 2: UNHCR (2026-10-20) ---
+Overview
+The first half of 2026 marked an important transition period in Renk County, with humanitarian actors gradually complementing life-saving interventions with activities aimed at advancing durable solutions for refugees, returnees, and host communities. While the county continued to receive significant numbers of Sudanese refugees and South Sudanese returnees, resulting in sustained humanitarian needs, partners increasingly invested in initiatives that foster self-reliance, local integration, social cohesion, and equitable access to essential services.
+Between January and June 2026, humanitarian partners, working closely with the Commission for Refugee Affairs (CRA), the Relief and Rehabilitation Commission (RRC), and relevant county-level ministries and departments including Education, Agriculture, Fisheries, Lands, Gender, Child and Social Welfare, Infrastructure, and Rural and Urban Water departments, strengthened efforts to support durable solutions. Key areas of focus included;
+✓ Ensuring access to legal identity and civil documentation
+✓ Promoting self-reliance through livelihoods, agriculture, and skills development;
+✓ Strengthening community-based protection mechanisms
+✓ Fostering social cohesion and peaceful coexistence among refugees, returnees, and host communities ✓ Expanding access to quality education and;
+✓ Improving infrastructure and basic service delivery in the areas of water, sanitation and hygiene (WASH), health, and education.
+These strategic investments were designed not only to address immediate humanitarian needs but also to support long-term recovery, resilience, and sustainable development. These interventions contributed to creating an enabling environment for refugees, returnees, and host communities to rebuild their lives and strengthen their socio-economic well-being across Renk County.
 
---- Report 2: WFP (2026-10-13) ---
-KEY MESSAGES
-The average monthly foodbasketcost remained stable at SSP 133,602 per person. Despite overall price stability, Wedwil market recorded sharp increases in several commodities, including a 67 percent week-on-week rise in sukuma wiki prices driven by poor harvests due to drought conditions. In Rubkona, bean prices fell by 25 percent as traders cleared deteriorating old stocks.
+--- Report 3: IOM (2026-10-19) ---
+South Sudan is currently facing a severe humanitarian crisis characterized by extensive internal displacement. The underlying causes of these displacement dynamics are varied and include communal clashes, land disputes, insecurity, violence, and disasters. The situation is further complicated by the ongoing conflict in neighbouring Sudan, which has led to increased cross-border movements, and an influx of refugees and returnees, straining already limited resources.
+Key Findings:
+
+19,211 IDPs (3,793 households) were recorded across four counties (Kapoeta East, Abyei AA, Kapoeta South, and Twic East)
+The top three priority needs of IDPs were food (46%), water (18%), and non-food items (17%)
+7,357 returnees (1,434 households) were recorded across seven counties (Akobo, Maiwut, Ibba, Longochuk, Nyirol, Luakpiny/Nasir, Uror)
+The top three priority needs of returnees were non-food items (26%), health (22%), and food (16%)
