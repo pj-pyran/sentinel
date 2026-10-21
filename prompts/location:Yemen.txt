@@ -1,14 +1,28 @@
 Crisis / situation: Yemen
 
---- Report 1: UNHCR (2026-10-19) ---
+--- Report 1: FAO (2026-10-21) ---
+SHORT-TERM OUTLOOK AND IMPLICATIONS ON FOOD SECURITY:
+While Yemen’s acute food security crisis—with 18.3 million people facing acute food insecurity and over half the population in urgent need of humanitarian assistance—remains heavily driven by import dependency, rising prices, global humanitarian funding deficits, and severe climate impacts, conditions have been severely worsened by rapid frontline escalations. The resurgence of violence since July 2026, intensifying along the western coast in September and impacting Taiz governorate, has driven severe secondary impacts: by the 20th October 2026, more than 255,000 people had been internally displaced since the start of the escalation, primarily concentrated in Ta’iz (48%), Lahj (25%), and Aden (5%) governorates—placing additional pressure on already fragile services for the 3.1 million previously displaced. Territorial shifts, insecurity, and access restrictions have disrupted trade and import flows, doubling transit times and constraining humanitarian access. These supply chain disruptions, coupled with rising fuel and commodity prices (such as a year-on-year increase of up to 17 percent for palm oil), compound weak purchasing power and act as a major driver of severe food insecurity as 5.4 million people in GoY-controlled areas face IPC Phase 3 or worse between October and December 2026.
+KEY HIGHLIGHTS:
+
+EXCHANGE RATES: Currency stability continued. With the exchange rate remaining broadly stable in GoY-controlled areas. The YER/USD rate was 4% below its level a year earlier and 6% below the three-year average, indicating a stronger rial against both benchmarks.
+FOOD PRICES: Key staples became more expensive. In GoY-controlled areas, sunflower oil and wheat flour prices rose by about 2% month on month, beans increased slightly, and rice remained stable. Both oil and flour also stayed above last year’s levels.
+MINIMUM FOOD BASKET (MFB): Food-basket costs increased. GoY basket costs rose by 2% from August, reaching levels 7% above September 2025 and 2% above the three-year average, further constraining household food affordability.
+FOOD AND FUEL IMPORTS: Wheat and flour imports fell 1% nationally and remained below last year. Northern imports edged up, while southern imports declined. Fuel imports rebounded but stayed far below last year, and missing northern records limit confirmation.
+FUEL PRICES: Fuel costs remained elevated. In GoY-controlled areas, diesel and petrol prices rose by about 3% and 2% month on month, remaining well above both last year and their three-year averages.
+TERMS OF TRADE (ToT): Casual workers lost purchasing power. In GoY-controlled areas, labor-to-wheat-flour purchasing power fell from August, down 3% for agricultural laborers and 5% for casual workers. Agricultural ToT remained 2% above last year, while casual labor ToT was 8% lower.
+CASUAL LABOR WAGE RATES: Daily earnings weakened. In GoY-controlled areas, casual wages declined by approximately 3% month on month, standing 1% below the previous year and 3% below the three-year average. Agricultural wages also fell slightly, by 1%, but remained above both historical benchmarks.
+LIVESTOCK PRICES: Prices remained below last year. Goat prices were stable in September, while sheep prices fell slightly. Both remained below last year’s levels but above the three-year average.
+
+--- Report 2: UNHCR (2026-10-19) ---
 Djibouti | Somalia | Yemen
 Highlights
 ▪ Displacement inside Yemen continued to rise sharply, reaching over 250,000 people between 1 August and 17 October1 , with Taiz hosting the largest share of those displaced. UNHCR is part of the inter-agency response under the Yemen Humanitarian Needs and Response Plan (HNRP). Response and contingency planning is being adapted to evolving displacement trends, with revised displacement scenarios being prepared to guide assistance, strengthen preparedness and support the response to additional internal displacement and cross-border movements.
 ▪ As of 17 October 2026, 4,078 new arrivals from Yemen were recorded in the region, including 3,836 new arrivals in Djibouti and 242 in Somalia (which includes returnees and refugees), reflecting the continued search for safety by affected populations. Between 8 and 14 October, no new arrivals from Yemen to Djibouti were reported. Following the capsizing of a boat travelling from Djibouti to Yemen on the night of 8–9 October 2026, 139 bodies have been recovered, including 109 who have been identified. Burials have taken place in accordance with religious rites. 82 survivors have been identified and are receiving support based on their needs.
 
---- Report 2: IOM (2026-10-19) ---
+--- Report 3: IOM (2026-10-19) ---
 No summary available.
 
---- Report 3: IOM (2026-10-19) ---
+--- Report 4: IOM (2026-10-19) ---
 IOM Yemen DTM continues to record the displacement caused by the escalation in Western Yemen. On 13 October 2026, IOM Yemen DTM recorded an increase of 15,942 individual IDPs compared to the figure presented on the RDT report distributed on 11 October 2026, making the displacement between 1 August to 13 October reach an approximate of 227,683 individuals (approximately 37,946 households).
 This brings the cumulative number recorded to 228,739 individuals (38,122 households) since the escalation began in June 2026. The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 121,104 individuals (53%), followed by Lahj Governorate, with 51,984 individuals (23%), and Aden Governorate, with 27,348 individuals (12%). Additional displacement was recorded in Abyan, with 11,838 individuals (5%); Al Hodeidah, with 8,244 individuals (4%); Hadramawt, with 2,550 individuals (1%); Shabwah, with 1,788 individuals (less than 1%); Ma’rib, with 1,494 individuals (less than 1%); Al Maharah, with 1,200 individuals (less than 1%); and Ad Dali’, with 1,189 individuals (less than 1%)
