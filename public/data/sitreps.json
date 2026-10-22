@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4235136",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "UNHCR Ukraine Operational Update - 15 October 2026",
+    "source": "UNHCR",
+    "crisis": "Humanitarian Crisis",
+    "location": "Ukraine",
+    "scope": "single",
+    "date": "2026-10-22",
+    "content": "No summary available.",
+    "url": "https://reliefweb.int/report/ukraine/unhcr-ukraine-operational-update-15-october-2026",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "rw_id": "4235136",
+    "file_url": "https://reliefweb.int/attachments/89ba6211-f9ce-5222-a08f-f1e346b5bb7d/UNHCR%20Ukraine%20Operational%20Update_15%20October%202026_final.pdf"
+  },
+  {
     "id": "rw-4235107",
     "provider": "reliefweb",
     "type": "original",
