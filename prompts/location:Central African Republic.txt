@@ -1,27 +1,38 @@
 Crisis / situation: Central African Republic
 
---- Report 1: OCHA (2026-08-21) ---
+--- Report 1: WFP (2026-10-22) ---
+KEY HIGHLIGHTS
+• More than 2 million people continued to face acute food insecurity, while insecurity, displacement and refugee inflows linked to the Sudan crisis continued to drive humanitarian needs, particularly in northeastern CAR.
+• WFP provided food, cash-based assistance, school feeding and resilience support to approximately 117,400 people during September 2026, including refugees, internally displaced persons, returnees and vulnerable host communities.
+• WFP advanced preparations for a new round of assistance in Am-Dafock, completing beneficiary verification and registration of 2,311 households (9,634 beneficiaries) and strengthening operational preparedness despite continued access constraints.
+SITUATION OVERVIEW
+• The Central African Republic continues to face high levels of food insecurity and humanitarian need. More than 2 million people are projected to face acute food insecurity, including 262,000 people in IPC Phase 4 (Emergency).
+• The country remains affected by a fragile regional environment. Spillover from the conflict in Sudan continues to drive refugee movements, displacement pressures and humanitarian needs, particularly in Vakaga Prefecture and other northeastern border areas.
+• Security concerns persist in several areas, including northeastern CAR, where population movements, access constraints and insecurity continue to affect humanitarian operations.
+• Humanitarian operations continue to face significant challenges during the rainy season, including deteriorated roads, limited access and logistical delays affecting the movement of relief supplies.
+
+--- Report 2: OCHA (2026-10-22) ---
 HIGHLIGHTS
 
-In Zémio, insecurity is driving population movements towards Zapaï in DRC.
-More than 4,000 people affected by torrential rains are receiving cash assistance in Bangassou.
-In Am-Dafock, access to safe drinking water has improved for more than 11,500 internally displaced persons.
+Insecurity triggers population displacement in Ouham-Fafa
+HIV prevention: more than 500 people screened in Mbomou
 
 GENERAL CONTEXT
-Haut-Mbomou Prefecture, South-East
+Mbomou Prefecture – South-East
 
-From 11 to 14 August, population movements were reported from Komboni, located about 5 km from Zémio, to Zapaï in the Democratic Republic of Congo (DRC). The movements followed military operations conducted against armed elements in the area. Persistent insecurity continues to affect livelihoods by restricting access to farmland and disrupting harvesting activities. As food security conditions deteriorate, some households have been forced to sell part of the essential household items received through humanitarian assistance to meet their immediate food needs.
+On 16 October, a multisectoral needs assessment mission was unable to reach the locality of Nzako due to access constraints related to the poor condition of road infrastructure. Heavy rainfall recorded in recent weeks has significantly deteriorated the Bakouma–Nzako road, hampering the mobility of humanitarian actors. Approximately 20 km from Nzako, several vehicles in the mission convoy became stuck in the mud, immobilizing the convoy for nearly 24 hours. In the absence of conditions allowing traffic to resume under acceptable safety conditions, the team was forced to turn back. As a result, the planned multisectoral assessment in Nzako could not be carried out as scheduled, limiting the ability of humanitarian actors to comprehensively assess and respond to needs and to obtain an updated analysis of the situation in the locality.
+
+Ouham-Fafa Prefecture – North-West
+
+On 14 October, preventive population movements were reported from the villages of Bondili (located 114 km north-west of Batangafo) and Bode, where more than 900 people left their communities to move towards the Kambakota axis or seek refuge in the bush. These movements followed fears of reprisals after the killing of a civilian by armed elements. Access constraints and limitations on independent verification do not, at this stage, allow confirmation of the exact scale of the reported displacement. The situation remains of concern due to the persistent risk of reprisals, threats to civilian protection and the potential for further population displacement.
 
 HUMANITARIAN NEEDS AND RESPONSE
-Multi-sector
-Ouham-Fafa Prefecture, North-West
+Health
+Mbomou Prefecture – South-East
 
-From 15 to 20 August, COOPADEM strengthened the livelihoods of 45 members of local associations from both host communities and displaced populations at the Gbazara site in Batangafo. Beneficiaries received a community micro-grant and training on management and sustainable monitoring of income-generating activities to enhance their economic self-reliance. The initiative also aims to strengthen beneficiaries’ participation in youth-led community mobilization and awareness-raising activities, particularly on social cohesion and protection of internally displaced persons (IDPs), thereby contributing to more inclusive governance of displacement sites and host communities. In parallel, soap-making activities enabled women to develop livelihood opportunities while improving the living conditions of vulnerable households. These activities were implemented with financial support from the Central African Republic Humanitarian Fund (CAR HF).
+From 12 to 16 October, the French Red Cross, in collaboration with the Bangassou Health District, conducted an HIV and viral hepatitis screening campaign in the health centres of Maliko and Bangui-Ville, as well as Bangondé Hospital. A total of 586 people were screened. Among them, nine tested positive for HIV and 116 tested positive for hepatitis B and were referred to appropriate care and treatment services. The activity aimed to strengthen early diagnosis and improve access to health services for populations in the intervention area.
 
-Food Security
-Vakaga Prefecture, North-East
+Protection
+Bamingui-Bangoran Prefecture – North-East
 
-From 11 to 14 August, Triangle Génération Humanitaire (TGH) provided cash assistance to 22 agricultural groups in Birao. The intervention benefited 1,000 households from host communities and returnee populations. Beneficiaries also received training on fodder crop production techniques to strengthen their livelihoods and enhance their agricultural production capacity.
-
---- Report 2: UNHCR (2026-08-19) ---
-UNHCR's operations in the Central African Republic (CAR) are based on protection through presence, a central pillar of the humanitarian response. In a context marked by security volatility and the repercussions of the Sudanese crisis, particular attention is also being paid to emergency response. At the same time, the search for durable solutions is a major priority, by supporting the voluntary, safe and dignified return of Central African refugees, while ensuring their sustainable reintegration and their contribution to national development. The Central African Government, UNHCR and partners are providing protection and multi-sectoral assistance to internally displaced persons (IDPs) and refugees, including Chadians and Sudanese, while promoting durable solutions for Central African returnees. UNHCR aligns its interventions with national priorities, including the National Development Programme, the National Strategy for Durable Solutions and the Platform to Support Solutions from the 2022 Yaoundé Declaration.
+From 12 to 15 October 2026, the Comité international pour l'aide d'urgence et le développement (CIAUD), through its mobile team, conducted protection monitoring activities in Bamingui-Bangoran Prefecture. A total of 11 protection incidents were identified and documented. All reported incidents involved cases of GBV. Girls were the most affected, accounting for eight of the 11 documented cases. In addition, a community awareness-raising session on the risks and consequences of early and/or forced marriage was organized in the Sultan1 neighbourhood. The activity reached more than 66 people with prevention and protection messages.
