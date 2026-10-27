@@ -1,12 +1,15 @@
 Crisis / situation: Somalia
 
---- Report 1: FAO (2026-10-27) ---
+--- Report 1: UNFPA (2026-10-27) ---
+Women and girls in Somalia continue to face heightened risks of gender-based violence (GBV) amid conflict, climate shocks, displacement and severe funding shortages. UNFPA’s latest Gender-Based Violence Situation Brief for April–September 2026 highlights the growing protection risks, disruptions to essential GBV services and urgent need for sustained humanitarian support. With 82 of 120 registered GBV service facilities closed by the end of Q2, the brief calls for renewed investment in survivor-centred services, stronger prevention and risk mitigation, and coordinated action to protect women and girls across Somalia.
+
+--- Report 2: FAO (2026-10-27) ---
 Observed Rainfall
 Rain returned to the Shabelle catchment from 23 October. Satellite estimates show about 19 mm on average over the catchment above Belet Weyne during 19–26 October, nearly all of it in the past three days. Since the start of the month (1–24 October), 200–500 mm has fallen over Hiraan, Galgaduud and the Gode–Kelafo area, more than six times normal in places.
 River Levels
 Belet Weyne reached the moderate flood risk level (6.50 m) this morning at 6.56 m, after rising every day for a week. Deefow, near the Ethiopian border, is still rising (6.90 m, about 4 m since 13 October). Bulo Burti is rising slowly (5.36 m), and Jowhar, below moderate flood risk level since 20 October, is steady at 4.28 m. Satellite radar (Copernicus, images to 24 October) shows possible flooding over about 55 km² in Jowhar district, consistent with open river breakages.
 
---- Report 2: FAO (2026-10-27) ---
+--- Report 3: FAO (2026-10-27) ---
 Observed Rainfall
 Rain returned to the upper Juba River catchment from 23 October. Satellite estimates show about 36 mm on average over the catchment above Dollow and 30 mm above Luuq during 19–26 October, nearly all of it in the past three days. Since the start of the month (1–24 October), most of Gedo, Bay and Bakool has received 200–500 mm, far above normal, while the Ethiopian headwaters and the Kenyan part of the catchment received less and were below normal in places.
 River Levels
