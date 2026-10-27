@@ -1,19 +1,29 @@
 Crisis / situation: Yemen
 
---- Report 1: IOM (2026-10-21) ---
-IOM Yemen DTM continues to record displacement caused by the escalation in western Yemen. On 20 October 2026, IOM Yemen DTM recorded an increase of 8,682 individual IDPs compared to the figure presented on the RDT report distributed on 19 October 2026, bringing displacement between 1 August and 20 October reach to approximately 258,751 individuals (43,119 households). This brings the cumulative number recorded since the escalation began in June 2026 to 259,807 individuals (43,295 households).
-The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 124,092 individuals (48%), followed by Lahj Governorate with 65,238 individuals (25%), and Aden Governorate with 38,400 individuals (15%). Additional displacement was recorded in Abyan with 14,022 individuals (5%); Al Hodeidah with 8,244 individuals (3%); Hadramawt with 2,694 individuals (1%); Shabwah with 2,694 individuals (1%); Ma’rib with 1,866 individuals (less than 1%); Ad Dali’ with 1,303 individuals (less than 1%); and Al Maharah with 1,254 individuals (less than 1%).
+--- Report 1: IOM (2026-10-26) ---
+IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
+From 1 January to 24 October 2026, IOM Yemen DTM tracked 49,388 households (HH) (296,328 Individuals) who experienced displacement at least once.
+Between 18 and 24 October 2026, IOM Yemen DTM tracked 2269 households (13614 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
+• Lahj-(900 HHs) – Al Madaribah Wa Al Aarah (534 HHs), Tuban (179 HHs), Al Maqatirah (92 HHs) districts. Most displacements in the governorate were internal.
+• Taiz-(600 HHs) – Al Mudhaffar (162 HHs), Mashrah Wa Hadnan (143 HHs), Ash Shamayatayn (132 HHs) districts. All displacements in the governorate were internal.
+• Aden-(553 HHs) – Al Burayqah (409 HHs), Dar Sad (93 HHs), At Tawahi (22 HHs) districts. Most displacements in the governorate originated from Lahj.
+The majority of people moved from the following governorates and districts:
+• Lahj- (1248 HHs) – Al Madaribah Wa Al Aarah (1240 HHs), Al Maqatirah (4 HHs), Al Musaymir (3 HHs) districts.
+• Taiz- (897 HHs) – Al Misrakh (209 HHs), Al Mudhaffar (125 HHs), Ash Shamayatayn (117 HHs) districts.
+• Al Hodeidah (75 HHs) – Al Khukhah (21 HHs), Hays (19 HHs), Al Jarrahi (10 HHs) districts.
+IOM identified 2626 additional households displaced in earlier reporting periods, based on Kobo submissions received during the current reporting period in the governorates: of Aden (2005 HHs), Lahj (300 HHs), Abyan (250 HHs), Marib (26 HHs), Hadramawt (16 HHs), Ad Dali (15 HHs), Al Maharah (9 HHs), and Taiz (5 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
 
---- Report 2: FAO (2026-10-21) ---
-SHORT-TERM OUTLOOK AND IMPLICATIONS ON FOOD SECURITY:
-While Yemen’s acute food security crisis—with 18.3 million people facing acute food insecurity and over half the population in urgent need of humanitarian assistance—remains heavily driven by import dependency, rising prices, global humanitarian funding deficits, and severe climate impacts, conditions have been severely worsened by rapid frontline escalations. The resurgence of violence since July 2026, intensifying along the western coast in September and impacting Taiz governorate, has driven severe secondary impacts: by the 20th October 2026, more than 255,000 people had been internally displaced since the start of the escalation, primarily concentrated in Ta’iz (48%), Lahj (25%), and Aden (5%) governorates—placing additional pressure on already fragile services for the 3.1 million previously displaced. Territorial shifts, insecurity, and access restrictions have disrupted trade and import flows, doubling transit times and constraining humanitarian access. These supply chain disruptions, coupled with rising fuel and commodity prices (such as a year-on-year increase of up to 17 percent for palm oil), compound weak purchasing power and act as a major driver of severe food insecurity as 5.4 million people in GoY-controlled areas face IPC Phase 3 or worse between October and December 2026.
-KEY HIGHLIGHTS:
+--- Report 2: WFP (2026-10-26) ---
+IN NUMBERS
+1.4 m people assisted in September 2026
+12,220 mt food distributed
+US$ 5.8 m cash transferred
+US$ 294 m 6-month net funding requirement (November 2026 – April 2027)
+HIGHLIGHTS
 
-EXCHANGE RATES: Currency stability continued. With the exchange rate remaining broadly stable in GoY-controlled areas. The YER/USD rate was 4% below its level a year earlier and 6% below the three-year average, indicating a stronger rial against both benchmarks.
-FOOD PRICES: Key staples became more expensive. In GoY-controlled areas, sunflower oil and wheat flour prices rose by about 2% month on month, beans increased slightly, and rice remained stable. Both oil and flour also stayed above last year’s levels.
-MINIMUM FOOD BASKET (MFB): Food-basket costs increased. GoY basket costs rose by 2% from August, reaching levels 7% above September 2025 and 2% above the three-year average, further constraining household food affordability.
-FOOD AND FUEL IMPORTS: Wheat and flour imports fell 1% nationally and remained below last year. Northern imports edged up, while southern imports declined. Fuel imports rebounded but stayed far below last year, and missing northern records limit confirmation.
-FUEL PRICES: Fuel costs remained elevated. In GoY-controlled areas, diesel and petrol prices rose by about 3% and 2% month on month, remaining well above both last year and their three-year averages.
-TERMS OF TRADE (ToT): Casual workers lost purchasing power. In GoY-controlled areas, labor-to-wheat-flour purchasing power fell from August, down 3% for agricultural laborers and 5% for casual workers. Agricultural ToT remained 2% above last year, while casual labor ToT was 8% lower.
-CASUAL LABOR WAGE RATES: Daily earnings weakened. In GoY-controlled areas, casual wages declined by approximately 3% month on month, standing 1% below the previous year and 3% below the three-year average. Agricultural wages also fell slightly, by 1%, but remained above both historical benchmarks.
-LIVESTOCK PRICES: Prices remained below last year. Goat prices were stable in September, while sheep prices fell slightly. Both remained below last year’s levels but above the three-year average.
+WFP welcomes the release of one of its staff members arbitrarily detained in Yemen and stands in solidarity with the 71 UN personnel, including 37 WFP staff and five former UN personnel who remain detained, continuing efforts to secure their immediate and safe release.
+The food security situation continues to deteriorate in GoY controlled areas. The crisis is even more acute in Ta’iz, with disrupted supply routes, soaring prices and collapsing essential services exhausting vulnerable households’ coping capacity.
+Amid blocked humanitarian access, WFP has launched calibrated emergency cash-based assistance in Ta’iz cut-off districts, providing a vital food lifeline for displaced people.
+WFP requires USD 294 million to sustain its regular activities through April 2027 and support up to 1.5 million people affected by the ongoing conflict, should hostilities escalate further across all fronts.
+Restoring safe, sustained and unimpeded humanitarian and commercial access to Ta’iz is critical to prevent vulnerable families from slipping deeper into hunger and meet surging needs.
+WFP signed a strategic agreement with the Ministry of Agriculture, Irrigation and Fish Wealth to strengthen food security information and climate resilience while advancing locally-led recovery and institutional capacity.
