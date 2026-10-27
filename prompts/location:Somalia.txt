@@ -1,17 +1,13 @@
 Crisis / situation: Somalia
 
---- Report 1: FAO (2026-10-14) ---
+--- Report 1: FAO (2026-10-27) ---
 Observed Rainfall
-Heavy rains have fallen over central Somalia and the lower part of the Shabelle catchment in Ethiopia since the start of October.
-Satellite estimates for 1–11 October show above 100 mm over Hiraan, Galgaduud and the Gode–Kelafo area of Ethiopia, more than two times the normal amount for this time of year. The Ethiopian highlands, where the Shabelle starts, received less, about 25–75 mm.
-River level
-At Jowhar, the level rose by a further 0.20 m overnight to 5.37 m today, almost 1 m in 48 hours (4.38 m on 11 October). It is now 12 cm above the high flood risk level (5.25 m) and only 13 cm below bankfull (5.50 m). Levels are rising along the whole river:
-Belet Weyne rose by 0.38 m to 3.98 m and Bulo Burti by 0.38 m to 3.90 m, both still about 2.5 m below their moderate flood risk level (6.50 m). Upstream at Deefow, near the Ethiopian border, the level rose by a further 0.45 m to 2.87 m, confirming that more water is coming from Ethiopia.
-Moderate rains are forecast: 50–100 mm over most of Hiraan and Middle Shabelle (Belet Weyne, Bulo Burti, Jalalaqsi and Jowhar), with isolated falls of 100–150 mm. Over the Shabelle catchment in Ethiopia, rains will be lighter (mostly 10–50 mm), with only isolated areas getting 100 mm or more. Today, mostly light rain is expected along the river, with up to 50 mm just north of Belet Weyne and heavy rain (50–200 mm) along the Lower Shabelle coast.
-With the river already above the high flood risk level at Jowhar, more water arriving from Belet Weyne and Bulo Burti and 50–100 mm of local rain forecast this week, the level at Jowhar is likely to reach bankfull (5.50 m) in the coming days. Flooding through the open river breakages between Jowhar and Balcad is likely to continue and spread into nearby farms and villages. Levels at Belet Weyne and Bulo Burti will keep rising but are expected to stay below the moderate flood risk level this week.
+Rain returned to the Shabelle catchment from 23 October. Satellite estimates show about 19 mm on average over the catchment above Belet Weyne during 19–26 October, nearly all of it in the past three days. Since the start of the month (1–24 October), 200–500 mm has fallen over Hiraan, Galgaduud and the Gode–Kelafo area, more than six times normal in places.
+River Levels
+Belet Weyne reached the moderate flood risk level (6.50 m) this morning at 6.56 m, after rising every day for a week. Deefow, near the Ethiopian border, is still rising (6.90 m, about 4 m since 13 October). Bulo Burti is rising slowly (5.36 m), and Jowhar, below moderate flood risk level since 20 October, is steady at 4.28 m. Satellite radar (Copernicus, images to 24 October) shows possible flooding over about 55 km² in Jowhar district, consistent with open river breakages.
 
---- Report 2: FAO (2026-10-14) ---
+--- Report 2: FAO (2026-10-27) ---
 Observed Rainfall
-Moderate to heavy rains have fallen over the upper Juba catchment in the Ethiopian highlands since the start of October. Satellite estimates for 1–11 October show 50–100 mm over large parts of the upper catchment, more than is normal for this time of year. Much heavier rain (100–500 mm) fell over central Somalia, while Gedo and the Kenyan part of the catchment received light rain.
-River levels
-After a sharp rise over the past week, the level at Dollow peaked at 4.46 m yesterday, only 4 cm below the moderate flood risk level (4.50 m), and has since dropped sharply by 1.32 m to 3.14 m today. This peak is now moving downstream. At Luuq, the level rose slightly to 4.12 m today, 1.38 m below the moderate flood risk level (5.50 m).
+Rain returned to the upper Juba River catchment from 23 October. Satellite estimates show about 36 mm on average over the catchment above Dollow and 30 mm above Luuq during 19–26 October, nearly all of it in the past three days. Since the start of the month (1–24 October), most of Gedo, Bay and Bakool has received 200–500 mm, far above normal, while the Ethiopian headwaters and the Kenyan part of the catchment received less and were below normal in places.
+River Levels
+After falling slowly over the past week, the level at Dollow rose by 0.12 m overnight to 2.88 m today, 1.62 m below the moderate flood risk level (4.50 m), and Luuq is at 2.78 m, 2.72 m below its moderate flood risk level (5.50 m).
