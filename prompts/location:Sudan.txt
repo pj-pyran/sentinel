@@ -1,28 +1,32 @@
 Crisis / situation: Sudan
 
---- Report 1: Insecurity Insight (2026-10-20) ---
-Data by Insecurity Insight shows that since fighting started between the SAF and RSF in April 2023 and 30 September 2026, at least 802 attacks on health care took place across Sudan, with over 55% of attacks attributed to the RSF. Health facilities were damaged at least 229 times while 222 health workers were killed and 16 kidnapped.
-At least 142 health workers were arrested or detained in 74 incidents across 14 states during the reporting period. Both the RSF and SAF carried out arrests, often accusing health workers of supporting opposing conflict parties. Staff were often beaten or threatened, while five health workers arrested by the RSF were reportedly killed. Around 30% of incidents occurred while health workers were on duty in health facilities or ambulances; others took place during commutes, at home, or in one case, while shopping at a market.
-View the incidents on our interactive map. Download the data. Updated every Monday and includes information on weapons use, perpetrators and effects. For events descriptions and data enquiries, please get in touch. Data is continuously updated and numbers may change if/ when further information is made available. See here for methodology.
+--- Report 1: CP AoR (2026-10-27) ---
+The report provides an overview of the evolving protection situation in El Obeid, highlighting the deteriorating protection environment, increasing displacement-related vulnerabilities, and persistent gaps in access to essential services and humanitarian assistance.
+Key findings highlight:
 
---- Report 2: DFS (2026-10-19) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
+Heightened protection risks, including insecurity, gender-based violence, child protection concerns, psychosocial distress, and barriers to civil documentation.
+Critical gaps in basic services, particularly water, sanitation, food assistance, and adequate shelter, which further exacerbate protection risks.
+Significant disparities across displacement sites, including limited humanitarian presence, weak registration systems, and inadequate identification and referral mechanisms for persons with specific needs.
+Increasing pressure on host communities, whose coping capacities continue to deteriorate amid prolonged displacement and limited resources.
 
---- Report 3: IOM (2026-10-19) ---
-The Sudan Displacement and Return Snapshot includes information on internally displaced persons (IDPs) and returnees, based on data from over 13,000 locations, 185 localities, and all 18 states in Sudan.
-Main Findings
+The September follow-up mission reaffirmed the findings of the May assessment and underscored the urgent need for strengthened protection monitoring, coordinated multisectoral interventions, improved referral pathways, and targeted assistance to the most vulnerable populations.
+We hope the findings and recommendations will inform ongoing humanitarian response planning, operational prioritization, advocacy, and resource mobilization efforts to address critical protection needs in El Obeid.
+We encourage partners and relevant stakeholders to review the report and consider its recommendations in their respective response planning and interventions.
 
-An estimated 8,585,611 internally displaced persons (IDPs) were recorded across all 18 states.
-An estimated 5,273,334 returned individuals were recorded across nine states.
-Eighty-two per cent of returnees moved back from internal displacement, while 18 per cent returned from abroad.
-Approximately half of IDPs (56%) and returnees (50%) were children under 18 years old.
+--- Report 2: WFP (2026-10-26) ---
+In September, WFP assisted 3.1 million people, including 880,000 people in areas classified as at Risk of Famine (RoF).
 
-Key Trends
 
-The number of IDPs decreased by 26 per cent compared to the highest-recorded displaced population, but increased slightly by one per cent compared to the previous month (&lt;1%).
-The number of returnees increased by two per cent compared to the previous month.
+Due to lack of funding, the number of people reached in September declined significantly from the 4.1 million people reached in August.
 
-For further information, see the DTM Methodological Note and the DTM Sudan Interactive Dashboard.
+
+WFP provided 9,600 mt of in-kind general food assistance (GFA), reaching 1.2 million people.
+
+
+GFA cash-based transfers (CBT) reached 1.4 million people with USD 8.8 million in assistance. However, the exchange rate depreciated sharply. The rate reached its lowest at SDG 7,500 per US dollar, compared to SDG 5,600 in July and SDG 6,150 in August, reducing households purchasing power and creating pressure to renegotiate retailer prices, which in turn delayed implementation in some locations.
+
+
+WFP's nutrition programme reached 349,000 children under five and pregnant and breastfeeding women across all 18 states, providing both preventive and treatment services to address acute malnutrition.
+
+
+School feeding activities continued to expand towards the 2026 plan of reaching 450,000 students. Since schools reopened in June, the programme has reached 264,000 students, equivalent to 60 percent of the annual plan. In September alone, 175,000 children received school meals.
