@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4236052",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Kenya: Humanitarian situation of displaced people in Moyale, Marsabit County Flash Update No. 1 (28 October 2026)",
+    "source": "OCHA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Kenya",
+    "scope": "single",
+    "date": "2026-10-28",
+    "content": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>About 50,000 people have crossed into Moyale town in Kenya due to renewed intercommunal fighting in neighbouring Ethiopia, as of 28 October.</li>\n<li>Humanitarian needs are increasing rapidly, with food, water, sanitation and hygiene, healthcare, and protection services being the most urgent needs.</li>\n<li>Humanitarian partners, the Kenya Red Cross Society and authorities are scaling up humanitarian response.</li>\n<li>A rapid joint multisectoral assessment is under way to inform inter-agency response planning.</li>\n</ul>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>Renewed intercommunal fighting in Moyale, Ethiopia, which reportedly started on 18 October, has triggered significant displacement across the border into Moyale town in Marsabit County, Kenya. As of 28 October, about 50,000 people had crossed into Kenya, according to authorities and <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.unhcr.org/news/press-releases/unhcr-warns-growing-humanitarian-needs-thousands-flee-ethiopia-kenya\">partners</a>, with women and children accounting for a significant proportion of arrivals. Some are staying in six temporary camps - Oriental Mission Church (OMC), Arosa Mixed, Sessi, Taqwa, Somare and St Mary’s), and others are reportedly staying with host communities. In Mandera, about 200 people are sheltering at the police station. These figures are preliminary, as partners and authorities are still conducting assessments, and numbers are expected to rise as movements continue. Plans are under way for a rapid joint multisectoral assessment of the wider reported caseload, including people hosted by relatives and community members, to identify additional unmet needs.</p>\n<p>The influx is straining temporary accommodation, host households and essential services, creating urgent needs for food, safe water, sanitation, shelter, essential household items, health care and protection. Marsabit is one of Kenya’s 23 Arid and Semi-Arid Lands (ASAL) counties and was already facing food insecurity before the influx, which compounds pressure on local resources. Continued fighting could trigger further cross-border movements. Intercommunal tensions in the Moyale border area have repeatedly driven people across the border into Kenya. In 2012, violence displaced an estimated 20,000 people into Kenya, and in 2018, fighting reportedly forced some 20,000 people to seek refuge there. Each of these episodes generated urgent humanitarian needs.</p>\n",
+    "url": "https://reliefweb.int/report/kenya/kenya-humanitarian-situation-displaced-people-moyale-marsabit-county-flash-update-no-1-28-october-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4236052",
+    "file_url": "https://reliefweb.int/attachments/acc6bbb1-5515-4d8c-8693-235d54c64497/20261027_Kenya%20Humanitarian%20situation%20of%20displaced%20people%20in%20Moyale_Flash%20Update%201.pdf"
+  },
+  {
     "id": "rw-4235932",
     "provider": "reliefweb",
     "type": "original",
@@ -202,6 +219,23 @@
     "subregion": "Western Asia",
     "rw_id": "4235922",
     "file_url": "https://reliefweb.int/attachments/dab9d149-4552-4f81-b56d-902b200c0a06/unrwa_situation_report_237_on_the_humanitarian_crisis_in_the_occupied_palestinian_territory.pdf"
+  },
+  {
+    "id": "rw-4235892",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "WFP Algeria Country Brief, October 2026",
+    "source": "WFP",
+    "crisis": "Humanitarian Crisis",
+    "location": "Algeria",
+    "scope": "single",
+    "date": "2026-10-27",
+    "content": "<h2>IN NUMBERS</h2>\n<p><strong>133,672</strong> rations provided in September</p>\n<p><strong>1,959.8 mt</strong> food distributed in September</p>\n<p><strong>USD 179,839</strong> cash transferred in September</p>\n<p><strong>USD 18.4 M</strong> required in the next six months (October 2026 – March 2027)</p>\n<h2>KEY HIGHLIGHTS</h2>\n<ul>\n<li>Delayed funding confirmations and lengthy procurement and shipping lead times have caused commodity shortfalls since September, forcing ration reductions despite extensive mitigation measures, including commodity loans and borrowings. With December requirements entirely unfunded, urgent and flexible donor contributions are critical to restore full rations, stabilize the food pipeline and prevent further disruptions to life-saving assistance.</li>\n<li>Through strong partner complementarity, CRA and partners contributed 19 mt of assorted food commodities, complementing WFP’s 1,960 mt assistance and helping optimize beneficiary food baskets amid funding and pipeline constraints.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/algeria/wfp-algeria-country-brief-october-2026",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "rw_id": "4235892",
+    "file_url": "https://reliefweb.int/attachments/411b5365-1dd0-4adc-bb99-ebf87120ce65/2026%2010%20Algeria%20Country%20Brief.pdf"
   },
   {
     "id": "rw-4235857",
@@ -966,7 +1000,7 @@
     "region": "Other",
     "subregion": null,
     "rw_id": "4235385",
-    "file_url": "https://reliefweb.int/attachments/63a3057f-9924-49bb-840b-7f7675d3302a/Multi-Country-Ebola-Bundibugyo-Outbreak-Sit-Rep-22-12th-18th-October-2026.pdf"
+    "file_url": "https://reliefweb.int/attachments/5fd7ac5c-edba-447a-b709-fef6c6661fd6/Multi-Country-Ebola-Bundibugyo-Outbreak-Sit-Rep-23%20%2812th%20-18th%20October%202026%29.pdf"
   },
   {
     "id": "rw-4235299",
