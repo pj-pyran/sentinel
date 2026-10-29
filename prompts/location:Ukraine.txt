@@ -1,12 +1,48 @@
 Crisis / situation: Ukraine
 
---- Report 1: UNHCR (2026-10-22) ---
-No summary available.
+--- Report 1: UNICEF (2026-10-29) ---
+Highlights
 
---- Report 2: ACLED (2026-10-21) ---
-Key trends
+The third quarter of 2026 brought the heaviest civilian toll in Ukraine since the opening weeks of the full-scale invasion. The number of child casualties verified in 2026 (809) has now surpassed the total verified child casualties for all of 2025 (744), highlighting the alarming impact of the escalation of the war on children in recent months.
+Winter 2026-2027 is expected to be the most dangerous winter for children in Ukraine since the start of the full-scale war. UNICEF has accelerated winter preparations, providing US$45 million to the Ministry of Social Policy and Family Unity’s Humanitarian and Resilience Account to cover 104,000 households with a one-time winter cash transfer. District heating systems have been strengthened for 3.2 million people, and 22 health facilities have newly-installed energy back-up systems, benefiting 200,000 people. Further urgent support to water and heating systems, health facilities, schools and families will be rolled out by the end of the year.
+Recent tests results show that one-third of 15-year-old students are 1.5 years behind in science and math, and half are two years behind in reading. So far this year, 124,928 students have participated in UNICEF-supported catch-up classes.
+UNICEF and partners have reached 375,137 people with mental health and psychosocial support this year, including 219,023 children. In an August UNICEF survey, nearly half of people (46 per cent) reported emotional exhaustion almost every day.
 
-Russia intensified its strikes on civilians and critical infrastructure over the past week, with mass casualty incidents reported almost daily. Among the most deadly strikes, attacks in Kharkiv on 5 October, Pryluky on 7 October, and Kramatorsk on 8 October killed six, 22, and at least 32 civilians, respectively. Repeated mass casualty incidents point to a sustained threat to civilians and increase pressure on and danger to emergency responders across the country. Ukraine’s struggle to intercept faster, jet-powered Shahed drones compounds the threat as Russia has started intensifying strikes on civilian infrastructure ahead of winter. Although Russia has deployed fewer jet-powered drones on average per night so far in October than in September, it has increasingly dispersed them in smaller groups across the country, stretching Ukraine’s air defence and contributing to mass casualty incidents in multiple regions.
-In Russia, Ukraine has expanded its strike campaign against Yandex data centers that host services ranging from online searches to transportation, entertainment, cloud services, and AI. A drone strike on 8 October disabled the company’s data center in Sasovo, while a subsequent attack on its largest facility in Kaluga disrupted services. The strikes were likely intended to counter Russia’s attack on Ukrainian data centers, weaken Russia’s technological capabilities, and increase economic pressure on Russia. Yandex was forced to operate its cloud infrastructure in emergency mode, indicating the scale of the damage. The disruption could have long-term consequences, as replacing high-tech hardware and restoring full capacity may take months, if it’s even possible at all.
+--- Report 2: ACLED (2026-10-28) ---
+Ukraine Conflict Monitor  Update
+Russian strikes on civilian vessels threaten navigation in the Black Sea, while Ukraine finishes Operation Vivaldi.
+1,969 conflict events
+5% increase compared to last week
+197 incidents of violence targeting civilians
+14% decrease compared to last week
+At least 116 civilians killed by targeted violence
+34% decrease compared to last week
+1,134 air- and drone strikes
+4% increase compared to last week
+346 shelling events
+3% increase compared to last week
+469 armed clashes
+2% increase compared to last week
+283 Russian attacks on civilian infrastructure
+29% increase compared to last week
+Number of events and change compared to last week (per target):
+Education: 25 events
+Healthcare: 13 events
+Energy: 59 events
+Residential: 234 events
 
-Read more
+For the second week in a row, Russian forces struck civilian vessels in the Black Sea under the purported goal of disrupting supplies to Ukraine. Russia struck five grain and cargo vessels in the Exclusive Economic Zones of Bulgaria and Romania and two chemical tankers in Romania’s territorial waters near the Sulina mouth of the Danube River. Since the start of October, Russian strikes along the Western Black Sea coast have led to 12 reported fatalities of sailors, while 18 sailors are still missing. These figures far exceed the total over the previous quarter. While littoral states, such as Bulgaria, Romania, and Turkey, are scrambling to set up a NATO air defence mission against drone strikes, Russian strikes are expected to worsen Black Sea navigation security over the coming months, increase insurance costs for vessel operators, and affect global food prices by blocking Ukrainian wheat and grain exports.
+In the final part of its Operation Vivaldi, Ukraine’s Third Army Corps reported regaining another 101 km² in the direction of Lyman in Donetsk, retaking 16 settlements in total. Although preparations were initiated in early 2026, the local operation was announced in September to counter Russian efforts to encircle and attack the so-called “fortress belt” cities of Slovyansk and Kramatorsk, the two largest cities still under Ukrainian control in the Donetsk region. Local Ukrainian counteroffensives, such as Operation Vivaldi and the Oleksandrivka direction operations, suggest that Ukrainian forces can still thwart Russia’s attempts to threaten key towns and take territory, despite troop and munition replenishment issues.
+
+
+
+10 Oct.
+Zaporizhia — A Russian aerial bomb strike kills 23 civilians and injures 34 others in Zaporizhia city
+
+
+13 Oct.
+Kharkiv — A Russian soldier kills one civilian and five off-duty Ukrainian soldiers after infiltrating Ukrainian-controlled Mamotove and Mykhailivka
+
+
+14 Oct.
+Voronezh, Russia — A Ukrainian Neptune missile attack on the Borisoglebskiy Air Base destroys six Su-34 fighter aircrafts
