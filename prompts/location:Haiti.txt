@@ -1,22 +1,27 @@
 Crisis / situation: Haiti
 
---- Report 1: WFP (2026-09-07) ---
-597,304 people assisted in July 2026
-1,185 mt food distributed
-USD 7.9 M cash transferred
-USD 92 M required in the next six months (July – December 2026)
+--- Report 1: OCHA (2026-10-28) ---
+HIGHLIGHTS
 
-KEY HIGHLIGHTS
-• The final court-ordered extension of Temporary Protected Status for Haiti expired on 27 July, creating legal uncertainty for up to 350,000 Haitian nationals residing in the US and responsible for critical remittances supporting vulnerable households. WFP continues to monitor potential return movements and related preparedness requirements.
-• With preparations underway for the 2026/27 school year, as many as 280,000 children (one third of children targeted) are at risk of not receiving school meals as a result of gaps in available resources.
-• Elections will take place on 13 December, subject to funding and security. Political party registration began in July, noting challenges in the Ouest – the department most affected by violence, and the most populous.
+4 people died, 3 in Nippes and 1 in the South-East, and 2 fishermen are missing in Abricots (Grand’Anse).
+1,920 families affected in Nippes, where 1,767 houses are flooded and 48 small houses destroyed.
+630 houses flooded in Grand’Anse, where 4 houses were washed away in Gommiers.
+3 critical facilities flooded in Grand’Anse: the Corail community hospital, the Fond’Icaques national school and the Chambellan public market.
+200 houses flooded in Les Cayes (South), where several sections of the Ravine du Sud dykes collapsed.
+The Directorate General of Civil Protection (DGPC) has placed the entire Grand Sud on orange alert.
 
---- Report 2: WFP (2026-09-07) ---
-720,409 people assisted in June 2026
-1,118 mt food distributed
-USD 5.3 M cash transferred
-USD 74.2 M required in the next six months (July – December 2026)
+SITUATION OVERVIEW
+Since 24 October 2026, heavy rains have affected the South, Nippes and Grand’Anse departments. Several rivers have overflowed their banks, flooding many communes. According to situation reports from the Departmental Committee for Risk and Disaster Management (CDGRD) of Grand’Anse and the Departmental Directorates of Civil Protection (DDPC) of Nippes and the South, and to a 26 October report from the organization Entraide Médicale Internationale (EMI), three people died in Nippes and one in the South-East, and two fishermen are missing in Abricots (Grand’Anse).
+Nippes department is the hardest hit, with 1,767 houses flooded, 48 small houses destroyed and 1,920 affected families. In Grand’Anse, 630 houses were flooded, as were the Corail community hospital, a school and a public market. In the South, several hundred houses were flooded, including about 200 in Les Cayes, where several sections of the Ravine du Sud dykes collapsed.
+Agricultural and livestock losses are reported in a region already affected by drought. Several dirt roads were damaged, making access to some communes difficult. Population displacement has been reported. Families have found refuge with relatives in Grand’Anse, in schools in the South and Nippes, and in a church in Baradères.
+Departmental civil protection structures have partially activated emergency operations centres. They monitor the situation and conduct awareness-raising activities with communities. At this stage, the information collected remains preliminary; additional multisectoral data is expected as field assessments are consolidated.
 
-KEY HIGHLIGHTS
-• With the 2026 Atlantic hurricane season underway, WFP is strengthening national preparedness efforts in collaboration with the Directorate of Civil Protection through coordination support, prepositioning of contingency stocks, the establishment of anticipatory action mechanisms and early warning initiatives. Facing stressed commodity pipelines, WFP began to constitute locally sourced contingency food stocks sufficient to support up to 75,000 people during the immediate aftermath of a storm.
-• Haiti is progressing with the implementation of the UN80 Integrated Supply Chain pilot initiative. In June, UN agencies finalized governance arrangements, validated a Single-Entry Point approach and confirmed operational readiness for priority logistics services.
+--- Report 2: UNHCR (2026-10-27) ---
+Highlights
+
+In July, UNHCR partner OCNH and the Civil Registry Office in Hinche city signed an agreement to provide free issuance of civil status documents to 400 internally displaced persons, strengthening access to legal identity and reducing documentation-related protection risks.
+On World Humanitarian Day, UNHCR participated in a community discussion organized by its partner, ODELPA, focused on the challenges facing humanitarian actors amid insecurity and growing needs in Haiti.
+In August, UNHCR delivered a training session as part of the Haiti Summer University, organized by the Haitian Institute for Human Rights. The session targeted students engaged in the human rights field and focused on international protection, refugee rights, and asylum procedures.
+On 21 September, UNHCR participated in the Citizen Forum for Peace, organized by the Office de la Protection du Citoyen (OPC) and the UN Country Team, to mark the International Day of Peace, discuss social cohesion and civic participation.
+UNHCR and its partners conducted protection monitoring missions to Belladère, Ouanaminthe, Cap-Haïtien, and Kenscoff to assess displacement trends and protection risks. The missions supported birth registration for vulnerable groups and, through ICDH coordination with the National Archives, facilitated access to birth certificate extracts.
+In the framework of CERF-funded activities, UNHCR strengthened the capacity of partners ICDH, OCNH, ANH, ODELPA, AVSI, and REACH/ACTED to enhance coordination and protection standards, strengthening referral pathways and access to lifesaving services for people with international protection needs.

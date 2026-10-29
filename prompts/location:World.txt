@@ -1,125 +1,23 @@
 Crisis / situation: World
 
---- Report 1: AGRA (2026-10-14) ---
-Global Market Updates
+--- Report 1: Insecurity Insight (2026-10-29) ---
+SHCC Attacks on Health Care
+The section aligns with the definition of attacks on health care used by the Safeguarding Health in Conflict Coalition (SHCC).
+Africa
+Democratic Republic of the Congo
+12-13 October 2026: In Jissa locality, Djugu territory, Ituri province, a health centre was set on fire and looted by suspected CODECO militia, who stole pharmaceutical products and furniture from the facility. The facility supports the care of over 5,000 people. Sources: Actualite and UN News
 
-
-Global food commodity markets remained under upward pressure in September 2026 despite some month-on-month easing in grain and oilseed prices. The FAO Food Price Index rose by 1.5% from August and was 5.8% higher than a year earlier, driven by increases in cereals, vegetable oils, and sugar, reflecting Black Sea and Middle-East export disruptions, weather-related production risks, and tightening global supplies.
-While the International Grains Council’s Grains and Oilseeds Index declined by 3.4% during the month, it remained 19.5% above September 2025 levels, highlighting continued underlying market tightness. Wheat and maize prices eased from recent highs but remained significantly above year-earlier levels, while soyabeans recorded the strongest annual increase and rice continued to strengthen both monthly and annually.
-Overall, the data indicate that although short-term price corrections emerged in September, global food markets remain characterized by elevated prices, supply uncertainty, and persistent inflationary pressure across major grains and oilseeds.
-
-
-Global fertilizer markets remained firm in September 2026, with phosphate fertilizers leading price increases, potash remaining relatively stable, and urea recovering after earlier declines. DAP and MAP prices continued to rise on sustained demand, while potash recorded modest gains under balanced market conditions.
-Urea posted the strongest monthly increase, signaling a stabilization of nitrogen fertilizer markets following significant volatility earlier in the year. Although the Hormuz crisis has so far had limited impact on fertilizer availability due to advance purchases, inventories, and domestic production, it has contributed to higher fertilizer, fuel, and transportation costs.
-Rising input costs are prompting farmers to adopt more efficient nutrient management practices and could eventually reduce fertilizer application rates and shift production toward less input-intensive crops. Consequently, the greatest risk to agriculture is not an immediate supply shortage but the gradual erosion of fertilizer affordability, which could weaken productivity, reduce output, and increase food security risks if elevated input costs persist.
-
-
-Across Africa, fertilizer prices showed mixed trends in September 2026, with Rwanda recording the strongest and most sustained increases in both NPK and urea prices, while Malawi and Mozambique continued to experience notable longer-term price growth despite some recent easing. In contrast, Uganda and Zambia saw significant declines in several fertilizer categories, reflecting market corrections after earlier increases.
-Zambia’s expanding domestic fertilizer blending and granulation capacity is helping reduce prices, particularly for NPK fertilizers, but because the country still relies heavily on imported raw materials such as urea, DAP, and potash, fertilizer prices remain significantly influenced by global market conditions, exchange rates, and transport costs.
-West African markets were generally more stable, with Ghana experiencing sharp short-term declines in urea prices and Nigeria recording modest price reductions and overall market stabilization. Regionally, the data suggest that fertilizer affordability remains a concern in parts of East and Southern Africa, while price pressures have eased in several West African markets, resulting in increasingly divergent fertilizer cost and input access conditions across the continent.
-
-
-As part of efforts to mitigate the impacts of the energy and fertilizer crisis, the African Development Bank Group has approved the Global Energy and Fertilizer Crisis Response Framework (GEFCRF), a one-year, demand-driven initiative backed by approximately USD 5.1 billion in additional financing to help African countries mitigate the impacts of the ongoing global energy, food, and fertilizer crisis. Triggered by rising commodity prices, supply chain disruptions, and trade bottlenecks linked to Middle East tensions, the framework aims to provide immediate relief while strengthening long-term resilience.
-Building on lessons from the Bank’s COVID-19 and emergency food production responses, the GEFCRF will support countries through four pillars: stabilizing macroeconomic conditions through rapid financing and policy support; securing food, energy, and fertilizer supplies while protecting vulnerable populations; safeguarding essential public spending and targeted social protection for women, youth, and other at-risk groups; and advancing reforms that reduce dependence on volatile external markets, strengthen regional supply chains, and enhance resilience to future shocks.
-
-
-Food Commodity Prices Updates
-
-
-Maize prices in Eastern Africa exhibited mixed trends between August and September when expressed in USD terms. Prices declined in South Sudan (-31.5%), Uganda (-4.3%), and Kenya (-3.2%) due to improved market supplies, stronger cross-border inflows, and increased regional trade, although South Sudan remained the most expensive maize market at USD 1,006/MT.
-Conversely, Ethiopia (+7.9%), Rwanda (+6.8%), and Tanzania (+4.6%) recorded price increases, reflecting tightening domestic supplies and sustained demand, with Tanzania remaining the lowest-priced market at USD 227/MT.
-However, local currency trends reveal more pronounced market pressures in some countries. Ethiopia continued to face significant inflationary pressures, with maize prices rising sharply and remaining 49-76% above six-month and year-earlier levels, while Rwanda also experienced moderate increases. In contrast, Kenya, Uganda, and Tanzania recorded generally lower prices than six months and one year earlier, reflecting improved supplies and recent harvests, although South Sudan’s prices remained above historical levels despite the sharp monthly decline.
-
-
-Rice prices across the region were relatively stable in USD terms, with modest increases in South Sudan (+4.0%), Tanzania (+3.9%), and Uganda (+0.7%), while Kenya (-1.8%) and Rwanda (-1.1%) registered slight declines. Kenya remained the region’s highest-priced rice market despite the decrease, whereas Tanzania remained relatively competitive.
-In local currency terms, trends were more varied. South Sudan experienced the strongest upward pressure, with rice prices increasing 5.6% month-on-month and remaining 27-40% above levels recorded three and six months earlier, reflecting persistent supply constraints and import dependence. Uganda and Tanzania also recorded moderate monthly increases, although Tanzania’s rise occurred within a broader medium-term downward trend.
-Meanwhile, Kenya and Rwanda continued to experience easing rice prices, with declines recorded across recent months; however, Rwanda’s rice prices remained over 20% above year-earlier levels, indicating that longer-term inflationary pressures have not yet fully subsided.
-
-
-Maize prices in Southern Africa generally increased between August and September in USD terms, reflecting seasonal tightening and localized supply pressures. Malawi recorded the largest increase (+10.0%), followed by Zambia (+4.3%) and Mozambique (+1.0%).
-Although Malawi remained the highest-priced maize market when using the official exchange rate, prices converted using the parallel exchange rate suggest it was among the lowest-priced markets in the region, highlighting the influence of exchange-rate distortions on regional comparisons.
-In local currency terms, Malawi also recorded the strongest monthly increase (+9.9%), while Zambia (+4.4%) and Mozambique (+0.9%) registered more modest gains. However, despite these recent increases, maize prices in all three countries remained below six-month and year-earlier levels, indicating that improved harvests and better market supplies continue to support a broader medium- to long-term downward price trend.
-
-
-Rice prices showed more varied movements across Southern Africa. In USD terms, prices increased in Malawi (+5.9%) and Mozambique (+2.3%), reflecting continued supply constraints, stronger demand, and higher import costs, while Zambia recorded a significant decline (-11.0%) due to improved market availability and easing domestic market pressures.
-Local currency trends mirrored these movements, with rice prices rising in Malawi and Mozambique but falling sharply in Zambia. Despite recent increases in Malawi and Mozambique, rice prices remained below levels observed six months earlier, reflecting broader market normalization.
-Zambia exhibited the strongest easing trend, with rice prices declining across all comparison periods, including three-month, six-month, and year-on-year intervals, pointing to sustained improvements in market availability and reduced pressure in the domestic rice market.
-
-
-Maize prices in West Africa showed mixed movements between August and September in USD terms, with Mali standing out as the only market recording a substantial increase (+17.4%) as tightening supplies and reduced inflows strengthened prices.
-By contrast, maize prices declined in Togo (-7.3%), Niger (-5.0%), Ghana (-2.8%), and Burkina Faso (-2.1%), while Nigeria remained largely stable (+0.8%), reflecting improved market availability and easing supply pressures in several countries.
-Local currency trends indicate that although short-term movements were mixed, maize prices generally remained below year-earlier levels across the region. Mali experienced the strongest upward pressure, with prices rising sharply in key markets and recording positive medium-term growth, while Ghana, Niger, and Nigeria saw relatively stable monthly prices but still remained below last year’s levels. Togo recorded broad-based declines across all monitored markets and time periods, and Burkina Faso generally showed stable to declining trends, suggesting improved regional maize availability and continued market normalization.
-
-
-Rice prices declined across all monitored West African markets in USD terms, reflecting improved supplies and easing market pressures. The largest declines were recorded in Nigeria (-18.3%) and Mali (-12.9%), followed by Togo (-5.2%), Niger (-4.3%), Ghana (-2.9%), and Burkina Faso (-2.0%). Despite the decline, Ghana remained the highest-priced rice market in the region.
-Local currency trends broadly mirrored the USD movements, with Nigeria recording the sharpest and most sustained declines across all comparison periods, indicating significantly improved availability and easing inflationary pressures. Togo also experienced widespread declines, while rice prices in Niger remained largely stable with modest medium-term increases.
-In Mali, local rice prices fell in most markets, although imported rice prices strengthened in some locations, highlighting divergent trends between domestic and imported supplies. Burkina Faso presented a mixed picture, with stable prices in most markets but notable increases in select locations, while Ghana’s rice prices remained broadly stable despite continuing to trend below year-earlier levels.
-Overall, regional rice markets showed clearer signs of easing than maize markets, supported by improved supply conditions and lower prices compared to a year ago.
-
-
-Food Security Updates
-
-
-East Africa’s food-security outlook remains highly uneven, shaped by conflict, production deficits, displacement, high prices and the contrasting effects of El Niño. Severe food insecurity persists in conflict-affected and drought-prone areas, particularly in Ethiopia and South Sudan, where below-average harvests, disrupted livelihoods and restricted market and humanitarian access are driving Crisis (IPC Phase 3), Emergency (IPC Phase 4) and, in parts of South Sudan, Catastrophe (IPC Phase 5) outcomes.
-At the same time, above-average October–December rainfall could improve water availability, pasture, livestock productivity, second-season crop production and agricultural labour opportunities in parts of Kenya, Uganda and Tanzania. These potential gains will be uneven and may be offset by flooding, waterlogging, crop and infrastructure damage, disease outbreaks and disrupted market access in flood-prone areas.
-The central policy challenge is therefore to manage a dual hazard: sustain drought recovery and production support where rainfall is beneficial while pre-positioning flood protection, market-continuity measures and humanitarian access in high-risk locations.
-
-
-Southern Africa’s food-security outlook is expected to deteriorate through the 2026/27 lean season as household food stocks decline, purchasing power weakens and the risk of a strong El Niño production shock increases. Malawi, Mozambique, Zambia and Zimbabwe are likely to see Stressed (IPC Phase 2) outcomes expand, with localized Crisis (IPC Phase 3) emerging among households that enter the season with limited stocks, low incomes and high dependence on markets.
-Current national maize availability and favourable recent harvests provide a temporary buffer in parts of the region, but this protection is uneven and may erode if the rainy season starts late, rainfall becomes erratic, temperatures remain above average and agricultural labour demand falls.
-Conflict in northern Mozambique, livestock disease restrictions, high fuel and transport costs and declining rural incomes will further reduce households’ capacity to absorb production losses. Preparedness should therefore focus on preserving grain-market stability, safeguarding planting and livestock assets, expanding water management and climate-resilient production, and pre-financing targeted assistance before stocks and incomes deteriorate further.
-
-
-Food security conditions across West Africa remain mixed but continue to be heavily shaped by conflict, insecurity, climatic shocks, and high food prices. Severe food insecurity persists in conflict-affected areas of the Central Sahel and Lake Chad Basin, with Emergency (IPC Phase 4) outcomes reported in parts of Mali and northeastern Nigeria, while Crisis (IPC Phase 3) conditions are expected to continue through early 2027 in insecure areas of Burkina Faso, Niger, northern Nigeria, and parts of Mali.
-Armed conflict and population displacement continue to disrupt agricultural production, market functioning, trade flows, and access to livelihoods, particularly in Burkina Faso, Mali, Niger, and Nigeria. Across much of the region, delayed and erratic rainfall, prolonged dry spells, poor pasture conditions, and localized crop losses are expected to result in below-average agricultural and livestock production, further constraining food availability and incomes.
-Although the start of the harvest season is expected to improve food access and reduce prices in many areas, especially in Mali, Niger, and Togo, high staple food prices, reduced purchasing power, and ongoing insecurity continue to limit recovery for vulnerable households.
-In contrast, coastal countries such as Togo are benefiting from favourable production prospects and improved food availability, while northern Côte d’Ivoire faces increasing food security risks from cross-border insecurity, below-average rainfall, and declining cocoa incomes, highlighting widening disparities in food security outcomes across the region.
-
-
-Update on El Niño Conditions
-
-
-The 2026/27 El Niño is intensifying rapidly and is expected to remain strong through early 2027, creating sharply differentiated food-security risks across Africa. The most serious near-term concern is Southern Africa, where delayed and erratic rainfall, prolonged dry spells and above-average temperatures could reduce crop and pasture production and tighten regional maize supplies in 2027.
-In East Africa, impacts are likely to be mixed: enhanced October–December rainfall may improve water, pasture and second-season production in some areas, while flooding, waterlogging, crop damage and disrupted market access could worsen food insecurity elsewhere. In the Sahel, localized rainfall deficits may compound conflict, displacement and high prices.
-Governments and partners should therefore use forecast-based triggers to protect strategic food reserves, keep regional trade corridors open, pre-position agricultural and livestock support, expand irrigation and water management, and finance scalable social protection before the 2027 lean season.
-
-
-Food Trade Updates
-
-
-The AfCFTA Secretariat and Quest Ghana Limited have signed an agreement to develop a digital trade corridor aimed at more than doubling intra-African commerce from approximately $200 billion to $500 billion.
-The initiative will integrate a digital marketplace, minerals and commodities exchange, interoperable cross-border payments and logistics infrastructure, potentially reducing the more than $5 billion annual cost of intra-African trade payments. Supported by Seychelles, the project targets improved trade access for businesses, including SMEs.
-
-
-Somalia has become the 50th State Party to the African Continental Free Trade Area (AfCFTA) after depositing its instrument of ratification on 4 September 2026, securing full legal participation in Africa’s single market and enabling Somali businesses to benefit from AfCFTA preferences once they meet applicable rules of origin.
-However, ratification alone does not guarantee immediate preferential market access, as Somalia must still align its customs systems, implement AfCFTA tariff schedules, and fulfil outstanding regional trade commitments, including within the East African Community.
-Somalia’s accession reflects the broader shift in AfCFTA from agreement ratification to practical implementation, as countries work to address customs, tariff, standards, payment, and value-chain challenges that continue to limit intra-African trade. With support from the AfCFTA Secretariat, Somalia is now focused on translating its legal membership into tangible commercial opportunities for exporters and businesses across the continent.
-
-
-On 21 September 2026, Afreximbank and the Africa Trading and Distribution Company (ATDC) signed a US$500 million Global Credit Facility to strengthen trade, logistics, and distribution networks across Africa, supporting the aggregation, transportation, warehousing, and movement of African goods.
-Operating initially in Egypt, Nigeria, Malawi, and Zimbabwe, ATDC will use the financing to expand trade corridors, improve market access, enhance supply chains, promote local value addition and import substitution, and accelerate implementation of the AfCFTA. The facility is expected to deepen regional value chains, increase the availability of raw materials and value-added products, boost intra-African trade, and improve the competitiveness of African exports in regional and global markets.
-
-
-Zimbabwe has secured financing of approximately US$66.8 million to modernize the Chirundu One-Stop Border Post with Zambia under a public-private partnership, with construction expected to begin in October and be completed within 18 months.
-The upgrade will replace aging infrastructure and introduce advanced technology and operational systems to improve cargo processing, reduce congestion, and shorten delays along one of Southern Africa’s most important trade corridors linking the Copperbelt to ports in South Africa and Mozambique. Handling key commodities such as copper, cobalt, fuel, fertilizer, mining equipment, and agricultural products, the upgraded border post is expected to lower logistics costs, facilitate regional trade, and strengthen Zimbabwe’s role as a regional transport and logistics hub.
-
-
-Nigeria has reduced the processing time for AfCFTA Certificates of Origin from over five days to just 24 hours through the digitisation and automation of registration, verification, and certification procedures, enabling businesses to access AfCFTA trade preferences more quickly and improve competitiveness.
-The country has also resolved eight non-tariff barrier cases, facilitated access to the AfCFTA Adjustment Fund, advanced a domestication bill for the agreement, and launched digital trade initiatives, while trade missions and business engagements have already generated export opportunities.
-
---- Report 2: UNHCR (2026-10-13) ---
-Highlights
-1. Recorded movement indicators declined in August, particularly by sea. Compared with July, total departures fell by 26% and arrivals by 44%; however, the decline in arrivals should be interpreted cautiously because August data for Greece are not yet available. Maritime disembarkations decreased more moderately, by 3%, to 4,352. Between January and August, reported departures and arrivals were both 44% lower than during the same period in 2025, while maritime disembarkations were 41% lower. Despite the lower number of recorded movements, the protection toll remained severe: 2,050 people were reported dead or missing at sea between January and August 2026, only 6% fewer than during the same period in 2025.
-2. The cumulative geographic composition continued to evolve. The Central Mediterranean and Western Africa Atlantic Routes represented smaller shares of reported arrivals, while the South and South-East Asia and Western Mediterranean Routes accounted for a larger share of movements recorded between January and August 2026. As August data for Greece are not yet available, findings related to the Eastern Mediterranean Route should be treated as preliminary.
-3. Nationality patterns shifted on the Central Mediterranean Route in August. Bangladeshi nationals became the largest reported group, while arrivals of Somali, Sudanese, Tunisian and Pakistani nationals also increased. Algerian arrivals declined and accounted for a substantially smaller share than in July, resulting in a more diversified nationality profile. Nationality changes on the Eastern Mediterranean Route cannot be assessed reliably because August data currently include Cyprus but not Greece.
-(*) Figures reflect data available at the time of publication and may be subject to subsequent updates or revisions. For the latest available data, please consult the Routes Monitor platform.
-
---- Report 3: Insecurity Insight (2026-10-13) ---
-Insecurity Insight identified 2,064 incidents of violence against or obstruction of health care in 42 countries between 01 January and August 2026. On average, health care was attacked four times a day. Health facilities were damaged or destroyed over 800 times, 418 health workers were killed, 96 kidnapped and 221 arrested. Nearly 70% of reported incidents were attributed to state actors, with the Russian Armed Forces and Israeli Defense Forces accounting for over half of the 1,202 incidents recorded.
-
---- Report 4: Insecurity Insight (2026-10-13) ---
-Aid in Danger News Brief
-The impact of drones on aid operations
-In 2025, incidents where drone-delivered explosives impacted aid operations increased by 235%, from 23 recorded incidents in 2024 to 77. In these incidents, aid workers were killed or injured while aid assets and humanitarian supplies were damaged or destroyed, including in attacks on distribution sites and convoys transporting supplies. These incidents occurred amid over 1,800 recorded drone-related incidents affecting aid operations and critical civilian services such as healthcare, education, food and water systems and IDP or refugee settlements areas - a 131% increase compared to 2024.
-In 2025 a growing number of aid workers killed by drones
-In 2025, at least 28 aid workers were killed by drone strikes, a 65% increase from 2024 and the highest annual toll since 2021, when Insecurity Insight documented an aid worker killed by a drone. Almost a third of aid workers killed or injured were employed by local non-governmental organisations (LNGOs), which deliver frontline assistance despite having more limited financial resources than UN agencies and larger international organisations. Aid workers were killed by drones whilst carrying out their duties, particularly when travelling in convoys delivering critical aid supplies or moving between project sites. Aid workers were also killed in drone strikes at aid compounds or residences, and at aid distribution points.
+--- Report 2: Insecurity Insight (2026-10-29) ---
+Reporting Sexual Violence
+By state bodies or conflict actors that particularly targets IDPs and refugees, aid, health workers or educators or students among others.
+Africa
+Central African Republic
+21-25 September 2026: In Mbomou prefecture, six cases of gender-based violence (GBV) by an unidentified perpetrator were reported. Two GBV survivors were referred to Rafaï Hospital for medical care. Source: OCHA Situation Report No. 87
+South Africa
+03 September 2026: In Amatikwe village, Inanda township, KwaZulu-Natal province, a 15-year-old girl was raped by a police officer after leaving her home on 27 August 2026, she was offered a place to stay by the officer. The sergeant was arrested and appeared at the Ntuzuma Magistrate’s Court on 09 September. Sources: IOL and Weekend Argus
+South Sudan
+28 September 2026: Between Lui and Lanyi Dawa, Mundri East county, Equatoria state, an unspecified number of women were raped during a road ambush of a bus driving along the road from Juba to Mundri, by an unidentified armed group. At least 32 people were abducted in the attack. Source: Radio Tamazuj
+Nigeria
+20 September 2026: In Jalingo, Taraba state, a female student was raped by members of an unidentified armed group during an overnight attack on a female hostel of the Taraba State College of Nursing Sciences. The hostel was located outside the institution's main premises. Several other students were injured, and valuables, including mobile phones were taken. The attack triggered a peaceful protest by hundreds of students. Source: Daily Post
+Sudan
+As reported on 05 September 2026: In El Fasher city, North Darfur state, the UN confirmed that senior commanders of the RSF directly ordered fighters to commit rape and killings during the October 2025 take over of El Fasher. Source: Sudan Tribune
