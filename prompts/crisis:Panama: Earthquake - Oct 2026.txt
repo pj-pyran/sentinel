@@ -1,21 +1,27 @@
 Crisis / situation: Panama: Earthquake - Oct 2026
 
---- Report 1: WFP (2026-10-23) ---
-KEY HIGHLIGHTS
-• At the request of the Government of Panama, WFP started responding within 24 hours of the earthquake. WFP is currently supporting the national response, in coordination with UN agencies and the humanitarian community, through logistics infrastructure, emergency connectivity, technical assistance and common services for national institutions and humanitarian partners.
-• To date, WFP has deployed four Mobile Storage Units (MSUs) to affected areas, alongside additional logistics, power and connectivity equipment, helping strengthen temporary health capacity, humanitarian storage, shelter, and response operations.
-• WFP developed a six-month emergency response framework to sustain logistics and telecommunications services and potentially complement Government food assistance. Further assessments and Government requests will inform the scale, targeting and appropriate response modality.
-SITUATION OVERVIEW
-• A powerful magnitude 7.7 earthquake struck Panama on 9 October, with the strongest impacts reported across Los Santos, Herrera, Veraguas, and Coclé provinces.
-• The Government declared a national state of emergency on 10 October and established a High-level Inter-Institutional Committee to coordinate the response, including various Ministries and the National Civil Protection System (SINAPROC, for its Spanish acronym) through its Emergency Operations Centre (COE, for its Spanish acronym).
-• Assessments are still ongoing, with one fatality and 27 injuries reported to date. At least 35,065 people have been affected, and 5,628 remain in 126 shelters, mainly in Veraguas and Los Santos. Over 4,000 houses, 619 schools, and 120 health facilities have been impacted. Rain, landslides and swollen rivers continue to constrain access to isolated communities and compound water and sanitation gaps.
-• WFP visited the areas most affected by the earthquake as part of an initial inter-agency assessment. The mission found that markets are gradually recovering, although functionality remains more limited in smaller rural communities and hard-to-reach areas, requiring further assessments.
-
---- Report 2: OCHA (2026-10-22) ---
+--- Report 1: OCHA (2026-10-29) ---
 KEY POINTS
-• More than 35,000 people have been affected by the magnitude 7.5 earthquake that struck the Azuero Peninsula and several other provinces on 9 October.
-• More than 5,000 people remain in 126 temporary shelters, mostly in Veraguas.
-• Damage to homes remains extensive, with more than 2,318 homes totally damaged and more than 6,000 with partial or minor damaged.
-• Essential services are still disrupted, and schools in Los Santos, Herrera, Coclé and Veraguas remain closed.
-• Since 20 October, several affected districts in Veraguas and Los Santos have been under a yellow
-alert for heavy rain and landslide risk.
+
+Some 4,500 people remain in shelters after the magnitude 7.5 earthquake on 9 October.
+The priority is helping affected people return home, while temporary shelter solutions and home reconstruction continue.
+Education activities are gradually resuming, but schools in Los Santos, Herrera, Coclé and Veraguas remain closed.
+Rain and seismic activity continue to pose risks in affected areas.
+
+--- Report 2: UNICEF (2026-10-27) ---
+Highlights
+
+
+Two weeks after the 9 October earthquake, humanitarian needs remain significant in the provinces of Los Santos, Veraguas, Coclé and Herrera. Although response actions have addressed the most immediate needs of affected populations, thousands of people continue to face challenges related to temporary displacement, loss or damage of housing, disruptions to basic services, and impacts on educational infrastructure.
+
+
+According to the latest official assessments, 12.365 homes were assessed and 40.880 people registered through the Damage Assessment and Needs Analysis (EDAN). Damage to housing remains one of the main impacts of the earthquake, affecting 2,896 families, of whom 908 have reported the total loss of their homes. In addition, 160 shelters continue to provide temporary accommodation to 5.779 displaced people. The provinces of Los Santos, Veraguas, Coclé and Herrera account for the majority of reported impacts.
+
+
+During the reporting period, UNICEF maintained its support to the Government-led response through coordination, monitoring and assistance actions in water, sanitation and hygiene (WASH), education, and child protection. Monitoring missions conducted in the Azuero Peninsula showed that, although the emergency has evolved into an early recovery phase, significant humanitarian gaps persist, particularly for displaced families, children and persons with disabilities.
+
+
+UNICEF expanded its response through the distribution of 133 mosquito nets funded by DG ECHO, support to water and sanitation interventions implemented together with its implementing partner at the temporary site of La Pericada, and the coordination of actions aimed at educational recovery and psychosocial support for children and adolescents affected by the earthquake.
+
+
+Despite progress in the emergency response, significant humanitarian needs remain among displaced families, children and adolescents affected by educational disruption, and communities with limited access to adequate water, sanitation and hygiene (WASH) services. Likewise, psychosocial support and protection needs remain for the most vulnerable populations affected by the emergency.
