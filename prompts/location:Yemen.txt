@@ -1,29 +1,24 @@
 Crisis / situation: Yemen
 
---- Report 1: IOM (2026-10-26) ---
-IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
-From 1 January to 24 October 2026, IOM Yemen DTM tracked 49,388 households (HH) (296,328 Individuals) who experienced displacement at least once.
-Between 18 and 24 October 2026, IOM Yemen DTM tracked 2269 households (13614 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
-• Lahj-(900 HHs) – Al Madaribah Wa Al Aarah (534 HHs), Tuban (179 HHs), Al Maqatirah (92 HHs) districts. Most displacements in the governorate were internal.
-• Taiz-(600 HHs) – Al Mudhaffar (162 HHs), Mashrah Wa Hadnan (143 HHs), Ash Shamayatayn (132 HHs) districts. All displacements in the governorate were internal.
-• Aden-(553 HHs) – Al Burayqah (409 HHs), Dar Sad (93 HHs), At Tawahi (22 HHs) districts. Most displacements in the governorate originated from Lahj.
-The majority of people moved from the following governorates and districts:
-• Lahj- (1248 HHs) – Al Madaribah Wa Al Aarah (1240 HHs), Al Maqatirah (4 HHs), Al Musaymir (3 HHs) districts.
-• Taiz- (897 HHs) – Al Misrakh (209 HHs), Al Mudhaffar (125 HHs), Ash Shamayatayn (117 HHs) districts.
-• Al Hodeidah (75 HHs) – Al Khukhah (21 HHs), Hays (19 HHs), Al Jarrahi (10 HHs) districts.
-IOM identified 2626 additional households displaced in earlier reporting periods, based on Kobo submissions received during the current reporting period in the governorates: of Aden (2005 HHs), Lahj (300 HHs), Abyan (250 HHs), Marib (26 HHs), Hadramawt (16 HHs), Ad Dali (15 HHs), Al Maharah (9 HHs), and Taiz (5 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
+--- Report 1: OCHA (2026-10-30) ---
+KEY HIGHLIGHTS
 
---- Report 2: WFP (2026-10-26) ---
-IN NUMBERS
-1.4 m people assisted in September 2026
-12,220 mt food distributed
-US$ 5.8 m cash transferred
-US$ 294 m 6-month net funding requirement (November 2026 – April 2027)
-HIGHLIGHTS
+Displacement continues to grow, with more than 281,000 people displaced. Most have fled fighting in Ta’iz and along the West Coast, and a new surge from Lahj in mid-October shows that the crisis is spreading rather than stabilizing.
+People in and around Ta’iz City face growing hardship. With access to several city districts severely restricted, health facilities face shortages of fuel, water and medicines, some supplies for the city are still awaiting delivery, and fewer displaced families are able to leave the governorate.
+Civilians continue to bear the brunt of the fighting. As of 27 October, OHCHR had documented 263 civilian casualties, including 67 people killed. Children account for 97 of the casualties and about half of those killed.
+207,480 IDPs (29,640 households) have been reached with first-line RRM assistance, and most have received their kits; almost 9,000 registered families are still waiting as supply pipelines, clearances and insecurity slow delivery.
+Second-line assistance lags far behind needs. Emergency cash has reached most verified families and food assistance just over half of verified households, but shelter and WASH support has reached only a minority of households in need, and nutrition treatment a small share of those targeted, leaving families in crowded sites exposed as cholera spreads.
+Protection risks are rising. Partners report more family separation, explosive ordnance risks, eviction threats and a growing risk of gender-based violence, while five safe spaces for women and girls have closed.
+Partners continue to deliver in hard-to-reach areas. A small number of national and international partners keep health, water, shelter, cash and mine action services running in the West Coast.
+Access getting more constrained. Taiz continues to be encircled with limited access for humanitarian and commercial supplies. Humanitarian movements are being restricted at checkpoints despite approved permits, and damaged roads are slowing supplies between Ta’iz and the south.
+Much of the displacement in areas under the de facto authorities goes unrecorded. Unverified estimates point to thousands of newly displaced families in Ta’iz, Ibb, Al Bayda and Dhamar.
 
-WFP welcomes the release of one of its staff members arbitrarily detained in Yemen and stands in solidarity with the 71 UN personnel, including 37 WFP staff and five former UN personnel who remain detained, continuing efforts to secure their immediate and safe release.
-The food security situation continues to deteriorate in GoY controlled areas. The crisis is even more acute in Ta’iz, with disrupted supply routes, soaring prices and collapsing essential services exhausting vulnerable households’ coping capacity.
-Amid blocked humanitarian access, WFP has launched calibrated emergency cash-based assistance in Ta’iz cut-off districts, providing a vital food lifeline for displaced people.
-WFP requires USD 294 million to sustain its regular activities through April 2027 and support up to 1.5 million people affected by the ongoing conflict, should hostilities escalate further across all fronts.
-Restoring safe, sustained and unimpeded humanitarian and commercial access to Ta’iz is critical to prevent vulnerable families from slipping deeper into hunger and meet surging needs.
-WFP signed a strategic agreement with the Ministry of Agriculture, Irrigation and Fish Wealth to strengthen food security information and climate resilience while advancing locally-led recovery and institutional capacity.
+--- Report 2: IOM (2026-10-29) ---
+IOM Yemen DTM continues to record displacement caused by the escalation in western Yemen. On 27 October 2026, IOM Yemen DTM recorded an increase of 12,522 individual IDPs compared to the figure presented in the RDT report distributed on 26 October 2026, bringing displacement between 1 August and 27 October to approximately 286,711 individuals (47,779 households). This brings the cumulative number recorded since the escalation began in June 2026 to 287,767 individuals (47,955 households).
+The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 128,484 individuals (45%), followed by Lahj Governorate with 71,100 individuals (25%), and Aden Governorate with 53,016 individuals (18%). Additional displacement was recorded in Abyan with 15,102 individuals (5%); Al Hodeidah with 8,244 individuals (3%); Shabwah with 3,420 individuals (1%); Hadramawt with 2,820 individuals (1%); Ma’rib with 2,280 individuals (less than 1%); Al Maharah with 1,968 individuals (less than 1%); and Ad Dali’ with 1,333 individuals (less than 1%)
+
+--- Report 3: UNHCR (2026-10-28) ---
+Highlights
+▪ Displacement from Yemen continues to rise, with newly displaced populations reaching 275,245 people between 1 August and 24 October, exceeding initial planning assumptions. Taiz remains the most affected governorate, accounting for 72% of new departures and hosting 49% of those newly displaced. Revised planning scenarios are being prepared as the number of people displaced has exceeded initial planning assumptions.
+▪ Movements across the Gulf of Aden continue, with arrivals reaching 4,151, including 3,836 to Djibouti and 315 to Somalia as of 25 October.
+▪ On 20 October, the first return flight from Yemen to Somalia took place since the assisted voluntary programme was halted due to the escalation of hostilities. Some 138 Somali refugees departed from Aden to Mogadishu.
