@@ -1,5 +1,56 @@
 [
   {
+    "id": "rw-4236370",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Cyclone Arnab: Andhra Pradesh, Yanam (Puducherry) and Odisha (Date: 30 October 2026, Time: 08:00 IST)",
+    "source": "Sphere India",
+    "crisis": "Tropical Cyclone",
+    "location": "India",
+    "scope": "single",
+    "date": "2026-10-30",
+    "content": "<p><strong>SITUATION UPDATE</strong></p>\n<p><strong>Key developments since SitRep 01</strong></p>\n<ul>\n<li>Odisha floods: extreme rain Patrapur 546 mm) caused flash floods in Ganjam and Gajapati; Rushikulya embankments breached. Helicopters are evacuating people and dropping food.</li>\n<li>AP: CM puts deaths at 7 and the preliminary loss at ₹4,600 crore; crop and road damage estimates have risen sharply.</li>\n<li>Centre: the Union Home Minister spoke to the CMs of AP, Odisha, Chhattisgarh and Puducherry; Inter-Ministerial Central Teams are assessing damage from 30 October.</li>\n<li>Network: 33 agencies met in the IAC coordination meeting 29 Oct); IAG Odisha shared its SitRep; first agency entry received in the URS form.</li>\n<li>New system: a depression may form on 31 October and head towards the AP coast.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/india/cyclone-arnab-andhra-pradesh-yanam-puducherry-and-odisha-date-30-october-2026-time-0800-ist",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "rw_id": "4236370",
+    "file_url": "https://reliefweb.int/attachments/79becbbe-d005-464f-94da-c1cb62e6a5bc/Situation%20Report%20-%202%20Cyclone_Arnab%20-%20Sphere%20India.pdf"
+  },
+  {
+    "id": "rw-4236373",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Multi-Country Ebola Bundibugyo Outbreak Update n°24",
+    "source": "IOM",
+    "crisis": "Central/Eastern Africa: Ebola Outbreak - May 2026",
+    "location": "Democratic Republic of the Congo, Kenya, Nigeria",
+    "scope": "regional",
+    "date": "2026-10-30",
+    "content": "<p>According to the Ministry of Health of the Democratic Republic of the Congo (DRC), as of 24 October 2026, the country had reported 9,964 confirmed cases of Bundibugyo virus disease (BVD), including 4,841 deaths, representing an increase of 412 cases and 239 deaths since 18 October. Since the beginning of the outbreak, 66 health zones across 8 provinces have reported at least one confirmed case. Ituri remains the epicentre, accounting for 72 per cent of cumulative cases, while transmission continues to be concentrated in Ituri and North Kivu. On 24 October, 88 new confirmed cases were reported (44 in Ituri, 39 in North Kivu and 5 in Haut-Uélé), compared with 97 on 18 October. A total of 38 deaths were reported, including 26 community deaths. Contact follow-up improved from 76.9 per cent on 18 October to 87.1 per cent on 24 October, although it remains below the 95 per cent target, with 4,855 contacts not seen. Laboratory surveillance indicated ongoing transmission, with 512 samples tested on 24 October and a positivity rate of 17.2 per cent. The outbreak continues to place significant pressure on frontline response capacities, with 269 frontline workers affected since the start of the outbreak, including 180 in Ituri and 45 in North Kivu.</p>\n<p>The regional situation evolved further during the reporting period. In Nigeria, authorities confirmed the country's first imported BVD case in Abuja on 20 October, making it the fifth country to report a case since the outbreak was declared in DRC. By 24 October, 53 contacts had been identified and were under follow-up, while a suspected case reported in Rivers State subsequently tested negative. In Kenya, the number of confirmed cases increased from seven to nine, including one death. All secondary cases remain epidemiologically linked to the imported index case, and no transmission outside the identified cluster has been reported.</p>\n<p><strong>Key highlights include:</strong></p>\n<ul>\n<li>The Democratic Republic of the Congo (DRC) has reported <strong>9,964 confirmed cases</strong> and <strong>4,841 deaths</strong>. Transmission remains concentrated in eastern DRC, with <strong>88 new confirmed cases</strong> reported on 24 October, primarily in Ituri and North Kivu.</li>\n<li><strong>Nigeria</strong> confirmed its <strong>first imported BVD case</strong> on 20 October, with 53 contacts identified and under follow-up.</li>\n<li>In <strong>Kenya</strong>, confirmed cases increased to <strong>nine</strong>, all linked to the imported index case, with <strong>no evidence of wider community transmission</strong> beyond the identified cluster.</li>\n<li>IOM has supported more than <strong>51.8 million health screenings</strong> at points of entry and points of control across affected and at-risk countries since the beginning of the response.</li>\n<li>Nearly <strong>48.2 million people</strong> have been reached through risk communication and community engagement (RCCE) activities.</li>\n<li>Preparedness and response activities continue across <strong>DRC, Uganda, Burundi, Rwanda, South Sudan, Kenya and Nigeria</strong>, while preparedness efforts are ongoing in <strong>Angola, CAR, Cameroon, Ethiopia, the Republic of the Congo, Tanzania and Zambia</strong>.</li>\n<li>Population Mobility Mapping (PMM), flow monitoring and surveillance activities continue to guide <strong>risk-based interventions along high-risk mobility corridors, border areas and mobility-affected settings</strong>.</li>\n</ul>\n<p>For more information, please consult the report <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://crisisresponse.iom.int/sites/g/files/tmzbdl1481/files/uploaded-files/Multi-Country-Ebola-Bundibugyo-Outbreak-Sit-Rep-24-19th-25th-October-2026.pdf\">HERE</a>.</p>\n",
+    "url": "https://reliefweb.int/report/democratic-republic-congo/multi-country-ebola-bundibugyo-outbreak-update-ndeg24",
+    "region": "Other",
+    "subregion": null,
+    "rw_id": "4236373",
+    "file_url": "https://reliefweb.int/attachments/5d314f31-79d6-43f7-881c-163621356346/Multi-Country-Ebola-Bundibugyo-Outbreak-Sit-Rep-24%20%2819th%20-25th%20October%202026%29%20%282%29%20%282%29.pdf"
+  },
+  {
+    "id": "rw-4236407",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "Heavy Rains and Flooding in the Grand Sud and the West - Flash Update No. 2 (as of 29 October 2026)",
+    "source": "OCHA",
+    "crisis": "Humanitarian Crisis",
+    "location": "Haiti",
+    "scope": "single",
+    "date": "2026-10-30",
+    "content": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>The alert level has been lowered from orange to green. Weather conditions are expected to improve in the coming days, but showers remain possible in the evening.</li>\n<li>Eight deaths have been recorded: three in the West, three in Nippes, one in the South and one in Grand’Anse.</li>\n<li>40 people have been injured in the South.</li>\n<li>Five people are missing in the South.</li>\n<li>59,420 people are affected in the West, the South, Nippes and Grand’Anse, according to the National Emergency Operations Centre (COUN).</li>\n<li>13,649 houses are flooded.</li>\n<li>At least 90 per cent of the equipment and supplies of the Derrière-Fort health centre in Les Cayes have been destroyed or are out of use.</li>\n</ul>\n",
+    "url": "https://reliefweb.int/report/haiti/heavy-rains-and-flooding-grand-sud-and-west-flash-update-no-2-29-october-2026",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "rw_id": "4236407",
+    "file_url": "https://reliefweb.int/attachments/d658e39c-5ca6-4ab2-a9d3-b5f86ca486e0/Flash_Update_Grand_Sud_Ouest_ENGLISH_ES_MT%20Final.pdf"
+  },
+  {
     "id": "rw-4236310",
     "provider": "reliefweb",
     "type": "original",
@@ -252,7 +303,7 @@
     "region": "Global",
     "subregion": "Global",
     "rw_id": "4236245",
-    "file_url": "https://reliefweb.int/attachments/50bab887-6215-4ed6-935c-80099b4863af/IMPAACT_Monthly%20El%20Ni%C3%B1o%20Prepardness%20and%20Response%20Situation%20Update_Oct%202026_mgedits.pdf"
+    "file_url": "https://reliefweb.int/attachments/971e82a3-cd65-4337-ac89-8cbad4965d52/Elnino%20preparedness%20and%20response.pdf"
   },
   {
     "id": "rw-4236242",
