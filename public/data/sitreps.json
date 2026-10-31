@@ -1,5 +1,22 @@
 [
   {
+    "id": "rw-4236449",
+    "provider": "reliefweb",
+    "type": "original",
+    "title": "South Sudan Humanitarian Update (as of 30 October 2026)",
+    "source": "OCHA",
+    "crisis": "Central/Eastern Africa: Ebola Outbreak - May 2026",
+    "location": "South Sudan",
+    "scope": "single",
+    "date": "2026-10-31",
+    "content": "<p><strong>Highlights</strong></p>\n<p>• More than 5,100 refugees and returnees from the Democratic Republic of the Congo need urgent humanitarian support.</p>\n<p>• A national simulation exercise identifies gaps in Ebola preparedness.</p>\n<p>• Insecurity and displacement deepen needs in Jonglei and Upper Nile states.</p>\n<p>• Drone strikes reportedly kill dozens of people, deepening humanitarian needs in Abyei Administrative Area.</p>\n<p>• Conflict, rainfall deficits and economic pressures worsen food insecurity.</p>\n<p>• Insecurity and bureaucratic constraints continue to impede humanitarian access.</p>\n",
+    "url": "https://reliefweb.int/report/south-sudan/south-sudan-humanitarian-update-30-october-2026",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "rw_id": "4236449",
+    "file_url": "https://reliefweb.int/attachments/238147ff-f86f-47aa-aac5-84bd770c36d5/South%20Sudan%20Humanitarian%20Update_16-30Oct2026.pdf"
+  },
+  {
     "id": "rw-4236370",
     "provider": "reliefweb",
     "type": "original",
