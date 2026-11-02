@@ -1,20 +1,22 @@
 Crisis / situation: Sudan
 
---- Report 1: IOM (2026-10-29) ---
-Between 11 January and 15 October 2026, an estimated 119,782 individuals (23,598 households) were displaced from locations across Blue Nile state.
+--- Report 1: SAPA (2026-11-02) ---
+HIGHLIGHTS
+• Fighting in eastern Wad Al Mahi and Roseires localities in early October displaced about 6,800 people in four days (3–6 Oct). Families have been displaced twice in six weeks, with most now concentrated in and around Roseires town and Azaza [6,19].
+• Civilians, displacement sites and health care are under attack: a strike near the Abu Shendi site killed at least 31 people, most of them women and children (9 Oct), and a strike put Um Darfa hospital out of service (11 Oct) [3].
+• SAPA's comprehensive mobile clinic has recorded 3,185 consultations. More than 99% of patients with a recorded status were IDPs, 63% were female and 48% were children under 15.
+• Malaria dominates at the peak of the transmission season (57% of consultations). The respiratory share has more than tripled (11% to 35%) and diarrheal disease has risen from 1% to 8%, mostly among children under five, consistent with crowding, cold nights and unsafe water.
+• Of 39 children aged 6–59 months screened by MUAC, 11 (28%) had acute malnutrition, although screening was not systematic. FEWS NET projects Emergency (IPC Phase 4) in Kurmuk and Geissan through January 2027 [9].
+• Each escalation was followed within days by new arrivals and more patients. After Al-Kadalo IDPs reached Azaza on 22 October, SAPA consultations rose 47% in four days (Section 2).
+• According to the field team, SAPA is the only health provider currently operating in Azaza. Its priority needs are malaria commodities and nets, WASH at Azaza, nutrition supplies, MHPSS, and the protection of health care.
 
-A total of 119,782 IDPs marks a 21 per cent increase compared to the previous update, up from 99,277 IDPs recorded on 23 August 2026.
-Individuals were displaced from locations across Geisan (40,090 IDPs), Al Kurmuk (31,165 IDPs), Baw (27,192 IDPs), and Wad Al Mahi (21,335 IDPs) localities.
-Individuals were displaced to seven localities in Blue Nile, including locations across Ed Damazine (45,815 IDPs), Ar Rusayris (36,950 IDPs), Baw (12,687 IDPs), Wad Al Mahi (11,685 IDPs), Geisan (10,275 IDPs), Al Kurmuk (1,385 IDPs), and At Tadamon (985 IDPs).
-While the overall IDP population in Blue Nile primarily stayed with host families (55%), newly displaced households were more likely to reside at informal gathering sites (56%) or in schools and other public buildings (20%).
-Approximately 56 per cent of IDPs were female, compared to 44 per cent male. Nearly half (45%) were children, under the age of 18.
+--- Report 2: Nutrition Cluster (2026-11-02) ---
+The Sudan Nutrition Sector Bulletin for January–September 2026 gives an overview of the nutrition situation and the humanitarian nutrition response across Sudan. Drawing on data and updates from sector partners, it reviews the current situation and the achievements of the treatment and prevention programmes against the People in Need and targets. It also covers findings from the SMART surveys conducted in 2026, multi-sectoral convergence with the Food Security, Health and WASH sectors, coordination highlights, and response priorities for the rest of the year. The bulletin also covers the availability of core nutrition supplies at national, state and facility level, the main challenges facing the response, and the sector’s funding status. It is intended to support partners, donors and other stakeholders with evidence for advocacy, resource mobilisation and programme planning.
 
-For further information on displacement across Sudan, see DTM Sudan Displacement and Return Snapshot (10). DTM reports on all events triggering displacement within Sudan via Early Warning Flash Alerts.
-
---- Report 2: UNICEF (2026-10-29) ---
-Highlights
-
-Despite nearly 5 million returns reducing Sudan’s overall IDP population, escalating conflict in Blue Nile, Darfur and Kordofan displaced more than 58,000 people in August alone.
-UNICEF supported health interventions reached 751,400 people with cholera outbreak response and 769,900 people following a diphtheria vaccination campaign in high-risk localities. UNICEF supported the treatment of 51,506 children with Severe Acute Malnutrition and provided IYCF counselling to 183,264 caregivers. UNICEF also enabled 271,000 people to access safe water and reached 44,400 people with critical WASH supplies.
-With UNICEF support, 14,600 children accessed education opportunities, and 57,200 received learning materials. UNICEF also reached 112,700 people with critical Mental Health and Psychosocial Support services and provided Gender-Based Violence services to 84,000 people.
-As of 31 August 2026, UNICEF had mobilized US$352.2 million against US$962.9 million HAC appeal (63 per cent funding gap). Increased flexible funding is urgently required, particularly for critically underfunded child protection programme.
+--- Report 3: UNHCR (2026-11-01) ---
+Situation Overview and Humanitarian Needs
+▪ Security conditions in Blue Nile State have steadily deteriorated since end-August 2026, triggering displacement from Geisan and Al-Kurmuk localities to Ed Damazin, Al-Roseires and Wad Al-Mahi localities. This newest displacement is increasing pressure in these areas which were already hosting a sizeable number of Sudanese returnees and refugees from South Sudan and Ethiopia. In October, a drone strike on the Abu Shandi displacement camp in the Blue Nile region killed over 30 civilians, predominantly women and children, and left dozens injured, compounding a dire humanitarian crisis.
+▪ Approximately 99,300 people were displaced from Geisan, Al-Kurmuk and Baw localities in Blue Nile State between January and August 2026 according to IOM's Displacement Tracking Matrix (DTM). Displacement occurred both within affected localities and towards Ed Damazin, Wad Al-Mahi and AlRoseires. Most newly displaced people sheltered in informal gathering sites (58 per cent) or with host families. UNHCR field reports indicated further displacement following recent insecurity in Wad AlMahi and Geisan, with most newly displaced people seeking safety in Alazaza, Al-Roseires locality.
+▪ Separately, Sudan’s Commission of Refugees (COR) and UNHCR recorded the arrival of 166 individuals (48 households) from Ethiopia at Camp 6 in Wad Al-Mahi locality between July and September 2026.
+▪ Humanitarian needs in areas hosting newly displaced households were already high prior to the latest displacement, and with new displacement, the situation has been exacerbated. Unfortunately, due to insecurity, access to displacement sites has become increasingly constrained which has affected the ability of partners to undertake comprehensive needs assessment, monitoring or deliver assistance or protection services.
+▪ Nevertheless, inadequate shelter, limited access to water and sanitation services, insufficient site management arrangements, and overcrowding have been reported in several displacement sites, all increasing protection risks particularly among the most vulnerable. Newly displaced households have reported urgent needs for shelter, basic relief items, food assistance, health care services, safe water, and sanitation support. Specialised protection services are also limited, with few service providers, particularly to undertake case management, make referrals and provide information or protection counselling.

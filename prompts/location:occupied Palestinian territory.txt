@@ -1,6 +1,28 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: UNICEF (2026-11-02) ---
+--- Report 1: ETC (2026-11-02) ---
+Operation overview
+Armed conflict between Palestinian militant groups and Israeli military forces began on 07 October 2023. The conflict has resulted in a severe humanitarian crisis and significant disruption to communications networks, impeding humanitarian operations. The WFP-led Logistics and Telecommunications Cluster (LTC Telecoms) was activated on 31 October 2023 to meet the urgent need to support access to reliable, shared communications services for humanitarian organizations operating in Gaza.
+Communication needs in Gaza
+The 10 October 2025 ceasefire enabled partners to gradually resume operations and scale up aid in previously inaccessible areas. However, extensive damage to Gaza’s telecommunications infrastructure and continued restrictions on telecommunications equipment continue to severely constrain services supporting humanitarian operations.
+LTC Telecoms response
+Coordination and information management (IM) — LTC Telecoms is working with local and regional partners to align needs and facilitate the approval and entry of telecommunications equipment into Gaza, strengthening Security Communications Systems (SCS) and shared connectivity in key Gaza response areas. IM efforts deliver situation reports and dashboards to inform coordination, decisions, and advocacy across audiences.
+Telecommunications equipment— Since 07 October 2023, COGAT has approved and delivered 20 satellite phones, 30 VHF radios, 98 tracking devices, and four solar kits to Gaza. LTC Telecoms continues to work with partners to support approval processes for pending telecommunications equipment requests.
+Internet connectivity and user support — Gaza’s connectivity has sharply declined due to infrastructure damage, equipment gaps, access constraints and import restrictions, continuing to affect the continuity and expansion of connectivity services across Gaza. LTC Telecoms operates a help desk in Deir Al Balah, with expansion planned.
+Security communications — LTC Telecoms supports 24/7 UNDSS-managed SOCs in Gaza and Jerusalem and VHF radio communications across five Gaza operational locations. In 2026, LTC Telecoms and UNDSS trained 172 UN personnel, including SOC operators, and five WFP staff on VHF radio programming to strengthen emergency readiness in Gaza and Jerusalem.
+
+--- Report 2: ETC (2026-11-02) ---
+The World Food Programme (WFP)-led Emergency Telecommunications Cluster (ETC), now the telecoms area of the Logistics and Telecommunications Cluster (LTC)1, was activated on 31 October 2023 in response to the crisis in Gaza. This Situation Report provides a monthly update on LTC Telecoms activities.
+Summary Points
+• Telecoms services across Gaza remained severely constrained, with approximately 75 percent of infrastructure reported damaged or destroyed since October 2023. Equipment shortages and access restrictions continued to limit network reliability, maintenance and recovery efforts.
+• LTC Telecoms continued to coordinate with humanitarian partners on telecoms planning, equipment-entry requests and connectivity services. Import restrictions persisted, including the denial of a request to facilitate the entry of six satellite phones for UNDSS.
+• LTC Telecoms strengthened inter-agency security communications through continued UN VHF radio standardization and Basic Security Communications Systems (SCS) training for 31 humanitarian personnel from UN agencies and international NGOs.
+Humanitarian Overview
+Humanitarian conditions across Gaza remained critical during the reporting period, amid continued military activity, displacement, widespread damage to civilian infrastructure and severe constraints on access to essential services. Civilians continued to face heightened protection risks, particularly in areas near the “Yellow Line,” while humanitarian organizations operated amid insecurity and access restrictions.
+Many displaced people remained in deteriorated tents and makeshift structures ahead of the cold and rainy season. Approximately 950,000 displaced people were assessed as living at sites exposed to medium or high flood risk, including more than 400,000 at high risk. Shortages of shelter materials and machinery, limited access to suitable land and a lack of viable relocation options continued to constrain preparedness.
+Humanitarian operations remained constrained by insecurity, access restrictions, shortages of essential supplies and funding gaps. Food Security Sector partners expected to reach fewer than one million of Gaza’s estimated 2.1 million people with monthly food assistance from October onwards, while funding shortages also threatened the continuity of essential WASH services. Restrictions on the entry of critical supplies and equipment continued to affect health and WASH operations.
+
+--- Report 3: UNICEF (2026-11-02) ---
 ESCALATION IN HEBRON DISPLACES MORE THAN 480 FAMILIES, INCLUDING OVER
 1,800 CHILDREN, AND DISRUPTS ACCESS TO ESSENTIAL SERVICES
 Highlights
@@ -11,7 +33,7 @@ It also outlines UNICEF’s emergency response through the Rapid Response Mechan
 The update includes UNICEF’s advocacy messages on the protection of children, humanitarian access, education, shelter, water and sanitation services, and the rights of children deprived of liberty.
 It further presents the funding requirements of UNICEF’s 2026 HAC appeal, which remains 54 per cent unfunded, with a funding gap of USD 400.9 million.
 
---- Report 2: OCHA (2026-11-02) ---
+--- Report 4: OCHA (2026-11-02) ---
 Key Highlights
 
 Families along the “Yellow Line” in Gaza are facing reported arson attacks and recurrent shootings as Israeli forces place additional yellow cement blocks nearby; despite shortages in humanitarian supplies, those displaced as a result of such pressures are receiving rapid support through available stocks.

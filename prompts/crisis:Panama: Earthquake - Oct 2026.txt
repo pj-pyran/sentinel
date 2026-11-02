@@ -1,27 +1,23 @@
 Crisis / situation: Panama: Earthquake - Oct 2026
 
---- Report 1: OCHA (2026-10-29) ---
-KEY POINTS
+--- Report 1: WFP (2026-11-02) ---
+KEY HIGHLIGHTS
+• Within the nationally led response and following a request from the Government of Panama, WFP continues to provide logistics infrastructure, emergency connectivity, technical assistance and common services to national institutions and humanitarian partners.
+• Four Mobile Storage Units (MSUs) and nine prefabricated facilities have been deployed across affected areas, strengthening temporary storage, health and operational capacity, while additional prefabricated facilities are under consideration.
+• WFP has completed market assessments across affected areas of Los Santos and Veraguas to inform potential assistance modalities, including the feasibility of cashbased assistance.
+SITUATION OVERVIEW
+• Nearly three weeks after the magnitude 7.7 earthquake that struck Panama, assessments continue, with the greatest impacts recorded across Los Santos, Herrera, Veraguas and Coclé.
+• Two fatalities and 27 injuries have been reported, while assessments have registered 52,874 people affected and 4,501 people remaining in 141 temporary shelters.
+• Damage to 619 schools, 120 health facilities, 66 road sections and 22 bridges continue to disrupt services and limit access to some communities, especially in rural areas.
+• Rain and weather conditions along continuing over 1,000 aftershocks and seismics activity are hampering recovery efforts.
+• Following the national state of emergency declared on 10 October, the Government continues leading the response through a High-level Inter-Institutional Committee, including various Ministries and the National Civil Protection System (SINAPROC, for its Spanish acronym) through its Emergency Operations Centre (COE, for its Spanish acronym).
 
-Some 4,500 people remain in shelters after the magnitude 7.5 earthquake on 9 October.
-The priority is helping affected people return home, while temporary shelter solutions and home reconstruction continue.
-Education activities are gradually resuming, but schools in Los Santos, Herrera, Coclé and Veraguas remain closed.
-Rain and seismic activity continue to pose risks in affected areas.
-
---- Report 2: UNICEF (2026-10-27) ---
+--- Report 2: UNICEF (2026-11-02) ---
 Highlights
 
-
-Two weeks after the 9 October earthquake, humanitarian needs remain significant in the provinces of Los Santos, Veraguas, Coclé and Herrera. Although response actions have addressed the most immediate needs of affected populations, thousands of people continue to face challenges related to temporary displacement, loss or damage of housing, disruptions to basic services, and impacts on educational infrastructure.
-
-
-According to the latest official assessments, 12.365 homes were assessed and 40.880 people registered through the Damage Assessment and Needs Analysis (EDAN). Damage to housing remains one of the main impacts of the earthquake, affecting 2,896 families, of whom 908 have reported the total loss of their homes. In addition, 160 shelters continue to provide temporary accommodation to 5.779 displaced people. The provinces of Los Santos, Veraguas, Coclé and Herrera account for the majority of reported impacts.
-
-
-During the reporting period, UNICEF maintained its support to the Government-led response through coordination, monitoring and assistance actions in water, sanitation and hygiene (WASH), education, and child protection. Monitoring missions conducted in the Azuero Peninsula showed that, although the emergency has evolved into an early recovery phase, significant humanitarian gaps persist, particularly for displaced families, children and persons with disabilities.
-
-
-UNICEF expanded its response through the distribution of 133 mosquito nets funded by DG ECHO, support to water and sanitation interventions implemented together with its implementing partner at the temporary site of La Pericada, and the coordination of actions aimed at educational recovery and psychosocial support for children and adolescents affected by the earthquake.
-
-
-Despite progress in the emergency response, significant humanitarian needs remain among displaced families, children and adolescents affected by educational disruption, and communities with limited access to adequate water, sanitation and hygiene (WASH) services. Likewise, psychosocial support and protection needs remain for the most vulnerable populations affected by the emergency.
+Monitoring visits conducted by UNICEF, UNHCR, and IOM in Soná, Río Grande, and Mariato indicate a gradual transition from the emergency response phase to early recovery. In several communities, families have begun returning to land near their homes or relocating within their communities of origin, reducing the population residing in some temporary displacement sites. In this context, the continuous monitoring of the situation and UNICEF’s targeted support remain essential to prevent setbacks and ensure that the needs of children are addressed in a timely manner.
+Despite these advances, temporary shelter needs persist for families whose homes were destroyed or whose land remains uninhabitable. In several communities, the construction of improvised shelters using locally available materials was observed while assessment processes, debris removal, and recovery efforts continue to advance.
+Field assessments continue to identify significant gaps in water, sanitation, and hygiene (WASH), including limited access to safe drinking water, an insufficient number of adequate sanitation facilities, and risks associated with wastewater management and vector-borne threats, particularly in coastal communities and temporary settlements.
+Educational infrastructure continues to be one of the primary concerns. In communities in Río Grande, severe damage and the complete collapse of educational facilities serving multiple communities were verified, affecting the continuity of learning for children and adolescents.
+In coordination with the Ministry of Education, UNICEF initiated the support and installation of three child-friendly protection and education-in-emergencies spaces in Veraguas Province, expanding access for children and adolescents to recreational, learning, and psychosocial support activities.
+Monitoring missions continue to reveal psychosocial support needs among children, adolescents, and caregivers, associated with the loss of housing, uncertainty regarding recovery, and the prolonged impact of the emergency.
