@@ -1,6 +1,18 @@
 Crisis / situation: Afghanistan
 
---- Report 1: WFP (2026-11-02) ---
+--- Report 1: FEWS NET (2026-11-02) ---
+Key Messages
+
+The CHIRPS-GEFS short-term forecast indicates cumulative precipitation across most of the country will remain near average (within +/- 10 mm) through November 10, 2026. Exceptions include isolated areas in the northeast and east, where precipitation deficits of 10–25 mm below average are possible, and isolated locations in the southeast along the Pakistan border, where precipitation surpluses of 10–25 mm above average are forecast (Figure 1).
+The Copernicus Climate Change Services (C3S) cumulative precipitation forecast during November 2026 – January 2027 indicates increased likelihood of above-average precipitation in most areas (Figure 2).
+The very strongEl Niño event is expected to continuethrough January–March 2027.
+The Copernicus Climate Change Services (C3S) temperature forecast indicates increased likelihood of above-average mean daily temperatures through the end of January 2027 (Figure 3).
+Above-average precipitation may promote stronger early-season snowpack development and greater basin-level snow water volumes than those observed during previous years. However, the forecasted above-average daytime temperatures could offset some of these gains by pushing the rain-snow line to higher elevations.
+Currently, land preparation activities are underway in areas of winter wheat cultivation. Sowing is expected to begin and gradually intensify in these areas as precipitation and soil moisture conditions become increasingly favorable.
+Farmers are likely to complete winter wheat sowing by December 2026 if sufficient precipitation is received by the end of the year. Wheat sowings are expected to exceed average levels, supported in part by a 10–12% decline in improved-seed prices that has enhanced farmers’ access to quality seed.
+Countrywide, groundwater levels will likely remain below average throughout the 2026/27 season despite localized gains due to the forecasted average to above-average precipitation in the coming months.
+
+--- Report 2: WFP (2026-11-02) ---
 Key Highlights
 Market Overview
 During the 4th week of October, national average prices showed generally modest week-on-week movements, while several commodities remained elevated compared with last year and their three-year averages. Rice and cooking oil prices continued to face supply-side pressures amid disruptions to regional trade routes and slower imports. In contrast, pulses remained relatively affordable, supported by increased domestic availability, local production and imports from Central Asia, while restricted export opportunities and weak demand contributed to lower prices. Fuel and fertilizer costs remained elevated, adding pressure to agricultural production, transportation and household purchasing power. Meanwhile, limited demand for improved seeds and animal feed, alongside increased local availability, contributed to lower prices for these inputs.
@@ -17,7 +29,7 @@ Terms of Trade (ToT): Purchasing power remained constraint for both labour-depen
 • Pastoralist ToT: A pastoralist could exchange a one-year-old female sheep for 257 kg of low-price wheat flour, 13% below last year's level and 8% below the three-year average, indicating continued pressure on the purchasing power of livestock-dependent households.
 • Fertilizers and agricultural input prices show marginal weekly changes. However, year-on-year show mix movements; DAP and urea remained 9% and 22% higher than last year, respectively. Meanwhile, improved seed and animal feed prices remained below last year, by 9% and 6%, respectively.
 
---- Report 2: IFRC (2026-11-02) ---
+--- Report 3: IFRC (2026-11-02) ---
 Description of the Event
 Date of event
 04-03-2026
