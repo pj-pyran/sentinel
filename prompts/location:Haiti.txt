@@ -1,28 +1,14 @@
 Crisis / situation: Haiti
 
---- Report 1: OCHA (2026-10-30) ---
+--- Report 1: OCHA (2026-11-04) ---
 HIGHLIGHTS
+• 1.49 million people displaced in August, up from 1.47 million in April, as the crisis spreads to rural areas and provincial towns.
+• 335,000 people lack adequate access to health care in Artibonite, where insecurity has forced the closure of 21 health facilities.
+• 253,725 children aged 6 to 59 months are at risk of acute malnutrition by May 2027. The national prevalence of global acute malnutrition rose from 5.1 per cent in 2023 to 7.4 per cent in 2026.
+• Health partners conducted 74,614 medical consultations through 120 mobile clinic deployments.
 
-The alert level has been lowered from orange to green. Weather conditions are expected to improve in the coming days, but showers remain possible in the evening.
-Eight deaths have been recorded: three in the West, three in Nippes, one in the South and one in Grand’Anse.
-40 people have been injured in the South.
-Five people are missing in the South.
-59,420 people are affected in the West, the South, Nippes and Grand’Anse, according to the National Emergency Operations Centre (COUN).
-13,649 houses are flooded.
-At least 90 per cent of the equipment and supplies of the Derrière-Fort health centre in Les Cayes have been destroyed or are out of use.
-
---- Report 2: OCHA (2026-10-28) ---
-HIGHLIGHTS
-
-4 people died, 3 in Nippes and 1 in the South-East, and 2 fishermen are missing in Abricots (Grand’Anse).
-1,920 families affected in Nippes, where 1,767 houses are flooded and 48 small houses destroyed.
-630 houses flooded in Grand’Anse, where 4 houses were washed away in Gommiers.
-3 critical facilities flooded in Grand’Anse: the Corail community hospital, the Fond’Icaques national school and the Chambellan public market.
-200 houses flooded in Les Cayes (South), where several sections of the Ravine du Sud dykes collapsed.
-The Directorate General of Civil Protection (DGPC) has placed the entire Grand Sud on orange alert.
-
+--- Report 2: WFP (2026-11-04) ---
 SITUATION OVERVIEW
-Since 24 October 2026, heavy rains have affected the South, Nippes and Grand’Anse departments. Several rivers have overflowed their banks, flooding many communes. According to situation reports from the Departmental Committee for Risk and Disaster Management (CDGRD) of Grand’Anse and the Departmental Directorates of Civil Protection (DDPC) of Nippes and the South, and to a 26 October report from the organization Entraide Médicale Internationale (EMI), three people died in Nippes and one in the South-East, and two fishermen are missing in Abricots (Grand’Anse).
-Nippes department is the hardest hit, with 1,767 houses flooded, 48 small houses destroyed and 1,920 affected families. In Grand’Anse, 630 houses were flooded, as were the Corail community hospital, a school and a public market. In the South, several hundred houses were flooded, including about 200 in Les Cayes, where several sections of the Ravine du Sud dykes collapsed.
-Agricultural and livestock losses are reported in a region already affected by drought. Several dirt roads were damaged, making access to some communes difficult. Population displacement has been reported. Families have found refuge with relatives in Grand’Anse, in schools in the South and Nippes, and in a church in Baradères.
-Departmental civil protection structures have partially activated emergency operations centres. They monitor the situation and conduct awareness-raising activities with communities. At this stage, the information collected remains preliminary; additional multisectoral data is expected as field assessments are consolidated.
+• Haiti’s humanitarian crisis continued to deepen in September amid persistent insecurity, large-scale displacement, economic deterioration and climaterelated shocks. An estimated 5.8 million people faced acute food insecurity (IPC Phase 3 or above), including 1.8 million in IPC Phase 4. The number of internally displaced persons exceeded 1.49 million, equivalent to approximately 12 percent of the population – while over 200,000 forced repatriations have been recorded in 2026.
+• Insecurity continued to expand beyond Port-auPrince, with intensified clashes between the GSF and armed groups. Attacks, abductions and civilian casualties reported across Artibonite, Centre and other departments disrupted livelihoods, markets and access to basic services. The Central Bank of Haiti projected an eighth consecutive year of economic contraction, with consumer prices rising 17% year-onyear (food contributed 10.6 of the 17 points). Rising prices, limited livelihood opportunities and reduced purchasing power further constrained households’ ability to meet basic needs, placing additional pressure on overwhelmed social services.
+• By the end of September only 10% of the adult population (or roughly 717,000 people) had registered to vote (well below the minimum target). The Provisional Electoral Council appointed a new President of the Council, suggesting further uncertainty over long delayed elections set for December 2026, as insecurity, access constraints and logistical challenges continue to affect the electoral process.
