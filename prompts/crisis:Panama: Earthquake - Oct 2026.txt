@@ -1,6 +1,21 @@
 Crisis / situation: Panama: Earthquake - Oct 2026
 
---- Report 1: WFP (2026-11-02) ---
+--- Report 1: OCHA (2026-11-04) ---
+KEY POINTS
+
+Almost four weeks after the magnitude 7.5 earthquake of 9 October, around 3,300 people remain in shelters, a quarter fewer than a week earlier, as more families return to their communities.
+Of the nearly 20,000 homes assessed, more than 4,600 have total damage, and the Government plans to build 2,700 homes for families who lost theirs.
+Damage to 619 schools and 120 health facilities continues to limit services, as more temporary learning spaces open.
+A magnitude 5.9 earthquake on 31 October forced authorities to evacuate four hospitals and five health centres as a precaution, but caused no injuries.
+
+SITUATION OVERVIEW
+Almost four weeks after the magnitude 7.5 earthquake of 9 October, with its epicentre 39 km north-west of Tonosí, the National Civil Protection System (SINAPROC), through the National Emergency Operations Centre (COEN), reports two deaths and 27 injuries. As of 2 November, Damage Assessment and Needs Analysis (EDAN) teams had assessed 19,865 homes and registered 63,767 people. Of those homes, 4,633 have total damage, 11,107 moderate or partial damage and 4,125 minor damage. The people registered include 198 pregnant women and 2,758 people with disabilities. The assessments also report damage to 619 schools and 120 health facilities.
+The number of people in shelters continues to fall: 3,356 people (886 families) remain in 113 shelters, down from 4,501 in 141 shelters on 27 October. Almost half are in Veraguas (1,635), followed by Los Santos (1,153) and Herrera (359). In Soná, Río Grande and Mariato, UNICEF, UNHCR and IOM missions found that some families are returning to land near their homes, where they are putting up tents or makeshift structures.
+On 31 October, a magnitude 5.9 aftershock forced authorities to evacuate four hospitals, five health centres and the population of Isla de Cañas as a precaution, but caused no injuries. Follow-up inspections found worsening cracks at the hospitals in Aguadulce and Penonomé, in areas with oxygen pipes and electrical lines.
+Since the response began, SINAPROC has transported more than 385 tonnes of aid by land and carried out 39 medical air evacuations, and the Agricultural Marketing Institute (IMA) has distributed 81,229 bags of food in 1,548 communities.
+The Government has set up an inter-agency commission to build 2,700 homes, and the Ministry of Education (MEDUCA) is demolishing and replacing severely damaged schools. The UN system continues to support the Government-led response in shelter, education, food security, health, protection, water, sanitation and hygiene, logistics and telecommunications.
+
+--- Report 2: WFP (2026-11-02) ---
 KEY HIGHLIGHTS
 • Within the nationally led response and following a request from the Government of Panama, WFP continues to provide logistics infrastructure, emergency connectivity, technical assistance and common services to national institutions and humanitarian partners.
 • Four Mobile Storage Units (MSUs) and nine prefabricated facilities have been deployed across affected areas, strengthening temporary storage, health and operational capacity, while additional prefabricated facilities are under consideration.
@@ -12,7 +27,7 @@ SITUATION OVERVIEW
 • Rain and weather conditions along continuing over 1,000 aftershocks and seismics activity are hampering recovery efforts.
 • Following the national state of emergency declared on 10 October, the Government continues leading the response through a High-level Inter-Institutional Committee, including various Ministries and the National Civil Protection System (SINAPROC, for its Spanish acronym) through its Emergency Operations Centre (COE, for its Spanish acronym).
 
---- Report 2: UNICEF (2026-11-02) ---
+--- Report 3: UNICEF (2026-11-02) ---
 Highlights
 
 Monitoring visits conducted by UNICEF, UNHCR, and IOM in Soná, Río Grande, and Mariato indicate a gradual transition from the emergency response phase to early recovery. In several communities, families have begun returning to land near their homes or relocating within their communities of origin, reducing the population residing in some temporary displacement sites. In this context, the continuous monitoring of the situation and UNICEF’s targeted support remain essential to prevent setbacks and ensure that the needs of children are addressed in a timely manner.
