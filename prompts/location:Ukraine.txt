@@ -1,48 +1,42 @@
 Crisis / situation: Ukraine
 
---- Report 1: UNICEF (2026-10-29) ---
-Highlights
+--- Report 1: UNHCR (2026-11-05) ---
+OVERVIEW
+In August 2026, the Accountability to Affected People Working Group with support of the UNHCR Ukraine conducted a consultation with IDP Councils to gather recommendations for the 2027 humanitarian needs and response planning process. The consultation brought together 22 representatives from different regions of Ukraine.
+Based on the discussion, participants broadly agreed on the need to approach displacement as a cycle rather than a single event. Accordingly, they recommended strengthening assistance throughout all stages of displacement, as a significant share of humanitarian support is currently concentrated in frontline areas, while the needs of displaced people in other parts of Ukraine often remain unmet.
+Participants noted, for example, that certain types of psychosocial support are available in frontline areas, although not all forms of such support are considered relevant or in demand. At the same time, host communities face shortages of psychological and psychiatric services, while the need and readiness to access such support may increase after evacuation, once people have had an opportunity to recover from their immediate experiences. The social adaptation of children was also identified as a priority, alongside long-term psychological support for both children and adults.
 
-The third quarter of 2026 brought the heaviest civilian toll in Ukraine since the opening weeks of the full-scale invasion. The number of child casualties verified in 2026 (809) has now surpassed the total verified child casualties for all of 2025 (744), highlighting the alarming impact of the escalation of the war on children in recent months.
-Winter 2026-2027 is expected to be the most dangerous winter for children in Ukraine since the start of the full-scale war. UNICEF has accelerated winter preparations, providing US$45 million to the Ministry of Social Policy and Family Unity’s Humanitarian and Resilience Account to cover 104,000 households with a one-time winter cash transfer. District heating systems have been strengthened for 3.2 million people, and 22 health facilities have newly-installed energy back-up systems, benefiting 200,000 people. Further urgent support to water and heating systems, health facilities, schools and families will be rolled out by the end of the year.
-Recent tests results show that one-third of 15-year-old students are 1.5 years behind in science and math, and half are two years behind in reading. So far this year, 124,928 students have participated in UNICEF-supported catch-up classes.
-UNICEF and partners have reached 375,137 people with mental health and psychosocial support this year, including 219,023 children. In an August UNICEF survey, nearly half of people (46 per cent) reported emotional exhaustion almost every day.
+--- Report 2: ETC (2026-11-05) ---
+Summary Points
+• The 2026 LTC Telecoms User Satisfaction Survey recorded an 97 percent satisfaction rate across services delivered at 18 locations, with partner feedback informing future service priorities and improvements.
+• As attacks on critical infrastructure intensified ahead of winter, LTC Telecoms strengthened communications resilience and contingency preparedness, including installing 4G backup connectivity at the remote VHF radio site in Shostka, Sumy region.
+• LTC Telecoms continued to support resilient communications for humanitarian operations in frontline and high-risk areas, including RSoV installations in armoured vehicles, reprogramming 23 VHF radios, and testing enhanced mobile satellite connectivity along frontline routes in Dnipropetrovsk region.
 
---- Report 2: ACLED (2026-10-28) ---
-Ukraine Conflict Monitor  Update
-Russian strikes on civilian vessels threaten navigation in the Black Sea, while Ukraine finishes Operation Vivaldi.
-1,969 conflict events
-5% increase compared to last week
-197 incidents of violence targeting civilians
-14% decrease compared to last week
-At least 116 civilians killed by targeted violence
-34% decrease compared to last week
-1,134 air- and drone strikes
-4% increase compared to last week
-346 shelling events
-3% increase compared to last week
-469 armed clashes
-2% increase compared to last week
-283 Russian attacks on civilian infrastructure
-29% increase compared to last week
-Number of events and change compared to last week (per target):
-Education: 25 events
-Healthcare: 13 events
-Energy: 59 events
-Residential: 234 events
+--- Report 3: ACLED (2026-11-04) ---
+Russia and Ukraine conduct a prisoner exchange, and Ukraine launches an underground attack to counter Russian advances.
+Tetiana Gaviuk
+Key trends
 
-For the second week in a row, Russian forces struck civilian vessels in the Black Sea under the purported goal of disrupting supplies to Ukraine. Russia struck five grain and cargo vessels in the Exclusive Economic Zones of Bulgaria and Romania and two chemical tankers in Romania’s territorial waters near the Sulina mouth of the Danube River. Since the start of October, Russian strikes along the Western Black Sea coast have led to 12 reported fatalities of sailors, while 18 sailors are still missing. These figures far exceed the total over the previous quarter. While littoral states, such as Bulgaria, Romania, and Turkey, are scrambling to set up a NATO air defence mission against drone strikes, Russian strikes are expected to worsen Black Sea navigation security over the coming months, increase insurance costs for vessel operators, and affect global food prices by blocking Ukrainian wheat and grain exports.
-In the final part of its Operation Vivaldi, Ukraine’s Third Army Corps reported regaining another 101 km² in the direction of Lyman in Donetsk, retaking 16 settlements in total. Although preparations were initiated in early 2026, the local operation was announced in September to counter Russian efforts to encircle and attack the so-called “fortress belt” cities of Slovyansk and Kramatorsk, the two largest cities still under Ukrainian control in the Donetsk region. Local Ukrainian counteroffensives, such as Operation Vivaldi and the Oleksandrivka direction operations, suggest that Ukrainian forces can still thwart Russia’s attempts to threaten key towns and take territory, despite troop and munition replenishment issues.
+Humanitarian talks led Russia and Ukraine to conduct their first prisoner exchange in two months and agree to a ceasefire in the front line city of Oleshky in the Kherson region, enabling essential supplies to reach civilians who have endured months of siege and the safe evacuation of those who wish to leave the city. Despite this limited progress, major questions over territory and security guarantees remain unresolved. A breakthrough toward a sustained peace deal in expected trilateral talks in November is therefore unlikely.
+During Operation Veles, Ukrainian forces advanced more than 15 km through gas pipelines to launch an attack behind Russian positions in the Kupiansk direction in the Kharkiv region, killing over 100 Russian soldiers and taking over 30 others prisoner. The underground attack was meant to counter Russian advances and was combined with surface strikes. It partially mirrors previous Russian infiltrations through gas pipelines in Kupiansk and in Russia’s Sudzhanskyi district in 2025. As drone surveillance increases and front line “kill zones” expand, the increased threat of drones, artillery, and mines makes surface movements nearly impossible. Going forward, both Russia and Ukraine will likely rely more on subterranean operations to move supplies, carry out infiltration missions, and launch assaults.
+
+Key events
 
 
-
-10 Oct.
-Zaporizhia — A Russian aerial bomb strike kills 23 civilians and injures 34 others in Zaporizhia city
-
-
-13 Oct.
-Kharkiv — A Russian soldier kills one civilian and five off-duty Ukrainian soldiers after infiltrating Ukrainian-controlled Mamotove and Mykhailivka
+17 Oct.
+Kherson — A Russian aerial bomb and drone strike kill three civilians, including an ambulance driver, injure 44 others, and damage a Red Cross building in Kherson city
 
 
-14 Oct.
-Voronezh, Russia — A Ukrainian Neptune missile attack on the Borisoglebskiy Air Base destroys six Su-34 fighter aircrafts
+22 Oct.
+Kyiv — Russian forces launch 21 ballistic missiles, some with cluster warheads, at Kyiv city, destroying critical and transport infrastructure, killing one civilian, and injuring 22 over two days
+
+
+22 Oct.
+Gorodets, Russia — Ukrainian drones hit Russia’s Federal Tax Service data center in Gorodets
+
+
+Footnotes
+
+
+1
+Note: Some events may contain notes covering damage of multiple types of infrastructure, so individual events can be counted multiple times for various categories of infrastructure.
