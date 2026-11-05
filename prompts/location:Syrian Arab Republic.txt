@@ -1,6 +1,15 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: Health Cluster (2026-11-04) ---
+--- Report 1: UNICEF (2026-11-05) ---
+Highlights
+
+During July–September 2026, humanitarian needs remained high amid displacement, returns, sporadic localized insecurity and military operations in southern governorates.
+More than 5 million people remained internally displaced. While returns continued, the pace slowed during 2026; between July and September, close to 160,000 IDPs and refugees returned, bringing cumulative returns since late 2024 to more than 3.8 million people, including approximately 2 million IDP and 1.8 million refugee returnees.
+Explosive ordnance continued to pose a serious threat to children. During Q3, 71 child casualties were recorded, including 22 children killed and 49 injured, highlighting continued risks to children and people accessing agricultural and grazing land.
+In Q3, UNICEF reached 2.6 million people, including 1.7 million children, bringing the cumulative reach to 5.7 million, including 3.6 million children (1.8 million girls).
+UNICEF's 2026 HAC remained 31 per cent funded, constraining the scale and continuity of essential services.
+
+--- Report 2: Health Cluster (2026-11-04) ---
 Syria health system key issues, October 2026
 • Essential services face a continuity risk. Premature withdrawal of external support could interrupt maternity care, emergency surgery, dialysis, chronic disease treatment, primary health care (PHC) and referrals. The proposed safeguard is an essential-services continuity guarantee, backed by bridge funding, verified replacement capacity and contingency arrangements before support ends.
 • Financing and accountability must support sustained operations. Fragmented projects and unconfirmed commitments risk leaving salaries, medicines, maintenance and other recurrent costs unfunded. The proposed response is a transparent, multi-year financing and implementation framework linking public budgets and partner funding, with explicit responsibilities, deadlines, funding sources and reporting. MoH leadership should be supported by the technical stewardship, local institutions and community participation, while preserving necessary humanitarian independence.
@@ -9,16 +18,3 @@ Syria health system key issues, October 2026
 • National integration must address unequal local conditions. Service capacity and access differ across Idleb,
 Aleppo, northeast Syria, As-Sweida and rural areas, including within governorates. Displacement and returns add pressure where health services and water, sanitation and hygiene (WASH) capacity are compromised. Common national standards require locally tailored implementation and safeguards against geographic or political exclusion.
 • Outbreak readiness and usable information need strengthening. AWD, measles, hepatitis and other outbreak threats intersect with weak WASH systems, climate shocks and population movement. Priorities include linked surveillance and laboratories, rapid response and catch-up immunization. Existing facility, workforce, utilization and financing data need to support one operational decision system, with confidentiality protections and independent verification.
-
---- Report 2: WFP (2026-11-02) ---
-IN NUMBERS
-620,945 people assisted in September
-3,550 mt food dispatched in September
-USD 5.85 M cash transferred in September
-USD 202.1 M required (October 2026 – March 2027)
-3.65 M returnees have arrived in Syria since December 2024 (UNHCR, 2025)
-KEY HIGHLIGHTS
-
-Syria remains at a critical juncture, with 7.2 million people facing acute food insecurity, including 700,000 experiencing severe food insecurity.
-Rising living costs are projected to push an additional 250,000 people into food insecurity, while increasing return movements continue to place pressure on already overstretched services, livelihoods and social protection systems.
-Funding constraints have forced WFP to reduce food assistance from 1.3 million to 650,000 people, prioritizing only the most vulnerable. WFP urgently requires USD 202.1 million over the next six months to restore assistance to 1.3 million people and sustain nutrition, livelihoods, and social protection programmes.
