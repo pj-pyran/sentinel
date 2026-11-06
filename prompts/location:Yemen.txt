@@ -1,22 +1,10 @@
 Crisis / situation: Yemen
 
---- Report 1: IOM (2026-11-04) ---
+--- Report 1: UNFPA (2026-11-05) ---
+In October, fighting along the west coast and the southern Taiz frontline escalated to levels not observed since 2020. The security situation remains highly volatile, with the crisis continuing to expand. More than 300,000 people have been displaced since August 2026, the vast majority over the past two months. Some 82,000 people were displaced in October alone, most of them from Taiz governorate. More than half of those displaced are women and children.
+Women and girls are among the most vulnerable and face serious health and protection risks. UNFPA estimates that 6,400 pregnant women are among those recently displaced. An estimated 600 women are expected to give birth within the next two weeks.
+Road closures and insecurity continue to impede access and delivery of humanitarian assistance. Nevertheless, since January 2026, UNFPA has provided life-saving reproductive health, protection services, information and emergency relief to more than 710,000 people. This has been achieved through support to 25 health facilities, 14 safe spaces, three shelters, seven youth spaces, two specialized mental health centres and nine newly activated integrated mobile reproductive health and protection teams.
+
+--- Report 2: IOM (2026-11-04) ---
 IOM Yemen DTM continues to record displacement caused by the escalation in western Yemen. On 3 November 2026, IOM Yemen DTM recorded an increase of 10,374 individual IDPs compared to the figure presented in the RDT report distributed on 1 November 2026, bringing displacement between 1 August and 3 November to approximately 308,653 individuals (51,436 households)¹. This brings the cumulative number recorded since the escalation began in June 2026 to 309,709 individuals (51,612 households).
 The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 135,648 individuals (44%), followed by Lahj Governorate with 77,052 individuals (25%), and Aden Governorate with 58,884 individuals (19%). Additional displacement was recorded in Abyan with 15,426 individuals (5%); Al Hodeidah with 8,244 individuals (3%)²; Shabwah with 4,854 individuals (2%); Hadramawt with 3,252 individuals (1%); Ma’rib with 2,676 individuals (less than 1%); Al Maharah with 2,226 individuals (less than 1%); and Ad Dali’ with 1,447 individuals (less than 1%).
-
---- Report 2: IOM (2026-11-03) ---
-IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
-From 1 January to 31 October 2026, IOM Yemen DTM tracked 53,226 households (HH) (319,356 Individuals) who experienced displacement at least once.
-Between 25 and 31 October 2026, IOM Yemen DTM tracked 2294 households (13764 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
-
-Ta’iz (1183 HHs) – Al Mudhaffar (306 HHs), Ash Shamayatayn (229 HHs), Al Misrakh (201 HHs) districts. Most displacements in the governorate were internal.
-Lahj (683 HHs) – Al Madaribah Wa Al Aarah (277 HHs), Tuban (182 HHs), Al Maqatirah (134 HHs) districts. Most displacements in the governorate originated from Lahj and Ta’iz.
-Shabwah (159 HHs) – Ataq (132 HHs), Mayfaah (7 HHs), Bayhan (5 HHs) districts. Most displacements in the governorate originated from Ta’iz and Al Hodeidah.
-
-The majority of people moved from the following governorates and districts:
-
-Ta’iz (1624 HHs) – Al Misrakh (450 HHs), Jabal Habashi (355 HHs), Ash Shamayatayn (212 HHs) districts.
-Lahj (460 HHs) – Al Madaribah Wa Al Aarah (443 HHs), Tur Al Bahah (7 HHs), Al Qubaytah (5 HHs) districts.
-Al Hodeidah (103 HHs) – Hays (41 HHs), Al Khukhah (37 HHs), Ad Durayhimi (5 HHs) districts.
-
-IOM identified 653 additional households displaced in the previous reporting period, which covered 18 - 24 October 2026, in the governorates of Aden (466 HHs), Al Maharah (69 HHs), Abyan (40 HHs), Lahj (30 HHs), Ma’rib (28 HHs) Hadramawt (11 HHs), and Ad Dali (9 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
