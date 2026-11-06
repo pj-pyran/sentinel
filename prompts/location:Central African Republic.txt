@@ -1,38 +1,27 @@
 Crisis / situation: Central African Republic
 
---- Report 1: WFP (2026-10-22) ---
-KEY HIGHLIGHTS
-• More than 2 million people continued to face acute food insecurity, while insecurity, displacement and refugee inflows linked to the Sudan crisis continued to drive humanitarian needs, particularly in northeastern CAR.
-• WFP provided food, cash-based assistance, school feeding and resilience support to approximately 117,400 people during September 2026, including refugees, internally displaced persons, returnees and vulnerable host communities.
-• WFP advanced preparations for a new round of assistance in Am-Dafock, completing beneficiary verification and registration of 2,311 households (9,634 beneficiaries) and strengthening operational preparedness despite continued access constraints.
-SITUATION OVERVIEW
-• The Central African Republic continues to face high levels of food insecurity and humanitarian need. More than 2 million people are projected to face acute food insecurity, including 262,000 people in IPC Phase 4 (Emergency).
-• The country remains affected by a fragile regional environment. Spillover from the conflict in Sudan continues to drive refugee movements, displacement pressures and humanitarian needs, particularly in Vakaga Prefecture and other northeastern border areas.
-• Security concerns persist in several areas, including northeastern CAR, where population movements, access constraints and insecurity continue to affect humanitarian operations.
-• Humanitarian operations continue to face significant challenges during the rainy season, including deteriorated roads, limited access and logistical delays affecting the movement of relief supplies.
+--- Report 1: UNFPA (2026-11-05) ---
+In September 2026, the Central African Republic (CAR) faced severe environmental and security crises. Torrential rains and flooding affected 11,325 people across 2,870 households, while armed insecurity and military operations impacted a further 5,205 people and displaced approximately 9,900 residents across Ouham-Fafa and Bowaye. Widespread displacement, destruction of homes, and heightened insecurity have further restricted women’s and girls’ access to essential sexual and reproductive health services and increased the risk of gender-based violence. Gender-based violence accounted for 36 per cent of all protection incidents recorded during the month.
+To respond to critical needs across crisis-affected areas, UNFPA and its partners delivered sexual and reproductive health services to 7,660 people during September 2026, including assisted deliveries, emergency caesarean sections, gynaecological consultations, and referrals. Through its gender-based violence response programmes, UNFPA also reached 2,919 people with case management, psychosocial support, and safe referrals. Despite these achievements, significant funding shortfalls continue to constrain UNFPA’s humanitarian response in CAR. In 2026, UNFPA requires USD 13.2 million to deliver life-saving reproductive health and protection services across the country. As of 30 September 2026, USD 10 million remained unfunded.
 
---- Report 2: OCHA (2026-10-22) ---
+--- Report 2: OCHA (2026-11-05) ---
 HIGHLIGHTS
 
-Insecurity triggers population displacement in Ouham-Fafa
-HIV prevention: more than 500 people screened in Mbomou
+Ebola preparedness and prevention efforts are ongoing in Bangui and the South-East.
+Haute-Kotto: 27 children formerly associated with armed groups benefit from socio-economic reintegration support.
 
 GENERAL CONTEXT
-Mbomou Prefecture – South-East
+Mbomou and Haut-Mbomou Prefectures – South-East
 
-On 16 October, a multisectoral needs assessment mission was unable to reach the locality of Nzako due to access constraints related to the poor condition of road infrastructure. Heavy rainfall recorded in recent weeks has significantly deteriorated the Bakouma–Nzako road, hampering the mobility of humanitarian actors. Approximately 20 km from Nzako, several vehicles in the mission convoy became stuck in the mud, immobilizing the convoy for nearly 24 hours. In the absence of conditions allowing traffic to resume under acceptable safety conditions, the team was forced to turn back. As a result, the planned multisectoral assessment in Nzako could not be carried out as scheduled, limiting the ability of humanitarian actors to comprehensively assess and respond to needs and to obtain an updated analysis of the situation in the locality.
-
-Ouham-Fafa Prefecture – North-West
-
-On 14 October, preventive population movements were reported from the villages of Bondili (located 114 km north-west of Batangafo) and Bode, where more than 900 people left their communities to move towards the Kambakota axis or seek refuge in the bush. These movements followed fears of reprisals after the killing of a civilian by armed elements. Access constraints and limitations on independent verification do not, at this stage, allow confirmation of the exact scale of the reported displacement. The situation remains of concern due to the persistent risk of reprisals, threats to civilian protection and the potential for further population displacement.
+No confirmed cases of Ebola virus disease (EVD) have been reported in the Central African Republic (CAR). However, the ongoing outbreak in the Democratic Republic of the Congo (DRC) continues to pose a risk of importation, particularly in the south-east of the country. On 28 October, a coordination meeting held in Bangassou reviewed preparedness measures and identified gaps in surveillance, health facility capacity, prepositioning of supplies, isolation sites, water, sanitation and hygiene (WASH), as well as risk communication and community engagement. On 31 October, a crisis meeting convened in Ouango brought together local authorities, community leaders and humanitarian partners to assess risks related to cross-border movements from the DRC and strengthen coordination of response measures. Infection prevention and control (IPC) equipment was also delivered to high-risk areas with support from the Central Emergency Response Fund (CERF).
 
 HUMANITARIAN NEEDS AND RESPONSE
 Health
-Mbomou Prefecture – South-East
+Countrywide
 
-From 12 to 16 October, the French Red Cross, in collaboration with the Bangassou Health District, conducted an HIV and viral hepatitis screening campaign in the health centres of Maliko and Bangui-Ville, as well as Bangondé Hospital. A total of 586 people were screened. Among them, nine tested positive for HIV and 116 tested positive for hepatitis B and were referred to appropriate care and treatment services. The activity aimed to strengthen early diagnosis and improve access to health services for populations in the intervention area.
+To strengthen operational readiness and the resilience of the health system against the risk of an importation EVD, the World Health Organization (WHO) and its partners trained 107 frontline health workers in Bangui from 27 to 31 October, including doctors, nurses, hygienists, rapid response teams, and psychosocial staff. The training covered key areas such as the clinical management of EVD cases, the organization and operation of an Ebola Treatment Centre (ETC), epidemiological and community-based investigation of alerts, as well as psychosocial support and mental health care for affected individuals. The programme concluded with a simulation exercise designed to test coordination and response mechanisms in the event of an Ebola outbreak declaration. These activities are being implemented with support from the CERF.
 
-Protection
-Bamingui-Bangoran Prefecture – North-East
+Heavy rain
+Bangui Prefecture
 
-From 12 to 15 October 2026, the Comité international pour l'aide d'urgence et le développement (CIAUD), through its mobile team, conducted protection monitoring activities in Bamingui-Bangoran Prefecture. A total of 11 protection incidents were identified and documented. All reported incidents involved cases of GBV. Girls were the most affected, accounting for eight of the 11 documented cases. In addition, a community awareness-raising session on the risks and consequences of early and/or forced marriage was organized in the Sultan1 neighbourhood. The activity reached more than 66 people with prevention and protection messages.
+On 30 October, the government chaired a strategic meeting bringing together national authorities, United Nations agencies, NGOs and donors to assess the impact of heavy rains that affected several neighborhoods of Bangui and surrounding areas. According to preliminary assessments, more than 5,300 people have been affected by damage to property and continue to face the risk of waterborne diseases with epidemic potential. Discussions focused on priority needs in shelter, non-food items (NFIs), WASH, health, and food assistance, as well as response coordination mechanisms and the limitations of the humanitarian response to the floods. Following the meeting, the International Organization for Migration (IOM) and the United Nations High Commissioner for Refugees (UNHCR) provided essential household items to the Ministry of Humanitarian Action to support assistance to people affected by the floods.
