@@ -11,32 +11,3 @@ Summary Points
 • The 2026 LTC Telecoms User Satisfaction Survey recorded an 97 percent satisfaction rate across services delivered at 18 locations, with partner feedback informing future service priorities and improvements.
 • As attacks on critical infrastructure intensified ahead of winter, LTC Telecoms strengthened communications resilience and contingency preparedness, including installing 4G backup connectivity at the remote VHF radio site in Shostka, Sumy region.
 • LTC Telecoms continued to support resilient communications for humanitarian operations in frontline and high-risk areas, including RSoV installations in armoured vehicles, reprogramming 23 VHF radios, and testing enhanced mobile satellite connectivity along frontline routes in Dnipropetrovsk region.
-
---- Report 3: ACLED (2026-11-04) ---
-Russia and Ukraine conduct a prisoner exchange, and Ukraine launches an underground attack to counter Russian advances.
-Tetiana Gaviuk
-Key trends
-
-Humanitarian talks led Russia and Ukraine to conduct their first prisoner exchange in two months and agree to a ceasefire in the front line city of Oleshky in the Kherson region, enabling essential supplies to reach civilians who have endured months of siege and the safe evacuation of those who wish to leave the city. Despite this limited progress, major questions over territory and security guarantees remain unresolved. A breakthrough toward a sustained peace deal in expected trilateral talks in November is therefore unlikely.
-During Operation Veles, Ukrainian forces advanced more than 15 km through gas pipelines to launch an attack behind Russian positions in the Kupiansk direction in the Kharkiv region, killing over 100 Russian soldiers and taking over 30 others prisoner. The underground attack was meant to counter Russian advances and was combined with surface strikes. It partially mirrors previous Russian infiltrations through gas pipelines in Kupiansk and in Russia’s Sudzhanskyi district in 2025. As drone surveillance increases and front line “kill zones” expand, the increased threat of drones, artillery, and mines makes surface movements nearly impossible. Going forward, both Russia and Ukraine will likely rely more on subterranean operations to move supplies, carry out infiltration missions, and launch assaults.
-
-Key events
-
-
-17 Oct.
-Kherson — A Russian aerial bomb and drone strike kill three civilians, including an ambulance driver, injure 44 others, and damage a Red Cross building in Kherson city
-
-
-22 Oct.
-Kyiv — Russian forces launch 21 ballistic missiles, some with cluster warheads, at Kyiv city, destroying critical and transport infrastructure, killing one civilian, and injuring 22 over two days
-
-
-22 Oct.
-Gorodets, Russia — Ukrainian drones hit Russia’s Federal Tax Service data center in Gorodets
-
-
-Footnotes
-
-
-1
-Note: Some events may contain notes covering damage of multiple types of infrastructure, so individual events can be counted multiple times for various categories of infrastructure.
