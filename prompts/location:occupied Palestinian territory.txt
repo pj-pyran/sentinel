@@ -3,6 +3,15 @@ Crisis / situation: occupied Palestinian territory
 --- Report 1: OCHA (2026-11-09) ---
 Key Highlights
 
+Heavy rains hit the Gaza Strip from the evening of 6 November 2026 through the weekend, causing widespread flooding, the collapse of damaged buildings, damage to shelters, humanitarian facilities and learning spaces, and disruptions to essential services. An infant reportedly drowned and several people were reportedly killed when a sand dune collapsed on their tents.
+Humanitarian partners mobilized immediately to assess people’s needs, distribute emergency supplies and otherwise support those affected. Nevertheless, humanitarian stocks of tents, tarpaulins, blankets and clothes inside Gaza are virtually exhausted.
+By 8 November, humanitarian partners received appeals from over 26,000 households whose shelters or other belongings were damaged, with the overall impact believed to be greater. Partners have assessed the needs of 1,877 households, and provided support to 422 households, including with non-food items, at 29 displacement sites.
+Over 150,000 tents purchased by humanitarian partners and Member States are outside Gaza ready to be dispatched. This includes about 117,000 tents from the Egyptian Relief Committee alone in Al-Arish.
+Humanitarian funding and Israeli approvals are urgently needed so that enough supplies and machinery can be brought into Gaza, including vacuum trucks, mobile dewatering pumps, engine oil, hoses and heavy machinery.
+
+--- Report 2: OCHA (2026-11-09) ---
+Key Highlights
+
 As hundreds of Palestinians begin returning to their homes in two neighbourhoods of Hebron city following a 10-day operation by Israeli forces, humanitarian organizations are supporting local authorities in assessing damage and addressing outstanding needs.
 Settler violence and access restrictions continue to disrupt the olive harvest, with 377 olive-harvest-related settler attacks recorded since the start of the season in September, already exceeding the total recorded during any previous harvest season; farmers continue to face physical assaults and theft of harvested olives and equipment.
 Heavy rainfall and flash floods damaged shelters, belongings and livestock fodder of 37 Palestinian households across seven Bedouin communities in the northern Jordan Valley.
@@ -11,7 +20,7 @@ The Food Security Sector warns that the daily production and free distribution o
 As winter approaches, Israeli restrictions on the entry of engine oil and spare parts threaten essential water, sanitation and health services. Shelter conditions remain abysmal, with families’ needs far exceeding the limited resources available to the Shelter Cluster.
 Maternal and newborn health services are overstretched, with neonatal unit occupancy reaching 151 per cent and special-care baby unit occupancy 199 per cent in September.
 
---- Report 2: CCCM Cluster (2026-11-09) ---
+--- Report 3: CCCM Cluster (2026-11-09) ---
 Overnight rainfall between 06 and 07 November triggered widespread flooding and rain-related incidents across displacement sites in Gaza, affecting thousands of displaced families living in makeshift shelters. As of 09:00 on 08 November, partners had submitted 268 site alerts, of which 264 relate to heavy rain and flooding incidents. Reports were received from 261 unique displacement sites, including 255 sites with Site Management Agency (SMA) support and 6 sites without SMA presence.
 Site Management Cluster partners reported incidents and urgent needs through the Zite Manager platform, provided by the International Organization for Migration (IOM) and only captures alerts submitted by participating partners. Reported figures reflect only incidents recorded by partners operating displacement sites and do not capture all rain and flood related impacts across Gaza. The overall scale of damage and humanitarian needs is therefore likely significantly higher than reflected in this update. Based on a joint IOM and Cluster flood-risk assessment and analysis, an estimated 761,000 people (138,000 families) in Gaza displacement sites are likely to be impacted by flooding this winter.
 Only 40 per cent of the nearly 1,700 active sites have an SMA presence through the Cluster. Site Management Cluster partners are mobilizing to support site improvement works and community-led flood mitigation activities, such as drainage improvements and slope stabilization, to enable safer, more dignified living conditions. Site Management partners continue to monitor conditions and update reported needs as they prepare a rapid response
