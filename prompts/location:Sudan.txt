@@ -1,14 +1,11 @@
 Crisis / situation: Sudan
 
---- Report 1: SAPA (2026-11-02) ---
-HIGHLIGHTS
-• Fighting in eastern Wad Al Mahi and Roseires localities in early October displaced about 6,800 people in four days (3–6 Oct). Families have been displaced twice in six weeks, with most now concentrated in and around Roseires town and Azaza [6,19].
-• Civilians, displacement sites and health care are under attack: a strike near the Abu Shendi site killed at least 31 people, most of them women and children (9 Oct), and a strike put Um Darfa hospital out of service (11 Oct) [3].
-• SAPA's comprehensive mobile clinic has recorded 3,185 consultations. More than 99% of patients with a recorded status were IDPs, 63% were female and 48% were children under 15.
-• Malaria dominates at the peak of the transmission season (57% of consultations). The respiratory share has more than tripled (11% to 35%) and diarrheal disease has risen from 1% to 8%, mostly among children under five, consistent with crowding, cold nights and unsafe water.
-• Of 39 children aged 6–59 months screened by MUAC, 11 (28%) had acute malnutrition, although screening was not systematic. FEWS NET projects Emergency (IPC Phase 4) in Kurmuk and Geissan through January 2027 [9].
-• Each escalation was followed within days by new arrivals and more patients. After Al-Kadalo IDPs reached Azaza on 22 October, SAPA consultations rose 47% in four days (Section 2).
-• According to the field team, SAPA is the only health provider currently operating in Azaza. Its priority needs are malaria commodities and nets, WASH at Azaza, nutrition supplies, MHPSS, and the protection of health care.
+--- Report 1: ETC (2026-11-09) ---
+Summary Points
+• LTC Telecoms sustained internet connectivity for approximately 1,700 users across 70 humanitarian locations, supporting humanitarian communications, coordination and response activities across Sudan.
+• Five Security Operations Centres (SOCs) remained operational in Port Sudan, Kassala, El Gedaref, Kosti and Damazine, while LTC Telecoms continued providing radio communications support to humanitarian partners.
+• LTC Telecoms continued community connectivity services at the Al-Aim Community Centre in Khartoum, where 392 people accessed data connectivity and phone-charging services during October, while joint assessments with WFP in Kosti and El Obeid explored opportunities to expand telecoms services.
 
---- Report 2: Nutrition Cluster (2026-11-02) ---
-The Sudan Nutrition Sector Bulletin for January–September 2026 gives an overview of the nutrition situation and the humanitarian nutrition response across Sudan. Drawing on data and updates from sector partners, it reviews the current situation and the achievements of the treatment and prevention programmes against the People in Need and targets. It also covers findings from the SMART surveys conducted in 2026, multi-sectoral convergence with the Food Security, Health and WASH sectors, coordination highlights, and response priorities for the rest of the year. The bulletin also covers the availability of core nutrition supplies at national, state and facility level, the main challenges facing the response, and the sector’s funding status. It is intended to support partners, donors and other stakeholders with evidence for advocacy, resource mobilisation and programme planning.
+--- Report 2: Health Cluster (2026-11-09) ---
+Key achievements
+47 Health Cluster Partners (in total, incl. IPs)4 In September, the Health Cluster and partners coordinated health responses across Sudan amid conflict, displacement and funding cuts, with only 40% of 2026 needs met. Field mis sions to Darfur and Red Sea State monitored services at health facilities, piloted the H3 self-assessment, coached state coor dination teams and advocated with authorities on behalf of partners. Cholera, EWARS and MHPSS trainings reached 145 participants, and partners began planning for 2027 while sus taining essential health care for displaced people in the most affected areas.
