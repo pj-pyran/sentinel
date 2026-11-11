@@ -1,10 +1,31 @@
 Crisis / situation: Yemen
 
---- Report 1: UNFPA (2026-11-05) ---
-In October, fighting along the west coast and the southern Taiz frontline escalated to levels not observed since 2020. The security situation remains highly volatile, with the crisis continuing to expand. More than 300,000 people have been displaced since August 2026, the vast majority over the past two months. Some 82,000 people were displaced in October alone, most of them from Taiz governorate. More than half of those displaced are women and children.
-Women and girls are among the most vulnerable and face serious health and protection risks. UNFPA estimates that 6,400 pregnant women are among those recently displaced. An estimated 600 women are expected to give birth within the next two weeks.
-Road closures and insecurity continue to impede access and delivery of humanitarian assistance. Nevertheless, since January 2026, UNFPA has provided life-saving reproductive health, protection services, information and emergency relief to more than 710,000 people. This has been achieved through support to 25 health facilities, 14 safe spaces, three shelters, seven youth spaces, two specialized mental health centres and nine newly activated integrated mobile reproductive health and protection teams.
+--- Report 1: UNHCR (2026-11-11) ---
+Highlights
+▪ Displacement inside Yemen continues to increase, with an estimated 321,000 people newly displaced between 1 August and 7 November, up from 275,245 reported in the previous update. Taiz remains the most affected governorate, accounting for 67% of new displacement, followed by Lahj (20%) and Al Hudaydah (12%). Approximately 75% of newly displaced people are residing in displacement sites, prompting UNHCR to update its contingency planning assumptions.
+▪ Movements across the Gulf of Aden continue, although no new arrivals were reported in Djibouti during the reporting period. As of 7 November, 3,836 refugees had arrived in Djibouti, while 365 individuals had arrived in Somalia since 1 September, including recent arrivals through both maritime and overland routes.
+▪ Voluntary returns from Yemen to Somalia continue, following the return of 138 Somali refugees on 20 October, the first assisted return movement since the programme was interrupted. An additional 18 Somali refugees are registered for the next assisted spontaneous return planned for 21 November.
 
---- Report 2: IOM (2026-11-04) ---
-IOM Yemen DTM continues to record displacement caused by the escalation in western Yemen. On 3 November 2026, IOM Yemen DTM recorded an increase of 10,374 individual IDPs compared to the figure presented in the RDT report distributed on 1 November 2026, bringing displacement between 1 August and 3 November to approximately 308,653 individuals (51,436 households)¹. This brings the cumulative number recorded since the escalation began in June 2026 to 309,709 individuals (51,612 households).
-The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 135,648 individuals (44%), followed by Lahj Governorate with 77,052 individuals (25%), and Aden Governorate with 58,884 individuals (19%). Additional displacement was recorded in Abyan with 15,426 individuals (5%); Al Hodeidah with 8,244 individuals (3%)²; Shabwah with 4,854 individuals (2%); Hadramawt with 3,252 individuals (1%); Ma’rib with 2,676 individuals (less than 1%); Al Maharah with 2,226 individuals (less than 1%); and Ad Dali’ with 1,447 individuals (less than 1%).
+--- Report 2: ETC (2026-11-11) ---
+The World Food Programme (WFP)-led Emergency Telecommunications Cluster (ETC), now the Telecoms Area of the Logistics and Telecommunications Cluster (LTC) 1 , was activated in April 2015 in response to the conflict in Yemen. This Situation Report provides a monthly update on LTC Telecoms activities.
+Summary Points
+• Escalating hostilities further constrained LTC Telecoms in Yemen, with on-site services in Al Turba suspended on 04 October and operations in Al Makha remaining suspended since 09 September. Remote technical support continued where feasible.
+• The LTC activated its emergency contingency plan for Taiz, covering coordination, information management, logistics and telecoms support as humanitarian needs and operational requirements continued to evolve.
+• In October, LTC Telecoms provided security communications services to 755 humanitarian responders through three operational Security Operations Centres (SOCs) and internet connectivity to 93 humanitarian personnel in Al Mukalla.
+
+--- Report 3: IOM (2026-11-09) ---
+IOM Yemen DTM’s Rapid Displacement Tracking (RDT) tool collects data on estimated numbers of households forced to flee on a daily basis from their locations of origin or displacement, allowing for regular reporting of new displacements in terms of estimated numbers, geography, and needs. It also tracks returnees who returned to their location of origin.
+From 1 January to 7 November 2026, IOM Yemen DTM tracked 57,317 households (HH) (343,902 Individuals) who experienced displacement at least once.
+Between 1 and 7 November 2026, IOM Yemen DTM tracked 2,655 households (15,930 individuals) displaced at least once. The majority of people moved into/within the following governorates and districts:
+
+Lahj (1,313 HHs) – Tuban (673 HHs), Al Madaribah Wa Al Aarah (240 HHs), Tur Al Bahah (220 HHs) districts. Most displacements in the governorate originated from Lahj and Ta’iz.
+Ta’iz (716 HHs) – Ash Shamayatayn (142 HHs), Al Mudhaffar (134 HHs), Al Misrakh (123 HHs) districts. Most displacements in the governorate were internal.
+Aden (248 HHs) – Al Burayqah (123 HHs), Dar Sad (114 HHs), Kritar - Sirah (11 HHs) districts. Most displacements in the governorate originated from Lahj and Ta’iz.
+
+The majority of people moved from the following governorates and districts:
+
+Ta’iz (1,242 HHs) – Al Misrakh (203 HHs), Ash Shamayatayn (176 HHs), Sabir Al Mawadim (168 HHs) districts.
+Lahj (1,142 HHs) – Tur Al Bahah (504 HHs), Al Madaribah Wa Al Aarah (494 HHs), Al Maqatirah (134 HHs) districts.
+Al Hodeidah (167 HHs) – Hays (79 HHs), Al Khukhah (72 HHs), Bayt Al Faqih (4 HHs) districts.
+
+IOM identified 372 additional households displaced in the previous reporting period, which covered 25 - 31 October 2026, in the governorates of Aden (272 HHs), Ad Dali (56 HHs), Ma’rib (24 HHs), and Abyan (19 HHs). These figures have been added to the cumulative displacement total recorded since the beginning of the year.
