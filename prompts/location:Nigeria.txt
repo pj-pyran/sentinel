@@ -1,24 +1,41 @@
 Crisis / situation: Nigeria
 
---- Report 1: WFP (2026-11-10) ---
+--- Report 1: IFRC (2026-11-12) ---
+Description
+Nigeria is experiencing its largest diphtheria outbreak on record. As of epidemiological week 44, 2026 (week ending 7 November), the Nigeria Centre for Disease Control and Prevention (NCDC) reported 37,529 suspected cases, 28,151 confirmed cases and 1,126 deaths (case fatality rate 3.9%). They were in 26 states and the FCT, across 361 LGAs. Confirmed cases are 1.8 times the figure for the same period of 2025, and since the outbreak began in 2022, 68,277 cases and 3,269 deaths have been confirmed. Kano State is the epicentre, with 12,008 confirmed cases in 2026 (43% of the national total), and it reported the most confirmed cases nationally in the last four weeks (935). Bauchi State is the third most affected state (2,463 confirmed cases). Ungogo, Dala and Nassarawa (Kano) and Bauchi LGA are among the five most affected LGAs in the country. On 5 November 2026, the NCDC Diphtheria EOC surveillance update showed that the apparent decline in cases in October was due to late reporting rather than reduced transmission. Weeks 40–43 were revised upward by 77–203%, and week 40 is now the highest week of 2026. State reporting completeness remains low (Kano 20%, Bauchi 30%), so the true burden is likely higher. Two-thirds of confirmed cases are unvaccinated. Children aged 5–14 years and females (59% of cases) are most affected, and out-of-school and Almajiri children are at particular risk. Vaccine has been deployed for reactive vaccination, but uptake is low. Kano used only 26–33% of its deployed doses, and Bauchi started vaccination on 12 October in only 6 wards. In Kano, 13,785 contacts have been listed with none currently under follow-up. Only 50 vials of diphtheria antitoxin remain, and 282 people have died in the community. Late presentation and harmful practices, such as removal of the throat membrane by traditional barbers, continue to drive deaths.
+Request For Assistance
+Government Requests International Assistance: No
+NS Requests International Assistance: Yes
+Information Bulletin Published
+No
+Actions taken by National Society
+Health
+
+RCCE for Health and hygiene promotion
+
+Summary
+Since early September 2026, NRCS volunteers in Kano, Bauchi and other affected branches have conducted small-scale community sensitisation on diphtheria signs, early care-seeking and vaccination, using the National Society's own resources. NRCS participates in the national Diphtheria EOC working groups and in the state EOC meetings in Kano and Bauchi. NRCS has received a formal request for support from Kano State and a request from the Bauchi State Primary Health Care Board. Both ask for community-based surveillance, active case search, risk communication and social mobilisation for vaccination. NRCS is requesting a DREF to scale up house-to-house RCCE, community-based surveillance and contact follow-up, and demand generation for reactive vaccination in eight high-burden LGAs of Kano and Bauchi.
+Actions taken by Federation
+General
+
+Other
+
+Summary:
+The IFRC Country Cluster Delegation in Abuja and the Africa Regional Office reviewed the situation with NRCS between 12 and 30 October 2026. They are providing technical support for the DREF request and will support implementation, monitoring, financial management and reporting
+Planned International Response
+DREF: Planned
+Contacts
+Originator
+Aminu Abdullahi, Coordinator, Health and care, aminu.abdullahi@redcrossnigeria.org, 08060763302
+NationalSociety
+Aminu Abdullahi, Coordinator Health and care, aminu.abdullahi@redcrossnigeria.org, +2348060763302
+Federation
+Abdulmajid Yakubu Ahmad, senior Health Officer, abdulmajid.yakubu@ifrc.org, +2347031897706
+
+--- Report 2: WFP (2026-11-10) ---
 Situation Update
 • October harvests are expected to improve food access for households with farmland across northern Nigeria. However, insecurity, repeated displacement and access constraints continue to restrict cultivation and the movement of produce to markets.
 • Dry spells and a delayed peak in rainfall have increased agricultural production costs and damaged crop development across the region, further limiting food access and raising the risk of local production shortfalls.
 • The latest report indicates that food inflation rose slightly in September 2026 compared with August but remained slightly below September 2025 levels.
 • Persistently high food prices continue to erode purchasing power and limit food access despite seasonal improvements in food availability.
 • Displaced and vulnerable households in conflict-affected northern Nigeria continue to face barriers to food and livelihoods, keeping humanitarian needs high despite the harvest.
-
---- Report 2: GBV AoR (2026-11-09) ---
-In September 2026, Gender-Based Violence (GBV) response efforts across Borno, Adamawa, and Yobe (BAY) states faced
-significant operational challenges, including severe funding cuts, camp closures, and relocations. Borno retained the highest
-protection severity in the region, particularly across key affected Local Government Areas (LGAs) such as Dikwa, Gubio, Jere,
-Konduga, Magumeri, Mobbar, and Monguno.
-The BAY States continued to experience overlapping humanitarian challenges, including severe flooding, attacks on
-healthcare facilities by non-state armed groups in Geidam LGA (specifically Gumsa Community) Yobe State, and
-displacement across Maiduguri, Jere, Bama, Gwoza, and Monguno. These crises heightened vulnerabilities among IDPs,
-women, and adolescent girls, disrupting access to essential services. Flooding and insecurity further increased gender-based
-violence risks and worsened living conditions.
-Significant service gaps remain, including LGAs lacking case management and GBV reach—such as Gubio in Borno, Demsa
-in Adamawa, and Bursari in Yobe. Furthermore, safe shelters and security services are highly inadequate, driven by severe
-shortages relative to demand, poor structural quality, and restricted humanitarian access due to insecurity, threatening the
-protection of vulnerable women and girls.
