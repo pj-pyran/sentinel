@@ -1,20 +1,32 @@
 Crisis / situation: Yemen
 
---- Report 1: UNHCR (2026-11-12) ---
+--- Report 1: IOM (2026-11-13) ---
+Geneva/Aden, 13 November 2026 – More than 340,000 have been forced to flee their homes amid continued hostilities and growing insecurity in Yemen, as restrictions on key transport routes threaten to further disrupt the delivery of life-saving assistance, the International Organization for Migration (IOM) warned today.
+“Imagine having to leave everything behind, not knowing where your family will sleep that night or how you will find food and clean water for your children. This is the reality for hundreds of thousands of people in Yemen,” said Abdusattor Esoev, IOM Yemen Chief of Mission. “With access issues delaying the delivery of essential aid and humanitarian needs continuing to grow, we urgently need more support to reach these families before an already desperate situation gets worse.”
+The latest displacement figures highlight the mounting toll of the crisis on communities already struggling after years of conflict. Almost all of those displaced originate from three governorates: Taiz, accounting for 224,819 people (66 per cent); Lahj, with 72,018 (21 per cent); Al Hodeidah, with 40,782 (12 per cent). Many have been displaced within their own governorates, placing additional pressure on communities already struggling to meet basic needs.
+For families uprooted by violence, finding safety is only the first challenge. Many face an uncertain future without adequate shelter, reliable healthcare, or access to clean water. As displacement continues, the growing demand for essential services is stretching already limited resources, leaving humanitarian organizations struggling to keep pace.
+Ongoing hostilities, insecurity and restrictions on key transport routes are compounding the crisis, delaying the delivery of essential supplies and making it harder for humanitarian teams to reach people in need. For displaced families already struggling to survive, these delays can mean going longer without the assistance they urgently need.
+Despite these challenges, IOM continues to deliver emergency assistance across affected governorates. Since 1 August, IOM has worked with local authorities, UN partners and local organizations to provide emergency shelter, essential household items, clean water, sanitation and hygiene supplies, as well as cash assistance to help families meet their most urgent needs. Together, these efforts have reached 21,384 families.
+IOM has also provided protection assistance to 8,242 vulnerable people and delivered 70,535 primary healthcare consultations, helping displaced families access essential medical services amid mounting pressure on the health system.
+Through its Displacement Tracking Matrix (DTM), IOM continues to monitor displacement trends and share timely information with humanitarian partners and local authorities to help direct assistance where it is needed most. However, with needs outpacing available resources, sustained humanitarian access and additional funding are critical to preventing the situation from deteriorating further.
+“Every day that assistance is delayed puts more families at risk,” said Esoev. “People need safety, access to essential services and the means to rebuild their lives. Without increased support, the gap between what families need and what we can deliver will only widen.”
+For more information, please visit IOM’s Media Centre.
+
+--- Report 2: UNHCR (2026-11-12) ---
 OPERATIONAL CONTEXT
 After more than a decade of conflict, Yemen remains one of the world's largest and most complex humanitarian crises. The country continues to face the cumulative effects of new and protracted displacement, economic deterioration, climate-related shocks, and limited access to essential services. Since 1 August, intensified fighting and shifting conflict frontlines have triggered significant new displacement , increasing protection risks and humanitarian needs and placing further pressure on already overstretched services. Despite the ongoing insecurity, mixed movements into Yemen have continued, with at least 23,238 arrivals from the East and Horn of Africa, mainly by sea, between August and end of September 2026.
 
---- Report 2: IOM (2026-11-12) ---
+--- Report 3: IOM (2026-11-12) ---
 IOM Yemen DTM continues to record displacement caused by the escalation in western Yemen. As of 10 November 2026, IOM Yemen DTM recorded an increase of 24,472 individual IDPs compared to the figure presented in the RDT report distributed on 7 November 2026, bringing displacement between 1 August and 10 November to approximately 333,125 individuals (55,514 households). This brings the cumulative number recorded since the escalation began in June 2026 to 334,181 individuals (55,690 households).
 The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 141,096 individuals (42%), followed by Lahj Governorate with 84,714 individuals (25%), and Aden Governorate with 66,792 individuals (20%). Additional displacement was recorded in Abyan with 16,218 individuals (5%); Al Hodeidah with 8,244 individuals (2%); Shabwah with 5,554 individuals (2%); Hadramawt with 3,492 individuals (1%); Ma’rib with 3,000 individuals (less than 1%); Al Maharah with 2,646 individuals (less than 1%); and Ad Dali’ with 2,425 individuals (less than 1%)
 
---- Report 3: UNHCR (2026-11-11) ---
+--- Report 4: UNHCR (2026-11-11) ---
 Highlights
 ▪ Displacement inside Yemen continues to increase, with an estimated 321,000 people newly displaced between 1 August and 7 November, up from 275,245 reported in the previous update. Taiz remains the most affected governorate, accounting for 67% of new displacement, followed by Lahj (20%) and Al Hudaydah (12%). Approximately 75% of newly displaced people are residing in displacement sites, prompting UNHCR to update its contingency planning assumptions.
 ▪ Movements across the Gulf of Aden continue, although no new arrivals were reported in Djibouti during the reporting period. As of 7 November, 3,836 refugees had arrived in Djibouti, while 365 individuals had arrived in Somalia since 1 September, including recent arrivals through both maritime and overland routes.
 ▪ Voluntary returns from Yemen to Somalia continue, following the return of 138 Somali refugees on 20 October, the first assisted return movement since the programme was interrupted. An additional 18 Somali refugees are registered for the next assisted spontaneous return planned for 21 November.
 
---- Report 4: ETC (2026-11-11) ---
+--- Report 5: ETC (2026-11-11) ---
 The World Food Programme (WFP)-led Emergency Telecommunications Cluster (ETC), now the Telecoms Area of the Logistics and Telecommunications Cluster (LTC) 1 , was activated in April 2015 in response to the conflict in Yemen. This Situation Report provides a monthly update on LTC Telecoms activities.
 Summary Points
 • Escalating hostilities further constrained LTC Telecoms in Yemen, with on-site services in Al Turba suspended on 04 October and operations in Al Makha remaining suspended since 09 September. Remote technical support continued where feasible.
