@@ -19,16 +19,3 @@ After more than a decade of conflict, Yemen remains one of the world's largest a
 --- Report 3: IOM (2026-11-12) ---
 IOM Yemen DTM continues to record displacement caused by the escalation in western Yemen. As of 10 November 2026, IOM Yemen DTM recorded an increase of 24,472 individual IDPs compared to the figure presented in the RDT report distributed on 7 November 2026, bringing displacement between 1 August and 10 November to approximately 333,125 individuals (55,514 households). This brings the cumulative number recorded since the escalation began in June 2026 to 334,181 individuals (55,690 households).
 The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 141,096 individuals (42%), followed by Lahj Governorate with 84,714 individuals (25%), and Aden Governorate with 66,792 individuals (20%). Additional displacement was recorded in Abyan with 16,218 individuals (5%); Al Hodeidah with 8,244 individuals (2%); Shabwah with 5,554 individuals (2%); Hadramawt with 3,492 individuals (1%); Ma’rib with 3,000 individuals (less than 1%); Al Maharah with 2,646 individuals (less than 1%); and Ad Dali’ with 2,425 individuals (less than 1%)
-
---- Report 4: UNHCR (2026-11-11) ---
-Highlights
-▪ Displacement inside Yemen continues to increase, with an estimated 321,000 people newly displaced between 1 August and 7 November, up from 275,245 reported in the previous update. Taiz remains the most affected governorate, accounting for 67% of new displacement, followed by Lahj (20%) and Al Hudaydah (12%). Approximately 75% of newly displaced people are residing in displacement sites, prompting UNHCR to update its contingency planning assumptions.
-▪ Movements across the Gulf of Aden continue, although no new arrivals were reported in Djibouti during the reporting period. As of 7 November, 3,836 refugees had arrived in Djibouti, while 365 individuals had arrived in Somalia since 1 September, including recent arrivals through both maritime and overland routes.
-▪ Voluntary returns from Yemen to Somalia continue, following the return of 138 Somali refugees on 20 October, the first assisted return movement since the programme was interrupted. An additional 18 Somali refugees are registered for the next assisted spontaneous return planned for 21 November.
-
---- Report 5: ETC (2026-11-11) ---
-The World Food Programme (WFP)-led Emergency Telecommunications Cluster (ETC), now the Telecoms Area of the Logistics and Telecommunications Cluster (LTC) 1 , was activated in April 2015 in response to the conflict in Yemen. This Situation Report provides a monthly update on LTC Telecoms activities.
-Summary Points
-• Escalating hostilities further constrained LTC Telecoms in Yemen, with on-site services in Al Turba suspended on 04 October and operations in Al Makha remaining suspended since 09 September. Remote technical support continued where feasible.
-• The LTC activated its emergency contingency plan for Taiz, covering coordination, information management, logistics and telecoms support as humanitarian needs and operational requirements continued to evolve.
-• In October, LTC Telecoms provided security communications services to 755 humanitarian responders through three operational Security Operations Centres (SOCs) and internet connectivity to 93 humanitarian personnel in Al Mukalla.
