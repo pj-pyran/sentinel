@@ -1,6 +1,20 @@
 Crisis / situation: Yemen
 
---- Report 1: IOM (2026-11-13) ---
+--- Report 1: OCHA (2026-11-15) ---
+KEY HIGHLIGHTS
+
+Displacement continues, with nearly 330,000 people now displaced. IOM DTM has recorded 329,117 people (54,846 households) displaced since 1 August, about 48,000 more than in the last update. Most new movements originate in and within Lahj and Ta’iz.
+Fighting in Lahj is driving new displacement. Heavy fighting around Al Madaribah Wa Al Aarah, Al Maqatirah and Tur Al Bahah has forced more families to flee, many of them to Tuban, where reception capacity is under strain, and further displacement towards Aden is expected.
+Civilian casualties increase. OHCHR has documented 284 civilian casualties in 107 incidents since 1 August, including 70 people killed and 214 injured. Children account for 103 of the casualties and half of those killed.
+People in Ta’iz City face growing hardship. Key routes linking Ta’iz with Aden and the West Coast have been repeatedly disrupted; cooking gas has reportedly been prevented from entering the city since early October; and shortages are affecting health services, water production and food availability.
+256,872 internally displaced people (36,696 families) have been reached with first-line RRM assistance. Nearly 8,900 registered families are awaiting support, mainly in Lahj and Ta’iz, where insecurity, stock-outs and road blockages have interrupted distributions.
+Strikes on fuel infrastructure in Al Hodeidah threaten essential services. Repeated strikes at the Ras Isa oil terminal, sharply reduced port activity, and rising fuel prices raise concerns about fuel shortages that could disrupt food supply chains, water pumping, and health services across northern governorates.
+Second-line assistance is expanding but remains far behind needs. Emergency cash has reached 84 per cent of verified households and food assistance 64 per cent of verified households (first cycle), while shelter and WASH support has reached only about one in four households in need.
+Health partners have reached more than 103,000 internally displaced people, and a measles–rubella vaccination campaign launched on 7 November has reached more than 600,000 children in southern governorates. Damage to health facilities and fuel shortages in Ta’iz threaten continuity of care.
+Protection risks are rising. Partners report more family separation, explosive ordnance risks, eviction threats and a growing risk of gender-based violence, while five safe spaces for women and girls have closed on the West Coast.
+Access remains constrained. Active hostilities, disrupted transport routes, movement restrictions and administrative procedures continue to delay humanitarian movements and the delivery of assistance.
+
+--- Report 2: IOM (2026-11-13) ---
 Geneva/Aden, 13 November 2026 – More than 340,000 have been forced to flee their homes amid continued hostilities and growing insecurity in Yemen, as restrictions on key transport routes threaten to further disrupt the delivery of life-saving assistance, the International Organization for Migration (IOM) warned today.
 “Imagine having to leave everything behind, not knowing where your family will sleep that night or how you will find food and clean water for your children. This is the reality for hundreds of thousands of people in Yemen,” said Abdusattor Esoev, IOM Yemen Chief of Mission. “With access issues delaying the delivery of essential aid and humanitarian needs continuing to grow, we urgently need more support to reach these families before an already desperate situation gets worse.”
 The latest displacement figures highlight the mounting toll of the crisis on communities already struggling after years of conflict. Almost all of those displaced originate from three governorates: Taiz, accounting for 224,819 people (66 per cent); Lahj, with 72,018 (21 per cent); Al Hodeidah, with 40,782 (12 per cent). Many have been displaced within their own governorates, placing additional pressure on communities already struggling to meet basic needs.
@@ -11,11 +25,3 @@ IOM has also provided protection assistance to 8,242 vulnerable people and deliv
 Through its Displacement Tracking Matrix (DTM), IOM continues to monitor displacement trends and share timely information with humanitarian partners and local authorities to help direct assistance where it is needed most. However, with needs outpacing available resources, sustained humanitarian access and additional funding are critical to preventing the situation from deteriorating further.
 “Every day that assistance is delayed puts more families at risk,” said Esoev. “People need safety, access to essential services and the means to rebuild their lives. Without increased support, the gap between what families need and what we can deliver will only widen.”
 For more information, please visit IOM’s Media Centre.
-
---- Report 2: UNHCR (2026-11-12) ---
-OPERATIONAL CONTEXT
-After more than a decade of conflict, Yemen remains one of the world's largest and most complex humanitarian crises. The country continues to face the cumulative effects of new and protracted displacement, economic deterioration, climate-related shocks, and limited access to essential services. Since 1 August, intensified fighting and shifting conflict frontlines have triggered significant new displacement , increasing protection risks and humanitarian needs and placing further pressure on already overstretched services. Despite the ongoing insecurity, mixed movements into Yemen have continued, with at least 23,238 arrivals from the East and Horn of Africa, mainly by sea, between August and end of September 2026.
-
---- Report 3: IOM (2026-11-12) ---
-IOM Yemen DTM continues to record displacement caused by the escalation in western Yemen. As of 10 November 2026, IOM Yemen DTM recorded an increase of 24,472 individual IDPs compared to the figure presented in the RDT report distributed on 7 November 2026, bringing displacement between 1 August and 10 November to approximately 333,125 individuals (55,514 households). This brings the cumulative number recorded since the escalation began in June 2026 to 334,181 individuals (55,690 households).
-The largest concentration of displaced people was reported in Ta’iz Governorate, hosting 141,096 individuals (42%), followed by Lahj Governorate with 84,714 individuals (25%), and Aden Governorate with 66,792 individuals (20%). Additional displacement was recorded in Abyan with 16,218 individuals (5%); Al Hodeidah with 8,244 individuals (2%); Shabwah with 5,554 individuals (2%); Hadramawt with 3,492 individuals (1%); Ma’rib with 3,000 individuals (less than 1%); Al Maharah with 2,646 individuals (less than 1%); and Ad Dali’ with 2,425 individuals (less than 1%)
