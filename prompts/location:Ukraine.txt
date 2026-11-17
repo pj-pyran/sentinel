@@ -1,13 +1,21 @@
 Crisis / situation: Ukraine
 
---- Report 1: UNHCR (2026-11-05) ---
-OVERVIEW
-In August 2026, the Accountability to Affected People Working Group with support of the UNHCR Ukraine conducted a consultation with IDP Councils to gather recommendations for the 2027 humanitarian needs and response planning process. The consultation brought together 22 representatives from different regions of Ukraine.
-Based on the discussion, participants broadly agreed on the need to approach displacement as a cycle rather than a single event. Accordingly, they recommended strengthening assistance throughout all stages of displacement, as a significant share of humanitarian support is currently concentrated in frontline areas, while the needs of displaced people in other parts of Ukraine often remain unmet.
-Participants noted, for example, that certain types of psychosocial support are available in frontline areas, although not all forms of such support are considered relevant or in demand. At the same time, host communities face shortages of psychological and psychiatric services, while the need and readiness to access such support may increase after evacuation, once people have had an opportunity to recover from their immediate experiences. The social adaptation of children was also identified as a priority, alongside long-term psychological support for both children and adults.
+--- Report 1: Logistics Cluster (2026-11-17) ---
+Background
+As the war continues and the 5th year of the full-scale invasion is approaching, 10.8 million people in Ukraine continue to be in need of humanitarian assistance, with those living the near the frontline facing the most acute and lifethreating risks, as outlined in the 2026 Humanitarian Needs and Response Plan (HNRP). Since that day on 24 February 2022, the population is experiencing a steady escalation in the intensity of attacks, resulting in continued destruction and damage to the civilian infrastructure, interrupting critical services and supply chains. Recent frontline shifts prompted new displacements and evacuations. While the number of people in need dropped by 15% compared to last year, reduced funding and limited resources are challenging organisations’ capacity to respond to this evolving humanitarian crisis.
+To support responding humanitarian organisations in their delivery of assistance to affected populations, the Inter-Agency Standing Committee (IASC) Cluster Approach was activated in Ukraine for Logistics on 3 March 2022.
 
---- Report 2: ETC (2026-11-05) ---
-Summary Points
-• The 2026 LTC Telecoms User Satisfaction Survey recorded an 97 percent satisfaction rate across services delivered at 18 locations, with partner feedback informing future service priorities and improvements.
-• As attacks on critical infrastructure intensified ahead of winter, LTC Telecoms strengthened communications resilience and contingency preparedness, including installing 4G backup connectivity at the remote VHF radio site in Shostka, Sumy region.
-• LTC Telecoms continued to support resilient communications for humanitarian operations in frontline and high-risk areas, including RSoV installations in armoured vehicles, reprogramming 23 VHF radios, and testing enhanced mobile satellite connectivity along frontline routes in Dnipropetrovsk region.
+--- Report 2: Ukraine CWG (2026-11-17) ---
+The Winter Group Cash Transfers (GCT) AAP Package provides practical guidance and tools for humanitarian organizations and implementing partners to integrate Accountability to Affected People (AAP) into the design and implementation of Winter Group Cash Transfers
+The plan is structured around three complementary pillars:
+
+Information provision: Ensure communities receive timely, clear, accessible, and consistent information about the purpose of Winter GCT, eligibility and selection processes, available assistance, implementation arrangements, and how to raise questions or concerns.
+Two-way communication: Establish and maintain accessible channels for communities to ask questions, share feedback, raise complaints, and report concerns throughout the program cycle. A Winter GCT Frequently Asked Questions document is provided to support hotline operators and frontline workers in addressing people's questions and concerns related to the program.
+Participation and inclusion: Enable communities to meaningfully contribute to identifying solutions to the winter-related needs, and how interventions are implemented and monitored. Particular attention should be given to ensuring that older people, people with disabilities, displaced people, women and other groups who may face barriers to participation are included in decision-making processes.
+
+Partners are encouraged to use this AAP Package alongside the Winter GCT Operational Guidelines and accompanying community engagement tools to strengthen transparency, participation, inclusion and responsiveness throughout the program cycle.
+
+--- Report 3: UNHCR (2026-11-16) ---
+▪ In the first three quarters of 2026, UNHCR’s protection response reached 429,429 people. Of those, 68 per cent are females, 32 per cent are older people above the age of 60 years, while 19 per cent are children. Over 42,022 people supported are living with a disability.
+▪ Community-based protection was central to the protection response in the first nine months of the year, while 38 per cent centred on service provision, including legal, social and psycho-social services.
+▪ UNHCR and partners promoted legal and policy developments through 57 advocacy and judicial interventions aimed at improving access to rights and services for forcibly displaced and stateless people.
