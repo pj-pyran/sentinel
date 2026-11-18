@@ -1,11 +1,76 @@
 Crisis / situation: Ukraine
 
---- Report 1: Logistics Cluster (2026-11-17) ---
+--- Report 1: World Vision (2026-11-18) ---
+World Vision started working in Ukraine in March 2022 through 6 and now 3 active offices in Ukraine (Kyiv, Dnipro, Mykolaiv), which currently support aid efforts reaching conflict-affected people. While also supported Ukrainian refugees and host communities in Moldova, Romania, and Georgia. WV UCR in Moldova concluded its operations in June 2025 and transitioned to WV Romania registered Moldova Foundation.
+World Vision’s Ukraine Crisis Response and its local partners have reached over 2.4 million people, including more than 1 million children, providing essential support through food, non-food items, cash assistance, protection and education interventions, livelihood, and mental health &amp; psychosocial support programming.
+In 2025, World Vision intentionally incorporated early recovery and economic development into its programming, expanding livelihood opportunities for affected families and creating new jobs.
+Its microfinance arm, VisionFund, is operating in Ukraine in the field of medium- to long-term recovery and development via financing small and medium-sized businesses for further growth, opportunities to generate income and create new jobs.
+Ukraine Crisis Response Goal
+The Ukrainian children, refugees and IDPs, as well as the host communities in Ukraine, Moldova, Romania, and Georgia have the support to overcome the humanitarian consequences of the war crisis.
+UCR Strategic Objectives
+1 Early recovery and economic development opportunities are created for IDP and refugee households, as well as host communities for improved and self-reliant livelihood.
+2 Children, their families and communities benefit from enhanced social protection mechanisms and education opportunities in Ukraine and host countries.
+3 Basic needs of vulnerable children, families and communities affected by the war are met in Ukraine and host countries.
+4 Equitable and complementary partnerships with national and local actors are encultured and promoted to enable them take stronger leadership role in delivering the humanitarian response and managing the transition to rehabilitation and development.
+September 2026 in a glance:
+
+2,809 people reached inside Ukraine (989 families, incl.1,781 children, 838 women, 190 men):
+2,693 – by MHPSS Support;
+63 – by Cash Assistance;
+53 – by Livelihoods Activities.
+
+--- Report 2: ACLED (2026-11-18) ---
+Ukraine Conflict Monitor  Update
+Russia is targeting Ukrainian healthcare facilities and workers ahead of winter while Ukraine targets Russian oil infrastructure.
+1,789 conflict events
+6% increase compared to last week
+216 incidents of violence targeting civilians
+29% increase compared to last week
+At least 127 civilians killed by targeted violence
+55% increase compared to last week
+1,150 air- and drone strikes
+17% increase compared to last week
+210 shelling events
+18% decrease compared to last week
+427 armed clashes
+1% decrease compared to last week
+278 Russian attacks on civilian infrastructure
+15% increase compared to last week
+Number of events and change compared to last week (per target):
+Education: 23 events
+Healthcare: 10 events
+Energy: 73 events
+Residential: 216 events
+
+At least nine healthcare facilities came under fire in the Kharkiv, Donetsk, Dnipropetrovsk, and Kherson regions. Strikes on three medical facilities in Kharkiv caused the highest number of casualties. At least 73 people were injured or are suffering acute stress reactions, and 226 patients were relocated. The latest attacks come amid a broader increase in attacks on healthcare facilities and healthcare workers, particularly in front line regions where health services have already been compromised by years of war. ACLED records an all-time high of 63 attacks against healthcare facilities and workers in October, up from 50 events in September. The attacks are likely to continue in November as Russia intensifies its campaign against critical infrastructure and services ahead of winter.
+Ukrainian forces launched long-range strikes against oil refineries in Russia’s Krasnodar, Saratov, Ryazan, Yaroslav, and Nizhny Novgorod regions. They also targeted the Samara oil pumping and dispatch station near Prosvet, a key storage and transit facility within Russia’s oil transportation network. Ahead of the United States-mediated trilateral talks in Abu Dhabi, the attacks likely aim to strengthen Ukraine’s negotiating position.
+
+
+
+2 Nov.
+Zaporizhia — Nine Russian guided aerial bombs strike an aid distribution center, killing at least 55 people, including aid workers, police officers, and first responders, in Komyshuvakha
+
+
+6 Nov.
+Kyiv — Russian drones strike Kyiv City’s Northern Bridge, causing damage and temporarily suspending traffic
+
+
+6 Nov.
+Bryansk, Russia — Ukrainian drones strike two Russian Iskander-M launchers and a Pantsir-S1 air-defense system in Bryansk
+
+--- Report 3: UNHCR (2026-11-18) ---
+OPERATIONAL CONTEXT &amp; HIGHLIGHTS:
+• Throughout October, the Russian Federation (RF) continued large-scale aerial attacks across Ukraine, increasingly targeting energy and other critical infrastructure as temperatures dropped and the winter season approached. Repeated attacks damaged energy facilities and disrupted electricity and water provision and other essential services, increasing risks for civilians during the cold season, particularly older people and persons with reduced mobility. According to the UN HRMMU, at least 372 civilians were killed and 1,981 injured in October 2026.
+• Humanitarian operations are increasingly facing security challenges, with at least seven incidents affecting UNHCR partners while implementing UNHCR’s programmes in October. These included strikes impacting humanitarian personnel and operations, damage to humanitarian vehicles and partners’ premises, and repeated damage to interim evacuation points. While no fatalities were reported among UNHCR or partner personnel, the incidents underscore the volatile operational environment and continued risks to humanitarian activities.
+• UNHCR supported the working visit of the delegation of the Ministry of Social Policy, Family and Unity of Ukraine (MoSP) to participate in the 77th session of the UNHCR Executive Committee (ExCom). Speaking at the ExCom session, Minister Uliutin underscored the importance of international humanitarian support to Ukraine, protection of internally displaced people (IDP) and investment in long-term solutions.
+• In the fifth year since the start of the Russian full-scale invasion of Ukraine, and more than 12 years since the war began, UNHCR’s pro gramme in Ukraine increasingly aims to help war-affected people and displaced people to find durable solutions, particularly through housing and strategic protection advocacy.
+
+--- Report 4: Logistics Cluster (2026-11-17) ---
 Background
 As the war continues and the 5th year of the full-scale invasion is approaching, 10.8 million people in Ukraine continue to be in need of humanitarian assistance, with those living the near the frontline facing the most acute and lifethreating risks, as outlined in the 2026 Humanitarian Needs and Response Plan (HNRP). Since that day on 24 February 2022, the population is experiencing a steady escalation in the intensity of attacks, resulting in continued destruction and damage to the civilian infrastructure, interrupting critical services and supply chains. Recent frontline shifts prompted new displacements and evacuations. While the number of people in need dropped by 15% compared to last year, reduced funding and limited resources are challenging organisations’ capacity to respond to this evolving humanitarian crisis.
 To support responding humanitarian organisations in their delivery of assistance to affected populations, the Inter-Agency Standing Committee (IASC) Cluster Approach was activated in Ukraine for Logistics on 3 March 2022.
 
---- Report 2: Ukraine CWG (2026-11-17) ---
+--- Report 5: Ukraine CWG (2026-11-17) ---
 The Winter Group Cash Transfers (GCT) AAP Package provides practical guidance and tools for humanitarian organizations and implementing partners to integrate Accountability to Affected People (AAP) into the design and implementation of Winter Group Cash Transfers
 The plan is structured around three complementary pillars:
 
@@ -15,7 +80,7 @@ Participation and inclusion: Enable communities to meaningfully contribute to id
 
 Partners are encouraged to use this AAP Package alongside the Winter GCT Operational Guidelines and accompanying community engagement tools to strengthen transparency, participation, inclusion and responsiveness throughout the program cycle.
 
---- Report 3: UNHCR (2026-11-16) ---
+--- Report 6: UNHCR (2026-11-16) ---
 ▪ In the first three quarters of 2026, UNHCR’s protection response reached 429,429 people. Of those, 68 per cent are females, 32 per cent are older people above the age of 60 years, while 19 per cent are children. Over 42,022 people supported are living with a disability.
 ▪ Community-based protection was central to the protection response in the first nine months of the year, while 38 per cent centred on service provision, including legal, social and psycho-social services.
 ▪ UNHCR and partners promoted legal and policy developments through 57 advocacy and judicial interventions aimed at improving access to rights and services for forcibly displaced and stateless people.
