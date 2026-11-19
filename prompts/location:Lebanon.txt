@@ -1,24 +1,30 @@
 Crisis / situation: Lebanon
 
---- Report 1: OCHA (2026-11-03) ---
-HIGHLIGHTS
+--- Report 1: DFS (2026-11-19) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/lebanon
 
-Protracted displacement and limited returns: The number of internally displaced people back in their areas of origin increased by 13 per cent since September, to 964,689, while around 304,500 people remain displaced outside their areas of origin.
-Explosive ordnance contamination and access restrictions: Landmines, explosive remnants of war and continued military activities continue to threaten civilian safety and restrict access to agricultural lands, particularly during the olive harvest season, undermining livelihoods and recovery.
-Education resumes amid damaged infrastructure and continued use of schools as collective shelters. The academic year commenced in mid-September although approximately 57 public educational facilities remain in use as collective shelters and despite extensive damage to schools across South and Nabatieh governorates.
-Shelter consolidation underway. Humanitarian partners are prioritizing safe, voluntary and dignified relocation for IDPs still in shelters scheduled to close, with targeted assistance for vulnerable displaced households inside and outside shelters amid funding and access constraints.
+--- Report 2: DFS (2026-11-19) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/lebanon
 
---- Report 2: WFP (2026-11-03) ---
-IN NUMBERS
-402,300 people assisted in September (52% female)
-465 mt food distributed in September USD 9.8 M
-cash transferred in September USD
-125.3 M required in the next six months (October 2026 – March 2027)
-KEY HIGHLIGHTS
+--- Report 3: DFS (2026-11-19) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/lebanon
 
-WFP is preparing to launch a two-month mixed modality assistance pilot for recently displaced Syrian households in collective shelters in Jabal Mohsen in Tripoli.
-The Logistics and Telecommunications Cluster facilitated seven convoys to hard-to-reach locations in South Lebanon and supported two regional Jordan-Lebanon convoys.
-WFP and UNHCR Representatives undertook a high-level advocacy mission to Berlin, engaging Members of Parliament, BMZ, GFFO and key policy stakeholders. The mission reinforced the need for sustained international support to Lebanon, spanning humanitarian funding, social protection and capacity strengthening.
+--- Report 4: DFS (2026-11-19) ---
+Executive Summary
+This Lebanon SituationHub report provides comprehensive situational analysis and actionable intelligence for humanitarian decision-makers responding to the ongoing crisis in Lebanon. The humanitarian situation in Lebanon requires coordinated, evidence-based response strategies. This SituationHub analysis provides the critical intelligence necessary for effective decision-making, enabling humanitarian actors to respond faster, allocate resources more effectively, and ultimately deliver better outcomes for affected populations.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Lebanon crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/lebanon
 
---- Report 3: UNHCR (2026-11-03) ---
-The first edition of the Inter-Agency Response Update provides an overview of the evolving humanitarian situation, response efforts, and coordination priorities under the 2026 Lebanon Response Plan (LRP) Addendum. It highlights continued displacement, with over 304,500 people remaining outside their areas of origin, alongside persistent protection risks, damaged infrastructure and restricted humanitarian access, particularly in south Lebanon. The update also outlines ongoing efforts to support displaced households inside and outside collective shelters, facilitate safe and dignified returns, maintain essential services and strengthen winter preparedness. It further examines operational challenges and coordination efforts to address emerging needs amid funding and access constraints.
+--- Report 5: UNFPA (2026-11-17) ---
+The humanitarian situation in Lebanon remains fragile. Continued hostilities, movement restrictions and explosive ordnance contamination in southern Lebanon are limiting access to essential services and hindering safe returns. As of 28 October, 304,520 people remained internally displaced, 53 per cent of whom are women and girls.
+Damage to health facilities, road closures and movement restrictions continue to limit access to care in parts of southern Lebanon. Three hospitals and 21 primary healthcare centres remain closed, while 17 hospitals have sustained damage.
+Since the onset of the crisis on 2 March 2026, UNFPA has reached over 57,000 women and girls with sexual and reproductive health services and more than 56,500 people with gender-based violence prevention and response activities. UNFPA has supported 5,423 women to give birth safely in health facilities, and distributed dignity kits to nearly 37,350 women and adolescent girls.
