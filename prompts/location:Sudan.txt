@@ -1,6 +1,48 @@
 Crisis / situation: Sudan
 
---- Report 1: IOM (2026-11-17) ---
+--- Report 1: WFP (2026-11-19) ---
+In October, WFP assisted 3.4 million people, including 795,000 people in areas at Risk of Famine (RoF).
+
+
+WFP distributed 17,000 mt of food and provided USD 11.1 million in cash-based transfers (CBT).
+
+
+WFP reached 1.4 million people with GFA, 280,000 children and pregnant and breastfeeding women and girls (PBWGs) with nutrition support, 200,000 students with school feeding activities and 18,000 people through resilience and livelihoods activities.
+
+
+In October, WFP made significant gains; in reaching previously difficult-to-access areas, providing in-kind food assistance to 170,000 people in East Darfur and 48,000 in West Kordofan.
+
+
+While funding constraints remain the primary obstacle for implementation of WFP operations, administrative approvals, and logistics constraints continued to impede operations.
+
+
+Fuel shortages and power disruptions also affected transport, silo operations, agricultural activities and programme delivery this month.
+
+--- Report 2: DFS (2026-11-19) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
+
+--- Report 3: DFS (2026-11-19) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
+
+--- Report 4: DFS (2026-11-19) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
+
+--- Report 5: DFS (2026-11-19) ---
+Executive Summary
+The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
+This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
+SituationHub: https://analysis.gannet.ai/sudan
+
+--- Report 6: IOM (2026-11-17) ---
 OVERVIEW
 DTM Sudan defines a returnee as a person who was previously displaced from their habitual residence within Sudan due to an event dating from 2003 onwards and has now voluntarily returned to the location of their habitual residence, irrespective of whether they have returned to their former residence or to another shelter type. DTM Sudan also collects data on individuals who returned to their locality or state of origin, but not their exact location of origin.
 This map is for illustration purposes only. Names and boundaries do not imply official endorsement or acceptance by IOM.
@@ -11,10 +53,3 @@ Kassala (3% increase), Central Darfur (&lt;1% increase), East Darfur (&lt;1% inc
 In terms of specific events triggering displacement in October 2026, field teams reported nine incidents in Blue Nile (5), North Darfur (3), and South Darfur (1). Of the nine incidents, seven were conflict-related incidents, while two events were reportedly related to fires that displaced an estimated 185 individuals. DTM field teams also reported increased movement reportedly linked to water shortages, poor rainfall, crop failures, and limited livelihood opportunities, particularly across North Darfur and South Darfur.
 In addition, returned households were recorded across 84 localities across ten states in October 2026. The vast majority of returned individuals moved back to their habitual residence (93%). A minority returned to other locations near their locations of origin.4 The majority of returns were recorded in Khartoum (2,884,725 returned individuals) and Aj Jazirah (1,312,110 returned individuals). The majority (81%) of returnees moved back from internal displacement, while 19 per cent reportedly returned from abroad. The number of returns increased by two per cent compared to the previous month. This report represents data collected between 30 September and 27 October 2026. It includes extensive data on both IDP and returnee populations, including sections for displaced and returned individuals across each state in Sudan.
 Corresponding datasets, with data on state, locality, and location levels, are available on the DTM-IOM website. For further information, see the DTM Sudan Interactive Displacement Dashboard.
-
---- Report 2: WHO (2026-11-16) ---
-Monthly highlights
-
-WHO supported the first phase of the polio outbreak-response vaccination campaign targeting more than 6 million children under 5 years of age across 12 states, out of the 11 million targeted in 2 phases across all 18 states.
-WHO and partners conducted a reactive oral cholera vaccination campaign in Gharb Bara, North Kordofan, targeting more than 271 000 people amid ongoing cholera transmission and disruptions to essential water and sanitation services.
-WHO strengthened Ebola preparedness in collaboration with national health authorities, including assessments of isolation capacity in Red Sea State that identified critical gaps in infrastructure, equipment and staffing to guide further readiness measures.
