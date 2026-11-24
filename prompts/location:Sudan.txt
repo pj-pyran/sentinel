@@ -1,43 +1,15 @@
 Crisis / situation: Sudan
 
---- Report 1: WFP (2026-11-19) ---
-In October, WFP assisted 3.4 million people, including 795,000 people in areas at Risk of Famine (RoF).
+--- Report 1: UNICEF (2026-11-24) ---
+Highlights
 
+In September, over 29,000 people were newly displaced, while more than 8.5 million remain internally displaced, placing immense pressure on basic services and humanitarian assistance.
+UNICEF enabled 333,500 women and children to access primary healthcare, reached 144,200 people through emergency health services, and supported routine immunization, including 1.2 million children vaccinated with DTP1 and 919,000 with measles vaccine.
+Nutrition interventions expanded, with 139,000 caregivers receiving IYCF counselling and 41,000 cartons of RUTF dispatched for severe acute malnutrition treatment.
+UNICEF reached 7.7 million people with safe water services, 1.4 million children with education opportunities, and 184,784 children with psychosocial support.
+As of 30 September 2026, only 40 per cent (US$382.5 million) of requirements had been secured, leaving a US$580.4 million funding gap, with critical shortfalls persisting in Child Protection, Nutrition, Health and humanitarian supply pipelines.
 
-WFP distributed 17,000 mt of food and provided USD 11.1 million in cash-based transfers (CBT).
-
-
-WFP reached 1.4 million people with GFA, 280,000 children and pregnant and breastfeeding women and girls (PBWGs) with nutrition support, 200,000 students with school feeding activities and 18,000 people through resilience and livelihoods activities.
-
-
-In October, WFP made significant gains; in reaching previously difficult-to-access areas, providing in-kind food assistance to 170,000 people in East Darfur and 48,000 in West Kordofan.
-
-
-While funding constraints remain the primary obstacle for implementation of WFP operations, administrative approvals, and logistics constraints continued to impede operations.
-
-
-Fuel shortages and power disruptions also affected transport, silo operations, agricultural activities and programme delivery this month.
-
---- Report 2: DFS (2026-11-19) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
-
---- Report 3: DFS (2026-11-19) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
-
---- Report 4: DFS (2026-11-19) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
-
---- Report 5: DFS (2026-11-19) ---
-Executive Summary
-The Sudan crisis continues to represent one of the world's most severe humanitarian emergencies, with the conflict between the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) driving unprecedented levels of displacement, violence, and suffering. This GANNET SituationHub report provides a comprehensive analysis of the operational environment and sectoral conditions affecting humanitarian response across Sudan.
-This analysis, produced through GANNET SituationHub's AI-powered platform with human-in-the-loop verification, synthesizes data from thousands of humanitarian sources to provide actionable insights for decision-makers, field teams, and donors responding to the Sudan crisis. The platform's real-time monitoring capabilities enable rapid identification of emerging needs and coordination gaps critical for effective humanitarian response.
-SituationHub: https://analysis.gannet.ai/sudan
+--- Report 2: UNHCR (2026-11-23) ---
+The conflict in Sudan has created a complex displacement and protection crisis. Although over 5.2 million people have returned to areas of origin, there are still an estimated 8.6 million people internally displaced.
+Over 900,000 refugees and asylum-seekers mainly from South Sudan, Ethiopia and Eritrea reside in Sudan, with few solution options available to them. This multifaceted context is increasing pressure on public service delivery.
+UNHCR and partners deliver life-saving assistance and protection through community- based structures and an area-based approach that enables self-reliance.

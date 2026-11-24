@@ -1,9 +1,10 @@
 Crisis / situation: Guatemala: Measles Outbreak - Jan 2026
 
---- Report 1: PAHO (2026-09-14) ---
-Summary of the Situation
-Between epidemiological week (EW) 1 and EW 35 of 2026 (which ended on 5 September 2026), the Region of the Americas reported 52,676 confirmed cases of measles in 17 countries and territories, representing a 3.8-fold increase compared with the same period in 2025. Guatemala (33,334), Mexico (12,848), the United States (3,134), Peru (1,997), and Canada (1,119) account for the vast majority (99.5%) of confirmed cases (Map 1). A total of 61 deaths have been reported, including 41 in Guatemala, 19 in Mexico, and one in Bolivia (1).
-During EW 33 and EW 34 of 2026, the Region of the Americas reported 911 new confirmed cases of measles in six countries and territories, representing a 36.6% decrease compared with the previous two-week period (EW 31–32; 1,436 new cases, of which 274 were retrospectively accounted for since the last regional situation report was published) (Figure 1). Of the 911 new confirmed cases reported during EW 33–34, Guatemala accounted for 350, followed by the United States with 303, Peru with 171, and Mexico with 83 while Bolivia and Canada reported two cases each2.
-
---- Report 2: PAHO (2026-09-14) ---
+--- Report 1: PAHO (2026-11-23) ---
 No summary available.
+
+--- Report 2: PAHO (2026-11-23) ---
+Summary of the Situation
+Between epidemiological week (EW) 1 and EW 45 of 2026 (which ended on 14 November 2026), the Region of the Americas reported 58,795 confirmed cases of measles in 17 countries and territories, representing a 4.7-fold increase compared with the same period in 2025. Guatemala (34,860), Mexico (14,087), the United States (5,412), Peru (2,985), and Canada (1,128) account for the vast majority (99.5%) of confirmed cases (Map 1). A total of 84 deaths has been reported, including 53 in Guatemala, 23 in Mexico, six in the United States of America, one in Peru and one in Bolivia (1).
+During EW 43 and EW 44 of 2026, the Region of the Americas reported 527 new confirmed cases of measles in seven countries and territories (Figure 1). Of the 527 new confirmed cases reported during EW 43–44, the United States accounted for 390, followed by Guatemala 73, Peru with 48, Mexico with nine, Belize with four, Canada with two, and Bolivia with one.
+The 10–13 November meeting of the Regional Commission for the Monitoring and Re-Verification of Measles, Rubella, and Congenital Rubella Syndrome Elimination (RVC) reviewed the epidemiological situation of measles across the Region. Based on the Commission’s assessment and recommendations, which were subsequently endorsed by the Pan American Health Organization (PAHO) Director, Dr. Jarbas Barbosa, endemic measles transmission was determined to have been re-established in Bolivia, Mexico, and the United States, resulting in the loss of measles elimination status in all three countries.
