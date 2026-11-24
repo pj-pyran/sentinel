@@ -1,6 +1,17 @@
 Crisis / situation: Sudan
 
---- Report 1: UNICEF (2026-11-24) ---
+--- Report 1: WHO (2026-11-24) ---
+Sudan’s war has shattered the country and shows little sign of abating, with the crisis driven by prolonged conflict, widespread displacement, food insecurity, disease outbreaks, and the collapse of essential services. Despite some progress in the first half of the year, including reduced overall displacement and modest gains in food security indicators, Sudan’s humanitarian situation remains extremely severe.
+An estimated 19.5 million people, approximately 41% of the population, are currently experiencing Crisis (IPC Phase 3) or worse levels of acute food insecurity. Without immediate action to reverse the current trajectory, the number of children suffering from severe acute malnutrition could exceed the projected 825 000. Anticipated El Niño-related climate shocks could worsen food insecurity and malnutrition and increase risks of cholera and other waterborne diseases, as well as malaria, Rift Valley fever and yellow fever.
+Between 11 January and 15 October 2026, an estimated 119 782 individuals (23 598 households) were displaced from locations across Blue Nile state, placing further strain on health, protection and other essential services. Nearly 12 000 displaced people are sheltering in severely overcrowded schools with limited or no access to sanitation, electricity and other basic services.
+The outlook is increasingly alarming as El Niño is driving severe drought conditions across more than half of Sudan, resulting in crop failures, water deficits, reduced agricultural recovery, declining incomes, and rising cereal prices.
+Before the current conflict, Sudan had already been grappling with violence and displacement since the onset of the Darfur crisis in 2003. Sudan was home to more than 1 million refugees. Sudan has also been heavily impacted by severe weather events linked to climate change, including floods and droughts. These events have adversely affected hundreds of thousands of individuals throughout the country, leading to crop and livestock destruction and exacerbating food insecurity for families.
+
+--- Report 2: UNHCR (2026-11-24) ---
+The refugees and asylum-seekers arrival data is based on the joint border monitoring of RRC, UNHCR and IOM collected at official border points. The data does not include refugees/asylum-seekers who crossed through unofficial border points or at night, when the monitors are not present. This data set excludes South Sudanese returnees and third-country nationals.
+The refugees and asylum-seekers data is comprised of people officially registered at refugee camps/settlements in UNHCR's proGres database. Data on arrivals at border points and presence in camps/settlements may vary due to people crossing at unofficial border points or finding their own way to these sites for registration.
+
+--- Report 3: UNICEF (2026-11-24) ---
 Highlights
 
 In September, over 29,000 people were newly displaced, while more than 8.5 million remain internally displaced, placing immense pressure on basic services and humanitarian assistance.
@@ -9,7 +20,7 @@ Nutrition interventions expanded, with 139,000 caregivers receiving IYCF counsel
 UNICEF reached 7.7 million people with safe water services, 1.4 million children with education opportunities, and 184,784 children with psychosocial support.
 As of 30 September 2026, only 40 per cent (US$382.5 million) of requirements had been secured, leaving a US$580.4 million funding gap, with critical shortfalls persisting in Child Protection, Nutrition, Health and humanitarian supply pipelines.
 
---- Report 2: UNHCR (2026-11-23) ---
+--- Report 4: UNHCR (2026-11-23) ---
 The conflict in Sudan has created a complex displacement and protection crisis. Although over 5.2 million people have returned to areas of origin, there are still an estimated 8.6 million people internally displaced.
 Over 900,000 refugees and asylum-seekers mainly from South Sudan, Ethiopia and Eritrea reside in Sudan, with few solution options available to them. This multifaceted context is increasing pressure on public service delivery.
 UNHCR and partners deliver life-saving assistance and protection through community- based structures and an area-based approach that enables self-reliance.
