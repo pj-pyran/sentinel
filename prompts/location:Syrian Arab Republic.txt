@@ -1,6 +1,19 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: UNHCR (2026-11-24) ---
+--- Report 1: WFP (2026-11-25) ---
+IN NUMBERS
+624,283 people assisted in October
+3,433 mt food dispatched in October
+USD 4.6 M cash transferred in October
+USD 140.6 M required (November 2026 – April 2027)
+3.8 M returnees have arrived in Syria since December 2024 (UNHCR, 2026)
+KEY HIGHLIGHTS
+
+Syria has made notable gains in security, reconstruction, and economic activity, with signs of a re-emerging banking sector and improving stability; however, economic recovery remains slow, fragile, and uneven, and the broader transition will take time.
+Humanitarian needs remain significant despite progress, with 7.2 million people facing acute food insecurity and many returnees confronting damaged homes, limited livelihood opportunities, and overstretched basic services.
+A successful transition and recovery require coordinated international support, including investment in national systems, government capacity, reconstruction, and essential assistance for vulnerable households.
+
+--- Report 2: UNHCR (2026-11-24) ---
 Executive Summary
 Syria continues to experience significant population returns, with more than 1.8 million refugees and 2 million internally displaced persons (IDPs) having returned since December 2024. However, the pace of refugee returns has moderated throughout 2026, declining from over 268,000 in Q1 to approximately 131,000 in Q2 and 117,000 in Q3. Findings from the third quarter highlight persistent challenges affecting recovery and sustainable reintegration, particularly economic hardship, inadequate housing, gaps in civil documentation, limited access to essential services and localized protection risks.
 This report draws on 9,842 household interviews conducted across all 14 governorates and 187 subdistricts, complemented by community consultations. Respondents comprised refugee returnees (45%), IDP returnees (29%) and host community members (26%). Building on three rounds of monitoring in 2026, the report identifies both improvements in selected indicators and persistent vulnerabilities, with variations across population groups and geographical areas.
@@ -16,7 +29,7 @@ Overall, three rounds of protection monitoring in 2026 suggest that improvements
 Advancing durable solutions, including sustainable reintegration for those who have voluntarily returned, requires integrated, area-based and protection-sensitive approaches that connect humanitarian assistance with recovery and longer-term development efforts. Priorities include expanding access to livelihoods and essential services, supporting adequate housing and HLP rights, strengthening civil documentation and access to legal assistance, sustaining community-based psychosocial support, mitigating gender-based violence and child protection risks, and reinforcing explosive ordnance risk education and mine action.
 Continued support to national and local institutions and coordinated service delivery are essential, with UNHCR contributing through protection monitoring, legal assistance, technical engagement, community consultations and coordination with government counterparts and relevant recovery and development actors. These efforts will be critical to creating the conditions necessary for safe, dignified and sustainable reintegration.
 
---- Report 2: Govt. Syria (2026-11-24) ---
+--- Report 3: Govt. Syria (2026-11-24) ---
 SITUATION OVERVIEW
 In October 2026, after receiving initial reports of children with acute flaccid paralysis (AFP) in Deir ez-Zor Governorate, Syria, the Ministry of Health (MoH) mounted a swift response, in coordination with partners.
 Conflict, displacement, interrupted immunization and population movement have created immunity gaps. An unrelated variant VDPV1 detection was reported in wastewater in the area in February 2026.
@@ -35,11 +48,11 @@ COORDINATION OF THE RESPONSE
 The MoH is coordinating national and subnational actors. WHO and UNICEF are mobilizing regional and global technical expertise, while the Global Polio Eradication Initiative (GPEI) provides technical and financial support. World Vision and the International Rescue Committee funded the first two vaccination rounds in October and November 2026.
 Two coordination meetings involving national, regional and global response teams have reviewed the situation and agreed on priorities. The MoH Incident Management Team meets weekly through its Emergency Operations Centre. The remaining 13 governorates in Syria have been advised to intensify surveillance and preparedness. Cross-border coordination is particularly important for Iraq, given population movements and the history of wild poliovirus transmission across this border in 2013.
 
---- Report 3: OCHA (2026-11-23) ---
+--- Report 4: OCHA (2026-11-23) ---
 HIGHLIGHTS
 
 Israeli military activity intensified across southern Syria, with around 280 armed incursions recorded in September alone, increasing protection concerns and affecting civilian movement, agricultural livelihoods and access to services in border communities.
 Agricultural recovery remains at risk despite improved 2026 harvest conditions,with underfunding contributing to emergency agriculture assistance reaching only 12 per cent of its annual target by end-September, even as the 2026–2027 planting season was already underway.
 Food affordability remains a major concern across Syria, with monitored food prices in September 25 per cent higher than a year earlier, while gaps in regular food assistance persisted across some of the country’s highest-severity areas.
 Humanitarian partners reached an average of 2.48 million people per month with humanitarian assistance between January and September 2026, with 325 organizations operating across 5,097 communities.
-The Syria Humanitarian Fund allocated US$5 million to address growing needs in south-west Syria, targeting more than 100,000 people across prioritized areas of Quneitra, Dar’a and Rural Damascus through integrated humanitarian assistance.
+The Syria Humanitarian Fund allocated US$5 million to address growing needs in south-west Syria, targeting more than 77,000 people across prioritized areas of Quneitra, Dar’a and Rural Damascus through integrated humanitarian assistance.

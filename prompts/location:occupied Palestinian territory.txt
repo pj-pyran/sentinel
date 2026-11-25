@@ -1,16 +1,51 @@
 Crisis / situation: occupied Palestinian territory
 
---- Report 1: IOM (2026-11-24) ---
+--- Report 1: UNRWA (2026-11-25) ---
+Highlights
+The Gaza Strip
+
+As reported by OCHA, recent rains affected more than 220,000 people and damaged over 40,000 shelters, 960 latrines, nine health facilities, and a number of temporary learning spaces across the Gaza Strip. While some UNRWA emergency shelters were temporarily used by some newly displaced families, safe alternative shelter remains extremely limited across Gaza, leaving many affected families with nowhere suitable to relocate. Inter-agency estimates assessed that over 5,000 people were reportedly sleeping in the open after the first rainfall.
+The scale of needs continues to exceed the response capacity. Humanitarian partners, including UNRWA, are undertaking drainage, debris clearance and identifying alternative shelter for households in flood-prone sites and unsafe buildings. The response remains constrained by severe shortages of heavy machinery, engine oil and spare parts, pumps, and other essential supplies.
+In partnership with other humanitarian agencies, UNRWA’s teams on the ground are distributing 40,000 winter clothing kits across Gaza, while preparing the distribution of approximately 10,000 tarpaulins and 150 tents to families with the most urgent shelter needs.
+Israeli forces have continued to reinforce positions along the so-called Yellow Line of Israeli control in the Gaza Strip, with increased tank movements and shooting reported across multiple areas. The resulting insecurity has led to temporary suspensions of UNRWA humanitarian and programme activities, particularly in Khan Younis, Bureij, and Maghazi.
+Stray-bullet fire remains a growing protection concern, affecting displaced persons, humanitarian facilities, and operations well beyond areas adjacent to the Yellow Line. During October alone, UNRWA recorded one person killed and 14 injured inside its emergency shelters. The pattern continued in November, with a five-year-old child injured at an UNRWA shelter in Khan Younis during the reporting period.
+On 7 November, a new health centre was established within the Gaza Training Centre to enhance the delivery of essential healthcare services to the population of Gaza City, estimated at more than 670,000 people. Over the reporting period, UNRWA also opened a new temporary learning space at the Rawafid displacement site in northern Rafah, with more than 1,000 children attending in-person education during its first week.
+
+Key Points
+The Gaza Strip
+Fatalities and injuries
+
+Between 7 October 2023 and 15 November 2026, according to the Ministry of Health (MoH), as reported by the Health Cluster, 74,702 Palestinians were killed in the Gaza Strip and another 176,105 were injured. This includes 1,650 fatalities and 6,144 injuries between the announcement of a ceasefire agreement on 10 October 2025 and 15 November 2026.
+UNRWA has recorded 395 colleagues killed in the Gaza Strip since the start of the war (311 UNRWA personnel and 84 persons who were supporting UNRWA[2]), as of 11 November.
+
+Health crisis
+
+Health facilities across Gaza reported a sharp rise in probable meningitis cases since August, with suspected viral cases 2.6 times and bacterial cases 4.1 times higher than the same period in 2025. In response, UNRWA’s health teams are strengthening surveillance and case detection, verifying vaccination status, reinforcing referral arrangements and infection prevention measures, and coordinating closely with the Ministry of Health and health partners. No outbreak has been declared, also pending further analysis.
+
+WASH needs
+
+According to the WASH Cluster’s Light Touch Monitoring Survey, completed in October, 85 per cent of the population of the Gaza Strip are experiencing frequent, unpredictable disruptions in access to safe, clean, and reliable water for daily drinking, cooking, and hygiene. Water insecurity thus remains a significant concern.
+Access to basic hygiene supplies also remained severely constrained, with 76 per cent of households reporting insufficient access to essential hygiene items.
+
+Displacement, site management
+
+UNRWA continues to monitor the movement of displaced persons and displacement sites. A total of 113 UNRWA collective emergency shelters host approximately 60,000 internally displaced persons.
+
+Shelter needs
+
+According to the Shelter Cluster’s latest Fact Sheet of October 2026, an estimated 1.98 million people, representing 94 per cent of the population of the Gaza Strip, require shelter and non-food item assistance.
+
+--- Report 2: IOM (2026-11-24) ---
 SITUATION OVERVIEW
 October marked both one year since the October 2025 ceasefire and three years since the escalation of hostilities. The humanitarian situation in Gaza remains dire and extremely fragile, with humanitarian partners warning that funding shortfalls, combined with ongoing Israeli restrictions, have begun to reverse the gains achieved since the ceasefire was announced. One year on, Israeli military operations have continued and approximately 70 per cent of Gaza remains behind the constantly shifting “Yellow Line”. Most of the population remains displaced in worn-out tents, overcrowded sites and severely damaged buildings, with water and sanitation systems devastated. With the rainy season imminent, conditions are likely to worsen.
 Needs ahead of winter are acute. The Shelter Cluster estimates that 1.98 million people require shelter and non-food item assistance, yet the supplies available can reach fewer than one in five of those needing shelter for winter. Winter shelter requirements remained severely underfunded, with two-thirds of the USD 283 million required still unmet. Structural safety is a growing concern, with OCHA preliminary estimates – supported by IOMled assessments – indicating that more than 4,000 buildings require full or partial demolition and some 44,000 people living in over 2,300 structurally unsafe buildings.
 Briefing the Security Council on 15 October, the UN Acting Special Coordinator for the Middle East Peace Process, Ramiz Alakbarov, reported that, for the fourth consecutive winter, Israeli restrictions on the entry of essential equipment, spare parts, engine oil and other supplies continued to impede humanitarian and recovery efforts, and that partners knew what winter preparedness required but lacked the materials to act at the scale required. Without expanded access, the lifting of Israeli restrictions on critical materials, and adequate funding, humanitarian actors will remain unable to move from emergency relief to the recovery that Gaza urgently needs.
 
---- Report 2: Logistics Cluster (2026-11-23) ---
+--- Report 3: Logistics Cluster (2026-11-23) ---
 Background
 For the last 3 years the situation in Gaza has been marked by conflict, mass displacement, widespread infrastructure destruction and the collapse of essential services. The October 2025 ceasefire enabled some operational improvements but has not secured sustained humanitarian access or civilian safety. Continuing conflict, the activities of military and other armed groups, as well as continuing restrictions around demarcation lines threaten civilians, humanitarian personnel and logistics facilities, and impact access to affected communities. Needs remain extensive across food security, shelter, health and WASH sectors. Winter further compounds these needs: an estimated 294,250 families require shelter assistance, while approximately 950,000 displaced people live in sites at medium or high risk of flooding1 . Funding shortfalls are reducing assistance and limiting partners’ ability to replenish supplies, maintain operational capacity and prepare for seasonal emergencies. Humanitarian logistics remain constrained by heavily damaged infrastructure within Gaza, limited operational entry points into the Strip, complex clearance procedures (particularly for items considered “dual-use”), and intensive cargo inspections upstream. Cargo entering through the limited crossing points (at time of drafting only Kerem Shalom/Karem Abu Salem) depends on tightly coordinated movements; additional scanning, detailed inspections, and repeated handling slow down operations and can lead to delays, congestion and higher costs. Inside Gaza, damaged roads and warehouses, restricted routes, and limited access across the military demarcation line all constrain cargo collection, storage and onward distribution. Shortages of fuel, spare parts, lubricants and maintenance equipment undermine vehicle availability, while unreliable electricity and restrictions on equipment further compromise logistics operations. Airstrikes near warehouses, security incidents along key supply routes, and frequent checks and inspections further disrupt operations. Although transport markets in Jordan and Israel remain functional, substantial logistics gaps persist within Gaza. Predictable access, road rehabilitation, secure temporary storage, reliable transport and fuel, and coordinated cargo movements therefore remain essential to sustaining deliveries and reaching populations with lifesaving assistance at the scale required, particularly as winter conditions further impact operations.
 
---- Report 3: OCHA (2026-11-23) ---
+--- Report 4: OCHA (2026-11-23) ---
 Key Highlights
 
 An Israeli airstrike on Nasser Medical Complex in Khan Younis area of Gaza killed six people and damaged critical surgical facilities, further undermining efforts to restore the Strip’s severely overstretched health system.
