@@ -1,6 +1,11 @@
 Crisis / situation: Syrian Arab Republic
 
---- Report 1: WFP (2026-11-25) ---
+--- Report 1: UNHCR (2026-11-26) ---
+Syria continues to witness large-scale returns of refugees and internally displaced persons (IDPs), alongside persistent humanitarian vulnerabilities and reintegration needs. Since December 2024, more than 1.8 million refugees and 2 million IDPs have returned. Meanwhile, 15.6 million people continue to require humanitarian assistance.
+As returns continue, access to documentation, adequate housing, essential services, livelihoods and community support remains critical to ensuring sustainable reintegration and supporting Syria’s recovery.
+In line with Syria’s National Recovery Priorities and the Government’s “No Tents, No Camps” vision, UNHCR supports return and reintegration efforts while continuing to provide protection and humanitarian assistance to vulnerable populations.
+
+--- Report 2: WFP (2026-11-25) ---
 IN NUMBERS
 624,283 people assisted in October
 3,433 mt food dispatched in October
@@ -13,7 +18,7 @@ Syria has made notable gains in security, reconstruction, and economic activity,
 Humanitarian needs remain significant despite progress, with 7.2 million people facing acute food insecurity and many returnees confronting damaged homes, limited livelihood opportunities, and overstretched basic services.
 A successful transition and recovery require coordinated international support, including investment in national systems, government capacity, reconstruction, and essential assistance for vulnerable households.
 
---- Report 2: UNHCR (2026-11-24) ---
+--- Report 3: UNHCR (2026-11-24) ---
 Executive Summary
 Syria continues to experience significant population returns, with more than 1.8 million refugees and 2 million internally displaced persons (IDPs) having returned since December 2024. However, the pace of refugee returns has moderated throughout 2026, declining from over 268,000 in Q1 to approximately 131,000 in Q2 and 117,000 in Q3. Findings from the third quarter highlight persistent challenges affecting recovery and sustainable reintegration, particularly economic hardship, inadequate housing, gaps in civil documentation, limited access to essential services and localized protection risks.
 This report draws on 9,842 household interviews conducted across all 14 governorates and 187 subdistricts, complemented by community consultations. Respondents comprised refugee returnees (45%), IDP returnees (29%) and host community members (26%). Building on three rounds of monitoring in 2026, the report identifies both improvements in selected indicators and persistent vulnerabilities, with variations across population groups and geographical areas.
@@ -29,7 +34,7 @@ Overall, three rounds of protection monitoring in 2026 suggest that improvements
 Advancing durable solutions, including sustainable reintegration for those who have voluntarily returned, requires integrated, area-based and protection-sensitive approaches that connect humanitarian assistance with recovery and longer-term development efforts. Priorities include expanding access to livelihoods and essential services, supporting adequate housing and HLP rights, strengthening civil documentation and access to legal assistance, sustaining community-based psychosocial support, mitigating gender-based violence and child protection risks, and reinforcing explosive ordnance risk education and mine action.
 Continued support to national and local institutions and coordinated service delivery are essential, with UNHCR contributing through protection monitoring, legal assistance, technical engagement, community consultations and coordination with government counterparts and relevant recovery and development actors. These efforts will be critical to creating the conditions necessary for safe, dignified and sustainable reintegration.
 
---- Report 3: Govt. Syria (2026-11-24) ---
+--- Report 4: Govt. Syria (2026-11-24) ---
 SITUATION OVERVIEW
 In October 2026, after receiving initial reports of children with acute flaccid paralysis (AFP) in Deir ez-Zor Governorate, Syria, the Ministry of Health (MoH) mounted a swift response, in coordination with partners.
 Conflict, displacement, interrupted immunization and population movement have created immunity gaps. An unrelated variant VDPV1 detection was reported in wastewater in the area in February 2026.
