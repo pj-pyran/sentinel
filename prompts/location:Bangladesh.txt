@@ -1,12 +1,18 @@
 Crisis / situation: Bangladesh
 
---- Report 1: HRCBM (2026-11-26) ---
+--- Report 1: WFP (2026-11-27) ---
+KEY HIGHLIGHTS
+
+WFP secured funding through the second US-OCHA tranche will support assistance to 1.2 million Rohingya refugees for only the first four months of 2027. Without further contributions, food assistance pipelines are projected to face interruptions before mid-2027.
+WFP and the Insurance Development and Regulatory Authority (IDRA) agreed to jointly develop Bangladesh's first Climate Risk Insurance and Disaster Risk Financing Policy, a key step towards strengthening national preparedness and financial protection against climate and disaster shocks.
+
+--- Report 2: HRCBM (2026-11-26) ---
 Between 1 January and 31 October 2026, the Human Rights Congress for Bangladesh Minorities (HRCBM) documented 1,445 incidents affecting religious, ethnic, and Indigenous minority communities across all 64 districts and eight administrative divisions of Bangladesh. The Persecution Continues combines national and district-level statistics with representative cases to examine recurring violence, dispossession, and barriers to justice.
 The documented incidents include 286 reported murders and unexplained deaths, 408 attacks on homes, land, and other property, 251 attacks on temples or other religious sites and incidents of religious vandalism, and 30 blasphemy-related incidents across 14 districts. The report also documents missing-person cases, abductions, physical assaults, and sexual violence. These figures are documented minimums. Fear of retaliation, stigma, and barriers to reporting and verification contribute to underreporting, particularly of sexual violence.
 The report examines how disputed allegations of religious insult can lead to arrests and retaliation against families and communities, how land grabbing and intimidation can pressure families to leave their homes, and how delays in registering complaints, inadequate investigations, and threats against victims and witnesses can obstruct access to justice. HRCBM calls for equal protection, impartial investigations, effective remedies, and direct participation by affected communities in transitional justice. It identifies patterns that warrant independent examination as possible crimes against humanity.
 For journalists, researchers, and human rights practitioners, the report provides monthly trends, district-level tables, case accounts, and an explanation of HRCBM’s verification methodology. It also records selected submissions to national and international institutions and the responses known at publication. Please cite the DOI for the version consulted. The Zenodo record provides access to later versions as corrections, additional corroboration, and case developments become available.
 
---- Report 2: UNHCR (2026-11-25) ---
+--- Report 3: UNHCR (2026-11-25) ---
 1. EXECUTIVE SUMMARY
 PROTECTION ENVIRONMENT SNAPSHOT
 The protection environment across the 33 camps and on Bhasan Char further deteriorated in Q3, driven by worsening insecurity and economic hardship. The Protection Sector’s Q3 Joint Protection Monitoring Report, which combines monitoring inputs from seven partners including UNHCR, recorded a 39% increase in serious security incidents from Q2, led by abductions and kidnapping for ransom, alongside rising armed group tensions, recruitment activity and violent assaults. Tighter border controls raised the share of refoulement incidents from 14% in 2025 to 31% in 2026 and, for the first time, affected refugee card holders. Maritime departures more than doubled compared with 2025. Gender-based violence and child protection risks, including child marriage and sexual violence against children, also increased.

@@ -1,6 +1,12 @@
 Crisis / situation: World
 
---- Report 1: Insecurity Insight (2026-11-26) ---
+--- Report 1: UNHCR (2026-11-26) ---
+Highlights
+1. The Central Mediterranean Route recorded a moderate increase in September, driven by sea arrivals to Italy. Italy registered 3,329 arrivals, 11% more than in August, but 60% fewer than in September 2025. Nationality patterns also shifted : compared with September 2025, when Bangladeshis and Egyptians predominated, the September 2026 profile was led by Algerians, Eritreans, Bangladeshis and Somalis.
+2. Arrivals to Spain increased in September, driven by a rise in arrivals to the Canary Islands in the Western Africa Atlantic Route. Spain recorded 4,229 arrivals during the month, 27% more than in August and 24% more than in September 2025. Arrivals along the Western Africa Atlantic Route increased from 488 in August to 1,970 in September, while arrivals to mainland Spain and the Bale aric Islands along the Western Mediterranean Route declined from 2,832 to 2,259. In Algeria, disembarkations following interceptions or rescue operations increased moderately, from 686 in August to 788 in September, but remained below the 1,405 recorded in September 2025. Overall, Spain recorded 24,646 sea and land arrivals between January and September 2026, 10% fewer than during the same period in 2025.
+3. Maritime movements along the South and South -East Asia Route reached their highest level for the first nine months of any year since systematic tracking began in 2022. Around 6,000 maritime movements were recorded between January and September 2026, alongside an estimated 10,700 land movements. The majority of maritime arrivals occurred along routes between Myanmar and Malaysia, while most estimated land movements were t owards Bangladesh .
+
+--- Report 2: Insecurity Insight (2026-11-26) ---
 This News Brief bears testimony to the brave survivors who speak about sexual violence by state bodies or conflict actors. Most events of violence are never reported. This compilation is neither complete nor representative of the extent or nature of sexual violence in general. It brings together dispersed accounts about survivors from around the world who broke the silence. Help support our work by sharing this resource with your networks. Please copy and paste this link: https://bit.ly/Oct2026SV
 Past editions: September; August; July; June; May; April; March; February; January; December: November; All
 Please get in touch if you are interested in curated datasets, if you have made a public statement that you would like us to include in this News Brief, to report an incident or if you have additional information on an incident we have reported on. Visit our website, join our mailing list.
@@ -29,18 +35,3 @@ Haiti
 As reported on 02 October 2026: In Haiti, more than 1,000 women and girls have been raped in 2026 up until 11 September amid the gang violence crisis. Source: Africa News
 As reported on 09 October 2026: In Port-au-Prince city and arrondissement, West department, 2,485 survivors of sexual violence were cared for by Doctors Without Borders (MSF) between January and May 2026, in areas affected by gang conflicts. Source: Le Nouvelliste
 Insecurity Insight. 2026. Reporting Sexual Violence Monthly News Brief, October 2026. Switzerland: Insecurity Insight. https://bit.ly/Oct2026SV
-
---- Report 2: IOM (2026-11-24) ---
-In late 2015, IOM launched a Displacement Tracking Matrix (DTM) Flow Monitoring system, aiming to monitor Mixed Migration Flows to Europe by land and sea. Since then, DTM gathers, validates and disseminates information on migrants and refugees entering Europe through four main routes:
-
-Eastern Mediterranean route (EMR): arrivals by sea and land to Bulgaria, Cyprus and Greece
-Central Mediterranean route (CMR): arrivals by sea to Italy and Malta
-Western Mediterranean route (WMR): arrivals by sea to the Peninsular Coasts of Spain, Balearic Islands, by land to the autonomous cities of Ceuta and Melilla
-Western African Atlantic route (WAAR): arrivals by sea to the Canary Islands of Spain
-
-DTM also monitors data on migrants in transit through the Western Balkan route (WBR), including data from Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, Serbia, and Kosovo (UNSCR 1244, 1999). These are considered separately to prevent, to the extent possible, the double counting of the same people, crossing multiple borders. Finally, DTM compiles data on migrants entering Croatia, Romania and Slovenia by land, typically after having crossed the Western Balkans or Bulgaria.
-This report presents the latest available data and trends, focusing on the third quarter of 2026 and comparing it with the same period in 2025.
-
-In the third quarter of 2026 (Q3 2026), 36,097 migrants arrived in Europe via these four routes. This represents a 42 per cent increase from previous Q2 2026 and a 24 per cent decline compared with Q3 2025. The steepest year-on-year drop was on the CMR (down 59%), followed by the EMR (down 13%). Arrivals were distributed across the CMR to Italy and Malta (24%), the EMR to Greece, Cyprus and Bulgaria (42%), the WMR to Spain (25%), and the WAAR to Spain (9%).
-According to Eurostat, EU+ countries registered over 99,385 new asylum applications in the third quarter of 2026. Although data on asylum applications remain incomplete at the time of writing, France, Italy and Greece are among the highest ranking countries in the EU27+ in Q3 of 2026. Notably, France registered nearly twice as many first-time asylum applications (27,910) than Italy (15,450) did. Between July and September 2026, the main applicants held nationalities from Afghanistan (10%), Bangladesh (7%) and Sudan (6%), comprising nearly a quarter of all applications registered. These groups are followed by Türkiye, and Pakistan, Ukraine, Syrian Arab Republic and Somalia, averaging at around 4 per cent, respectively.
-According to IOM’s MMP, 920 migrants died or went missing at sea while trying to reach Europe through the Mediterranean and Western African Atlantic routes in Q3 of 2026. Of these, 141 perished on the Central Mediterranean, and 350 while trying to cross the Atlantic to reach the Canary Islands. This represents a 6 per cent increase compared to Q3 2025 (871).
